@@ -119,6 +119,9 @@ export default async function FactSheetPage({ params }: Props) {
                 <li key={c.id}>
                   <span className={s.text}>{c.text}</span>
                   {c.source ? <Source source={c.source} /> : <span className={s.noUrl}>Source still to be added.</span>}
+                  {c.moreSources.map((m, j) => (
+                    <Source key={j} source={m} />
+                  ))}
                 </li>
               ))}
             </ol>

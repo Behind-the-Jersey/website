@@ -108,7 +108,7 @@ export interface SponsorRowView {
   money: MoneyFact;
   ownedThrough: string | null;
   /** The first two claims. */
-  evidence: { text: string; source: SourceRef | null }[];
+  evidence: { text: string; source: SourceRef | null; moreSources: SourceRef[] }[];
   verdict: string | null;
 }
 
@@ -156,7 +156,15 @@ function row(ds: Dataset, kit: Kit, ks: KitSponsor, number: number): SponsorRowV
     ownedThrough: owner?.via ?? null,
     evidence: sponsor.claimIds.slice(0, 2).flatMap((id) => {
       const c = ds.byId.claim.get(id);
-      return c ? [{ text: c.text, source: sourceRef(c.source) }] : [];
+      return c
+        ? [
+            {
+              text: c.text,
+              source: sourceRef(c.source),
+              moreSources: (c.additionalSources ?? []).flatMap((x) => sourceRef(x) ?? []),
+            },
+          ]
+        : [];
     }),
     verdict: sponsor.verdict,
   };
@@ -695,7 +703,12 @@ export interface FactSheetSponsor {
   verdict: string | null;
   money: MoneyFact;
   moneySource: { name: string; date: string; url: string | null } | null;
-  claims: { id: string; text: string; source: { name: string; date: string; url: string | null } | null }[];
+  claims: {
+    id: string;
+    text: string;
+    source: { name: string; date: string; url: string | null } | null;
+    moreSources: { name: string; date: string; url: string | null }[];
+  }[];
   why: string | null;
   /** Owner and evidence known, rating on hold. */
   held: boolean;
@@ -757,6 +770,7 @@ export function factSheet(ds: Dataset, clubId: string): FactSheetView | null {
                   id: c.id,
                   text: c.text,
                   source: c.source ? { name: c.source.name, date: c.source.date, url: c.source.url } : null,
+                  moreSources: (c.additionalSources ?? []).map((x) => ({ name: x.name, date: x.date, url: x.url })),
                 },
               ]
             : [];

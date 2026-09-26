@@ -31,7 +31,7 @@ export const TEAM_COPY = {
     /** Not in the design: a sponsor whose owner and evidence we have, but whose rating is on hold. */
     heldLead: 'Not rated yet.',
     heldDetail:
-      'We know who owns {sponsor}, but a person still has to check whether that owner’s record supports a rating.',
+      'We know who owns {sponsor}, but the rating waits until a person has checked the evidence behind it against its sources.',
     unratedDetail:
       'We haven’t traced who owns {sponsor} yet, so there is no rating. A rating only goes up once every claim is sourced.',
     helpLink: 'Help check it →',

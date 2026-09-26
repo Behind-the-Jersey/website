@@ -92,6 +92,9 @@ function Detail({ row, factSheetHref }: { row: SponsorRowView; factSheetHref: st
               <strong>{C.evidenceLead}</strong> {e.text}
             </span>
             {e.source && <SourceLink source={e.source} className={s.evidenceSource} />}
+            {e.moreSources.map((m, j) => (
+              <SourceLink key={j} source={m} className={s.evidenceSource} />
+            ))}
           </div>
         ))}
         {row.evidence.length === 0 && row.verdict && <span className={s.detailText}>{row.verdict}</span>}

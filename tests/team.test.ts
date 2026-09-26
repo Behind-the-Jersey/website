@@ -69,11 +69,25 @@ describe('Arsenal 2026/27', () => {
       {
         text: '43 activists and dissidents were given life sentences in a 2024 mass trial that rights groups called grossly unfair.',
         source: { label: 'Human Rights Watch, Jul 2024', url: null },
+        moreSources: [],
       },
     ]);
     const deel = period('arsenal', '2026-27').rows[1];
     expect(deel.payer).toBeNull();
     expect(deel.money).toEqual({ main: 'Value not disclosed', sub: null });
+  });
+
+  it('lists a claim’s other sources after the first', () => {
+    const k = kit('arsenal-2026-27-home');
+    const claimId = ds.byId.sponsor.get('emirates')!.claimIds[0];
+    const claim = ds.byId.claim.get(claimId)!;
+    const second = { name: 'Amnesty International', date: '2024-07', url: 'https://www.amnesty.org/example-for-test' };
+    const withSecond = {
+      ...ds,
+      byId: { ...ds.byId, claim: new Map(ds.byId.claim).set(claimId, { ...claim, additionalSources: [second] }) },
+    };
+    const row = sponsorRows(withSecond, k, null, { club: 'Arsenal', isPast: false }).rows[0];
+    expect(row.evidence[0].moreSources).toEqual([{ label: 'Amnesty International, Jul 2024', url: second.url }]);
   });
 
   it('asks about Emirates and names Deel for "Help check"', () => {
