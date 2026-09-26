@@ -64,6 +64,22 @@
     }
   },
   {
+    "id": "2026-06-10-real-madrid-emirates",
+    "date": "2026-06-10",
+    "datePrecision": "day",
+    "clubId": "real-madrid",
+    "sponsorId": "emirates",
+    "kind": "renewed",
+    "levelAfter": "stained",
+    "title": "Record Emirates renewal",
+    "text": "Until 2031, reportedly $115m a year: the biggest shirt deal in Europe.",
+    "source": {
+      "name": "SportsPro",
+      "date": "2026-06-10",
+      "url": "https://www.sportspro.com/news/sponsorship-marketing/real-madrid-emirates-record-sponsorship-june-2026/"
+    }
+  },
+  {
     "id": "2026-06-newcastle-sela-ends",
     "date": "2026-06",
     "datePrecision": "month",
@@ -93,22 +109,6 @@
       "name": "SportsPro (citing The Athletic)",
       "date": "2026-07-15",
       "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/"
-    }
-  },
-  {
-    "id": "2026-06-10-real-madrid-emirates",
-    "date": "2026-06-10",
-    "datePrecision": "day",
-    "clubId": "real-madrid",
-    "sponsorId": "emirates",
-    "kind": "renewed",
-    "levelAfter": "stained",
-    "title": "Record Emirates renewal",
-    "text": "Until 2031, reportedly $115m a year: the biggest shirt deal in Europe.",
-    "source": {
-      "name": "SportsPro",
-      "date": "2026-06-10",
-      "url": "https://www.sportspro.com/news/sponsorship-marketing/real-madrid-emirates-record-sponsorship-june-2026/"
     }
   },
   {

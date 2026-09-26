@@ -1,178 +1,166 @@
 # data/live
 
-Built by `npm run data:live` from Beyond-The-Jersey/data `5c4b022` (`normalized/`, updated 2026-09-24) and `data/live-overlay.json`. Don't edit these files by hand: change the data repo or the overlay and rebuild.
+Release `data-2026-09-26-ac811cf` of [Beyond-The-Jersey/data](https://github.com/Beyond-The-Jersey/data), built from `ac811cf`, data updated 2026-09-25. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
 
-331 clubs, 271 kits, 656 sponsors, 490 claims. 24 warnings.
+Compared with the data it replaces (`5c4b022`, updated 2026-09-24):
 
-## Seasons (52)
+| | clubs | kits | sponsors | owners | claims | deals | contacts |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| before | 331 | 271 | 656 | 488 | 490 | 460 | 213 |
+| after | 331 | 271 | 656 | 403 | 339 | 460 | 213 |
 
-- kits/atalanta-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/bologna-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/cagliari-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/como-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/fiorentina-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/frosinone-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/genoa-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/inter-milan-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/juventus-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/lecce-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/ac-milan-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/monza-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/napoli-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/parma-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/as-roma-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/sassuolo-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/torino-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/udinese-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/venezia-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/atlanta-united-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/austin-fc-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/charlotte-fc-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/chicago-fire-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/fc-cincinnati-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/colorado-rapids-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/columbus-crew-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/fc-dallas-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/dc-united-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/houston-dynamo-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/sporting-kansas-city-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/la-galaxy-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/los-angeles-fc-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/inter-miami-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/minnesota-united-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/cf-montreal-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/nashville-sc-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/new-england-revolution-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/new-york-red-bulls-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/new-york-city-fc-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/orlando-city-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/philadelphia-union-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/portland-timbers-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/real-salt-lake-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/san-diego-fc-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/san-jose-earthquakes-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/seattle-sounders-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/st-louis-city-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/toronto-fc-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/vancouver-whitecaps-2026-27-home: periodFrom and periodTo → 2026-27
-- kits/bayern-munich-2022-23-home: periodFrom and periodTo → 2022-23
-- kits/schalke-04-2021-22-home: periodFrom and periodTo → 2021-22
-- kits/lazio-2026-27-home: periodFrom and periodTo → 2026-27
+Review status: 0 claims now checked against their source by a person, 339 no longer marked as checked.
 
-## Ratings resting on guessed claims (29)
+## Owners removed (85)
 
-- sponsors/acrisure: was "none" (Owned by Acrisure LLC. Nothing found.) → not rated yet; owner "acrisure-owner" dropped
-- sponsors/albert: was "none" (Owned by Albert LLC. Nothing found.) → not rated yet; owner "albert-owner" dropped
-- sponsors/ball-corporation: was "none" (Owned by Ball Corporation. Nothing found.) → not rated yet; owner "ball-corporation-owner" dropped
-- sponsors/cleveland-cliffs: was "none" (Owned by Cleveland-Cliffs LLC. Nothing found.) → not rated yet; owner "cleveland-cliffs-owner" dropped
-- sponsors/delta-air-lines: was "none" (Owned by Delta Air Lines LLC. Nothing found.) → not rated yet; owner "delta-air-lines-owner" dropped
-- sponsors/empower: was "none" (Owned by Empower LLC. Nothing found.) → not rated yet; owner "empower-owner" dropped
-- sponsors/fedex: was "none" (Owned by FedEx LLC. Nothing found.) → not rated yet; owner "fedex-owner" dropped
-- sponsors/foundation-building-materials: was "none" (Owned by Foundation Building Materials (FBM) LLC. Nothing found.) → not rated yet; owner "foundation-building-materials-owner" dropped
-- sponsors/globe-life: was "none" (Owned by Globe Life (Globe Life Inc.). Nothing found.) → not rated yet; owner "globe-life-globe-life-inc-owner" dropped
-- sponsors/hard-rock-international: was "none" (Owned by Hard Rock International LLC. Nothing found.) → not rated yet; owner "hard-rock-international-owner" dropped
-- sponsors/ibotta: was "none" (Owned by Ibotta LLC. Nothing found.) → not rated yet; owner "ibotta-owner" dropped
-- sponsors/jefferson-health: was "none" (Owned by Jefferson Health. Nothing found.) → not rated yet; owner "jefferson-health-owner" dropped
-- sponsors/ledger: was "none" (Owned by Ledger LLC. Nothing found.) → not rated yet; owner "ledger-owner" dropped
-- sponsors/loandepot: was "none" (Owned by loanDepot Corporation. Nothing found.) → not rated yet; owner "loandepot-owner" dropped
-- sponsors/lumen-technologies: was "none" (Owned by Lumen Technologies Corporation. Nothing found.) → not rated yet; owner "lumen-technologies-owner" dropped
-- sponsors/metlife: was "none" (Owned by MetLife LLC. Nothing found.) → not rated yet; owner "metlife-owner" dropped
-- sponsors/motorola: was "none" (Owned by Motorola LLC. Nothing found.) → not rated yet; owner "motorola-owner" dropped
-- sponsors/nintendo: was "none" (Owned by Nintendo (Nintendo of America) LLC. Nothing found.) → not rated yet; owner "nintendo-owner" dropped
-- sponsors/nrg-energy: was "none" (Owned by NRG Energy (Reliant brand) LLC. Nothing found.) → not rated yet; owner "nrg-energy-reliant-brand-owner" dropped
-- sponsors/paypal: was "none" (Owned by PayPal LLC. Nothing found.) → not rated yet; owner "paypal-owner" dropped
-- sponsors/quiktrip: was "none" (Owned by QuikTrip LLC. Nothing found.) → not rated yet; owner "quiktrip-owner" dropped
-- sponsors/rocket: was "none" (Owned by Rocket (Rocket Companies) LLC. Nothing found.) → not rated yet; owner "rocket-rocket-companies-owner" dropped
-- sponsors/securian-financial: was "none" (Owned by Securian Financial Corporation. Nothing found.) → not rated yet; owner "securian-financial-owner" dropped
-- sponsors/sofi: was "none" (Owned by SoFi LLC. Nothing found.) → not rated yet; owner "sofi-owner" dropped
-- sponsors/stifel: was "none" (Owned by Stifel Financial Corporation. Nothing found.) → not rated yet; owner "stifel-owner" dropped
-- sponsors/t-mobile: was "none" (Owned by T-Mobile LLC. Nothing found.) → not rated yet; owner "t-mobile-owner" dropped
-- sponsors/toyota: was "none" (Owned by Toyota LLC. Nothing found.) → not rated yet; owner "toyota-owner" dropped
-- sponsors/united-wholesale-mortgage: was "none" (Owned by United Wholesale Mortgage Corporation. Nothing found.) → not rated yet; owner "united-wholesale-mortgage-owner" dropped
-- sponsors/webull: was "none" (Owned by Webull LLC. Nothing found.) → not rated yet; owner "webull-owner" dropped
+- Acrisure LLC (acrisure-owner)
+- Agnelli/Elkann family (agnelli-elkann)
+- Airbnb, Inc. (airbnb-inc)
+- Albert LLC (albert-owner)
+- AMR GP Limited (amr-gp)
+- Aston Martin Lagonda Global Holdings plc (aston-martin-lagonda)
+- Audi AG (audi-ag)
+- Ball Corporation (ball-corporation-owner)
+- Blockratize, Inc. (dba Polymarket) (blockratize)
+- Celer Lighting (celer-lighting)
+- City Football Group (city-football-group)
+- Cleveland-Cliffs LLC (cleveland-cliffs-owner)
+- Corendon Airlines (corendon-airlines)
+- CYVN Holdings (cyvn)
+- Dan Towriss (dan-towriss)
+- Delta Air Lines LLC (delta-air-lines-owner)
+- Deutsche Telekom AG (deutsche-telekom-ag)
+- Dorilton Capital (dorilton)
+- Empower LLC (empower-owner)
+- Exor N.V. (exor-nv)
+- FedEx Corporation (fedex-corporation)
+- FedEx LLC (fedex-owner)
+- Ferrari N.V. (ferrari-nv)
+- Flexicar (flexicar)
+- Foundation Building Materials (FBM) LLC (foundation-building-materials-owner)
+- Gene Haas (gene-haas)
+- General Motors (general-motors)
+- George Kurtz (george-kurtz)
+- Globe Life (Globe Life Inc.) (globe-life-globe-life-inc-owner)
+- Gree Electric Appliances (gree-electric)
+- Haas Automation (haas-automation)
+- Haas Formula LLC (haas-formula)
+- Haier Group Corporation (haier-group)
+- Halo Service Solutions (halo-service-management)
+- HanseMerkur Versicherungsgruppe (hansemerkur)
+- Hard Rock International LLC (hard-rock-international-owner)
+- Ibotta LLC (ibotta-owner)
+- INEOS Industries Holdings (ineos)
+- Jefferson Health (jefferson-health-owner)
+- Koemmerling Kunststoffe (koemmerling-kunststoffe)
+- … and 45 more
 
-## Guessed claims removed (29)
+## Claims removed (151)
 
-- claims/acrisure-owner-record
-- claims/albert-owner-record
-- claims/ball-corporation-owner-record
-- claims/cleveland-cliffs-owner-record
-- claims/delta-air-lines-owner-record
-- claims/empower-owner-record
-- claims/fedex-owner-record
-- claims/foundation-building-materials-owner-record
-- claims/globe-life-globe-life-inc-owner-record
-- claims/hard-rock-international-owner-record
-- claims/ibotta-owner-record
-- claims/jefferson-health-owner-record
-- claims/ledger-owner-record
-- claims/loandepot-owner-record
-- claims/lumen-technologies-owner-record
-- claims/metlife-owner-record
-- claims/motorola-owner-record
-- claims/nintendo-owner-record
-- claims/nrg-energy-reliant-brand-owner-record
-- claims/paypal-owner-record
-- claims/quiktrip-owner-record
-- claims/rocket-rocket-companies-owner-record
-- claims/securian-financial-owner-record
-- claims/sofi-owner-record
-- claims/stifel-owner-record
-- claims/t-mobile-owner-record
-- claims/toyota-owner-record
-- claims/united-wholesale-mortgage-owner-record
-- claims/webull-owner-record
+- paze-2026: Paze (Early Warning Services) is the jersey patch partner of atlanta-hawks for 2026-27.
+- state-farm-2026: State Farm is the arena naming-rights holder of atlanta-hawks for 2026-27.
+- jpmorganchase-2026: JPMorganChase (Chase) is the jersey patch partner of dallas-mavericks for 2026-27.
+- american-airlines-2026: American Airlines is the arena naming-rights holder of dallas-mavericks for 2026-27.
+- albert-2026: Albert is the jersey patch partner of los-angeles-lakers for 2026-27.
+- crypto-com-2026: Crypto.com is the arena naming-rights holder of los-angeles-lakers for 2026-27.
+- experience-abu-dhabi-2026: Experience Abu Dhabi (Dept. of Culture and Tourism - Abu Dhabi) is the jersey patch partner of new-york-knicks for 2026-27.
+- sutter-health-2026: Sutter Health is the jersey patch partner of sacramento-kings for 2026-27.
+- golden-1-credit-union-2026: Golden 1 Credit Union is the arena naming-rights holder of sacramento-kings for 2026-27.
+- att-2026: AT&T is the jersey patch partner of atlanta-falcons for 2026-27.
+- mercedes-benz-2026: Mercedes-Benz is the arena naming-rights holder of atlanta-falcons for 2026-27.
+- eaton-2026: Eaton Corporation is the jersey patch partner of cleveland-browns for 2026-27.
+- huntington-national-bank-2026: Huntington National Bank (Huntington Bancshares) is the arena naming-rights holder of cleveland-browns for 2026-27.
+- ascension-st-vincent-2026: Ascension St. Vincent's is the jersey patch partner of indianapolis-colts for 2026-27.
+- lucas-oil-products-2026: Lucas Oil Products is the arena naming-rights holder of indianapolis-colts for 2026-27.
+- u-s-bank-2026: U.S. Bank is the arena naming-rights holder of minnesota-vikings for 2026-27.
+- acrisure-2026: Acrisure is the arena naming-rights holder of pittsburgh-steelers for 2026-27.
+- avnet-2026: Avnet is the jersey patch partner of arizona-diamondbacks for 2026-27.
+- jpmorgan-chase-2026: JPMorgan Chase (Chase) is the arena naming-rights holder of arizona-diamondbacks for 2026-27.
+- cme-group-2026: CME Group is the jersey patch partner of chicago-white-sox for 2026-27.
+- rate-2026: Rate (formerly Guaranteed Rate) is the arena naming-rights holder of chicago-white-sox for 2026-27.
+- quiktrip-2026: QuikTrip is the jersey patch partner of kansas-city-royals for 2026-27.
+- newyork-presbyterian-2026: NewYork-Presbyterian is the jersey patch partner of new-york-mets for 2026-27.
+- citigroup-2026: Citigroup (Citi) is the arena naming-rights holder of new-york-mets for 2026-27.
+- nintendo-2026: Nintendo (Nintendo of America) is the jersey patch partner of seattle-mariners for 2026-27.
+- t-mobile-2026: T-Mobile is the arena naming-rights holder of seattle-mariners for 2026-27.
+- amica-mutual-insurance-2026: Amica Mutual Insurance is the jersey patch partner of boston-celtics for 2026-27.
+- td-bank-2026: TD Bank is the arena naming-rights holder of boston-celtics for 2026-27.
+- ibotta-2026: Ibotta is the jersey patch partner of denver-nuggets for 2026-27.
+- ball-corporation-2026: Ball Corporation is the arena naming-rights holder of denver-nuggets for 2026-27.
+- robinhood-2026: Robinhood is the jersey patch partner of memphis-grizzlies for 2026-27.
+- fedex-2026: FedEx is the arena naming-rights holder of memphis-grizzlies for 2026-27.
+- loves-travel-stops-2026: Love's Travel Stops & Country Stores is the jersey patch partner of oklahoma-city-thunder for 2026-27.
+- paycom-2026: Paycom is the arena naming-rights holder of oklahoma-city-thunder for 2026-27.
+- ledger-2026: Ledger is the jersey patch partner of san-antonio-spurs for 2026-27.
+- frost-bank-2026: Frost Bank is the arena naming-rights holder of san-antonio-spurs for 2026-27.
+- perdue-farms-2026: Perdue Farms is the jersey patch partner of baltimore-ravens for 2026-27.
+- m-and-t-bank-2026: M&T Bank is the arena naming-rights holder of baltimore-ravens for 2026-27.
+- at-and-t-2026: AT&T is the arena naming-rights holder of dallas-cowboys for 2026-27.
+- dream-finders-homes-2026: Dream Finders Homes is the jersey patch partner of jacksonville-jaguars for 2026-27.
+- … and 111 more
 
-## Dead links removed (30)
+## Claims edited (16)
 
-- claims/saudi-executions-2024: https://www.amnesty.org/en/documents/act50/8800/2025/en/
-- claims/advocate-health-care-owner-record: https://www.advocatehealth.org/about-us
-- claims/highmark-owner-record: https://www.highmarkhealth.org/about-us/index.shtml
-- claims/kaleida-health-owner-record: https://www.kaleidahealth.org/about-us
-- claims/kutxabank-sa-record: https://www.kutxabank.eus/cs/Satellite?blobcol=urldata&blobheadername1=Expires&blobheadervalue4=inline%3B++filename%3D%22Inf+Semestral+KB+consol+30-06-2024_EN.PDF%22
-- claims/mastercard-inc-record: https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.pdf
-- claims/northwest-federal-credit-union-owner-record: https://nwfcu.org/about-us
-- claims/stockx-owner-record: https://bitget.com/wiki/who-owns-stock-x
-- claims/t-rowe-price-owner-record: https://www.sec.gov/Archives/edgar/data/267210/000032081212000031/troweprice-20200930.htm
-- deals/haas-uralkali: https://www.formula1.com/en/latest/article.haas-part-ways-with-title-sponsor-uralkali.4k1m4eFTTTRHEbDwKjHkOs.html
-- kits/monza-2026-27-home: https://www.acmonza.com/en/news/DAZN-Bet-Club-Official-Sponsor-Jersey
-- kits/new-york-red-bulls-2026-27-home: https://www.newyorkredbulls.com/club/partners
-- kits/stade-brestois-29-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/abha-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-ettifaq-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-ettifaq-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-fateh-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-fayha-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-hazem-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-ittihad-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-khaleej-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-kholood-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-qadsiah-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-riyadh-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-shabab-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- kits/al-taawoun-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
-- contacts/fc-dallas: contact-form https://www.fcdallas.com/contact-us
-- contacts/fc-dallas: email customerservice@fcdallas.com
-- contacts/fc-dallas: phone +1 214-705-6700
-- contacts/red-bull-racing: contact-form https://www.redbullracing.com/int-en/club/contacto
+- advocate-health-care-owner-record: Advocate Health Care is a private, nonprofit healthcare system formed by the 2022 merger of Advocate Aurora Health and Atrium Health, with no state ownership or control.
+- amica-mutual-insurance-owner-record: Amica Mutual Insurance Company is the ultimate owner of Amica Mutual Insurance.
+- gov-malaysia-record: Petronas is wholly state-owned - its shares sit with Minister of Finance (Incorporated), a body corporate created by statute - and Malaysia's record (migrant workers in forced labour, refugees in indefinite detention, repressive laws used against dissent) is documented.
+- gov-qatar-record: Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026. Qatar's documented record: migrant workers still exposed to exploitation despite kafala reform, and expression and assembly tightly restricted.
+- gov-saudi-arabia-record: Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%. The Saudi state's documented record includes a record 345 executions in 2024 and drug-offence executions continuing through 2026.
+- highmark-owner-record: Highmark Health is a private, nonprofit integrated health delivery and financing system, parent of Highmark Inc. and Allegheny Health Network, with no state ownership.
+- kaleida-health-owner-record: Kaleida Health is the ultimate owner of Kaleida Health.
+- kutxabank-sa-record: Kutxabank S.A. is controlled 57% by BBK Fundacion Bancaria, 32% by Kutxa and 11% by Vital - the three former Basque savings banks, now private-law banking foundations. A banking foundation is a private entity (not a state or sovereign fund), so Kutxabank's owner is private even though the foundations pursue public-benefit goals.
+- mastercard-inc-record: Mastercard, title partner on the McLaren front, is Mastercard Incorporated (NYSE: MA), a Delaware corporation with a fully dispersed public float; its 10-K notes the Mastercard Foundation's substantial stock ownership as a governance feature, but the Foundation is a private charitable body, not a state. No state stake. Human-rights relevance: payments/fintech conduct and its football sponsorship estate.
+- mubadala-record: G42 is anchor-invested by Mubadala, Abu Dhabi's sovereign wealth fund, and is chaired by Sheikh Tahnoon bin Zayed (ruling family). The UAE's courts have upheld the convictions from an unfair mass trial.
+- northwest-federal-credit-union-owner-record: Northwest Federal Credit Union is a member-owned, not-for-profit financial cooperative chartered under NCUA, with no state ownership or control.
+- pif-record: Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund.
+- saudi-executions-2024: Saudi Arabia carried out a record 345 executions in 2024.
+- state-of-qatar-qia-record: Qatar Airways is wholly owned by the State of Qatar, held through the Qatar Investment Authority sovereign wealth fund, and appears in QIA's domestic portfolio alongside QNB and Ooredoo. There are no private shareholders and no listing.
+- stockx-owner-record: StockX is a privately held e-commerce marketplace that authenticates and resells sneakers, streetwear, watches and collectibles.
+- t-rowe-price-owner-record: T. Rowe Price Group, Inc. is a publicly traded company listed on the NASDAQ under ticker TROW.
 
-## Stale headlines removed (1)
+## Clubs whose kits change (16)
 
-- kits/aston-villa-2025-26-home: "We haven’t rated this shirt yet: nobody has traced who owns Betano or Trade Nation." no longer fits (clean)
+- [Abha](https://behind-the-jersey.org/clubs/abha/)
+- [Al-Ettifaq](https://behind-the-jersey.org/clubs/al-ettifaq/)
+- [Al-Fateh](https://behind-the-jersey.org/clubs/al-fateh/)
+- [Al-Fayha](https://behind-the-jersey.org/clubs/al-fayha/)
+- [Al-Hazem](https://behind-the-jersey.org/clubs/al-hazem/)
+- [Al-Ittihad](https://behind-the-jersey.org/clubs/al-ittihad/)
+- [Al-Khaleej](https://behind-the-jersey.org/clubs/al-khaleej/)
+- [Al-Kholood](https://behind-the-jersey.org/clubs/al-kholood/)
+- [Al-Qadsiah](https://behind-the-jersey.org/clubs/al-qadsiah/)
+- [Al-Riyadh](https://behind-the-jersey.org/clubs/al-riyadh/)
+- [Al-Shabab](https://behind-the-jersey.org/clubs/al-shabab/)
+- [Al-Taawoun](https://behind-the-jersey.org/clubs/al-taawoun/)
+- [Aston Villa](https://behind-the-jersey.org/clubs/aston-villa/)
+- [AC Monza](https://behind-the-jersey.org/clubs/monza/)
+- [New York Red Bulls](https://behind-the-jersey.org/clubs/new-york-red-bulls/)
+- [Stade Brestois 29](https://behind-the-jersey.org/clubs/stade-brestois-29/)
 
-## League status (8)
+## Warnings (25)
 
-- leagues/bundesliga: "not-started" → "partial" (2 of 18 rated)
-- leagues/ligue-1: "not-started" → "partial" (3 of 18 rated)
-- leagues/serie-a: "not-started" → "partial" (2 of 20 rated)
-- leagues/mls: "not-started" → "partial" (3 of 30 rated)
-- leagues/nba: "not-started" → "partial" (24 of 30 rated)
-- leagues/nfl: "not-started" → "partial" (26 of 32 rated)
-- leagues/formula-1: "not-started" → "partial" (10 of 11 rated)
-- leagues/mlb: "not-started" → "partial" (21 of 30 rated)
-
-## Ratings to review (serious or severe, no sourced abuse claim to write a why text from) (3)
-
-- sponsors/gazprom (severe, owner russian-federation): on Schalke 04
-- sponsors/qatar-airways-global (serious, owner state-of-qatar-qia): on no current kit
-- sponsors/valvoline (serious, owner saudi-aramco): on Aston Martin
+- sponsors/aeroflot: why text is a draft
+- sponsors/aramco: why text is a draft
+- sponsors/emirates: why text is a draft
+- sponsors/etihad-airways: why text is a draft
+- sponsors/experience-abu-dhabi: why text is a draft
+- sponsors/g42: why text is a draft
+- sponsors/maaden: why text is a draft
+- sponsors/petronas: why text is a draft
+- sponsors/qatar-airways: why text is a draft
+- sponsors/riyadh-air: why text is a draft
+- sponsors/sela: why text is a draft
+- sponsors/turkish-airlines: why text is a draft
+- sponsors/visit-qatar: why text is a draft
+- sponsors/visit-rwanda: why text is a draft
+- sponsors/visit-saudi: why text is a draft
+- claims/advocate-health-care-owner-record: source "Advocate Health About Us page" has no URL yet
+- claims/amica-mutual-insurance-owner-record: source "Amica Mutual Insurance Company About Us" has no URL yet
+- claims/highmark-owner-record: source "Highmark Health About Us page" has no URL yet
+- claims/kaleida-health-owner-record: source "Kaleida Health About Us" has no URL yet
+- claims/kutxabank-sa-record: source "Kutxabank consolidated interim report 2024 (parent/ownership); El Correo - shareholder breakdown 57/32/11" has no URL yet
+- claims/mastercard-inc-record: source "Mastercard Incorporated Form 10-K for FY2025 (SEC)" has no URL yet
+- claims/northwest-federal-credit-union-owner-record: source "Northwest Federal Credit Union About page" has no URL yet
+- claims/saudi-executions-2024: source "Amnesty International" has no URL yet
+- claims/stockx-owner-record: source "Bitget Wiki article on StockX ownership" has no URL yet
+- claims/t-rowe-price-owner-record: source "SEC 10-K for T. Rowe Price" has no URL yet
