@@ -32,6 +32,10 @@ export const source = z
     note: z.string().optional(),
     /** A short label for small source lines, e.g. 'SportsPro' next to a deal value. */
     short: z.string().optional(),
+    /** Words copied from the page that support the fact (the data repo's CI finds them on the page). */
+    quote: z.string().optional(),
+    /** Who opened the page and confirmed the quote supports the fact, and when. */
+    checked: z.object({ on: z.string(), by: z.string() }).strict().optional(),
   })
   .strict();
 
@@ -153,6 +157,8 @@ export const claim = z
     text: z.string(),
     short: z.string().optional(),
     source: source.nullable(),
+    /** More sources for the same statement, from other publishers. Ratings need two. */
+    additionalSources: z.array(source).optional(),
     reviewed: z.boolean(),
   })
   .strict();
@@ -183,6 +189,9 @@ export const sponsor = z
     /** 'owned by' (default) or 'paid for by', for sentences about the owner. */
     ownerVerb: z.enum(['owned by', 'paid for by']).optional(),
     why: sponsorWhy.optional(),
+    /** Set in releases only: why the rating is held (shown as not rated yet), and the tier it would have. */
+    hold: z.string().optional(),
+    heldTier: tierId.optional(),
   })
   .strict();
 
