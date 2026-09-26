@@ -58,36 +58,6 @@
     "featured": true
   },
   {
-    "id": "schalke-gazprom-2022",
-    "year": 2022,
-    "clubId": "schalke-04",
-    "sponsorId": "gazprom",
-    "what": "Dropped Gazprom",
-    "text": "Took the logo off the shirt within days, then ended a 15-year deal early.",
-    "source": {
-      "name": "RFE/RL",
-      "date": "2022-03",
-      "url": "https://www.rferl.org/a/gazprom-uefa-ferencvaros-hungary-soccer-ukraine-war-schalke/32941442.html",
-      "note": "Schalke cut ties at the same time as UEFA, ending a 15-year front-of-shirt deal."
-    },
-    "featured": true
-  },
-  {
-    "id": "manutd-aeroflot-2022",
-    "year": 2022,
-    "clubId": "manchester-united",
-    "sponsorId": "aeroflot",
-    "what": "Dropped Aeroflot",
-    "text": "Ended the deal early and said it shared fans’ concerns.",
-    "source": {
-      "name": "ESPN",
-      "date": "2022-02-25",
-      "url": "https://www.espn.com/soccer/story/_/id/37625797/man-united-cut-sponsorship-russian-airline-aeroflot-amid-ukraine-invasion",
-      "note": "United withdrew Aeroflot's sponsorship rights and said it shared fans' concerns."
-    },
-    "featured": true
-  },
-  {
     "id": "wwc-visit-saudi-2023",
     "year": 2023,
     "clubId": null,
@@ -104,18 +74,18 @@
     "featured": false
   },
   {
-    "id": "uefa-gazprom-2022",
+    "id": "f1-russian-gp-2022",
     "year": 2022,
     "clubId": null,
-    "orgName": "UEFA",
-    "leagueId": "uefa",
-    "sponsorId": "gazprom",
-    "what": "Dropped Gazprom",
-    "text": "Ended across the Champions League, national-team competitions and Euro 2024.",
+    "orgName": "Formula 1",
+    "leagueId": "formula-1",
+    "sponsorId": null,
+    "what": "Cancelled the Russian Grand Prix",
+    "text": "Race cancelled, then the promoter contract terminated.",
     "source": {
-      "name": "The Athletic, UEFA ends partnership with Gazprom",
-      "date": "2022-02-28",
-      "url": "https://www.nytimes.com/athletic/4181788/2022/02/28/uefa-ends-partnership-with-russian-energy-company-gazprom/"
+      "name": "Sky Sports, Formula 1 terminates Russian GP contract",
+      "date": "2022-03-03",
+      "url": "https://www.skysports.com/f1/news/12433/12556381/formula-1-terminates-russian-gp-contract-in-wake-of-ukraine-invasion"
     },
     "featured": false
   },
@@ -136,18 +106,48 @@
     "featured": false
   },
   {
-    "id": "f1-russian-gp-2022",
+    "id": "manutd-aeroflot-2022",
+    "year": 2022,
+    "clubId": "manchester-united",
+    "sponsorId": "aeroflot",
+    "what": "Dropped Aeroflot",
+    "text": "Ended the deal early and said it shared fans’ concerns.",
+    "source": {
+      "name": "ESPN",
+      "date": "2022-02-25",
+      "url": "https://www.espn.com/soccer/story/_/id/37625797/man-united-cut-sponsorship-russian-airline-aeroflot-amid-ukraine-invasion",
+      "note": "United withdrew Aeroflot's sponsorship rights and said it shared fans' concerns."
+    },
+    "featured": true
+  },
+  {
+    "id": "schalke-gazprom-2022",
+    "year": 2022,
+    "clubId": "schalke-04",
+    "sponsorId": "gazprom",
+    "what": "Dropped Gazprom",
+    "text": "Took the logo off the shirt within days, then ended a 15-year deal early.",
+    "source": {
+      "name": "RFE/RL",
+      "date": "2022-03",
+      "url": "https://www.rferl.org/a/gazprom-uefa-ferencvaros-hungary-soccer-ukraine-war-schalke/32941442.html",
+      "note": "Schalke cut ties at the same time as UEFA, ending a 15-year front-of-shirt deal."
+    },
+    "featured": true
+  },
+  {
+    "id": "uefa-gazprom-2022",
     "year": 2022,
     "clubId": null,
-    "orgName": "Formula 1",
-    "leagueId": "formula-1",
-    "sponsorId": null,
-    "what": "Cancelled the Russian Grand Prix",
-    "text": "Race cancelled, then the promoter contract terminated.",
+    "orgName": "UEFA",
+    "leagueId": "uefa",
+    "sponsorId": "gazprom",
+    "what": "Dropped Gazprom",
+    "text": "Ended across the Champions League, national-team competitions and Euro 2024.",
     "source": {
-      "name": "Sky Sports, Formula 1 terminates Russian GP contract",
-      "date": "2022-03-03",
-      "url": "https://www.skysports.com/f1/news/12433/12556381/formula-1-terminates-russian-gp-contract-in-wake-of-ukraine-invasion"
+      "name": "The Athletic, UEFA ends partnership with Gazprom",
+      "date": "2022-02-28",
+      "url": "https://www.nytimes.com/athletic/4181788/2022/02/28/uefa-ends-partnership-with-russian-energy-company-gazprom/"
     },
     "featured": false
   }

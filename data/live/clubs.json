@@ -1,5 +1,369 @@
 [
   {
+    "id": "abha",
+    "name": "Abha",
+    "shortName": "Abha",
+    "code": "ABH",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/abha.png",
+    "aliases": [
+      "abha club",
+      "abha fc"
+    ]
+  },
+  {
+    "id": "ac-milan",
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "code": "MIL",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/ac-milan.png",
+    "aliases": []
+  },
+  {
+    "id": "aek-athens",
+    "name": "AEK Athens",
+    "shortName": "AEK Athens",
+    "code": "AEK",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Greece",
+    "crest": "assets/crests/aek-athens.png",
+    "aliases": [
+      "aek",
+      "aek fc"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "afc-bournemouth",
+    "name": "AFC Bournemouth",
+    "shortName": "Bournemouth",
+    "code": "BOU",
+    "sportId": "soccer",
+    "leagueId": "premier-league",
+    "country": "England",
+    "crest": "assets/crests/afc-bournemouth.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "aj-auxerre",
+    "name": "AJ Auxerre",
+    "shortName": "Auxerre",
+    "code": "AJA",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/aj-auxerre.png",
+    "aliases": [
+      "auxerre",
+      "association de la jeunesse auxerroise"
+    ]
+  },
+  {
+    "id": "al-ahli",
+    "name": "Al-Ahli",
+    "shortName": "Al-Ahli",
+    "code": "AHL",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-ahli.png",
+    "aliases": [
+      "al ahli saudi",
+      "alahli",
+      "al-ahli saudi fc"
+    ]
+  },
+  {
+    "id": "al-ettifaq",
+    "name": "Al-Ettifaq",
+    "shortName": "Al-Ettifaq",
+    "code": "ETT",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-ettifaq.png",
+    "aliases": [
+      "al ettifaq",
+      "ettifaq"
+    ]
+  },
+  {
+    "id": "al-faisaly",
+    "name": "Al-Faisaly",
+    "shortName": "Al-Faisaly",
+    "code": "FAI",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-faisaly.png",
+    "aliases": [
+      "al faisaly",
+      "faisaly"
+    ]
+  },
+  {
+    "id": "al-fateh",
+    "name": "Al-Fateh",
+    "shortName": "Al-Fateh",
+    "code": "FAT",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-fateh.png",
+    "aliases": [
+      "al fateh",
+      "fateh"
+    ]
+  },
+  {
+    "id": "al-fayha",
+    "name": "Al-Fayha",
+    "shortName": "Al-Fayha",
+    "code": "FAY",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-fayha.png",
+    "aliases": [
+      "al fayha",
+      "fayha"
+    ]
+  },
+  {
+    "id": "al-hazem",
+    "name": "Al-Hazem",
+    "shortName": "Al-Hazem",
+    "code": "HAZ",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-hazem.png",
+    "aliases": [
+      "al hazem",
+      "hazem"
+    ]
+  },
+  {
+    "id": "al-hilal",
+    "name": "Al-Hilal",
+    "shortName": "Al-Hilal",
+    "code": "HIL",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-hilal.png",
+    "aliases": [
+      "al hilal",
+      "hilal",
+      "al hilal sfc"
+    ]
+  },
+  {
+    "id": "al-ittihad",
+    "name": "Al-Ittihad",
+    "shortName": "Al-Ittihad",
+    "code": "ITT",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-ittihad.png",
+    "aliases": [
+      "al ittihad",
+      "ittihad",
+      "al ittihad jeddah"
+    ]
+  },
+  {
+    "id": "al-khaleej",
+    "name": "Al-Khaleej",
+    "shortName": "Al-Khaleej",
+    "code": "KHA",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-khaleej.png",
+    "aliases": [
+      "al khaleej",
+      "khaleej"
+    ]
+  },
+  {
+    "id": "al-kholood",
+    "name": "Al-Kholood",
+    "shortName": "Al-Kholood",
+    "code": "KHO",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-kholood.png",
+    "aliases": [
+      "al kholood",
+      "kholood"
+    ]
+  },
+  {
+    "id": "al-nassr",
+    "name": "Al-Nassr",
+    "shortName": "Al-Nassr",
+    "code": "NAS",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-nassr.png",
+    "aliases": [
+      "al nassr",
+      "nassr"
+    ]
+  },
+  {
+    "id": "al-qadsiah",
+    "name": "Al-Qadsiah",
+    "shortName": "Al-Qadsiah",
+    "code": "QAD",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-qadsiah.png",
+    "aliases": [
+      "al qadsiah",
+      "qadsiah"
+    ]
+  },
+  {
+    "id": "al-riyadh",
+    "name": "Al-Riyadh",
+    "shortName": "Al-Riyadh",
+    "code": "RIY",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-riyadh.png",
+    "aliases": [
+      "al riyadh",
+      "riyadh sc"
+    ]
+  },
+  {
+    "id": "al-shabab",
+    "name": "Al-Shabab",
+    "shortName": "Al-Shabab",
+    "code": "SHB",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-shabab.png",
+    "aliases": [
+      "al shabab",
+      "shabab"
+    ]
+  },
+  {
+    "id": "al-taawoun",
+    "name": "Al-Taawoun",
+    "shortName": "Al-Taawoun",
+    "code": "TAA",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/al-taawoun.png",
+    "aliases": [
+      "al taawoun",
+      "taawoun"
+    ]
+  },
+  {
+    "id": "algeria",
+    "name": "Algeria",
+    "shortName": "Algeria",
+    "code": "ALG",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Algeria",
+    "crest": "assets/crests/algeria.png",
+    "aliases": []
+  },
+  {
+    "id": "alpecin-premier-tech",
+    "name": "Alpecin-Premier Tech",
+    "shortName": "Alpecin",
+    "code": "APC",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "Belgium",
+    "crest": "assets/crests/alpecin-premier-tech.png",
+    "aliases": [
+      "alpecin-deceuninck",
+      "alpecin"
+    ]
+  },
+  {
+    "id": "alpine",
+    "name": "BWT Alpine F1 Team",
+    "shortName": "Alpine",
+    "code": "ALP",
+    "sportId": "motorsport",
+    "leagueId": "formula-1",
+    "country": "United Kingdom",
+    "crest": "assets/crests/alpine.png",
+    "aliases": []
+  },
+  {
+    "id": "angers-sco",
+    "name": "Angers SCO",
+    "shortName": "Angers",
+    "code": "SCO",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/angers-sco.png",
+    "aliases": [
+      "angers",
+      "sco angers"
+    ]
+  },
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "shortName": "Argentina",
+    "code": "ARG",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Argentina",
+    "crest": "assets/crests/argentina.png",
+    "aliases": []
+  },
+  {
+    "id": "arizona-cardinals",
+    "name": "Arizona Cardinals",
+    "shortName": "Cardinals",
+    "code": "ARI",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/arizona-cardinals.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "arizona-diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "shortName": "Diamondbacks",
+    "code": "ARI",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/arizona-diamondbacks.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
     "id": "arsenal",
     "name": "Arsenal",
     "shortName": "Arsenal",
@@ -14,6 +378,42 @@
     ],
     "hasTeamPageDesign": true,
     "contact": null
+  },
+  {
+    "id": "as-monaco",
+    "name": "AS Monaco",
+    "shortName": "Monaco",
+    "code": "ASM",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/as-monaco.png",
+    "aliases": [
+      "monaco",
+      "asm"
+    ]
+  },
+  {
+    "id": "as-roma",
+    "name": "AS Roma",
+    "shortName": "Roma",
+    "code": "ROM",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/as-roma.png",
+    "aliases": []
+  },
+  {
+    "id": "aston-martin",
+    "name": "Aston Martin Aramco F1 Team",
+    "shortName": "Aston Martin",
+    "code": "AST",
+    "sportId": "motorsport",
+    "leagueId": "formula-1",
+    "country": "United Kingdom",
+    "crest": "assets/crests/aston-martin.png",
+    "aliases": []
   },
   {
     "id": "aston-villa",
@@ -32,16 +432,347 @@
     "contact": null
   },
   {
-    "id": "afc-bournemouth",
-    "name": "AFC Bournemouth",
-    "shortName": "Bournemouth",
-    "code": "BOU",
+    "id": "atalanta",
+    "name": "Atalanta BC",
+    "shortName": "Atalanta",
+    "code": "ATA",
     "sportId": "soccer",
-    "leagueId": "premier-league",
-    "country": "England",
-    "crest": "assets/crests/afc-bournemouth.png",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/atalanta.png",
+    "aliases": []
+  },
+  {
+    "id": "athletic-club",
+    "name": "Athletic Club",
+    "shortName": "Athletic Club",
+    "code": "ATH",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/athletic-club.png",
+    "aliases": [
+      "athletic bilbao",
+      "bilbao"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "athletics",
+    "name": "Athletics",
+    "shortName": "Athletics",
+    "code": "ATH",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/athletics.png",
+    "aliases": [
+      "a's",
+      "oakland athletics"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "atlanta-braves",
+    "name": "Atlanta Braves",
+    "shortName": "Braves",
+    "code": "ATL",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/atlanta-braves.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "atlanta-falcons",
+    "name": "Atlanta Falcons",
+    "shortName": "Falcons",
+    "code": "ATL",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/atlanta-falcons.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "atlanta-hawks",
+    "name": "Atlanta Hawks",
+    "shortName": "Hawks",
+    "code": "ATL",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/atlanta-hawks.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "atlanta-united",
+    "name": "Atlanta United FC",
+    "shortName": "Atlanta United",
+    "code": "ATL",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/atlanta-united.png",
+    "aliases": []
+  },
+  {
+    "id": "atletico-de-madrid",
+    "name": "Atlético de Madrid",
+    "shortName": "Atlético",
+    "code": "ATM",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/atletico-de-madrid.png",
+    "aliases": [
+      "atletico",
+      "atleti"
+    ],
+    "hasTeamPageDesign": true,
+    "contact": null
+  },
+  {
+    "id": "audi",
+    "name": "Audi Revolut F1 Team",
+    "shortName": "Audi",
+    "code": "AUD",
+    "sportId": "motorsport",
+    "leagueId": "formula-1",
+    "country": "Germany",
+    "crest": "assets/crests/audi.png",
+    "aliases": []
+  },
+  {
+    "id": "austin-fc",
+    "name": "Austin FC",
+    "shortName": "Austin FC",
+    "code": "ATX",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/austin-fc.png",
+    "aliases": []
+  },
+  {
+    "id": "australia",
+    "name": "Australia",
+    "shortName": "Australia",
+    "code": "AUS",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Australia",
+    "crest": "assets/crests/australia.png",
+    "aliases": []
+  },
+  {
+    "id": "austria",
+    "name": "Austria",
+    "shortName": "Austria",
+    "code": "AUT",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Austria",
+    "crest": "assets/crests/austria.png",
+    "aliases": []
+  },
+  {
+    "id": "bahrain-victorious",
+    "name": "Bahrain Victorious",
+    "shortName": "Bahrain Victorious",
+    "code": "TBV",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "Bahrain",
+    "crest": "assets/crests/bahrain-victorious.png",
+    "aliases": [
+      "bahrain-mclaren",
+      "bahrain-merida",
+      "team-bahrain-victorious"
+    ]
+  },
+  {
+    "id": "baltimore-orioles",
+    "name": "Baltimore Orioles",
+    "shortName": "Orioles",
+    "code": "BAL",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/baltimore-orioles.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "baltimore-ravens",
+    "name": "Baltimore Ravens",
+    "shortName": "Ravens",
+    "code": "BAL",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/baltimore-ravens.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "barcelona",
+    "name": "FC Barcelona",
+    "shortName": "Barcelona",
+    "code": "BAR",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/barcelona.png",
+    "aliases": [
+      "barca",
+      "fcb"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "bayer-leverkusen",
+    "name": "Bayer Leverkusen",
+    "shortName": "Leverkusen",
+    "code": "B04",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
+    "country": "Germany",
+    "crest": "assets/crests/bayer-leverkusen.png",
+    "aliases": [
+      "leverkusen"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "bayern-munich",
+    "name": "Bayern Munich",
+    "shortName": "Bayern Munich",
+    "code": "FCB",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
+    "country": "Germany",
+    "crest": "assets/crests/bayern-munich.png",
+    "aliases": [
+      "fc bayern",
+      "munchen"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "belgium",
+    "name": "Belgium",
+    "shortName": "Belgium",
+    "code": "BEL",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Belgium",
+    "crest": "assets/crests/belgium.png",
+    "aliases": []
+  },
+  {
+    "id": "bodo-glimt",
+    "name": "FK Bodø/Glimt",
+    "shortName": "Bodø/Glimt",
+    "code": "BOD",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Norway",
+    "crest": "assets/crests/bodo-glimt.png",
+    "aliases": [
+      "bodo/glimt",
+      "bodo glimt",
+      "glimt"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "bologna",
+    "name": "Bologna FC 1909",
+    "shortName": "Bologna",
+    "code": "BOL",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/bologna.png",
+    "aliases": []
+  },
+  {
+    "id": "borussia-dortmund",
+    "name": "Borussia Dortmund",
+    "shortName": "Dortmund",
+    "code": "BVB",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
+    "country": "Germany",
+    "crest": "assets/crests/borussia-dortmund.png",
+    "aliases": [
+      "bvb"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "borussia-monchengladbach",
+    "name": "Borussia Moenchengladbach",
+    "shortName": "Gladbach",
+    "code": "BMG",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
+    "country": "Germany",
+    "crest": "assets/crests/borussia-monchengladbach.png",
+    "aliases": [
+      "gladbach"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "bosnia-and-herzegovina",
+    "name": "Bosnia and Herzegovina",
+    "shortName": "Bosnia and Herzegovina",
+    "code": "BIH",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Bosnia and Herzegovina",
+    "crest": "assets/crests/bosnia-and-herzegovina.png",
+    "aliases": []
+  },
+  {
+    "id": "boston-celtics",
+    "name": "Boston Celtics",
+    "shortName": "Celtics",
+    "code": "BOS",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/boston-celtics.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "boston-red-sox",
+    "name": "Boston Red Sox",
+    "shortName": "Red Sox",
+    "code": "BOS",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/boston-red-sox.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "brazil",
+    "name": "Brazil",
+    "shortName": "Brazil",
+    "code": "BRA",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Brazil",
+    "crest": "assets/crests/brazil.png",
+    "aliases": []
   },
   {
     "id": "brentford",
@@ -71,6 +802,134 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "brooklyn-nets",
+    "name": "Brooklyn Nets",
+    "shortName": "Nets",
+    "code": "BKN",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/brooklyn-nets.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "buffalo-bills",
+    "name": "Buffalo Bills",
+    "shortName": "Bills",
+    "code": "BUF",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/buffalo-bills.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "cadillac",
+    "name": "Cadillac Formula 1 Team",
+    "shortName": "Cadillac",
+    "code": "CAD",
+    "sportId": "motorsport",
+    "leagueId": "formula-1",
+    "country": "United States",
+    "crest": "assets/crests/cadillac.png",
+    "aliases": []
+  },
+  {
+    "id": "cagliari",
+    "name": "Cagliari Calcio",
+    "shortName": "Cagliari",
+    "code": "CAG",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/cagliari.png",
+    "aliases": []
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "shortName": "Canada",
+    "code": "CAN",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Canada",
+    "crest": "assets/crests/canada.png",
+    "aliases": []
+  },
+  {
+    "id": "cape-verde",
+    "name": "Cape Verde",
+    "shortName": "Cape Verde",
+    "code": "CPV",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Cape Verde",
+    "crest": "assets/crests/cape-verde.png",
+    "aliases": []
+  },
+  {
+    "id": "carolina-panthers",
+    "name": "Carolina Panthers",
+    "shortName": "Panthers",
+    "code": "CAR",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/carolina-panthers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "celta-vigo",
+    "name": "Celta Vigo",
+    "shortName": "Celta",
+    "code": "CEL",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/celta-vigo.png",
+    "aliases": [
+      "celta"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "cf-montreal",
+    "name": "CF Montreal",
+    "shortName": "CF Montreal",
+    "code": "MTL",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "Canada",
+    "crest": "assets/crests/cf-montreal.png",
+    "aliases": []
+  },
+  {
+    "id": "charlotte-fc",
+    "name": "Charlotte FC",
+    "shortName": "Charlotte FC",
+    "code": "CLT",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/charlotte-fc.png",
+    "aliases": []
+  },
+  {
+    "id": "charlotte-hornets",
+    "name": "Charlotte Hornets",
+    "shortName": "Hornets",
+    "code": "CHA",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/charlotte-hornets.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
     "id": "chelsea",
     "name": "Chelsea",
     "shortName": "Chelsea",
@@ -86,6 +945,195 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "chicago-bears",
+    "name": "Chicago Bears",
+    "shortName": "Bears",
+    "code": "CHI",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/chicago-bears.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "chicago-bulls",
+    "name": "Chicago Bulls",
+    "shortName": "Bulls",
+    "code": "CHI",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/chicago-bulls.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "chicago-cubs",
+    "name": "Chicago Cubs",
+    "shortName": "Cubs",
+    "code": "CHC",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/chicago-cubs.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "chicago-fire",
+    "name": "Chicago Fire FC",
+    "shortName": "Chicago Fire",
+    "code": "CHI",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/chicago-fire.png",
+    "aliases": []
+  },
+  {
+    "id": "chicago-white-sox",
+    "name": "Chicago White Sox",
+    "shortName": "White Sox",
+    "code": "CWS",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/chicago-white-sox.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "cincinnati-bengals",
+    "name": "Cincinnati Bengals",
+    "shortName": "Bengals",
+    "code": "CIN",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/cincinnati-bengals.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "cincinnati-reds",
+    "name": "Cincinnati Reds",
+    "shortName": "Reds",
+    "code": "CIN",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/cincinnati-reds.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "cleveland-browns",
+    "name": "Cleveland Browns",
+    "shortName": "Browns",
+    "code": "CLE",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/cleveland-browns.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "cleveland-cavaliers",
+    "name": "Cleveland Cavaliers",
+    "shortName": "Cavaliers",
+    "code": "CLE",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/cleveland-cavaliers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "cleveland-guardians",
+    "name": "Cleveland Guardians",
+    "shortName": "Guardians",
+    "code": "CLE",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/cleveland-guardians.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "club-brugge",
+    "name": "Club Brugge KV",
+    "shortName": "Club Brugge",
+    "code": "CLB",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Belgium",
+    "crest": "assets/crests/club-brugge.png",
+    "aliases": [
+      "brugge"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "colombia",
+    "name": "Colombia",
+    "shortName": "Colombia",
+    "code": "COL",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Colombia",
+    "crest": "assets/crests/colombia.png",
+    "aliases": []
+  },
+  {
+    "id": "colorado-rapids",
+    "name": "Colorado Rapids",
+    "shortName": "Colorado Rapids",
+    "code": "COL",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/colorado-rapids.png",
+    "aliases": []
+  },
+  {
+    "id": "colorado-rockies",
+    "name": "Colorado Rockies",
+    "shortName": "Rockies",
+    "code": "COL",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/colorado-rockies.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "columbus-crew",
+    "name": "Columbus Crew",
+    "shortName": "Columbus Crew",
+    "code": "CLB",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/columbus-crew.png",
+    "aliases": []
+  },
+  {
+    "id": "como",
+    "name": "Como 1907",
+    "shortName": "Como",
+    "code": "COM",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/como.png",
+    "aliases": []
+  },
+  {
     "id": "coventry-city",
     "name": "Coventry City",
     "shortName": "Coventry",
@@ -98,6 +1146,17 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "croatia",
+    "name": "Croatia",
+    "shortName": "Croatia",
+    "code": "CRO",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Croatia",
+    "crest": "assets/crests/croatia.png",
+    "aliases": []
+  },
+  {
     "id": "crystal-palace",
     "name": "Crystal Palace",
     "shortName": "Palace",
@@ -106,6 +1165,290 @@
     "leagueId": "premier-league",
     "country": "England",
     "crest": "assets/crests/crystal-palace.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "curacao",
+    "name": "Curacao",
+    "shortName": "Curacao",
+    "code": "CUW",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Curaçao",
+    "crest": "assets/crests/curacao.png",
+    "aliases": []
+  },
+  {
+    "id": "czech-republic",
+    "name": "Czech Republic",
+    "shortName": "Czech Republic",
+    "code": "CZE",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Czech Republic",
+    "crest": "assets/crests/czech-republic.png",
+    "aliases": []
+  },
+  {
+    "id": "dallas-cowboys",
+    "name": "Dallas Cowboys",
+    "shortName": "Cowboys",
+    "code": "DAL",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/dallas-cowboys.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "dallas-mavericks",
+    "name": "Dallas Mavericks",
+    "shortName": "Mavericks",
+    "code": "DAL",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/dallas-mavericks.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "dc-united",
+    "name": "D.C. United",
+    "shortName": "D.C. United",
+    "code": "DC",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/dc-united.png",
+    "aliases": []
+  },
+  {
+    "id": "decathlon-cma-cgm",
+    "name": "Decathlon CMA CGM Team",
+    "shortName": "Decathlon CMA CGM",
+    "code": "DCT",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "France",
+    "crest": "assets/crests/decathlon-cma-cgm.png",
+    "aliases": [
+      "ag2r-citroen",
+      "decathlon-ag2r"
+    ]
+  },
+  {
+    "id": "denver-broncos",
+    "name": "Denver Broncos",
+    "shortName": "Broncos",
+    "code": "DEN",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/denver-broncos.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "denver-nuggets",
+    "name": "Denver Nuggets",
+    "shortName": "Nuggets",
+    "code": "DEN",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/denver-nuggets.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "deportivo-alaves",
+    "name": "Deportivo Alaves",
+    "shortName": "Alaves",
+    "code": "ALA",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/deportivo-alaves.png",
+    "aliases": [
+      "alaves"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "deportivo-la-coruna",
+    "name": "Deportivo A Coruna",
+    "shortName": "Deportivo",
+    "code": "DEP",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/deportivo-la-coruna.png",
+    "aliases": [
+      "deportivo"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "detroit-lions",
+    "name": "Detroit Lions",
+    "shortName": "Lions",
+    "code": "DET",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/detroit-lions.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "detroit-pistons",
+    "name": "Detroit Pistons",
+    "shortName": "Pistons",
+    "code": "DET",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/detroit-pistons.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "detroit-tigers",
+    "name": "Detroit Tigers",
+    "shortName": "Tigers",
+    "code": "DET",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/detroit-tigers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "diriyah",
+    "name": "Diriyah Club",
+    "shortName": "Diriyah",
+    "code": "DIR",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/diriyah.png",
+    "aliases": [
+      "al-diriyah",
+      "diriyah club",
+      "al diriyah"
+    ]
+  },
+  {
+    "id": "dr-congo",
+    "name": "DR Congo",
+    "shortName": "DR Congo",
+    "code": "COD",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "DR Congo",
+    "crest": "assets/crests/dr-congo.png",
+    "aliases": []
+  },
+  {
+    "id": "ecuador",
+    "name": "Ecuador",
+    "shortName": "Ecuador",
+    "code": "ECU",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Ecuador",
+    "crest": "assets/crests/ecuador.png",
+    "aliases": []
+  },
+  {
+    "id": "ef-education-easypost",
+    "name": "EF Education-EasyPost",
+    "shortName": "EF Education",
+    "code": "EFE",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "United States",
+    "crest": "assets/crests/ef-education-easypost.png",
+    "aliases": [
+      "ef-education-first",
+      "ef-education"
+    ]
+  },
+  {
+    "id": "egypt",
+    "name": "Egypt",
+    "shortName": "Egypt",
+    "code": "EGY",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Egypt",
+    "crest": "assets/crests/egypt.png",
+    "aliases": []
+  },
+  {
+    "id": "eintracht-frankfurt",
+    "name": "Eintracht Frankfurt",
+    "shortName": "Frankfurt",
+    "code": "SGE",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
+    "country": "Germany",
+    "crest": "assets/crests/eintracht-frankfurt.png",
+    "aliases": [
+      "sge"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "elche",
+    "name": "Elche CF",
+    "shortName": "Elche",
+    "code": "ELC",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/elche.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "england",
+    "name": "England",
+    "shortName": "England",
+    "code": "ENG",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "England",
+    "crest": "assets/crests/england.png",
+    "aliases": []
+  },
+  {
+    "id": "es-troyes-ac",
+    "name": "ES Troyes AC",
+    "shortName": "Troyes",
+    "code": "ESTAC",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/es-troyes-ac.png",
+    "aliases": [
+      "troyes",
+      "estac"
+    ]
+  },
+  {
+    "id": "espanyol",
+    "name": "RCD Espanyol",
+    "shortName": "Espanyol",
+    "code": "ESP",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/espanyol.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -124,6 +1467,139 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "fc-augsburg",
+    "name": "FC Augsburg",
+    "shortName": "Augsburg",
+    "code": "FCA",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
+    "country": "Germany",
+    "crest": "assets/crests/fc-augsburg.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "fc-cincinnati",
+    "name": "FC Cincinnati",
+    "shortName": "FC Cincinnati",
+    "code": "CIN",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/fc-cincinnati.png",
+    "aliases": []
+  },
+  {
+    "id": "fc-dallas",
+    "name": "FC Dallas",
+    "shortName": "FC Dallas",
+    "code": "DAL",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/fc-dallas.png",
+    "aliases": []
+  },
+  {
+    "id": "fc-koln",
+    "name": "1. FC Koeln",
+    "shortName": "Koeln",
+    "code": "KOE",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
+    "country": "Germany",
+    "crest": "assets/crests/fc-koln.png",
+    "aliases": [
+      "koln",
+      "cologne"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "fc-lorient",
+    "name": "FC Lorient",
+    "shortName": "Lorient",
+    "code": "FCL",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/fc-lorient.png",
+    "aliases": [
+      "lorient"
+    ]
+  },
+  {
+    "id": "fenerbahce",
+    "name": "Fenerbahçe",
+    "shortName": "Fenerbahçe",
+    "code": "FEN",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Türkiye",
+    "crest": "assets/crests/fenerbahce.png",
+    "aliases": [
+      "fenerbahce",
+      "fener"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "ferrari",
+    "name": "Scuderia Ferrari HP",
+    "shortName": "Ferrari",
+    "code": "FER",
+    "sportId": "motorsport",
+    "leagueId": "formula-1",
+    "country": "Italy",
+    "crest": "assets/crests/ferrari.png",
+    "aliases": []
+  },
+  {
+    "id": "feyenoord",
+    "name": "Feyenoord",
+    "shortName": "Feyenoord",
+    "code": "FEY",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Netherlands",
+    "crest": "assets/crests/feyenoord.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "fiorentina",
+    "name": "ACF Fiorentina",
+    "shortName": "Fiorentina",
+    "code": "FIO",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/fiorentina.png",
+    "aliases": []
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "shortName": "France",
+    "code": "FRA",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "France",
+    "crest": "assets/crests/france.png",
+    "aliases": []
+  },
+  {
+    "id": "frosinone",
+    "name": "Frosinone Calcio",
+    "shortName": "Frosinone",
+    "code": "FRO",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/frosinone.png",
+    "aliases": []
+  },
+  {
     "id": "fulham",
     "name": "Fulham",
     "shortName": "Fulham",
@@ -132,6 +1608,186 @@
     "leagueId": "premier-league",
     "country": "England",
     "crest": "assets/crests/fulham.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "galatasaray",
+    "name": "Galatasaray",
+    "shortName": "Galatasaray",
+    "code": "GAL",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Türkiye",
+    "crest": "assets/crests/galatasaray.png",
+    "aliases": [
+      "gala"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "genoa",
+    "name": "Genoa CFC",
+    "shortName": "Genoa",
+    "code": "GEN",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/genoa.png",
+    "aliases": []
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "shortName": "Germany",
+    "code": "GER",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Germany",
+    "crest": "assets/crests/germany.png",
+    "aliases": []
+  },
+  {
+    "id": "getafe",
+    "name": "Getafe CF",
+    "shortName": "Getafe",
+    "code": "GET",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/getafe.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "ghana",
+    "name": "Ghana",
+    "shortName": "Ghana",
+    "code": "GHA",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Ghana",
+    "crest": "assets/crests/ghana.png",
+    "aliases": []
+  },
+  {
+    "id": "golden-state-warriors",
+    "name": "Golden State Warriors",
+    "shortName": "Warriors",
+    "code": "GSW",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/golden-state-warriors.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "green-bay-packers",
+    "name": "Green Bay Packers",
+    "shortName": "Packers",
+    "code": "GB",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/green-bay-packers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "groupama-fdj-united",
+    "name": "Groupama-FDJ United",
+    "shortName": "Groupama-FDJ",
+    "code": "GFC",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "France",
+    "crest": "assets/crests/groupama-fdj-united.png",
+    "aliases": [
+      "groupama-fdj",
+      "fdj"
+    ]
+  },
+  {
+    "id": "haas",
+    "name": "TGR Haas F1 Team",
+    "shortName": "Haas",
+    "code": "HAA",
+    "sportId": "motorsport",
+    "leagueId": "formula-1",
+    "country": "United States",
+    "crest": "assets/crests/haas.png",
+    "aliases": []
+  },
+  {
+    "id": "haiti",
+    "name": "Haiti",
+    "shortName": "Haiti",
+    "code": "HAI",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Haiti",
+    "crest": "assets/crests/haiti.png",
+    "aliases": []
+  },
+  {
+    "id": "hamburger-sv",
+    "name": "Hamburger SV",
+    "shortName": "Hamburg",
+    "code": "HSV",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
+    "country": "Germany",
+    "crest": "assets/crests/hamburger-sv.png",
+    "aliases": [
+      "hsv"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "houston-astros",
+    "name": "Houston Astros",
+    "shortName": "Astros",
+    "code": "HOU",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/houston-astros.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "houston-dynamo",
+    "name": "Houston Dynamo FC",
+    "shortName": "Houston Dynamo",
+    "code": "HOU",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/houston-dynamo.png",
+    "aliases": []
+  },
+  {
+    "id": "houston-rockets",
+    "name": "Houston Rockets",
+    "shortName": "Rockets",
+    "code": "HOU",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/houston-rockets.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "houston-texans",
+    "name": "Houston Texans",
+    "shortName": "Texans",
+    "code": "HOU",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/houston-texans.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -148,6 +1804,66 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "indiana-pacers",
+    "name": "Indiana Pacers",
+    "shortName": "Pacers",
+    "code": "IND",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/indiana-pacers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "indianapolis-colts",
+    "name": "Indianapolis Colts",
+    "shortName": "Colts",
+    "code": "IND",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/indianapolis-colts.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "ineos-grenadiers",
+    "name": "INEOS Grenadiers",
+    "shortName": "INEOS Grenadiers",
+    "code": "IGD",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "Great Britain",
+    "crest": "assets/crests/ineos-grenadiers.png",
+    "aliases": [
+      "team-ineos",
+      "netcompany-ineos"
+    ]
+  },
+  {
+    "id": "inter-miami",
+    "name": "Inter Miami CF",
+    "shortName": "Inter Miami",
+    "code": "MIA",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/inter-miami.png",
+    "aliases": []
+  },
+  {
+    "id": "inter-milan",
+    "name": "Inter Milan",
+    "shortName": "Inter",
+    "code": "INT",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/inter-milan.png",
+    "aliases": []
+  },
+  {
     "id": "ipswich-town",
     "name": "Ipswich Town",
     "shortName": "Ipswich",
@@ -158,6 +1874,225 @@
     "crest": "assets/crests/ipswich-town.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "iran",
+    "name": "Iran",
+    "shortName": "Iran",
+    "code": "IRN",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Iran",
+    "crest": "assets/crests/iran.png",
+    "aliases": []
+  },
+  {
+    "id": "iraq",
+    "name": "Iraq",
+    "shortName": "Iraq",
+    "code": "IRQ",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Iraq",
+    "crest": "assets/crests/iraq.png",
+    "aliases": []
+  },
+  {
+    "id": "ivory-coast",
+    "name": "Ivory Coast",
+    "shortName": "Ivory Coast",
+    "code": "CIV",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Ivory Coast",
+    "crest": "assets/crests/ivory-coast.png",
+    "aliases": []
+  },
+  {
+    "id": "jacksonville-jaguars",
+    "name": "Jacksonville Jaguars",
+    "shortName": "Jaguars",
+    "code": "JAX",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/jacksonville-jaguars.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "japan",
+    "name": "Japan",
+    "shortName": "Japan",
+    "code": "JPN",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Japan",
+    "crest": "assets/crests/japan.png",
+    "aliases": []
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan",
+    "shortName": "Jordan",
+    "code": "JOR",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Jordan",
+    "crest": "assets/crests/jordan.png",
+    "aliases": []
+  },
+  {
+    "id": "juventus",
+    "name": "Juventus FC",
+    "shortName": "Juventus",
+    "code": "JUV",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/juventus.png",
+    "aliases": []
+  },
+  {
+    "id": "kansas-city-chiefs",
+    "name": "Kansas City Chiefs",
+    "shortName": "Chiefs",
+    "code": "KC",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/kansas-city-chiefs.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "kansas-city-royals",
+    "name": "Kansas City Royals",
+    "shortName": "Royals",
+    "code": "KC",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/kansas-city-royals.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "la-clippers",
+    "name": "LA Clippers",
+    "shortName": "LA Clippers",
+    "code": "LAC",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/la-clippers.png",
+    "aliases": [
+      "clippers",
+      "nba"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "la-galaxy",
+    "name": "LA Galaxy",
+    "shortName": "LA Galaxy",
+    "code": "LAG",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/la-galaxy.png",
+    "aliases": []
+  },
+  {
+    "id": "la-rams",
+    "name": "Los Angeles Rams",
+    "shortName": "Los Angeles Rams",
+    "code": "LAR",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/la-rams.png",
+    "aliases": [
+      "rams",
+      "nfl"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "las-vegas-raiders",
+    "name": "Las Vegas Raiders",
+    "shortName": "Raiders",
+    "code": "LV",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/las-vegas-raiders.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "lask",
+    "name": "LASK",
+    "shortName": "LASK",
+    "code": "LAS",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Austria",
+    "crest": "assets/crests/lask.png",
+    "aliases": [
+      "linzer ask"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "lazio",
+    "name": "SS Lazio",
+    "shortName": "Lazio",
+    "code": "LAZ",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/lazio.png",
+    "aliases": []
+  },
+  {
+    "id": "le-havre-ac",
+    "name": "Le Havre AC",
+    "shortName": "Le Havre",
+    "code": "HAC",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/le-havre-ac.png",
+    "aliases": [
+      "le havre",
+      "hac"
+    ]
+  },
+  {
+    "id": "le-mans-fc",
+    "name": "Le Mans FC",
+    "shortName": "Le Mans",
+    "code": "LMFC",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/le-mans-fc.png",
+    "aliases": [
+      "le mans",
+      "lmfc"
+    ]
+  },
+  {
+    "id": "lecce",
+    "name": "US Lecce",
+    "shortName": "Lecce",
+    "code": "LEC",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/lecce.png",
+    "aliases": []
   },
   {
     "id": "leeds-united",
@@ -172,6 +2107,74 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "lens",
+    "name": "RC Lens",
+    "shortName": "Lens",
+    "code": "RCL",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "France",
+    "crest": "assets/crests/lens.png",
+    "aliases": [
+      "rc lens",
+      "racing club de lens"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "levante",
+    "name": "Levante UD",
+    "shortName": "Levante",
+    "code": "LEV",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/levante.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "lidl-trek",
+    "name": "Lidl-Trek",
+    "shortName": "Lidl-Trek",
+    "code": "LTK",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "Germany",
+    "crest": "assets/crests/lidl-trek.png",
+    "aliases": [
+      "trek-segafredo"
+    ]
+  },
+  {
+    "id": "lille",
+    "name": "Lille OSC",
+    "shortName": "Lille",
+    "code": "LIL",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "France",
+    "crest": "assets/crests/lille.png",
+    "aliases": [
+      "losc"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "lille-osc",
+    "name": "Lille OSC",
+    "shortName": "Lille",
+    "code": "LOSC",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/lille-osc.png",
+    "aliases": [
+      "lille",
+      "losc"
+    ]
+  },
+  {
     "id": "liverpool",
     "name": "Liverpool",
     "shortName": "Liverpool",
@@ -184,6 +2187,103 @@
       "lfc",
       "reds"
     ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "los-angeles-angels",
+    "name": "Los Angeles Angels",
+    "shortName": "Angels",
+    "code": "LAA",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/los-angeles-angels.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "los-angeles-chargers",
+    "name": "Los Angeles Chargers",
+    "shortName": "Chargers",
+    "code": "LAC",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/los-angeles-chargers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "los-angeles-dodgers",
+    "name": "Los Angeles Dodgers",
+    "shortName": "Dodgers",
+    "code": "LAD",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/los-angeles-dodgers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "los-angeles-fc",
+    "name": "Los Angeles FC",
+    "shortName": "LAFC",
+    "code": "LAFC",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/los-angeles-fc.png",
+    "aliases": []
+  },
+  {
+    "id": "los-angeles-lakers",
+    "name": "Los Angeles Lakers",
+    "shortName": "Lakers",
+    "code": "LAL",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/los-angeles-lakers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "lotto-intermarche",
+    "name": "Lotto Intermarché",
+    "shortName": "Lotto",
+    "code": "LOI",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "Belgium",
+    "crest": "assets/crests/lotto-intermarche.png",
+    "aliases": [
+      "lotto-soudal",
+      "intermarche-wanty"
+    ]
+  },
+  {
+    "id": "mainz-05",
+    "name": "Mainz 05",
+    "shortName": "Mainz",
+    "code": "M05",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
+    "country": "Germany",
+    "crest": "assets/crests/mainz-05.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "malaga",
+    "name": "Malaga CF",
+    "shortName": "Malaga",
+    "code": "MAL",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/malaga.png",
+    "aliases": [],
     "hasTeamPageDesign": false
   },
   {
@@ -217,6 +2317,380 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "mclaren",
+    "name": "McLaren Mastercard F1 Team",
+    "shortName": "McLaren",
+    "code": "MCL",
+    "sportId": "motorsport",
+    "leagueId": "formula-1",
+    "country": "United Kingdom",
+    "crest": "assets/crests/mclaren.png",
+    "aliases": []
+  },
+  {
+    "id": "memphis-grizzlies",
+    "name": "Memphis Grizzlies",
+    "shortName": "Grizzlies",
+    "code": "MEM",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/memphis-grizzlies.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "mercedes",
+    "name": "Mercedes-AMG PETRONAS F1 Team",
+    "shortName": "Mercedes",
+    "code": "MER",
+    "sportId": "motorsport",
+    "leagueId": "formula-1",
+    "country": "United Kingdom",
+    "crest": "assets/crests/mercedes.png",
+    "aliases": []
+  },
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "shortName": "Mexico",
+    "code": "MEX",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Mexico",
+    "crest": "assets/crests/mexico.png",
+    "aliases": []
+  },
+  {
+    "id": "miami-dolphins",
+    "name": "Miami Dolphins",
+    "shortName": "Dolphins",
+    "code": "MIA",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/miami-dolphins.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "miami-heat",
+    "name": "Miami Heat",
+    "shortName": "Heat",
+    "code": "MIA",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/miami-heat.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "miami-marlins",
+    "name": "Miami Marlins",
+    "shortName": "Marlins",
+    "code": "MIA",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/miami-marlins.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "milwaukee-brewers",
+    "name": "Milwaukee Brewers",
+    "shortName": "Brewers",
+    "code": "MIL",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/milwaukee-brewers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "milwaukee-bucks",
+    "name": "Milwaukee Bucks",
+    "shortName": "Bucks",
+    "code": "MIL",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/milwaukee-bucks.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "minnesota-timberwolves",
+    "name": "Minnesota Timberwolves",
+    "shortName": "Timberwolves",
+    "code": "MIN",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/minnesota-timberwolves.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "minnesota-twins",
+    "name": "Minnesota Twins",
+    "shortName": "Twins",
+    "code": "MIN",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/minnesota-twins.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "minnesota-united",
+    "name": "Minnesota United FC",
+    "shortName": "Minnesota United",
+    "code": "MIN",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/minnesota-united.png",
+    "aliases": []
+  },
+  {
+    "id": "minnesota-vikings",
+    "name": "Minnesota Vikings",
+    "shortName": "Vikings",
+    "code": "MIN",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/minnesota-vikings.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "monza",
+    "name": "AC Monza",
+    "shortName": "Monza",
+    "code": "MON",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/monza.png",
+    "aliases": []
+  },
+  {
+    "id": "morocco",
+    "name": "Morocco",
+    "shortName": "Morocco",
+    "code": "MAR",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Morocco",
+    "crest": "assets/crests/morocco.png",
+    "aliases": []
+  },
+  {
+    "id": "movistar",
+    "name": "Movistar Team",
+    "shortName": "Movistar",
+    "code": "MOV",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "Spain",
+    "crest": "assets/crests/movistar.png",
+    "aliases": [
+      "movistar-team"
+    ]
+  },
+  {
+    "id": "napoli",
+    "name": "SSC Napoli",
+    "shortName": "Napoli",
+    "code": "NAP",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/napoli.png",
+    "aliases": []
+  },
+  {
+    "id": "nashville-sc",
+    "name": "Nashville SC",
+    "shortName": "Nashville SC",
+    "code": "NSH",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/nashville-sc.png",
+    "aliases": []
+  },
+  {
+    "id": "neom",
+    "name": "NEOM SC",
+    "shortName": "NEOM",
+    "code": "NEO",
+    "sportId": "soccer",
+    "leagueId": "saudi-pro-league",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/neom.png",
+    "aliases": [
+      "neom",
+      "neom sc"
+    ]
+  },
+  {
+    "id": "netherlands",
+    "name": "Netherlands",
+    "shortName": "Netherlands",
+    "code": "NED",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Netherlands",
+    "crest": "assets/crests/netherlands.png",
+    "aliases": []
+  },
+  {
+    "id": "new-england-patriots",
+    "name": "New England Patriots",
+    "shortName": "Patriots",
+    "code": "NE",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/new-england-patriots.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "new-england-revolution",
+    "name": "New England Revolution",
+    "shortName": "New England Revolution",
+    "code": "NE",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/new-england-revolution.png",
+    "aliases": []
+  },
+  {
+    "id": "new-orleans-pelicans",
+    "name": "New Orleans Pelicans",
+    "shortName": "Pelicans",
+    "code": "NOP",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/new-orleans-pelicans.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "new-orleans-saints",
+    "name": "New Orleans Saints",
+    "shortName": "Saints",
+    "code": "NO",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/new-orleans-saints.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "new-york-city-fc",
+    "name": "New York City FC",
+    "shortName": "NYCFC",
+    "code": "NYC",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/new-york-city-fc.png",
+    "aliases": []
+  },
+  {
+    "id": "new-york-giants",
+    "name": "New York Giants",
+    "shortName": "Giants",
+    "code": "NYG",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/new-york-giants.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "new-york-jets",
+    "name": "New York Jets",
+    "shortName": "Jets",
+    "code": "NYJ",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/new-york-jets.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "new-york-knicks",
+    "name": "New York Knicks",
+    "shortName": "Knicks",
+    "code": "NYK",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/new-york-knicks.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "new-york-mets",
+    "name": "New York Mets",
+    "shortName": "Mets",
+    "code": "NYM",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/new-york-mets.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "new-york-red-bulls",
+    "name": "New York Red Bulls",
+    "shortName": "NY Red Bulls",
+    "code": "RBNY",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/new-york-red-bulls.png",
+    "aliases": []
+  },
+  {
+    "id": "new-york-yankees",
+    "name": "New York Yankees",
+    "shortName": "Yankees",
+    "code": "NYY",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/new-york-yankees.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "new-zealand",
+    "name": "New Zealand",
+    "shortName": "New Zealand",
+    "code": "NZL",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "New Zealand",
+    "crest": "assets/crests/new-zealand.png",
+    "aliases": []
+  },
+  {
     "id": "newcastle-united",
     "name": "Newcastle United",
     "shortName": "Newcastle",
@@ -232,6 +2706,17 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "norway",
+    "name": "Norway",
+    "shortName": "Norway",
+    "code": "NOR",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Norway",
+    "crest": "assets/crests/norway.png",
+    "aliases": []
+  },
+  {
     "id": "nottingham-forest",
     "name": "Nottingham Forest",
     "shortName": "Forest",
@@ -244,6 +2729,873 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "nsn-cycling-team",
+    "name": "NSN Cycling Team",
+    "shortName": "NSN",
+    "code": "NSN",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "Switzerland",
+    "crest": "assets/crests/nsn-cycling-team.png",
+    "aliases": [
+      "israel-premier-tech",
+      "israel-start-up-nation"
+    ]
+  },
+  {
+    "id": "ogc-nice",
+    "name": "OGC Nice",
+    "shortName": "Nice",
+    "code": "OGCN",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/ogc-nice.png",
+    "aliases": [
+      "nice",
+      "ogc nice",
+      "le gym"
+    ]
+  },
+  {
+    "id": "oklahoma-city-thunder",
+    "name": "Oklahoma City Thunder",
+    "shortName": "Thunder",
+    "code": "OKC",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/oklahoma-city-thunder.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "olympique-de-marseille",
+    "name": "Olympique de Marseille",
+    "shortName": "Marseille",
+    "code": "OM",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/olympique-de-marseille.png",
+    "aliases": [
+      "marseille",
+      "om"
+    ]
+  },
+  {
+    "id": "olympique-lyonnais",
+    "name": "Olympique Lyonnais",
+    "shortName": "Lyon",
+    "code": "OL",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/olympique-lyonnais.png",
+    "aliases": [
+      "lyon",
+      "ol"
+    ]
+  },
+  {
+    "id": "orlando-city",
+    "name": "Orlando City SC",
+    "shortName": "Orlando City",
+    "code": "ORL",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/orlando-city.png",
+    "aliases": []
+  },
+  {
+    "id": "orlando-magic",
+    "name": "Orlando Magic",
+    "shortName": "Magic",
+    "code": "ORL",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/orlando-magic.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "osasuna",
+    "name": "CA Osasuna",
+    "shortName": "Osasuna",
+    "code": "OSA",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/osasuna.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "panama",
+    "name": "Panama",
+    "shortName": "Panama",
+    "code": "PAN",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Panama",
+    "crest": "assets/crests/panama.png",
+    "aliases": []
+  },
+  {
+    "id": "paraguay",
+    "name": "Paraguay",
+    "shortName": "Paraguay",
+    "code": "PAR",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Paraguay",
+    "crest": "assets/crests/paraguay.png",
+    "aliases": []
+  },
+  {
+    "id": "paris-fc",
+    "name": "Paris FC",
+    "shortName": "Paris FC",
+    "code": "PFC",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/paris-fc.png",
+    "aliases": [
+      "paris fc",
+      "pfc"
+    ]
+  },
+  {
+    "id": "paris-saint-germain",
+    "name": "Paris Saint-Germain",
+    "shortName": "PSG",
+    "code": "PSG",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/paris-saint-germain.png",
+    "aliases": [
+      "psg",
+      "paris"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "parma",
+    "name": "Parma Calcio 1913",
+    "shortName": "Parma",
+    "code": "PAR",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/parma.png",
+    "aliases": []
+  },
+  {
+    "id": "philadelphia-76ers",
+    "name": "Philadelphia 76ers",
+    "shortName": "76ers",
+    "code": "PHI",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/philadelphia-76ers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "philadelphia-eagles",
+    "name": "Philadelphia Eagles",
+    "shortName": "Eagles",
+    "code": "PHI",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/philadelphia-eagles.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "philadelphia-phillies",
+    "name": "Philadelphia Phillies",
+    "shortName": "Phillies",
+    "code": "PHI",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/philadelphia-phillies.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "philadelphia-union",
+    "name": "Philadelphia Union",
+    "shortName": "Philadelphia Union",
+    "code": "PHI",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/philadelphia-union.png",
+    "aliases": []
+  },
+  {
+    "id": "phoenix-suns",
+    "name": "Phoenix Suns",
+    "shortName": "Suns",
+    "code": "PHX",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/phoenix-suns.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "pittsburgh-pirates",
+    "name": "Pittsburgh Pirates",
+    "shortName": "Pirates",
+    "code": "PIT",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/pittsburgh-pirates.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "pittsburgh-steelers",
+    "name": "Pittsburgh Steelers",
+    "shortName": "Steelers",
+    "code": "PIT",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/pittsburgh-steelers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "portland-timbers",
+    "name": "Portland Timbers",
+    "shortName": "Portland Timbers",
+    "code": "POR",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/portland-timbers.png",
+    "aliases": []
+  },
+  {
+    "id": "portland-trail-blazers",
+    "name": "Portland Trail Blazers",
+    "shortName": "Trail Blazers",
+    "code": "POR",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/portland-trail-blazers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "porto",
+    "name": "FC Porto",
+    "shortName": "Porto",
+    "code": "POR",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Portugal",
+    "crest": "assets/crests/porto.png",
+    "aliases": [
+      "fc porto"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "shortName": "Portugal",
+    "code": "POR",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Portugal",
+    "crest": "assets/crests/portugal.png",
+    "aliases": []
+  },
+  {
+    "id": "psv",
+    "name": "PSV Eindhoven",
+    "shortName": "PSV",
+    "code": "PSV",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Netherlands",
+    "crest": "assets/crests/psv.png",
+    "aliases": [
+      "psv eindhoven"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "qatar",
+    "name": "Qatar",
+    "shortName": "Qatar",
+    "code": "QAT",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Qatar",
+    "crest": "assets/crests/qatar.png",
+    "aliases": []
+  },
+  {
+    "id": "racing-bulls",
+    "name": "Visa Cash App Racing Bulls F1 Team",
+    "shortName": "Racing Bulls",
+    "code": "RB",
+    "sportId": "motorsport",
+    "leagueId": "formula-1",
+    "country": "Italy",
+    "crest": "assets/crests/racing-bulls.png",
+    "aliases": []
+  },
+  {
+    "id": "racing-santander",
+    "name": "Racing Santander",
+    "shortName": "Racing",
+    "code": "RAC",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/racing-santander.png",
+    "aliases": [
+      "racing"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "rayo-vallecano",
+    "name": "Rayo Vallecano",
+    "shortName": "Rayo",
+    "code": "RAY",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/rayo-vallecano.png",
+    "aliases": [
+      "rayo"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "rb-leipzig",
+    "name": "RB Leipzig",
+    "shortName": "Leipzig",
+    "code": "RBL",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
+    "country": "Germany",
+    "crest": "assets/crests/rb-leipzig.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "rc-lens",
+    "name": "RC Lens",
+    "shortName": "Lens",
+    "code": "RCL",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/rc-lens.png",
+    "aliases": [
+      "lens",
+      "racing club de lens"
+    ]
+  },
+  {
+    "id": "rc-strasbourg",
+    "name": "RC Strasbourg Alsace",
+    "shortName": "Strasbourg",
+    "code": "RCSA",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/rc-strasbourg.png",
+    "aliases": [
+      "strasbourg",
+      "rcsa"
+    ]
+  },
+  {
+    "id": "real-betis",
+    "name": "Real Betis",
+    "shortName": "Betis",
+    "code": "BET",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/real-betis.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "real-madrid",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid",
+    "code": "RMA",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/real-madrid.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "real-salt-lake",
+    "name": "Real Salt Lake",
+    "shortName": "Real Salt Lake",
+    "code": "RSL",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/real-salt-lake.png",
+    "aliases": []
+  },
+  {
+    "id": "real-sociedad",
+    "name": "Real Sociedad",
+    "shortName": "Real Sociedad",
+    "code": "RSO",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/real-sociedad.png",
+    "aliases": [
+      "la real"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "red-bull-bora-hansgrohe",
+    "name": "Red Bull-Bora-Hansgrohe",
+    "shortName": "Red Bull-Bora",
+    "code": "RBH",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "Germany",
+    "crest": "assets/crests/red-bull-bora-hansgrohe.png",
+    "aliases": [
+      "bora-hansgrohe"
+    ]
+  },
+  {
+    "id": "red-bull-racing",
+    "name": "Oracle Red Bull Racing",
+    "shortName": "Red Bull Racing",
+    "code": "RBR",
+    "sportId": "motorsport",
+    "leagueId": "formula-1",
+    "country": "United Kingdom",
+    "crest": "assets/crests/red-bull-racing.png",
+    "aliases": []
+  },
+  {
+    "id": "sabah",
+    "name": "Sabah FK",
+    "shortName": "Sabah",
+    "code": "SAB",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Azerbaijan",
+    "crest": "assets/crests/sabah.png",
+    "aliases": [
+      "sabah fk",
+      "sabah baku"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "sacramento-kings",
+    "name": "Sacramento Kings",
+    "shortName": "Kings",
+    "code": "SAC",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/sacramento-kings.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "san-antonio-spurs",
+    "name": "San Antonio Spurs",
+    "shortName": "Spurs",
+    "code": "SAS",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/san-antonio-spurs.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "san-diego-fc",
+    "name": "San Diego FC",
+    "shortName": "San Diego FC",
+    "code": "SD",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/san-diego-fc.png",
+    "aliases": []
+  },
+  {
+    "id": "san-diego-padres",
+    "name": "San Diego Padres",
+    "shortName": "Padres",
+    "code": "SD",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/san-diego-padres.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "san-francisco-49ers",
+    "name": "San Francisco 49ers",
+    "shortName": "49ers",
+    "code": "SF",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/san-francisco-49ers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "san-francisco-giants",
+    "name": "San Francisco Giants",
+    "shortName": "Giants",
+    "code": "SF",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/san-francisco-giants.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "san-jose-earthquakes",
+    "name": "San Jose Earthquakes",
+    "shortName": "San Jose Earthquakes",
+    "code": "SJ",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/san-jose-earthquakes.png",
+    "aliases": []
+  },
+  {
+    "id": "sassuolo",
+    "name": "US Sassuolo",
+    "shortName": "Sassuolo",
+    "code": "SAS",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/sassuolo.png",
+    "aliases": []
+  },
+  {
+    "id": "saudi-arabia",
+    "name": "Saudi Arabia",
+    "shortName": "Saudi Arabia",
+    "code": "KSA",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Saudi Arabia",
+    "crest": "assets/crests/saudi-arabia.png",
+    "aliases": []
+  },
+  {
+    "id": "sc-freiburg",
+    "name": "SC Freiburg",
+    "shortName": "Freiburg",
+    "code": "SCF",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
+    "country": "Germany",
+    "crest": "assets/crests/sc-freiburg.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "sc-paderborn-07",
+    "name": "SC Paderborn",
+    "shortName": "Paderborn",
+    "code": "SCP",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
+    "country": "Germany",
+    "crest": "assets/crests/sc-paderborn-07.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "schalke-04",
+    "name": "Schalke 04",
+    "shortName": "Schalke 04",
+    "code": "S04",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
+    "country": "Germany",
+    "crest": "assets/crests/schalke-04.png",
+    "aliases": [
+      "schalke"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "scotland",
+    "name": "Scotland",
+    "shortName": "Scotland",
+    "code": "SCO",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Scotland",
+    "crest": "assets/crests/scotland.png",
+    "aliases": []
+  },
+  {
+    "id": "seattle-mariners",
+    "name": "Seattle Mariners",
+    "shortName": "Mariners",
+    "code": "SEA",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/seattle-mariners.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "seattle-seahawks",
+    "name": "Seattle Seahawks",
+    "shortName": "Seahawks",
+    "code": "SEA",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/seattle-seahawks.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "seattle-sounders",
+    "name": "Seattle Sounders FC",
+    "shortName": "Seattle Sounders",
+    "code": "SEA",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/seattle-sounders.png",
+    "aliases": []
+  },
+  {
+    "id": "senegal",
+    "name": "Senegal",
+    "shortName": "Senegal",
+    "code": "SEN",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Senegal",
+    "crest": "assets/crests/senegal.png",
+    "aliases": []
+  },
+  {
+    "id": "sevilla",
+    "name": "Sevilla FC",
+    "shortName": "Sevilla",
+    "code": "SEV",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/sevilla.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "shakhtar-donetsk",
+    "name": "Shakhtar Donetsk",
+    "shortName": "Shakhtar",
+    "code": "SHA",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Ukraine",
+    "crest": "assets/crests/shakhtar-donetsk.png",
+    "aliases": [
+      "shakhtar"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "slavia-praha",
+    "name": "Slavia Praha",
+    "shortName": "Slavia Praha",
+    "code": "SLA",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Czechia",
+    "crest": "assets/crests/slavia-praha.png",
+    "aliases": [
+      "slavia prague"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "slovan-bratislava",
+    "name": "ŠK Slovan Bratislava",
+    "shortName": "Slovan Bratislava",
+    "code": "SLO",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Slovakia",
+    "crest": "assets/crests/slovan-bratislava.png",
+    "aliases": [
+      "slovan",
+      "belasí"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "soudal-quick-step",
+    "name": "Soudal Quick-Step",
+    "shortName": "Soudal Quick-Step",
+    "code": "SOQ",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "Belgium",
+    "crest": "assets/crests/soudal-quick-step.png",
+    "aliases": [
+      "quick-step",
+      "soudal-quickstep"
+    ]
+  },
+  {
+    "id": "south-africa",
+    "name": "South Africa",
+    "shortName": "South Africa",
+    "code": "RSA",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "South Africa",
+    "crest": "assets/crests/south-africa.png",
+    "aliases": []
+  },
+  {
+    "id": "south-korea",
+    "name": "South Korea",
+    "shortName": "South Korea",
+    "code": "KOR",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "South Korea",
+    "crest": "assets/crests/south-korea.png",
+    "aliases": []
+  },
+  {
+    "id": "spain",
+    "name": "Spain",
+    "shortName": "Spain",
+    "code": "ESP",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Spain",
+    "crest": "assets/crests/spain.png",
+    "aliases": []
+  },
+  {
+    "id": "sporting-cp",
+    "name": "Sporting CP",
+    "shortName": "Sporting",
+    "code": "SCP",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Portugal",
+    "crest": "assets/crests/sporting-cp.png",
+    "aliases": [
+      "sporting lisbon",
+      "sporting"
+    ],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "sporting-kansas-city",
+    "name": "Sporting Kansas City",
+    "shortName": "Sporting KC",
+    "code": "SKC",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/sporting-kansas-city.png",
+    "aliases": []
+  },
+  {
+    "id": "st-louis-cardinals",
+    "name": "St. Louis Cardinals",
+    "shortName": "Cardinals",
+    "code": "STL",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/st-louis-cardinals.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "st-louis-city",
+    "name": "St. Louis CITY SC",
+    "shortName": "St. Louis City",
+    "code": "STL",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "USA",
+    "crest": "assets/crests/st-louis-city.png",
+    "aliases": []
+  },
+  {
+    "id": "stade-brestois-29",
+    "name": "Stade Brestois 29",
+    "shortName": "Brest",
+    "code": "SB29",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/stade-brestois-29.png",
+    "aliases": [
+      "brest",
+      "sb29"
+    ]
+  },
+  {
+    "id": "stade-rennais",
+    "name": "Stade Rennais FC",
+    "shortName": "Rennes",
+    "code": "SRFC",
+    "sportId": "soccer",
+    "leagueId": "ligue-1",
+    "country": "France",
+    "crest": "assets/crests/stade-rennais.png",
+    "aliases": [
+      "rennes",
+      "srfc"
+    ]
+  },
+  {
     "id": "sunderland",
     "name": "Sunderland",
     "shortName": "Sunderland",
@@ -252,6 +3604,176 @@
     "leagueId": "premier-league",
     "country": "England",
     "crest": "assets/crests/sunderland.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "sv-elversberg",
+    "name": "SV Elversberg",
+    "shortName": "Elversberg",
+    "code": "ELV",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
+    "country": "Germany",
+    "crest": "assets/crests/sv-elversberg.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "sweden",
+    "name": "Sweden",
+    "shortName": "Sweden",
+    "code": "SWE",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Sweden",
+    "crest": "assets/crests/sweden.png",
+    "aliases": []
+  },
+  {
+    "id": "switzerland",
+    "name": "Switzerland",
+    "shortName": "Switzerland",
+    "code": "SUI",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Switzerland",
+    "crest": "assets/crests/switzerland.png",
+    "aliases": []
+  },
+  {
+    "id": "tampa-bay-buccaneers",
+    "name": "Tampa Bay Buccaneers",
+    "shortName": "Buccaneers",
+    "code": "TB",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/tampa-bay-buccaneers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "tampa-bay-rays",
+    "name": "Tampa Bay Rays",
+    "shortName": "Rays",
+    "code": "TB",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/tampa-bay-rays.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "team-jayco-alula",
+    "name": "Team Jayco AlUla",
+    "shortName": "Jayco AlUla",
+    "code": "JAY",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "Australia",
+    "crest": "assets/crests/team-jayco-alula.png",
+    "aliases": [
+      "greenedge",
+      "orica",
+      "mitchelton-scott"
+    ]
+  },
+  {
+    "id": "team-picnic-postnl",
+    "name": "Team Picnic PostNL",
+    "shortName": "Picnic PostNL",
+    "code": "TPP",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "Netherlands",
+    "crest": "assets/crests/team-picnic-postnl.png",
+    "aliases": [
+      "team-dsm",
+      "dsm-firmenich"
+    ]
+  },
+  {
+    "id": "team-visma-lease-a-bike",
+    "name": "Team Visma | Lease a Bike",
+    "shortName": "Visma-Lease a Bike",
+    "code": "TVL",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "Netherlands",
+    "crest": "assets/crests/team-visma-lease-a-bike.png",
+    "aliases": [
+      "jumbo-visma"
+    ]
+  },
+  {
+    "id": "tennessee-titans",
+    "name": "Tennessee Titans",
+    "shortName": "Titans",
+    "code": "TEN",
+    "sportId": "american-football",
+    "leagueId": "nfl",
+    "country": "USA",
+    "crest": "assets/crests/tennessee-titans.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "texas-rangers",
+    "name": "Texas Rangers",
+    "shortName": "Rangers",
+    "code": "TEX",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "USA",
+    "crest": "assets/crests/texas-rangers.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "torino",
+    "name": "Torino FC",
+    "shortName": "Torino",
+    "code": "TOR",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/torino.png",
+    "aliases": []
+  },
+  {
+    "id": "toronto-blue-jays",
+    "name": "Toronto Blue Jays",
+    "shortName": "Blue Jays",
+    "code": "TOR",
+    "sportId": "baseball",
+    "leagueId": "mlb",
+    "country": "Canada",
+    "crest": "assets/crests/toronto-blue-jays.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "toronto-fc",
+    "name": "Toronto FC",
+    "shortName": "Toronto FC",
+    "code": "TOR",
+    "sportId": "soccer",
+    "leagueId": "mls",
+    "country": "Canada",
+    "crest": "assets/crests/toronto-fc.png",
+    "aliases": []
+  },
+  {
+    "id": "toronto-raptors",
+    "name": "Toronto Raptors",
+    "shortName": "Raptors",
+    "code": "TOR",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "Canada",
+    "crest": "assets/crests/toronto-raptors.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -270,444 +3792,18 @@
     "hasTeamPageDesign": false
   },
   {
-    "id": "atletico-de-madrid",
-    "name": "Atlético de Madrid",
-    "shortName": "Atlético",
-    "code": "ATM",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": "assets/crests/atletico-de-madrid.png",
-    "aliases": [
-      "atletico",
-      "atleti"
-    ],
-    "hasTeamPageDesign": true,
-    "contact": null
-  },
-  {
-    "id": "real-madrid",
-    "name": "Real Madrid",
-    "shortName": "Real Madrid",
-    "code": "RMA",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": "assets/crests/real-madrid.png",
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "bayern-munich",
-    "name": "Bayern Munich",
-    "shortName": "Bayern Munich",
-    "code": "FCB",
-    "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": "assets/crests/bayern-munich.png",
-    "aliases": [
-      "fc bayern",
-      "munchen"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "schalke-04",
-    "name": "Schalke 04",
-    "shortName": "Schalke 04",
-    "code": "S04",
-    "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": "assets/crests/schalke-04.png",
-    "aliases": [
-      "schalke"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "paris-saint-germain",
-    "name": "Paris Saint-Germain",
-    "shortName": "PSG",
-    "code": "PSG",
+    "id": "toulouse-fc",
+    "name": "Toulouse FC",
+    "shortName": "Toulouse",
+    "code": "TFC",
     "sportId": "soccer",
     "leagueId": "ligue-1",
     "country": "France",
-    "crest": null,
+    "crest": "assets/crests/toulouse-fc.png",
     "aliases": [
-      "psg",
-      "paris"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "la-clippers",
-    "name": "LA Clippers",
-    "shortName": "LA Clippers",
-    "code": "LAC",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [
-      "clippers",
-      "nba"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "la-rams",
-    "name": "Los Angeles Rams",
-    "shortName": "Los Angeles Rams",
-    "code": "LAR",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [
-      "rams",
-      "nfl"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "athletic-club",
-    "name": "Athletic Club",
-    "shortName": "Athletic Club",
-    "code": "ATH",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [
-      "athletic bilbao",
-      "bilbao"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "osasuna",
-    "name": "CA Osasuna",
-    "shortName": "Osasuna",
-    "code": "OSA",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "celta-vigo",
-    "name": "Celta Vigo",
-    "shortName": "Celta",
-    "code": "CEL",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [
-      "celta"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "deportivo-alaves",
-    "name": "Deportivo Alaves",
-    "shortName": "Alaves",
-    "code": "ALA",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [
-      "alaves"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "elche",
-    "name": "Elche CF",
-    "shortName": "Elche",
-    "code": "ELC",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "barcelona",
-    "name": "FC Barcelona",
-    "shortName": "Barcelona",
-    "code": "BAR",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [
-      "barca",
-      "fcb"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "getafe",
-    "name": "Getafe CF",
-    "shortName": "Getafe",
-    "code": "GET",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "levante",
-    "name": "Levante UD",
-    "shortName": "Levante",
-    "code": "LEV",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "malaga",
-    "name": "Malaga CF",
-    "shortName": "Malaga",
-    "code": "MAL",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "racing-santander",
-    "name": "Racing Santander",
-    "shortName": "Racing",
-    "code": "RAC",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [
-      "racing"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "rayo-vallecano",
-    "name": "Rayo Vallecano",
-    "shortName": "Rayo",
-    "code": "RAY",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [
-      "rayo"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "deportivo-la-coruna",
-    "name": "Deportivo A Coruna",
-    "shortName": "Deportivo",
-    "code": "DEP",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [
-      "deportivo"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "espanyol",
-    "name": "RCD Espanyol",
-    "shortName": "Espanyol",
-    "code": "ESP",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "real-betis",
-    "name": "Real Betis",
-    "shortName": "Betis",
-    "code": "BET",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "real-sociedad",
-    "name": "Real Sociedad",
-    "shortName": "Real Sociedad",
-    "code": "RSO",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [
-      "la real"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "sevilla",
-    "name": "Sevilla FC",
-    "shortName": "Sevilla",
-    "code": "SEV",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "valencia",
-    "name": "Valencia CF",
-    "shortName": "Valencia",
-    "code": "VAL",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "villarreal",
-    "name": "Villarreal CF",
-    "shortName": "Villarreal",
-    "code": "VIL",
-    "sportId": "soccer",
-    "leagueId": "la-liga",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "fc-augsburg",
-    "name": "FC Augsburg",
-    "shortName": "Augsburg",
-    "code": "FCA",
-    "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "union-berlin",
-    "name": "Union Berlin",
-    "shortName": "Union Berlin",
-    "code": "FCU",
-    "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "werder-bremen",
-    "name": "Werder Bremen",
-    "shortName": "Werder",
-    "code": "SVW",
-    "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": null,
-    "aliases": [
-      "bremen"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "borussia-dortmund",
-    "name": "Borussia Dortmund",
-    "shortName": "Dortmund",
-    "code": "BVB",
-    "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": null,
-    "aliases": [
-      "bvb"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "sv-elversberg",
-    "name": "SV Elversberg",
-    "shortName": "Elversberg",
-    "code": "ELV",
-    "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "eintracht-frankfurt",
-    "name": "Eintracht Frankfurt",
-    "shortName": "Frankfurt",
-    "code": "SGE",
-    "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": null,
-    "aliases": [
-      "sge"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "sc-freiburg",
-    "name": "SC Freiburg",
-    "shortName": "Freiburg",
-    "code": "SCF",
-    "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "hamburger-sv",
-    "name": "Hamburger SV",
-    "shortName": "Hamburg",
-    "code": "HSV",
-    "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": null,
-    "aliases": [
-      "hsv"
-    ],
-    "hasTeamPageDesign": false
+      "toulouse",
+      "tfc"
+    ]
   },
   {
     "id": "tsg-hoffenheim",
@@ -717,88 +3813,160 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/tsg-hoffenheim.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
   {
-    "id": "fc-koln",
-    "name": "1. FC Koeln",
-    "shortName": "Koeln",
-    "code": "KOE",
+    "id": "tunisia",
+    "name": "Tunisia",
+    "shortName": "Tunisia",
+    "code": "TUN",
     "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": null,
+    "leagueId": "fifa",
+    "country": "Tunisia",
+    "crest": "assets/crests/tunisia.png",
+    "aliases": []
+  },
+  {
+    "id": "turkey",
+    "name": "Turkey",
+    "shortName": "Turkey",
+    "code": "TUR",
+    "sportId": "soccer",
+    "leagueId": "fifa",
+    "country": "Turkey",
+    "crest": "assets/crests/turkey.png",
+    "aliases": []
+  },
+  {
+    "id": "uae-team-emirates-xrg",
+    "name": "UAE Team Emirates XRG",
+    "shortName": "UAE Team Emirates",
+    "code": "UAD",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "United Arab Emirates",
+    "crest": "assets/crests/uae-team-emirates-xrg.png",
     "aliases": [
-      "koln",
-      "cologne"
-    ],
-    "hasTeamPageDesign": false
+      "uae-team-emirates",
+      "uae-team-adq"
+    ]
   },
   {
-    "id": "rb-leipzig",
-    "name": "RB Leipzig",
-    "shortName": "Leipzig",
-    "code": "RBL",
+    "id": "udinese",
+    "name": "Udinese Calcio",
+    "shortName": "Udinese",
+    "code": "UDI",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/udinese.png",
+    "aliases": []
+  },
+  {
+    "id": "union-berlin",
+    "name": "Union Berlin",
+    "shortName": "Union Berlin",
+    "code": "FCU",
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/union-berlin.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
   {
-    "id": "bayer-leverkusen",
-    "name": "Bayer Leverkusen",
-    "shortName": "Leverkusen",
-    "code": "B04",
+    "id": "united-states",
+    "name": "United States",
+    "shortName": "United States",
+    "code": "USA",
     "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": null,
+    "leagueId": "fifa",
+    "country": "United States",
+    "crest": "assets/crests/united-states.png",
+    "aliases": []
+  },
+  {
+    "id": "uno-x-mobility",
+    "name": "Uno-X Mobility",
+    "shortName": "Uno-X",
+    "code": "UXM",
+    "sportId": "cycling",
+    "leagueId": "uci-worldtour",
+    "country": "Norway",
+    "crest": "assets/crests/uno-x-mobility.png",
     "aliases": [
-      "leverkusen"
-    ],
-    "hasTeamPageDesign": false
+      "uno-x"
+    ]
   },
   {
-    "id": "mainz-05",
-    "name": "Mainz 05",
-    "shortName": "Mainz",
-    "code": "M05",
+    "id": "uruguay",
+    "name": "Uruguay",
+    "shortName": "Uruguay",
+    "code": "URU",
     "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": null,
+    "leagueId": "fifa",
+    "country": "Uruguay",
+    "crest": "assets/crests/uruguay.png",
+    "aliases": []
+  },
+  {
+    "id": "utah-jazz",
+    "name": "Utah Jazz",
+    "shortName": "Jazz",
+    "code": "UTA",
+    "sportId": "basketball",
+    "leagueId": "nba",
+    "country": "USA",
+    "crest": "assets/crests/utah-jazz.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
   {
-    "id": "borussia-monchengladbach",
-    "name": "Borussia Moenchengladbach",
-    "shortName": "Gladbach",
-    "code": "BMG",
+    "id": "uzbekistan",
+    "name": "Uzbekistan",
+    "shortName": "Uzbekistan",
+    "code": "UZB",
     "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": null,
-    "aliases": [
-      "gladbach"
-    ],
+    "leagueId": "fifa",
+    "country": "Uzbekistan",
+    "crest": "assets/crests/uzbekistan.png",
+    "aliases": []
+  },
+  {
+    "id": "valencia",
+    "name": "Valencia CF",
+    "shortName": "Valencia",
+    "code": "VAL",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/valencia.png",
+    "aliases": [],
     "hasTeamPageDesign": false
   },
   {
-    "id": "sc-paderborn-07",
-    "name": "SC Paderborn",
-    "shortName": "Paderborn",
-    "code": "SCP",
+    "id": "vancouver-whitecaps",
+    "name": "Vancouver Whitecaps FC",
+    "shortName": "Vancouver Whitecaps",
+    "code": "VAN",
     "sportId": "soccer",
-    "leagueId": "bundesliga",
-    "country": "Germany",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
+    "leagueId": "mls",
+    "country": "Canada",
+    "crest": "assets/crests/vancouver-whitecaps.png",
+    "aliases": []
+  },
+  {
+    "id": "venezia",
+    "name": "Venezia FC",
+    "shortName": "Venezia",
+    "code": "VEN",
+    "sportId": "soccer",
+    "leagueId": "serie-a",
+    "country": "Italy",
+    "crest": "assets/crests/venezia.png",
+    "aliases": []
   },
   {
     "id": "vfb-stuttgart",
@@ -808,7 +3976,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/vfb-stuttgart.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -820,715 +3988,33 @@
     "sportId": "soccer",
     "leagueId": "2-bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/vfl-wolfsburg.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
   {
-    "id": "atlanta-hawks",
-    "name": "Atlanta Hawks",
-    "shortName": "Hawks",
-    "code": "ATL",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
+    "id": "viking-fk",
+    "name": "Viking FK",
+    "shortName": "Viking",
+    "code": "VIK",
+    "sportId": "soccer",
+    "leagueId": "uefa",
+    "country": "Norway",
+    "crest": "assets/crests/viking-fk.png",
+    "aliases": [
+      "viking stavanger"
+    ],
     "hasTeamPageDesign": false
   },
   {
-    "id": "boston-celtics",
-    "name": "Boston Celtics",
-    "shortName": "Celtics",
-    "code": "BOS",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "brooklyn-nets",
-    "name": "Brooklyn Nets",
-    "shortName": "Nets",
-    "code": "BKN",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "charlotte-hornets",
-    "name": "Charlotte Hornets",
-    "shortName": "Hornets",
-    "code": "CHA",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "chicago-bulls",
-    "name": "Chicago Bulls",
-    "shortName": "Bulls",
-    "code": "CHI",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "cleveland-cavaliers",
-    "name": "Cleveland Cavaliers",
-    "shortName": "Cavaliers",
-    "code": "CLE",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "dallas-mavericks",
-    "name": "Dallas Mavericks",
-    "shortName": "Mavericks",
-    "code": "DAL",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "denver-nuggets",
-    "name": "Denver Nuggets",
-    "shortName": "Nuggets",
-    "code": "DEN",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "detroit-pistons",
-    "name": "Detroit Pistons",
-    "shortName": "Pistons",
-    "code": "DET",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "golden-state-warriors",
-    "name": "Golden State Warriors",
-    "shortName": "Warriors",
-    "code": "GSW",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "houston-rockets",
-    "name": "Houston Rockets",
-    "shortName": "Rockets",
-    "code": "HOU",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "indiana-pacers",
-    "name": "Indiana Pacers",
-    "shortName": "Pacers",
-    "code": "IND",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "los-angeles-lakers",
-    "name": "Los Angeles Lakers",
-    "shortName": "Lakers",
-    "code": "LAL",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "memphis-grizzlies",
-    "name": "Memphis Grizzlies",
-    "shortName": "Grizzlies",
-    "code": "MEM",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "miami-heat",
-    "name": "Miami Heat",
-    "shortName": "Heat",
-    "code": "MIA",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "milwaukee-bucks",
-    "name": "Milwaukee Bucks",
-    "shortName": "Bucks",
-    "code": "MIL",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "minnesota-timberwolves",
-    "name": "Minnesota Timberwolves",
-    "shortName": "Timberwolves",
-    "code": "MIN",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "new-orleans-pelicans",
-    "name": "New Orleans Pelicans",
-    "shortName": "Pelicans",
-    "code": "NOP",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "new-york-knicks",
-    "name": "New York Knicks",
-    "shortName": "Knicks",
-    "code": "NYK",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "oklahoma-city-thunder",
-    "name": "Oklahoma City Thunder",
-    "shortName": "Thunder",
-    "code": "OKC",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "orlando-magic",
-    "name": "Orlando Magic",
-    "shortName": "Magic",
-    "code": "ORL",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "philadelphia-76ers",
-    "name": "Philadelphia 76ers",
-    "shortName": "76ers",
-    "code": "PHI",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "phoenix-suns",
-    "name": "Phoenix Suns",
-    "shortName": "Suns",
-    "code": "PHX",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "portland-trail-blazers",
-    "name": "Portland Trail Blazers",
-    "shortName": "Trail Blazers",
-    "code": "POR",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "sacramento-kings",
-    "name": "Sacramento Kings",
-    "shortName": "Kings",
-    "code": "SAC",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "san-antonio-spurs",
-    "name": "San Antonio Spurs",
-    "shortName": "Spurs",
-    "code": "SAS",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "toronto-raptors",
-    "name": "Toronto Raptors",
-    "shortName": "Raptors",
-    "code": "TOR",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "Canada",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "utah-jazz",
-    "name": "Utah Jazz",
-    "shortName": "Jazz",
-    "code": "UTA",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "washington-wizards",
-    "name": "Washington Wizards",
-    "shortName": "Wizards",
-    "code": "WAS",
-    "sportId": "basketball",
-    "leagueId": "nba",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "arizona-cardinals",
-    "name": "Arizona Cardinals",
-    "shortName": "Cardinals",
-    "code": "ARI",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "atlanta-falcons",
-    "name": "Atlanta Falcons",
-    "shortName": "Falcons",
-    "code": "ATL",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "baltimore-ravens",
-    "name": "Baltimore Ravens",
-    "shortName": "Ravens",
-    "code": "BAL",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "buffalo-bills",
-    "name": "Buffalo Bills",
-    "shortName": "Bills",
-    "code": "BUF",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "carolina-panthers",
-    "name": "Carolina Panthers",
-    "shortName": "Panthers",
-    "code": "CAR",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "chicago-bears",
-    "name": "Chicago Bears",
-    "shortName": "Bears",
-    "code": "CHI",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "cincinnati-bengals",
-    "name": "Cincinnati Bengals",
-    "shortName": "Bengals",
-    "code": "CIN",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "cleveland-browns",
-    "name": "Cleveland Browns",
-    "shortName": "Browns",
-    "code": "CLE",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "dallas-cowboys",
-    "name": "Dallas Cowboys",
-    "shortName": "Cowboys",
-    "code": "DAL",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "denver-broncos",
-    "name": "Denver Broncos",
-    "shortName": "Broncos",
-    "code": "DEN",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "detroit-lions",
-    "name": "Detroit Lions",
-    "shortName": "Lions",
-    "code": "DET",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "green-bay-packers",
-    "name": "Green Bay Packers",
-    "shortName": "Packers",
-    "code": "GB",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "houston-texans",
-    "name": "Houston Texans",
-    "shortName": "Texans",
-    "code": "HOU",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "indianapolis-colts",
-    "name": "Indianapolis Colts",
-    "shortName": "Colts",
-    "code": "IND",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "jacksonville-jaguars",
-    "name": "Jacksonville Jaguars",
-    "shortName": "Jaguars",
-    "code": "JAX",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "kansas-city-chiefs",
-    "name": "Kansas City Chiefs",
-    "shortName": "Chiefs",
-    "code": "KC",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "las-vegas-raiders",
-    "name": "Las Vegas Raiders",
-    "shortName": "Raiders",
-    "code": "LV",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "los-angeles-chargers",
-    "name": "Los Angeles Chargers",
-    "shortName": "Chargers",
-    "code": "LAC",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "miami-dolphins",
-    "name": "Miami Dolphins",
-    "shortName": "Dolphins",
-    "code": "MIA",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "minnesota-vikings",
-    "name": "Minnesota Vikings",
-    "shortName": "Vikings",
-    "code": "MIN",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "new-england-patriots",
-    "name": "New England Patriots",
-    "shortName": "Patriots",
-    "code": "NE",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "new-orleans-saints",
-    "name": "New Orleans Saints",
-    "shortName": "Saints",
-    "code": "NO",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "new-york-giants",
-    "name": "New York Giants",
-    "shortName": "Giants",
-    "code": "NYG",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "new-york-jets",
-    "name": "New York Jets",
-    "shortName": "Jets",
-    "code": "NYJ",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "philadelphia-eagles",
-    "name": "Philadelphia Eagles",
-    "shortName": "Eagles",
-    "code": "PHI",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "pittsburgh-steelers",
-    "name": "Pittsburgh Steelers",
-    "shortName": "Steelers",
-    "code": "PIT",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "san-francisco-49ers",
-    "name": "San Francisco 49ers",
-    "shortName": "49ers",
-    "code": "SF",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "seattle-seahawks",
-    "name": "Seattle Seahawks",
-    "shortName": "Seahawks",
-    "code": "SEA",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "tampa-bay-buccaneers",
-    "name": "Tampa Bay Buccaneers",
-    "shortName": "Buccaneers",
-    "code": "TB",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "tennessee-titans",
-    "name": "Tennessee Titans",
-    "shortName": "Titans",
-    "code": "TEN",
-    "sportId": "american-football",
-    "leagueId": "nfl",
-    "country": "USA",
-    "crest": null,
+    "id": "villarreal",
+    "name": "Villarreal CF",
+    "shortName": "Villarreal",
+    "code": "VIL",
+    "sportId": "soccer",
+    "leagueId": "la-liga",
+    "country": "Spain",
+    "crest": "assets/crests/villarreal.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1540,358 +4026,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "arizona-diamondbacks",
-    "name": "Arizona Diamondbacks",
-    "shortName": "Diamondbacks",
-    "code": "ARI",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "athletics",
-    "name": "Athletics",
-    "shortName": "Athletics",
-    "code": "ATH",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [
-      "a's",
-      "oakland athletics"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "atlanta-braves",
-    "name": "Atlanta Braves",
-    "shortName": "Braves",
-    "code": "ATL",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "baltimore-orioles",
-    "name": "Baltimore Orioles",
-    "shortName": "Orioles",
-    "code": "BAL",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "boston-red-sox",
-    "name": "Boston Red Sox",
-    "shortName": "Red Sox",
-    "code": "BOS",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "chicago-cubs",
-    "name": "Chicago Cubs",
-    "shortName": "Cubs",
-    "code": "CHC",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "chicago-white-sox",
-    "name": "Chicago White Sox",
-    "shortName": "White Sox",
-    "code": "CWS",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "cincinnati-reds",
-    "name": "Cincinnati Reds",
-    "shortName": "Reds",
-    "code": "CIN",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "cleveland-guardians",
-    "name": "Cleveland Guardians",
-    "shortName": "Guardians",
-    "code": "CLE",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "colorado-rockies",
-    "name": "Colorado Rockies",
-    "shortName": "Rockies",
-    "code": "COL",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "detroit-tigers",
-    "name": "Detroit Tigers",
-    "shortName": "Tigers",
-    "code": "DET",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "houston-astros",
-    "name": "Houston Astros",
-    "shortName": "Astros",
-    "code": "HOU",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "kansas-city-royals",
-    "name": "Kansas City Royals",
-    "shortName": "Royals",
-    "code": "KC",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "los-angeles-angels",
-    "name": "Los Angeles Angels",
-    "shortName": "Angels",
-    "code": "LAA",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "los-angeles-dodgers",
-    "name": "Los Angeles Dodgers",
-    "shortName": "Dodgers",
-    "code": "LAD",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "miami-marlins",
-    "name": "Miami Marlins",
-    "shortName": "Marlins",
-    "code": "MIA",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "milwaukee-brewers",
-    "name": "Milwaukee Brewers",
-    "shortName": "Brewers",
-    "code": "MIL",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "minnesota-twins",
-    "name": "Minnesota Twins",
-    "shortName": "Twins",
-    "code": "MIN",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "new-york-mets",
-    "name": "New York Mets",
-    "shortName": "Mets",
-    "code": "NYM",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "new-york-yankees",
-    "name": "New York Yankees",
-    "shortName": "Yankees",
-    "code": "NYY",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "philadelphia-phillies",
-    "name": "Philadelphia Phillies",
-    "shortName": "Phillies",
-    "code": "PHI",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "pittsburgh-pirates",
-    "name": "Pittsburgh Pirates",
-    "shortName": "Pirates",
-    "code": "PIT",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "san-diego-padres",
-    "name": "San Diego Padres",
-    "shortName": "Padres",
-    "code": "SD",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "san-francisco-giants",
-    "name": "San Francisco Giants",
-    "shortName": "Giants",
-    "code": "SF",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "seattle-mariners",
-    "name": "Seattle Mariners",
-    "shortName": "Mariners",
-    "code": "SEA",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "st-louis-cardinals",
-    "name": "St. Louis Cardinals",
-    "shortName": "Cardinals",
-    "code": "STL",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "tampa-bay-rays",
-    "name": "Tampa Bay Rays",
-    "shortName": "Rays",
-    "code": "TB",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "texas-rangers",
-    "name": "Texas Rangers",
-    "shortName": "Rangers",
-    "code": "TEX",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "USA",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "toronto-blue-jays",
-    "name": "Toronto Blue Jays",
-    "shortName": "Blue Jays",
-    "code": "TOR",
-    "sportId": "baseball",
-    "leagueId": "mlb",
-    "country": "Canada",
-    "crest": null,
+    "crest": "assets/crests/washington-commanders.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1903,669 +4038,35 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/washington-nationals.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
   {
-    "id": "ac-milan",
-    "name": "AC Milan",
-    "shortName": "Milan",
-    "code": "MIL",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "alpine",
-    "name": "BWT Alpine F1 Team",
-    "shortName": "Alpine",
-    "code": "ALP",
-    "sportId": "motorsport",
-    "leagueId": "formula-1",
-    "country": "United Kingdom",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "as-roma",
-    "name": "AS Roma",
-    "shortName": "Roma",
-    "code": "ROM",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "aston-martin",
-    "name": "Aston Martin Aramco F1 Team",
-    "shortName": "Aston Martin",
-    "code": "AST",
-    "sportId": "motorsport",
-    "leagueId": "formula-1",
-    "country": "United Kingdom",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "atalanta",
-    "name": "Atalanta BC",
-    "shortName": "Atalanta",
-    "code": "ATA",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "atlanta-united",
-    "name": "Atlanta United FC",
-    "shortName": "Atlanta United",
-    "code": "ATL",
-    "sportId": "soccer",
-    "leagueId": "mls",
+    "id": "washington-wizards",
+    "name": "Washington Wizards",
+    "shortName": "Wizards",
+    "code": "WAS",
+    "sportId": "basketball",
+    "leagueId": "nba",
     "country": "USA",
-    "crest": null,
-    "aliases": []
+    "crest": "assets/crests/washington-wizards.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
   },
   {
-    "id": "audi",
-    "name": "Audi Revolut F1 Team",
-    "shortName": "Audi",
-    "code": "AUD",
-    "sportId": "motorsport",
-    "leagueId": "formula-1",
+    "id": "werder-bremen",
+    "name": "Werder Bremen",
+    "shortName": "Werder",
+    "code": "SVW",
+    "sportId": "soccer",
+    "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "austin-fc",
-    "name": "Austin FC",
-    "shortName": "Austin FC",
-    "code": "ATX",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "bologna",
-    "name": "Bologna FC 1909",
-    "shortName": "Bologna",
-    "code": "BOL",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "cadillac",
-    "name": "Cadillac Formula 1 Team",
-    "shortName": "Cadillac",
-    "code": "CAD",
-    "sportId": "motorsport",
-    "leagueId": "formula-1",
-    "country": "United States",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "cagliari",
-    "name": "Cagliari Calcio",
-    "shortName": "Cagliari",
-    "code": "CAG",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "cf-montreal",
-    "name": "CF Montreal",
-    "shortName": "CF Montreal",
-    "code": "MTL",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "Canada",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "charlotte-fc",
-    "name": "Charlotte FC",
-    "shortName": "Charlotte FC",
-    "code": "CLT",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "chicago-fire",
-    "name": "Chicago Fire FC",
-    "shortName": "Chicago Fire",
-    "code": "CHI",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "colorado-rapids",
-    "name": "Colorado Rapids",
-    "shortName": "Colorado Rapids",
-    "code": "COL",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "columbus-crew",
-    "name": "Columbus Crew",
-    "shortName": "Columbus Crew",
-    "code": "CLB",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "como",
-    "name": "Como 1907",
-    "shortName": "Como",
-    "code": "COM",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "dc-united",
-    "name": "D.C. United",
-    "shortName": "D.C. United",
-    "code": "DC",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "fc-cincinnati",
-    "name": "FC Cincinnati",
-    "shortName": "FC Cincinnati",
-    "code": "CIN",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "fc-dallas",
-    "name": "FC Dallas",
-    "shortName": "FC Dallas",
-    "code": "DAL",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "ferrari",
-    "name": "Scuderia Ferrari HP",
-    "shortName": "Ferrari",
-    "code": "FER",
-    "sportId": "motorsport",
-    "leagueId": "formula-1",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "fiorentina",
-    "name": "ACF Fiorentina",
-    "shortName": "Fiorentina",
-    "code": "FIO",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "frosinone",
-    "name": "Frosinone Calcio",
-    "shortName": "Frosinone",
-    "code": "FRO",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "genoa",
-    "name": "Genoa CFC",
-    "shortName": "Genoa",
-    "code": "GEN",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "haas",
-    "name": "TGR Haas F1 Team",
-    "shortName": "Haas",
-    "code": "HAA",
-    "sportId": "motorsport",
-    "leagueId": "formula-1",
-    "country": "United States",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "houston-dynamo",
-    "name": "Houston Dynamo FC",
-    "shortName": "Houston Dynamo",
-    "code": "HOU",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "inter-miami",
-    "name": "Inter Miami CF",
-    "shortName": "Inter Miami",
-    "code": "MIA",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "inter-milan",
-    "name": "Inter Milan",
-    "shortName": "Inter",
-    "code": "INT",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "juventus",
-    "name": "Juventus FC",
-    "shortName": "Juventus",
-    "code": "JUV",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "la-galaxy",
-    "name": "LA Galaxy",
-    "shortName": "LA Galaxy",
-    "code": "LAG",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "lazio",
-    "name": "SS Lazio",
-    "shortName": "Lazio",
-    "code": "LAZ",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "lecce",
-    "name": "US Lecce",
-    "shortName": "Lecce",
-    "code": "LEC",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "los-angeles-fc",
-    "name": "Los Angeles FC",
-    "shortName": "LAFC",
-    "code": "LAFC",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "mclaren",
-    "name": "McLaren Mastercard F1 Team",
-    "shortName": "McLaren",
-    "code": "MCL",
-    "sportId": "motorsport",
-    "leagueId": "formula-1",
-    "country": "United Kingdom",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "mercedes",
-    "name": "Mercedes-AMG PETRONAS F1 Team",
-    "shortName": "Mercedes",
-    "code": "MER",
-    "sportId": "motorsport",
-    "leagueId": "formula-1",
-    "country": "United Kingdom",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "minnesota-united",
-    "name": "Minnesota United FC",
-    "shortName": "Minnesota United",
-    "code": "MIN",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "monza",
-    "name": "AC Monza",
-    "shortName": "Monza",
-    "code": "MON",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "napoli",
-    "name": "SSC Napoli",
-    "shortName": "Napoli",
-    "code": "NAP",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "nashville-sc",
-    "name": "Nashville SC",
-    "shortName": "Nashville SC",
-    "code": "NSH",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "new-england-revolution",
-    "name": "New England Revolution",
-    "shortName": "New England Revolution",
-    "code": "NE",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "new-york-city-fc",
-    "name": "New York City FC",
-    "shortName": "NYCFC",
-    "code": "NYC",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "new-york-red-bulls",
-    "name": "New York Red Bulls",
-    "shortName": "NY Red Bulls",
-    "code": "RBNY",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "orlando-city",
-    "name": "Orlando City SC",
-    "shortName": "Orlando City",
-    "code": "ORL",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "parma",
-    "name": "Parma Calcio 1913",
-    "shortName": "Parma",
-    "code": "PAR",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "philadelphia-union",
-    "name": "Philadelphia Union",
-    "shortName": "Philadelphia Union",
-    "code": "PHI",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "portland-timbers",
-    "name": "Portland Timbers",
-    "shortName": "Portland Timbers",
-    "code": "POR",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "racing-bulls",
-    "name": "Visa Cash App Racing Bulls F1 Team",
-    "shortName": "Racing Bulls",
-    "code": "RB",
-    "sportId": "motorsport",
-    "leagueId": "formula-1",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "real-salt-lake",
-    "name": "Real Salt Lake",
-    "shortName": "Real Salt Lake",
-    "code": "RSL",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "red-bull-racing",
-    "name": "Oracle Red Bull Racing",
-    "shortName": "Red Bull Racing",
-    "code": "RBR",
-    "sportId": "motorsport",
-    "leagueId": "formula-1",
-    "country": "United Kingdom",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "san-diego-fc",
-    "name": "San Diego FC",
-    "shortName": "San Diego FC",
-    "code": "SD",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "san-jose-earthquakes",
-    "name": "San Jose Earthquakes",
-    "shortName": "San Jose Earthquakes",
-    "code": "SJ",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "sassuolo",
-    "name": "US Sassuolo",
-    "shortName": "Sassuolo",
-    "code": "SAS",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "seattle-sounders",
-    "name": "Seattle Sounders FC",
-    "shortName": "Seattle Sounders",
-    "code": "SEA",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "sporting-kansas-city",
-    "name": "Sporting Kansas City",
-    "shortName": "Sporting KC",
-    "code": "SKC",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "st-louis-city",
-    "name": "St. Louis CITY SC",
-    "shortName": "St. Louis City",
-    "code": "STL",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "USA",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "torino",
-    "name": "Torino FC",
-    "shortName": "Torino",
-    "code": "TOR",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "toronto-fc",
-    "name": "Toronto FC",
-    "shortName": "Toronto FC",
-    "code": "TOR",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "Canada",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "udinese",
-    "name": "Udinese Calcio",
-    "shortName": "Udinese",
-    "code": "UDI",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "vancouver-whitecaps",
-    "name": "Vancouver Whitecaps FC",
-    "shortName": "Vancouver Whitecaps",
-    "code": "VAN",
-    "sportId": "soccer",
-    "leagueId": "mls",
-    "country": "Canada",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "venezia",
-    "name": "Venezia FC",
-    "shortName": "Venezia",
-    "code": "VEN",
-    "sportId": "soccer",
-    "leagueId": "serie-a",
-    "country": "Italy",
-    "crest": null,
-    "aliases": []
+    "crest": "assets/crests/werder-bremen.png",
+    "aliases": [
+      "bremen"
+    ],
+    "hasTeamPageDesign": false
   },
   {
     "id": "williams",
@@ -2575,1265 +4076,8 @@
     "sportId": "motorsport",
     "leagueId": "formula-1",
     "country": "United Kingdom",
-    "crest": null,
+    "crest": "assets/crests/williams.png",
     "aliases": []
-  },
-  {
-    "id": "australia",
-    "name": "Australia",
-    "shortName": "Australia",
-    "code": "AUS",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Australia",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "iran",
-    "name": "Iran",
-    "shortName": "Iran",
-    "code": "IRN",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Iran",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "iraq",
-    "name": "Iraq",
-    "shortName": "Iraq",
-    "code": "IRQ",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Iraq",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "japan",
-    "name": "Japan",
-    "shortName": "Japan",
-    "code": "JPN",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Japan",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "jordan",
-    "name": "Jordan",
-    "shortName": "Jordan",
-    "code": "JOR",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Jordan",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "qatar",
-    "name": "Qatar",
-    "shortName": "Qatar",
-    "code": "QAT",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Qatar",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "saudi-arabia",
-    "name": "Saudi Arabia",
-    "shortName": "Saudi Arabia",
-    "code": "KSA",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "south-korea",
-    "name": "South Korea",
-    "shortName": "South Korea",
-    "code": "KOR",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "South Korea",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "uzbekistan",
-    "name": "Uzbekistan",
-    "shortName": "Uzbekistan",
-    "code": "UZB",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Uzbekistan",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "algeria",
-    "name": "Algeria",
-    "shortName": "Algeria",
-    "code": "ALG",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Algeria",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "cape-verde",
-    "name": "Cape Verde",
-    "shortName": "Cape Verde",
-    "code": "CPV",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Cape Verde",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "dr-congo",
-    "name": "DR Congo",
-    "shortName": "DR Congo",
-    "code": "COD",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "DR Congo",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "egypt",
-    "name": "Egypt",
-    "shortName": "Egypt",
-    "code": "EGY",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Egypt",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "ghana",
-    "name": "Ghana",
-    "shortName": "Ghana",
-    "code": "GHA",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Ghana",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "ivory-coast",
-    "name": "Ivory Coast",
-    "shortName": "Ivory Coast",
-    "code": "CIV",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Ivory Coast",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "morocco",
-    "name": "Morocco",
-    "shortName": "Morocco",
-    "code": "MAR",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Morocco",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "senegal",
-    "name": "Senegal",
-    "shortName": "Senegal",
-    "code": "SEN",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Senegal",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "south-africa",
-    "name": "South Africa",
-    "shortName": "South Africa",
-    "code": "RSA",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "South Africa",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "tunisia",
-    "name": "Tunisia",
-    "shortName": "Tunisia",
-    "code": "TUN",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Tunisia",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "canada",
-    "name": "Canada",
-    "shortName": "Canada",
-    "code": "CAN",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Canada",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "curacao",
-    "name": "Curacao",
-    "shortName": "Curacao",
-    "code": "CUW",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Curaçao",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "haiti",
-    "name": "Haiti",
-    "shortName": "Haiti",
-    "code": "HAI",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Haiti",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "mexico",
-    "name": "Mexico",
-    "shortName": "Mexico",
-    "code": "MEX",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Mexico",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "panama",
-    "name": "Panama",
-    "shortName": "Panama",
-    "code": "PAN",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Panama",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "united-states",
-    "name": "United States",
-    "shortName": "United States",
-    "code": "USA",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "United States",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "argentina",
-    "name": "Argentina",
-    "shortName": "Argentina",
-    "code": "ARG",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Argentina",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "brazil",
-    "name": "Brazil",
-    "shortName": "Brazil",
-    "code": "BRA",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Brazil",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "colombia",
-    "name": "Colombia",
-    "shortName": "Colombia",
-    "code": "COL",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Colombia",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "ecuador",
-    "name": "Ecuador",
-    "shortName": "Ecuador",
-    "code": "ECU",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Ecuador",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "paraguay",
-    "name": "Paraguay",
-    "shortName": "Paraguay",
-    "code": "PAR",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Paraguay",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "uruguay",
-    "name": "Uruguay",
-    "shortName": "Uruguay",
-    "code": "URU",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Uruguay",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "new-zealand",
-    "name": "New Zealand",
-    "shortName": "New Zealand",
-    "code": "NZL",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "New Zealand",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "austria",
-    "name": "Austria",
-    "shortName": "Austria",
-    "code": "AUT",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Austria",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "belgium",
-    "name": "Belgium",
-    "shortName": "Belgium",
-    "code": "BEL",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Belgium",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "bosnia-and-herzegovina",
-    "name": "Bosnia and Herzegovina",
-    "shortName": "Bosnia and Herzegovina",
-    "code": "BIH",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Bosnia and Herzegovina",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "croatia",
-    "name": "Croatia",
-    "shortName": "Croatia",
-    "code": "CRO",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Croatia",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "czech-republic",
-    "name": "Czech Republic",
-    "shortName": "Czech Republic",
-    "code": "CZE",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Czech Republic",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "england",
-    "name": "England",
-    "shortName": "England",
-    "code": "ENG",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "England",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "france",
-    "name": "France",
-    "shortName": "France",
-    "code": "FRA",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "France",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "germany",
-    "name": "Germany",
-    "shortName": "Germany",
-    "code": "GER",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Germany",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "netherlands",
-    "name": "Netherlands",
-    "shortName": "Netherlands",
-    "code": "NED",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Netherlands",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "norway",
-    "name": "Norway",
-    "shortName": "Norway",
-    "code": "NOR",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Norway",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "portugal",
-    "name": "Portugal",
-    "shortName": "Portugal",
-    "code": "POR",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Portugal",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "scotland",
-    "name": "Scotland",
-    "shortName": "Scotland",
-    "code": "SCO",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Scotland",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "spain",
-    "name": "Spain",
-    "shortName": "Spain",
-    "code": "ESP",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Spain",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "sweden",
-    "name": "Sweden",
-    "shortName": "Sweden",
-    "code": "SWE",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Sweden",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "switzerland",
-    "name": "Switzerland",
-    "shortName": "Switzerland",
-    "code": "SUI",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Switzerland",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "turkey",
-    "name": "Turkey",
-    "shortName": "Turkey",
-    "code": "TUR",
-    "sportId": "soccer",
-    "leagueId": "fifa",
-    "country": "Turkey",
-    "crest": null,
-    "aliases": []
-  },
-  {
-    "id": "angers-sco",
-    "name": "Angers SCO",
-    "shortName": "Angers",
-    "code": "SCO",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "angers",
-      "sco angers"
-    ]
-  },
-  {
-    "id": "aj-auxerre",
-    "name": "AJ Auxerre",
-    "shortName": "Auxerre",
-    "code": "AJA",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "auxerre",
-      "association de la jeunesse auxerroise"
-    ]
-  },
-  {
-    "id": "stade-brestois-29",
-    "name": "Stade Brestois 29",
-    "shortName": "Brest",
-    "code": "SB29",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "brest",
-      "sb29"
-    ]
-  },
-  {
-    "id": "le-havre-ac",
-    "name": "Le Havre AC",
-    "shortName": "Le Havre",
-    "code": "HAC",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "le havre",
-      "hac"
-    ]
-  },
-  {
-    "id": "le-mans-fc",
-    "name": "Le Mans FC",
-    "shortName": "Le Mans",
-    "code": "LMFC",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "le mans",
-      "lmfc"
-    ]
-  },
-  {
-    "id": "rc-lens",
-    "name": "RC Lens",
-    "shortName": "Lens",
-    "code": "RCL",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "lens",
-      "racing club de lens"
-    ]
-  },
-  {
-    "id": "lille-osc",
-    "name": "Lille OSC",
-    "shortName": "Lille",
-    "code": "LOSC",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "lille",
-      "losc"
-    ]
-  },
-  {
-    "id": "fc-lorient",
-    "name": "FC Lorient",
-    "shortName": "Lorient",
-    "code": "FCL",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "lorient"
-    ]
-  },
-  {
-    "id": "olympique-lyonnais",
-    "name": "Olympique Lyonnais",
-    "shortName": "Lyon",
-    "code": "OL",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "lyon",
-      "ol"
-    ]
-  },
-  {
-    "id": "olympique-de-marseille",
-    "name": "Olympique de Marseille",
-    "shortName": "Marseille",
-    "code": "OM",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "marseille",
-      "om"
-    ]
-  },
-  {
-    "id": "as-monaco",
-    "name": "AS Monaco",
-    "shortName": "Monaco",
-    "code": "ASM",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "monaco",
-      "asm"
-    ]
-  },
-  {
-    "id": "ogc-nice",
-    "name": "OGC Nice",
-    "shortName": "Nice",
-    "code": "OGCN",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "nice",
-      "ogc nice",
-      "le gym"
-    ]
-  },
-  {
-    "id": "paris-fc",
-    "name": "Paris FC",
-    "shortName": "Paris FC",
-    "code": "PFC",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "paris fc",
-      "pfc"
-    ]
-  },
-  {
-    "id": "stade-rennais",
-    "name": "Stade Rennais FC",
-    "shortName": "Rennes",
-    "code": "SRFC",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "rennes",
-      "srfc"
-    ]
-  },
-  {
-    "id": "rc-strasbourg",
-    "name": "RC Strasbourg Alsace",
-    "shortName": "Strasbourg",
-    "code": "RCSA",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "strasbourg",
-      "rcsa"
-    ]
-  },
-  {
-    "id": "toulouse-fc",
-    "name": "Toulouse FC",
-    "shortName": "Toulouse",
-    "code": "TFC",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "toulouse",
-      "tfc"
-    ]
-  },
-  {
-    "id": "es-troyes-ac",
-    "name": "ES Troyes AC",
-    "shortName": "Troyes",
-    "code": "ESTAC",
-    "sportId": "soccer",
-    "leagueId": "ligue-1",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "troyes",
-      "estac"
-    ]
-  },
-  {
-    "id": "abha",
-    "name": "Abha",
-    "shortName": "Abha",
-    "code": "ABH",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "abha club",
-      "abha fc"
-    ]
-  },
-  {
-    "id": "al-ahli",
-    "name": "Al-Ahli",
-    "shortName": "Al-Ahli",
-    "code": "AHL",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al ahli saudi",
-      "alahli",
-      "al-ahli saudi fc"
-    ]
-  },
-  {
-    "id": "al-ettifaq",
-    "name": "Al-Ettifaq",
-    "shortName": "Al-Ettifaq",
-    "code": "ETT",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al ettifaq",
-      "ettifaq"
-    ]
-  },
-  {
-    "id": "al-faisaly",
-    "name": "Al-Faisaly",
-    "shortName": "Al-Faisaly",
-    "code": "FAI",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al faisaly",
-      "faisaly"
-    ]
-  },
-  {
-    "id": "al-fateh",
-    "name": "Al-Fateh",
-    "shortName": "Al-Fateh",
-    "code": "FAT",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al fateh",
-      "fateh"
-    ]
-  },
-  {
-    "id": "al-fayha",
-    "name": "Al-Fayha",
-    "shortName": "Al-Fayha",
-    "code": "FAY",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al fayha",
-      "fayha"
-    ]
-  },
-  {
-    "id": "al-hazem",
-    "name": "Al-Hazem",
-    "shortName": "Al-Hazem",
-    "code": "HAZ",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al hazem",
-      "hazem"
-    ]
-  },
-  {
-    "id": "al-hilal",
-    "name": "Al-Hilal",
-    "shortName": "Al-Hilal",
-    "code": "HIL",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al hilal",
-      "hilal",
-      "al hilal sfc"
-    ]
-  },
-  {
-    "id": "al-ittihad",
-    "name": "Al-Ittihad",
-    "shortName": "Al-Ittihad",
-    "code": "ITT",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al ittihad",
-      "ittihad",
-      "al ittihad jeddah"
-    ]
-  },
-  {
-    "id": "al-khaleej",
-    "name": "Al-Khaleej",
-    "shortName": "Al-Khaleej",
-    "code": "KHA",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al khaleej",
-      "khaleej"
-    ]
-  },
-  {
-    "id": "al-kholood",
-    "name": "Al-Kholood",
-    "shortName": "Al-Kholood",
-    "code": "KHO",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al kholood",
-      "kholood"
-    ]
-  },
-  {
-    "id": "al-nassr",
-    "name": "Al-Nassr",
-    "shortName": "Al-Nassr",
-    "code": "NAS",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al nassr",
-      "nassr"
-    ]
-  },
-  {
-    "id": "al-qadsiah",
-    "name": "Al-Qadsiah",
-    "shortName": "Al-Qadsiah",
-    "code": "QAD",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al qadsiah",
-      "qadsiah"
-    ]
-  },
-  {
-    "id": "al-riyadh",
-    "name": "Al-Riyadh",
-    "shortName": "Al-Riyadh",
-    "code": "RIY",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al riyadh",
-      "riyadh sc"
-    ]
-  },
-  {
-    "id": "al-shabab",
-    "name": "Al-Shabab",
-    "shortName": "Al-Shabab",
-    "code": "SHB",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al shabab",
-      "shabab"
-    ]
-  },
-  {
-    "id": "al-taawoun",
-    "name": "Al-Taawoun",
-    "shortName": "Al-Taawoun",
-    "code": "TAA",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al taawoun",
-      "taawoun"
-    ]
-  },
-  {
-    "id": "diriyah",
-    "name": "Diriyah Club",
-    "shortName": "Diriyah",
-    "code": "DIR",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "al-diriyah",
-      "diriyah club",
-      "al diriyah"
-    ]
-  },
-  {
-    "id": "neom",
-    "name": "NEOM SC",
-    "shortName": "NEOM",
-    "code": "NEO",
-    "sportId": "soccer",
-    "leagueId": "saudi-pro-league",
-    "country": "Saudi Arabia",
-    "crest": null,
-    "aliases": [
-      "neom",
-      "neom sc"
-    ]
-  },
-  {
-    "id": "alpecin-premier-tech",
-    "name": "Alpecin-Premier Tech",
-    "shortName": "Alpecin",
-    "code": "APC",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "Belgium",
-    "crest": null,
-    "aliases": [
-      "alpecin-deceuninck",
-      "alpecin"
-    ]
-  },
-  {
-    "id": "bahrain-victorious",
-    "name": "Bahrain Victorious",
-    "shortName": "Bahrain Victorious",
-    "code": "TBV",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "Bahrain",
-    "crest": null,
-    "aliases": [
-      "bahrain-mclaren",
-      "bahrain-merida",
-      "team-bahrain-victorious"
-    ]
-  },
-  {
-    "id": "decathlon-cma-cgm",
-    "name": "Decathlon CMA CGM Team",
-    "shortName": "Decathlon CMA CGM",
-    "code": "DCT",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "ag2r-citroen",
-      "decathlon-ag2r"
-    ]
-  },
-  {
-    "id": "ef-education-easypost",
-    "name": "EF Education-EasyPost",
-    "shortName": "EF Education",
-    "code": "EFE",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "United States",
-    "crest": null,
-    "aliases": [
-      "ef-education-first",
-      "ef-education"
-    ]
-  },
-  {
-    "id": "groupama-fdj-united",
-    "name": "Groupama-FDJ United",
-    "shortName": "Groupama-FDJ",
-    "code": "GFC",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "groupama-fdj",
-      "fdj"
-    ]
-  },
-  {
-    "id": "ineos-grenadiers",
-    "name": "INEOS Grenadiers",
-    "shortName": "INEOS Grenadiers",
-    "code": "IGD",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "Great Britain",
-    "crest": null,
-    "aliases": [
-      "team-ineos",
-      "netcompany-ineos"
-    ]
-  },
-  {
-    "id": "lidl-trek",
-    "name": "Lidl-Trek",
-    "shortName": "Lidl-Trek",
-    "code": "LTK",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "Germany",
-    "crest": null,
-    "aliases": [
-      "trek-segafredo"
-    ]
-  },
-  {
-    "id": "lotto-intermarche",
-    "name": "Lotto Intermarché",
-    "shortName": "Lotto",
-    "code": "LOI",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "Belgium",
-    "crest": null,
-    "aliases": [
-      "lotto-soudal",
-      "intermarche-wanty"
-    ]
-  },
-  {
-    "id": "movistar",
-    "name": "Movistar Team",
-    "shortName": "Movistar",
-    "code": "MOV",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "Spain",
-    "crest": null,
-    "aliases": [
-      "movistar-team"
-    ]
-  },
-  {
-    "id": "nsn-cycling-team",
-    "name": "NSN Cycling Team",
-    "shortName": "NSN",
-    "code": "NSN",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "Switzerland",
-    "crest": null,
-    "aliases": [
-      "israel-premier-tech",
-      "israel-start-up-nation"
-    ]
-  },
-  {
-    "id": "red-bull-bora-hansgrohe",
-    "name": "Red Bull-Bora-Hansgrohe",
-    "shortName": "Red Bull-Bora",
-    "code": "RBH",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "Germany",
-    "crest": null,
-    "aliases": [
-      "bora-hansgrohe"
-    ]
-  },
-  {
-    "id": "soudal-quick-step",
-    "name": "Soudal Quick-Step",
-    "shortName": "Soudal Quick-Step",
-    "code": "SOQ",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "Belgium",
-    "crest": null,
-    "aliases": [
-      "quick-step",
-      "soudal-quickstep"
-    ]
-  },
-  {
-    "id": "team-jayco-alula",
-    "name": "Team Jayco AlUla",
-    "shortName": "Jayco AlUla",
-    "code": "JAY",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "Australia",
-    "crest": null,
-    "aliases": [
-      "greenedge",
-      "orica",
-      "mitchelton-scott"
-    ]
-  },
-  {
-    "id": "team-picnic-postnl",
-    "name": "Team Picnic PostNL",
-    "shortName": "Picnic PostNL",
-    "code": "TPP",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "Netherlands",
-    "crest": null,
-    "aliases": [
-      "team-dsm",
-      "dsm-firmenich"
-    ]
-  },
-  {
-    "id": "team-visma-lease-a-bike",
-    "name": "Team Visma | Lease a Bike",
-    "shortName": "Visma-Lease a Bike",
-    "code": "TVL",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "Netherlands",
-    "crest": null,
-    "aliases": [
-      "jumbo-visma"
-    ]
-  },
-  {
-    "id": "uae-team-emirates-xrg",
-    "name": "UAE Team Emirates XRG",
-    "shortName": "UAE Team Emirates",
-    "code": "UAD",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "United Arab Emirates",
-    "crest": null,
-    "aliases": [
-      "uae-team-emirates",
-      "uae-team-adq"
-    ]
-  },
-  {
-    "id": "uno-x-mobility",
-    "name": "Uno-X Mobility",
-    "shortName": "Uno-X",
-    "code": "UXM",
-    "sportId": "cycling",
-    "leagueId": "uci-worldtour",
-    "country": "Norway",
-    "crest": null,
-    "aliases": [
-      "uno-x"
-    ]
   },
   {
     "id": "xds-astana-team",
@@ -3843,254 +4087,10 @@
     "sportId": "cycling",
     "leagueId": "uci-worldtour",
     "country": "Kazakhstan",
-    "crest": null,
+    "crest": "assets/crests/xds-astana-team.png",
     "aliases": [
       "astana-qazaqstan",
       "astana"
     ]
-  },
-  {
-    "id": "aek-athens",
-    "name": "AEK Athens",
-    "shortName": "AEK Athens",
-    "code": "AEK",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Greece",
-    "crest": null,
-    "aliases": [
-      "aek",
-      "aek fc"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "bodo-glimt",
-    "name": "FK Bodø/Glimt",
-    "shortName": "Bodø/Glimt",
-    "code": "BOD",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Norway",
-    "crest": null,
-    "aliases": [
-      "bodo/glimt",
-      "bodo glimt",
-      "glimt"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "club-brugge",
-    "name": "Club Brugge KV",
-    "shortName": "Club Brugge",
-    "code": "CLB",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Belgium",
-    "crest": null,
-    "aliases": [
-      "brugge"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "fenerbahce",
-    "name": "Fenerbahçe",
-    "shortName": "Fenerbahçe",
-    "code": "FEN",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Türkiye",
-    "crest": null,
-    "aliases": [
-      "fenerbahce",
-      "fener"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "feyenoord",
-    "name": "Feyenoord",
-    "shortName": "Feyenoord",
-    "code": "FEY",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Netherlands",
-    "crest": null,
-    "aliases": [],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "galatasaray",
-    "name": "Galatasaray",
-    "shortName": "Galatasaray",
-    "code": "GAL",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Türkiye",
-    "crest": null,
-    "aliases": [
-      "gala"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "lask",
-    "name": "LASK",
-    "shortName": "LASK",
-    "code": "LAS",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Austria",
-    "crest": null,
-    "aliases": [
-      "linzer ask"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "lens",
-    "name": "RC Lens",
-    "shortName": "Lens",
-    "code": "RCL",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "rc lens",
-      "racing club de lens"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "lille",
-    "name": "Lille OSC",
-    "shortName": "Lille",
-    "code": "LIL",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "France",
-    "crest": null,
-    "aliases": [
-      "losc"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "porto",
-    "name": "FC Porto",
-    "shortName": "Porto",
-    "code": "POR",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Portugal",
-    "crest": null,
-    "aliases": [
-      "fc porto"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "psv",
-    "name": "PSV Eindhoven",
-    "shortName": "PSV",
-    "code": "PSV",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Netherlands",
-    "crest": null,
-    "aliases": [
-      "psv eindhoven"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "slovan-bratislava",
-    "name": "ŠK Slovan Bratislava",
-    "shortName": "Slovan Bratislava",
-    "code": "SLO",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Slovakia",
-    "crest": null,
-    "aliases": [
-      "slovan",
-      "belasí"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "sabah",
-    "name": "Sabah FK",
-    "shortName": "Sabah",
-    "code": "SAB",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Azerbaijan",
-    "crest": null,
-    "aliases": [
-      "sabah fk",
-      "sabah baku"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "shakhtar-donetsk",
-    "name": "Shakhtar Donetsk",
-    "shortName": "Shakhtar",
-    "code": "SHA",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Ukraine",
-    "crest": null,
-    "aliases": [
-      "shakhtar"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "slavia-praha",
-    "name": "Slavia Praha",
-    "shortName": "Slavia Praha",
-    "code": "SLA",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Czechia",
-    "crest": null,
-    "aliases": [
-      "slavia prague"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "sporting-cp",
-    "name": "Sporting CP",
-    "shortName": "Sporting",
-    "code": "SCP",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Portugal",
-    "crest": null,
-    "aliases": [
-      "sporting lisbon",
-      "sporting"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "viking-fk",
-    "name": "Viking FK",
-    "shortName": "Viking",
-    "code": "VIK",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Norway",
-    "crest": null,
-    "aliases": [
-      "viking stavanger"
-    ],
-    "hasTeamPageDesign": false
   }
 ]
