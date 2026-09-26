@@ -17,9 +17,9 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  # Data for the live site: `live` (data/live in this repo: Beyond-The-Jersey/data, fixed and
-  # extended by `npm run data:live`, reviewed in a commit), `repo` (the data repo as is, pulled at
-  # build time) or `seed` (the design handover data). The seed copy is always published at /demo/.
+  # Data for the live site: `live` (data/live: a release of Beyond-The-Jersey/data, brought in by a
+  # reviewed pull request from .github/workflows/data-update.yml) or `seed` (the design handover's
+  # data). The seed copy is always published at /demo/.
   LIVE_DATA_SOURCE: live
 
 jobs:
@@ -35,12 +35,6 @@ jobs:
           node-version-file: .nvmrc
           cache: npm
       - run: npm ci
-      - name: Pull the data repo
-        if: env.LIVE_DATA_SOURCE == 'repo'
-        run: npm run data:pull
-        env:
-          # A fine-grained token with read access to Beyond-The-Jersey/data (while that repo is private).
-          GH_TOKEN: ${{ secrets.DATA_REPO_TOKEN }}
       - run: npm run build:pages
         env:
           BTJ_DATA_SOURCE: ${{ env.LIVE_DATA_SOURCE }}

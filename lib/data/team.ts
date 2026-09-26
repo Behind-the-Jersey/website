@@ -258,12 +258,14 @@ function splitLevel(ds: Dataset, template: string, level: LevelId): HeadlineView
 }
 
 /**
- * kit.headline when the data has one. Otherwise built from the "driving" sponsor: the highest
- * tier, front winning ties (the first row). Past kits say "was".
+ * kit.headline when the data has one that still fits: with {level} for a rated shirt, without it for
+ * one not rated yet (a rating can move on after the headline was written). Otherwise built from the
+ * "driving" sponsor: the highest tier, front winning ties (the first row). Past kits say "was".
  */
 export function headlineFor(ds: Dataset, kit: Kit, rows: SponsorRowView[], isPast: boolean): HeadlineView {
   const level = kitLevel(ds, kit);
-  if (kit.headline) return splitLevel(ds, kit.headline, level);
+  if (kit.headline && kit.headline.includes('{level}') === (level !== 'not-rated'))
+    return splitLevel(ds, kit.headline, level);
   const is = isPast ? 'was' : 'is';
   if (level === 'not-rated') {
     const n = rows.filter((r) => !r.rated).length;

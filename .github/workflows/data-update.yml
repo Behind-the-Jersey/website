@@ -1,0 +1,122 @@
+# The website update agent. Every morning, and on demand, it brings the latest release of
+# Beyond-The-Jersey/data into data/live/. When the data changed, it runs the unit tests, builds the
+# site, takes screenshots of the club pages that change, and opens (or updates) a pull request with
+# data/live/REPORT.md. It never merges: a maintainer reviews the pull request, and the merge deploys.
+#
+# Opening the pull request needs one of: a DATA_UPDATE_TOKEN secret (a fine-grained token with
+# contents and pull-request write access to this repo; CI then starts by itself), or the repo
+# setting "Allow GitHub Actions to create and approve pull requests". Without either, the branch is
+# pushed and the run summary has the link to open the pull request by hand.
+name: Data update
+
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+    inputs:
+      release:
+        description: Release tag of Beyond-The-Jersey/data (empty for the latest)
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  pull-requests: write
+  # A pull request opened with the workflow's own token doesn't start CI by itself, so it starts it.
+  actions: write
+
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
+env:
+  BRANCH: data-update
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.DATA_UPDATE_TOKEN || github.token }}
+      OWN_TOKEN: ${{ secrets.DATA_UPDATE_TOKEN == '' }}
+      BTJ_DATA_RELEASE: ${{ inputs.release || 'latest' }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          token: ${{ secrets.DATA_UPDATE_TOKEN || github.token }}
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - run: npm run data:pull
+      - name: Bring the release into data/live
+        id: data
+        run: |
+          npm run data:live
+          echo "tag=$(cat .data-release/RELEASE)" >> "$GITHUB_OUTPUT"
+          if git diff --quiet -- data/live ':!data/live/REPORT.md'; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "data/live already has $(cat .data-release/RELEASE): nothing to update." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Unit tests
+        if: steps.data.outputs.changed == 'true'
+        run: npm test
+      - name: Build the live site
+        if: steps.data.outputs.changed == 'true'
+        run: npm run build
+        env:
+          BTJ_DATA_SOURCE: live
+      - name: Screenshots of the pages that change
+        if: steps.data.outputs.changed == 'true'
+        run: |
+          npx playwright install --with-deps chromium
+          npx serve out -l 4173 --no-clipboard &
+          for _ in $(seq 60); do curl -sf -o /dev/null http://localhost:4173 && break; sleep 1; done
+          node scripts/screenshot-pages.mjs --out screenshots
+      - uses: actions/upload-artifact@v7
+        id: shots
+        if: steps.data.outputs.changed == 'true'
+        with:
+          name: screenshots-${{ steps.data.outputs.tag }}
+          path: screenshots/
+      - name: Open or update the pull request
+        if: steps.data.outputs.changed == 'true'
+        env:
+          TAG: ${{ steps.data.outputs.tag }}
+          SHOTS: ${{ steps.shots.outputs.artifact-url }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git switch -C "$BRANCH"
+          git add data/live
+          git commit -q -m "Data: release $TAG of Beyond-The-Jersey/data" -m "Written by .github/workflows/data-update.yml. What changes on the site: data/live/REPORT.md."
+          git push -f -q origin "$BRANCH"
+          {
+            echo "Brings release [\`$TAG\`](https://github.com/Beyond-The-Jersey/data/releases/tag/$TAG) of the data onto the site. The data was reviewed in the data repo; this is the check that the site shows it as intended."
+            echo
+            echo "- Unit tests and the build passed with this data ([run]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID)). CI runs on this pull request too."
+            echo "- [Screenshots]($SHOTS) of the landing page and the club pages that change (download the zip)."
+            echo
+            echo "**Before you merge:** look at the club levels that change and the screenshots. Anything wrong in the data gets fixed in [Beyond-The-Jersey/data](https://github.com/Beyond-The-Jersey/data), not here; close this pull request and the next release brings the fix. Merging deploys the site."
+            echo
+            echo '---'
+            echo
+            head -c 55000 data/live/REPORT.md
+            if [ "$(wc -c < data/live/REPORT.md)" -gt 55000 ]; then echo; echo; echo '… (shortened: the whole report is data/live/REPORT.md in this pull request)'; fi
+          } > pr-body.md
+          title="Data: release $TAG"
+          pr=$(gh pr list --head "$BRANCH" --state open --json number -q '.[0].number')
+          cat pr-body.md >> "$GITHUB_STEP_SUMMARY"
+          if [ -n "$pr" ]; then
+            gh pr edit "$pr" --title "$title" --body-file pr-body.md
+          elif ! gh pr create --base main --head "$BRANCH" --title "$title" --body-file pr-body.md 2> pr-error.txt; then
+            cat pr-error.txt
+            grep -qi 'not permitted to create' pr-error.txt || exit 1
+            link="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/compare/main...$BRANCH?expand=1"
+            echo "::notice::GitHub Actions may not open pull requests in this repo. Open it here: $link"
+            { echo; echo "**[Open the pull request]($link)** (Actions may not open it in this repo), with the description above."; } >> "$GITHUB_STEP_SUMMARY"
+          fi
+          # A push with the workflow's own token doesn't start CI, so start it on the branch.
+          if [ "$OWN_TOKEN" = true ]; then gh workflow run ci.yml --ref "$BRANCH"; fi

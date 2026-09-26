@@ -206,6 +206,18 @@ describe('headlineFor without kit.headline', () => {
     );
   });
 
+  it('ignores a kit headline that no longer fits the rating', () => {
+    const rows = (k: Kit) => sponsorRows(ds, k, null, { club: 'X', isPast: false }).rows;
+    const rated = { ...bare('arsenal-2026-27-home'), headline: 'We haven’t rated this shirt yet.' };
+    expect(headlineFor(ds, rated, rows(rated), false).text).toBe(
+      'The shirt is Stained: the front sponsor, Emirates, is owned by the Government of Dubai.',
+    );
+    const unrated = { ...bare('aston-villa-2025-26-home'), headline: 'The shirt is {level}.' };
+    expect(headlineFor(ds, unrated, rows(unrated), false).text).toBe(
+      'We haven’t rated this shirt yet: 2 sponsors still need checking.',
+    );
+  });
+
   it('uses "part-owned by" for a sponsor a state only part-owns', () => {
     expect(build('newcastle-united-2026-27-home').text).toBe(
       'The shirt is Spotted: the sleeve sponsor, noon, is part-owned by the Public Investment Fund (Saudi Arabia).',

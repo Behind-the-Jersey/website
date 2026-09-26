@@ -1,5 +1,6 @@
-// Zod mirror of data/schema/*.schema.json. Keep the two in step: the JSON Schemas are the
-// contract with the data repo, these are what the site validates against at build time.
+// Zod mirror of the JSON Schemas in Beyond-The-Jersey/data (schema/*.schema.json, one per record).
+// Keep the two in step: the JSON Schemas are the contract, these are what the site validates
+// against at build time.
 import { z } from 'zod';
 
 const id = z.string().regex(/^[a-z0-9]+(-[a-z0-9]+)*$/, 'ids are ASCII kebab-case');

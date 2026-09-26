@@ -15,24 +15,25 @@ export const REPO_URL = (process.env.NEXT_PUBLIC_REPO_URL || 'https://github.com
   '',
 );
 
-/** The research pipeline the agents run: Beyond-The-Jersey/pipeline (public). */
-export const PIPELINE_URL = (
-  process.env.NEXT_PUBLIC_PIPELINE_URL || 'https://github.com/Beyond-The-Jersey/pipeline'
-).replace(/\/$/, '');
-
-/** A page in the data repo: repoHref('/issues'), repoHref('#files'). */
+/** A page in the data repo: repoHref('/issues'), repoHref('/blob/main/CONTRIBUTING.md'). */
 export const repoHref = (path = '') => `${REPO_URL}${path}`;
 
-/** A new issue in the data repo, asking to check a club (label: club). */
+/** The brief for contributors' agents, in the data repo. */
+export const AGENT_GUIDE_URL = repoHref('/blob/main/agents/research.md');
+
+/** How to contribute and the record format, in the data repo. */
+export const CONTRIBUTING_URL = repoHref('/blob/main/CONTRIBUTING.md');
+
+/** A new issue in the data repo from its "Check a club" form (label: club), with the club filled in. */
 export const claimClubHref = (clubName: string) =>
-  `${REPO_URL}/issues/new?title=${encodeURIComponent(`Check ${clubName}`)}&labels=club`;
+  `${REPO_URL}/issues/new?template=check-club.yml&title=${encodeURIComponent(`Check club: ${clubName}`)}&club=${encodeURIComponent(clubName)}`;
 
 /** The crest next to the club name on team pages is a test feature (handover/docs/03-page-specs.md §4.1). */
 export const SHOW_TEAM_CREST = process.env.NEXT_PUBLIC_SHOW_TEAM_CREST !== 'false';
 
-/** A new issue in the data repo, asking to check an unrated sponsor (label: research). */
+/** A new issue in the data repo from its "Check a sponsor" form (label: research), with the sponsor filled in. */
 export const sponsorCheckHref = (sponsorName: string) =>
-  `${REPO_URL}/issues/new?labels=research&title=${encodeURIComponent(`Check sponsor: ${sponsorName}`)}`;
+  `${REPO_URL}/issues/new?template=check-sponsor.yml&title=${encodeURIComponent(`Check sponsor: ${sponsorName}`)}&sponsor=${encodeURIComponent(sponsorName)}`;
 
 /** The "Follow {club}" row on team pages. Alerts aren't live yet, so it opens a dialog. */
 export const FOLLOW_ROW = process.env.NEXT_PUBLIC_FOLLOW_ROW !== 'false';

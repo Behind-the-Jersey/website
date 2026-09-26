@@ -1,6 +1,6 @@
 # CLAUDE.md: Behind the Jersey
 
-> **This repo, as built so far (25 Sep 2026).** The site lives at the repo root (Next.js 16, static export, Node 24 via `.nvmrc`); the handovers are kept as received in `handover/` (the team page v3 update in `handover/update-v3/`). Data goes through `lib/data` (see `lib/data/README.md`), from `data/seed` by default (tests, `/demo/`). The live site builds from `data/live`: the data repo (Beyond-The-Jersey/data) run through `npm run data:live`, which fixes what can't be shown as is and merges `data/live-overlay.json`; read `data/live/REPORT.md` after every update. `README.md` lists the differences from the design we chose to keep. Checks: `npm run build`, `npm test`, `npm run test:e2e`, `node scripts/visual-compare.mjs --site <url>`.
+> **This repo, as built so far (25 Sep 2026).** The site lives at the repo root (Next.js 16, static export, Node 24 via `.nvmrc`); the handovers are kept as received in `handover/` (the team page v3 update in `handover/update-v3/`). Data goes through `lib/data` (see `lib/data/README.md`), from `data/seed` by default (tests, `/demo/`). The live site builds from `data/live`: a release of the data repo (Beyond-The-Jersey/data, where the data, its JSON Schemas and its checks now live), copied in by `npm run data:pull && npm run data:live` and reviewed as a pull request (`.github/workflows/data-update.yml` opens it); read `data/live/REPORT.md` after every update. Fix data errors in the data repo, not here. `README.md` lists the differences from the design we chose to keep. Checks: `npm run build`, `npm test`, `npm run test:e2e`, `node scripts/visual-compare.mjs --site <url>`.
 
 You are implementing **Behind the Jersey**, a fan-facing website that shows who really pays for the sponsors on sports jerseys. It rates each club with a blood level: Clean, Spotted, Stained, Soaked. The design is finished for five pages. Your job is to build them as a real, data-driven website and connect them to the data that exists.
 
@@ -22,7 +22,7 @@ Read this file first, then the docs in this order:
 | `handover/design/source/*.dc.html` | The original design components (markup, inline styles and JS logic) | **The source of truth** for exact styles, copy and behaviour. See `handover/design/README.md` for how to read them. |
 | `handover/assets/` (copied to `public/assets/`) | Club crests and real shirt photos, plus `manifest.json` | Copy into the app's public folder. **Not cleared for public use** (see licensing below). |
 | `data/seed/*.json` | All the data the designs use, normalised, with sources | Use as the first data source and as test fixtures. |
-| `data/schema/*.schema.json` | JSON Schemas for every seed file | Validate data at build time. |
+| `data/schema/*.schema.json` | JSON Schemas for every seed file | Moved to the data repo's `schema/` (one per record). `lib/data/schema.ts` mirrors them. |
 
 ## Pages to build (scope of this handover)
 

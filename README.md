@@ -24,35 +24,38 @@ npm run dev          # http://localhost:3000
 | `npm test` | Unit tests (Vitest): rating rule, league summaries, search, data checks, the team page view model (rows, headlines, why boxes, markers) and the "Tell the club" message |
 | `npm run test:e2e` | Builds, serves `out/` and runs the Playwright tests (desktop 1440×900 and a phone) |
 | `npm run validate:data` | Validates the configured data source against the schemas and checks references and assets |
-| `npm run data:pull` | Clones or updates Beyond-The-Jersey/data into `.data-repo/` |
+| `npm run data:pull` | Downloads the latest release of Beyond-The-Jersey/data into `.data-release/` (`BTJ_DATA_RELEASE=<tag>` for another) |
+| `npm run data:live` | Copies that release into `data/live/` and writes `data/live/REPORT.md`: what changes on the site |
 | `npm run lint` / `npm run typecheck` | ESLint / TypeScript |
 | `node scripts/visual-compare.mjs` | Side-by-side screenshots of each route and its design snapshot in `test-results/visual/` (site must be running, `--site <url>`) |
 
 ## Where the data comes from
 
-Every page reads its content through [`lib/data`](lib/data/README.md), which loads 14 JSON files, validates them against [`data/schema`](data/schema) and derives everything else (club levels, league summaries, the search index). Choose the source with `BTJ_DATA_SOURCE`:
+Every page reads its content through [`lib/data`](lib/data/README.md), which loads 14 JSON files, validates them (zod, mirroring the data repo's [`schema/`](https://github.com/Beyond-The-Jersey/data/tree/main/schema)) and derives everything else (club levels, league summaries, the search index). Choose the source with `BTJ_DATA_SOURCE`:
 
 | Source | Reads |
 |---|---|
 | `seed` (default) | [`data/seed/`](data/seed): every fact the designs use, with sources. `/demo/` and the tests use it. |
-| `live` | [`data/live/`](data/live): Beyond-The-Jersey/data, fixed and extended for the site. The live site uses it. |
-| `repo` | a checkout of Beyond-The-Jersey/data, folder `normalized/` (run `npm run data:pull` first; override with `BTJ_DATA_DIR`) |
-| `api` | `$BTJ_DATA_URL/<file>.json` over HTTP, with `$BTJ_DATA_TOKEN` as a bearer token |
+| `live` | [`data/live/`](data/live): a release of Beyond-The-Jersey/data, reviewed in a pull request. The live site uses it. |
+| `release` | a release downloaded by `npm run data:pull`, in `.data-release/` (override with `BTJ_DATA_DIR`), before it's reviewed |
+| `api` | `$BTJ_DATA_URL/<file>.json` over HTTP, with `$BTJ_DATA_TOKEN` as a bearer token if set, e.g. `https://github.com/Beyond-The-Jersey/data/releases/latest/download` |
 
-The data repo publishes the normalised files (what we asked for is in [`docs/data-request/`](docs/data-request/README.md)). The live site doesn't read them directly: `npm run data:live` turns them into [`data/live/`](data/live), which is committed, so every data update is a reviewable diff and CI needs no token for the private repo:
+[Beyond-The-Jersey/data](https://github.com/Beyond-The-Jersey/data) is where the data is edited, checked and reviewed: one JSON file per record, a schema, CI and a review agent on every pull request. Every merge there publishes a [release](https://github.com/Beyond-The-Jersey/data/releases) (JSON, CSV and a zip). The live site doesn't read a release directly: it's copied into [`data/live/`](data/live), which is committed, so every data update is a pull request here too, and nothing reaches the site unreviewed:
 
 ```bash
-npm run data:pull   # clone or update Beyond-The-Jersey/data in .data-repo/
-npm run data:live   # write data/live/ and data/live/REPORT.md
+npm run data:pull   # download the latest release into .data-release/
+npm run data:live   # copy it into data/live/ and write data/live/REPORT.md
 ```
 
-[`scripts/build-live-data.ts`](scripts/build-live-data.ts) fixes what the site can't show as is and logs each change in [`data/live/REPORT.md`](data/live/REPORT.md): season kits written as `2026`→`2027` become `2026-27`; claims with a placeholder source (`example.com`, "Inference based on company name…") are dropped, and a sponsor rated only on those goes back to "not rated yet"; links that returned 404 are removed (the source stays); league status follows coverage; a headline that no longer fits the rating is dropped. It then applies [`data/live-overlay.json`](data/live-overlay.json), for anything the site needs before the data repo has it: fields merged by id, rating holds (shown as "not rated yet" with the owner and evidence kept), exact claim-text edits, and the list of dead links. It never raises a tier, and never sets a deal value or a source. Since Beyond-The-Jersey/data#278 the design copy, "why" texts, holds and claim clean-ups live in the data repo, so the overlay only lists dead links; propose anything you add there upstream too, and delete it here once it's merged. The data repo's rating rule is in its README ("Rating rule"): state ownership alone is not a tier.
+[`data/live/REPORT.md`](data/live/REPORT.md) says what changes on the site compared with the data it replaces: club levels, sponsor ratings, clubs, sponsors, owners and claims added or removed, clubs whose kits change, and the data's warnings. Nothing is fixed on the way: a data error is fixed in the data repo, and the next release brings it here.
+
+**The website update workflow** ([`.github/workflows/data-update.yml`](.github/workflows/data-update.yml)) does this every morning and on demand: it pulls the latest release, and if anything changed it runs the tests, builds the site, takes screenshots of the club pages whose level changes, and opens a pull request with the report. A maintainer reviews it and merges; the merge deploys.
 
 Club levels are never stored: they're derived from the sponsors' tiers and where they sit on the shirt ([`lib/data/rating.ts`](lib/data/rating.ts), the draft rule from the handover). `kits[].levelOverride` exists for exceptions.
 
 ## Adding content
 
-All in `data/seed/` (or the same files in the data repo). Run `npm run validate:data` after each change.
+Real content goes into [Beyond-The-Jersey/data](https://github.com/Beyond-The-Jersey/data), one file per record, as its [CONTRIBUTING.md](https://github.com/Beyond-The-Jersey/data/blob/main/CONTRIBUTING.md) explains; it reaches the site with the next release. `data/seed/` is the design's data for `/demo/` and the tests; run `npm run validate:data` after changing it. The fields are the same in both:
 
 - **Club:** add it to `clubs.json` with an ASCII kebab-case `id`, `leagueId` and `aliases` (what fans type: "spurs", "gunners"). Put the crest at `public/assets/crests/<id>.png` (200×200 PNG) and set `crest: "assets/crests/<id>.png"`, or `null` to show initials.
 - **Kit:** one entry per club per season, or per period when nothing changed (`periodFrom`/`periodTo`, `periodLabel` "2006/07 – 2017/18"). List each sponsor with its `placement` and a `source`. For a team page, add front and back photos (720×800 on white) under `public/assets/shirts/<club>/<season>-home-{front,back}.jpg` and give every sponsor `side` (`front` or `back`: which photo) and a `hotspot`: the logo's centre and size as fractions of the photo. Measure the logo box in pixels and divide by 720 and 800; a logo centred at (369, 314) and 266×104 px is `{ "x": 0.513, "y": 0.393, "w": 0.37, "h": 0.13 }`. Every club has a page at `/clubs/<id>/`; with both photos and every hotspot its shirt gets numbered markers, with only a photo (`front` or `square`) the photo is shown without markers, and without one a placeholder. `cardSlot` is no longer used. Optional: `headline` (the sentence under the club name, with `{level}`; otherwise it's built from the worst sponsor) and `shortLine` (the line in "Travel back in time").
@@ -72,8 +75,7 @@ Copy `.env.example` to `.env.local`.
 
 | Variable | Default | Purpose |
 |---|---|---|
-| `NEXT_PUBLIC_REPO_URL` | `https://github.com/Beyond-The-Jersey/data` | The open data: "Open data on GitHub", "Sources", the contribute section, "Every change, with sources", the Follow dialog, and the "Help check" issue links (labels `club` and `research`). |
-| `NEXT_PUBLIC_PIPELINE_URL` | `https://github.com/Beyond-The-Jersey/pipeline` | "Run our agents → Read the guide" in the contribute section. |
+| `NEXT_PUBLIC_REPO_URL` | `https://github.com/Beyond-The-Jersey/data` | The open data: "Open data on GitHub", "Sources", the contribute section, "Every change, with sources", the Follow dialog, and the "Help check" issue links (its "Check a club" and "Check a sponsor" forms). |
 | `NEXT_PUBLIC_SITE_URL` | `http://localhost:3000` | Absolute URLs for Open Graph images |
 | `NEXT_PUBLIC_SHOW_TEAM_CREST` | `true` | The crest next to the club name on team pages (a test feature) |
 | `NEXT_PUBLIC_BASE_PATH`, `NEXT_PUBLIC_DEMO` | unset | Set by `build:pages` for the `/demo/` copy |
@@ -102,8 +104,8 @@ lib/messages.ts      the "Tell {club}" draft message
 lib/data/            data layer (see its README)
 lib/search.ts        search matching (runs in the browser)
 lib/og/              share-card rendering and the TTF it needs (SIL OFL)
-data/seed, schema    seed data and JSON Schemas; data/validate.py is the same check in Python for the data agent
-docs/data-request/   what the website needs from Beyond-The-Jersey/data
+data/seed/           the design's data: /demo/ and the tests
+data/live/           the live site's data: a release of Beyond-The-Jersey/data (npm run data:live)
 e2e/, tests/         Playwright and Vitest
 handover/            the design handover as received (docs, snapshots, design source, assets); update-v3/ is the team page update
 public/assets/       crests and shirt photos from the handover (not cleared for public use)

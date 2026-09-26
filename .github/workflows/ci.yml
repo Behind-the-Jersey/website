@@ -3,6 +3,8 @@ on:
   push:
     branches: [main]
   pull_request:
+  # The data update workflow starts CI on its branch (its own pushes don't trigger workflows).
+  workflow_dispatch:
 
 jobs:
   test:

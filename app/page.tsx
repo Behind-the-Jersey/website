@@ -5,7 +5,7 @@ import { CodeIcon } from '@/components/LogoMark';
 import { RotatingHeadline } from '@/components/RotatingHeadline';
 import { SearchBox } from '@/components/search/SearchBox';
 import { Container, SiteFooter, SiteHeader } from '@/components/SiteChrome';
-import { claimClubHref, PIPELINE_URL, REPO_URL, repoHref } from '@/lib/config';
+import { AGENT_GUIDE_URL, claimClubHref, CONTRIBUTING_URL, REPO_URL, repoHref } from '@/lib/config';
 import { getDataset } from '@/lib/data';
 import {
   clubsToCheck,
@@ -73,13 +73,13 @@ const WAYS = [
     title: 'Run our agents',
     text: 'Point our pipeline at a club nobody has checked yet and open a pull request with what it finds.',
     cta: 'Read the guide',
-    href: `${PIPELINE_URL}#readme`,
+    href: AGENT_GUIDE_URL,
   },
   {
     title: 'Bring your own agent',
     text: 'Any agent can help if it writes our evidence format: one claim, one source, one file.',
     cta: 'See the format',
-    href: repoHref('#files'),
+    href: CONTRIBUTING_URL,
   },
   {
     title: 'Check a club by hand',
@@ -134,7 +134,7 @@ export default async function Landing() {
               id="just-changed"
               title="Just changed"
               sub="Sponsors come and go every summer. This is what moved, and which way."
-              link={{ href: repoHref('/blob/main/normalized/changes.json'), label: 'Every change, with sources →' }}
+              link={{ href: repoHref('/tree/main/data/changes'), label: 'Every change, with sources →' }}
             />
             <div className={s.grid4}>
               {changes.map((c) => (

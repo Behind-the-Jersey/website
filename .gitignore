@@ -8,7 +8,7 @@ next-env.d.ts
 /playwright-report/
 /blob-report/
 /playwright/.cache/
-/.data-repo/
+/.data-release/
 .env*.local
 /.claude/settings.local.json
 /out-demo/

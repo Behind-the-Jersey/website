@@ -1,4 +1,5 @@
-// data/live: the data repo as the live site uses it (npm run data:live). These guard the fixes.
+// data/live: the data repo's release as the live site uses it (npm run data:live). These guard what
+// the data repo fixed before publishing, and what the site does with the data.
 import fs from 'node:fs';
 import path from 'node:path';
 import { beforeAll, describe, expect, it } from 'vitest';

@@ -4,7 +4,6 @@ out/
 .next/
 data/seed/
 data/live/
-data/schema/
 docs/data-request/request.json
 *.md
 package-lock.json

@@ -1,4 +1,4 @@
-// Cross-file checks the JSON Schemas can't express. Mirrors data/validate.py so the data repo and
+// Cross-file checks the JSON Schemas can't express. Mirrors the data repo's scripts/validate.py so it and
 // the site agree on what "valid" means. Errors fail the build; warnings are printed.
 import type { RawDataset } from './schema';
 

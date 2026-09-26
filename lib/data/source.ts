@@ -2,12 +2,12 @@
 // which asks one of these sources for the raw JSON and validates it.
 //
 //   BTJ_DATA_SOURCE=seed (default)  data/seed/*.json in this repo (the design handover's data; /demo/)
-//   BTJ_DATA_SOURCE=live            data/live/*.json: the data repo, fixed and extended for the site by
-//                                   scripts/build-live-data.ts (npm run data:live). The live site uses it.
-//   BTJ_DATA_SOURCE=repo            a checkout of Beyond-The-Jersey/data (see scripts/pull-data.sh),
-//                                   files in $BTJ_DATA_DIR (default .data-repo/normalized)
+//   BTJ_DATA_SOURCE=live            data/live/*.json: a release of Beyond-The-Jersey/data, copied in and
+//                                   reviewed in a pull request (npm run data:live). The live site uses it.
+//   BTJ_DATA_SOURCE=release         a release downloaded by npm run data:pull, in $BTJ_DATA_DIR
+//                                   (default .data-release), before it's reviewed
 //   BTJ_DATA_SOURCE=api             $BTJ_DATA_URL/<file>.json over HTTP, with $BTJ_DATA_TOKEN as a bearer
-//                                   token if set (e.g. raw.githubusercontent.com for a private repo)
+//                                   token if set (e.g. https://github.com/Beyond-The-Jersey/data/releases/latest/download)
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { DATA_FILES, type RawDataset } from './schema';
@@ -81,12 +81,12 @@ export function sourceFromEnv(env: NodeJS.ProcessEnv = process.env): DataSource 
       return new DirectorySource('seed', SEED_DIR);
     case 'live':
       return new DirectorySource('live', LIVE_DIR);
-    case 'repo':
-      return new DirectorySource('repo', path.resolve(env.BTJ_DATA_DIR ?? path.join('.data-repo', 'normalized')));
+    case 'release':
+      return new DirectorySource('release', path.resolve(env.BTJ_DATA_DIR ?? '.data-release'));
     case 'api':
       if (!env.BTJ_DATA_URL) throw new Error('BTJ_DATA_SOURCE=api needs BTJ_DATA_URL');
       return new HttpSource(env.BTJ_DATA_URL, env.BTJ_DATA_TOKEN);
     default:
-      throw new Error(`Unknown BTJ_DATA_SOURCE "${kind}". Use seed, live, repo or api.`);
+      throw new Error(`Unknown BTJ_DATA_SOURCE "${kind}". Use seed, live, release or api.`);
   }
 }
