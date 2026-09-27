@@ -9,8 +9,8 @@ export const asset = (p: string) => `${BASE_PATH}/${p.replace(/^\//, '')}`;
 /** True for the demo copy of the site that keeps the design handover's sample data. */
 export const IS_DEMO = process.env.NEXT_PUBLIC_DEMO === 'true';
 
-/** The open data: Beyond-The-Jersey/data (public). Override with NEXT_PUBLIC_REPO_URL. */
-export const REPO_URL = (process.env.NEXT_PUBLIC_REPO_URL || 'https://github.com/Beyond-The-Jersey/data').replace(
+/** The open data: Behind-the-Jersey/data (public). Override with NEXT_PUBLIC_REPO_URL. */
+export const REPO_URL = (process.env.NEXT_PUBLIC_REPO_URL || 'https://github.com/Behind-the-Jersey/data').replace(
   /\/$/,
   '',
 );

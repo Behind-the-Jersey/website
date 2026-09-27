@@ -17,7 +17,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  # Data for the live site: `live` (data/live: a release of Beyond-The-Jersey/data, brought in by a
+  # Data for the live site: `live` (data/live: a release of Behind-the-Jersey/data, brought in by a
   # reviewed pull request from .github/workflows/data-update.yml) or `seed` (the design handover's
   # data). The seed copy is always published at /demo/.
   LIVE_DATA_SOURCE: live

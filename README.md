@@ -24,23 +24,23 @@ npm run dev          # http://localhost:3000
 | `npm test` | Unit tests (Vitest): rating rule, league summaries, search, data checks, the team page view model (rows, headlines, why boxes, markers) and the "Tell the club" message |
 | `npm run test:e2e` | Builds, serves `out/` and runs the Playwright tests (desktop 1440×900 and a phone) |
 | `npm run validate:data` | Validates the configured data source against the schemas and checks references and assets |
-| `npm run data:pull` | Downloads the latest release of Beyond-The-Jersey/data into `.data-release/` (`BTJ_DATA_RELEASE=<tag>` for another) |
+| `npm run data:pull` | Downloads the latest release of Behind-the-Jersey/data into `.data-release/` (`BTJ_DATA_RELEASE=<tag>` for another) |
 | `npm run data:live` | Copies that release into `data/live/` and writes `data/live/REPORT.md`: what changes on the site |
 | `npm run lint` / `npm run typecheck` | ESLint / TypeScript |
 | `node scripts/visual-compare.mjs` | Side-by-side screenshots of each route and its design snapshot in `test-results/visual/` (site must be running, `--site <url>`) |
 
 ## Where the data comes from
 
-Every page reads its content through [`lib/data`](lib/data/README.md), which loads 14 JSON files, validates them (zod, mirroring the data repo's [`schema/`](https://github.com/Beyond-The-Jersey/data/tree/main/schema)) and derives everything else (club levels, league summaries, the search index). Choose the source with `BTJ_DATA_SOURCE`:
+Every page reads its content through [`lib/data`](lib/data/README.md), which loads 14 JSON files, validates them (zod, mirroring the data repo's [`schema/`](https://github.com/Behind-the-Jersey/data/tree/main/schema)) and derives everything else (club levels, league summaries, the search index). Choose the source with `BTJ_DATA_SOURCE`:
 
 | Source | Reads |
 |---|---|
 | `seed` (default) | [`data/seed/`](data/seed): every fact the designs use, with sources. `/demo/` and the tests use it. |
-| `live` | [`data/live/`](data/live): a release of Beyond-The-Jersey/data, reviewed in a pull request. The live site uses it. |
+| `live` | [`data/live/`](data/live): a release of Behind-the-Jersey/data, reviewed in a pull request. The live site uses it. |
 | `release` | a release downloaded by `npm run data:pull`, in `.data-release/` (override with `BTJ_DATA_DIR`), before it's reviewed |
-| `api` | `$BTJ_DATA_URL/<file>.json` over HTTP, with `$BTJ_DATA_TOKEN` as a bearer token if set, e.g. `https://github.com/Beyond-The-Jersey/data/releases/latest/download` |
+| `api` | `$BTJ_DATA_URL/<file>.json` over HTTP, with `$BTJ_DATA_TOKEN` as a bearer token if set, e.g. `https://github.com/Behind-the-Jersey/data/releases/latest/download` |
 
-[Beyond-The-Jersey/data](https://github.com/Beyond-The-Jersey/data) is where the data is edited, checked and reviewed: one JSON file per record, a schema, CI and a review agent on every pull request. Every merge there publishes a [release](https://github.com/Beyond-The-Jersey/data/releases) (JSON, CSV and a zip). The live site doesn't read a release directly: it's copied into [`data/live/`](data/live), which is committed, so every data update is a pull request here too, and nothing reaches the site unreviewed:
+[Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data) is where the data is edited, checked and reviewed: one JSON file per record, a schema, CI and a review agent on every pull request. Every merge there publishes a [release](https://github.com/Behind-the-Jersey/data/releases) (JSON, CSV and a zip). The live site doesn't read a release directly: it's copied into [`data/live/`](data/live), which is committed, so every data update is a pull request here too, and nothing reaches the site unreviewed:
 
 ```bash
 npm run data:pull   # download the latest release into .data-release/
@@ -55,7 +55,7 @@ Club levels are never stored: they're derived from the sponsors' tiers and where
 
 ## Adding content
 
-Real content goes into [Beyond-The-Jersey/data](https://github.com/Beyond-The-Jersey/data), one file per record, as its [CONTRIBUTING.md](https://github.com/Beyond-The-Jersey/data/blob/main/CONTRIBUTING.md) explains; it reaches the site with the next release. `data/seed/` is the design's data for `/demo/` and the tests; run `npm run validate:data` after changing it. The fields are the same in both:
+Real content goes into [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), one file per record, as its [CONTRIBUTING.md](https://github.com/Behind-the-Jersey/data/blob/main/CONTRIBUTING.md) explains; it reaches the site with the next release. `data/seed/` is the design's data for `/demo/` and the tests; run `npm run validate:data` after changing it. The fields are the same in both:
 
 - **Club:** add it to `clubs.json` with an ASCII kebab-case `id`, `leagueId` and `aliases` (what fans type: "spurs", "gunners"). Put the crest at `public/assets/crests/<id>.png` (200×200 PNG) and set `crest: "assets/crests/<id>.png"`, or `null` to show initials.
 - **Kit:** one entry per club per season, or per period when nothing changed (`periodFrom`/`periodTo`, `periodLabel` "2006/07 – 2017/18"). List each sponsor with its `placement` and a `source`. For a team page, add front and back photos (720×800 on white) under `public/assets/shirts/<club>/<season>-home-{front,back}.jpg` and give every sponsor `side` (`front` or `back`: which photo) and a `hotspot`: the logo's centre and size as fractions of the photo. Measure the logo box in pixels and divide by 720 and 800; a logo centred at (369, 314) and 266×104 px is `{ "x": 0.513, "y": 0.393, "w": 0.37, "h": 0.13 }`. Every club has a page at `/clubs/<id>/`; with both photos and every hotspot its shirt gets numbered markers, with only a photo (`front` or `square`) the photo is shown without markers, and without one a placeholder. `cardSlot` is no longer used. Optional: `headline` (the sentence under the club name, with `{level}`; otherwise it's built from the worst sponsor) and `shortLine` (the line in "Travel back in time").
@@ -75,7 +75,7 @@ Copy `.env.example` to `.env.local`.
 
 | Variable | Default | Purpose |
 |---|---|---|
-| `NEXT_PUBLIC_REPO_URL` | `https://github.com/Beyond-The-Jersey/data` | The open data: "Open data on GitHub", "Sources", the contribute section, "Every change, with sources", the Follow dialog, and the "Help check" issue links (its "Check a club" and "Check a sponsor" forms). |
+| `NEXT_PUBLIC_REPO_URL` | `https://github.com/Behind-the-Jersey/data` | The open data: "Open data on GitHub", "Sources", the contribute section, "Every change, with sources", the Follow dialog, and the "Help check" issue links (its "Check a club" and "Check a sponsor" forms). |
 | `NEXT_PUBLIC_SITE_URL` | `http://localhost:3000` | Absolute URLs for Open Graph images |
 | `NEXT_PUBLIC_SHOW_TEAM_CREST` | `true` | The crest next to the club name on team pages (a test feature) |
 | `NEXT_PUBLIC_BASE_PATH`, `NEXT_PUBLIC_DEMO` | unset | Set by `build:pages` for the `/demo/` copy |
@@ -88,7 +88,7 @@ The site is on GitHub Pages at **https://behind-the-jersey.org**. [`.github/work
 
 - `/`: the live site, from `data/live` (`LIVE_DATA_SOURCE` in `pages.yml`; `repo` would read the data repo at build time and needs a `DATA_REPO_TOKEN` secret while it's private).
 - `/demo/`: always the seed data from the design handover, with a banner saying so. It's built with `NEXT_PUBLIC_BASE_PATH=/demo`.
- The custom domain is set in the repo's Pages settings; DNS is at Gandi (apex `A`/`AAAA` records to GitHub Pages, `www` as a `CNAME` to `beyond-the-jersey.github.io`).
+ The custom domain is set in the repo's Pages settings; DNS is at Gandi (apex `A`/`AAAA` records to GitHub Pages, `www` as a `CNAME` to `behind-the-jersey.github.io`).
 
 `npm run build` writes a fully static site to `out/`, so any static host works. Routes end in `/` (`trailingSlash`), and a post-build step gives the Open Graph images a `.png` extension so static hosts serve them as images.
 
@@ -105,7 +105,7 @@ lib/data/            data layer (see its README)
 lib/search.ts        search matching (runs in the browser)
 lib/og/              share-card rendering and the TTF it needs (SIL OFL)
 data/seed/           the design's data: /demo/ and the tests
-data/live/           the live site's data: a release of Beyond-The-Jersey/data (npm run data:live)
+data/live/           the live site's data: a release of Behind-the-Jersey/data (npm run data:live)
 e2e/, tests/         Playwright and Vitest
 handover/            the design handover as received (docs, snapshots, design source, assets); update-v3/ is the team page update
 public/assets/       crests and shirt photos from the handover (not cleared for public use)

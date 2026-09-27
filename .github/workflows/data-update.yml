@@ -1,5 +1,5 @@
 # The website update agent. Every morning, and on demand, it brings the latest release of
-# Beyond-The-Jersey/data into data/live/. When the data changed, it runs the unit tests, builds the
+# Behind-the-Jersey/data into data/live/. When the data changed, it runs the unit tests, builds the
 # site, takes screenshots of the club pages that change, and opens (or updates) a pull request with
 # data/live/REPORT.md. It never merges: a maintainer reviews the pull request, and the merge deploys.
 #
@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
     inputs:
       release:
-        description: Release tag of Beyond-The-Jersey/data (empty for the latest)
+        description: Release tag of Behind-the-Jersey/data (empty for the latest)
         required: false
         default: ''
 
@@ -54,7 +54,9 @@ jobs:
         run: |
           npm run data:live
           echo "tag=$(cat .data-release/RELEASE)" >> "$GITHUB_OUTPUT"
-          if git diff --quiet -- data/live ':!data/live/REPORT.md'; then
+          # Only the records count: a release whose meta.json alone differs (a docs or scripts change in
+          # the data repo) doesn't need a pull request.
+          if git diff --quiet -- data/live ':!data/live/REPORT.md' ':!data/live/meta.json'; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "data/live already has $(cat .data-release/RELEASE): nothing to update." >> "$GITHUB_STEP_SUMMARY"
           else
@@ -91,15 +93,15 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git switch -C "$BRANCH"
           git add data/live
-          git commit -q -m "Data: release $TAG of Beyond-The-Jersey/data" -m "Written by .github/workflows/data-update.yml. What changes on the site: data/live/REPORT.md."
+          git commit -q -m "Data: release $TAG of Behind-the-Jersey/data" -m "Written by .github/workflows/data-update.yml. What changes on the site: data/live/REPORT.md."
           git push -f -q origin "$BRANCH"
           {
-            echo "Brings release [\`$TAG\`](https://github.com/Beyond-The-Jersey/data/releases/tag/$TAG) of the data onto the site. The data was reviewed in the data repo; this is the check that the site shows it as intended."
+            echo "Brings release [\`$TAG\`](https://github.com/Behind-the-Jersey/data/releases/tag/$TAG) of the data onto the site. The data was reviewed in the data repo; this is the check that the site shows it as intended."
             echo
             echo "- Unit tests and the build passed with this data ([run]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID)). CI runs on this pull request too."
             echo "- [Screenshots]($SHOTS) of the landing page and the club pages that change (download the zip)."
             echo
-            echo "**Before you merge:** look at the club levels that change and the screenshots. Anything wrong in the data gets fixed in [Beyond-The-Jersey/data](https://github.com/Beyond-The-Jersey/data), not here; close this pull request and the next release brings the fix. Merging deploys the site."
+            echo "**Before you merge:** look at the club levels that change and the screenshots. Anything wrong in the data gets fixed in [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), not here; close this pull request and the next release brings the fix. Merging deploys the site."
             echo
             echo '---'
             echo

@@ -1,4 +1,4 @@
-// Builds data/live/, the data the live site uses, from a release of Beyond-The-Jersey/data.
+// Builds data/live/, the data the live site uses, from a release of Behind-the-Jersey/data.
 //
 //   npm run data:pull   # the latest release into .data-release/ (BTJ_DATA_RELEASE=<tag> for another)
 //   npm run data:live   # check it and write data/live/ and data/live/REPORT.md
@@ -131,7 +131,7 @@ function report(before: Dataset | null, after: Dataset, warnings: string[]): { t
   const text = [
     '# data/live',
     '',
-    `Release ${release ? `\`${release}\`` : '(unknown)'} of [Beyond-The-Jersey/data](https://github.com/Beyond-The-Jersey/data), built from \`${after.meta.sourceCommit ?? '?'}\`, data updated ${after.meta.updatedAt}. Written by \`npm run data:live\`; don't edit these files by hand: fix the data repo and pull a new release.`,
+    `Release ${release ? `\`${release}\`` : '(unknown)'} of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from \`${after.meta.sourceCommit ?? '?'}\`, data updated ${after.meta.updatedAt}. Written by \`npm run data:live\`; don't edit these files by hand: fix the data repo and pull a new release.`,
     '',
     b
       ? `Compared with the data it replaces (\`${b.meta.sourceCommit ?? '?'}\`, updated ${b.meta.updatedAt}):`

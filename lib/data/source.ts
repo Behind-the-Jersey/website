@@ -2,12 +2,12 @@
 // which asks one of these sources for the raw JSON and validates it.
 //
 //   BTJ_DATA_SOURCE=seed (default)  data/seed/*.json in this repo (the design handover's data; /demo/)
-//   BTJ_DATA_SOURCE=live            data/live/*.json: a release of Beyond-The-Jersey/data, copied in and
+//   BTJ_DATA_SOURCE=live            data/live/*.json: a release of Behind-the-Jersey/data, copied in and
 //                                   reviewed in a pull request (npm run data:live). The live site uses it.
 //   BTJ_DATA_SOURCE=release         a release downloaded by npm run data:pull, in $BTJ_DATA_DIR
 //                                   (default .data-release), before it's reviewed
 //   BTJ_DATA_SOURCE=api             $BTJ_DATA_URL/<file>.json over HTTP, with $BTJ_DATA_TOKEN as a bearer
-//                                   token if set (e.g. https://github.com/Beyond-The-Jersey/data/releases/latest/download)
+//                                   token if set (e.g. https://github.com/Behind-the-Jersey/data/releases/latest/download)
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { DATA_FILES, type RawDataset } from './schema';

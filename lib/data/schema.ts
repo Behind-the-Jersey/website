@@ -1,4 +1,4 @@
-// Zod mirror of the JSON Schemas in Beyond-The-Jersey/data (schema/*.schema.json, one per record).
+// Zod mirror of the JSON Schemas in Behind-the-Jersey/data (schema/*.schema.json, one per record).
 // Keep the two in step: the JSON Schemas are the contract, these are what the site validates
 // against at build time.
 import { z } from 'zod';
