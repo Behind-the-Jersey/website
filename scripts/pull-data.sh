@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-# Download a release of Beyond-The-Jersey/data into .data-release/, for `npm run data:live` or
+# Download a release of Behind-the-Jersey/data into .data-release/, for `npm run data:live` or
 #   BTJ_DATA_SOURCE=release npm run build
 # The latest release by default; BTJ_DATA_RELEASE=<tag> for another one. The repo is public.
 set -euo pipefail
-REPO="${BTJ_DATA_REPO:-Beyond-The-Jersey/data}"
+REPO="${BTJ_DATA_REPO:-Behind-the-Jersey/data}"
 TAG="${BTJ_DATA_RELEASE:-latest}"
 DIR="${BTJ_DATA_DIR:-.data-release}"
 API="https://api.github.com/repos/${REPO}/releases"
