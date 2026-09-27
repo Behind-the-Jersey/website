@@ -1,176 +1,233 @@
 # data/live
 
-Release `data-2026-09-27-a8659ca` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `a8659ca`, data updated 2026-09-27. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
+Release `data-2026-09-27-f49f35a` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `f49f35a`, data updated 2026-09-27. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
 
-Compared with the data it replaces (`62c0206`, updated 2026-09-27):
+Compared with the data it replaces (`a8659ca`, updated 2026-09-27):
 
 | | clubs | kits | sponsors | owners | claims | deals | contacts |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| before | 331 | 271 | 656 | 403 | 354 | 460 | 213 |
-| after | 331 | 271 | 656 | 410 | 376 | 460 | 213 |
+| before | 331 | 271 | 656 | 410 | 376 | 460 | 213 |
+| after | 579 | 435 | 1048 | 616 | 418 | 888 | 213 |
 
-## Club levels that change (17)
+## Clubs added (248)
 
-- [Al-Taawoun](https://behind-the-jersey.org/clubs/al-taawoun/) (Roshn Saudi League): Spotted → **Not rated yet**
-- [Bayern Munich](https://behind-the-jersey.org/clubs/bayern-munich/) (Bundesliga): Spotted → **Not rated yet**
-- [Cincinnati Reds](https://behind-the-jersey.org/clubs/cincinnati-reds/) (MLB): Spotted → **Clean**
-- [Juventus FC](https://behind-the-jersey.org/clubs/juventus/) (Serie A): Spotted → **Not rated yet**
-- [LA Galaxy](https://behind-the-jersey.org/clubs/la-galaxy/) (MLS): Spotted → **Not rated yet**
-- [Los Angeles Rams](https://behind-the-jersey.org/clubs/la-rams/) (NFL): Spotted → **Clean**
-- [Malaga CF](https://behind-the-jersey.org/clubs/malaga/) (La Liga): Spotted → **Not rated yet**
-- [McLaren Mastercard F1 Team](https://behind-the-jersey.org/clubs/mclaren/) (Formula 1): Spotted → **Not rated yet**
-- [Mercedes-AMG PETRONAS F1 Team](https://behind-the-jersey.org/clubs/mercedes/) (Formula 1): Soaked → **Stained**
-- [Portland Timbers](https://behind-the-jersey.org/clubs/portland-timbers/) (MLS): Spotted → **Not rated yet**
-- [Racing Santander](https://behind-the-jersey.org/clubs/racing-santander/) (La Liga): Spotted → **Not rated yet**
-- [Real Betis](https://behind-the-jersey.org/clubs/real-betis/) (La Liga): Spotted → **Not rated yet**
-- [Oracle Red Bull Racing](https://behind-the-jersey.org/clubs/red-bull-racing/) (Formula 1): Spotted → **Not rated yet**
-- [Tennessee Titans](https://behind-the-jersey.org/clubs/tennessee-titans/) (NFL): Spotted → **Clean**
-- [UAE Team Emirates XRG](https://behind-the-jersey.org/clubs/uae-team-emirates-xrg/) (UCI WorldTour (men's road cycling)): Soaked → **Stained**
-- [VfB Stuttgart](https://behind-the-jersey.org/clubs/vfb-stuttgart/) (Bundesliga): Spotted → **Not rated yet**
-- [Atlassian Williams F1 Team](https://behind-the-jersey.org/clubs/williams/) (Formula 1): Spotted → **Not rated yet**
+- [4Aces GC](https://behind-the-jersey.org/clubs/4aces-gc/) (LIV Golf League): Not rated yet
+- [Academico de Viseu FC](https://behind-the-jersey.org/clubs/academico-de-viseu/) (Liga Portugal Betclic (Primeira Liga)): Not rated yet
+- [Admiral Vladivostok](https://behind-the-jersey.org/clubs/admiral-vladivostok/) (Kontinental Hockey League (KHL)): Not rated yet
+- [AF Corse](https://behind-the-jersey.org/clubs/af-corse/) (FIA World Endurance Championship): Not rated yet
+- [AG Insurance-Soudal Team](https://behind-the-jersey.org/clubs/ag-insurance-soudal-women/) (UCI Women's WorldTour (women's road cycling)): Not rated yet
+- [Ak Bars Kazan](https://behind-the-jersey.org/clubs/ak-bars-kazan/) (Kontinental Hockey League (KHL)): Not rated yet
+- [FC Akhmat Grozny](https://behind-the-jersey.org/clubs/akhmat-grozny/) (Alfa-Bank Russian Premier League): Not rated yet
+- [Akkodis ASP Team](https://behind-the-jersey.org/clubs/akkodis-asp-team/) (FIA World Endurance Championship): Not rated yet
+- [FC Akron Tolyatti](https://behind-the-jersey.org/clubs/akron-tolyatti/) (Alfa-Bank Russian Premier League): Not rated yet
+- [Al Ahly](https://behind-the-jersey.org/clubs/al-ahly/) (Basketball Africa League): Stained
+- [Al Ahly Ly](https://behind-the-jersey.org/clubs/al-ahly-ly/) (Basketball Africa League): Stained
+- [Al Ain FC](https://behind-the-jersey.org/clubs/al-ain/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet
+- [Al-Gharafa SC](https://behind-the-jersey.org/clubs/al-gharafa/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet
+- [Al-Quwa Al-Jawiya](https://behind-the-jersey.org/clubs/al-quwa-al-jawiya/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet
+- [Al Sadd SC](https://behind-the-jersey.org/clubs/al-sadd/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet
+- [Al-Shamal SC](https://behind-the-jersey.org/clubs/al-shamal/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet
+- [Al Wasl FC](https://behind-the-jersey.org/clubs/al-wasl/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet
+- [Alpine Endurance Team](https://behind-the-jersey.org/clubs/alpine-endurance-team/) (FIA World Endurance Championship): Not rated yet
+- [FC Alverca](https://behind-the-jersey.org/clubs/alverca/) (Liga Portugal Betclic (Primeira Liga)): Not rated yet
+- [Amur Khabarovsk](https://behind-the-jersey.org/clubs/amur-khabarovsk/) (Kontinental Hockey League (KHL)): Not rated yet
+- [Anadolu Efes S.K.](https://behind-the-jersey.org/clubs/anadolu-efes/) (EuroLeague): Not rated yet
+- [Andretti Formula E](https://behind-the-jersey.org/clubs/andretti-formula-e/) (ABB FIA Formula E World Championship): Not rated yet
+- [Aprilia Racing](https://behind-the-jersey.org/clubs/aprilia-racing/) (FIM MotoGP World Championship): Not rated yet
+- [FC Arouca](https://behind-the-jersey.org/clubs/arouca/) (Liga Portugal Betclic (Primeira Liga)): Not rated yet
+- [Arsenal Women](https://behind-the-jersey.org/clubs/arsenal-w/) (Women's Super League): Stained
+- [Artemis SailGP Team](https://behind-the-jersey.org/clubs/artemis-sweden/) (SailGP (Rolex SailGP Championship)): Not rated yet
+- [ASC Ville de Dakar](https://behind-the-jersey.org/clubs/asc-ville-de-dakar/) (Basketball Africa League): Stained
+- [Aston Martin THOR Team](https://behind-the-jersey.org/clubs/aston-martin-thor-team/) (FIA World Endurance Championship): Not rated yet
+- [Aston Villa Women](https://behind-the-jersey.org/clubs/aston-villa-w/) (Women's Super League): Soaked
+- [ASVEL Basket](https://behind-the-jersey.org/clubs/asvel/) (EuroLeague): Not rated yet
+- [Avangard Omsk](https://behind-the-jersey.org/clubs/avangard-omsk/) (Kontinental Hockey League (KHL)): Not rated yet
+- [Avtomobilist Yekaterinburg](https://behind-the-jersey.org/clubs/avtomobilist-yekaterinburg/) (Kontinental Hockey League (KHL)): Not rated yet
+- [FC Baltika Kaliningrad](https://behind-the-jersey.org/clubs/baltika-kaliningrad/) (Alfa-Bank Russian Premier League): Not rated yet
+- [FC Barcelona Bàsquet](https://behind-the-jersey.org/clubs/barcelona-basquet/) (EuroLeague): Not rated yet
+- [Barys Astana](https://behind-the-jersey.org/clubs/barys-astana/) (Kontinental Hockey League (KHL)): Not rated yet
+- [Saski Baskonia](https://behind-the-jersey.org/clubs/baskonia/) (EuroLeague): Not rated yet
+- [FC Bayern Munich Basketball](https://behind-the-jersey.org/clubs/bayern-munich-basketball/) (EuroLeague): Not rated yet
+- [Beijing Guoan FC](https://behind-the-jersey.org/clubs/beijing-guoan/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet
+- [SL Benfica](https://behind-the-jersey.org/clubs/benfica/) (Liga Portugal Betclic (Primeira Liga)): Stained
+- [Beşiktaş J.K. (men's basketball)](https://behind-the-jersey.org/clubs/besiktas-basketball/) (EuroLeague): Not rated yet
+- … and 208 more
 
-## Sponsor ratings that change (28)
+## Sponsors added (392)
 
-- adidas: concern (rated) → **none** (rated)
-- adidas: concern (rated) → **none** (rated)
-- Bank of America: concern (rated) → **none** (rated)
-- Barclays: concern (rated) → **none** (rated)
-- Capital One: concern (rated) → **none** (rated)
-- Deutsche Telekom: concern (rated) → **none** (rated)
-- DHL: concern (rated) → **none** (rated)
-- G42: serious (rated) → **concern** (rated)
-- Gree: concern (rated) → **none** (rated)
-- Herbalife: concern (rated) → **none** (rated)
-- Hyundai (Hyundai Motor America): concern (rated) → **none** (rated)
-- IFS: concern (rated) → **none** (rated)
-- Intuit (Intuit Inc., Nasdaq: INTU): concern (rated) → **none** (rated)
-- Jeep (with Visit Detroit): concern (rated) → **none** (rated)
-- JPMorgan Chase (Chase): concern (rated) → **none** (rated)
-- Kia America: concern (rated) → **none** (rated)
-- Kroger: concern (rated) → **none** (rated)
-- LBBW: concern (rated) → **none** (rated)
-- Mobil 1 / Esso: concern (rated) → **none** (rated)
-- Mobil 1: concern (rated) → **none** (rated)
-- Nissan: concern (rated) → **none** (rated)
-- OKX: concern (rated) → **none** (rated)
-- Plenitude: concern (rated) → **none** (rated)
-- PNC Bank (PNC Financial Services): concern (rated) → **none** (rated)
-- 3M: none (rated) → **concern** (rated)
-- Sabor a Malaga: concern (rated) → **none** (rated)
-- UNIQLO: concern (rated) → **unrated** (being-rated)
-- Uralkali: concern (rated) → **none** (rated)
+- 1xBet: unrated
+- 54 (sport and entertainment agency): unrated
+- ABB: unrated
+- AbbVie: unrated
+- Absa: unrated
+- Abu Dhabi Sports Council: unrated
+- Accenture: unrated
+- Accor (ALL - Accor Live Limitless): unrated
+- Ace Hardware: unrated
+- AD Ports Group: unrated
+- AfrAsia Bank: unrated
+- Afreximbank (African Export-Import Bank): unrated
+- AG Insurance: unrated
+- Aggreko: unrated
+- Air Senegal: unrated
+- AirAsia: unrated
+- Ak Bars Bank: unrated
+- Akhmat Foundation: unrated
+- Akron: unrated
+- Al Shaqab (Qatar Foundation): unrated
+- ALBAIK: unrated
+- Aldar Properties: unrated
+- Alé Cycling: unrated
+- Alfa-Bank: unrated
+- Alfred Dunhill: unrated
+- Alrajhi Bank: unrated
+- Altrad: unrated
+- AM Green: unrated
+- Amazing CRE: unrated
+- Amgen: unrated
+- Amstel: unrated
+- Analog: unrated
+- Antofagasta Minerals: unrated
+- Apex Group: unrated
+- Apple Music: unrated
+- Arena: unrated
+- Armani Exchange (EA7): unrated
+- Asahi Super Dry: unrated
+- Aspetar: unrated
+- ASTRO Turf: unrated
+- … and 352 more
 
-## Owners added (9)
+## Owners added (206)
 
-- Chinese Academy of Sciences Holdings Co., Ltd. (CAS Holdings) (chinese-academy-of-sciences-holdings)
-- GIC Private Limited (Singapore's sovereign wealth fund) (gic)
-- Government of the People's Republic of China (government-of-china)
-- Government of Singapore (government-of-singapore)
-- Republic of Türkiye (government) (government-of-turkiye)
-- Gree Electric Appliances, Inc. of Zhuhai (gree-electric)
-- L'IMAD Holding Company (Abu Dhabi sovereign investment fund; ADQ's assets consolidated into it in January 2026) (limad)
-- Royal Group (RGH1 Investment SPV RSC Ltd) (royal-group)
-- Temasek Holdings (Private) Limited (temasek-holdings)
+- Acrisure, LLC (acrisure-owner)
+- Acushnet Holdings Corp. (acushnet-holdings)
+- AD Ports Group (Abu Dhabi Ports PJSC) (ad-ports-group)
+- ADQ (Abu Dhabi Developmental Holding Company) (adq)
+- African Export-Import Bank (Afreximbank) (afreximbank)
+- Ageas (ageas)
+- Agnelli/Elkann family (agnelli-elkann)
+- Airbnb, Inc. (airbnb-inc)
+- Akhmat Foundation (Regional Public Fund named after Akhmat Kadyrov) (akhmat-foundation)
+- ALBAIK Food Systems Company (albaik-food-systems)
+- Albert LLC (albert-owner)
+- Alfa-Bank (AO ALFA-BANK) (alfa-bank)
+- Al Rajhi Banking and Investment Corporation (alrajhi-bank-owner)
+- AM Green (am-green)
+- Amaury Group (Groupe Amaury / EPIC Editions Philippe Amaury) (amaury-group)
+- Amer Sports, Inc. (amer-sports)
+- AMR GP Limited (amr-gp)
+- Giorgio Armani S.p.A. (armani)
+- Arpa Industriale (arpa-industriale)
+- Amaury Sport Organisation (ASO) (aso)
+- Aspetar Orthopaedic and Sports Medicine Hospital (aspetar)
+- Aspire Zone Foundation (aspire-zone-foundation)
+- Aston Martin Lagonda Global Holdings plc (aston-martin-lagonda)
+- Atlantis-Pak (atlantis-pak)
+- Audi AG (audi-ag)
+- Authentic Brands Group (authentic-brands-group)
+- Azartia Games, S.A. (azartia)
+- Ball Corporation (ball-corporation-owner)
+- Beemok Capital (beemok-capital)
+- Arçelik A.S. (beko-owner)
+- Betcity (betcity)
+- Betclic Everest Group (betclic-everest)
+- BMW AG (bmw-ag)
+- Burjeel Holdings (burjeel-holdings)
+- Carnival Corporation & plc (carnival-corporation)
+- Celer Lighting (celer-lighting)
+- Chery Automobile Co., Ltd. (chery-automobile)
+- China Resources (Group) Co., Ltd. (china-resources-group)
+- City Football Group (city-football-group)
+- The ClearScore Group (clearscore-group)
+- … and 166 more
 
-## Owners removed (2)
+## Claims added (42)
 
-- Lenovo Group Limited (lenovo-group-limited)
-- Lenovo Group Limited (motorola-mobility-owner)
+- adsc-established-2006: The Abu Dhabi Sports Council says it was established in 2006 by Sheikh Mohamed bin Zayed Al Nahyan, President of the United Arab Emirates, and is aligned to the emirate's leadership vision to develop sport and youth activities.
+- amnesty-rwanda-sportswashing-2026: Amnesty International's British head of campaigns, Felix Jakens, warned that Rwanda is using its Aston Villa sponsorship to sportswash a record of arbitrary detention, torture and repression of free speech, and is fuelling conflict in eastern Congo through its support for M23 rebels and its military's actions there.
+- bahri-ownership: The Public Investment Fund holds a 22.55 percent stake in Bahri (National Shipping Company of Saudi Arabia) and 20 percent is held by Saudi Aramco Development Company, with the remainder in public shares.
+- bcd-qatar-racing-2026: Qatar Racing, 'the global horse racing and breeding operation of the QIPCO group', became title sponsor of British Champions Day on 4 August 2026 for the next three years, with individual sponsorship of all seven races, succeeding its parent company QIPCO, whose chairman is HH Sheikh Hamad Al Thani.
+- chery-state-shareholders: Chery Automobile's HKEX prospectus (17 Sep 2025) shows Wuhu Investment Holding continuing as the company's Single Largest Shareholder with 20.08% of the enlarged share capital upon listing (assuming the over-allotment option is not exercised) - itself owned 95.59% by Wuhu SASAC and 4.41% by the Anhui Provincial Department of Finance - alongside Anhui Credit Guaranty holding 9.46% (wholly owned by the People's Government of Anhui Province) and Anhui Investment Holding holding 4.93% (wholly owned by Anhui SASAC). The prospectus states the company has 22 shareholders with a dispersed shareholding structure including certain state-owned enterprises, and is not a state-owned, state-controlled or state-actually-controlled enterprise under the PRC's state-asset supervision measures.
+- csl-crb-under-crc: CR Beverage (China Resources Beverage (Holdings) Co., Ltd., HKEX 02460) describes itself as a core business unit under China Resources (Group) Co., Ltd., headquartered in Nanshan, Shenzhen, according to the company's own website.
+- csl-crc-sasac-2003: China Resources (Group) Co., Ltd. was placed under the direct supervision of China's State-owned Assets Supervision and Administration Commission (SASAC) in 2003 and is a centrally managed state-owned key backbone enterprise, according to the group's own corporate overview page.
+- dakar-sportswashing-hrw-2020: Human Rights Watch and 12 other human rights organisations said ASO's Dakar Rally was being used to sportswash Saudi Arabia's imprisonment of peaceful critics, noting women activists jailed for campaigning for the right to drive while the 2020 rally ran under a five-year ASO-Saudi government deal, and urging ASO to adopt a human-rights policy consistent with the UN Guiding Principles on Business and Human Rights.
+- dp-world-ownership: DP World Limited's audited FY2025 financial statements state that Port & Free Zone World FZE ('PFZW'), a wholly owned subsidiary of Dubai World Corporation, holds 100% of the company's issued and outstanding share capital, and that the Government of Dubai is the ultimate owner of the group.
+- dp-world-tour-bahrain-record: Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people; one detainee died in custody after being disappeared, and twelve death row inmates remain at imminent risk of execution.
+- dp-world-tour-qatar-record: Amnesty International reports labour abuses against migrant workers in Qatar despite recent reforms, including under the kafala system, and deaths of migrant workers that were not effectively investigated.
+- ewcf-pif-funded: The Esports World Cup Foundation describes itself as a non-profit not owned by the Saudi state but funded through a sports grant from the Public Investment Fund; the Saudi cabinet named Crown Prince Mohammed bin Salman chair of its board of trustees on 2 Sep 2025.
+- fa-cup-carling-ownership: Carling is one of Molson Coors' core power brands, named alongside Coors Light, Miller Lite, Coors Banquet, Molson Canadian and Ozujsko on the company's own About page.
+- fa-cup-clearscore-ownership: ClearScore says it is part of The ClearScore Group and was founded in the UK in 2015.
+- fa-cup-emirates-ownership: The Emirates Group, Emirates airline's parent, is owned by the Investment Corporation of Dubai, 'Dubai's sovereign wealth fund'; Dubai gave Emirates about $4 billion in bailout funds during the pandemic, of which $3.6 billion has been repaid.
+- fa-cup-mitre-ownership: Pentland Group describes itself as 'a family business building and delivering positive brands in sports, outdoor and fashion' with annual sales of $8 billion; its Pentland Brands arm 'owns Speedo, Berghaus, Canterbury, Endura, ellesse, SeaVees, Red Or Dead and Mitre'.
+- hexagon-54-lead-investor: 54, the sports and entertainment agency owned by Saudi Arabia's Public Investment Fund (PIF), was named lead investor in the Hexagon World Series, a new team padel circuit governed by the International Padel Federation (FIP); SportBusiness reported this as Saudi Arabia's first major investment move into padel.
+- indonesia-hrw-record: Human Rights Watch's 2026 world report records that President Prabowo expanded the military and placed active-duty personnel in civilian posts in his first year; in Papua, the Merauke food estate project forcibly displaced Indigenous communities and drove deforestation alongside the deployment of five new battalions; and in August 2025 police used excessive force to disperse protesters across 107 cities.
+- jcsa-1965-royal-decree: The Jockey Club of Saudi Arabia was established in 1965 and 'is tasked with the organisation, development and promotion of Saudi Arabian horseracing at domestic and international level'; its history page records that a Royal Decree from King Faisal Bin Abdulaziz entrusted the presidency to Prince Abdullah Bin Abdulaziz.
+- kuwait-exit-permit-2025: Kuwait announced that from July 2025 migrant workers need their employer's permission to leave the country; HRW called it an alarming step backwards that reinforces the kafala system and lets employers trap workers in abusive situations.
+- liv-pif-funding: Saudi Arabia's Public Investment Fund has bankrolled LIV Golf since its 2022 launch and confirmed on 30 April 2026 that it will end its funding of the league at the end of the 2026 season, saying the substantial investment required is no longer consistent with its strategy; PIF governor and LIV Golf chairman Yasir Al-Rumayyan is expected to step down.
+- lukoil-private-ownership: The Russian Federation's stake in LUKOIL was reduced to 0% following the September 2004 auction of the remaining 7.6% state-held shares to ConocoPhillips affiliate Springtime Holdings.
+- oman-hrw-record-2021: HRW's World Report 2021 Oman chapter found that 'Under Sultan Haitham bin Tariq, freedom of expression remained squeezed', citing prosecutions over social-media posts, and that Oman 'has done little to protect migrant domestic workers rights', with workers facing 'few avenues for redress' and risking 'imprisonment and deportation for absconding'.
+- pif-giga-labour-abuses: Human Rights Watch found that PIF-funded businesses and projects are among those exploiting and abusing migrant workers in Saudi Arabia's giga-project construction, including at NEOM, as Vision 2030 projects scale up toward the 2034 FIFA World Cup.
+- poules-adsc-2026: The Abu Dhabi Sports Council was founded in 2006 by the crown prince of Abu Dhabi, Sheikh Mohamed bin Zayed Al Nahyan, as an organisation dedicated to promoting sport and elite competition.
+- qsi-braga-stake: Qatar Sports Investments (QSI), which owns Paris Saint-Germain, signed a share purchase agreement with Olivedesportos, SGPS S.A. in October 2022 to acquire 21.67% of the share capital of Sporting Clube de Braga, a deal disclosed to Portugal's securities regulator, the CMVM.
+- rdf-hrw-occupation: Human Rights Watch documents a campaign of mass forced recruitment, arbitrary detention, torture and summary executions by M23 and Rwandan military forces in eastern DRC (mid-2024 through 2025), and concludes Rwanda 'exercises effective control over the area, meeting the legal threshold for belligerent occupation'; hundreds, perhaps more, died in the camps.
+- rdf-ofac-designation-2026: On 2 March 2026 OFAC designated the Rwanda Defence Force (Ministry of Defence, Kigali) and four senior officials because 'The RDF is actively supporting, training, and fighting alongside the March 23 Movement (M23)', a US- and UN-sanctioned armed group in the DRC; the action followed M23's capture of Uvira days after the Washington Accords were signed.
+- roshn-ownership: ROSHN Group describes itself as Saudi Arabia's leading multi-asset class real estate developer and a Public Investment Fund (PIF) company, in a press release naming it Title Partner of ROSHN Group LIV Golf Riyadh 2026.
+- rwanda-hrw-record-2026: HRW's World Report 2026 Rwanda chapter: 'Few journalists, civil society activists, or opposition members dare speak out publicly against the government'; Victoire Ingabire was arrested at her Kigali home in June 2025; and 'The M23, at times with the support of Rwandan forces, carried out mass summary executions, arbitrary detention', with Rwanda's control of parts of eastern Congo meeting the standards 'for a belligerent occupation'.
+- rwanda-worlds-hrw-2025: On the eve of the 2025 UCI Road World Championships in Kigali (21-28 September 2025), HRW's Minky Worden wrote that the event 'risks being linked to abuses itself': opposition leader Victoire Ingabire was 'arrested in June' 2025 and 'faces serious criminal charges alongside 14 party members' in a 'politically motivated trial'; the Rwanda-backed M23 has committed war crimes including 'summary executions' of over 140 civilians in July 2025; and authorities 'round up and arbitrarily detain sex workers, street children' before high-profile events. The Union 'shouldn't be providing Rwanda such easy cover for its poor human rights record'.
+- rzd-state-owned: All shares of OAO Russian Railways are owned by the Russian Federation (RZD charter, clause 32).
+- santa-casa-state-games: Santa Casa da Misericordia de Lisboa operates Portugal's social games 'on behalf and on account of the State' under an exclusive regime; its Jogos Santa Casa arm runs the Placard betting brand ('O Placard, produto dos Jogos Santa Casa'), whose online licence (013) is held by SAS Apostas Sociais, Jogos e Apostas Online, S.A.
+- saudi-executions-2026-record: Saudi authorities carried out an unprecedented surge in executions after trials that were likely unfair, executing at least 322 individuals as of early December 2025, exceeding prior execution records.
+- saudi-visitors-detained-2026: Amnesty International and ALQST documented eight people, mostly from Global South and Middle Eastern countries, arrested in Saudi Arabia during visits between July 2022 and late 2025 for social media posts, some subjected to prolonged arbitrary detention or grossly unfair trials.
+- snb-pif-controlling-party: Saudi National Bank's 2025 annual report states 'The ultimate controlling party is the Public Investment Fund "PIF", ultimately owned by the Saudi government', with PIF holding 37.2% (2,234,257,917 shares) at 31 December 2025.
+- vtb-state-control: The Russian Federation holds a controlling position in Bank VTB: Rosimushchestvo held 60.93% of ordinary shares (12.13% of charter capital) and Minfin 100% of first-type preference shares (32.88% of charter capital).
+- wec-bapco-bahrain-record: Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people; one detainee died in custody after being disappeared, and twelve death row inmates remain at imminent risk of execution.
+- wec-cyvn-mclaren-ownership: CYVN Holdings, an Abu Dhabi-based investment vehicle, completed the acquisition of McLaren Automotive and a non-controlling stake in McLaren Racing in April 2025, consolidating its UK investments under McLaren Group Holdings.
+- wec-pif-aston-martin-ownership: Saudi Arabia's Public Investment Fund is the largest shareholder (19.5%) of Aston Martin Lagonda, the manufacturer behind the Aston Martin THOR Team Hypercar programme; Aston Martin denied FT reports (14 Nov 2025) that PIF would raise its stake and take the company private.
+- … and 2 more
 
-## Claims added (57)
+## Clubs whose kits change (164)
 
-- 3m-company-ownership: 3M Company is a listed US company whose largest shareholders are investment firms: its 2026 proxy statement lists The Vanguard Group (8.89%), BlackRock (7.60%) and JPMorgan Chase (7.60%) as its largest holders.
-- 3m-earplug-jury-verdicts: In 2021 and 2022 US federal juries found for the service members in 10 of 16 test (bellwether) trials over 3M's Combat Arms earplugs, which the plaintiffs said damaged their hearing, awarding a total of nearly $300 million; in one of these trials the jury found 3M liable for failing to warn. Juries sided with 3M in the other six trials.
-- adidas-ag-ownership: adidas AG is a listed company with widely held shares: in its December 2025 ownership analysis, institutional investors held 79% of its shares and retail investors and undisclosed holdings 20%. Its largest notified holding at the end of 2025 was the asset manager BlackRock, with 7.71% of voting rights including instruments.
-- bank-of-america-major-holders-2026: Bank of America Corporation's 2026 proxy statement lists three owners of more than 5% of its common stock: The Vanguard Group (9.1%), Warren E. Buffett/Berkshire Hathaway Inc. (7.9%) and BlackRock, Inc. (6.9%).
-- barclays-major-shareholders-2025: Barclays PLC's Annual Report 2025 says that, as at 31 December 2025, it had been notified of one holding of 3% or more of its voting rights: BlackRock, Inc., with 5.78%, held indirectly.
-- boeing-737-max-court-finding: In a January 2021 deferred prosecution agreement with the US Justice Department, Boeing admitted that two of its 737 MAX technical pilots had deceived the Federal Aviation Administration about the plane's MCAS flight-control system. In October 2022 a US federal judge found that, but for Boeing's conspiracy to defraud the FAA, the 346 people killed in the Lion Air and Ethiopian Airlines 737 MAX crashes of 2018 and 2019 would not have lost their lives.
-- boeing-ownership: The Boeing Company is a listed US company whose largest shareholders are investment firms: its 2026 proxy statement lists The Vanguard Group (9.0%), FMR (7.0%) and BlackRock (6.8%) as the holders of more than 5% of its stock.
-- bp-deepwater-horizon-manslaughter-plea-2013: In January 2013 a US federal court accepted the guilty plea of BP Exploration and Production, Inc., the bp company that was lease operator of the offshore block where the Deepwater Horizon rig exploded in April 2010, to 14 criminal counts, including 11 counts of felony manslaughter. In pleading guilty, BP admitted that its two highest-ranking supervisors on the rig negligently caused the deaths of 11 men.
-- bp-major-shareholders-2025: BP p.l.c. is a listed company whose largest shareholder is the asset manager BlackRock. Its Annual Report and Form 20-F 2025 lists, as per each holder's most recent notification, BlackRock, Inc. (7.37%), Elliott Investment Management, L.P. (5.00%) and Norges Bank (3.99%) as holding 3% or more of the voting rights in its ordinary shares.
-- capital-one-major-holders-2026: Capital One Financial Corporation's 2026 proxy statement lists two owners of more than 5% of its common stock: The Vanguard Group (10.2%) and BlackRock, Inc. (7.1%).
-- cas-holdings-state-owned: Chinese Academy of Sciences Holdings is a wholly state-owned company, set up with State Council approval and funded by the Chinese Academy of Sciences on behalf of the People's Republic of China. The Chinese Academy of Sciences is a national institution owned and controlled by the Chinese government.
-- castrol-bp-ownership: Castrol belongs to BP p.l.c. In December 2025 bp agreed to sell a 65% shareholding in Castrol to Stonepeak and keep 35%, in a transaction expected to complete by the end of 2026.
-- china-xinjiang-un-assessment: The UN human rights office found in 2022 that serious human rights violations had been committed against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. Human Rights Watch reported in August 2026 that hundreds of thousands of Uyghurs and other Turkic Muslims remain in prison.
-- citibank-cfpb-armenian-american-discrimination-2023: In November 2023 the US Consumer Financial Protection Bureau (CFPB) issued a consent order finding that from at least 2015 through 2021 Citibank (Citi) had a pattern or practice of discriminating against credit card applicants based on Armenian national origin, whom its employees identified by last names ending in -ian or -yan. Citibank consented without admitting or denying the findings and was ordered to pay a $24.5 million penalty and $1.4 million in redress. The CFPB ended the order in October 2025, three years early.
-- citigroup-major-holders-2026: Citigroup Inc. is a listed company whose largest shareholders are the asset managers Vanguard and BlackRock. Its 2026 proxy statement lists them as the two owners of more than 5% of its common stock: The Vanguard Group, Inc. (8.7%) and BlackRock, Inc. (6.9%).
-- cognizant-major-holders-2026: Cognizant Technology Solutions Corporation is a listed company whose largest shareholders are asset managers such as Vanguard, BlackRock and State Street. Its 2026 proxy statement lists two owners of 5% or more of its common stock: BlackRock, Inc. (9.0%) and State Street Corporation (5.3%).
-- cognizant-palmer-discrimination-verdict-2024: In October 2024 a unanimous federal jury in California (Palmer v. Cognizant) found that Cognizant engaged in a pattern or practice of intentional discrimination, on the basis of race and national origin, against non-South Asian and non-Indian employees who were terminated from 'the bench', its pool of staff not allocated to an active project. In December 2025 the court also found that Cognizant's visa policies had a disparate impact on these employees; the case continues to a second phase on individual claims and damages.
-- emirates-icd-ownership: Emirates is wholly owned by the Investment Corporation of Dubai (ICD), an entity of the Government of Dubai.
-- esso-exxonmobil-brand: Esso is one of the brands under which Exxon Mobil Corporation sells fuel.
-- etihad-adq-ownership-2022: In October 2022, Abu Dhabi's Supreme Council for Financial and Economic Affairs transferred full ownership of Etihad Aviation Group, the parent of Etihad Airways, from the Abu Dhabi government to ADQ, an Abu Dhabi investment and holding company.
-- etihad-limad-2026: In January 2026, the council consolidated ADQ's assets under L'IMAD Holding, one of the Government of Abu Dhabi's principal sovereign investment funds, whose portfolio now includes Etihad Airways.
-- exxon-mobil-major-holders-2026: Exxon Mobil Corporation's 2026 proxy statement lists three owners of more than 5% of its common stock: The Vanguard Group (10.4%), BlackRock, Inc. (6.5%) and State Street Corporation (5.1%).
-- fast-retailing-ownership: UNIQLO belongs to Fast Retailing Co., Ltd., a Tokyo-listed company built and run by Tadashi Yanai. At 28 February 2026 its largest shareholders were The Master Trust Bank of Japan (19.79%), Tadashi Yanai (15.85%) and Custody Bank of Japan (9.13%); Koji Yanai and Kazumi Yanai held 4.68% each.
-- g42-board-abu-dhabi-officials: G42's board is chaired by Sheikh Tahnoon bin Zayed Al Nahyan, Deputy Ruler of Abu Dhabi, and includes Khaldoon Khalifa Al Mubarak, Mubadala's group chief executive, and Jassem Mohamed Bu Ataba Al Zaabi, chairman of the Abu Dhabi Department of Finance.
-- g42-mubadala-minority-stake: Mubadala, a sovereign investor owned by the Government of Abu Dhabi, became a minority shareholder in G42 in 2020. In June 2024, G42's owners were Mubadala, Silver Lake, Microsoft, the Dalio Family Office, a Royal Group company and the Kai Foundation.
-- g42-royal-group-control: In 2022, Royal Group, whose ultimate beneficial owner is Sheikh Tahnoon bin Zayed Al Nahyan, was the majority shareholder of G42. In 2026, G42 was reported to be controlled by Sheikh Tahnoon, the UAE's national security adviser.
-- gazprom-state-control: The Russian Federation is Gazprom's ultimate controlling party and holds a controlling stake of over 50%, directly and through companies it controls.
-- gree-no-controlling-shareholder: Gree Electric Appliances has had neither a controlling shareholder nor an actual controller since the state-owned Zhuhai Gree Group's transfer of 15% of its shares to Zhuhai Mingjun was registered in 2020. At the end of 2025, Zhuhai Mingjun held 16.11%, Jinghai Internet 7.83% and Zhuhai Gree Group, a state-owned legal person, 3.46%; Gree Group still held 3.46% at 30 June 2026.
-- herbalife-major-holders-2026: Herbalife Ltd.'s 2026 proxy statement lists six owners of more than 5% of its common shares: The Vanguard Group (12.08%), Nantahala Capital Management (8.40%), The Baupost Group (8.33%), Route One Investment Company (7.28%), BlackRock (7.16%) and Renaissance Technologies (5.43%).
-- ifs-board-2026: IFS lists its board of directors as Darren Roos (chair), Nic Humphries, Hanna Jacobsson, Johannes Reichel, Jacqueline de Rojas, Adam Scheid, Naveen Wadhera, John Walsh and Jonathan Wulkan.
-- ifs-shareholders-2025: IFS is co-controlled by the private-equity firms EQT and Hg, with TA Associates remaining a minority shareholder; new minority shareholders include a wholly owned subsidiary of the Abu Dhabi Investment Authority (ADIA) and CPP Investments.
-- intuit-major-holders-2026: Intuit Inc.'s 2026 proxy statement lists two owners of more than 5% of its common stock: The Vanguard Group (10.28%) and BlackRock, Inc. (8.39%).
-- jpmorgan-chase-major-holders-2026: JPMorgan Chase & Co.'s 2026 proxy statement lists two owners of more than 5% of its common stock as of 31 December 2025: The Vanguard Group (9.86%) and BlackRock, Inc. (7.15%).
-- kroger-major-holders-2026: The Kroger Co.'s 2026 proxy statement lists three owners of more than 5% of its common shares: BlackRock, Inc. (7.5%), Berkshire Hathaway Inc. (7.0%) and State Street Corporation (5.1%).
-- legend-cas-holdings-stake-2026: Chinese Academy of Sciences Holdings (CAS Holdings) is Legend Holdings' largest shareholder, with 29.04% of its shares at 30 June 2026.
-- lenovo-legend-stake-2026: Legend Holdings directly and indirectly held 32.95% of Lenovo at 30 June 2026, and Lenovo's annual report gives Legend's holding as 32.04% at 31 March 2026. Legend reports that it has de facto control over Lenovo, although it holds less than 50% of the votes.
-- mobil-1-exxonmobil-brand: Mobil 1 is a lubricants brand of Exxon Mobil Corporation.
-- noon-pif-stake: Saudi Arabia's Public Investment Fund (PIF) owns 50% of noon, which it accounts for as a joint venture; the other half is held by investors led by founder Mohamed Alabbar.
-- okx-founder-star-xu: Mingxing "Star" Xu is the founder of Okcoin and of OKX (formerly OKEx).
-- okx-ultimate-controlling-party: The accounts of OKX UK Fintech Company Limited, filed at Companies House in March 2026, name OKC Holdings Corporation (Cayman Islands) as its ultimate parent company and Xu Mingxing as its ultimate controlling party, through his shareholding in OKC Holdings Corporation.
-- … and 17 more
-
-## Claims removed (35)
-
-- 3m-company-record: In June 2023 3M agreed to pay more than $10 billion to settle claims by US public water suppliers over PFAS chemicals in drinking water.
-- adidas-ag-record: In May 2022, isotope tests by the Agroisolab laboratory and Hochschule Niederrhein, reported by German public broadcaster NDR, found cotton from Xinjiang in adidas garments, although adidas had said it would not use cotton from the region, where cotton carries a risk of forced labour.
-- bahrain-hrw-record: Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people, that Mohammed Almosawi died in custody with signs of torture after being forcibly disappeared, and that 67 people had their citizenship stripped; imprisoned rights defenders and political leaders including Abdulhadi al-Khawaja remain arbitrarily detained.
-- bank-of-america-mortgage-settlement-2014: In August 2014 Bank of America agreed to a $16.65 billion settlement, including $7 billion in consumer relief, with the US Justice Department, other federal agencies and several states over mortgage-backed securities and other mortgage business leading up to and during the financial crisis.
-- bank-of-america-record: The 2026 Banking on Climate Chaos report by Rainforest Action Network and other groups found that Bank of America provided about $47 billion in financing to fossil fuel companies in 2025, the second-largest amount among the world's 65 largest banks.
-- barclays-record: Barclays PLC is a UK-listed bank whose only notifiable holder above the 3% disclosure threshold as at 31 December 2025 is BlackRock (about 5.8%). Barclays avoided a UK government stake during the 2008 crisis by raising private capital from Qatari investors instead (unlike RBS and Lloyds), so there is no former state holding to have been sold.
-- belgium-hrw-record: Human Rights Watch's 'Grounds for Concern' report found that Belgium's counterterrorism response after the Paris and Brussels attacks led to police abuse and discrimination disproportionately targeting Muslims and people of North African or Turkish heritage.
-- boeing-record: Boeing's largest holders are index managers (Vanguard 9.0%, FMR 7.0%, BlackRock 6.8%, as of the 2026 proxy). Separately and independently reported: two 737 MAX crashes killed 346 people and the type was grounded for 20 months (PBS/NYT); Boeing's defence arm's sales into active conflicts is documented elsewhere (e.g. Amnesty International) but not in the cited filing.
-- bp-plc-record: No state shareholder (London/NYSE-listed), but a sustained documented adverse record: the US court found BP grossly negligent over the 2010 Deepwater Horizon spill and BP paid a $20.8bn civil settlement with the US and five Gulf states.
-- capital-one-cfpb-add-on-products-2012: In July 2012, in the Consumer Financial Protection Bureau's first public enforcement action, Capital One Bank was ordered to refund about $140 million to some two million credit card customers who had been pressured or misled into buying add-on products such as payment protection and credit monitoring, and to pay a $25 million penalty.
-- citigroup-citi-owner-record: Citigroup is a NYSE-listed bank with no state ownership (largest holders are institutional investors under 10% each); it paid a $217,841 OFAC settlement in 2014 over Iran-related sanctions violations (not Sudan, Libya, or Burma).
-- cognizant-record: In February 2019 Cognizant agreed to pay about $25 million to settle US Securities and Exchange Commission charges that it violated the Foreign Corrupt Practices Act, over a bribe of about $2 million paid to a government official in India in connection with building a Cognizant office campus there.
-- cote-divoire-hrw-record: Human Rights Watch said Ivorian authorities should investigate the killing of more than 50 people in the violence around the October 2020 presidential election, with a dozen opposition leaders arrested and justice for the 2010-11 crisis still incomplete.
-- dr-congo-hrw-record: Human Rights Watch describes a dire situation in eastern DR Congo: over 100 armed groups active, martial law facilitating abuses by government security forces, 5.8 million internally displaced, and attacks on free expression and assembly.
-- exxon-mobil-corporation-record: Local governments across the United States have sued oil and gas companies, including ExxonMobil, over alleged harms from climate change.
-- exxon-valdez-oil-spill: On 24 March 1989 the Exxon Valdez, a tanker of Exxon Shipping Company, ran aground on Bligh Reef off Alaska and spilled about 11 million gallons of crude oil.
-- france-hrw-record: Human Rights Watch's 2026 world report records that France's civic space was downgraded to 'obstructed', police repression of protests restricted expression and assembly, the UN Committee Against Torture flagged excessive force against people of African and Arab descent and non-nationals, and the ECtHR condemned France for racial profiling by police.
-- gov-qatar-record: Qatar's documented record: migrant workers still exposed to exploitation despite kafala reform, and expression and assembly tightly restricted. (The Visit Qatar/F1 sponsorship fact needs its own citation — it isn't covered by this human-rights source.)
-- government-of-saudi-arabia-record: Visit Saudi is the destination-marketing platform of the Saudi Tourism Authority (STA), a Saudi government tourism body. Saudi Arabia has documented serious labour-rights abuses: HRW's World Report 2026 records migrant workers facing widespread wage theft and avoidable workplace deaths. (The specific claims that STA was established by royal decree in 2020 and is 'wholly state-funded' could not be verified on the cited page.)
-- gree-group-zhuhai-sasac-record: Gree Electric Appliances Inc. of Zhuhai (SZSE: 000651) had Zhuhai Gree Group Co., Ltd. -- a state-owned entity controlled by the Zhuhai Municipal Government/SASAC -- as its largest, controlling shareholder (about 18-19% of shares) until December 2019, when Gree Group sold most of its stake to the private equity vehicle Zhuhai Mingjun, leaving Gree Group with a partial, non-controlling stake (3.44% as of end-2023) and the company with no controlling shareholder at all.
-- herbalife-ltd-record: Herbalife, the LA Galaxy front sponsor, is listed on the NYSE (HLF) with a public float and no state stake. It is rated 'concern' on conduct, not ownership: in July 2016 Herbalife settled FTC charges for $200m and was forced to restructure distributor rewards after the FTC found misleading earnings claims in its multi-level marketing model - the distributor network being the human-rights/consumer-pressure point. Otherwise unremarkable.
-- ifs-ab-record: IFS, the Cadillac F1 partner, is controlled by private equity: EQT holds control and Hg became a co-control shareholder in April 2025, with TA Associates and new investors including a wholly owned subsidiary of the Abu Dhabi Investment Authority (ADIA) alongside CPP Investments, in a deal valuing IFS at EUR15bn. ADIA is a sovereign wealth fund, so this is a partial state-fund stake - 'concern' rather than 'serious', since the state money is minority. Human-rights relevance: UAE sovereign capital at minority level plus PE leverage.
-- intuit-intuit-inc-nasdaq-intu-owner-record: Intuit Inc. is a Nasdaq-listed (INTU) Delaware corporation and its own proxy statement shows the only shareholders above 5% are index managers The Vanguard Group at 10.28% and BlackRock, Inc. at 8.39%, with founder Scott D. Cook at 2.21% - there is no state, sovereign-wealth or state-fund holder anywhere in the register; the conduct record is the FTC's final order of 22 January 2024 finding Intuit's 'free' TurboTax advertising deceptive, following a $141m restitution settlement with all 50 state attorneys general in May 2022.
-- jpmorgan-chase-fossil-finance-2025: The 2026 Banking on Climate Chaos report by Rainforest Action Network and other groups found that JPMorgan Chase was the largest financier of fossil fuel companies among the world's 65 largest banks in 2025, providing about $58 billion.
-- kazakhstan-hrw-record: Human Rights Watch reports that Kazakhstan continues to restrict freedoms of expression, association and assembly, prosecutes critics on overbroad 'extremism' charges, and has failed to fully investigate the January 2022 protests that left 238 dead and where detainees were tortured; the UN Human Rights Committee raised serious concerns about torture and use of force against civil society.
-- kroger-owner-record: Kroger agreed to pay up to $1.4 billion to settle opioid lawsuits with states, counties and tribes in 2023.
-- lenovo-china-record: Lenovo Group Limited is Hong Kong-listed and its largest shareholder is Legend Holdings Corporation at 31.41% (as of 31 Mar 2025). Legend's own largest shareholder is reported to be Chinese Academy of Sciences Holdings (CAS), giving an indirect, minority state link.
-- lenovo-group-ltd-record: Lenovo, Formula 1's league-level partner, is listed in Hong Kong (992) and its largest shareholder is Legend Holdings Corporation with about 31.4% - Legend's own annual report records both that holding and Chinese Academy of Sciences Holdings Co., Ltd. (CAS Holdings) as a substantial shareholder with roughly 29% of Legend. There is therefore a real but indirect Chinese state (CAS) interest of only about 9% economic - 'concern', not 'serious'. Human-rights relevance: Chinese state-linked ownership and hardware supply-chain/labour exposure.
-- mubadala-record: G42 counts Mubadala, Abu Dhabi's sovereign wealth fund, as an investor and is chaired by Sheikh Tahnoon bin Zayed Al Nahyan, a member of Abu Dhabi's ruling family.
-- okx-group-record: No state shareholder found. Sustained regulatory record: OKX's operating entity Aux Cayes FinTech Co. Ltd pleaded guilty in the US (SDNY) to violating anti-money laundering law and agreed to penalties totalling more than $500m.
-- pnc-national-city-fair-lending-2013: In December 2013 PNC agreed to pay $35 million in restitution to settle a joint Consumer Financial Protection Bureau and Justice Department complaint alleging that National City Bank, which PNC acquired in 2008, charged African-American and Hispanic borrowers higher mortgage prices than comparable white borrowers between 2002 and 2008.
-- shell-plc-record: No state shareholder (a London-listed public company, effectively full free float), but a sustained documented adverse record: decades of oil spills and failed clean-up in the Niger Delta documented by Amnesty International.
-- standard-chartered-plc-record: Standard Chartered plc is a London-listed bank. Its conduct record includes a $227m DOJ forfeiture in 2012 for illegal transactions with Iran, Sudan, Libya and Burma (plus related NY/Fed penalties totalling $327m), and a further settlement of more than $1.1bn in 2019 with U.S. and UK authorities over Iran-sanctions and anti-money-laundering failures. (Split the single citation into one source per settlement, since the 2012 DOJ release does not itself cover the 2019 case.)
-- turkiye-wealth-fund-record: Turkish Airlines' official shareholding disclosure shows the state's Türkiye Wealth Fund as the largest shareholder with 49.12%, with a Ministry of Treasury and Finance 'privileged' share conferring control; the state fund sits at the top of the chain. Turkey has documented serious human-rights abuses (Kurdish conflict, post-2016 purges, press freedom).
-- uniqlo-owner-record: In January 2021 US Customs and Border Protection blocked a shipment of UNIQLO cotton men's shirts at the Port of Los Angeles under its ban on cotton products made with forced labour by the Xinjiang Production and Construction Corps (XPCC). It rejected Uniqlo's appeal because the company had not shown the shirts were made without forced labour.
-
-## Claims edited (6)
-
-- carlyle-group-and-gic-record: Nouryon, a specialty chemicals company, is jointly owned by the private-equity firm The Carlyle Group and GIC, Singapore's sovereign wealth fund.
-- deutsche-post-dhl-record: KfW Bankengruppe, the state-owned German development bank, holds about 17% of the share capital of DHL Group (Deutsche Post AG).
-- motorola-mobility-owner-record: Lenovo Group Limited completed its purchase of Motorola Mobility from Google on 30 October 2014, making Motorola Mobility a wholly owned Lenovo subsidiary.
-- state-of-baden-wuerttemberg-record: The owners of Landesbank Baden-Württemberg are the Savings Banks Association of Baden-Württemberg, the State of Baden-Württemberg and the state capital Stuttgart.
-- state-of-qatar-qia-record: Qatar Airways is fully owned by the government of Qatar, after Qatar's sovereign wealth fund bought the 50% stake held by a former prime minister and other shareholders.
-- stellantis-nv-record: Jeep is a brand of Stellantis N.V., whose largest shareholders include Etablissements Peugeot Frères (7.72%) and Bpifrance Participations (6.64%), the French state investment bank.
-
-## Clubs whose kits change (1)
-
-- [Athletics](https://behind-the-jersey.org/clubs/athletics/)
+- [4Aces GC](https://behind-the-jersey.org/clubs/4aces-gc/)
+- [Academico de Viseu FC](https://behind-the-jersey.org/clubs/academico-de-viseu/)
+- [Admiral Vladivostok](https://behind-the-jersey.org/clubs/admiral-vladivostok/)
+- [AG Insurance-Soudal Team](https://behind-the-jersey.org/clubs/ag-insurance-soudal-women/)
+- [Ak Bars Kazan](https://behind-the-jersey.org/clubs/ak-bars-kazan/)
+- [FC Akhmat Grozny](https://behind-the-jersey.org/clubs/akhmat-grozny/)
+- [FC Akron Tolyatti](https://behind-the-jersey.org/clubs/akron-tolyatti/)
+- [Al Ahly](https://behind-the-jersey.org/clubs/al-ahly/)
+- [Al Ahly Ly](https://behind-the-jersey.org/clubs/al-ahly-ly/)
+- [FC Alverca](https://behind-the-jersey.org/clubs/alverca/)
+- [Amur Khabarovsk](https://behind-the-jersey.org/clubs/amur-khabarovsk/)
+- [Anadolu Efes S.K.](https://behind-the-jersey.org/clubs/anadolu-efes/)
+- [Andretti Formula E](https://behind-the-jersey.org/clubs/andretti-formula-e/)
+- [Aprilia Racing](https://behind-the-jersey.org/clubs/aprilia-racing/)
+- [FC Arouca](https://behind-the-jersey.org/clubs/arouca/)
+- [Arsenal Women](https://behind-the-jersey.org/clubs/arsenal-w/)
+- [Artemis SailGP Team](https://behind-the-jersey.org/clubs/artemis-sweden/)
+- [ASC Ville de Dakar](https://behind-the-jersey.org/clubs/asc-ville-de-dakar/)
+- [Aston Villa Women](https://behind-the-jersey.org/clubs/aston-villa-w/)
+- [ASVEL Basket](https://behind-the-jersey.org/clubs/asvel/)
+- [Avangard Omsk](https://behind-the-jersey.org/clubs/avangard-omsk/)
+- [Avtomobilist Yekaterinburg](https://behind-the-jersey.org/clubs/avtomobilist-yekaterinburg/)
+- [FC Baltika Kaliningrad](https://behind-the-jersey.org/clubs/baltika-kaliningrad/)
+- [FC Barcelona Bàsquet](https://behind-the-jersey.org/clubs/barcelona-basquet/)
+- [Barys Astana](https://behind-the-jersey.org/clubs/barys-astana/)
+- [Saski Baskonia](https://behind-the-jersey.org/clubs/baskonia/)
+- [FC Bayern Munich Basketball](https://behind-the-jersey.org/clubs/bayern-munich-basketball/)
+- [SL Benfica](https://behind-the-jersey.org/clubs/benfica/)
+- [Beşiktaş J.K. (men's basketball)](https://behind-the-jersey.org/clubs/besiktas-basketball/)
+- [Birmingham City Women](https://behind-the-jersey.org/clubs/birmingham-city-w/)
+- [BK8 Gresini Racing MotoGP](https://behind-the-jersey.org/clubs/bk8-gresini-racing-motogp/)
+- [Black Foils SailGP Team](https://behind-the-jersey.org/clubs/black-foils-nz/)
+- [BONDS Flying Roos SailGP Team](https://behind-the-jersey.org/clubs/bonds-flying-roos/)
+- [SC Braga](https://behind-the-jersey.org/clubs/braga/)
+- [Brighton & Hove Albion Women](https://behind-the-jersey.org/clubs/brighton-and-hove-albion-w/)
+- [Canyon//SRAM zondacrypto](https://behind-the-jersey.org/clubs/canyon-sram-zondacrypto/)
+- [Casa Pia AC](https://behind-the-jersey.org/clubs/casa-pia/)
+- [Charlton Athletic Women](https://behind-the-jersey.org/clubs/charlton-athletic-w/)
+- [Chelsea Women](https://behind-the-jersey.org/clubs/chelsea-w/)
+- [Citroen Racing](https://behind-the-jersey.org/clubs/citroen-racing/)
+- … and 124 more
 
 ## Warnings (31)
 

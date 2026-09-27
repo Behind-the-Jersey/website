@@ -30,6 +30,31 @@
     "note": "Majority owner of DAZN; vehicle of Sir Leonard Blavatnik."
   },
   {
+    "id": "acrisure-owner",
+    "name": "Acrisure, LLC",
+    "type": "private-company",
+    "parentId": null,
+    "note": "arena naming-rights holder of pittsburgh-steelers (2026-27).",
+    "country": "US"
+  },
+  {
+    "id": "acushnet-holdings",
+    "name": "Acushnet Holdings Corp.",
+    "type": "listed-company",
+    "country": "United States",
+    "note": "NYSE-listed (GOLF) maker of Titleist and FootJoy; controlled company per NYSE rules (Acushnet FY2025 Form 10-K, filed 2026-02-27).",
+    "parentId": "magnus-holdings"
+  },
+  {
+    "id": "ad-ports-group",
+    "name": "AD Ports Group (Abu Dhabi Ports PJSC)",
+    "type": "listed-company",
+    "country": "United Arab Emirates",
+    "via": "owned by ADQ per AD Ports Group's own about-us page",
+    "note": "'Established by Emiri Decree and owned by ADQ, one of the region's largest holding companies' (adportsgroup.com/en/about-us, opened). ADQ is a wholly Government-of-Abu-Dhabi state fund (existing owners.json entry). Presenting Sponsor of the UAE Tour and UAE Tour Women.",
+    "parentId": "adq"
+  },
+  {
     "id": "adidas-ag",
     "name": "adidas AG",
     "type": "listed-company",
@@ -42,6 +67,15 @@
     "type": "listed-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "adq",
+    "name": "ADQ (Abu Dhabi Developmental Holding Company)",
+    "type": "state-fund",
+    "country": "United Arab Emirates",
+    "via": "Owned by the Government of Abu Dhabi; chaired under the Supreme Council for Financial and Economic Affairs",
+    "parentId": "government-of-abu-dhabi",
+    "note": "ADQ press release: 'The Supreme Council for Financial and Economic Affairs has transferred full ownership of Etihad Aviation Group (EAG) to ADQ, an Abu Dhabi-based investment and holding company.'"
   },
   {
     "id": "adt-owner",
@@ -60,11 +94,41 @@
     "country": "USA"
   },
   {
+    "id": "afreximbank",
+    "name": "African Export-Import Bank (Afreximbank)",
+    "type": "unknown",
+    "country": "Egypt",
+    "note": "Pan-African multilateral trade-finance bank created in 1993 under the auspices of the African Development Bank; 164 shareholders in four classes, Class A being African governments and continental institutions. Recorded as 'unknown' because no single controlling owner exists.",
+    "parentId": null
+  },
+  {
+    "id": "ageas",
+    "name": "Ageas",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Belgium",
+    "note": "Belgium's largest insurer, listed on Euronext Brussels; owns 75% of AG Insurance, the other 25% held by BNP Paribas Fortis (Cyclist, 2026-07-14)."
+  },
+  {
+    "id": "agnelli-elkann",
+    "name": "Agnelli/Elkann family",
+    "type": "private-company",
+    "country": "Italy",
+    "parentId": "exor-nv"
+  },
+  {
     "id": "aia-group",
     "name": "AIA Group Limited (HKEX: 1299)",
     "type": "listed-company",
     "parentId": null,
     "country": "HK"
+  },
+  {
+    "id": "airbnb-inc",
+    "name": "Airbnb, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States"
   },
   {
     "id": "airwallex-owner",
@@ -73,6 +137,38 @@
     "parentId": null,
     "note": "jersey patch partner of san-francisco-giants (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "akhmat-foundation",
+    "name": "Akhmat Foundation (Regional Public Fund named after Akhmat Kadyrov)",
+    "type": "state-fund",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Charitable foundation named after the first Chechen president; listed as a partner of RFK Akhmat."
+  },
+  {
+    "id": "albaik-food-systems",
+    "name": "ALBAIK Food Systems Company",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "parentId": null,
+    "note": "Founded 1974 in Jeddah by the late Shakour AbuGhazalah; family-owned Saudi food brand per the company's own site."
+  },
+  {
+    "id": "albert-owner",
+    "name": "Albert LLC",
+    "type": "private-company",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "country": "US"
+  },
+  {
+    "id": "alfa-bank",
+    "name": "Alfa-Bank (AO ALFA-BANK)",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Largest private Russian bank; title sponsor of the Russian Premier League."
   },
   {
     "id": "all-in-won-owner",
@@ -120,10 +216,42 @@
     "country": "IT"
   },
   {
+    "id": "alrajhi-bank-owner",
+    "name": "Al Rajhi Banking and Investment Corporation",
+    "type": "listed-company",
+    "country": "Saudi Arabia",
+    "parentId": null,
+    "note": "Saudi joint-stock company (capital SAR 60bn), traded on the Saudi Exchange (Tadawul) as ticker 1120; supervised by the Saudi Central Bank. Founded by the Al Rajhi family; largest shareholders are family members (needs primary confirmation)."
+  },
+  {
+    "id": "am-green",
+    "name": "AM Green",
+    "type": "private-company",
+    "country": "India",
+    "note": "Green energy group (amgreen.com, fetched 2026-09-25); name sponsor of the Am Green IGPL Bharath Classic Morocco on the 2026 Asian Tour schedule. Ownership not traced to a primary document in this pass.",
+    "parentId": null
+  },
+  {
+    "id": "amaury-group",
+    "name": "Amaury Group (Groupe Amaury / EPIC Editions Philippe Amaury)",
+    "type": "private-company",
+    "country": "France",
+    "note": "Family-owned French media and sport group that owns L'Equipe; Marie-Odile Amaury holds a majority and Aurore Amaury is CEO.",
+    "parentId": null
+  },
+  {
     "id": "amazon-com-inc",
     "name": "Amazon.com, Inc.",
     "type": "listed-company",
     "country": "USA",
+    "parentId": null
+  },
+  {
+    "id": "amer-sports",
+    "name": "Amer Sports, Inc.",
+    "type": "listed-company",
+    "country": "Finland",
+    "note": "Parent of Wilson Sporting Goods; shares listed on the New York Stock Exchange (amersports.com).",
     "parentId": null
   },
   {
@@ -164,6 +292,13 @@
     "country": "US"
   },
   {
+    "id": "amr-gp",
+    "name": "AMR GP Limited",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": null
+  },
+  {
     "id": "anheuser-busch-owner",
     "name": "Anheuser-Busch InBev SA/NV",
     "type": "listed-company",
@@ -200,6 +335,22 @@
     "country": "Spain"
   },
   {
+    "id": "armani",
+    "name": "Giorgio Armani S.p.A.",
+    "type": "private-company",
+    "country": "Italy",
+    "note": "EA7 is Armani's sportswear line",
+    "parentId": null
+  },
+  {
+    "id": "arpa-industriale",
+    "name": "Arpa Industriale",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Italy",
+    "note": "Italian manufacturer of high-pressure laminate; owner of the Fenix brand used as Fenix-Premier Tech's title sponsor (Cyclist, 2026-07-14)."
+  },
+  {
     "id": "asahi-group-holdings",
     "name": "Asahi Group Holdings, Ltd.",
     "type": "listed-company",
@@ -222,12 +373,53 @@
     "country": "USA"
   },
   {
+    "id": "aso",
+    "name": "Amaury Sport Organisation (ASO)",
+    "type": "private-company",
+    "country": "France",
+    "via": "Amaury Group",
+    "note": "Wholly owned subsidiary of the Amaury Group per ASO's own privacy policy; owns and organises the Dakar Rally, the Tour de France and about 100 events a year. Registered in Boulogne-Billancourt (SIREN 383 160 348, French company registry).",
+    "parentId": "amaury-group"
+  },
+  {
+    "id": "aspetar",
+    "name": "Aspetar Orthopaedic and Sports Medicine Hospital",
+    "type": "private-company",
+    "country": "Qatar",
+    "parentId": "aspire-zone-foundation",
+    "via": "Aspire Zone Foundation",
+    "note": "Member of Aspire Zone Foundation alongside Aspire Academy and Aspire Logistics (footer of aspetar.com)."
+  },
+  {
+    "id": "aspire-zone-foundation",
+    "name": "Aspire Zone Foundation",
+    "type": "state-fund",
+    "country": "Qatar",
+    "parentId": "government-of-qatar",
+    "note": "Qatari sports-city foundation; its member organisations are Aspire Academy, Aspetar and Aspire Logistics. The foundation's own site does not state its establishment instrument, so state ownership is inferred from its public character; needs confirmation."
+  },
+  {
+    "id": "aston-martin-lagonda",
+    "name": "Aston Martin Lagonda Global Holdings plc",
+    "type": "listed-company",
+    "country": "United Kingdom",
+    "parentId": null
+  },
+  {
     "id": "atlantic-health-owner",
     "name": "Atlantic Health System",
     "type": "private-company",
     "parentId": null,
     "note": "jersey patch partner of new-york-jets (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "atlantis-pak",
+    "name": "Atlantis-Pak",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Rostov-based food-packaging producer, part of Agrokom holding; title sponsor of FC Rostov."
   },
   {
     "id": "atlassian",
@@ -257,6 +449,21 @@
     "type": "listed-company",
     "parentId": null,
     "country": "United States"
+  },
+  {
+    "id": "audi-ag",
+    "name": "Audi AG",
+    "type": "listed-company",
+    "country": "Germany",
+    "parentId": "volkswagen-ag"
+  },
+  {
+    "id": "authentic-brands-group",
+    "name": "Authentic Brands Group",
+    "type": "private-company",
+    "country": "United States",
+    "note": "Reebok is listed first in Authentic's brand portfolio (corporate.authentic.com/brand-portfolio, fetched 2026-09-25).",
+    "parentId": null
   },
   {
     "id": "avery-dennison",
@@ -303,6 +510,14 @@
     "country": "Spain"
   },
   {
+    "id": "azartia",
+    "name": "Azartia Games, S.A.",
+    "type": "private-company",
+    "country": "Portugal",
+    "note": "SRIJ-licensed Portuguese operating entity of the GoldenPark brand (licences 029/030). Trade press (iGaming Business, 5 Jul 2023) reported the Portuguese licences; ownership beyond the SRIJ register entry not found in sources checked.",
+    "parentId": null
+  },
+  {
     "id": "baghdadi-capital-sa",
     "name": "Baghdadi Capital, S.A. (family office of Baihas Baghdadi)",
     "type": "private-company",
@@ -322,6 +537,14 @@
     "type": "listed-company",
     "parentId": null,
     "country": "India"
+  },
+  {
+    "id": "ball-corporation-owner",
+    "name": "Ball Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "arena naming-rights holder of denver-nuggets (2026-27).",
+    "country": "US"
   },
   {
     "id": "banca-popolare-del-frusinate",
@@ -383,6 +606,24 @@
     "country": "DE"
   },
   {
+    "id": "beemok-capital",
+    "name": "Beemok Capital",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United States",
+    "via": "Ben Navarro",
+    "note": "Family investment firm founded by Ben Navarro; owner of the Cincinnati Open (tennis.com/Beemok press)."
+  },
+  {
+    "id": "beko-owner",
+    "name": "Arçelik A.S.",
+    "type": "listed-company",
+    "country": "Turkey",
+    "via": "Beko is Arçelik's home-appliance brand",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened."
+  },
+  {
     "id": "belden",
     "name": "Belden Inc.",
     "type": "listed-company",
@@ -403,6 +644,20 @@
     "country": "United Kingdom",
     "parentId": null,
     "note": "Controlled by the Coates family."
+  },
+  {
+    "id": "betcity",
+    "name": "Betcity",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Russian bookmaker (operated by Fortuna)."
+  },
+  {
+    "id": "betclic-everest",
+    "name": "Betclic Everest Group",
+    "type": "private-company",
+    "parentId": null
   },
   {
     "id": "betsson",
@@ -431,6 +686,13 @@
     "type": "private-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "bmw-ag",
+    "name": "BMW AG",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Germany"
   },
   {
     "id": "boeing",
@@ -466,6 +728,15 @@
     "type": "listed-company",
     "parentId": null,
     "country": "United Kingdom"
+  },
+  {
+    "id": "burjeel-holdings",
+    "name": "Burjeel Holdings",
+    "type": "private-company",
+    "country": "United Arab Emirates",
+    "via": "founded by Dr Shamsheer Vayalil in Abu Dhabi in 2007",
+    "note": "'Founded by Dr. Shamsheer Vayalil in Abu Dhabi in 2007' (burjeelholdings.com, opened). Jersey sponsor of the UAE Tour and UAE Tour Women. ADX listing / ADQ stake not verified to a primary document this pass.",
+    "parentId": null
   },
   {
     "id": "burns-and-mcdonnell-owner",
@@ -520,11 +791,33 @@
     "country": "SG"
   },
   {
+    "id": "carnival-corporation",
+    "name": "Carnival Corporation & plc",
+    "type": "listed-company",
+    "country": "United States",
+    "parentId": null
+  },
+  {
     "id": "carvana",
     "name": "Carvana Co.",
     "type": "listed-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "celer-lighting",
+    "name": "Celer Lighting",
+    "type": "private-company",
+    "parentId": "grupo-saltoki",
+    "country": "Spain"
+  },
+  {
+    "id": "chery-automobile",
+    "name": "Chery Automobile Co., Ltd.",
+    "type": "listed-company",
+    "country": "China",
+    "parentId": null,
+    "note": "Listed in Hong Kong (SEHK 9973) after its 25 Sep 2025 IPO. Per its HKEX prospectus (dated 17 Sep 2025): Wuhu Investment Holding is the single largest shareholder, 21.17% before the offering and 20.08% at listing; it is owned 95.59% by Wuhu SASAC and 4.41% by the Anhui Provincial Department of Finance. Anhui Credit Guaranty (wholly owned by the People's Government of Anhui Province) holds 9.97% before / 9.46% at listing; Anhui Investment Holding (wholly owned by Anhui SASAC) holds 5.20% before / 4.93% at listing - state entities about 34.7% combined pre-IPO, about 34.5% after the partial over-allotment exercise (5,808,604,533 shares total). The prospectus states the company has 22 shareholders with a dispersed structure and is not a state-owned, state-controlled or state-actually-controlled enterprise under the PRC state-asset measures. Jetour is one of Chery's marques."
   },
   {
     "id": "childrens-hospital-colorado-owner",
@@ -533,6 +826,15 @@
     "parentId": null,
     "note": "jersey patch partner of denver-broncos (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "china-resources-group",
+    "name": "China Resources (Group) Co., Ltd.",
+    "type": "state",
+    "country": "China",
+    "parentId": null,
+    "note": "State-owned conglomerate headquartered in Hong Kong, founded 1938; under the direct supervision of China's SASAC since 2003 and described on its own site as a centrally managed state-owned key backbone enterprise.",
+    "via": "China's State-owned Assets Supervision and Administration Commission (SASAC)"
   },
   {
     "id": "chinese-academy-of-sciences-holdings",
@@ -570,6 +872,30 @@
     "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of philadelphia-phillies (2026-27).",
+    "country": "US"
+  },
+  {
+    "id": "city-football-group",
+    "name": "City Football Group",
+    "type": "private-company",
+    "country": "UAE",
+    "parentId": "government-of-abu-dhabi",
+    "note": "Majority owned by Abu Dhabi United Group; owner of ES Troyes AC since September 2020."
+  },
+  {
+    "id": "clearscore-group",
+    "name": "The ClearScore Group",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "note": "ClearScore's About Us page states 'Part of The ClearScore Group, ClearScore was founded in the UK in 2015'; the group is privately held (PE-backed), with no state owner identified in its own materials.",
+    "parentId": null
+  },
+  {
+    "id": "cleveland-cliffs-owner",
+    "name": "Cleveland-Cliffs LLC",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
     "country": "US"
   },
   {
@@ -653,6 +979,13 @@
     "country": "United States"
   },
   {
+    "id": "corendon-airlines",
+    "name": "Corendon Airlines",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Turkey"
+  },
+  {
     "id": "corendon-tourism-group",
     "name": "Corendon Tourism Group",
     "type": "private-company",
@@ -665,6 +998,30 @@
     "type": "private-company",
     "parentId": null,
     "country": "ES"
+  },
+  {
+    "id": "costa-group",
+    "name": "Costa Crociere (Costa Cruises)",
+    "type": "private-company",
+    "country": "Italy",
+    "via": "Carnival Corporation & plc brand",
+    "parentId": null
+  },
+  {
+    "id": "cr-beverage",
+    "name": "CR Beverage",
+    "type": "listed-company",
+    "country": "China",
+    "parentId": "china-resources-group",
+    "note": "China Resources Beverage (Holdings) Co., Ltd., listed on HKEX under ticker 02460, headquartered in Nanshan, Shenzhen; describes itself on its own site as a core business unit under China Resources (Group) Co., Ltd. Maker of the C'estbon (怡宝) brand."
+  },
+  {
+    "id": "credit-saison",
+    "name": "Credit Saison Co., Ltd.",
+    "type": "listed-company",
+    "country": "Japan",
+    "parentId": null,
+    "note": "Listed on the Tokyo Stock Exchange, securities code 8253. Part of the Saison Group; allied with Mizuho."
   },
   {
     "id": "crowdstrike",
@@ -690,12 +1047,26 @@
     "country": "LU"
   },
   {
+    "id": "cyvn",
+    "name": "CYVN Holdings",
+    "type": "state-fund",
+    "country": "United Arab Emirates",
+    "parentId": "mclaren-group"
+  },
+  {
     "id": "daikin-comfort-technologies-owner",
     "name": "Daikin Comfort Technologies",
     "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of houston-astros (2026-27).",
     "country": "JP"
+  },
+  {
+    "id": "dan-towriss",
+    "name": "Dan Towriss",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": "twg-global"
   },
   {
     "id": "davide-campari-milano",
@@ -726,6 +1097,14 @@
     "country": "US"
   },
   {
+    "id": "delta-air-lines-owner",
+    "name": "Delta Air Lines LLC",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "arena naming-rights holder of utah-jazz (2026-27).",
+    "country": "US"
+  },
+  {
     "id": "desert-financial-credit-union-owner",
     "name": "Desert Financial Credit Union",
     "type": "private-company",
@@ -734,11 +1113,27 @@
     "country": "US"
   },
   {
+    "id": "det-dubai",
+    "name": "Dubai Department of Economy and Tourism (DET)",
+    "type": "state",
+    "country": "United Arab Emirates",
+    "via": "Dubai Government department; Visit Dubai is its destination brand",
+    "parentId": "government-of-dubai",
+    "note": "Release quotes Ahmed Al Khaja, CEO of DFRE, part of DET, tying the deal to the Dubai Economic Agenda D33."
+  },
+  {
     "id": "deutsche-post-dhl",
     "name": "DHL Group (Deutsche Post AG)",
     "type": "listed-company",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "deutsche-telekom-ag",
+    "name": "Deutsche Telekom AG",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Germany"
   },
   {
     "id": "deutsche-vermoegensberatung-ag",
@@ -769,6 +1164,14 @@
     "type": "listed-company",
     "parentId": null,
     "country": "RO"
+  },
+  {
+    "id": "digiplus-interactive",
+    "name": "DigiPlus Interactive Corporation",
+    "type": "listed-company",
+    "country": "Philippines",
+    "note": "Philippine Stock Exchange-listed (Exchange where listed: Philippine Stock Exchange, digiplus.com.ph investor page, fetched 2026-09-25); operates BingoPlus, ArenaPlus and GameZone.",
+    "parentId": null
   },
   {
     "id": "diputacion-de-malaga",
@@ -807,12 +1210,45 @@
     "country": "Spain"
   },
   {
+    "id": "dorilton",
+    "name": "Dorilton Capital",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": null
+  },
+  {
+    "id": "dp-world-limited",
+    "name": "DP World Limited",
+    "type": "private-company",
+    "country": "UAE",
+    "note": "The listed trading group for DP World operations; its FY2025 Annual Report names Port & Free Zone World FZE as parent.",
+    "parentId": "port-free-zone-world"
+  },
+  {
     "id": "dream-finders-homes-owner",
     "name": "Dream Finders Homes",
     "type": "listed-company",
     "parentId": null,
     "note": "jersey patch partner of jacksonville-jaguars (2026-27).",
     "country": "USA"
+  },
+  {
+    "id": "dubai-racing-club",
+    "name": "Dubai Racing Club (DRC)",
+    "type": "state",
+    "country": "UAE",
+    "via": "Meydan; Dubai ruling family",
+    "note": "'Formed in 1992, Dubai Racing Club serves to organise and host horseracing at Meydan Racecourse'; the first 1981 Dubai meeting was 'organised by the office of His Highness Sheikh Mohammed bin Rashid Al Maktoum, ... Ruler of Dubai', and DRC's chairman is Sheikh Rashed bin Dalmook bin Juma Al Maktoum. Parenting to government-of-dubai is by the ruler's office link, not a filing.",
+    "parentId": "government-of-dubai"
+  },
+  {
+    "id": "dubai-world-corporation",
+    "name": "Dubai World Corporation",
+    "type": "state",
+    "country": "UAE",
+    "via": "state-owned Dubai holding group",
+    "note": "DP World Limited's FY2025 Annual Report states 'The Government of Dubai is the Ultimate owner of the Group.'",
+    "parentId": "government-of-dubai"
   },
   {
     "id": "easygo",
@@ -843,6 +1279,14 @@
     "country": "GB"
   },
   {
+    "id": "ekoniva",
+    "name": "Ekoniva",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Ekaterinburg-based dairy holding (EkonivaMoloko)."
+  },
+  {
     "id": "el-camino-health",
     "name": "El Camino Health",
     "type": "private-company",
@@ -862,6 +1306,14 @@
     "type": "listed-company",
     "parentId": null,
     "country": "United States"
+  },
+  {
+    "id": "empower-owner",
+    "name": "Empower LLC",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "arena naming-rights holder of denver-broncos (2026-27).",
+    "country": "US"
   },
   {
     "id": "energy-transfer-owner",
@@ -884,6 +1336,24 @@
     "type": "listed-company",
     "parentId": null,
     "country": "GB"
+  },
+  {
+    "id": "esl-faceit-group",
+    "name": "ESL FACEIT Group (EFG)",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "Savvy Games Group",
+    "note": "Home of ESL, FACEIT and DreamHack; 'fully owns and operates' per The Esports Advocate (2025-09-03). Official Operating Partner of the Esports World Cup.",
+    "parentId": "savvy-games-group"
+  },
+  {
+    "id": "esports-foundation",
+    "name": "Esports Foundation (formerly Esports World Cup Foundation)",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "PIF sports grant",
+    "note": "Riyadh-based non-profit; claims it is not owned or operated by the Saudi government but funded through a PIF sports grant (The Esports Advocate, 2025-09-03). The Saudi cabinet named Crown Prince MBS chair of its board of trustees on 2 Sep 2025, and the crown prince announced the foundation itself in 2023, so the state link is direct.",
+    "parentId": "saudi-pif"
   },
   {
     "id": "essilorluxottica",
@@ -914,6 +1384,13 @@
     "parentId": null,
     "note": "arena naming-rights holder of jacksonville-jaguars (2026-27).",
     "country": "USA"
+  },
+  {
+    "id": "exor-nv",
+    "name": "Exor N.V.",
+    "type": "listed-company",
+    "country": "Netherlands",
+    "parentId": null
   },
   {
     "id": "expedia-group-inc",
@@ -951,12 +1428,41 @@
     "country": "DE"
   },
   {
+    "id": "fedex-corporation",
+    "name": "FedEx Corporation",
+    "type": "listed-company",
+    "country": "USA",
+    "parentId": null,
+    "note": "US-listed logistics company (NYSE: FDX). The corpus previously had a fedex-owner record (\"FedEx LLC\"), listed-company); this parent-chain entry records the listed parent for the same chain. No state stake."
+  },
+  {
+    "id": "ferrari-nv",
+    "name": "Ferrari N.V.",
+    "type": "listed-company",
+    "country": "Italy",
+    "parentId": null
+  },
+  {
+    "id": "fidelidade",
+    "name": "Fidelidade - Companhia de Seguros",
+    "type": "private-company",
+    "parentId": null
+  },
+  {
     "id": "fifth-third-bank-owner",
     "name": "Fifth Third Bancorp",
     "type": "listed-company",
     "parentId": null,
     "note": "jersey patch partner of tampa-bay-buccaneers (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "fila-holdings",
+    "name": "Fila Holdings Corp (Misto Holdings Corp)",
+    "type": "listed-company",
+    "country": "South Korea",
+    "note": "Korea Exchange-listed sport and leisure apparel company, formerly Fila Korea and Fila Holdings, now Misto Holdings (Acushnet FY2025 Form 10-K). Parent of Magnus Holdings Co., Ltd.",
+    "parentId": null
   },
   {
     "id": "finstreet-ltd",
@@ -975,11 +1481,26 @@
     "country": "USA"
   },
   {
+    "id": "flexicar",
+    "name": "Flexicar",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
     "id": "flexicar-internacional",
     "name": "Flexicar Internacional (owner Luis Oliver Cornago)",
     "type": "private-company",
     "parentId": null,
     "country": "ES"
+  },
+  {
+    "id": "fonbet",
+    "name": "Fonbet",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Russian bookmaker."
   },
   {
     "id": "ford-motor-company",
@@ -994,6 +1515,20 @@
     "type": "private-company",
     "parentId": null,
     "country": "KY"
+  },
+  {
+    "id": "fosun",
+    "name": "Fosun International",
+    "type": "private-company",
+    "parentId": null
+  },
+  {
+    "id": "foundation-building-materials-owner",
+    "name": "Foundation Building Materials (FBM) LLC",
+    "type": "private-company",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "country": "US"
   },
   {
     "id": "french-state",
@@ -1061,11 +1596,48 @@
     "country": "Cayman Islands"
   },
   {
+    "id": "gazprom",
+    "name": "Gazprom (PJSC)",
+    "type": "listed-company",
+    "country": "Russia",
+    "parentId": "russian-federation",
+    "note": "Reused id; Russian state controls a majority stake via Rosimushchestvo."
+  },
+  {
     "id": "gcs",
     "name": "GCS",
     "type": "private-company",
     "parentId": null,
     "country": "Spain"
+  },
+  {
+    "id": "gene-haas",
+    "name": "Gene Haas",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": null
+  },
+  {
+    "id": "general-entertainment-authority",
+    "name": "General Entertainment Authority (Saudi Arabia)",
+    "type": "state",
+    "country": "Saudi Arabia",
+    "parentId": "government-of-saudi-arabia",
+    "note": "Saudi government authority that organises Riyadh Season; chaired by Turki Alalshikh (UFC.com release, 11 Jun 2025: 'Chairman of the General Entertainment Authority and President of the Saudi Boxing Federation')."
+  },
+  {
+    "id": "general-motors",
+    "name": "General Motors",
+    "type": "listed-company",
+    "country": "United States",
+    "parentId": null
+  },
+  {
+    "id": "george-kurtz",
+    "name": "George Kurtz",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": "motorsport-invest"
   },
   {
     "id": "gic",
@@ -1075,12 +1647,36 @@
     "parentId": "government-of-singapore"
   },
   {
+    "id": "globe-life-globe-life-inc-owner",
+    "name": "Globe Life (Globe Life Inc.)",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "arena naming-rights holder of texas-rangers (2026-27).",
+    "country": "US"
+  },
+  {
+    "id": "godolphin",
+    "name": "Godolphin",
+    "type": "private-company",
+    "country": "UAE",
+    "via": "the racing operation of Sheikh Mohammed bin Rashid Al Maktoum, Ruler of Dubai",
+    "note": "Named in the target leads as the Dubai ruler's racing operation; not re-verified to a primary document this pass.",
+    "parentId": null
+  },
+  {
     "id": "golden-1-credit-union-owner",
     "name": "Golden 1 Credit Union",
     "type": "private-company",
     "parentId": null,
     "note": "arena naming-rights holder of sacramento-kings (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "golden-matrix-group",
+    "name": "Golden Matrix Group Inc.",
+    "type": "listed-company",
+    "country": "United States",
+    "parentId": null
   },
   {
     "id": "gov-malaysia",
@@ -1145,10 +1741,33 @@
     "parentId": "uae"
   },
   {
+    "id": "government-of-indonesia",
+    "name": "Government of the Republic of Indonesia",
+    "type": "state",
+    "parentId": null,
+    "country": "Indonesia"
+  },
+  {
     "id": "government-of-kazakhstan",
     "name": "Government of Kazakhstan",
     "type": "state",
     "country": "Kazakhstan",
+    "parentId": null
+  },
+  {
+    "id": "government-of-kuwait",
+    "name": "Government of Kuwait",
+    "type": "state",
+    "country": "Kuwait",
+    "parentId": null,
+    "note": "Host state for the Saudi Super Cup 2026 (December 2026) and the Trophée des Champions 2025 edition (8 January 2026); the Kuwait FA president quoted on the hosting is Sheikh Ahmad Al-Yousef Al-Sabah of the ruling Al Sabah family (Goal.com, 14 Sep 2026)."
+  },
+  {
+    "id": "government-of-oman",
+    "name": "Government of the Sultanate of Oman",
+    "type": "state",
+    "country": "Oman",
+    "note": "Created for this target; Oman is not on the project's core state list - its rights record should be rated separately.",
     "parentId": null
   },
   {
@@ -1188,6 +1807,14 @@
     "country": "TR"
   },
   {
+    "id": "grays-of-cambridge",
+    "name": "Grays of Cambridge",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": null,
+    "note": "Footer of gilbertrugby.com reads '(c) 2026 Grays of Cambridge. All rights reserved.' - the Gilbert Rugby brand's company."
+  },
+  {
     "id": "great-american-insurance-owner",
     "name": "Great American Insurance",
     "type": "listed-company",
@@ -1197,11 +1824,10 @@
   },
   {
     "id": "gree-electric",
-    "parentId": null,
-    "name": "Gree Electric Appliances, Inc. of Zhuhai",
+    "name": "Gree Electric Appliances",
     "type": "listed-company",
-    "country": "CN",
-    "note": "Shenzhen-listed (000651); no controlling shareholder or actual controller since 2020."
+    "parentId": null,
+    "country": "China"
   },
   {
     "id": "gree-group-zhuhai-sasac",
@@ -1233,6 +1859,28 @@
     "country": "US"
   },
   {
+    "id": "haas-automation",
+    "name": "Haas Automation",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": "gene-haas"
+  },
+  {
+    "id": "haas-formula",
+    "name": "Haas Formula LLC",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": "gene-haas"
+  },
+  {
+    "id": "haier-group",
+    "name": "Haier Group Corporation",
+    "type": "private-company",
+    "country": "China",
+    "parentId": null,
+    "note": "Collectively owned; parent of listed Haier Smart Home."
+  },
+  {
     "id": "haier-smart-home",
     "name": "Haier Smart Home Co., Ltd.",
     "type": "listed-company",
@@ -1245,6 +1893,20 @@
     "type": "private-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "halo-service-management",
+    "name": "Halo Service Solutions",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United Kingdom"
+  },
+  {
+    "id": "hansemerkur",
+    "name": "HanseMerkur Versicherungsgruppe",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
   },
   {
     "id": "hansemerkur-krankenversicherung-ag",
@@ -1260,6 +1922,14 @@
     "country": "Germany",
     "note": "Harald Pihl GmbH is a private German special-metals trader. harald-pihl.com",
     "parentId": null
+  },
+  {
+    "id": "hard-rock-international-owner",
+    "name": "Hard Rock International LLC",
+    "type": "private-company",
+    "parentId": null,
+    "note": "arena naming-rights holder of miami-dolphins (2026-27).",
+    "country": "US"
   },
   {
     "id": "haufe-group-se",
@@ -1351,6 +2021,14 @@
     "country": "US"
   },
   {
+    "id": "hsbc-holdings",
+    "name": "HSBC Holdings plc",
+    "type": "listed-company",
+    "country": "United Kingdom",
+    "note": "Publicly listed in London (HSBA), Hong Kong (0005) and New York (HSBC ADRs); no state shareholder disclosed on hsbc.com/investors.",
+    "parentId": null
+  },
+  {
     "id": "hugo-boss-ag",
     "name": "HUGO BOSS AG",
     "type": "listed-company",
@@ -1390,6 +2068,14 @@
     "country": "United States"
   },
   {
+    "id": "ibotta-owner",
+    "name": "Ibotta LLC",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "country": "US"
+  },
+  {
     "id": "idm-energiesysteme",
     "name": "IDM Energiesysteme GmbH",
     "type": "private-company",
@@ -1420,11 +2106,26 @@
     "country": "US"
   },
   {
+    "id": "ineos",
+    "name": "INEOS Industries Holdings",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": null
+  },
+  {
     "id": "ineos-group-limited",
     "name": "INEOS Group Limited",
     "type": "private-company",
     "parentId": null,
     "country": "GB"
+  },
+  {
+    "id": "intercontinental-hotels-group",
+    "name": "InterContinental Hotels Group PLC",
+    "type": "listed-company",
+    "country": "United Kingdom",
+    "parentId": null,
+    "note": "IHG Hotels & Resorts is the consumer brand of InterContinental Hotels Group PLC (ihgplc.com); UK-listed with US ADRs."
   },
   {
     "id": "intermountain-health",
@@ -1457,6 +2158,15 @@
     "country": "United States"
   },
   {
+    "id": "investment-corporation-of-dubai",
+    "name": "Investment Corporation of Dubai",
+    "type": "state-fund",
+    "country": "United Arab Emirates",
+    "via": "Government of Dubai",
+    "note": "ICD is 'the principal investment arm of the Government of Dubai', established in 2006; Dubai Duty Free is a holding in ICD's Retail & Others portfolio.",
+    "parentId": "government-of-dubai"
+  },
+  {
     "id": "iren-owner",
     "name": "IREN (IREN Ltd, AI cloud infrastructure)",
     "type": "listed-company",
@@ -1470,6 +2180,23 @@
     "type": "private-company",
     "parentId": null,
     "country": "GB"
+  },
+  {
+    "id": "jefferson-health-owner",
+    "name": "Jefferson Health",
+    "type": "private-company",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "country": "US"
+  },
+  {
+    "id": "jockey-club-of-saudi-arabia",
+    "name": "Saudi Jockey Club (JCSA)",
+    "type": "state",
+    "country": "Saudi Arabia",
+    "via": "established 1965; presidency entrusted by a Royal Decree of King Faisal Official name: Jockey Club of Saudi Arabia.",
+    "note": "JCSA footer: 'established in 1965 and is tasked with the organisation, development and promotion of Saudi Arabian horseracing at domestic and international level'; its history page says a Royal Decree from King Faisal Bin Abdulaziz entrusted the presidency to Prince Abdullah Bin Abdulaziz.",
+    "parentId": "government-of-saudi-arabia"
   },
   {
     "id": "jp-financial",
@@ -1542,6 +2269,14 @@
     "parentId": "saudi-pif"
   },
   {
+    "id": "kazanorgsintez",
+    "name": "Kazanorgsintez (PAO)",
+    "type": "listed-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Petrochemical producer, part of SIBUR group; general sponsor of FC Rubin."
+  },
+  {
     "id": "kermi",
     "name": "Kermi GmbH",
     "type": "private-company",
@@ -1573,11 +2308,25 @@
     "country": "ZA"
   },
   {
+    "id": "koemmerling-kunststoffe",
+    "name": "Koemmerling Kunststoffe",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
     "id": "komatsu-ltd",
     "name": "Komatsu Ltd.",
     "type": "listed-company",
     "parentId": null,
     "country": "Japan"
+  },
+  {
+    "id": "kosner",
+    "name": "Kosner",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
     "id": "kroger-owner",
@@ -1588,11 +2337,49 @@
     "country": "US"
   },
   {
+    "id": "kutxabank",
+    "name": "Kutxabank",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
     "id": "kutxabank-sa",
     "name": "Kutxabank, S.A. (owned by BBK, Kutxa and Vital foundations)",
     "type": "private-company",
     "parentId": null,
     "country": "ES"
+  },
+  {
+    "id": "lawrence-stroll",
+    "name": "Lawrence Stroll",
+    "type": "private-company",
+    "country": "Canada",
+    "parentId": "yew-tree"
+  },
+  {
+    "id": "lbbw",
+    "name": "Landesbank Baden-Wuerttemberg",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Germany",
+    "via": "Land Baden-Wuerttemberg"
+  },
+  {
+    "id": "ldlc-group",
+    "name": "LDLC Group (Maison du basketball / LDLC ASVEL holding)",
+    "type": "private-company",
+    "country": "France",
+    "parentId": null,
+    "note": "Owner of the LDLC naming; ASVEL's naming sponsor since 2018. Ownership of the LDLC brand itself not verified in this pass."
+  },
+  {
+    "id": "ledger-owner",
+    "name": "Ledger LLC",
+    "type": "private-company",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "country": "US"
   },
   {
     "id": "legend-holdings",
@@ -1625,6 +2412,13 @@
     "country": "US"
   },
   {
+    "id": "lexware-gmbh",
+    "name": "Lexware (Haufe Group)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
     "id": "libertex-group",
     "name": "Libertex Group / Indication Investments Ltd",
     "type": "private-company",
@@ -1633,11 +2427,12 @@
   },
   {
     "id": "limad",
-    "parentId": "government-of-abu-dhabi",
-    "name": "L'IMAD Holding Company (Abu Dhabi sovereign investment fund; ADQ's assets consolidated into it in January 2026)",
+    "name": "L'IMAD (Abu Dhabi sovereign investor, formerly ADQ)",
     "type": "state-fund",
-    "country": "UAE",
-    "note": "Chaired by Sheikh Khaled bin Mohamed bin Zayed, Crown Prince of Abu Dhabi. Overseen by the Supreme Council for Financial and Economic Affairs with ADIA and Mubadala."
+    "country": "United Arab Emirates",
+    "parentId": "government-of-abu-dhabi",
+    "via": "Sovereign investor of the Government of Abu Dhabi; absorbed ADQ in 2026; chaired by Sheikh Tahnoon bin Zayed (The Inner Ring, 2026-08-05)",
+    "note": "UAE Team L'IMAD sponsor page: 'L'IMAD is a sovereign investor of the Government of Abu Dhabi.' Cyclingnews (2026-07-27): Abu Dhabi sovereign wealth fund reportedly worth about $300bn, chaired by Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan; ADQ absorbed into L'IMAD. The Inner Ring (2026-08-05) says the fund is chaired by Sheikh Tahnoon bin Zayed. Chair accounts differ between sources."
   },
   {
     "id": "lincoln-financial-group-owner",
@@ -1648,12 +2443,61 @@
     "country": "USA"
   },
   {
+    "id": "link-asset-management",
+    "name": "Link Asset Management Limited",
+    "type": "private-company",
+    "country": "Hong Kong",
+    "note": "Manager of Link Real Estate Investment Trust (linkreit.com about page: 'Link REIT ... Managed by Link Asset Management Limited (Link)', fetched 2026-09-25).",
+    "parentId": null
+  },
+  {
+    "id": "link-reit",
+    "name": "Link Real Estate Investment Trust (Link REIT)",
+    "type": "listed-company",
+    "country": "Hong Kong",
+    "note": "HKEX-listed; 'entirely owned by independent investors since its listing in November 2005 as the first REIT in Hong Kong' (linkreit.com, fetched 2026-09-25). Manager: Link Asset Management Limited; the LINK brand title-sponsors the Link Hong Kong Open.",
+    "parentId": null
+  },
+  {
     "id": "little-caesars-owner",
     "name": "Little Caesars",
     "type": "private-company",
     "parentId": null,
     "note": "arena naming-rights holder of detroit-pistons (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "live-nation-entertainment",
+    "name": "Live Nation Entertainment",
+    "type": "listed-company",
+    "country": "USA",
+    "parentId": null,
+    "note": "Ticketmaster's parent group; primary ownership statement not opened this pass (see unsourced)."
+  },
+  {
+    "id": "loandepot-owner",
+    "name": "loanDepot Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "arena naming-rights holder of miami-marlins (2026-27).",
+    "country": "US"
+  },
+  {
+    "id": "london-city-lionesses-holding",
+    "name": "Kynisca (Michele Kang)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "USA",
+    "via": "Michele Kang's Kynisca Sports group, which also owns Washington Spirit and OL Lyonnes"
+  },
+  {
+    "id": "longines",
+    "name": "Longines",
+    "type": "private-company",
+    "country": "Switzerland",
+    "via": "Swatch Group Ltd",
+    "note": "Longines describes itself as 'a member of Swatch Group Ltd., the world's leading watch manufacturer' (Dubai Racing Club partners page); Swatch Group is listed on SIX.",
+    "parentId": null
   },
   {
     "id": "loves-travel-stops-owner",
@@ -1679,6 +2523,22 @@
     "country": "Spain"
   },
   {
+    "id": "lukoil",
+    "name": "LUKOIL (PJSC)",
+    "type": "listed-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Private: the Russian Federation's stake was reduced to 0% by September 2004 (Lukoil share-capital history)."
+  },
+  {
+    "id": "lumen-technologies-owner",
+    "name": "Lumen Technologies Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "arena naming-rights holder of seattle-seahawks (2026-27).",
+    "country": "US"
+  },
+  {
     "id": "lvcva-owner",
     "name": "Las Vegas Convention and Visitors Authority",
     "type": "state",
@@ -1702,10 +2562,33 @@
     "country": "USA"
   },
   {
+    "id": "magnit",
+    "name": "Magnit (PJSC)",
+    "type": "listed-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Russian retail chain."
+  },
+  {
+    "id": "magnus-holdings",
+    "name": "Magnus Holdings Co., Ltd.",
+    "type": "listed-company",
+    "country": "South Korea",
+    "note": "Wholly-owned subsidiary of Misto (Fila Holdings). Beneficially owned approximately 50.6% of Acushnet Holdings Corp. common stock as of 31 December 2025, making Acushnet a NYSE 'controlled company' (Acushnet FY2025 Form 10-K).",
+    "parentId": "fila-holdings"
+  },
+  {
     "id": "mahou-san-miguel",
     "name": "Mahou San Miguel",
     "type": "private-company",
     "parentId": null,
+    "country": "Spain"
+  },
+  {
+    "id": "malaga-turismo",
+    "name": "Malaga Turismo",
+    "type": "state",
+    "parentId": "ayuntamiento-de-malaga",
     "country": "Spain"
   },
   {
@@ -1738,6 +2621,20 @@
     "country": "GB"
   },
   {
+    "id": "mark-mateschitz",
+    "name": "Mark Mateschitz",
+    "type": "private-company",
+    "country": "Austria",
+    "parentId": "mateschitz-yoovidhya-families"
+  },
+  {
+    "id": "marriott-international",
+    "name": "Marriott International, Inc.",
+    "type": "listed-company",
+    "country": "United States",
+    "parentId": null
+  },
+  {
     "id": "massmutual-owner",
     "name": "MassMutual",
     "type": "private-company",
@@ -1760,6 +2657,13 @@
     "country": "AT"
   },
   {
+    "id": "matthaei-bau",
+    "name": "Matthaei Bauunternehmung",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
     "id": "matthaei-gruppe",
     "name": "Matthaei Gruppe (Matthaei Holding)",
     "type": "private-company",
@@ -1779,6 +2683,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "medialuanda",
+    "name": "Grupo Media Capital",
+    "type": "private-company",
+    "country": "Portugal",
+    "note": "Portuguese media group (TVI free-to-air channel; TVI's controlling shareholder is Media Capital, ultimately controlled by Prisa, Spain). Recorded for the TVI front placement at Moreirense; ownership detail left in note only.",
+    "parentId": null
   },
   {
     "id": "meijer-owner",
@@ -1812,6 +2724,23 @@
     "parentId": null
   },
   {
+    "id": "meridianbet-group",
+    "name": "Meridianbet Group",
+    "type": "private-company",
+    "country": "Malta",
+    "via": "Subsidiary of Golden Matrix Group Inc. (NASDAQ: GMGI)",
+    "parentId": "golden-matrix-group",
+    "note": "GlobeNewswire release describes Meridianbet as part of Golden Matrix Group Inc. (NASDAQ: GMGI)."
+  },
+  {
+    "id": "metlife-owner",
+    "name": "MetLife, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "Naming-rights holder of MetLife Stadium, home of the New York Giants and New York Jets (2011, $17-20m/yr over 25 years per NJ.com).",
+    "country": "US"
+  },
+  {
     "id": "mgm-resorts",
     "name": "MGM Resorts International",
     "type": "listed-company",
@@ -1824,6 +2753,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "Spain"
+  },
+  {
+    "id": "michele-kang",
+    "name": "Michele Kang",
+    "type": "private-company",
+    "parentId": null,
+    "country": "USA",
+    "via": "Founder and owner of Kynisca Sports International"
   },
   {
     "id": "microsoft-corporation",
@@ -1840,11 +2777,26 @@
     "country": "China"
   },
   {
+    "id": "ministry-of-sport",
+    "name": "Saudi Ministry of Sport",
+    "type": "state",
+    "country": "Saudi Arabia",
+    "note": "Government ministry formed 25 Feb 2020, led by Prince Abdulaziz bin Turki Al-Faisal; supervises the Dakar Rally (Arab News, 6 May 2026: route launched 'under the supervision of the Ministry of Sport').",
+    "parentId": "government-of-saudi-arabia"
+  },
+  {
     "id": "mk-sports-news",
     "name": "mk体育 / MKSPORTS News (mktynews.com)",
     "type": "unknown",
     "parentId": null,
     "country": "CN"
+  },
+  {
+    "id": "mk-tiyu-news",
+    "name": "MK TIYU News",
+    "type": "private-company",
+    "parentId": null,
+    "country": "China"
   },
   {
     "id": "moda-health-owner",
@@ -1862,6 +2814,15 @@
     "country": "Spain"
   },
   {
+    "id": "molson-coors",
+    "name": "Molson Coors Beverage Company",
+    "type": "listed-company",
+    "country": "United States",
+    "via": "NYSE: TAP",
+    "note": "Carling is one of Molson Coors' core power brands, listed alongside Coors Light, Miller Lite and Coors Banquet on the company's About page. Molson Coors is listed on the NYSE.",
+    "parentId": null
+  },
+  {
     "id": "mondelez-international",
     "name": "Mondelez International, Inc.",
     "type": "listed-company",
@@ -1876,6 +2837,14 @@
     "country": "CA"
   },
   {
+    "id": "monster-beverage-corp",
+    "name": "Monster Beverage Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "Nasdaq: MNST. The Coca-Cola Company (TCCC) owned approximately 20.9% of the common stock as of 13 Feb 2026 (10-K).",
+    "country": "United States"
+  },
+  {
     "id": "monzo-bank-limited",
     "name": "Monzo Bank Limited (UK; private, VC-backed)",
     "type": "private-company",
@@ -1883,11 +2852,34 @@
     "country": "GB"
   },
   {
+    "id": "motorola-owner",
+    "name": "Motorola Solutions",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "Distinct from Motorola Mobility (Lenovo). Named from the Padres jersey-patch context; an ownership source (Motorola Solutions 10-K) has not yet been opened.",
+    "country": "US"
+  },
+  {
     "id": "motors",
     "name": "Motors.co.uk Limited (O3 Industries / Novum Capital)",
     "type": "private-company",
     "parentId": null,
     "country": "GB"
+  },
+  {
+    "id": "motorsport-invest",
+    "name": "Motorsport Invest Limited",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": null
+  },
+  {
+    "id": "mozzart-bet-owner",
+    "name": "Mozzart Bet",
+    "type": "private-company",
+    "country": "Serbia",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened."
   },
   {
     "id": "msc-group-aponte-family",
@@ -1902,6 +2894,15 @@
     "type": "state-fund",
     "parentId": "government-of-abu-dhabi",
     "country": "United Arab Emirates"
+  },
+  {
+    "id": "mubadala-capital",
+    "name": "Mubadala Capital",
+    "type": "state-fund",
+    "country": "United Arab Emirates",
+    "via": "wholly-owned asset management subsidiary of Mubadala Investment Company (per Mubadala Capital/SailGP press release, 21 Jun 2024)",
+    "note": "Led the 2024 acquisition of the Brazil SailGP Team with Brazilian sports and entertainment firm IMM (team operator, founded by Alan Adler); team races as Mubadala Brazil.",
+    "parentId": "mubadala"
   },
   {
     "id": "mumtalakat",
@@ -1952,7 +2953,7 @@
     "name": "NewAge Products",
     "type": "private-company",
     "parentId": null,
-    "note": "jersey patch partner of new-orleans-pelicans (2026-27).",
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
     "country": "CAN"
   },
   {
@@ -1981,6 +2982,14 @@
     "parentId": null
   },
   {
+    "id": "nintendo-owner",
+    "name": "Nintendo (Nintendo of America) LLC",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "country": "US"
+  },
+  {
     "id": "nissan-owner",
     "name": "Nissan Motor Co., Ltd.",
     "type": "listed-company",
@@ -2005,6 +3014,14 @@
     "country": "US"
   },
   {
+    "id": "nrg-energy-reliant-brand-owner",
+    "name": "NRG Energy (Reliant brand) LLC",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "arena naming-rights holder of houston-texans (2026-27).",
+    "country": "US"
+  },
+  {
     "id": "occidental-petroleum-owner",
     "name": "Occidental Petroleum Corporation",
     "type": "listed-company",
@@ -2024,6 +3041,38 @@
     "type": "private-company",
     "parentId": null,
     "country": "Seychelles"
+  },
+  {
+    "id": "olybet",
+    "name": "OlyBet (Olympic Entertainment Group)",
+    "type": "private-company",
+    "country": "Estonia",
+    "parentId": null
+  },
+  {
+    "id": "oman-ministry-culture-sports-youth",
+    "name": "Oman Ministry of Culture, Sports and Youth",
+    "type": "state",
+    "country": "Oman",
+    "via": "government ministry of the Sultanate of Oman (mcsy.gov.om, opened)",
+    "note": "Organiser of the Tour of Oman and Muscat Classic, in cooperation with the Oman Cycling Association.",
+    "parentId": "government-of-oman"
+  },
+  {
+    "id": "opap-group",
+    "name": "OPAP Group",
+    "type": "listed-company",
+    "country": "Greece",
+    "note": "OPAP listed on Athens Stock Exchange; Allwyn Entertainment holds a majority stake.",
+    "parentId": null
+  },
+  {
+    "id": "optum",
+    "name": "Optum",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United States",
+    "note": "US health-services arm of UnitedHealth Group; Human Powered Health is described as a subsidiary of Optum (The Inner Ring, 2026-08-05)."
   },
   {
     "id": "oracle-corporation",
@@ -2054,6 +3103,13 @@
     "country": "Poland"
   },
   {
+    "id": "otro-capital",
+    "name": "Otro Capital",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": null
+  },
+  {
     "id": "oxagon",
     "name": "Oxagon",
     "type": "private-company",
@@ -2061,6 +3117,13 @@
     "via": "NEOM",
     "note": "Industrial city/region of NEOM.",
     "parentId": "neom"
+  },
+  {
+    "id": "pamesa-ceramica",
+    "name": "Pamesa Ceramica",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
     "id": "pamesa-grupo-empresarial",
@@ -2075,6 +3138,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "Italy"
+  },
+  {
+    "id": "paramount-skydance",
+    "name": "Paramount (Paramount Skydance Corporation)",
+    "type": "listed-company",
+    "country": "United States",
+    "parentId": null,
+    "note": "US media group; its Paramount+ streaming service is the exclusive home of Zuffa Boxing in the US, Canada and Latin America from January 2026."
   },
   {
     "id": "paycom-owner",
@@ -2093,6 +3164,14 @@
     "country": "US"
   },
   {
+    "id": "paypal-owner",
+    "name": "PayPal LLC",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "country": "US"
+  },
+  {
     "id": "payward",
     "name": "Payward, Inc. (d/b/a Kraken)",
     "type": "private-company",
@@ -2108,6 +3187,32 @@
     "country": "US"
   },
   {
+    "id": "pentland-group",
+    "name": "Pentland Group plc",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "via": "Pentland Brands",
+    "note": "Pentland Group describes itself on its About Us page as 'a family business building and delivering positive brands in sports, outdoor and fashion'; Pentland Brands 'owns Speedo, Berghaus, Canterbury, Endura, ellesse, SeaVees, Red Or Dead and Mitre'. Pentland also holds 51.89% of JD Sports Fashion plc.",
+    "parentId": null
+  },
+  {
+    "id": "people-s-government-of-guangxi",
+    "name": "People's Government of the Guangxi Zhuang Autonomous Region",
+    "type": "state",
+    "country": "China",
+    "via": "provincial-level government of the Guangxi Zhuang Autonomous Region, China",
+    "note": "Co-organiser (with Wanda Group) and owner of the Tour of Guangxi, a UCI WorldTour race created by a 1 December 2016 agreement between the UCI, Wanda Sports and the regional government.",
+    "parentId": null
+  },
+  {
+    "id": "pepsico-inc",
+    "name": "PepsiCo, Inc.",
+    "type": "listed-company",
+    "country": "USA",
+    "parentId": null,
+    "note": "US-listed snacks and beverages company (NASDAQ: PEP); owner of the Pepsi brand. No state stake. Owner record added to back the Pepsi league-partner deal; tier left for a rater."
+  },
+  {
     "id": "perdue-farms-owner",
     "name": "Perdue Farms",
     "type": "private-company",
@@ -2116,12 +3221,40 @@
     "country": "USA"
   },
   {
+    "id": "pertamina",
+    "name": "PT Pertamina (Persero)",
+    "type": "private-company",
+    "parentId": "government-of-indonesia",
+    "via": "Wholly state-owned Persero under Law No. 22 of 2001 on Oil and Gas",
+    "country": "Indonesia"
+  },
+  {
+    "id": "pestana-group",
+    "name": "Pestana Group",
+    "type": "private-company",
+    "parentId": null
+  },
+  {
     "id": "petco-owner",
     "name": "Petco",
     "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of san-diego-padres (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "piero-ferrari",
+    "name": "Piero Ferrari",
+    "type": "private-company",
+    "country": "Italy",
+    "parentId": "ferrari-nv"
+  },
+  {
+    "id": "plenitude-eni",
+    "name": "Plenitude (Eni)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Italy"
   },
   {
     "id": "pnc-bank-pnc-financial-services-owner",
@@ -2138,6 +3271,14 @@
     "country": "Sweden",
     "note": "Swedish premium EV maker, listed on Nasdaq; controlled by Li Shufu/PSD Investment and Volvo Car Group. Parent: Geely. geely.com",
     "parentId": null
+  },
+  {
+    "id": "port-free-zone-world",
+    "name": "Port & Free Zone World FZE",
+    "type": "private-company",
+    "country": "UAE",
+    "via": "wholly owned subsidiary of Dubai World Corporation",
+    "parentId": "dubai-world-corporation"
   },
   {
     "id": "procter-and-gamble",
@@ -2207,6 +3348,33 @@
     "parentId": null
   },
   {
+    "id": "qiddiya",
+    "name": "Qiddiya Investment Company (Qiddiya City)",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "PIF",
+    "note": "Closed joint-stock company wholly owned by PIF (Saudipedia); a PIF giga-project under Vision 2030, launched 2018. Fully acquired fighting-game organizer RTS/Evo in 2025.",
+    "parentId": "saudi-pif"
+  },
+  {
+    "id": "qipco",
+    "name": "QIPCO (Qatar Holdings and Investment Company)",
+    "type": "private-company",
+    "country": "Qatar",
+    "via": "Al Thani ruling family of Qatar",
+    "note": "Named 'Qatar Holdings and Investment Company (QIPCO)' in the British Champions Day announcement (22 Jun 2026); chaired by HH Sheikh Hamad Al Thani, brother of Sheikh Fahad - members of Qatar's ruling family, but a private family company, not a state entity.",
+    "parentId": null
+  },
+  {
+    "id": "qrec",
+    "name": "Qatar Racing and Equestrian Club (QREC)",
+    "type": "state",
+    "country": "Qatar",
+    "via": "state domain qrec.gov.qa",
+    "note": "Operates on the Qatari state domain qrec.gov.qa (trainers.qrec.gov.qa, land.qrec.gov.qa); chairman Hamad bin Abdulrahman Al-Attiyah credits 'the generous support of our wise leadership'. Never explicitly self-described as a government body on the pages checked.",
+    "parentId": "government-of-qatar"
+  },
+  {
     "id": "qualcomm",
     "name": "Qualcomm Incorporated (Nasdaq-listed)",
     "type": "listed-company",
@@ -2230,11 +3398,41 @@
     "country": "US"
   },
   {
+    "id": "quiktrip-owner",
+    "name": "QuikTrip LLC",
+    "type": "private-company",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "country": "US"
+  },
+  {
+    "id": "raisin-ds",
+    "name": "Raisin DS",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
     "id": "raisin-gmbh",
     "name": "Raisin GmbH (Raisin DS)",
     "type": "private-company",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "rani-refreshments",
+    "name": "Rani Refreshments FZCO",
+    "type": "private-company",
+    "country": "United Arab Emirates",
+    "parentId": null,
+    "note": "Trademark holder of the Barbican brand; the 2011 Aujan-Coca-Cola deal created ACCBC and Rani Refreshments under Aujan Group Holding. Equity split of the Aujan/Coca-Cola JV not disclosed by the company."
+  },
+  {
+    "id": "rapyd",
+    "name": "Rapyd Holdings",
+    "type": "private-company",
+    "country": "Israel",
+    "parentId": null
   },
   {
     "id": "rate-formerly-guaranteed-rate-owner",
@@ -2253,11 +3451,27 @@
     "country": "USA"
   },
   {
+    "id": "rcs-sport",
+    "name": "RCS Sport (RCS MediaGroup)",
+    "type": "private-company",
+    "country": "Italy",
+    "via": "RCS MediaGroup, controlled by Urbano Cairo via Cairo Communication (59.693%)",
+    "note": "Cairo Communication holds 59.693% of RCS MediaGroup and Urbano Cairo is chairman and CEO (RCS MediaGroup corporate structure). Organiser of the UAE Tour and UAE Tour Women on behalf of the Abu Dhabi Sports Council.",
+    "parentId": null
+  },
+  {
     "id": "recruit-holdings",
     "name": "Recruit Holdings",
     "type": "listed-company",
     "parentId": null,
     "country": "Japan"
+  },
+  {
+    "id": "red-bull-racing-limited",
+    "name": "Red Bull Racing Limited",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": "mateschitz-yoovidhya-families"
   },
   {
     "id": "red-sea-global",
@@ -2333,6 +3547,14 @@
     "country": "US"
   },
   {
+    "id": "rocket-rocket-companies-owner",
+    "name": "Rocket (Rocket Companies) LLC",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "arena naming-rights holder of cleveland-cavaliers (2026-27).",
+    "country": "US"
+  },
+  {
     "id": "rogers-communications-owner",
     "name": "Rogers Communications Inc.",
     "type": "listed-company",
@@ -2355,6 +3577,14 @@
     "via": "PIF",
     "note": "Describes itself as 'a Public Investment Fund (PIF) company'.",
     "parentId": "saudi-pif"
+  },
+  {
+    "id": "rostec",
+    "name": "Rostec State Corporation",
+    "type": "state",
+    "country": "Russia",
+    "parentId": "russian-federation",
+    "note": "Russian state corporation; general sponsor of FC Baltika."
   },
   {
     "id": "rouses-markets-owner",
@@ -2388,11 +3618,61 @@
     "note": "Ultimate beneficial owner: Sheikh Tahnoon bin Zayed Al Nahyan (SEC Schedule 13D, 2022). Majority shareholder of Group 42 Holding Ltd in 2022."
   },
   {
+    "id": "rssb",
+    "name": "Rwanda Social Security Board (RSSB)",
+    "type": "state-fund",
+    "country": "Rwanda",
+    "note": "National social-security institution, established 2010 by merging the Social Security Fund of Rwanda and RAMA; describes itself as 'Rwanda's largest institutional investor' with RWF 3.9 trillion under management. Took full ownership of Tigers BBC in 2025 and renamed it RSSB Tigers (The New Times, 2026).",
+    "parentId": null
+  },
+  {
     "id": "russian-federation",
     "name": "Russian Federation (Federal Agency for State Property Management)",
     "type": "state",
     "parentId": null,
     "country": "RU"
+  },
+  {
+    "id": "rwanda-defence-force",
+    "type": "state",
+    "name": "Rwanda Defence Force (RDF)",
+    "country": "Rwanda",
+    "via": "Ministry of Defence",
+    "note": "Designated by OFAC on 2 March 2026 (SDN entry: 'RWANDA DEFENCE FORCE (a.k.a. RDF), Ministry of Defence, KG 1 Roundabout, Kigali', tagged DRCONGO). Owner of APR BBC, the 2026 Rwandan champion that withdrew from the 2026 BAL.",
+    "parentId": "government-of-rwanda"
+  },
+  {
+    "id": "rwanda-ministry-of-sports",
+    "name": "Rwanda Ministry of Sports (Minisports)",
+    "type": "state",
+    "country": "Rwanda",
+    "via": "minisports.gov.rw, listed as an institution partner of the Tour du Rwanda",
+    "note": "Institution partner of the Tour du Rwanda alongside the European Commission Global Gateway and Rwanda National Police (tourdurwanda.rw, opened).",
+    "parentId": "government-of-rwanda"
+  },
+  {
+    "id": "rwandair",
+    "name": "RwandAir",
+    "type": "unknown",
+    "country": "Rwanda",
+    "note": "Rwanda's national carrier (operations began 1 Dec 2002 as 'the new national carrier', rwandair.com). The airline's own pages do not state its shareholding; state ownership needs a primary source.",
+    "parentId": null
+  },
+  {
+    "id": "rzd",
+    "name": "Russian Railways (OAO RZD)",
+    "type": "state",
+    "country": "Russia",
+    "parentId": "russian-federation",
+    "via": "100% of shares held by the Russian Federation",
+    "note": "RZD charter: all shares of the company are owned by the Russian Federation."
+  },
+  {
+    "id": "sabor-a-malaga",
+    "name": "Sabor a Malaga",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
     "id": "salesforce-inc",
@@ -2402,11 +3682,28 @@
     "country": "United States"
   },
   {
+    "id": "samf",
+    "name": "Saudi Automobile and Motorcycle Federation (SAMF)",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "state-supervised national federation",
+    "note": "The FIA-affiliated national motorsport federation, chaired by Prince Khalid bin Sultan Al-Abdullah Al-Faisal; cooperates on the Dakar and supervises SMC.",
+    "parentId": "government-of-saudi-arabia"
+  },
+  {
     "id": "samruk-kazyna",
     "name": "Samruk-Kazyna (Kazakhstan sovereign wealth fund)",
     "type": "state-fund",
     "country": "Kazakhstan",
     "parentId": "government-of-kazakhstan"
+  },
+  {
+    "id": "santa-casa",
+    "name": "Santa Casa da Misericordia de Lisboa (Jogos Santa Casa)",
+    "type": "state",
+    "country": "Portugal",
+    "note": "Portuguese charitable institution that runs Portugal's social games 'on behalf and on account of the State' under an exclusive regime, overseen by the government minister responsible for social security. Its Jogos Santa Casa arm runs the Placard betting brand (SCML itself: 'O Placard, produto dos Jogos Santa Casa'; online licence held by SAS Apostas Sociais, Jogos e Apostas Online, S.A., per the SRIJ register). Sources opened: https://scml.pt/jogos-santa-casa/ (exclusivity statement), https://scml.pt/comunicacao/noticias/placard-da-nome-a-supertaca-candido-de-oliveira/ ('produto dos Jogos Santa Casa'), https://www.srij.turismodeportugal.pt/pt/jogos-e-apostas-online/entidades-licenciadas (licence 013 held by SAS Apostas Sociais).",
+    "parentId": null
   },
   {
     "id": "sap-se",
@@ -2423,11 +3720,37 @@
     "country": "CA"
   },
   {
+    "id": "sata-group",
+    "name": "Grupo SATA",
+    "type": "state",
+    "country": "Portugal",
+    "note": "Azores airline group (Azores Airlines, SATA Air Acores). Became a public company in 1980 with 50% of shares held by the Regional Government of the Azores and the remainder by TAP Air Portugal (per pt.wikipedia SATA Air Acores / Grupo SATA); the government of the Azores remains the controlling public owner. Opened https://www.azoresairlines.pt/en/corporate and corporate-governance/investors pages - they link governance documents but do not print current percentages, so the 50% figure is from the Portuguese Wikipedia history section.",
+    "parentId": null
+  },
+  {
     "id": "saudi-aramco",
     "name": "Saudi Arabian Oil Company (Aramco)",
     "type": "listed-company",
     "parentId": "government-of-saudi-arabia",
     "country": "SA"
+  },
+  {
+    "id": "saudi-motorsport-company",
+    "name": "Saudi Motorsport Company (SMC)",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "operates under SAMF and the Ministry of Sport",
+    "note": "Founded 2021 as the dedicated entity for promoting and operating motorsport in Saudi Arabia in line with Vision 2030; chaired by HRH Prince Khalid bin Sultan Al-Abdullah Al-Faisal, who also chairs SAMF. Its own site says it operates under SAMF and the Ministry of Sport, so the state link is direct.",
+    "parentId": "government-of-saudi-arabia"
+  },
+  {
+    "id": "saudi-national-bank",
+    "name": "Saudi National Bank (SNB)",
+    "type": "listed-company",
+    "country": "Saudi Arabia",
+    "via": "PIF 37.2% (largest shareholder)",
+    "note": "SNB's 2025 annual report states 'The ultimate controlling party is the Public Investment Fund \"PIF\", ultimately owned by the Saudi government' and lists PIF's stake at 37.2% (2,234,257,917 shares) at 31 Dec 2025; GOSI is the other major shareholder.",
+    "parentId": "saudi-pif"
   },
   {
     "id": "saudi-pif",
@@ -2447,6 +3770,23 @@
     "parentId": "saudi-pif"
   },
   {
+    "id": "savvy-games-group",
+    "name": "Savvy Games Group",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "PIF",
+    "note": "PIF-owned games and esports group chaired by Crown Prince MBS (The Esports Advocate, 2025-09-03); its own site says 'backed by our shareholder the Public Investment Fund'. Business units: Scopely and ESL FACEIT Group.",
+    "parentId": "saudi-pif"
+  },
+  {
+    "id": "sb-investment-advisers-uk",
+    "name": "SB Investment Advisers (UK) Limited",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "note": "Companies House 10498335; incorporated 25 November 2016, formerly SoftBank Vision Advisers Limited; nature of business SIC 66300 fund management activities; registered office 69 Grosvenor Street, London W1K 3JP. PSC: SoftBank Group Corp (Japan), 75%+ shares and voting rights (fetched 2026-09-25).",
+    "parentId": "softbank-group"
+  },
+  {
     "id": "schwarz-group",
     "name": "Schwarz Group",
     "type": "private-company",
@@ -2461,6 +3801,14 @@
     "parentId": null,
     "note": "arena naming-rights holder of toronto-raptors (2026-27).",
     "country": "CA"
+  },
+  {
+    "id": "securian-financial-owner",
+    "name": "Securian Financial Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "country": "US"
   },
   {
     "id": "sega-sammy",
@@ -2497,6 +3845,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "IT"
+  },
+  {
+    "id": "shaikh-nasser-bin-hamad-al-khalifa",
+    "name": "Shaikh Nasser bin Hamad Al Khalifa",
+    "type": "private-company",
+    "country": "Bahrain",
+    "note": "Son of the King of Bahrain; founder of Team Bahrain Victorious (owner, not a sponsor on the jersey).",
+    "parentId": "government-of-bahrain"
   },
   {
     "id": "sheetz-owner",
@@ -2553,6 +3909,47 @@
     "country": "US"
   },
   {
+    "id": "sobha-realty",
+    "name": "Sobha Realty",
+    "type": "private-company",
+    "country": "UAE",
+    "via": "founded and chaired by PNC Menon",
+    "note": "Part of the Sobha Group founded by PNC Menon (sobharealty.com/about-us). Not state-linked.",
+    "parentId": null
+  },
+  {
+    "id": "sociedade-central-cervejas",
+    "name": "Sociedade Central de Cervejas e Bebidas (SCC)",
+    "type": "private-company",
+    "country": "Portugal",
+    "note": "Portuguese brewer of the Sagres brand; owned 100% by the Heineken Group since March 2008. Heineken is an Amsterdam-listed family-controlled brewer, no state link.",
+    "parentId": null
+  },
+  {
+    "id": "sofi-owner",
+    "name": "SoFi LLC",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "arena naming-rights holder of los-angeles-chargers (2026-27).",
+    "country": "US"
+  },
+  {
+    "id": "softbank-group",
+    "name": "SoftBank Group Corp.",
+    "type": "listed-company",
+    "country": "Japan",
+    "note": "Tokyo-listed (TSE: 9984). Sole person with significant control over SB Investment Advisers (UK) Limited per the UK Companies House PSC register: 'Ownership of shares - 75% or more; Ownership of voting rights - 75% or more' (Companies House PSC register, company 10498335, fetched 2026-09-25).",
+    "parentId": null
+  },
+  {
+    "id": "solverde",
+    "name": "Grupo Solverde (Solverde - Sociedade de Investimentos Turisticos da Costa Verde)",
+    "type": "private-company",
+    "country": "Portugal",
+    "note": "Portuguese casino and hotel group founded in Espinho in 1972; per its 2025 annual report (cited on Portuguese Wikipedia), 93.67% held by Violas SGPS (Manuel Violas family). Private Portuguese owners, no state link.",
+    "parentId": null
+  },
+  {
     "id": "sonepar",
     "name": "Sonepar",
     "type": "private-company",
@@ -2576,6 +3973,14 @@
     "country": "France"
   },
   {
+    "id": "southern-stingray",
+    "name": "Southern Stingray, S.A.",
+    "type": "private-company",
+    "country": "Portugal",
+    "note": "SRIJ-licensed Portuguese operating entity of the Lebull online betting brand (licences 027/028). Ownership not disclosed in sources checked.",
+    "parentId": null
+  },
+  {
     "id": "spectrum-charter-communications-owner",
     "name": "Charter Communications, Inc.",
     "type": "listed-company",
@@ -2584,11 +3989,27 @@
     "country": "US"
   },
   {
+    "id": "sph-media",
+    "name": "SPH Media Limited",
+    "type": "private-company",
+    "country": "Singapore",
+    "note": "Publisher of The Business Times (businesstimes.com.sg footer: 'Published by SPH Media Limited, Co. Regn. No. 202120748H', fetched 2026-09-25). Upstream governance (SPH Media Trust, company limited by guarantee) not traced to a primary document in this pass.",
+    "parentId": null
+  },
+  {
     "id": "spotify-technology",
     "name": "Spotify Technology S.A.",
     "type": "listed-company",
     "parentId": null,
     "country": "Sweden"
+  },
+  {
+    "id": "standard-bank-group",
+    "name": "Standard Bank Group",
+    "type": "listed-company",
+    "country": "South Africa",
+    "note": "JSE-listed; largest shareholder is Industrial and Commercial Bank of China (ICBC) at 19.7% (1H26, as at 30 June 2026) - a minority stake, no controlling shareholder (standardbank.com shareholder information, fetched 2026-09-25).",
+    "parentId": null
   },
   {
     "id": "standard-chartered-plc",
@@ -2651,6 +4072,14 @@
     "country": "NL"
   },
   {
+    "id": "stifel-owner",
+    "name": "Stifel Financial Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "country": "US"
+  },
+  {
     "id": "stockx-owner",
     "name": "StockX",
     "type": "private-company",
@@ -2688,11 +4117,35 @@
     "country": "JP"
   },
   {
+    "id": "super-bock-group",
+    "name": "Super Bock Group",
+    "type": "private-company",
+    "country": "Portugal",
+    "note": "Portuguese brewer, privately held; 56% held by holding VIACER (itself 71.5% Violas group / 28.5% Carlsberg) and 44% directly by Carlsberg (per pt.wikipedia Super Bock Group corporate structure). Largest single owner group is the Portuguese Violas family; Carlsberg (Denmark) holds a large economic interest. No state link.",
+    "parentId": null
+  },
+  {
     "id": "super-group",
     "name": "Super Group (SGHC) Limited",
     "type": "listed-company",
     "parentId": null,
     "country": "Guernsey"
+  },
+  {
+    "id": "superbet-owner",
+    "name": "Superbet Group",
+    "type": "private-company",
+    "country": "Romania",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened."
+  },
+  {
+    "id": "surj-sports-investment",
+    "name": "SURJ Sports Investment",
+    "type": "state-fund",
+    "country": "Saudi Arabia",
+    "parentId": "saudi-pif",
+    "note": "PIF subsidiary that took a reported ~US$1bn minority stake in DAZN and set up DAZN MENA."
   },
   {
     "id": "sutter-health-owner",
@@ -2710,12 +4163,27 @@
     "country": "JP"
   },
   {
+    "id": "t-mobile-owner",
+    "name": "T-Mobile LLC",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "arena naming-rights holder of seattle-mariners (2026-27).",
+    "country": "US"
+  },
+  {
     "id": "t-rowe-price-owner",
     "name": "T. Rowe Price Group, Inc.",
     "type": "listed-company",
     "parentId": null,
     "note": "jersey patch partner of baltimore-orioles (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "tarfin",
+    "name": "Tarfin Tarım Yatırım A.S.",
+    "type": "private-company",
+    "country": "Turkey",
+    "parentId": null
   },
   {
     "id": "target-corporation",
@@ -2738,6 +4206,13 @@
     "type": "listed-company",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "tecnocasa-group",
+    "name": "Tecnocasa Group",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Italy"
   },
   {
     "id": "tecnocasa-holding-spa",
@@ -2782,6 +4257,20 @@
     "country": "ES"
   },
   {
+    "id": "tm-real-estate-group",
+    "name": "TM Real Estate Group",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
+    "id": "toto-wolff",
+    "name": "Toto Wolff",
+    "type": "private-company",
+    "country": "Austria",
+    "parentId": "motorsport-invest"
+  },
+  {
     "id": "toyota-motor-corporation",
     "name": "Toyota Motor Corporation",
     "type": "listed-company",
@@ -2803,6 +4292,14 @@
     "country": "United Kingdom"
   },
   {
+    "id": "transsion-holdings",
+    "name": "Transsion Holdings",
+    "type": "listed-company",
+    "country": "China",
+    "parentId": null,
+    "note": "Shenzhen-headquartered; TECNO's parent. Listed on the SSE Star Market in 2019 (transsion.com/en/about)."
+  },
+  {
     "id": "tropicana-tropicana-brands-group-owner",
     "name": "Tropicana Brands Group",
     "type": "private-company",
@@ -2817,6 +4314,14 @@
     "parentId": null,
     "note": "arena naming-rights holder of atlanta-braves (2026-27).",
     "country": "USA"
+  },
+  {
+    "id": "turki-alalshikh",
+    "name": "Turki Alalshikh (private individual)",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "parentId": "government-of-saudi-arabia",
+    "note": "Bought 100% of The Ring Magazine in November 2024 in a personal deal (his own X post, 11 Nov 2024). Treated as state-linked: he is a Saudi government official (GEA chairman, adviser at the royal court), and the Guardian describes The Ring as 'the boxing magazine owned by Al-Sheikh and, by extension, the Saudi government' (Zidan, 1 Aug 2025)."
   },
   {
     "id": "turkiye-wealth-fund",
@@ -2891,6 +4396,14 @@
     "country": "IT"
   },
   {
+    "id": "unilever",
+    "name": "Unilever plc",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United Kingdom",
+    "note": "LSE-listed consumer goods group; Dove Men+Care is one of its brands."
+  },
+  {
     "id": "uniqlo-owner",
     "name": "Fast Retailing Co., Ltd. (UNIQLO)",
     "type": "listed-company",
@@ -2904,6 +4417,14 @@
     "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of chicago-bulls (2026-27).",
+    "country": "US"
+  },
+  {
+    "id": "united-wholesale-mortgage-owner",
+    "name": "United Wholesale Mortgage Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "arena naming-rights holder of phoenix-suns (2026-27).",
     "country": "US"
   },
   {
@@ -2947,7 +4468,7 @@
     "name": "UW Health",
     "type": "state",
     "parentId": null,
-    "note": "jersey patch partner of green-bay-packers (2026-27).",
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
     "country": "USA"
   },
   {
@@ -2956,6 +4477,13 @@
     "type": "listed-company",
     "country": "United States",
     "parentId": null
+  },
+  {
+    "id": "vodafone-group",
+    "name": "Vodafone Group",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United Kingdom"
   },
   {
     "id": "vodafone-group-plc",
@@ -2972,6 +4500,15 @@
     "parentId": null
   },
   {
+    "id": "vtb",
+    "name": "Bank VTB (PJSC)",
+    "type": "listed-company",
+    "country": "Russia",
+    "parentId": "russian-federation",
+    "via": "Rosimushchestvo holds 60.93% of ordinary shares; Minfin holds 32.88% of preference shares",
+    "note": "Majority state-controlled per VTB's own IR shareholder-structure page."
+  },
+  {
     "id": "walt-disney-world-owner",
     "name": "Walt Disney World Resort",
     "type": "listed-company",
@@ -2980,11 +4517,49 @@
     "country": "US"
   },
   {
+    "id": "webull-owner",
+    "name": "Webull LLC",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "country": "US"
+  },
+  {
+    "id": "williams-grand-prix-engineering",
+    "name": "Williams Grand Prix Engineering Ltd",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": "dorilton"
+  },
+  {
+    "id": "winline",
+    "name": "Winline",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Russian bookmaker."
+  },
+  {
+    "id": "worxinvest",
+    "name": "WorxInvest",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Belgium",
+    "note": "Belgian holding company started in 2018 as SD Worx's investment arm; parent of SD Worx (Cyclist, 2026-07-14)."
+  },
+  {
     "id": "wwk-lebensversicherung-ag",
     "name": "WWK Lebensversicherung a.G. (WWK Versicherungsgruppe)",
     "type": "private-company",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "wwk-versicherungen",
+    "name": "WWK Versicherungen",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
   },
   {
     "id": "xfinity-mobile-comcast-owner",
@@ -3003,6 +4578,14 @@
     "country": "US"
   },
   {
+    "id": "xrg",
+    "name": "XRG (international energy and chemicals investment company)",
+    "type": "private-company",
+    "country": "United Arab Emirates",
+    "note": "Wholly owned by ADNOC; headquartered in Abu Dhabi.",
+    "parentId": "government-of-abu-dhabi"
+  },
+  {
     "id": "yeti-holdings-inc",
     "name": "YETI Holdings, Inc.",
     "type": "listed-company",
@@ -3010,11 +4593,33 @@
     "country": "US"
   },
   {
+    "id": "yew-tree",
+    "name": "Yew Tree Consortium",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": "amr-gp"
+  },
+  {
     "id": "yildiz-holding",
     "name": "Yildiz Holding A.S. (Ulker family)",
     "type": "private-company",
     "parentId": null,
     "country": "TR"
+  },
+  {
+    "id": "yili-group",
+    "name": "Inner Mongolia Yili Industrial Group Co., Ltd.",
+    "type": "listed-company",
+    "country": "China",
+    "parentId": null,
+    "note": "Listed in Shanghai (SSE 600887). Per its 2025 annual report (published 30 Apr 2026): Hohhot Investment Co., Ltd. (呼和浩特投资有限责任公司) is the largest shareholder with 538,535,826 shares, 8.51%, shareholder type 'state legal person' (国有法人); the company states it has no controlling shareholder and no actual controller. A minority municipal stake, a much weaker state link than the Gulf cases."
+  },
+  {
+    "id": "yoovidhya-family",
+    "name": "Yoovidhya family",
+    "type": "private-company",
+    "country": "Thailand",
+    "parentId": "mateschitz-yoovidhya-families"
   },
   {
     "id": "york-space-systems-owner",
@@ -3032,10 +4637,27 @@
     "country": "CN"
   },
   {
+    "id": "zood-realty",
+    "name": "ZOOD Realty",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "note": "Race presenter of the Saudi Derby; own site (zoodrealty.com, 'The Block | by ZOOD') carries no company description and no ownership information - unresolved.",
+    "parentId": null
+  },
+  {
     "id": "zoomex",
     "name": "Zoomex (crypto derivatives exchange, founded 2021)",
     "type": "private-company",
     "parentId": null,
     "country": "unknown"
+  },
+  {
+    "id": "zuffa-boxing-jv",
+    "name": "Zuffa Boxing (TKO-Sela joint venture)",
+    "type": "private-company",
+    "country": "United States",
+    "via": "Sela (PIF) 60% / TKO Group Holdings 40%",
+    "note": "Incorporated as Boxing OpCo, LLC (Sep 2024); announced 5 Mar 2025 as a TKO-Sela partnership with Turki Alalshikh, TKO as managing partner. Sela 60 / TKO 40 split per Thomas Hauser, The Guardian, 28 Jan 2026 ('Sela owns 60% of Zuffa Boxing and TKO owns 40%'); single-source, check TKO filings. Co-founded by Dana White and Turki Alalshikh.",
+    "parentId": null
   }
 ]

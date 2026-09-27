@@ -63,5 +63,116 @@
       "uci",
       "worldtour"
     ]
+  },
+  {
+    "id": "cricket",
+    "label": "Cricket",
+    "status": "not-mapped",
+    "aliases": [
+      "T20",
+      "ODI",
+      "Test cricket"
+    ]
+  },
+  {
+    "id": "rugby",
+    "label": "Rugby union",
+    "status": "not-mapped",
+    "aliases": [
+      "rugby union",
+      "rugby world cup",
+      "sevens",
+      "svns"
+    ]
+  },
+  {
+    "id": "ice-hockey",
+    "label": "Ice hockey",
+    "status": "not-mapped",
+    "aliases": [
+      "hockey",
+      "Ice Hockey",
+      "Хоккей"
+    ]
+  },
+  {
+    "id": "tennis",
+    "label": "Tennis",
+    "status": "not-mapped",
+    "aliases": [
+      "atp",
+      "men's tennis",
+      "association of tennis professionals"
+    ]
+  },
+  {
+    "id": "golf",
+    "label": "Golf",
+    "status": "not-mapped",
+    "aliases": [
+      "asian tour",
+      "international series"
+    ]
+  },
+  {
+    "id": "sailing",
+    "label": "Sailing",
+    "status": "not-mapped",
+    "aliases": [
+      "sail racing",
+      "sailgp",
+      "foiling"
+    ]
+  },
+  {
+    "id": "horse-racing",
+    "label": "Horse racing",
+    "status": "not-mapped",
+    "aliases": [
+      "flat racing",
+      "thoroughbred racing",
+      "racing"
+    ]
+  },
+  {
+    "id": "padel",
+    "label": "Padel",
+    "status": "not-mapped",
+    "aliases": [
+      "padel tennis",
+      "paddle tennis",
+      "premier padel"
+    ]
+  },
+  {
+    "id": "esports",
+    "label": "Esports",
+    "status": "not-mapped",
+    "aliases": [
+      "electronic sports",
+      "competitive gaming",
+      "gaming"
+    ]
+  },
+  {
+    "id": "pro-wrestling",
+    "label": "Pro wrestling",
+    "status": "not-mapped",
+    "aliases": [
+      "professional wrestling",
+      "wrestling",
+      "wwe"
+    ]
+  },
+  {
+    "id": "combat-sports",
+    "label": "Combat sports",
+    "status": "not-mapped",
+    "aliases": [
+      "mma",
+      "mixed martial arts",
+      "boxing",
+      "ufc"
+    ]
   }
 ]
