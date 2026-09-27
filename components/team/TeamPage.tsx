@@ -190,7 +190,7 @@ export function TeamPage({ team, showCrest }: { team: TeamPageView; showCrest: b
           {IS_DEV &&
             p.whyMissing.map((n) => (
               <span key={n} className={`dev-todo ${s.devTodo}`}>
-                TODO: {n} is rated serious or worse but has no why text in sponsors.json
+                TODO: {n} is rated concern or worse but has no why text in sponsors.json
               </span>
             ))}
 

@@ -154,6 +154,8 @@ export const claim = z
   .object({
     id,
     ownerIds: z.array(id).min(1),
+    /** "ownership": who owns or controls whom. "record": a human-rights abuse by a state or company. */
+    kind: z.enum(['ownership', 'record']).optional(),
     text: z.string(),
     short: z.string().optional(),
     source: source.nullable(),

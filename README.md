@@ -65,7 +65,7 @@ Real content goes into [Behind-the-Jersey/data](https://github.com/Behind-the-Je
 - **Deal (money):** `deals.json`, always "reported" with a source; `value: null` shows "Value not disclosed".
 - **Change:** `changes.json`. The landing page shows the newest four (by month; within a month, file order).
 - **Dropped:** `dropped.json` with `featured: true` to show it on the landing page. Items about an organisation rather than a club use `orgName` and `leagueId`.
-- **Why is that a problem?** `sponsors[].why`: a short paragraph, the claims it rests on (they must be about the sponsor's own owner chain; validation checks it), the one sentence for the "Tell {club}" message, and `status` (`draft` until the team has reviewed it). Only sponsors rated serious or severe show it, and the site never writes one itself. `ownerVerb` (`owned by` or `paid for by`) sets how sentences name the owner.
+- **Why is that a problem?** `sponsors[].why`: a short paragraph, the claims it rests on (they must be about the sponsor's own owner chain; validation checks it), the one sentence for the "Tell {club}" message, and `status` (`draft` until the team has reviewed it). Every sponsor rated concern or worse shows it (the data release holds a rating without one), and the site never writes one itself. `ownerVerb` (`owned by` or `paid for by`) sets how sentences name the owner.
 - **Departed sponsors:** a sponsor rated concern or worse on the previous kit and missing from the current one shows as a teal "Left in …" row. `deals[].endedOn` (`YYYY-MM`) gives the month; `source.short` is the short source name next to a deal value.
 - **Contacts:** `clubs[].contact` (`{ kind, email?, url?, source }`) is where "Tell {club}" sends the message: `mailto:` with an email, otherwise a dialog to copy the message (and a link to the contact page if there is one). `contacts.json` channels are used when `contact` is empty. No placeholders or guessed addresses: validation rejects them.
 
@@ -134,6 +134,7 @@ Compared with `handover/design/static/*` and `handover/update-v3/design/static/*
 - **The numbers on the shirt are part of the click target.** UPDATE.md §5.8 has them ignore the pointer, but small logos put the number above the logo, outside its hit area, so hovering or clicking the number did nothing. Each sponsor is now one button: the area over the logo with its number inside.
 - **"Nothing found" sponsors get a dark marker with a solid ring**, not the red one: red is for concern or worse.
 - **"Share the card"** uses the phone's share sheet or copies a link. The link's preview is the club's share card.
+- **"Why is that a problem?" boxes for Concern too.** UPDATE.md §5.4 shows them for serious and severe sponsors only. Since September 2026 every rating above "Nothing found" must name the link and the human-rights record behind it (the data repo's METHOD.md), so a Spotted shirt explains itself as well.
 - **Page heights** are natural. The design artboards have fixed heights with extra space before the footer.
 
 ## Open questions for the team
