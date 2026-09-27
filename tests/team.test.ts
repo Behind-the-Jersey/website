@@ -240,10 +240,13 @@ describe('headlineFor without kit.headline', () => {
 });
 
 describe('whyBoxes', () => {
-  it('never generates text: serious or severe sponsors without a why are listed as missing', () => {
+  it('never generates text: sponsors rated concern or worse without a why are listed as missing', () => {
     const k = kit('manchester-city-2026-27-home');
     const { rows } = sponsorRows(ds, k, null, { club: 'Man City', isPast: false });
     expect(whyBoxes(ds, rows)).toEqual({ boxes: [], missing: ['Etihad Airways'] });
+    const n = kit('newcastle-united-2026-27-home');
+    const nr = sponsorRows(ds, n, null, { club: 'Newcastle', isPast: false }).rows;
+    expect(whyBoxes(ds, nr).missing).toContain('noon');
   });
 });
 

@@ -306,11 +306,12 @@ export interface WhyBoxView {
 }
 
 /**
- * One "Why is that a problem?" box per sponsor rated serious or severe that has a why text, in
- * list order, at most two. Never generated: `missing` lists the sponsors that need one.
+ * One "Why is that a problem?" box per sponsor rated concern or worse that has a why text, in list
+ * order, at most two. Never generated: `missing` lists the sponsors that need one. (The design shows
+ * them for serious and severe only; every rating above "Nothing found" now carries a why.)
  */
 export function whyBoxes(ds: Dataset, rows: SponsorRowView[]): { boxes: WhyBoxView[]; missing: string[] } {
-  const serious = rows.filter((r) => (score(r.tier) ?? 0) >= 2);
+  const serious = rows.filter((r) => (score(r.tier) ?? 0) >= 1);
   const boxes: WhyBoxView[] = [];
   const missing: string[] = [];
   for (const r of serious) {
@@ -506,7 +507,7 @@ export interface TeamPeriodView {
   level: LevelId;
   headline: HeadlineView;
   why: WhyBoxView[];
-  /** Sponsors rated serious or severe without a why text (shown as a TODO in development). */
+  /** Sponsors rated concern or worse without a why text (shown as a TODO in development). */
   whyMissing: string[];
   change: Kit['change'];
   shortLine: string;

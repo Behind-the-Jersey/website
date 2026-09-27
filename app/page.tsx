@@ -63,7 +63,7 @@ const STEPS = [
 
 const DEFINITIONS: [LevelId, string][] = [
   ['clean', 'Checked. Nothing found.'],
-  ['spotted', 'A lesser link to a state.'],
+  ['spotted', 'A lesser link to abuse.'],
   ['stained', 'A serious sponsor on the front.'],
   ['soaked', 'A severe sponsor, or two serious ones.'],
 ];

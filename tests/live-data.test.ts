@@ -86,9 +86,10 @@ describe('data/live', () => {
     expect(row.evidence.length).toBeGreaterThan(0);
     expect(row.evidence[0].text).not.toMatch(/serious|state-owner rule|Human-rights relevance/);
     expect(clubLevel(ds, 'udinese')).not.toBe('stained');
-    // Only the three with broken evidence links are still rated serious or severe without a why text.
+    // At most the three that were waiting for a why text are rated serious or severe without one
+    // (the data release now holds any rating above "Nothing found" that has no why).
     const unsupported = ds.sponsors.filter((s) => (s.tier === 'serious' || s.tier === 'severe') && !s.why);
-    expect(unsupported.map((s) => s.id).sort()).toEqual(['gazprom', 'qatar-airways-global', 'valvoline']);
+    expect(['gazprom', 'qatar-airways-global', 'valvoline']).toEqual(expect.arrayContaining(unsupported.map((s) => s.id)));
   });
 
   it('offers a full list of clubs to check, from the big five leagues first', () => {
