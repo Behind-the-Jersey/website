@@ -509,13 +509,26 @@
     "placement": "patch",
     "from": "2025",
     "to": null,
-    "value": null,
-    "source": {
-      "name": "MLB Trade Rumors",
-      "date": "2025-03-07",
-      "url": "https://mlbtraderumors.com/2025/03/as-announce-las-vegas-jersey-patch-sponsorship.html"
+    "value": {
+      "amount": 8.25,
+      "currency": "USD",
+      "unit": "m",
+      "per": "total",
+      "upTo": false,
+      "usdApprox": 8.25
     },
-    "note": "Jersey patch."
+    "source": {
+      "name": "MLB Trade Rumors - A's Announce Las Vegas Jersey Patch Sponsorship",
+      "date": "2025-03-07",
+      "url": "https://www.mlbtraderumors.com/2025/03/as-announce-las-vegas-jersey-patch-sponsorship.html",
+      "note": "Value and term from The Athletic, as reported here. The article dates the third payment to 2028 while the club and the Las Vegas Review-Journal call it the 2027 season, so `to` is left null.",
+      "quote": "the deal will pay the A's $8.25MM over the next three seasons: $2.5MM this season, $2.75MM next year, and $3MM in 2028",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "BigBossRabbit"
+      }
+    },
+    "note": "Jersey patch, worn on the sleeve; the club's own announcement says all home, road and alternate jerseys, regular season and postseason."
   },
   {
     "id": "athletics-sutter-health-stadium",

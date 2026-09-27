@@ -1,6 +1,7 @@
 [
   {
     "id": "3m-combat-arms-earplugs",
+    "kind": "record",
     "ownerIds": [
       "3m-company"
     ],
@@ -30,30 +31,62 @@
     "reviewed": false
   },
   {
-    "id": "3m-company-record",
+    "id": "3m-company-ownership",
+    "kind": "ownership",
     "ownerIds": [
       "3m-company"
     ],
-    "text": "In June 2023 3M agreed to pay more than $10 billion to settle claims by US public water suppliers over PFAS chemicals in drinking water.",
+    "text": "3M Company is a listed US company whose largest shareholders are investment firms: its 2026 proxy statement lists The Vanguard Group (8.89%), BlackRock (7.60%) and JPMorgan Chase (7.60%) as its largest holders.",
     "source": {
-      "name": "3M Company: Form 10-K for fiscal year 2025 (SEC EDGAR)",
-      "date": "2026-02-03",
-      "url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000014/mmm-20251231.htm",
-      "quote": "June 2023, the Company entered into a class-action settlement (“PWS Settlement”) to resolve a wide range of drinking water claims by public water suppliers in the United States regarding PFAS",
+      "name": "3M Company: 2026 Proxy Statement (DEF 14A), security ownership of more than 5% beneficial owners (SEC EDGAR)",
+      "date": "2026-03-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000151/mmm-20260324.htm",
+      "quote": "The Vanguard Group(1) 100 Vanguard Blvd. Malvern, PA 19355 49,080,209 8.89 BlackRock, Inc.(2) 50 Hudson Yards New York, NY 10001 41,867,008 7.60 JPMorgan Chase & Co(3) 383 Madison Ave New York, NY 10179 40,578,820 7.60",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
     "additionalSources": [
       {
-        "name": "The Associated Press, via NPR: 3M reaches $10.3 billion settlement over contamination of water systems",
-        "date": "2023-06-22",
-        "url": "https://www.npr.org/2023/06/22/1183922303/3m-reaches-10-3-billion-settlement-over-contamination-of-water-systems",
-        "quote": "Chemical manufacturer 3M Co. will pay at least $10.3 billion to settle lawsuits over contamination of many U.S. public drinking water systems",
+        "name": "Capital.com (Dan Mitchell): 3M shareholders: Who owns the most MMM stock?",
+        "date": "2025-11-18",
+        "url": "https://capital.com/en-int/analysis/3m-shareholder-who-owns-most-mmm-stock",
+        "quote": "As of June 2025, The Vanguard Group held the largest stake, followed by BlackRock and JP Morgan Asset Management.",
         "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "3m-earplug-jury-verdicts",
+    "kind": "record",
+    "ownerIds": [
+      "3m-company"
+    ],
+    "text": "In 2021 and 2022 US federal juries found for the service members in 10 of 16 test (bellwether) trials over 3M's Combat Arms earplugs, which the plaintiffs said damaged their hearing, awarding a total of nearly $300 million; in one of these trials the jury found 3M liable for failing to warn. Juries sided with 3M in the other six trials.",
+    "source": {
+      "name": "3M Company: Form 10-K for fiscal year 2022, Combat Arms Earplugs Litigation (SEC EDGAR)",
+      "date": "2023-02-08",
+      "url": "https://www.sec.gov/Archives/edgar/data/66740/000006674023000014/mmm-20221231.htm",
+      "quote": "In June 2021, 3M received an adverse verdict in the third bellwether trial. The jury found 3M liable for strict liability failure to warn, but found 3M not liable for design defect or fraud.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Reuters (Brendan Pierson), via Insurance Journal: 3M Ordered to Pay $77.5 Million to Veteran in Latest Earplug Trial",
+        "date": "2022-05-23",
+        "url": "https://www.insurancejournal.com/news/national/2022/05/23/668705.htm",
+        "quote": "Of those so-called bellwether trials, plaintiffs prevailed in 10, winning a total of nearly $300 million. Juries sided with 3M in the remaining six.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
         }
       }
     ],
@@ -61,6 +94,7 @@
   },
   {
     "id": "aarp-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "aarp-owner"
     ],
@@ -79,6 +113,7 @@
   },
   {
     "id": "access-industries-record",
+    "kind": "ownership",
     "ownerIds": [
       "access-industries"
     ],
@@ -96,30 +131,31 @@
     "reviewed": false
   },
   {
-    "id": "adidas-ag-record",
+    "id": "adidas-ag-ownership",
+    "kind": "ownership",
     "ownerIds": [
       "adidas-ag"
     ],
-    "text": "In May 2022, isotope tests by the Agroisolab laboratory and Hochschule Niederrhein, reported by German public broadcaster NDR, found cotton from Xinjiang in adidas garments, although adidas had said it would not use cotton from the region, where cotton carries a risk of forced labour.",
+    "text": "adidas AG is a listed company with widely held shares: in its December 2025 ownership analysis, institutional investors held 79% of its shares and retail investors and undisclosed holdings 20%. Its largest notified holding at the end of 2025 was the asset manager BlackRock, with 7.71% of voting rights including instruments.",
     "source": {
-      "name": "Sourcing Journal (WWD): Xinjiang Cotton Detected in Adidas, Hugo Boss and Puma Garments",
-      "date": "2022-05-09",
-      "url": "https://wwd.com/sourcing-journal/industry-news/adidas-puma-hugo-boss-xinjiang-cotton-forced-labor-uyghur-agroisolab-isotope-1238795481/",
-      "quote": "Scientists say they have discovered traces of Xinjiang cotton in garments from Adidas, Hugo Boss and Puma despite the brands promising to no longer source materials or products",
+      "name": "adidas Annual Report 2025: Our share",
+      "date": "2026-03-04",
+      "url": "https://report.adidas-group.com/2025/en/to-our-shareholders/our-share.html",
+      "quote": "In our latest ownership analysis conducted in December 2025, we identified almost 100% of our shares outstanding. Institutional investors represent the largest group, holding 79% of shares outstanding (2024: 80%). Retail investors and undisclosed holdings account for 20% (2024: 19%).",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
     "additionalSources": [
       {
-        "name": "European Center for Constitutional and Human Rights (ECCHR): Adidas, Hugo Boss, Puma and Co.: Sourcing cotton produced with forced labor?",
-        "date": "2022-05-05",
-        "url": "https://www.ecchr.eu/en/press-release/cotton-xingjang-forced-labor/",
-        "quote": "In garments from Adidas, Hugo Boss, Puma, Jack Wolfskin and Tom Tailor, cotton was identified that, according to the available findings, originated from the Xinjiang region in western China.",
+        "name": "adidas Annual Report 2025: Notes, Shareholders' equity (Notified reportable shareholdings)",
+        "date": "2026-03-04",
+        "url": "https://report.adidas-group.com/2025/en/consolidated-financial-statements/notes/notes-to-the-consolidated-statement-of-financial-position/shareholders-equity.html",
+        "quote": "BlackRock, Inc., Wilmington, Delaware, USA1 August 8, 2025 5% §§ 34, 38 par. 1 no. 1, 2 7.24 0.47 7.71",
         "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
         }
       }
     ],
@@ -127,6 +163,7 @@
   },
   {
     "id": "adobe-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "adobe-inc"
     ],
@@ -141,6 +178,7 @@
   },
   {
     "id": "adt-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "adt-owner"
     ],
@@ -160,6 +198,7 @@
   },
   {
     "id": "advocate-health-care-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "advocate-health-care-owner"
     ],
@@ -178,6 +217,7 @@
   },
   {
     "id": "aeroflot-sanctions-2022",
+    "kind": "record",
     "ownerIds": [
       "russian-federation"
     ],
@@ -208,6 +248,7 @@
   },
   {
     "id": "aeroflot-state-stake",
+    "kind": "ownership",
     "ownerIds": [
       "russian-federation"
     ],
@@ -238,6 +279,7 @@
   },
   {
     "id": "aia-group-record",
+    "kind": "ownership",
     "ownerIds": [
       "aia-group"
     ],
@@ -257,6 +299,7 @@
   },
   {
     "id": "airwallex-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "airwallex-owner"
     ],
@@ -275,6 +318,7 @@
   },
   {
     "id": "all-in-won-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "all-in-won-owner"
     ],
@@ -293,6 +337,7 @@
   },
   {
     "id": "allegiant-travel-company-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "allegiant-travel-company-owner"
     ],
@@ -312,6 +357,7 @@
   },
   {
     "id": "ally-financial-record",
+    "kind": "ownership",
     "ownerIds": [
       "ally-financial"
     ],
@@ -331,6 +377,7 @@
   },
   {
     "id": "alphabet-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "alphabet-inc"
     ],
@@ -349,6 +396,7 @@
   },
   {
     "id": "alpinestars-record",
+    "kind": "ownership",
     "ownerIds": [
       "alpinestars"
     ],
@@ -367,6 +415,7 @@
   },
   {
     "id": "america-movil-record",
+    "kind": "ownership",
     "ownerIds": [
       "america-movil"
     ],
@@ -385,6 +434,7 @@
   },
   {
     "id": "american-airlines-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "american-airlines-owner"
     ],
@@ -404,6 +454,7 @@
   },
   {
     "id": "american-family-mutual-insurance-company-record",
+    "kind": "ownership",
     "ownerIds": [
       "american-family-mutual-insurance-company"
     ],
@@ -422,6 +473,7 @@
   },
   {
     "id": "amex-listed-no-state",
+    "kind": "ownership",
     "ownerIds": [
       "american-express-company"
     ],
@@ -440,6 +492,7 @@
   },
   {
     "id": "amica-mutual-insurance-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "amica-mutual-insurance-owner"
     ],
@@ -458,6 +511,7 @@
   },
   {
     "id": "anheuser-busch-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "anheuser-busch-owner"
     ],
@@ -477,6 +531,7 @@
   },
   {
     "id": "anta-sports-products-record",
+    "kind": "ownership",
     "ownerIds": [
       "anta-sports-products"
     ],
@@ -495,6 +550,7 @@
   },
   {
     "id": "anthropic-record",
+    "kind": "ownership",
     "ownerIds": [
       "anthropic"
     ],
@@ -513,6 +569,7 @@
   },
   {
     "id": "apollo-global-management-record",
+    "kind": "ownership",
     "ownerIds": [
       "apollo-global-management"
     ],
@@ -531,6 +588,7 @@
   },
   {
     "id": "aramco-state-ownership",
+    "kind": "ownership",
     "ownerIds": [
       "saudi-aramco"
     ],
@@ -561,6 +619,7 @@
   },
   {
     "id": "arctempus-record",
+    "kind": "ownership",
     "ownerIds": [
       "arctempus"
     ],
@@ -579,6 +638,7 @@
   },
   {
     "id": "asahi-group-holdings-record",
+    "kind": "ownership",
     "ownerIds": [
       "asahi-group-holdings"
     ],
@@ -598,6 +658,7 @@
   },
   {
     "id": "ascension-st-vincent-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "ascension-st-vincent-owner"
     ],
@@ -616,6 +677,7 @@
   },
   {
     "id": "atlantic-health-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "atlantic-health-owner"
     ],
@@ -634,6 +696,7 @@
   },
   {
     "id": "atlassian-record",
+    "kind": "ownership",
     "ownerIds": [
       "atlassian"
     ],
@@ -653,6 +716,7 @@
   },
   {
     "id": "atrium-health-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "atrium-health-owner"
     ],
@@ -672,6 +736,7 @@
   },
   {
     "id": "att-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "att-inc"
     ],
@@ -691,6 +756,7 @@
   },
   {
     "id": "avery-dennison-corp-record",
+    "kind": "ownership",
     "ownerIds": [
       "avery-dennison"
     ],
@@ -705,6 +771,7 @@
   },
   {
     "id": "avnet-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "avnet-owner"
     ],
@@ -723,6 +790,7 @@
   },
   {
     "id": "aws-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "aws-owner"
     ],
@@ -741,6 +809,7 @@
   },
   {
     "id": "axpo-holding-ag-record",
+    "kind": "ownership",
     "ownerIds": [
       "axpo-holding-ag"
     ],
@@ -760,6 +829,7 @@
   },
   {
     "id": "baghdadi-capital-sa-record",
+    "kind": "ownership",
     "ownerIds": [
       "baghdadi-capital-sa"
     ],
@@ -777,21 +847,8 @@
     "reviewed": false
   },
   {
-    "id": "bahrain-hrw-record",
-    "ownerIds": [
-      "government-of-bahrain"
-    ],
-    "text": "Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people, that Mohammed Almosawi died in custody with signs of torture after being forcibly disappeared, and that 67 people had their citizenship stripped; imprisoned rights defenders and political leaders including Abdulhadi al-Khawaja remain arbitrarily detained.",
-    "short": "Arbitrary arrests, a death in custody and citizenship-stripping in 2026 (HRW).",
-    "source": {
-      "name": "Human Rights Watch — Bahrain country page",
-      "date": "2026",
-      "url": "https://www.hrw.org/middle-east/north-africa/bahrain"
-    },
-    "reviewed": false
-  },
-  {
     "id": "bain-capital-record",
+    "kind": "ownership",
     "ownerIds": [
       "bain-capital"
     ],
@@ -811,6 +868,7 @@
   },
   {
     "id": "banca-popolare-del-frusinate-record",
+    "kind": "ownership",
     "ownerIds": [
       "banca-popolare-del-frusinate"
     ],
@@ -829,77 +887,27 @@
     "reviewed": false
   },
   {
-    "id": "bank-of-america-mortgage-settlement-2014",
+    "id": "bank-of-america-major-holders-2026",
+    "kind": "ownership",
     "ownerIds": [
       "bank-of-america"
     ],
-    "text": "In August 2014 Bank of America agreed to a $16.65 billion settlement, including $7 billion in consumer relief, with the US Justice Department, other federal agencies and several states over mortgage-backed securities and other mortgage business leading up to and during the financial crisis.",
+    "text": "Bank of America Corporation's 2026 proxy statement lists three owners of more than 5% of its common stock: The Vanguard Group (9.1%), Warren E. Buffett/Berkshire Hathaway Inc. (7.9%) and BlackRock, Inc. (6.9%).",
     "source": {
-      "name": "US Department of Justice: Bank of America to Pay $16.65 Billion in Historic Justice Department Settlement for Financial Fraud Leading up to and During the Financial Crisis",
-      "date": "2014-08-21",
-      "url": "https://web.archive.org/web/20250203093044/https://www.justice.gov/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud-leading",
-      "quote": "the Department of Justice has reached a $16.65 billion settlement with Bank of America Corporation – the largest civil settlement with a single entity in American history",
+      "name": "Bank of America Corporation: 2026 Proxy Statement (Schedule 14A), 'Stock ownership of directors, executive officers, and certain beneficial owners' (SEC EDGAR)",
+      "date": "2026-03-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm",
+      "quote": "Certain Beneficial Owners The Vanguard Group(13) 651,058,822 9.1 % Warren E. Buffett/Berkshire Hathaway Inc.(14) 568,070,012 7.9 % BlackRock, Inc.(15) 494,523,426 6.9 %",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "additionalSources": [
-      {
-        "name": "Bank of America Corporation: Form 10-Q for the quarter ended 30 September 2014 (SEC EDGAR)",
-        "date": "2014-11-06",
-        "url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085814000139/bac-9302014x10q.htm",
-        "quote": "Under the DoJ Settlement, the Corporation agreed to pay a total of $9.65 billion in cash and provide $7.0 billion worth of consumer relief.",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      },
-      {
-        "name": "US Securities and Exchange Commission: Bank of America Admits Disclosure Failures to Settle SEC Charges (press release 2014-172)",
-        "date": "2014-08-21",
-        "url": "https://www.sec.gov/newsroom/press-releases/2014-172",
-        "quote": "a major global settlement announced today by the U.S. Department of Justice in which Bank of America will pay $16.65 billion to resolve various investigations",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ],
-    "reviewed": false
-  },
-  {
-    "id": "bank-of-america-record",
-    "ownerIds": [
-      "bank-of-america"
-    ],
-    "text": "The 2026 Banking on Climate Chaos report by Rainforest Action Network and other groups found that Bank of America provided about $47 billion in financing to fossil fuel companies in 2025, the second-largest amount among the world's 65 largest banks.",
-    "source": {
-      "name": "Rainforest Action Network (with BankTrack, Sierra Club, Reclaim Finance et al.): Banking on Climate Chaos 2026 press release",
-      "date": "2026-06-08",
-      "url": "https://www.ran.org/press-releases/bocc26/",
-      "quote": "providing $58 billion to fossil fuel companies in 2025, up 12.6% from 2024. Bank of America ranks second at $47 billion",
-      "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
-      }
-    },
-    "additionalSources": [
-      {
-        "name": "ESG Dive (Lamar Johnson): Banks' fossil fuel financing increased 8% in 2025: report",
-        "date": "2026-06-09",
-        "url": "https://www.esgdive.com/news/banks-fossil-fuel-financing-increased-8-in-2025-report/822387/",
-        "quote": "Bank of America committed the second-highest financing to fossil fuel companies for the second year in a row, with $47.3 billion in funding tallied for 2025.",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ],
     "reviewed": false
   },
   {
     "id": "bank-of-montreal-record",
+    "kind": "ownership",
     "ownerIds": [
       "bank-of-montreal"
     ],
@@ -919,6 +927,7 @@
   },
   {
     "id": "baptist-health-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "baptist-health-owner"
     ],
@@ -937,7 +946,27 @@
     "reviewed": false
   },
   {
+    "id": "barclays-major-shareholders-2025",
+    "kind": "ownership",
+    "ownerIds": [
+      "barclays"
+    ],
+    "text": "Barclays PLC's Annual Report 2025 says that, as at 31 December 2025, it had been notified of one holding of 3% or more of its voting rights: BlackRock, Inc., with 5.78%, held indirectly.",
+    "source": {
+      "name": "Barclays PLC: Annual Report 2025, Directors' report, 'Major shareholders'",
+      "date": "2026-02-10",
+      "url": "https://home.barclays/content/dam/home-barclays/documents/investor-relations/reports-and-events/annual-reports/2025/Barclays-PLC-Annual-Report-2025.pdf",
+      "quote": "Person interested Number of Barclays Shares % of total voting rights attaching to issued share capital1 Nature of holding (direct or indirect) BlackRock, Inc.2 944,022,209 5.78 indirect",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "barclays-plc-record",
+    "kind": "ownership",
     "ownerIds": [
       "barclays-plc"
     ],
@@ -951,37 +980,8 @@
     "reviewed": false
   },
   {
-    "id": "barclays-record",
-    "ownerIds": [
-      "barclays"
-    ],
-    "text": "Barclays PLC is a UK-listed bank whose only notifiable holder above the 3% disclosure threshold as at 31 December 2025 is BlackRock (about 5.8%). Barclays avoided a UK government stake during the 2008 crisis by raising private capital from Qatari investors instead (unlike RBS and Lloyds), so there is no former state holding to have been sold.",
-    "source": {
-      "name": "Barclays PLC Annual Report 2025 (Form 20-F), 'Major shareholders' p.114",
-      "date": "2025-12-31",
-      "url": "https://www.sec.gov/Archives/edgar/data/312069/000031206926000004/bcs-20251231.htm",
-      "quote": "BlackRock, Inc. 944,022,209 5.78 indirect",
-      "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
-      }
-    },
-    "reviewed": false,
-    "additionalSources": [
-      {
-        "name": "Simply Wall St (syndicated via Yahoo Finance), \"Barclays PLC (LON:BARC) is largely controlled by institutional shareholders who own 80% of the company\"",
-        "url": "https://finance.yahoo.com/news/barclays-plc-lon-barc-largely-062202699.html",
-        "date": "2024-02-12",
-        "quote": "The company's largest shareholder is BlackRock, Inc., with ownership of 8.3%.",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ]
-  },
-  {
     "id": "barmenia-versicherungen-ag-record",
+    "kind": "ownership",
     "ownerIds": [
       "barmenia-versicherungen-ag"
     ],
@@ -1001,6 +1001,7 @@
   },
   {
     "id": "belden-record",
+    "kind": "ownership",
     "ownerIds": [
       "belden"
     ],
@@ -1018,21 +1019,8 @@
     "reviewed": false
   },
   {
-    "id": "belgium-hrw-record",
-    "ownerIds": [
-      "government-of-belgium"
-    ],
-    "text": "Human Rights Watch's 'Grounds for Concern' report found that Belgium's counterterrorism response after the Paris and Brussels attacks led to police abuse and discrimination disproportionately targeting Muslims and people of North African or Turkish heritage.",
-    "short": "Belgium: counterterrorism policing and discrimination concerns",
-    "source": {
-      "name": "Human Rights Watch — Grounds for Concern: Belgium's Counterterror Responses to the Paris and Brussels Attacks",
-      "date": "2016-11-03",
-      "url": "https://www.hrw.org/report/2016/11/03/grounds-concern/belgiums-counterterror-responses-paris-and-brussels-attacks"
-    },
-    "reviewed": false
-  },
-  {
     "id": "berkshire-hathaway-record",
+    "kind": "ownership",
     "ownerIds": [
       "berkshire-hathaway"
     ],
@@ -1051,6 +1039,7 @@
   },
   {
     "id": "betsson-record",
+    "kind": "ownership",
     "ownerIds": [
       "betsson"
     ],
@@ -1069,6 +1058,7 @@
   },
   {
     "id": "beumer-group-record",
+    "kind": "ownership",
     "ownerIds": [
       "beumer-group"
     ],
@@ -1088,6 +1078,7 @@
   },
   {
     "id": "block-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "block-inc"
     ],
@@ -1107,6 +1098,7 @@
   },
   {
     "id": "blockratize-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "blockratize-inc"
     ],
@@ -1120,37 +1112,80 @@
     "reviewed": false
   },
   {
-    "id": "boeing-record",
+    "id": "boeing-737-max-court-finding",
+    "kind": "record",
     "ownerIds": [
       "boeing"
     ],
-    "text": "Boeing's largest holders are index managers (Vanguard 9.0%, FMR 7.0%, BlackRock 6.8%, as of the 2026 proxy). Separately and independently reported: two 737 MAX crashes killed 346 people and the type was grounded for 20 months (PBS/NYT); Boeing's defence arm's sales into active conflicts is documented elsewhere (e.g. Amnesty International) but not in the cited filing.",
+    "text": "In a January 2021 deferred prosecution agreement with the US Justice Department, Boeing admitted that two of its 737 MAX technical pilots had deceived the Federal Aviation Administration about the plane's MCAS flight-control system. In October 2022 a US federal judge found that, but for Boeing's conspiracy to defraud the FAA, the 346 people killed in the Lion Air and Ethiopian Airlines 737 MAX crashes of 2018 and 2019 would not have lost their lives.",
     "source": {
-      "name": "The Boeing Company DEF 14A 2026, 'Principal Shareholders' (SEC)",
-      "date": "2026-03-06",
-      "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312526096787/d39411ddef14a.htm",
-      "quote": "The Vanguard Group ... 70,989,325 (1) 9.0% FMR LLC ... 54,979,044 (2) 7.0% BlackRock, Inc. ... 52,979,795 (3) 6.8%",
+      "name": "U.S. District Court for the Northern District of Texas: United States v. The Boeing Company, No. 4:21-cr-5-O, Second Memorandum Opinion & Order, ECF No. 116 (via CourtListener)",
+      "date": "2022-10-21",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.txnd.342881/gov.uscourts.txnd.342881.116.0.pdf",
+      "quote": "In sum, but for Boeing’s criminal conspiracy to defraud the FAA, 346 people would not have lost their lives in the crashes.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "reviewed": false,
     "additionalSources": [
       {
-        "name": "PBS Frontline / The New York Times, \"How Boeing's Flawed 737 Max Made It Into the Air\" (updated article, orig. Sept 14 2021)",
-        "url": "https://www.pbs.org/wgbh/frontline/article/what-has-happened-to-boeing-since-the-737-max-crashes/",
-        "date": "2024-03-25",
-        "quote": "346 people were killed in two crashes involving Boeing 737 Max planes within the span of almost five months",
+        "name": "CNBC: Judge rules relatives of people killed in two Boeing 737 Max plane crashes are crime victims",
+        "date": "2022-10-22",
+        "url": "https://www.cnbc.com/2022/10/22/judge-rules-relatives-of-people-killed-in-two-boeing-737-max-plane-crashes-are-crime-victims.html",
+        "quote": "U.S. District Judge Reed O'Connor in Fort Worth, Texas, said the crashes were a foreseeable consequence of Boeing's conspiracy, making the relatives representatives of crime victims.",
         "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "United States v. The Boeing Company, No. 4:21-cr-5-O (N.D. Tex.): Deferred Prosecution Agreement, ECF No. 4 (via CourtListener)",
+        "date": "2021-01-07",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.txnd.342881/gov.uscourts.txnd.342881.4.0_1.pdf",
+        "quote": "two of the Company’s 737 MAX Flight Technical Pilots deceived the FAA AEG about MCAS by way of misleading statements, half-truths, and omissions",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
         }
       }
-    ]
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "boeing-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "boeing"
+    ],
+    "text": "The Boeing Company is a listed US company whose largest shareholders are investment firms: its 2026 proxy statement lists The Vanguard Group (9.0%), FMR (7.0%) and BlackRock (6.8%) as the holders of more than 5% of its stock.",
+    "source": {
+      "name": "The Boeing Company: 2026 Proxy Statement (DEF 14A), Principal Shareholders (SEC EDGAR)",
+      "date": "2026-03-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312526096787/d39411ddef14a.htm",
+      "quote": "The Vanguard Group 100 Vanguard Boulevard Malvern, Pennsylvania 19355 70,989,325(1) 9.0% FMR LLC 245 Summer Street Boston, Massachusetts 02210 54,979,044(2) 7.0% BlackRock, Inc. 50 Hudson Yards New York, New York 10001 52,979,795(3) 6.8%",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "TheStreet (Dominic Diongson), via Yahoo Finance: Boeing stock ownership: Institutional and executive shareholders",
+        "date": "2026-04-30",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-ownership-institutional-executive-143900060.html",
+        "quote": "The company's four largest institutional shareholders owned between 53 million and 71 million shares apiece, and together, they accounted for about 23% of Boeing's ownership.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
   },
   {
     "id": "bon-secours-mercy-health-record",
+    "kind": "ownership",
     "ownerIds": [
       "bon-secours-mercy-health"
     ],
@@ -1169,6 +1204,7 @@
   },
   {
     "id": "boon-rawd-brewery-record",
+    "kind": "ownership",
     "ownerIds": [
       "boon-rawd-brewery"
     ],
@@ -1188,6 +1224,7 @@
   },
   {
     "id": "boylesports-record",
+    "kind": "ownership",
     "ownerIds": [
       "boylesports"
     ],
@@ -1206,38 +1243,80 @@
     "reviewed": false
   },
   {
-    "id": "bp-plc-record",
+    "id": "bp-deepwater-horizon-manslaughter-plea-2013",
+    "kind": "record",
     "ownerIds": [
       "bp-plc"
     ],
-    "text": "No state shareholder (London/NYSE-listed), but a sustained documented adverse record: the US court found BP grossly negligent over the 2010 Deepwater Horizon spill and BP paid a $20.8bn civil settlement with the US and five Gulf states.",
-    "short": "No state shareholder (London/NYSE-listed), but a sustained documented adverse record: the US court found BP grossly negligent over the 2010 Deepwater Horizon spill….",
+    "text": "In January 2013 a US federal court accepted the guilty plea of BP Exploration and Production, Inc., the bp company that was lease operator of the offshore block where the Deepwater Horizon rig exploded in April 2010, to 14 criminal counts, including 11 counts of felony manslaughter. In pleading guilty, BP admitted that its two highest-ranking supervisors on the rig negligently caused the deaths of 11 men.",
     "source": {
-      "name": "US Department of Justice - 'U.S. and Five Gulf States Reach Historic Settlement with BP'",
-      "date": "2015-10-05",
-      "url": "https://web.archive.org/web/20260622123709/https://www.justice.gov/archives/opa/pr/us-and-five-gulf-states-reach-historic-settlement-bp-resolve-civil-lawsuit-over-deepwater",
-      "quote": "The federal lawsuit culminated in a three-phase civil trial in which the United States proved, among other things, that the spill was caused by BP’s gross negligence.",
+      "name": "US Department of Justice, Criminal Division: United States v. BP Exploration and Production, Inc. (case page, E.D. La. No. 2:12-cr-00292)",
+      "date": "2023-09-27",
+      "url": "https://www.justice.gov/criminal/criminal-vns/case/united-states-v-bp-exploration-and-production-inc",
+      "quote": "In pleading guilty, BP admitted that, on April 20, 2010, the two highest-ranking BP supervisors onboard the Deepwater Horizon, known as BP’s “Well Site Leaders” or \"company men,\" negligently caused the deaths of 11 men and the resulting oil spill.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "reviewed": false,
     "additionalSources": [
       {
-        "name": "U.S. Environmental Protection Agency, 'Deepwater Horizon – BP Gulf of America Oil Spill' (enforcement case page)",
-        "url": "https://www.epa.gov/enforcement/deepwater-horizon-bp-gulf-america-oil-spill",
-        "date": "2026-04-03",
-        "quote": "Phase One Trial: Findings of Fact and Conclusions of Law on Gross Negligence and Willful Misconduct",
+        "name": "CNN: Judge approves BP plea agreement, record $4 billion fine",
+        "date": "2013-01-29",
+        "url": "https://www.cnn.com/2013/01/29/us/louisiana-bp-deal/index.html",
+        "quote": "which include the oil company pleading guilty to 14 criminal counts – among them, felony manslaughter charges – and the payment of a record $4 billion in criminal penalties over five years",
         "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "bp: Annual Report and Form 20-F 2025, note 33 'Contingent liabilities and legal proceedings'",
+        "date": "2026-03-06",
+        "url": "https://www.bp.com/api/files/6cqieuqhq4no/master/33M2iHp8A6d07McKzKqLNP/12b5d4eccb4e02093d1ad9efc0d6a746/bp-annual-report-and-form-20f-2025.pdf",
+        "quote": "BP Exploration & Production Inc. (BPXP) was lease operator of Mississippi Canyon, Block 252 in the Gulf of America, where the semi-submersible rig Deepwater Horizon was deployed at the time of the 20 April 2010 explosion",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
         }
       }
-    ]
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "bp-major-shareholders-2025",
+    "kind": "ownership",
+    "ownerIds": [
+      "bp-plc"
+    ],
+    "text": "BP p.l.c. is a listed company whose largest shareholder is the asset manager BlackRock. Its Annual Report and Form 20-F 2025 lists, as per each holder's most recent notification, BlackRock, Inc. (7.37%), Elliott Investment Management, L.P. (5.00%) and Norges Bank (3.99%) as holding 3% or more of the voting rights in its ordinary shares.",
+    "source": {
+      "name": "bp: Annual Report and Form 20-F 2025, Shareholder information, 'Major shareholders' - 'Substantial shareholders'",
+      "date": "2026-03-06",
+      "url": "https://www.bp.com/api/files/6cqieuqhq4no/master/33M2iHp8A6d07McKzKqLNP/12b5d4eccb4e02093d1ad9efc0d6a746/bp-annual-report-and-form-20f-2025.pdf",
+      "quote": "BlackRock, Inc. 1,504,412,502 7.37 1,504,412,502 7.37 Elliott Investment Management, L.P. 806,743,232 5.00 806,743,232 5.00 Norges Banka 641,036,583 3.99 641,036,583 3.99",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Reuters, via Yahoo Finance UK: Elliott increases BP stake to just over 5%",
+        "date": "2025-04-22",
+        "url": "https://uk.finance.yahoo.com/news/elliott-increases-bp-stake-just-155236058.html",
+        "quote": "This makes Elliott BP's second-biggest shareholder after Blackrock at 9.2% and ahead of Vanguard at 4.95%, according to LSEG data.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
   },
   {
     "id": "burns-and-mcdonnell-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "burns-and-mcdonnell-owner"
     ],
@@ -1257,6 +1336,7 @@
   },
   {
     "id": "bwt-group-record",
+    "kind": "ownership",
     "ownerIds": [
       "bwt-group"
     ],
@@ -1276,6 +1356,7 @@
   },
   {
     "id": "c-hedenkamp-gmbh-record",
+    "kind": "ownership",
     "ownerIds": [
       "c-hedenkamp-gmbh"
     ],
@@ -1295,6 +1376,7 @@
   },
   {
     "id": "caesars-entertainment-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "caesars-entertainment-owner"
     ],
@@ -1313,37 +1395,27 @@
     "reviewed": false
   },
   {
-    "id": "capital-one-cfpb-add-on-products-2012",
+    "id": "capital-one-major-holders-2026",
+    "kind": "ownership",
     "ownerIds": [
       "capital-one-owner"
     ],
-    "text": "In July 2012, in the Consumer Financial Protection Bureau's first public enforcement action, Capital One Bank was ordered to refund about $140 million to some two million credit card customers who had been pressured or misled into buying add-on products such as payment protection and credit monitoring, and to pay a $25 million penalty.",
+    "text": "Capital One Financial Corporation's 2026 proxy statement lists two owners of more than 5% of its common stock: The Vanguard Group (10.2%) and BlackRock, Inc. (7.1%).",
     "source": {
-      "name": "Consumer Financial Protection Bureau: CFPB Probe into Capital One Credit Card Marketing Results in $140 Million Consumer Refund",
-      "date": "2012-07-18",
-      "url": "https://www.consumerfinance.gov/archive/newsroom/cfpb-capital-one-probe/",
-      "quote": "first public enforcement action with an order requiring Capital One Bank (U.S.A.), N.A. to refund approximately $140 million to two million customers and pay an additional $25 million penalty",
+      "name": "Capital One Financial Corporation: 2026 Proxy Statement (Schedule 14A), 'Security Ownership of Certain Beneficial Owners' (SEC EDGAR)",
+      "date": "2026-03-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/927628/000119312526124131/d701179ddef14a.htm",
+      "quote": "The Vanguard Group(2) 100 Vanguard Blvd. Malvern, PA 19355 63,618,145 10.2% BlackRock, Inc.(3) 55 East 52nd Street New York, NY 10055 44,226,407 7.1%",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "additionalSources": [
-      {
-        "name": "TIME (Martha C. White): CFPB Shows Its Teeth: Capital One Fined $210 Million For Deceptive Marketing",
-        "date": "2012-07-19",
-        "url": "https://web.archive.org/web/20210928065247/https://business.time.com/2012/07/19/cfpb-orders-capital-one-to-return-140-million-to-customers/",
-        "quote": "The Consumer Financial Protection Bureau flexed its enforcement muscle for the first time today, fining Capital One Bank for deceptive credit-card marketing practices.",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ],
     "reviewed": false
   },
   {
     "id": "capital-one-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "capital-one-owner"
     ],
@@ -1374,8 +1446,10 @@
   },
   {
     "id": "carlyle-group-and-gic-record",
+    "kind": "ownership",
     "ownerIds": [
-      "carlyle-group-and-gic"
+      "carlyle-group-and-gic",
+      "gic"
     ],
     "text": "Nouryon, a specialty chemicals company, is jointly owned by the private-equity firm The Carlyle Group and GIC, Singapore's sovereign wealth fund.",
     "source": {
@@ -1404,6 +1478,7 @@
   },
   {
     "id": "carvana-record",
+    "kind": "ownership",
     "ownerIds": [
       "carvana"
     ],
@@ -1422,7 +1497,70 @@
     "reviewed": false
   },
   {
+    "id": "cas-holdings-state-owned",
+    "kind": "ownership",
+    "ownerIds": [
+      "chinese-academy-of-sciences-holdings"
+    ],
+    "text": "Chinese Academy of Sciences Holdings is a wholly state-owned company, set up with State Council approval and funded by the Chinese Academy of Sciences on behalf of the People's Republic of China. The Chinese Academy of Sciences is a national institution owned and controlled by the Chinese government.",
+    "source": {
+      "name": "Chinese Academy of Sciences Holdings Co., Ltd.: Company profile (undated page, read September 2026)",
+      "date": "2026-09",
+      "url": "http://english.holdings.cas.cn/cp/",
+      "quote": "As a wholly state-owned company established on April, 12th, 2002, Chinese Academy of Sciences Holdings Co., Ltd.(\"CAS HOLDINGS\" for short), was approved by the State Council and invested by CAS on behalf of the P.R.China",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "SEC Schedule 13D, Tuniu Corporation, filed by Hony Capital and Legend Holdings entities (Schedule I)",
+        "date": "2015-05-18",
+        "url": "https://www.sec.gov/Archives/edgar/data/1536505/000110465915038824/a15-12191_1sc13d.htm",
+        "quote": "The principal business of Chinese Academy of Sciences is a national academic and research institution owned and controlled by the PRC government",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "castrol-bp-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "bp-plc"
+    ],
+    "text": "Castrol belongs to BP p.l.c. In December 2025 bp agreed to sell a 65% shareholding in Castrol to Stonepeak and keep 35%, in a transaction expected to complete by the end of 2026.",
+    "source": {
+      "name": "bp: Annual Report and Form 20-F 2025, note on assets held for sale (customers & products)",
+      "date": "2026-03-06",
+      "url": "https://www.bp.com/api/files/6cqieuqhq4no/master/33M2iHp8A6d07McKzKqLNP/12b5d4eccb4e02093d1ad9efc0d6a746/bp-annual-report-and-form-20f-2025.pdf",
+      "quote": "bp announced an agreement with Stonepeak to divest a 65% shareholding in the Castrol business with bp retaining a 35% interest through a holding in a newly incorporated entity. Cash proceeds are estimated at $6 billion. The transaction is expected to complete by the end of 2026",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Stonepeak: Stonepeak to Acquire Majority Controlling Interest in Castrol from bp",
+        "date": "2025-12-24",
+        "url": "https://stonepeak.com/news/stonepeak-to-acquire-majority-controlling-interest-in-castrol-from-bp",
+        "quote": "today announced an agreement to acquire a majority controlling interest in Castrol (or “the Company”), a global leader in lubricants, from BP p.l.c. (“bp”)",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "childrens-hospital-colorado-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "childrens-hospital-colorado-owner"
     ],
@@ -1441,7 +1579,39 @@
     "reviewed": false
   },
   {
+    "id": "china-xinjiang-un-assessment",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-china"
+    ],
+    "text": "The UN human rights office found in 2022 that serious human rights violations had been committed against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. Human Rights Watch reported in August 2026 that hundreds of thousands of Uyghurs and other Turkic Muslims remain in prison.",
+    "source": {
+      "name": "UN OHCHR: OHCHR Assessment of human rights concerns in the Xinjiang Uyghur Autonomous Region, People’s Republic of China",
+      "date": "2022-08-31",
+      "url": "https://www.ohchr.org/sites/default/files/documents/countries/2022-08-31/22-08-31-final-assesment.pdf",
+      "quote": "Serious human rights violations have been committed in XUAR in the context of the Government’s application of counter-terrorism and counter-“extremism” strategies.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Human Rights Watch: China: Decade of Impunity for Crimes Against Uyghurs",
+        "date": "2026-08-27",
+        "url": "https://www.hrw.org/news/2026/08/27/china-decade-of-impunity-for-crimes-against-uyghurs",
+        "quote": "Since then, although some of these camps appear to have closed, hundreds of thousands of Uyghurs and other Turkic Muslims remain in prison",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "circle-internet-group-record",
+    "kind": "ownership",
     "ownerIds": [
       "circle-internet-group"
     ],
@@ -1460,6 +1630,7 @@
   },
   {
     "id": "cisco-record",
+    "kind": "ownership",
     "ownerIds": [
       "cisco"
     ],
@@ -1477,37 +1648,80 @@
     "reviewed": false
   },
   {
-    "id": "citigroup-citi-owner-record",
+    "id": "citibank-cfpb-armenian-american-discrimination-2023",
+    "kind": "record",
     "ownerIds": [
       "citigroup-citi-owner"
     ],
-    "text": "Citigroup is a NYSE-listed bank with no state ownership (largest holders are institutional investors under 10% each); it paid a $217,841 OFAC settlement in 2014 over Iran-related sanctions violations (not Sudan, Libya, or Burma).",
+    "text": "In November 2023 the US Consumer Financial Protection Bureau (CFPB) issued a consent order finding that from at least 2015 through 2021 Citibank (Citi) had a pattern or practice of discriminating against credit card applicants based on Armenian national origin, whom its employees identified by last names ending in -ian or -yan. Citibank consented without admitting or denying the findings and was ordered to pay a $24.5 million penalty and $1.4 million in redress. The CFPB ended the order in October 2025, three years early.",
     "source": {
-      "name": "Citigroup DEF 14A 2026",
-      "date": "2026-04-02",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm",
-      "quote": "BlackRock and Vanguard each reported that they beneficially owned 5% or more of the outstanding shares of Citi's common stock",
+      "name": "Consumer Financial Protection Bureau: Consent Order, In the Matter of Citibank, N.A., File No. 2023-CFPB-0013",
+      "date": "2023-11-08",
+      "url": "https://files.consumerfinance.gov/f/documents/cfpb_citibank-na_2023-cfpb-0013_consent-order_2023-11.pdf",
+      "quote": "From at least 2015 through 2021, it was Respondent’s pattern or practice to apply extra scrutiny to, negatively assess, and often deny certain credit card applications based on Armenian national origin.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "reviewed": false,
     "additionalSources": [
       {
-        "name": "U.S. Department of the Treasury, OFAC — 'Citigroup Inc. Settles Potential Civil Liability for Apparent Violations of Multiple Sanctions Programs'",
-        "url": "https://ofac.treasury.gov/media/13556/download",
-        "date": "2014-09-03",
-        "quote": "Citigroup Inc. (Citigroup), New York, New York, has agreed to remit $217,841 to settle potential civil liability for eight apparent violations of the Iranian Transactions and Sanctions Regulations",
+        "name": "Banking Dive (Anna Hrushka): Citi fined $25.9M over alleged discrimination",
+        "date": "2023-11-08",
+        "url": "https://www.bankingdive.com/news/citi-fine-25-million-discrimination-armenian-americans-cfpb-credit-card/699163/",
+        "quote": "The Consumer Financial Protection Bureau on Wednesday fined Citi $25.9 million over allegations the bank intentionally discriminated against credit card applicants the bank identified as Armenian-American.",
         "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "Los Angeles Times (Laurence Darmiento), via Yahoo News: Trump administration terminates Citibank consent order prohibiting Armenian American discrimination",
+        "date": "2025-10-17",
+        "url": "https://www.yahoo.com/news/articles/trump-administration-terminates-citibank-consent-235723279.html",
+        "quote": "The agency, led by President Trump's Office of Management and Budget Director Russ Vought, ended the consent order on Thursday, three years earlier than when it was set to expire.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
         }
       }
-    ]
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "citigroup-major-holders-2026",
+    "kind": "ownership",
+    "ownerIds": [
+      "citigroup-citi-owner"
+    ],
+    "text": "Citigroup Inc. is a listed company whose largest shareholders are the asset managers Vanguard and BlackRock. Its 2026 proxy statement lists them as the two owners of more than 5% of its common stock: The Vanguard Group, Inc. (8.7%) and BlackRock, Inc. (6.9%).",
+    "source": {
+      "name": "Citigroup Inc.: 2026 Proxy Statement (Schedule 14A), 'Owners of More than 5% of Citi's Common Stock' (SEC EDGAR)",
+      "date": "2026-04-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm",
+      "quote": "BlackRock, Inc. (a) 50 Hudson Yards, New York, NY 10001 129,265,958 6.9% The Vanguard Group, Inc. (b) 100 Vanguard Blvd., Malvern, PA 19355 166,504,200 8.7%",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Simply Wall St, via Yahoo Finance: Citigroup Inc. (NYSE:C) is largely controlled by institutional shareholders who own 74% of the company",
+        "date": "2025-02-01",
+        "url": "https://finance.yahoo.com/news/citigroup-inc-nyse-c-largely-120025868.html",
+        "quote": "The Vanguard Group, Inc. is currently the company's largest shareholder with 8.9% of shares outstanding. With 8.7% and 4.4% of the shares outstanding respectively, BlackRock, Inc. and State Street Global Advisors, Inc. are the second and third largest shareholders.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
   },
   {
     "id": "citizens-bank-citizens-financial-group-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "citizens-bank-citizens-financial-group-owner"
     ],
@@ -1527,6 +1741,7 @@
   },
   {
     "id": "clickhouse-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "clickhouse-inc"
     ],
@@ -1545,6 +1760,7 @@
   },
   {
     "id": "cmc-markets-plc-record",
+    "kind": "ownership",
     "ownerIds": [
       "cmc-markets-plc"
     ],
@@ -1563,6 +1779,7 @@
   },
   {
     "id": "cme-group-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "cme-group-owner"
     ],
@@ -1581,6 +1798,7 @@
   },
   {
     "id": "coca-cola-company-record",
+    "kind": "ownership",
     "ownerIds": [
       "coca-cola-company"
     ],
@@ -1594,30 +1812,82 @@
     "reviewed": false
   },
   {
-    "id": "cognizant-record",
+    "id": "cognizant-major-holders-2026",
+    "kind": "ownership",
     "ownerIds": [
       "cognizant"
     ],
-    "text": "In February 2019 Cognizant agreed to pay about $25 million to settle US Securities and Exchange Commission charges that it violated the Foreign Corrupt Practices Act, over a bribe of about $2 million paid to a government official in India in connection with building a Cognizant office campus there.",
+    "text": "Cognizant Technology Solutions Corporation is a listed company whose largest shareholders are asset managers such as Vanguard, BlackRock and State Street. Its 2026 proxy statement lists two owners of 5% or more of its common stock: BlackRock, Inc. (9.0%) and State Street Corporation (5.3%).",
     "source": {
-      "name": "US Securities and Exchange Commission: SEC Charges Cognizant and Two Former Executives With FCPA Violations (press release 2019-12)",
-      "date": "2019-02-15",
-      "url": "https://www.sec.gov/newsroom/press-releases/2019-12",
-      "quote": "Cognizant Technology Solutions Corporation has agreed to pay $25 million to settle charges that it violated the Foreign Corrupt Practices Act (FCPA)",
+      "name": "Cognizant Technology Solutions Corporation: 2026 Proxy Statement (Schedule 14A), '5% Beneficial Owners' (SEC EDGAR)",
+      "date": "2026-04-17",
+      "url": "https://www.sec.gov/Archives/edgar/data/1058290/000130817926000290/ctsh014861-def14a.htm",
+      "quote": "5% Beneficial Owners Common Stock % Outstanding Sole Voting Power Shared Voting Power Sole Dispositive Power Shared Dispositive Power BlackRock, Inc. 42,418,452 9.0% 38,287,105 — 42,418,452 — State Street Corporation 24,989,996 5.3%",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
     "additionalSources": [
       {
-        "name": "US Department of Justice, Office of Public Affairs: Former President and Former Chief Legal Officer of Publicly Traded Fortune 200 Technology Services Company Indicted in Connection with Alleged Multi-Million Dollar Foreign Bribery Scheme",
-        "date": "2019-02-15",
-        "url": "https://web.archive.org/web/20250201195429/https://www.justice.gov/opa/pr/former-president-and-former-chief-legal-officer-publicly-traded-fortune-200-technology",
-        "quote": "Cognizant entered into a cease and desist order and agreed to pay the SEC a civil penalty, disgorgement and prejudgment interest totaling approximately $25 million.",
+        "name": "TradingKey: Cognizant Technology Solutions Corp (CTSH) Shareholder Structure: Major Shareholders & Institutional Holdings",
+        "date": "2026-05-14",
+        "url": "https://www.tradingkey.com/markets/stocks/ctsh/ownership",
+        "quote": "Vanguard Capital Management, LLC 6.56% BlackRock Institutional Trust Company, N.A. 6.23% Vanguard Portfolio Management, LLC 5.52% State Street Investment Management (US) 5.27%",
         "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "MarketBeat: Cognizant Technology Solutions (CTSH) Institutional Ownership 2026",
+        "date": "2026-09-23",
+        "url": "https://www.marketbeat.com/stocks/NASDAQ/CTSH/institutional-ownership/",
+        "quote": "The most heavily invested institutionals were Vanguard Group Inc. ($5.00B), State Street Corp ($2.07B), Dodge & Cox ($1.24B), Pzena Investment Management LLC ($1.24B)",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "cognizant-palmer-discrimination-verdict-2024",
+    "kind": "record",
+    "ownerIds": [
+      "cognizant"
+    ],
+    "text": "In October 2024 a unanimous federal jury in California (Palmer v. Cognizant) found that Cognizant engaged in a pattern or practice of intentional discrimination, on the basis of race and national origin, against non-South Asian and non-Indian employees who were terminated from 'the bench', its pool of staff not allocated to an active project. In December 2025 the court also found that Cognizant's visa policies had a disparate impact on these employees; the case continues to a second phase on individual claims and damages.",
+    "source": {
+      "name": "US District Court for the Central District of California: Findings of Fact and Conclusions of Law re Plaintiffs' Disparate Impact Claim, Palmer v. Cognizant Technology Solutions Corp., No. 2:17-cv-06848-DMG, Doc. 714 (RECAP archive, CourtListener)",
+      "date": "2025-12-05",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.cacd.689138/gov.uscourts.cacd.689138.714.0.pdf",
+      "quote": "the jury returned a unanimous verdict in favor of Plaintiffs, finding that: (1) Cognizant had engaged in a pattern or practice of intentional discrimination against non-South Asian employees (on the basis of race) and non-Indian employees (on the basis of national origin)",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Cognizant Technology Solutions Corporation: Quarterly Report on Form 10-Q for the quarter ended June 30, 2026, Commitments and Contingencies (SEC EDGAR)",
+        "date": "2026-07-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000031/ctsh-20260630.htm",
+        "quote": "on October 4, 2024, the jury returned a verdict in favor of plaintiffs. On December 5, 2025, the USDC-CDCA awarded plaintiffs $16 million in interim attorneys’ fees and costs; and separately found in plaintiffs’ favor on their claim that Cognizant policies had a disparate impact",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "Tribune News Service, via GovTech Insider: Jury Finds Discrimination in H-1B Visa Tech Worker Case",
+        "date": "2024-10-08",
+        "url": "https://insider.govtech.com/california/news/jury-finds-discrimination-in-h-1b-visa-tech-worker-case",
+        "quote": "A company that supplies thousands of workers for Silicon Valley’s technology industry and other Bay Area employers intentionally discriminated against non-Indian workers, a jury has found.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
         }
       }
     ],
@@ -1625,6 +1895,7 @@
   },
   {
     "id": "coinbase-global-record",
+    "kind": "ownership",
     "ownerIds": [
       "coinbase-global"
     ],
@@ -1643,6 +1914,7 @@
   },
   {
     "id": "coltan-supply-chain",
+    "kind": "record",
     "ownerIds": [
       "government-of-rwanda"
     ],
@@ -1674,6 +1946,7 @@
   },
   {
     "id": "compass-minerals-record",
+    "kind": "ownership",
     "ownerIds": [
       "compass-minerals"
     ],
@@ -1693,6 +1966,7 @@
   },
   {
     "id": "continent-gaming-record",
+    "kind": "ownership",
     "ownerIds": [
       "continent-gaming"
     ],
@@ -1712,6 +1986,7 @@
   },
   {
     "id": "coors-brewing-co-molson-coors-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "coors-brewing-co-molson-coors-owner"
     ],
@@ -1730,6 +2005,7 @@
   },
   {
     "id": "core-scientific-record",
+    "kind": "ownership",
     "ownerIds": [
       "core-scientific"
     ],
@@ -1748,6 +2024,7 @@
   },
   {
     "id": "corendon-tourism-group-record",
+    "kind": "ownership",
     "ownerIds": [
       "corendon-tourism-group"
     ],
@@ -1766,6 +2043,7 @@
   },
   {
     "id": "corporacion-hijos-de-rivera-record",
+    "kind": "ownership",
     "ownerIds": [
       "corporacion-hijos-de-rivera"
     ],
@@ -1784,20 +2062,8 @@
     "reviewed": false
   },
   {
-    "id": "cote-divoire-hrw-record",
-    "ownerIds": [
-      "government-of-cote-divoire"
-    ],
-    "text": "Human Rights Watch said Ivorian authorities should investigate the killing of more than 50 people in the violence around the October 2020 presidential election, with a dozen opposition leaders arrested and justice for the 2010-11 crisis still incomplete.",
-    "source": {
-      "name": "Human Rights Watch — Côte d'Ivoire, 'Post-Election Violence, Repression'",
-      "date": "2020-12-02",
-      "url": "https://www.hrw.org/africa/cote-divoire"
-    },
-    "reviewed": false
-  },
-  {
     "id": "crowdstrike-record",
+    "kind": "ownership",
     "ownerIds": [
       "crowdstrike"
     ],
@@ -1817,6 +2083,7 @@
   },
   {
     "id": "cvc-capital-partners-record",
+    "kind": "ownership",
     "ownerIds": [
       "cvc-capital-partners"
     ],
@@ -1835,6 +2102,7 @@
   },
   {
     "id": "daikin-comfort-technologies-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "daikin-comfort-technologies-owner"
     ],
@@ -1849,6 +2117,7 @@
   },
   {
     "id": "davide-campari-milano-record",
+    "kind": "ownership",
     "ownerIds": [
       "davide-campari-milano"
     ],
@@ -1868,6 +2137,7 @@
   },
   {
     "id": "deel-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "deel-inc"
     ],
@@ -1887,6 +2157,7 @@
   },
   {
     "id": "deghi-record",
+    "kind": "ownership",
     "ownerIds": [
       "deghi"
     ],
@@ -1905,6 +2176,7 @@
   },
   {
     "id": "dell-technologies-record",
+    "kind": "ownership",
     "ownerIds": [
       "dell-technologies"
     ],
@@ -1924,6 +2196,7 @@
   },
   {
     "id": "desert-financial-credit-union-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "desert-financial-credit-union-owner"
     ],
@@ -1943,10 +2216,11 @@
   },
   {
     "id": "deutsche-post-dhl-record",
+    "kind": "ownership",
     "ownerIds": [
       "deutsche-post-dhl"
     ],
-    "text": "DHL Group (Deutsche Post AG) is a listed German logistics company, but it is not purely private: KfW Bankengruppe, the state-owned German development bank, holds approximately 204 million shares, 17.727% of the share capital as at 30 June 2026. A partial state stake earns the mid tier rather than serious. Human-rights relevance is logistics labour and subcontracting across a global network.",
+    "text": "KfW Bankengruppe, the state-owned German development bank, holds about 17% of the share capital of DHL Group (Deutsche Post AG).",
     "short": "DHL Group (Deutsche Post AG) is a listed German logistics company, but it is not purely private: KfW Bankengruppe, the state-owned German development bank, holds….",
     "source": {
       "name": "DHL Group - Shareholder Structure (company IR)",
@@ -1974,6 +2248,7 @@
   },
   {
     "id": "diageo-plc-record",
+    "kind": "ownership",
     "ownerIds": [
       "diageo-plc"
     ],
@@ -1988,6 +2263,7 @@
   },
   {
     "id": "digi-communications-nv-record",
+    "kind": "ownership",
     "ownerIds": [
       "digi-communications-nv"
     ],
@@ -2007,6 +2283,7 @@
   },
   {
     "id": "diputacion-de-malaga-record",
+    "kind": "ownership",
     "ownerIds": [
       "diputacion-de-malaga"
     ],
@@ -2047,6 +2324,7 @@
   },
   {
     "id": "discovery-limited-record",
+    "kind": "ownership",
     "ownerIds": [
       "discovery-limited"
     ],
@@ -2064,20 +2342,8 @@
     "reviewed": false
   },
   {
-    "id": "dr-congo-hrw-record",
-    "ownerIds": [
-      "government-of-dr-congo"
-    ],
-    "text": "Human Rights Watch describes a dire situation in eastern DR Congo: over 100 armed groups active, martial law facilitating abuses by government security forces, 5.8 million internally displaced, and attacks on free expression and assembly.",
-    "source": {
-      "name": "Human Rights Watch — Democratic Republic of Congo country page",
-      "date": "2026",
-      "url": "https://www.hrw.org/africa/democratic-republic-congo"
-    },
-    "reviewed": false
-  },
-  {
     "id": "dream-finders-homes-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "dream-finders-homes-owner"
     ],
@@ -2096,6 +2362,7 @@
   },
   {
     "id": "easygo-record",
+    "kind": "ownership",
     "ownerIds": [
       "easygo"
     ],
@@ -2114,6 +2381,7 @@
   },
   {
     "id": "eaton-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "eaton-owner"
     ],
@@ -2132,6 +2400,7 @@
   },
   {
     "id": "ed-sheeran-record",
+    "kind": "ownership",
     "ownerIds": [
       "ed-sheeran"
     ],
@@ -2146,6 +2415,7 @@
   },
   {
     "id": "el-camino-health-record",
+    "kind": "ownership",
     "ownerIds": [
       "el-camino-health"
     ],
@@ -2164,6 +2434,7 @@
   },
   {
     "id": "electronic-arts-record",
+    "kind": "ownership",
     "ownerIds": [
       "electronic-arts"
     ],
@@ -2177,7 +2448,39 @@
     "reviewed": false
   },
   {
+    "id": "emirates-icd-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "government-of-dubai"
+    ],
+    "text": "Emirates is wholly owned by the Investment Corporation of Dubai (ICD), an entity of the Government of Dubai.",
+    "source": {
+      "name": "The Emirates Group: Annual Report 2025-26, Emirates consolidated financial statements, note 1 (General information)",
+      "date": "2026-05",
+      "url": "https://c.ekstatic.net/ecl/documents/annual-report/2025-2026.pdf",
+      "quote": "Maktoum on 26 June 1985 and is wholly owned by the Investment Corporation of Dubai",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "AGBI (Arabian Gulf Business Insight): The Emirates Group, company profile",
+        "date": "2024-11-22",
+        "url": "https://www.agbi.com/companies/the-emirates-group/",
+        "quote": "Wholly owned by the Dubai government’s Investment Corporation of Dubai (ICD), the Emirates Group is one of the biggest employers in the Middle East.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "energy-transfer-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "energy-transfer-owner"
     ],
@@ -2197,6 +2500,7 @@
   },
   {
     "id": "eni-plenitude-stake",
+    "kind": "ownership",
     "ownerIds": [
       "eni"
     ],
@@ -2227,6 +2531,7 @@
   },
   {
     "id": "eni-record",
+    "kind": "ownership",
     "ownerIds": [
       "eni"
     ],
@@ -2241,6 +2546,7 @@
   },
   {
     "id": "eni-spa-record",
+    "kind": "ownership",
     "ownerIds": [
       "eni"
     ],
@@ -2271,6 +2577,7 @@
   },
   {
     "id": "entain-plc-record",
+    "kind": "ownership",
     "ownerIds": [
       "entain-plc"
     ],
@@ -2289,6 +2596,7 @@
   },
   {
     "id": "essilorluxottica-record",
+    "kind": "ownership",
     "ownerIds": [
       "essilorluxottica"
     ],
@@ -2306,7 +2614,100 @@
     "reviewed": false
   },
   {
+    "id": "esso-exxonmobil-brand",
+    "kind": "ownership",
+    "ownerIds": [
+      "exxon-mobil-corporation"
+    ],
+    "text": "Esso is one of the brands under which Exxon Mobil Corporation sells fuel.",
+    "source": {
+      "name": "Exxon Mobil Corporation: Form 10-K for fiscal year 2025, retail fuel sites (SEC EDGAR)",
+      "date": "2026-02-18",
+      "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
+      "quote": "retail fuels sites sell products and services throughout the world through our Exxon, Esso, and Mobil brands",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "etihad-adq-ownership-2022",
+    "kind": "ownership",
+    "ownerIds": [
+      "government-of-abu-dhabi"
+    ],
+    "text": "In October 2022, Abu Dhabi's Supreme Council for Financial and Economic Affairs transferred full ownership of Etihad Aviation Group, the parent of Etihad Airways, from the Abu Dhabi government to ADQ, an Abu Dhabi investment and holding company.",
+    "source": {
+      "name": "Abu Dhabi Media Office: Etihad Aviation Group Transferred to ADQ’s Portfolio",
+      "date": "2022-10-18",
+      "url": "https://www.mediaoffice.abudhabi/en/economy/abu-dhabi-supreme-council-for-financial-and-economic-affairs-issues-a-decision-to-transfer-etihad-aviation-group-to-adq/",
+      "quote": "The Supreme Council for Financial and Economic Affairs has transferred full ownership of Etihad Aviation Group (EAG) to ADQ, an Abu Dhabi-based investment and holding company.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "ch-aviation: Etihad joins Abu Dhabi’s consolidated L'imad investment fund",
+        "date": "2026-02-04",
+        "url": "https://www.ch-aviation.com/news/163363-etihad-joins-abu-dhabis-consolidated-limad-investment-fund",
+        "quote": "parent of Etihad Airways, was directly owned by the Abu Dhabi government until October 2022, when SCFEA transferred its full ownership to ADQ, alongside Abu Dhabi Airports and Etihad Rail.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "etihad-limad-2026",
+    "kind": "ownership",
+    "ownerIds": [
+      "limad",
+      "government-of-abu-dhabi"
+    ],
+    "text": "In January 2026, the council consolidated ADQ's assets under L'IMAD Holding, one of the Government of Abu Dhabi's principal sovereign investment funds, whose portfolio now includes Etihad Airways.",
+    "source": {
+      "name": "Abu Dhabi Media Office: Supreme Council for Financial and Economic Affairs Issues Resolution to Consolidate the Assets and Investments of L’IMAD Holding and Abu Dhabi Developmental Holding Group",
+      "date": "2026-01-30",
+      "url": "https://www.mediaoffice.abudhabi/en/economy/supreme-council-for-financial-and-economic-affairs-issues-resolution-to-consolidate-the-assets-and-investments-of-limad-holding-and-abu-dhabi-developmental-holding-group/",
+      "quote": "Among these companies are TAQA, a major player in the power and water sector; Modon Properties; Etihad Airways; PureHealth; Etihad Rail; Wio Bank; Abu Dhabi Ports; McLaren; and Louis Dreyfus.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "The National: Abu Dhabi to consolidate assets of ADQ under L'imad",
+        "date": "2026-01-30",
+        "url": "https://www.thenationalnews.com/business/2026/01/30/abu-dhabi-to-consolidate-assets-of-adq-under-limad/",
+        "quote": "Among these companies are Taqa, Modon Properties, Etihad Airways, PureHealth, Etihad Rail, Wio Bank, Abu Dhabi Ports, McLaren and Louis Dreyfus.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "ch-aviation: Etihad joins Abu Dhabi’s consolidated L'imad investment fund",
+        "date": "2026-02-04",
+        "url": "https://www.ch-aviation.com/news/163363-etihad-joins-abu-dhabis-consolidated-limad-investment-fund",
+        "quote": "SCFEA oversees the principal sovereign investment funds of the Abu Dhabi government, namely the Abu Dhabi Investment Authority, Mubadala Investment Company, L'imad Holding Company, and the Abu Dhabi National Oil Company.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "etoro-record",
+    "kind": "ownership",
     "ownerIds": [
       "etoro"
     ],
@@ -2325,6 +2726,7 @@
   },
   {
     "id": "everbank-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "everbank-owner"
     ],
@@ -2339,6 +2741,7 @@
   },
   {
     "id": "expedia-group-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "expedia-group-inc"
     ],
@@ -2357,6 +2760,7 @@
   },
   {
     "id": "extreme-networks-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "extreme-networks-inc"
     ],
@@ -2374,67 +2778,27 @@
     "reviewed": false
   },
   {
-    "id": "exxon-mobil-corporation-record",
+    "id": "exxon-mobil-major-holders-2026",
+    "kind": "ownership",
     "ownerIds": [
       "exxon-mobil-corporation"
     ],
-    "text": "Local governments across the United States have sued oil and gas companies, including ExxonMobil, over alleged harms from climate change.",
+    "text": "Exxon Mobil Corporation's 2026 proxy statement lists three owners of more than 5% of its common stock: The Vanguard Group (10.4%), BlackRock, Inc. (6.5%) and State Street Corporation (5.1%).",
     "source": {
-      "name": "Exxon Mobil Corporation: Form 10-K for fiscal year 2025 (SEC EDGAR)",
-      "date": "2026-02-18",
-      "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
-      "quote": "have filed a number of legal proceedings against several oil and gas companies, including ExxonMobil, requesting unprecedented legal and equitable relief for various alleged injuries purportedly connected to climate change",
+      "name": "Exxon Mobil Corporation: 2026 Proxy Statement (Schedule 14A), 'Certain Beneficial Owners' (SEC EDGAR)",
+      "date": "2026-04-08",
+      "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm",
+      "quote": "The Vanguard Group(2) 100 Vanguard Blvd. Malvern, PA 19355 436,662,435 10.4% BlackRock, Inc.(3) 50 Hudson Yards New York, NY 10001 272,498,849 6.5% State Street Corporation(4) 1 Congress Street, Suite 1 Boston, MA 02114 214,815,389 5.1%",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "additionalSources": [
-      {
-        "name": "NBC News (Lawrence Hurley): Supreme Court takes up oil companies' plea to end climate change lawsuits",
-        "date": "2026-02-23",
-        "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-takes-oil-companies-appeal-end-climate-change-lawsuits-rcna252425",
-        "quote": "Exxon Mobil and Suncor Energy are appealing a May 2025 Colorado Supreme Court ruling that said the lawsuit brought by the city of Boulder and Boulder County could move forward",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ],
-    "reviewed": false
-  },
-  {
-    "id": "exxon-valdez-oil-spill",
-    "ownerIds": [
-      "exxon-mobil-corporation"
-    ],
-    "text": "On 24 March 1989 the Exxon Valdez, a tanker of Exxon Shipping Company, ran aground on Bligh Reef off Alaska and spilled about 11 million gallons of crude oil.",
-    "source": {
-      "name": "Supreme Court of the United States: Exxon Shipping Co. v. Baker, 554 U.S. 471, opinion of the Court (text via Cornell LII)",
-      "date": "2008-06-25",
-      "url": "https://www.law.cornell.edu/supct/html/07-219.ZO.html",
-      "quote": "the supertanker Exxon Valdez grounded on Bligh Reef off the Alaskan coast, fracturing its hull and spilling millions of gallons of crude oil into Prince William Sound",
-      "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
-      }
-    },
-    "additionalSources": [
-      {
-        "name": "Exxon Valdez Oil Spill Trustee Council: Oil Spill Facts, Questions and Answers (undated page, read September 2026)",
-        "date": "2026-09",
-        "url": "https://evostc.state.ak.us/oil-spill-facts/q-and-a/",
-        "quote": "the ship ran aground on Bligh Reef at 12:04 am March 24, 1989",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ],
     "reviewed": false
   },
   {
     "id": "fanatics-record",
+    "kind": "ownership",
     "ownerIds": [
       "fanatics"
     ],
@@ -2448,7 +2812,39 @@
     "reviewed": false
   },
   {
+    "id": "fast-retailing-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "uniqlo-owner"
+    ],
+    "text": "UNIQLO belongs to Fast Retailing Co., Ltd., a Tokyo-listed company built and run by Tadashi Yanai. At 28 February 2026 its largest shareholders were The Master Trust Bank of Japan (19.79%), Tadashi Yanai (15.85%) and Custody Bank of Japan (9.13%); Koji Yanai and Kazumi Yanai held 4.68% each.",
+    "source": {
+      "name": "Fast Retailing Co., Ltd.: Shareholder Composition, Principal Shareholders (as of 28 February 2026)",
+      "date": "2026-04-10",
+      "url": "https://www.fastretailing.com/eng/ir/stockinfo/breakdown.html",
+      "quote": "The Master Trust Bank of Japan,Ltd. 60,729,093 19.79% Tadashi Yanai 48,621,852 15.85% Custody Bank of Japan, Ltd. 28,002,890 9.13% TTY Management B.V. 15,930,000 5.19% STATE STREET BANK AND TRUST COMPANY 14,732,237 4.80% Koji Yanai 14,345,985 4.68% Kazumi Yanai 14,345,424 4.68%",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Forbes: Tadashi Yanai & family (profile)",
+        "date": "2026-06-08",
+        "url": "https://www.forbes.com/profile/tadashi-yanai/",
+        "quote": "Tadashi Yanai built and runs Tokyo-listed retail clothing empire Fast Retailing, parent of the Uniqlo chain.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "federal-republic-of-germany-record",
+    "kind": "ownership",
     "ownerIds": [
       "federal-republic-of-germany"
     ],
@@ -2480,6 +2876,7 @@
   },
   {
     "id": "fifth-third-bank-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "fifth-third-bank-owner"
     ],
@@ -2499,6 +2896,7 @@
   },
   {
     "id": "fiserv-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "fiserv-owner"
     ],
@@ -2518,6 +2916,7 @@
   },
   {
     "id": "flexicar-internacional-record",
+    "kind": "ownership",
     "ownerIds": [
       "flexicar-internacional"
     ],
@@ -2536,6 +2935,7 @@
   },
   {
     "id": "ford-motor-company-record",
+    "kind": "ownership",
     "ownerIds": [
       "ford-motor-company"
     ],
@@ -2555,6 +2955,7 @@
   },
   {
     "id": "foris-dax-record",
+    "kind": "ownership",
     "ownerIds": [
       "foris-dax"
     ],
@@ -2572,21 +2973,8 @@
     "reviewed": false
   },
   {
-    "id": "france-hrw-record",
-    "ownerIds": [
-      "french-state"
-    ],
-    "text": "Human Rights Watch's 2026 world report records that France's civic space was downgraded to 'obstructed', police repression of protests restricted expression and assembly, the UN Committee Against Torture flagged excessive force against people of African and Arab descent and non-nationals, and the ECtHR condemned France for racial profiling by police.",
-    "short": "France: restricted civic space, police violence and racial profiling",
-    "source": {
-      "name": "Human Rights Watch — World Report 2026, France chapter",
-      "date": "2026-01-15",
-      "url": "https://www.hrw.org/world-report/2026/country-chapters/france"
-    },
-    "reviewed": false
-  },
-  {
     "id": "friuli-venezia-giulia-region-record",
+    "kind": "ownership",
     "ownerIds": [
       "friuli-venezia-giulia-region"
     ],
@@ -2606,6 +2994,7 @@
   },
   {
     "id": "frost-bank-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "frost-bank-owner"
     ],
@@ -2624,6 +3013,7 @@
   },
   {
     "id": "fundacion-1890-record",
+    "kind": "ownership",
     "ownerIds": [
       "fundacion-1890"
     ],
@@ -2641,7 +3031,121 @@
     "reviewed": false
   },
   {
+    "id": "g42-board-abu-dhabi-officials",
+    "kind": "ownership",
+    "ownerIds": [
+      "mubadala"
+    ],
+    "text": "G42's board is chaired by Sheikh Tahnoon bin Zayed Al Nahyan, Deputy Ruler of Abu Dhabi, and includes Khaldoon Khalifa Al Mubarak, Mubadala's group chief executive, and Jassem Mohamed Bu Ataba Al Zaabi, chairman of the Abu Dhabi Department of Finance.",
+    "source": {
+      "name": "G42: G42 Announces Investment by Silver Lake",
+      "date": "2021-04-14",
+      "url": "https://www.g42.ai/resources/news/g42-announces-investment-by-silver-lake",
+      "quote": "H.E. Jassem Mohamed Obaid Bu Ataba Al Zaabi, Chairman of the Abu Dhabi Department of Finance; and H.E. Khaldoon Khalifa Al Mubarak, Group Chief Executive Officer and Managing Director of Mubadala Investment Company",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Mubadala: His Excellency Khaldoon Khalifa Al Mubarak (undated profile, read September 2026)",
+        "date": "2026-09",
+        "url": "https://www.mubadala.com/en/who-we-are/investment-committee/khaldoon-al-mubarak",
+        "quote": "He serves on the Board of Abu Dhabi National Oil Company (ADNOC), L’IMAD Holding Company, and G42, the Abu Dhabi headquartered global AI company.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "Abu Dhabi Media Office: Tahnoon bin Zayed chairs G42 Board of Directors meeting",
+        "date": "2025-11-06",
+        "url": "https://www.mediaoffice.abudhabi/en/technology/tahnoon-bin-zayed-chairs-g42-board-of-directors-meeting/",
+        "quote": "The board, comprising esteemed participants including His Excellency Khaldoon Khalifa Al Mubarak, His Excellency Jassem Mohamed Bu Ataba Al Zaabi, Brad Smith, Egon Durban, Peng Xiao, and Martin Edelman",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "Aletihad (WAM): Tahnoon bin Zayed Al Nahyan chairs G42’s final board meeting of 2024",
+        "date": "2024-11-07",
+        "url": "https://en.aletihad.ae/news/business/4527840/tahnoon-bin-zayed-al-nahyan-chairs-g42-s-final-board-meeting",
+        "quote": "H.H. Sheikh Tahnoon bin Zayed Al Nahyan, Deputy Ruler of Abu Dhabi and Chairman of G42, presided over the final board meeting of 2024 for G42",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "g42-mubadala-minority-stake",
+    "kind": "ownership",
+    "ownerIds": [
+      "mubadala"
+    ],
+    "text": "Mubadala, a sovereign investor owned by the Government of Abu Dhabi, became a minority shareholder in G42 in 2020. In June 2024, G42's owners were Mubadala, Silver Lake, Microsoft, the Dalio Family Office, a Royal Group company and the Kai Foundation.",
+    "source": {
+      "name": "Mubadala: Mubadala Takes Stake in Group 42",
+      "date": "2020-11-02",
+      "url": "https://www.mubadala.com/en/news/mubadala-takes-stake-group-42",
+      "quote": "As a result of the transaction, Mubadala will become a minority shareholder in G42.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Cerebras Systems Inc., Form S-1 registration statement (SEC filing)",
+        "date": "2024-09-30",
+        "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm",
+        "quote": "We have been informed by G42 that as of June 30, 2024, G42 was owned by Mubadala, a sovereign investor owned by the Government of Abu Dhabi",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "g42-royal-group-control",
+    "kind": "ownership",
+    "ownerIds": [
+      "royal-group"
+    ],
+    "text": "In 2022, Royal Group, whose ultimate beneficial owner is Sheikh Tahnoon bin Zayed Al Nahyan, was the majority shareholder of G42. In 2026, G42 was reported to be controlled by Sheikh Tahnoon, the UAE's national security adviser.",
+    "source": {
+      "name": "SEC Schedule 13D, vTv Therapeutics Inc., filed by G42 Investments AI Holding RSC Ltd and Sheikh Tahnoon Bin Zayed S. Al-Nahyan",
+      "date": "2022-06-10",
+      "url": "https://www.sec.gov/Archives/edgar/data/1641489/000110465922070134/tm2218155d2_sc13d.htm",
+      "quote": "Royal Group is the majority shareholder of Group 42 Holding Ltd",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Enterprise (EnterpriseAM MENA+): Those reports that G42 is going to be mostly US-owned? Take ’em with a kilo of salt.",
+        "date": "2026-07-17",
+        "url": "https://enterpriseam.com/menaplus/2026/07/17/those-reports-that-g42-is-going-to-be-mostly-us-downed-take-em-with-a-kilo-of-salt/",
+        "quote": "G42 is controlled by National Security Adviser Sheikh Tahnoon bin Zayed Al Nahyan",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "gac-group-record",
+    "kind": "ownership",
     "ownerIds": [
       "gac-group"
     ],
@@ -2656,6 +3160,7 @@
   },
   {
     "id": "gainbridge-group-1001-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "gainbridge-group-1001-owner"
     ],
@@ -2674,6 +3179,7 @@
   },
   {
     "id": "gate-group-record",
+    "kind": "ownership",
     "ownerIds": [
       "gate-group"
     ],
@@ -2691,7 +3197,39 @@
     "reviewed": false
   },
   {
+    "id": "gazprom-state-control",
+    "kind": "ownership",
+    "ownerIds": [
+      "russian-federation"
+    ],
+    "text": "The Russian Federation is Gazprom's ultimate controlling party and holds a controlling stake of over 50%, directly and through companies it controls.",
+    "source": {
+      "name": "PJSC Gazprom: IFRS consolidated interim condensed financial information, 31 March 2025 (unaudited), note 1 (archived copy of gazprom.com PDF)",
+      "date": "2025-05",
+      "url": "https://web.archive.org/web/20250603132433id_/https://www.gazprom.com/f/posts/61/763135/gazprom-ifrs-2025-3mnth-en.pdf",
+      "quote": "The Russian Federation is the ultimate controlling party and has a controlling interest (including both direct and indirect ownership) of over 50 % in PJSC Gazprom.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "AK&M Information Agency: Gazprom's net profit under IFRS for 2025 increased by 7%",
+        "date": "2026-04-30",
+        "url": "https://www.akm.ru/eng/news/gazprom-s-net-profit-under-ifrs-for-2025-increased-by-7/",
+        "quote": "The Russian Federation, being the party with ultimate control, has a controlling stake (including direct and indirect ownership) of over 50% in Gazprom PJSC.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "golden-1-credit-union-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "golden-1-credit-union-owner"
     ],
@@ -2711,6 +3249,7 @@
   },
   {
     "id": "gov-malaysia-record",
+    "kind": "record",
     "ownerIds": [
       "gov-malaysia"
     ],
@@ -2740,37 +3279,8 @@
     "reviewed": false
   },
   {
-    "id": "gov-qatar-record",
-    "ownerIds": [
-      "government-of-qatar"
-    ],
-    "text": "Qatar's documented record: migrant workers still exposed to exploitation despite kafala reform, and expression and assembly tightly restricted. (The Visit Qatar/F1 sponsorship fact needs its own citation — it isn't covered by this human-rights source.)",
-    "source": {
-      "name": "Amnesty International - Human rights in Qatar (country report)",
-      "date": "2026",
-      "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/qatar/report-qatar/",
-      "quote": "Migrant workers remained vulnerable to labour abuses and exploitation despite recent reforms. Freedom of expression and peaceful assembly continued to be tightly restricted.",
-      "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
-      }
-    },
-    "reviewed": false,
-    "additionalSources": [
-      {
-        "name": "Human Rights Watch, 'World Report 2026: Qatar'",
-        "url": "https://www.hrw.org/world-report/2026/country-chapters/qatar",
-        "date": "2026-02-04",
-        "quote": "Migrant workers comprise over 91 percent of Qatar’s population and continue to face widespread abuse under the country’s restrictive kafala (labor sponsorship) system.",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ]
-  },
-  {
     "id": "gov-saudi-arabia-record",
+    "kind": "ownership",
     "ownerIds": [
       "government-of-saudi-arabia"
     ],
@@ -2801,6 +3311,7 @@
   },
   {
     "id": "government-of-abu-dhabi-record",
+    "kind": "ownership",
     "ownerIds": [
       "government-of-abu-dhabi"
     ],
@@ -2831,6 +3342,7 @@
   },
   {
     "id": "government-of-qatar-record",
+    "kind": "ownership",
     "ownerIds": [
       "government-of-qatar"
     ],
@@ -2860,37 +3372,8 @@
     "reviewed": false
   },
   {
-    "id": "government-of-saudi-arabia-record",
-    "ownerIds": [
-      "government-of-saudi-arabia"
-    ],
-    "text": "Visit Saudi is the destination-marketing platform of the Saudi Tourism Authority (STA), a Saudi government tourism body. Saudi Arabia has documented serious labour-rights abuses: HRW's World Report 2026 records migrant workers facing widespread wage theft and avoidable workplace deaths. (The specific claims that STA was established by royal decree in 2020 and is 'wholly state-funded' could not be verified on the cited page.)",
-    "source": {
-      "name": "Saudi Tourism Authority / Visit Saudi official 'About us'; Human Rights Watch World Report",
-      "date": "2026-08-19",
-      "url": "https://www.visitsaudi.com/en/about-us",
-      "quote": "The Authority aims to position the Kingdom as a premier tourism destination both globally and locally, attract visitors, and promote tourism throughout the country.",
-      "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
-      }
-    },
-    "reviewed": false,
-    "additionalSources": [
-      {
-        "name": "Human Rights Watch - World Report 2026, Saudi Arabia chapter",
-        "url": "https://www.hrw.org/world-report/2026/country-chapters/saudi-arabia",
-        "date": "2026",
-        "quote": "Migrant workers continued to face widespread labor abuses, including wage theft and dying in gruesome yet avoidable workplace-related accidents.",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ]
-  },
-  {
     "id": "great-american-insurance-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "great-american-insurance-owner"
     ],
@@ -2909,37 +3392,50 @@
     "reviewed": false
   },
   {
-    "id": "gree-group-zhuhai-sasac-record",
+    "id": "gree-no-controlling-shareholder",
+    "kind": "ownership",
     "ownerIds": [
+      "gree-electric",
       "gree-group-zhuhai-sasac"
     ],
-    "text": "Gree Electric Appliances Inc. of Zhuhai (SZSE: 000651) had Zhuhai Gree Group Co., Ltd. -- a state-owned entity controlled by the Zhuhai Municipal Government/SASAC -- as its largest, controlling shareholder (about 18-19% of shares) until December 2019, when Gree Group sold most of its stake to the private equity vehicle Zhuhai Mingjun, leaving Gree Group with a partial, non-controlling stake (3.44% as of end-2023) and the company with no controlling shareholder at all.",
+    "text": "Gree Electric Appliances has had neither a controlling shareholder nor an actual controller since the state-owned Zhuhai Gree Group's transfer of 15% of its shares to Zhuhai Mingjun was registered in 2020. At the end of 2025, Zhuhai Mingjun held 16.11%, Jinghai Internet 7.83% and Zhuhai Gree Group, a state-owned legal person, 3.46%; Gree Group still held 3.46% at 30 June 2026.",
     "source": {
-      "name": "Zhuhai Gree Group company history (state-owned nature change); Shenzhen Stock Exchange filings on the 2019 Gree Group/Zhuhai Mingjun share transfer",
-      "date": "2024-04",
-      "url": "http://static.cninfo.com.cn/finalpage/2024-06-08/1220300050.PDF",
-      "quote": "On December 13, 2019, the Zhuhai Municipal People's Government and the State-owned Assets Supervision and Administration Commission of the State Council (SASAC) of Zhuhai City separately approved the share transfer.",
+      "name": "Gree Electric Appliances, Inc. of Zhuhai, 2025 Annual Report (English version, CNINFO filing)",
+      "date": "2026-06-17",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-06-17/1225374514.PDF",
+      "quote": "After the completion of the share transfer registration, the Company has neither a controlling shareholder nor an actual controller.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "reviewed": false,
     "additionalSources": [
       {
-        "name": "Caixin Global, \"Gree's Parent Agrees to Sell 15% Stake to Hillhouse's PE Fund\"",
-        "url": "https://www.caixinglobal.com/2019-10-29/grees-parent-agrees-to-sell-15-stake-to-hillhouses-pe-fund-101476236.html",
+        "name": "Gree Electric Appliances, Inc. of Zhuhai, 2026 Half-year Report (Chinese, CNINFO filing): top 10 shareholders",
+        "date": "2026-08-27",
+        "url": "http://static.cninfo.com.cn/finalpage/2026-08-27/1225515004.PDF",
+        "quote": "珠海格力集团有限公司 国有法人 3.46% 193,895,992",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "Caixin Global: Gree’s Parent Agrees to Sell 15% Stake to Hillhouse’s PE Fund",
         "date": "2019-10-29",
+        "url": "https://www.caixinglobal.com/2019-10-29/grees-parent-agrees-to-sell-15-stake-to-hillhouses-pe-fund-101476236.html",
         "quote": "Zhuhai Gree Group Co. Ltd., controlled by the Zhuhai government, agreed to sell its 15% stake in the company to Zhuhai Mingjun Investment Partnership",
         "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
         }
       }
-    ]
+    ],
+    "reviewed": false
   },
   {
     "id": "grupo-bimbo-record",
+    "kind": "ownership",
     "ownerIds": [
       "grupo-bimbo"
     ],
@@ -2958,6 +3454,7 @@
   },
   {
     "id": "grupo-saltoki-record",
+    "kind": "ownership",
     "ownerIds": [
       "grupo-saltoki"
     ],
@@ -2976,6 +3473,7 @@
   },
   {
     "id": "guggenheim-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "guggenheim-owner"
     ],
@@ -2994,6 +3492,7 @@
   },
   {
     "id": "halo-lifestyle-llc-record",
+    "kind": "ownership",
     "ownerIds": [
       "halo-lifestyle-llc"
     ],
@@ -3012,6 +3511,7 @@
   },
   {
     "id": "hansemerkur-krankenversicherung-ag-record",
+    "kind": "ownership",
     "ownerIds": [
       "hansemerkur-krankenversicherung-ag"
     ],
@@ -3030,6 +3530,7 @@
   },
   {
     "id": "haufe-group-se-record",
+    "kind": "ownership",
     "ownerIds": [
       "haufe-group-se"
     ],
@@ -3044,6 +3545,7 @@
   },
   {
     "id": "healthequity-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "healthequity-owner"
     ],
@@ -3061,38 +3563,27 @@
     "reviewed": false
   },
   {
-    "id": "herbalife-ltd-record",
+    "id": "herbalife-major-holders-2026",
+    "kind": "ownership",
     "ownerIds": [
       "herbalife-ltd"
     ],
-    "text": "Herbalife, the LA Galaxy front sponsor, is listed on the NYSE (HLF) with a public float and no state stake. It is rated 'concern' on conduct, not ownership: in July 2016 Herbalife settled FTC charges for $200m and was forced to restructure distributor rewards after the FTC found misleading earnings claims in its multi-level marketing model - the distributor network being the human-rights/consumer-pressure point. Otherwise unremarkable.",
-    "short": "Herbalife, the LA Galaxy front sponsor, is listed on the NYSE (HLF) with a public float and no state stake.",
+    "text": "Herbalife Ltd.'s 2026 proxy statement lists six owners of more than 5% of its common shares: The Vanguard Group (12.08%), Nantahala Capital Management (8.40%), The Baupost Group (8.33%), Route One Investment Company (7.28%), BlackRock (7.16%) and Renaissance Technologies (5.43%).",
     "source": {
-      "name": "US Federal Trade Commission press release - Herbalife $200m settlement",
-      "date": "2016-07-15",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2016/07/herbalife-will-restructure-its-multi-level-marketing-operations-pay-200-million-consumer-redress",
-      "quote": "Herbalife International of America, Inc., Herbalife International, Inc., and Herbalife, Ltd. have agreed to fully restructure their U.S. business operations and pay $200 million",
+      "name": "Herbalife Ltd.: 2026 Proxy Statement (Schedule 14A), 'Security ownership of certain beneficial owners and management' (SEC EDGAR)",
+      "date": "2026-03-17",
+      "url": "https://www.sec.gov/Archives/edgar/data/1180262/000121390026029131/ea0276754-01.htm",
+      "quote": "The Vanguard Group(13) 12,495,374 12.08% Nantahala Capital Management, LLC(14) 8,681,857 8.40% The Baupost Group, L.L.C.(15) 8,609,420 8.33% Route One Investment Company, L.P.(16) 7,528,938 7.28% BlackRock, Inc.(17) 7,401,578 7.16% Renaissance Technologies LLC(18) 5,619,568 5.43%",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "reviewed": false,
-    "additionalSources": [
-      {
-        "name": "Herbalife Ltd. SEC Form 8-K, Exhibit 99.1 (company press release filed with SEC)",
-        "url": "https://www.sec.gov/Archives/edgar/data/0001180262/000119312516649046/d222756dex991.htm",
-        "date": "2016-07-15",
-        "quote": "Herbalife also agreed to make a $200 million payment to the FTC as part of the settlement.",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ]
+    "reviewed": false
   },
   {
     "id": "hibob-record",
+    "kind": "ownership",
     "ownerIds": [
       "hibob"
     ],
@@ -3112,6 +3603,7 @@
   },
   {
     "id": "highmark-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "highmark-owner"
     ],
@@ -3130,6 +3622,7 @@
   },
   {
     "id": "hinduja-group-record",
+    "kind": "ownership",
     "ownerIds": [
       "hinduja-group"
     ],
@@ -3148,6 +3641,7 @@
   },
   {
     "id": "honda-motor-co-ltd-record",
+    "kind": "ownership",
     "ownerIds": [
       "honda-motor-co-ltd"
     ],
@@ -3166,6 +3660,7 @@
   },
   {
     "id": "hp-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "hp-inc"
     ],
@@ -3185,6 +3680,7 @@
   },
   {
     "id": "hugo-boss-ag-record",
+    "kind": "ownership",
     "ownerIds": [
       "hugo-boss-ag"
     ],
@@ -3203,6 +3699,7 @@
   },
   {
     "id": "huntington-national-bank-huntington-bancshares-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "huntington-national-bank-huntington-bancshares-owner"
     ],
@@ -3221,6 +3718,7 @@
   },
   {
     "id": "hyundai-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "hyundai-motor-group"
     ],
@@ -3251,6 +3749,7 @@
   },
   {
     "id": "ibm-corp-record",
+    "kind": "ownership",
     "ownerIds": [
       "ibm-corp"
     ],
@@ -3268,38 +3767,58 @@
     "reviewed": false
   },
   {
-    "id": "ifs-ab-record",
+    "id": "ifs-board-2026",
+    "kind": "ownership",
     "ownerIds": [
       "ifs-ab"
     ],
-    "text": "IFS, the Cadillac F1 partner, is controlled by private equity: EQT holds control and Hg became a co-control shareholder in April 2025, with TA Associates and new investors including a wholly owned subsidiary of the Abu Dhabi Investment Authority (ADIA) alongside CPP Investments, in a deal valuing IFS at EUR15bn. ADIA is a sovereign wealth fund, so this is a partial state-fund stake - 'concern' rather than 'serious', since the state money is minority. Human-rights relevance: UAE sovereign capital at minority level plus PE leverage.",
-    "short": "IFS, the Cadillac F1 partner, is controlled by private equity: EQT holds control and Hg became a co-control shareholder in April 2025, with TA Associates and new….",
+    "text": "IFS lists its board of directors as Darren Roos (chair), Nic Humphries, Hanna Jacobsson, Johannes Reichel, Jacqueline de Rojas, Adam Scheid, Naveen Wadhera, John Walsh and Jonathan Wulkan.",
     "source": {
-      "name": "EQT / Hg / TA Associates press release - IFS valued at EUR 15bn in minority stake sale",
-      "date": "2025-04-09",
-      "url": "https://mb.cision.com/Main/87/4133272/3378631.pdf",
-      "quote": "New investors in this transaction include a wholly-owned subsidiary of the Abu Dhabi Investment Authority (“ADIA”) and the Canada Pension Plan Investment Board (“CPP Investments”).",
+      "name": "IFS: Leadership, Board of Directors (undated page, read September 2026)",
+      "date": "2026-09",
+      "url": "https://www.ifs.com/en/about/leadership",
+      "quote": "Board of Directors Darren Roos Chair of the Board Read bio Nic Humphries Board Director",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "reviewed": false,
+    "reviewed": false
+  },
+  {
+    "id": "ifs-shareholders-2025",
+    "kind": "ownership",
+    "ownerIds": [
+      "ifs-ab"
+    ],
+    "text": "IFS is co-controlled by the private-equity firms EQT and Hg, with TA Associates remaining a minority shareholder; new minority shareholders include a wholly owned subsidiary of the Abu Dhabi Investment Authority (ADIA) and CPP Investments.",
+    "source": {
+      "name": "IFS: IFS Attracts EUR 15 billion Valuation as Demand for Industrial AI Soars",
+      "date": "2025-04-09",
+      "url": "https://www.ifs.com/en/insights/news/ifs-attracts-eur-15-billion-valuation",
+      "quote": "The valuation comes as Hg increases its stake to become a co-control shareholder alongside EQT, with TA Associates (“TA”) remaining as minority shareholder.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
     "additionalSources": [
       {
-        "name": "PE Hub, ‘EQT sells part of IFS stake amid €15bn valuation’ by Sophie Rose",
-        "url": "https://www.pehub.com/eqt-sells-part-of-ifs-stake-amid-e15bn-valuation/",
+        "name": "EQT, Hg, TA and IFS press release (Cision PDF): EQT, Hg and TA-owned IFS valued at EUR 15 billion in minority stake sale",
         "date": "2025-04-09",
-        "quote": "The valuation has been made following investment from Hg, ADIA and CPP Investments.",
+        "url": "https://mb.cision.com/Main/87/4133272/3378631.pdf",
+        "quote": "New minority shareholders also include a wholly-owned subsidiary of the Abu Dhabi Investment Authority (“ADIA”) and the Canada Pension Plan Investment Board (“CPP Investments”).",
         "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
         }
       }
-    ]
+    ],
+    "reviewed": false
   },
   {
     "id": "ihc-record",
+    "kind": "ownership",
     "ownerIds": [
       "international-holding-company",
       "government-of-abu-dhabi"
@@ -3314,6 +3833,7 @@
   },
   {
     "id": "indeed-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "indeed-inc"
     ],
@@ -3328,6 +3848,7 @@
   },
   {
     "id": "independence-blue-cross-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "independence-blue-cross-owner"
     ],
@@ -3347,6 +3868,7 @@
   },
   {
     "id": "ineos-group-limited-record",
+    "kind": "ownership",
     "ownerIds": [
       "ineos-group-limited"
     ],
@@ -3365,6 +3887,7 @@
   },
   {
     "id": "intermountain-health-record",
+    "kind": "ownership",
     "ownerIds": [
       "intermountain-health"
     ],
@@ -3384,6 +3907,7 @@
   },
   {
     "id": "international-capital-markets-record",
+    "kind": "ownership",
     "ownerIds": [
       "international-capital-markets"
     ],
@@ -3401,38 +3925,27 @@
     "reviewed": false
   },
   {
-    "id": "intuit-intuit-inc-nasdaq-intu-owner-record",
+    "id": "intuit-major-holders-2026",
+    "kind": "ownership",
     "ownerIds": [
       "intuit-intuit-inc-nasdaq-intu-owner"
     ],
-    "text": "Intuit Inc. is a Nasdaq-listed (INTU) Delaware corporation and its own proxy statement shows the only shareholders above 5% are index managers The Vanguard Group at 10.28% and BlackRock, Inc. at 8.39%, with founder Scott D. Cook at 2.21% - there is no state, sovereign-wealth or state-fund holder anywhere in the register; the conduct record is the FTC's final order of 22 January 2024 finding Intuit's 'free' TurboTax advertising deceptive, following a $141m restitution settlement with all 50 state attorneys general in May 2022.",
-    "short": "Intuit Inc.",
+    "text": "Intuit Inc.'s 2026 proxy statement lists two owners of more than 5% of its common stock: The Vanguard Group (10.28%) and BlackRock, Inc. (8.39%).",
     "source": {
-      "name": "Intuit Inc. DEF 14A (2026 proxy), Security Ownership Table, filed with the SEC",
+      "name": "Intuit Inc.: 2026 Proxy Statement (Schedule 14A), Security Ownership Table (SEC EDGAR)",
       "date": "2025-11-26",
       "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000057/intu-20251126.htm",
-      "quote": "5% Stockholders: The Vanguard Group (19) 28,621,457 10.28 % BlackRock, Inc. (20) 23,374,934 8.39 %",
+      "quote": "5% Stockholders: The Vanguard Group(19) 28,621,457 10.28 % BlackRock, Inc.(20) 23,374,934 8.39 %",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "reviewed": false,
-    "additionalSources": [
-      {
-        "name": "Federal Trade Commission press release, \"FTC Issues Opinion Finding that TurboTax Maker Intuit Inc. Engaged in Deceptive Practices\"",
-        "url": "https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-issues-opinion-finding-turbotax-maker-intuit-inc-engaged-deceptive-practices",
-        "date": "2024-01-22",
-        "quote": "engaged in deceptive advertising in violation of the FTC Act and deceived consumers when it ran ads for “free” tax products and services for which many consumers were ineligible.",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ]
+    "reviewed": false
   },
   {
     "id": "iren-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "iren-owner"
     ],
@@ -3452,6 +3965,7 @@
   },
   {
     "id": "jasper-white-record",
+    "kind": "ownership",
     "ownerIds": [
       "jasper-white"
     ],
@@ -3470,6 +3984,7 @@
   },
   {
     "id": "jpmorgan-chase-chase-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "jpmorgan-chase-owner"
     ],
@@ -3499,37 +4014,27 @@
     "reviewed": false
   },
   {
-    "id": "jpmorgan-chase-fossil-finance-2025",
+    "id": "jpmorgan-chase-major-holders-2026",
+    "kind": "ownership",
     "ownerIds": [
       "jpmorgan-chase-owner"
     ],
-    "text": "The 2026 Banking on Climate Chaos report by Rainforest Action Network and other groups found that JPMorgan Chase was the largest financier of fossil fuel companies among the world's 65 largest banks in 2025, providing about $58 billion.",
+    "text": "JPMorgan Chase & Co.'s 2026 proxy statement lists two owners of more than 5% of its common stock as of 31 December 2025: The Vanguard Group (9.86%) and BlackRock, Inc. (7.15%).",
     "source": {
-      "name": "Rainforest Action Network (with BankTrack, Sierra Club, Reclaim Finance et al.): Banking on Climate Chaos 2026 press release",
-      "date": "2026-06-08",
-      "url": "https://www.ran.org/press-releases/bocc26/",
-      "quote": "JPMorgan Chase remains the #1 fossil fuel financier in the world, providing $58 billion to fossil fuel companies in 2025",
+      "name": "JPMorgan Chase & Co.: 2026 Proxy Statement (Schedule 14A), 'Security ownership of directors and executive officers' (SEC EDGAR)",
+      "date": "2026-04-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm",
+      "quote": "The Vanguard Group1 100 Vanguard Blvd, Malvern, PA 19355 265,758,185 9.86 BlackRock, Inc.2 50 Hudson Yards, New York, NY 10001 192,831,104 7.15",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "additionalSources": [
-      {
-        "name": "ESG Dive (Lamar Johnson): Banks' fossil fuel financing increased 8% in 2025: report",
-        "date": "2026-06-09",
-        "url": "https://www.esgdive.com/news/banks-fossil-fuel-financing-increased-8-in-2025-report/822387/",
-        "quote": "JPMorgan Chase was the top financier of fossil fuel financing for the third year in a row",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ],
     "reviewed": false
   },
   {
     "id": "jpmorganchase-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "jpmorganchase-owner"
     ],
@@ -3549,6 +4054,7 @@
   },
   {
     "id": "judi-health-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "judi-health-owner"
     ],
@@ -3567,6 +4073,7 @@
   },
   {
     "id": "kaizen-gaming-record",
+    "kind": "ownership",
     "ownerIds": [
       "kaizen-gaming"
     ],
@@ -3585,6 +4092,7 @@
   },
   {
     "id": "kaleida-health-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "kaleida-health-owner"
     ],
@@ -3603,6 +4111,7 @@
   },
   {
     "id": "kaseya-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "kaseya-owner"
     ],
@@ -3620,22 +4129,8 @@
     "reviewed": false
   },
   {
-    "id": "kazakhstan-hrw-record",
-    "ownerIds": [
-      "government-of-kazakhstan",
-      "samruk-kazyna"
-    ],
-    "text": "Human Rights Watch reports that Kazakhstan continues to restrict freedoms of expression, association and assembly, prosecutes critics on overbroad 'extremism' charges, and has failed to fully investigate the January 2022 protests that left 238 dead and where detainees were tortured; the UN Human Rights Committee raised serious concerns about torture and use of force against civil society.",
-    "short": "Kazakhstan: restricted freedoms, torture, unpunished January 2022 deaths",
-    "source": {
-      "name": "Human Rights Watch — World Report 2026, Kazakhstan chapter",
-      "date": "2026-01-15",
-      "url": "https://www.hrw.org/world-report/2026/country-chapters/kazakhstan"
-    },
-    "reviewed": false
-  },
-  {
     "id": "khashoggi-assessment",
+    "kind": "record",
     "ownerIds": [
       "government-of-saudi-arabia",
       "saudi-pif"
@@ -3668,6 +4163,7 @@
   },
   {
     "id": "kia-america-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "kia-america-owner"
     ],
@@ -3698,6 +4194,7 @@
   },
   {
     "id": "knox-hydrate-pty-ltd-record",
+    "kind": "ownership",
     "ownerIds": [
       "knox-hydrate-pty-ltd"
     ],
@@ -3716,6 +4213,7 @@
   },
   {
     "id": "komatsu-ltd-record",
+    "kind": "ownership",
     "ownerIds": [
       "komatsu-ltd"
     ],
@@ -3733,38 +4231,27 @@
     "reviewed": false
   },
   {
-    "id": "kroger-owner-record",
+    "id": "kroger-major-holders-2026",
+    "kind": "ownership",
     "ownerIds": [
       "kroger-owner"
     ],
-    "text": "Kroger agreed to pay up to $1.4 billion to settle opioid lawsuits with states, counties and tribes in 2023.",
-    "short": "Kroger agreed to pay up to $1.4 billion to settle opioid lawsuits with states, counties and tribes in 2023.",
+    "text": "The Kroger Co.'s 2026 proxy statement lists three owners of more than 5% of its common shares: BlackRock, Inc. (7.5%), Berkshire Hathaway Inc. (7.0%) and State Street Corporation (5.1%).",
     "source": {
-      "name": "Los Angeles Times article on Kroger opioid settlement",
-      "date": "2023-09-08",
-      "url": "https://www.latimes.com/business/story/2023-09-08/kroger-agrees-to-pay-up-to-1-4-billion-to-settle-opioid-lawsuits",
-      "quote": "Kroger Co. will pay up to $1.4 billion over 11 years.",
+      "name": "The Kroger Co.: 2026 Proxy Statement (Schedule 14A), beneficial owners of more than five percent (SEC EDGAR)",
+      "date": "2026-05-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465926060250/tm261573d1_def14a.htm",
+      "quote": "Berkshire Hathaway Inc. 3555 Farnman Street Omaha, NE 68131 50,000,000(1) 7.0% BlackRock, Inc. 50 Hudson Yards New York, NY 10001 54,223,923(2) 7.5% State Street Corporation One Congress Street, Suite 1 Boston, MA 02114 31,992,265(3) 5.1%",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "reviewed": false,
-    "additionalSources": [
-      {
-        "name": "CNBC, \"Kroger will pay up to $1.2 billion to settle most nationwide opioid claims\"",
-        "url": "https://www.cnbc.com/2023/09/08/kroger-will-pay-up-to-1point2-billion-to-settle-most-nationwide-opioid-claims.html",
-        "date": "2023-09-08",
-        "quote": "Kroger will pay $1.2 billion to U.S. states and local governments and $36 million to Native American tribes over 11 years.",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ]
+    "reviewed": false
   },
   {
     "id": "kutxabank-sa-record",
+    "kind": "ownership",
     "ownerIds": [
       "kutxabank-sa"
     ],
@@ -3783,52 +4270,82 @@
     "reviewed": false
   },
   {
-    "id": "lenovo-china-record",
+    "id": "legend-cas-holdings-stake-2026",
+    "kind": "ownership",
     "ownerIds": [
-      "lenovo-group-limited",
-      "legend-holdings"
+      "legend-holdings",
+      "chinese-academy-of-sciences-holdings"
     ],
-    "text": "Lenovo Group Limited is Hong Kong-listed and its largest shareholder is Legend Holdings Corporation at 31.41% (as of 31 Mar 2025). Legend's own largest shareholder is reported to be Chinese Academy of Sciences Holdings (CAS), giving an indirect, minority state link.",
+    "text": "Chinese Academy of Sciences Holdings (CAS Holdings) is Legend Holdings' largest shareholder, with 29.04% of its shares at 30 June 2026.",
     "source": {
-      "name": "Lenovo Investor Relations - Shareholding Structure",
-      "date": "2025-03-31",
-      "url": "https://investor.lenovo.com/en/ir/shareholding.php"
+      "name": "Legend Holdings Corporation, 2026 Interim Report (HKEX filing): interests of the substantial shareholders",
+      "date": "2026-09-22",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0922/2026092200438.pdf",
+      "quote": "CAS Holdings Domestic Shares Beneficial owner 684,376,910 63.11% 29.04%",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
     },
+    "additionalSources": [
+      {
+        "name": "U.S. House Select Committee on the CCP: letter from Chairman Mike Gallagher to Navy Exchange Service Command",
+        "date": "2023-10-04",
+        "url": "https://chinaselectcommittee.house.gov/sites/evo-subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/10.04.2023-letter-to-navy-exchange.pdf",
+        "quote": "the largest shareholder of Lenovo is Legend Holdings, a Chinese entity whose largest shareholder is the Chinese Academy of Sciences.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
-    "id": "lenovo-group-ltd-record",
+    "id": "lenovo-legend-stake-2026",
+    "kind": "ownership",
     "ownerIds": [
-      "lenovo-group-ltd"
+      "lenovo-group-ltd",
+      "legend-holdings"
     ],
-    "text": "Lenovo, Formula 1's league-level partner, is listed in Hong Kong (992) and its largest shareholder is Legend Holdings Corporation with about 31.4% - Legend's own annual report records both that holding and Chinese Academy of Sciences Holdings Co., Ltd. (CAS Holdings) as a substantial shareholder with roughly 29% of Legend. There is therefore a real but indirect Chinese state (CAS) interest of only about 9% economic - 'concern', not 'serious'. Human-rights relevance: Chinese state-linked ownership and hardware supply-chain/labour exposure.",
-    "short": "Lenovo, Formula 1's league-level partner, is listed in Hong Kong (992) and its largest shareholder is Legend Holdings Corporation with about 31.4% - Legend's own….",
+    "text": "Legend Holdings directly and indirectly held 32.95% of Lenovo at 30 June 2026, and Lenovo's annual report gives Legend's holding as 32.04% at 31 March 2026. Legend reports that it has de facto control over Lenovo, although it holds less than 50% of the votes.",
     "source": {
-      "name": "Legend Holdings Corporation Annual Report 2023 (HKEX filing) - shareholding table and substantial-shareholder definitions",
-      "date": "2024-04-25",
-      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/0425/2024042500436.pdf",
-      "quote": "As of December 31, 2023, Legend Holdings held a 31.44% equity interest in Lenovo, directly and indirectly.",
+      "name": "Legend Holdings Corporation, 2026 Interim Report (HKEX filing)",
+      "date": "2026-09-22",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0922/2026092200438.pdf",
+      "quote": "As of June 30, 2026, Legend Holdings directly and indirectly held a 32.95% equity interest in Lenovo.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "reviewed": false,
     "additionalSources": [
       {
-        "name": "U.S. House Select Committee on the Chinese Communist Party, letter from Chairman Mike Gallagher to Navy Exchange Service Command CEO Robert J. Bianchi",
-        "url": "https://chinaselectcommittee.house.gov/sites/evo-subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/10.04.2023-letter-to-navy-exchange.pdf",
-        "date": "2023-10-04",
-        "quote": "the largest shareholder of Lenovo is Legend Holdings, a Chinese entity whose largest shareholder is the Chinese Academy of Sciences.",
+        "name": "Lenovo Group Limited, 2025/26 Annual Report (hosted by irasia.com, linked from Lenovo's investor site)",
+        "date": "2026-06-26",
+        "url": "https://doc.irasia.com/listco/hk/lenovo/annual/2026/ar2026.pdf",
+        "quote": "As at March 31, 2026, Legend Holdings, together with Right Lane, Kind Jasper, Legion Elite and Honorific Promise, directly or indirectly held 32.04%",
         "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "Legend Holdings Corporation, 2025 Annual Report (HKEX filing)",
+        "date": "2026-04-28",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042800928.pdf",
+        "quote": "Management consider that the Group has de facto control over Lenovo even though it has less than 50% of the voting rights",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
         }
       }
-    ]
+    ],
+    "reviewed": false
   },
   {
     "id": "levi-strauss-and-co-levi-s-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "levi-strauss-and-co-levi-s-owner"
     ],
@@ -3848,6 +4365,7 @@
   },
   {
     "id": "libertex-group-record",
+    "kind": "ownership",
     "ownerIds": [
       "libertex-group"
     ],
@@ -3866,6 +4384,7 @@
   },
   {
     "id": "lincoln-financial-group-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "lincoln-financial-group-owner"
     ],
@@ -3880,6 +4399,7 @@
   },
   {
     "id": "little-caesars-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "little-caesars-owner"
     ],
@@ -3894,6 +4414,7 @@
   },
   {
     "id": "loves-travel-stops-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "loves-travel-stops-owner"
     ],
@@ -3913,6 +4434,7 @@
   },
   {
     "id": "lucas-oil-products-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "lucas-oil-products-owner"
     ],
@@ -3932,6 +4454,7 @@
   },
   {
     "id": "lvcva-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "lvcva-owner"
     ],
@@ -3951,6 +4474,7 @@
   },
   {
     "id": "lvmh-record",
+    "kind": "ownership",
     "ownerIds": [
       "lvmh"
     ],
@@ -3969,6 +4493,7 @@
   },
   {
     "id": "m-and-t-bank-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "m-and-t-bank-owner"
     ],
@@ -3988,6 +4513,7 @@
   },
   {
     "id": "m23-coltan-levies",
+    "kind": "record",
     "ownerIds": [
       "government-of-rwanda"
     ],
@@ -4018,6 +4544,7 @@
   },
   {
     "id": "malaysia-migrant-worker-exploitation",
+    "kind": "record",
     "ownerIds": [
       "gov-malaysia"
     ],
@@ -4048,6 +4575,7 @@
   },
   {
     "id": "mapei-spa-record",
+    "kind": "ownership",
     "ownerIds": [
       "mapei-spa"
     ],
@@ -4066,6 +4594,7 @@
   },
   {
     "id": "maple-invest-record",
+    "kind": "ownership",
     "ownerIds": [
       "maple-invest"
     ],
@@ -4084,6 +4613,7 @@
   },
   {
     "id": "marathon-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "marathon-owner"
     ],
@@ -4103,6 +4633,7 @@
   },
   {
     "id": "marex-group-plc-record",
+    "kind": "ownership",
     "ownerIds": [
       "marex-group-plc"
     ],
@@ -4121,6 +4652,7 @@
   },
   {
     "id": "massmutual-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "massmutual-owner"
     ],
@@ -4140,6 +4672,7 @@
   },
   {
     "id": "mastercard-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "mastercard-inc"
     ],
@@ -4159,6 +4692,7 @@
   },
   {
     "id": "mateschitz-yoovidhya-families-record",
+    "kind": "ownership",
     "ownerIds": [
       "mateschitz-yoovidhya-families"
     ],
@@ -4177,6 +4711,7 @@
   },
   {
     "id": "matthaei-gruppe-record",
+    "kind": "ownership",
     "ownerIds": [
       "matthaei-gruppe"
     ],
@@ -4196,6 +4731,7 @@
   },
   {
     "id": "mazepin-uralchem-stake-2022",
+    "kind": "ownership",
     "ownerIds": [
       "uralchem"
     ],
@@ -4226,6 +4762,7 @@
   },
   {
     "id": "mediacom-communications-corp-record",
+    "kind": "ownership",
     "ownerIds": [
       "mediacom-communications-corp"
     ],
@@ -4245,6 +4782,7 @@
   },
   {
     "id": "meijer-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "meijer-owner"
     ],
@@ -4264,6 +4802,7 @@
   },
   {
     "id": "memorial-hermann-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "memorial-hermann-owner"
     ],
@@ -4283,6 +4822,7 @@
   },
   {
     "id": "mengniu-cofco-record",
+    "kind": "ownership",
     "ownerIds": [
       "mengniu-dairy",
       "cofco"
@@ -4297,6 +4837,7 @@
   },
   {
     "id": "mercedes-benz-group-record",
+    "kind": "ownership",
     "ownerIds": [
       "mercedes-benz-group"
     ],
@@ -4311,6 +4852,7 @@
   },
   {
     "id": "mgm-resorts-record",
+    "kind": "ownership",
     "ownerIds": [
       "mgm-resorts"
     ],
@@ -4329,6 +4871,7 @@
   },
   {
     "id": "microsoft-corporation-record",
+    "kind": "ownership",
     "ownerIds": [
       "microsoft-corporation"
     ],
@@ -4347,6 +4890,7 @@
   },
   {
     "id": "mk-sports-news-record",
+    "kind": "ownership",
     "ownerIds": [
       "mk-sports-news"
     ],
@@ -4364,7 +4908,39 @@
     "reviewed": false
   },
   {
+    "id": "mobil-1-exxonmobil-brand",
+    "kind": "ownership",
+    "ownerIds": [
+      "exxon-mobil-corporation"
+    ],
+    "text": "Mobil 1 is a lubricants brand of Exxon Mobil Corporation.",
+    "source": {
+      "name": "Exxon Mobil Corporation: Form 10-K for fiscal year 2025, Specialty Products (SEC EDGAR)",
+      "date": "2026-02-18",
+      "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
+      "quote": "Specialty Products is well-positioned to help meet the demand for premium lubricant products through advantaged projects that leverage ExxonMobil's integration, technology, and world-class brands, such as Mobil 1",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Visa Cash App Racing Bulls: New Partnership With ExxonMobil",
+        "date": "2025-03-12",
+        "url": "https://www.visacashapprb.com/int-en/2025-exxonmobil-partnership",
+        "quote": "Visa Cash App Racing Bulls has today announced its new partnership with ExxonMobil as it becomes the Fuels and Lubricants Partner to VCARB in a new sponsorship with the Mobil, Esso and Mobil 1 brands.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "moda-health-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "moda-health-owner"
     ],
@@ -4379,6 +4955,7 @@
   },
   {
     "id": "moeve-mubadala-record",
+    "kind": "ownership",
     "ownerIds": [
       "moeve",
       "mubadala"
@@ -4394,6 +4971,7 @@
   },
   {
     "id": "mondofix-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "mondofix-inc"
     ],
@@ -4412,6 +4990,7 @@
   },
   {
     "id": "monzo-bank-limited-record",
+    "kind": "ownership",
     "ownerIds": [
       "monzo-bank-limited"
     ],
@@ -4430,8 +5009,9 @@
   },
   {
     "id": "motorola-mobility-owner-record",
+    "kind": "ownership",
     "ownerIds": [
-      "motorola-mobility-owner"
+      "lenovo-group-ltd"
     ],
     "text": "Lenovo Group Limited completed its purchase of Motorola Mobility from Google on 30 October 2014, making Motorola Mobility a wholly owned Lenovo subsidiary.",
     "source": {
@@ -4460,6 +5040,7 @@
   },
   {
     "id": "motors-record",
+    "kind": "ownership",
     "ownerIds": [
       "motors"
     ],
@@ -4478,6 +5059,7 @@
   },
   {
     "id": "msc-group-aponte-family-record",
+    "kind": "ownership",
     "ownerIds": [
       "msc-group-aponte-family"
     ],
@@ -4496,37 +5078,8 @@
     "reviewed": false
   },
   {
-    "id": "mubadala-record",
-    "ownerIds": [
-      "mubadala"
-    ],
-    "text": "G42 counts Mubadala, Abu Dhabi's sovereign wealth fund, as an investor and is chaired by Sheikh Tahnoon bin Zayed Al Nahyan, a member of Abu Dhabi's ruling family.",
-    "source": {
-      "name": "Reuters (via Yahoo Finance): Mubadala-backed AI firm G42 sets up $10 billion tech fund",
-      "date": "2022-08-18",
-      "url": "https://finance.yahoo.com/news/mubadala-backed-ai-firm-g42-074344238.html",
-      "quote": "G42, which also counts Abu Dhabi sovereign wealth fund Mubadala as an investor",
-      "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
-      }
-    },
-    "additionalSources": [
-      {
-        "name": "Forbes (Robert Hart): What To Know About G42, The Emirati AI Giant That Just Got A $1.5 Billion Investment From Microsoft",
-        "date": "2024-04-16",
-        "url": "https://www.forbes.com/sites/roberthart/2024/04/16/what-to-know-about-g42-the-emirati-ai-giant-that-just-got-a-15-billion-investment-from-microsoft/",
-        "quote": "most powerful members of Abu Dhabi's royal family and UAE national security adviser Sheikh Tahnoon bin Zayed Al Nahyan, as well as backed by Emirati sovereign wealth fund Mubadala.",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ],
-    "reviewed": false
-  },
-  {
     "id": "mubadala-uae-convictions-upheld",
+    "kind": "record",
     "ownerIds": [
       "mubadala"
     ],
@@ -4557,6 +5110,7 @@
   },
   {
     "id": "nationwide-mutual-insurance-company-record",
+    "kind": "ownership",
     "ownerIds": [
       "nationwide-mutual-insurance-company"
     ],
@@ -4576,6 +5130,7 @@
   },
   {
     "id": "natural-nine-bv-record",
+    "kind": "ownership",
     "ownerIds": [
       "natural-nine-bv"
     ],
@@ -4595,6 +5150,7 @@
   },
   {
     "id": "nestle-sa-record",
+    "kind": "ownership",
     "ownerIds": [
       "nestle-sa"
     ],
@@ -4613,6 +5169,7 @@
   },
   {
     "id": "netapp-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "netapp-inc"
     ],
@@ -4631,6 +5188,7 @@
   },
   {
     "id": "newyork-presbyterian-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "newyork-presbyterian-owner"
     ],
@@ -4649,6 +5207,7 @@
   },
   {
     "id": "nissan-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "nissan-owner"
     ],
@@ -4678,7 +5237,49 @@
     "reviewed": false
   },
   {
+    "id": "noon-pif-stake",
+    "kind": "ownership",
+    "ownerIds": [
+      "saudi-pif"
+    ],
+    "text": "Saudi Arabia's Public Investment Fund (PIF) owns 50% of noon, which it accounts for as a joint venture; the other half is held by investors led by founder Mohamed Alabbar.",
+    "source": {
+      "name": "Public Investment Fund: Consolidated Financial Statements for the year ended 31 December 2024 (archived copy of pif.gov.sa PDF), note 12.4 (investment in joint ventures)",
+      "date": "2025-06-29",
+      "url": "https://web.archive.org/web/20260403121124id_/https://www.pif.gov.sa/-/media/project/pif-corporate/pif-corporate-site/our-financials/financial-statements/pdfs/consolidated-financial-statements-2024.pdf",
+      "quote": "Noon Investments Company (“Noon”) Consumer Discretionary 50% 50% Kingdom of Saudi Arabia",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "The National: Alabbar’s Noon.com launches operations in Saudi Arabia",
+        "date": "2017-12-12",
+        "url": "https://www.thenationalnews.com/business/alabbar-s-noon-com-launches-operations-in-saudi-arabia-1.683903",
+        "quote": "US$1bn e-commerce platform is 50 per cent owned by Saudi Arabia's Public Investment Fund (PIF)",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "Bloomberg (Zainab Fattah): Amazon Rival Noon to Draw $2 Billion From PIF, Other Backers (via Yahoo Finance)",
+        "date": "2021-10-04",
+        "url": "https://finance.yahoo.com/news/amazon-rival-noon-raise-2-074827989.html",
+        "quote": "Alabbar, who owns 50% of Noon jointly with other regional private investors, raised $1 billion from backers including the PIF to create the firm in 2016.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "northwest-federal-credit-union-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "northwest-federal-credit-union-owner"
     ],
@@ -4697,6 +5298,7 @@
   },
   {
     "id": "northwestern-mutual-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "northwestern-mutual-owner"
     ],
@@ -4715,6 +5317,7 @@
   },
   {
     "id": "occidental-petroleum-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "occidental-petroleum-owner"
     ],
@@ -4733,38 +5336,58 @@
     "reviewed": false
   },
   {
-    "id": "okx-group-record",
+    "id": "okx-founder-star-xu",
+    "kind": "ownership",
     "ownerIds": [
       "okx-group"
     ],
-    "text": "No state shareholder found. Sustained regulatory record: OKX's operating entity Aux Cayes FinTech Co. Ltd pleaded guilty in the US (SDNY) to violating anti-money laundering law and agreed to penalties totalling more than $500m.",
-    "short": "No state shareholder found.",
+    "text": "Mingxing \"Star\" Xu is the founder of Okcoin and of OKX (formerly OKEx).",
     "source": {
-      "name": "US Department of Justice, SDNY press release",
-      "date": "2025-02-24",
-      "url": "https://www.justice.gov/usao-sdny/pr/okx-pleads-guilty-violating-us-anti-money-laundering-laws-and-agrees-pay-penalties",
-      "quote": "OKX agreed to pay monetary penalties totaling more than $504 million.",
+      "name": "OKX Learn: Who is the Founder of OKB? OKX Leadership & Team",
+      "date": "2025-12-11",
+      "url": "https://www.okx.com/en-us/learn/who-is-okb-founder",
+      "quote": "OKB was founded by Mingxing “Star” Xu, the visionary entrepreneur behind Okcoin, OKEx (now OKX)",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "reviewed": false,
     "additionalSources": [
       {
-        "name": "Cointelegraph, ‘OKX pleads guilty, pays $505M to settle DOJ charges’ by Brayden Lindrea",
-        "url": "https://cointelegraph.com/news/okx-settle-us-doj-anti-money-laundering-probe",
-        "date": "2025-02-24",
-        "quote": "OKX's Aux Cayes FinTech Co. Ltd agreed to pay over $500 million worth of fines for operating an unlicensed money-transmitting business.",
+        "name": "CoinDesk (Sebastian Sinclair): Star Xu Surfaces From Detention as OKEx's Mystery Key Holder Also Returns",
+        "date": "2020-11-20",
+        "url": "https://www.coindesk.com/business/2020/11/20/star-xu-surfaces-from-detention-as-okexs-mystery-key-holder-also-returns",
+        "quote": "Mingxing “Star” Xu, founder of OKCoin and CEO of OK Group",
         "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
         }
       }
-    ]
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "okx-ultimate-controlling-party",
+    "kind": "ownership",
+    "ownerIds": [
+      "okx-group"
+    ],
+    "text": "The accounts of OKX UK Fintech Company Limited, filed at Companies House in March 2026, name OKC Holdings Corporation (Cayman Islands) as its ultimate parent company and Xu Mingxing as its ultimate controlling party, through his shareholding in OKC Holdings Corporation.",
+    "source": {
+      "name": "Companies House: OKX UK Fintech Company Limited (company 14670378), financial statements for the year ended 31 March 2025, note 11 'Control'",
+      "date": "2026-03-13",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/14670378/filing-history/MzUxMDIyNjczOGFkaXF6a2N4/document?format=xhtml&download=1",
+      "quote": "The company's ultimate parent company is OKC Holdings Corporation, a company registered in the Cayman Islands. The ultimate controlling party is Xu Mingxing, by virtue of his shareholding in OKC Holdings Corporation.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "reviewed": false
   },
   {
     "id": "oracle-corporation-record",
+    "kind": "ownership",
     "ownerIds": [
       "oracle-corporation"
     ],
@@ -4783,6 +5406,7 @@
   },
   {
     "id": "orlando-health-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "orlando-health-inc"
     ],
@@ -4802,6 +5426,7 @@
   },
   {
     "id": "osceola-county-tourism-authority-record",
+    "kind": "ownership",
     "ownerIds": [
       "osceola-county-tourism-authority"
     ],
@@ -4820,6 +5445,7 @@
   },
   {
     "id": "pamesa-grupo-empresarial-record",
+    "kind": "ownership",
     "ownerIds": [
       "pamesa-grupo-empresarial"
     ],
@@ -4839,6 +5465,7 @@
   },
   {
     "id": "paycom-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "paycom-owner"
     ],
@@ -4857,6 +5484,7 @@
   },
   {
     "id": "paycor-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "paycor-owner"
     ],
@@ -4871,6 +5499,7 @@
   },
   {
     "id": "payward-record",
+    "kind": "ownership",
     "ownerIds": [
       "payward"
     ],
@@ -4889,6 +5518,7 @@
   },
   {
     "id": "paze-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "paze-owner"
     ],
@@ -4908,6 +5538,7 @@
   },
   {
     "id": "perdue-farms-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "perdue-farms-owner"
     ],
@@ -4927,6 +5558,7 @@
   },
   {
     "id": "petco-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "petco-owner"
     ],
@@ -4941,6 +5573,7 @@
   },
   {
     "id": "petronas-state-ownership",
+    "kind": "ownership",
     "ownerIds": [
       "gov-malaysia"
     ],
@@ -4970,7 +5603,40 @@
     "reviewed": false
   },
   {
+    "id": "pif-chaired-by-crown-prince",
+    "kind": "ownership",
+    "ownerIds": [
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "Saudi Arabia's Public Investment Fund (PIF) is chaired by Crown Prince Mohammed bin Salman.",
+    "source": {
+      "name": "Public Investment Fund: Annual Report 2025 (archived copy of pif.gov.sa PDF)",
+      "date": "2026",
+      "url": "https://web.archive.org/web/20260826092931id_/https://www.pif.gov.sa/-/media/project/pif-corporate/pif-corporate-site/annual-reports/reports/pif-annual-report-2025-english-hyperlinked.pdf",
+      "quote": "His Royal Highness Prince Mohammed bin Salman bin Abdulaziz Al Saud, Crown Prince, Prime Minister and Chairman of PIF.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "The Associated Press: Premier League's Newcastle shirt sponsor is latest Saudi investment in global sports (via NBC Connecticut)",
+        "date": "2023-06-10",
+        "url": "https://www.nbcconnecticut.com/news/sports/premier-leagues-newcastle-shirt-sponsor-is-latest-saudi-investment-in-global-sports/3047452/",
+        "quote": "PIF is chaired by Saudi Crown Prince Mohammed bin Salman and finances LIV Golf",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "pif-record",
+    "kind": "ownership",
     "ownerIds": [
       "saudi-pif"
     ],
@@ -5001,6 +5667,7 @@
   },
   {
     "id": "pnc-bank-pnc-financial-services-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "pnc-bank-pnc-financial-services-owner"
     ],
@@ -5030,37 +5697,27 @@
     "reviewed": false
   },
   {
-    "id": "pnc-national-city-fair-lending-2013",
+    "id": "pnc-major-holders-2026",
+    "kind": "ownership",
     "ownerIds": [
       "pnc-bank-pnc-financial-services-owner"
     ],
-    "text": "In December 2013 PNC agreed to pay $35 million in restitution to settle a joint Consumer Financial Protection Bureau and Justice Department complaint alleging that National City Bank, which PNC acquired in 2008, charged African-American and Hispanic borrowers higher mortgage prices than comparable white borrowers between 2002 and 2008.",
+    "text": "The PNC Financial Services Group, Inc.'s 2026 proxy statement lists two owners of more than 5% of its common stock: The Vanguard Group (9.2%) and BlackRock, Inc. (7.2%).",
     "source": {
-      "name": "Consumer Financial Protection Bureau: CFPB and DOJ Take Action Against National City Bank for Discriminatory Mortgage Pricing",
-      "date": "2013-12-23",
-      "url": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-and-doj-take-action-against-national-city-bank-for-discriminatory-mortgage-pricing/",
-      "quote": "requires National City Bank, through its successor PNC Bank, to pay $35 million in restitution to harmed African-American and Hispanic borrowers.",
+      "name": "The PNC Financial Services Group, Inc.: 2026 Proxy Statement (Schedule 14A), beneficial owners of more than 5% (SEC EDGAR)",
+      "date": "2026-03-11",
+      "url": "https://www.sec.gov/Archives/edgar/data/713676/000119312526102189/d62941ddef14a.htm",
+      "quote": "The Vanguard Group 100 Vanguard Blvd. Malvern, PA 19355 37,000,468 (2) 9.2 % BlackRock, Inc. 50 Hudson Yards New York, NY 10001 29,236,060 (3) 7.2 %",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "additionalSources": [
-      {
-        "name": "American Banker: PNC Agrees to $35M Settlement Over NatCity Loans",
-        "date": "2013-12-23",
-        "url": "https://www.americanbanker.com/news/pnc-agrees-to-35m-settlement-over-natcity-loans",
-        "quote": "Since PNC now owns the once-struggling National City, it has agreed to pay $35 million in restitution to affected minority borrowers.",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ],
     "reviewed": false
   },
   {
     "id": "procter-and-gamble-record",
+    "kind": "ownership",
     "ownerIds": [
       "procter-and-gamble"
     ],
@@ -5079,6 +5736,7 @@
   },
   {
     "id": "profine-gmbh-record",
+    "kind": "ownership",
     "ownerIds": [
       "profine-gmbh"
     ],
@@ -5097,6 +5755,7 @@
   },
   {
     "id": "progressive-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "progressive-owner"
     ],
@@ -5116,6 +5775,7 @@
   },
   {
     "id": "providence-health-system-record",
+    "kind": "ownership",
     "ownerIds": [
       "providence-health-system"
     ],
@@ -5134,6 +5794,7 @@
   },
   {
     "id": "puma-se-record",
+    "kind": "ownership",
     "ownerIds": [
       "puma-se"
     ],
@@ -5148,6 +5809,7 @@
   },
   {
     "id": "pvh-corp-record",
+    "kind": "ownership",
     "ownerIds": [
       "pvh-corp"
     ],
@@ -5165,7 +5827,39 @@
     "reviewed": false
   },
   {
+    "id": "qatar-migrant-worker-abuse-2025",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-qatar"
+    ],
+    "text": "Amnesty International and Human Rights Watch report that migrant workers in Qatar still faced labour abuses and exploitation under the kafala sponsorship system in 2025, despite reforms.",
+    "source": {
+      "name": "Amnesty International: Qatar 2025 (annual report country entry)",
+      "date": "2026",
+      "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/qatar/report-qatar/",
+      "quote": "Despite recent legal reforms, migrant workers continued to face labour abuses, including an exploitative kafala sponsorship system",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Human Rights Watch: World Report 2026, Qatar",
+        "date": "2026-02-04",
+        "url": "https://www.hrw.org/world-report/2026/country-chapters/qatar",
+        "quote": "Migrant workers comprise over 91 percent of Qatar’s population and continue to face widespread abuse under the country’s restrictive kafala (labor sponsorship) system.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "qatar-world-cup-migrant-abuses",
+    "kind": "record",
     "ownerIds": [
       "government-of-qatar"
     ],
@@ -5196,6 +5890,7 @@
   },
   {
     "id": "qsi-owns-psg",
+    "kind": "ownership",
     "ownerIds": [
       "qatar-sports-investments",
       "government-of-qatar"
@@ -5210,6 +5905,7 @@
   },
   {
     "id": "qualcomm-incorporated-record",
+    "kind": "ownership",
     "ownerIds": [
       "qualcomm"
     ],
@@ -5228,6 +5924,7 @@
   },
   {
     "id": "qualcomm-record",
+    "kind": "ownership",
     "ownerIds": [
       "qualcomm"
     ],
@@ -5246,6 +5943,7 @@
   },
   {
     "id": "quest-diagnostics-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "quest-diagnostics-owner"
     ],
@@ -5264,6 +5962,7 @@
   },
   {
     "id": "quikrete-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "quikrete-owner"
     ],
@@ -5282,6 +5981,7 @@
   },
   {
     "id": "raisin-gmbh-record",
+    "kind": "ownership",
     "ownerIds": [
       "raisin-gmbh"
     ],
@@ -5301,6 +6001,7 @@
   },
   {
     "id": "rate-formerly-guaranteed-rate-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "rate-formerly-guaranteed-rate-owner"
     ],
@@ -5320,6 +6021,7 @@
   },
   {
     "id": "raymond-james-financial-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "raymond-james-financial-owner"
     ],
@@ -5339,6 +6041,7 @@
   },
   {
     "id": "recruit-holdings-record",
+    "kind": "ownership",
     "ownerIds": [
       "recruit-holdings"
     ],
@@ -5357,6 +6060,7 @@
   },
   {
     "id": "regione-autonoma-della-sardegna-record",
+    "kind": "ownership",
     "ownerIds": [
       "regione-autonoma-della-sardegna"
     ],
@@ -5371,6 +6075,7 @@
   },
   {
     "id": "renasant-corporation-record",
+    "kind": "ownership",
     "ownerIds": [
       "renasant-corporation"
     ],
@@ -5389,6 +6094,7 @@
   },
   {
     "id": "reuter-gruppe-record",
+    "kind": "ownership",
     "ownerIds": [
       "reuter-gruppe"
     ],
@@ -5407,6 +6113,7 @@
   },
   {
     "id": "revolut-group-holdings-record",
+    "kind": "ownership",
     "ownerIds": [
       "revolut-group-holdings"
     ],
@@ -5426,6 +6133,7 @@
   },
   {
     "id": "rewe-group-record",
+    "kind": "ownership",
     "ownerIds": [
       "rewe-group"
     ],
@@ -5445,6 +6153,7 @@
   },
   {
     "id": "rezzil-record",
+    "kind": "ownership",
     "ownerIds": [
       "rezzil"
     ],
@@ -5458,7 +6167,39 @@
     "reviewed": false
   },
   {
+    "id": "riyadh-air-pif-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "saudi-pif"
+    ],
+    "text": "Riyadh Air is wholly owned by Saudi Arabia's Public Investment Fund (PIF).",
+    "source": {
+      "name": "Public Investment Fund: Consolidated Financial Statements for the year ended 31 December 2024 (archived copy of pif.gov.sa PDF), note 40 (list of subsidiaries)",
+      "date": "2025-06-29",
+      "url": "https://web.archive.org/web/20260403121124id_/https://www.pif.gov.sa/-/media/project/pif-corporate/pif-corporate-site/our-financials/financial-statements/pdfs/consolidated-financial-statements-2024.pdf",
+      "quote": "Aviation Services Company Limited (Riyadh Air) Industrials 100.00% 100.00%",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "The National: Saudi Arabia launches PIF-backed carrier Riyadh Air",
+        "date": "2023-03-12",
+        "url": "https://www.thenationalnews.com/business/aviation/2023/03/12/saudi-arabia-launches-pif-backed-carrier-riyadh-air/",
+        "quote": "The new carrier will be wholly owned by Saudi Arabia's Public Investment Fund",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "riyadh-season-gea-record",
+    "kind": "ownership",
     "ownerIds": [
       "government-of-saudi-arabia"
     ],
@@ -5473,6 +6214,7 @@
   },
   {
     "id": "robinhood-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "robinhood-owner"
     ],
@@ -5491,6 +6233,7 @@
   },
   {
     "id": "rogers-communications-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "rogers-communications-owner"
     ],
@@ -5505,6 +6248,7 @@
   },
   {
     "id": "rolex-sa-record",
+    "kind": "ownership",
     "ownerIds": [
       "rolex-sa"
     ],
@@ -5523,6 +6267,7 @@
   },
   {
     "id": "rouses-markets-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "rouses-markets-owner"
     ],
@@ -5542,6 +6287,7 @@
   },
   {
     "id": "royal-caribbean-cruises-ltd-record",
+    "kind": "ownership",
     "ownerIds": [
       "royal-caribbean-cruises-ltd"
     ],
@@ -5560,6 +6306,7 @@
   },
   {
     "id": "rubaya-smuggling",
+    "kind": "record",
     "ownerIds": [
       "government-of-rwanda"
     ],
@@ -5592,6 +6339,7 @@
   },
   {
     "id": "rubaya-tantalum-share",
+    "kind": "record",
     "ownerIds": [
       "government-of-rwanda"
     ],
@@ -5623,6 +6371,7 @@
   },
   {
     "id": "russian-federation-record",
+    "kind": "record",
     "ownerIds": [
       "russian-federation"
     ],
@@ -5653,6 +6402,7 @@
   },
   {
     "id": "rwanda-troops-m23",
+    "kind": "record",
     "ownerIds": [
       "government-of-rwanda"
     ],
@@ -5685,6 +6435,7 @@
   },
   {
     "id": "salesforce-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "salesforce-inc"
     ],
@@ -5703,6 +6454,7 @@
   },
   {
     "id": "sap-se-record",
+    "kind": "ownership",
     "ownerIds": [
       "sap-se"
     ],
@@ -5721,6 +6473,7 @@
   },
   {
     "id": "saputo-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "saputo-inc"
     ],
@@ -5739,6 +6492,7 @@
   },
   {
     "id": "saudi-aramco-record",
+    "kind": "ownership",
     "ownerIds": [
       "saudi-aramco"
     ],
@@ -5769,6 +6523,7 @@
   },
   {
     "id": "saudi-executions-2024",
+    "kind": "record",
     "ownerIds": [
       "government-of-saudi-arabia",
       "saudi-pif"
@@ -5800,6 +6555,7 @@
   },
   {
     "id": "saudi-executions-2025",
+    "kind": "record",
     "ownerIds": [
       "government-of-saudi-arabia"
     ],
@@ -5829,7 +6585,39 @@
     "reviewed": false
   },
   {
+    "id": "saudi-migrant-worker-abuse-2025",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-saudi-arabia"
+    ],
+    "text": "Human Rights Watch and Amnesty International report that migrant workers in Saudi Arabia faced widespread labour abuses in 2025, including wage theft, and Human Rights Watch reports workers dying in avoidable workplace accidents.",
+    "source": {
+      "name": "Human Rights Watch: World Report 2026, Saudi Arabia",
+      "date": "2026-02-04",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/saudi-arabia",
+      "quote": "Migrant workers continued to face widespread labor abuses, including wage theft and dying in gruesome yet avoidable workplace-related accidents",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Amnesty International: Saudi Arabia 2025 (annual report country entry)",
+        "date": "2026",
+        "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/saudi-arabia/report-saudi-arabia/",
+        "quote": "Despite some limited reforms, labour abuses were widespread, with workers subjected to wage theft, unsafe working conditions, racial discrimination and substandard living conditions.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "scotiabank-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "scotiabank-owner"
     ],
@@ -5848,6 +6636,7 @@
   },
   {
     "id": "sega-sammy-record",
+    "kind": "ownership",
     "ownerIds": [
       "sega-sammy"
     ],
@@ -5861,7 +6650,49 @@
     "reviewed": false
   },
   {
+    "id": "sela-pif-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "saudi-pif"
+    ],
+    "text": "Saudi Arabia's Public Investment Fund (PIF) owns 94.35% of Sela Company.",
+    "source": {
+      "name": "Public Investment Fund: Consolidated Financial Statements for the year ended 31 December 2024 (archived copy of pif.gov.sa PDF), note 40 (list of subsidiaries)",
+      "date": "2025-06-29",
+      "url": "https://web.archive.org/web/20260403121124id_/https://www.pif.gov.sa/-/media/project/pif-corporate/pif-corporate-site/our-financials/financial-statements/pdfs/consolidated-financial-statements-2024.pdf",
+      "quote": "Sela Company Consumer Discretionary 94.35% 94.35%",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "SportsPro: TKO and Saudi Arabia ‘close’ to launching new boxing league",
+        "date": "2025-01-09",
+        "url": "https://www.sportspro.com/news/tko-saudi-arabia-pif-sela-boxing-league-ufc-wwe-endeavor-dana-white-january-2025/",
+        "quote": "The deal would reportedly see Saudi events company Sela, which is owned by the Public Investment Fund (PIF), pump money into a new competition featuring up-and-coming boxers",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "SportBusiness (The Long Game): Making a name: Sela’s expanding vision",
+        "date": "2024-01-11",
+        "url": "https://longgame.sportbusiness.com/making-a-name-selasexpanding-vision/",
+        "quote": "This fund owns Sela which this year became the primary shirt sponsor of England Premier League football team Newcastle United",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "seminole-tribe-of-florida-record",
+    "kind": "ownership",
     "ownerIds": [
       "seminole-tribe-of-florida"
     ],
@@ -5881,6 +6712,7 @@
   },
   {
     "id": "sesame-hr-sl-record",
+    "kind": "ownership",
     "ownerIds": [
       "sesame-hr-sl"
     ],
@@ -5899,6 +6731,7 @@
   },
   {
     "id": "sezzle-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "sezzle-owner"
     ],
@@ -5918,6 +6751,7 @@
   },
   {
     "id": "sgam-spa-record",
+    "kind": "ownership",
     "ownerIds": [
       "sgam-spa"
     ],
@@ -5937,6 +6771,7 @@
   },
   {
     "id": "sheetz-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "sheetz-owner"
     ],
@@ -5955,38 +6790,80 @@
     "reviewed": false
   },
   {
-    "id": "shell-plc-record",
+    "id": "shell-plc-ownership",
+    "kind": "ownership",
     "ownerIds": [
       "shell-plc"
     ],
-    "text": "No state shareholder (a London-listed public company, effectively full free float), but a sustained documented adverse record: decades of oil spills and failed clean-up in the Niger Delta documented by Amnesty International.",
-    "short": "No state shareholder (a London-listed public company, effectively full free float), but a sustained documented adverse record: decades of oil spills and failed….",
+    "text": "Shell is the brand of Shell plc, a listed company whose largest shareholder is the asset manager BlackRock. Shell's 2025 annual report on Form 20-F lists BlackRock as the only investor with 5% or more of its ordinary shares (8.1% at 4 March 2026).",
     "source": {
-      "name": "Amnesty International - 'Shell, oil spills and human rights in Nigeria'",
-      "date": "2026-07",
-      "url": "https://www.amnesty.org/en/latest/campaigns/2026/07/shell-oil-spills-and-human-rights-in-nigeria/",
-      "quote": "For decades, oil spills, gas flaring, waste dumping and failed clean-ups have devastated communities who depend on its land, rivers and creeks for food, water and livelihoods.",
+      "name": "Shell plc: Annual Report on Form 20-F for the year ended December 31, 2025 (SEC EDGAR)",
+      "date": "2026-03-12",
+      "url": "https://www.sec.gov/Archives/edgar/data/1306965/000162828026017024/shel-20251231.htm",
+      "quote": "Interests of investors with 5% or more of the Company's ordinary shares at March 4, 2026 are provided below. The information provided includes the percentage of issued share capital as at March 4, 2026. Investor Ordinary Shares Number [A] % [B] BlackRock, Inc. 457,454,997 8.1",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "reviewed": false,
     "additionalSources": [
       {
-        "name": "UN Environment Programme (UNEP), \"UNEP Ogoniland Oil Assessment Reveals Extent of Environmental Contamination and Threats to Human Health\"",
-        "url": "https://www.unep.org/news-and-stories/story/unep-ogoniland-oil-assessment-reveals-extent-environmental-contamination-and",
-        "date": "2017-08-07",
-        "quote": "the Shell Petroleum Development Company's own procedures have not been applied, creating public health and safety issues",
+        "name": "Simply Wall St, via Yahoo Finance: Shell plc (LON:SHEL) is largely controlled by institutional shareholders who own 67% of the company",
+        "date": "2025-05-31",
+        "url": "https://finance.yahoo.com/news/shell-plc-lon-shel-largely-090018893.html",
+        "quote": "The company's largest shareholder is BlackRock, Inc., with ownership of 8.2%.",
         "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
         }
       }
-    ]
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "shell-spdc-bodo-oil-spills-2008",
+    "kind": "record",
+    "ownerIds": [
+      "shell-plc"
+    ],
+    "text": "In 2008 two oil spills from a pipeline operated by Shell's Nigerian subsidiary, the Shell Petroleum Development Company of Nigeria (SPDC), polluted the Bodo area of the Niger Delta. SPDC admitted liability for the spills in proceedings in the English High Court, and in a settlement announced in January 2015 agreed to pay £55 million: £35 million for 15,600 individuals and £20 million for the Bodo community.",
+    "source": {
+      "name": "High Court of England and Wales (Technology and Construction Court), Akenhead J: The Bodo Community & Ors v The Shell Petroleum Development Company of Nigeria Ltd [2014] EWHC 1973 (TCC) (The National Archives, Find Case Law)",
+      "date": "2014-06-20",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewhc/tcc/2014/1973",
+      "quote": "said to have occurred between 28 August and 7 November 2008 and 7 December 2008 and 19 February 2009; the full extent of the spillages and their timing is in dispute. Subject to such disputes Shell admit liability under the OPA for these spillages.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Amnesty International: Nigeria: Long-awaited victory as Shell finally pays out £55 million over Niger Delta oil spills",
+        "date": "2015-01-07",
+        "url": "https://www.amnesty.org/en/latest/news/2015/01/nigeria-long-awaited-victory-shell-finally-pays-out-million-over-niger-d/",
+        "quote": "Shell has always accepted that the two 2008 Bodo oil spills were the fault of failures on the company’s pipeline at Bodo",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "Leigh Day (solicitors for the Bodo community): Shell - Bodo (case page)",
+        "date": "2020-11-26",
+        "url": "https://www.leighday.co.uk/news/cases-and-testimonials/cases/shell-bodo/",
+        "quote": "The pipeline was operated by the Shell Petroleum Development Company of Nigeria ltd, a subsidiary company of the oil giant, Shell.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
   },
   {
     "id": "siemens-ag-record",
+    "kind": "ownership",
     "ownerIds": [
       "siemens-ag"
     ],
@@ -6004,7 +6881,39 @@
     "reviewed": false
   },
   {
+    "id": "singapore-drug-executions-2025",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-singapore"
+    ],
+    "text": "Singapore carried out 17 executions in 2025, 15 of them for drug-related offences. In August 2026, UN human rights experts condemned the execution of at least 16 people in Singapore for drug-related offences that year and urged it to end its unlawful use of the death penalty.",
+    "source": {
+      "name": "Amnesty International: Death Sentences and Executions 2025 (ACT 50/0778/2026)",
+      "date": "2026-05-18",
+      "url": "https://www.amnesty.org/en/wp-content/uploads/2026/05/ACT5007782026ENGLISH.pdf",
+      "quote": "Out of the 17 executions of 2025, two were carried out for murder, three for instigating drug trafficking and 12 for drug trafficking.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "UN News: Singapore: Independent rights experts urge immediate end to ‘unlawful use’ of death penalty",
+        "date": "2026-08-18",
+        "url": "https://news.un.org/en/story/2026/08/1168159",
+        "quote": "condemned the execution of at least 16 people in Singapore for drug-related offences this year and urged the country to end its",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "sinochem-holdings-record",
+    "kind": "ownership",
     "ownerIds": [
       "sinochem-holdings"
     ],
@@ -6024,6 +6933,7 @@
   },
   {
     "id": "smoothie-king-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "smoothie-king-owner"
     ],
@@ -6038,6 +6948,7 @@
   },
   {
     "id": "spectrum-charter-communications-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "spectrum-charter-communications-owner"
     ],
@@ -6052,6 +6963,7 @@
   },
   {
     "id": "spotify-technology-sa-record",
+    "kind": "ownership",
     "ownerIds": [
       "spotify-technology"
     ],
@@ -6069,37 +6981,40 @@
     "reviewed": false
   },
   {
-    "id": "standard-chartered-plc-record",
+    "id": "standard-chartered-temasek-stake",
+    "kind": "ownership",
     "ownerIds": [
-      "standard-chartered-plc"
+      "standard-chartered-plc",
+      "temasek-holdings"
     ],
-    "text": "Standard Chartered plc is a London-listed bank. Its conduct record includes a $227m DOJ forfeiture in 2012 for illegal transactions with Iran, Sudan, Libya and Burma (plus related NY/Fed penalties totalling $327m), and a further settlement of more than $1.1bn in 2019 with U.S. and UK authorities over Iran-sanctions and anti-money-laundering failures. (Split the single citation into one source per settlement, since the 2012 DOJ release does not itself cover the 2019 case.)",
+    "text": "Temasek Holdings is the only shareholder with more than 10% of Standard Chartered's voting share capital: the bank's 2025 annual report lists Temasek's notified holding as 17.00% of voting rights at 31 December 2025, and in March 2026 Temasek notified a holding of about 18%, held mostly through its wholly owned subsidiary Dover Investments.",
     "source": {
-      "name": "US DOJ press release (2012 forfeiture)",
-      "date": "2012-12-10",
-      "url": "https://www.justice.gov/archives/opa/pr/standard-chartered-bank-agrees-forfeit-227-million-illegal-transactions-iran-sudan-libya-and",
-      "quote": "Standard Chartered Bank, a financial institution headquartered in London, has agreed to forfeit $227 million to the Justice Department for conspiring to violate",
+      "name": "Standard Chartered PLC, Annual Report 2025: Major shareholders",
+      "date": "2026-02-24",
+      "url": "https://www.sc.com/en/uploads/sites/66/content/docs/standard-chartered-plc-2025-annual-report.pdf",
+      "quote": "Temasek Holdings (Private) Limited (Temasek) is the only shareholder that has an interest of more than 10 per cent in the Company’s issued ordinary share capital carrying a right to vote at any general meeting.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "reviewed": false,
     "additionalSources": [
       {
-        "name": "Associated Press (via NY1), 'Standard Chartered to pay $1.1B for violating Iran sanctions'",
-        "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2019/04/09/standard-chartered-to-pay-11b-for-violating-iran-sanctions",
-        "date": "2019-05-09",
-        "quote": "A few months later, Standard Chartered agreed to pay $327 million to settle federal and New York charges it laundered money on behalf of entities in four countries",
+        "name": "Standard Chartered PLC: Holding(s) in Company (TR-1 notification from Temasek, RNS via Investegate)",
+        "date": "2026-03",
+        "url": "https://www.investegate.co.uk/announcement/rns/standard-chartered--stan/holding-s-in-company/9458737",
+        "quote": "405,155,789 shares are held by Dover Investments Pte. Ltd. (\"Dover\") as at 2 March 2026. Dover is a wholly owned subsidiary of Fullerton Management Pte Ltd, which is in turn a wholly owned subsidiary of Temasek Holdings (Private) Limited.",
         "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
         }
       }
-    ]
+    ],
+    "reviewed": false
   },
   {
     "id": "standard-general-record",
+    "kind": "ownership",
     "ownerIds": [
       "standard-general"
     ],
@@ -6118,6 +7033,7 @@
   },
   {
     "id": "starr-insurance-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "starr-insurance-owner"
     ],
@@ -6136,6 +7052,7 @@
   },
   {
     "id": "state-farm-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "state-farm-owner"
     ],
@@ -6150,10 +7067,11 @@
   },
   {
     "id": "state-of-baden-wuerttemberg-record",
+    "kind": "ownership",
     "ownerIds": [
       "state-of-baden-wuerttemberg"
     ],
-    "text": "Landesbank Baden-Württemberg is a public-law institution whose Owners are the Savings Banks Association of Baden-Württemberg (SVBW), the State of Baden-Württemberg, the state capital Stuttgart and Landesbeteiligungen Baden-Württemberg — i.e. wholly public/state owner.",
+    "text": "The owners of Landesbank Baden-Württemberg are the Savings Banks Association of Baden-Württemberg, the State of Baden-Württemberg and the state capital Stuttgart.",
     "short": "Landesbank Baden-Württemberg is a public-law institution whose Owners are the Savings Banks Association of Baden-Württemberg (SVBW), the State of….",
     "source": {
       "name": "Landesbank Baden-Württemberg Ordinance/statute (English translation), LBBW legal documents",
@@ -6181,8 +7099,10 @@
   },
   {
     "id": "state-of-qatar-qia-record",
+    "kind": "ownership",
     "ownerIds": [
-      "state-of-qatar-qia"
+      "state-of-qatar-qia",
+      "government-of-qatar"
     ],
     "text": "Qatar Airways is fully owned by the government of Qatar, after Qatar's sovereign wealth fund bought the 50% stake held by a former prime minister and other shareholders.",
     "source": {
@@ -6211,10 +7131,11 @@
   },
   {
     "id": "stellantis-nv-record",
+    "kind": "ownership",
     "ownerIds": [
       "stellantis-nv"
     ],
-    "text": "Jeep (with Visit Detroit) on the Juventus front is a brand of Stellantis N.V., the Amsterdam-domiciled, NYSE/Euronext-listed automaker. Stellantis' 20-F lists its largest shareholders as Exor N.V. (15.48%), Etablissements Peugeot Freres (7.72%) and Bpifrance Participations (6.64%) - Bpifrance being the French state investment bank, giving a genuine but minority state stake, hence 'concern'. Human-rights relevance: French state money at ~6.6% plus normal automaker supply-chain exposure.",
+    "text": "Jeep is a brand of Stellantis N.V., whose largest shareholders include Etablissements Peugeot Frères (7.72%) and Bpifrance Participations (6.64%), the French state investment bank.",
     "short": "Jeep (with Visit Detroit) on the Juventus front is a brand of Stellantis N.V., the Amsterdam-domiciled, NYSE/Euronext-listed automaker.",
     "source": {
       "name": "Stellantis N.V. Form 20-F for FY2025, shareholder section (SEC)",
@@ -6242,6 +7163,7 @@
   },
   {
     "id": "stockx-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "stockx-owner"
     ],
@@ -6260,6 +7182,7 @@
   },
   {
     "id": "sumup-ltd-record",
+    "kind": "ownership",
     "ownerIds": [
       "sumup-ltd"
     ],
@@ -6279,6 +7202,7 @@
   },
   {
     "id": "sun-life-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "sun-life-owner"
     ],
@@ -6297,6 +7221,7 @@
   },
   {
     "id": "suntory-holdings-record",
+    "kind": "ownership",
     "ownerIds": [
       "suntory-holdings"
     ],
@@ -6315,6 +7240,7 @@
   },
   {
     "id": "super-group-record",
+    "kind": "ownership",
     "ownerIds": [
       "super-group"
     ],
@@ -6333,6 +7259,7 @@
   },
   {
     "id": "sutter-health-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "sutter-health-owner"
     ],
@@ -6351,6 +7278,7 @@
   },
   {
     "id": "suzuki-motor-corporation-record",
+    "kind": "ownership",
     "ownerIds": [
       "suzuki-motor-corporation"
     ],
@@ -6370,6 +7298,7 @@
   },
   {
     "id": "t-rowe-price-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "t-rowe-price-owner"
     ],
@@ -6389,6 +7318,7 @@
   },
   {
     "id": "target-corporation-record",
+    "kind": "ownership",
     "ownerIds": [
       "target-corporation"
     ],
@@ -6407,6 +7337,7 @@
   },
   {
     "id": "td-bank-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "td-bank-owner"
     ],
@@ -6425,6 +7356,7 @@
   },
   {
     "id": "teamviewer-se-record",
+    "kind": "ownership",
     "ownerIds": [
       "teamviewer-se"
     ],
@@ -6444,6 +7376,7 @@
   },
   {
     "id": "tecnocasa-holding-spa-record",
+    "kind": "ownership",
     "ownerIds": [
       "tecnocasa-holding-spa"
     ],
@@ -6463,6 +7396,7 @@
   },
   {
     "id": "tek-fox-ltd-record",
+    "kind": "ownership",
     "ownerIds": [
       "tek-fox-ltd"
     ],
@@ -6481,6 +7415,7 @@
   },
   {
     "id": "telus-corporation-record",
+    "kind": "ownership",
     "ownerIds": [
       "telus-corporation"
     ],
@@ -6498,7 +7433,39 @@
     "reviewed": false
   },
   {
+    "id": "temasek-singapore-government-owned",
+    "kind": "ownership",
+    "ownerIds": [
+      "temasek-holdings"
+    ],
+    "text": "Temasek Holdings is Singapore's state-owned investment company: the Singapore government is its sole equity shareholder.",
+    "source": {
+      "name": "Singapore Ministry of Finance: Who manages the reserves?",
+      "date": "2026-03-04",
+      "url": "https://www.mof.gov.sg/policies/reserves/who-manages-the-reserves/",
+      "quote": "In addition, the Government is the sole equity shareholder of Temasek Holdings (Temasek).",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "CNBC (Ryan Browne): Standard Chartered chief pushes back on report that its biggest shareholder is unhappy",
+        "date": "2019-01-23",
+        "url": "https://www.cnbc.com/2019/01/23/standard-chartered-ceo-bill-winters-temasek-very-supportive.html",
+        "quote": "Singapore's state-owned investment arm Temasek",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "temporal-technologies-record",
+    "kind": "ownership",
     "ownerIds": [
       "temporal-technologies"
     ],
@@ -6517,6 +7484,7 @@
   },
   {
     "id": "tm-grupo-inmobiliario-record",
+    "kind": "ownership",
     "ownerIds": [
       "tm-grupo-inmobiliario"
     ],
@@ -6536,6 +7504,7 @@
   },
   {
     "id": "toyota-motor-corporation-record",
+    "kind": "ownership",
     "ownerIds": [
       "toyota-motor-corporation"
     ],
@@ -6554,6 +7523,7 @@
   },
   {
     "id": "tpg-record",
+    "kind": "ownership",
     "ownerIds": [
       "tpg"
     ],
@@ -6573,6 +7543,7 @@
   },
   {
     "id": "tropicana-tropicana-brands-group-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "tropicana-tropicana-brands-group-owner"
     ],
@@ -6587,6 +7558,7 @@
   },
   {
     "id": "truist-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "truist-owner"
     ],
@@ -6604,38 +7576,101 @@
     "reviewed": false
   },
   {
-    "id": "turkiye-wealth-fund-record",
+    "id": "turkey-kavala-detention",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-turkiye",
+      "turkiye-wealth-fund"
+    ],
+    "text": "Turkey has kept civil society leader Osman Kavala in prison since 2017 and sentenced him to life without parole in 2022, disregarding European Court of Human Rights rulings ordering his release. In August 2026, the court ruled again that his detention was unlawful and that he had been convicted to punish and silence him.",
+    "source": {
+      "name": "Amnesty International: Türkiye: Osman Kavala must be immediately released following European Court order to quash his conviction",
+      "date": "2026-08-25",
+      "url": "https://www.amnesty.org/en/latest/news/2026/08/turkiye-osman-kavala-must-be-immediately-released-following-european-court-order-to-quash-his-conviction/",
+      "quote": "The Court concluded that he was convicted for the ulterior purpose of punishing and silencing him, and to prevent his human rights work.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Human Rights Watch: World Report 2026, Türkiye chapter",
+        "date": "2026-02-04",
+        "url": "https://www.hrw.org/world-report/2026/country-chapters/turkiye",
+        "quote": "Kavala has been arbitrarily detained since October 2017 and the others since their April 2022 convictions. Türkiye has flagrantly disregarded ECtHR decisions ordering Kavala’s release.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "Human Rights Watch: Türkiye: European Court Orders Rights Defender’s Immediate Release",
+        "date": "2026-08-25",
+        "url": "https://www.hrw.org/news/2026/08/25/turkiye-european-court-orders-rights-defenders-immediate-release",
+        "quote": "The court ruled that Kavala's continued detention is unlawful and found that his rights",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "turkish-airlines-state-ownership",
+    "kind": "ownership",
     "ownerIds": [
       "turkiye-wealth-fund"
     ],
-    "text": "Turkish Airlines' official shareholding disclosure shows the state's Türkiye Wealth Fund as the largest shareholder with 49.12%, with a Ministry of Treasury and Finance 'privileged' share conferring control; the state fund sits at the top of the chain. Turkey has documented serious human-rights abuses (Kurdish conflict, post-2016 purges, press freedom).",
-    "short": "Turkish Airlines' official shareholding disclosure shows the state's Türkiye Wealth Fund as the largest shareholder with 49.12%, with a Ministry of Treasury and….",
+    "text": "Türkiye Wealth Fund, Turkey's sovereign wealth fund, owns 49.12% of Turkish Airlines; the other Group A shares are publicly held. The single Group C share, held by the Ministry of Treasury and Finance's Privatization Administration, carries privileged voting rights over nominations to the board of directors.",
     "source": {
-      "name": "Turkish Airlines official additional disclosure (Capital Markets Board of Türkiye); Türkiye Wealth Fund",
-      "date": "2025 / 2026",
-      "url": "https://investor.turkishairlines.com/documents/general-assembly-additional-disclosures(2).pdf",
-      "quote": "Group A shares traded at the stock market (free float) and Group C shares hold privileged voting rights regarding the nomination of the Board of Directors and Auditor Candidates.",
+      "name": "Turkish Airlines Investor Relations: Shareholding Structure (undated page, read September 2026)",
+      "date": "2026-09",
+      "url": "https://investor.turkishairlines.com/en/about-us/shareholding-structure",
+      "quote": "Türkiye Wealth Fund (Group A Registered) Amount of Nominal Shares : 677.884.849 - Ownership (%) : 49,12",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
-    "reviewed": false,
     "additionalSources": [
       {
-        "name": "Daily Sabah, \"Turkish Sovereign Wealth Fund grows with treasury shares of Turkish Airlines, banks, state-owned companies\"",
-        "url": "https://www.dailysabah.com/economy/2017/02/06/turkish-sovereign-wealth-fund-grows-with-treasury-shares-of-turkish-airlines-banks-state-owned-companies",
+        "name": "Turkish Airlines: Additional disclosures pursuant to the regulations of the Capital Market Board of Turkey (undated PDF covering 2019)",
+        "date": "2020",
+        "url": "https://investor.turkishairlines.com/documents/general-assembly-additional-disclosures(2).pdf",
+        "quote": "Group A shares traded at the stock market (free float) and Group C shares hold privileged voting rights regarding the nomination of the Board of Directors and Auditor Candidates.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "Türkiye Wealth Fund: Our Portfolio, Transportation and Logistics (undated page, read September 2026)",
+        "date": "2026-09",
+        "url": "https://www.tvf.com.tr/en/our-portfolio/transportation-and-logistics",
+        "quote": "Turkish Airlines Fund ownership rate %49,12",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "Daily Sabah: Turkish Sovereign Wealth Fund grows with treasury shares of Turkish Airlines, banks, state-owned companies",
         "date": "2017-02-06",
+        "url": "https://www.dailysabah.com/economy/2017/02/06/turkish-sovereign-wealth-fund-grows-with-treasury-shares-of-turkish-airlines-banks-state-owned-companies",
         "quote": "Shares of Turkish Airlines (THY) and Halkbank, amounting to 49.12 and 51.11 percent of their respective shares, have been transferred to the Sovereign Wealth Fund (SWF),",
         "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
         }
       }
-    ]
+    ],
+    "reviewed": false
   },
   {
     "id": "twg-global-record",
+    "kind": "ownership",
     "ownerIds": [
       "twg-global"
     ],
@@ -6655,6 +7690,7 @@
   },
   {
     "id": "uae-mass-trial-2024",
+    "kind": "record",
     "ownerIds": [
       "uae",
       "government-of-dubai",
@@ -6687,6 +7723,7 @@
   },
   {
     "id": "uae-mass-trial-upheld-2025",
+    "kind": "record",
     "ownerIds": [
       "uae",
       "government-of-abu-dhabi",
@@ -6720,6 +7757,7 @@
   },
   {
     "id": "ubs-group-ag-record",
+    "kind": "ownership",
     "ownerIds": [
       "ubs-group-ag"
     ],
@@ -6738,6 +7776,7 @@
   },
   {
     "id": "uchealth-record",
+    "kind": "ownership",
     "ownerIds": [
       "uchealth"
     ],
@@ -6756,6 +7795,7 @@
   },
   {
     "id": "ucla-health-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "ucla-health-owner"
     ],
@@ -6770,6 +7810,7 @@
   },
   {
     "id": "uline-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "uline-owner"
     ],
@@ -6789,6 +7830,7 @@
   },
   {
     "id": "uney-gmbh-record",
+    "kind": "ownership",
     "ownerIds": [
       "uney-gmbh"
     ],
@@ -6808,6 +7850,7 @@
   },
   {
     "id": "unicredit-spa-record",
+    "kind": "ownership",
     "ownerIds": [
       "unicredit-spa"
     ],
@@ -6826,30 +7869,51 @@
     "reviewed": false
   },
   {
-    "id": "uniqlo-owner-record",
+    "id": "uniqlo-cbp-xpcc-detention-2021",
+    "kind": "record",
     "ownerIds": [
       "uniqlo-owner"
     ],
-    "text": "In January 2021 US Customs and Border Protection blocked a shipment of UNIQLO cotton men's shirts at the Port of Los Angeles under its ban on cotton products made with forced labour by the Xinjiang Production and Construction Corps (XPCC). It rejected Uniqlo's appeal because the company had not shown the shirts were made without forced labour.",
+    "text": "In January 2021 US Customs and Border Protection (CBP) stopped a shipment of Uniqlo cotton shirts at the Port of Los Angeles/Long Beach under its order against cotton products of the Xinjiang Production and Construction Corps (XPCC), issued on information that reasonably indicates forced labour. In a May 2021 ruling CBP held that Uniqlo had not shown the shirts were not made in part with forced labour and that they could not enter the US; CBP took the ruling off its website later that month.",
     "source": {
-      "name": "Bloomberg (Lisa Du), republished by The Japan Times: U.S. blocked Uniqlo shirts over Xinjiang forced-labor concerns",
-      "date": "2021-05-19",
-      "url": "https://www.japantimes.co.jp/news/2021/05/19/business/us-customs-uniqlo/",
-      "quote": "customs agency blocked a shipment of Fast Retailing Co.’s Uniqlo shirts in January for violating an order prohibiting imports of items suspected to be produced by forced labor",
+      "name": "U.S. Customs and Border Protection: ruling HQ H318182, Application for Further Review, Uniqlo Co., Ltd., XPCC Withhold Release Order (10 May 2021), text as archived by CustomsMobile",
+      "date": "2021-05-10",
+      "url": "https://www.customsmobile.com/rulings/docview?doc_id=HQ+H318182&highlight=uniqlo",
+      "quote": "The protestant has not established that the detained cotton garments were not produced in part by forced labor. Accordingly, the subject goods are inadmissible.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
       }
     },
     "additionalSources": [
       {
-        "name": "Sourcing Journal (WWD): Uniqlo Failed to Convince CBP its Cotton Shirts Weren’t Made with Forced Labor",
-        "date": "2021-05-19",
-        "url": "https://wwd.com/sourcing-journal/industry-news/uniqlo-cotton-shirts-detained-customs-cbp-forced-labor-xinjiang-china-1238774980/",
-        "quote": "the brand failed to provide “substantial evidence” to establish that the entities within the XPCC that processed the cotton into garments “did so without the use of forced labor.”",
+        "name": "U.S. Customs and Border Protection: CBP Issues Detention Order on Cotton Products Made by Xinjiang Production and Construction Corps Using Prison Labor",
+        "date": "2020-12-02",
+        "url": "https://www.cbp.gov/newsroom/national-media-release/cbp-issues-detention-order-cotton-products-made-xinjiang-production",
+        "quote": "CBP’s Office of Trade directed the issuance of a Withhold Release Order (WRO) against cotton products made by the XPCC based on information that reasonably indicates the use of forced labor, including convict labor.",
         "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "Bloomberg (Lisa Du), republished by The Japan Times: U.S. blocked Uniqlo shirts over Xinjiang forced-labor concerns",
+        "date": "2021-05-19",
+        "url": "https://www.japantimes.co.jp/news/2021/05/19/business/us-customs-uniqlo/",
+        "quote": "customs agency blocked a shipment of Fast Retailing Co.’s Uniqlo shirts in January for violating an order prohibiting imports of items suspected to be produced by forced labor",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "International Trade Today (Warren Communications News): CBP Removes Recent Uniqlo Forced Labor Rulings",
+        "date": "2021-05-21",
+        "url": "https://internationaltradetoday.com/news/2021/05/21/CBP-Removes-Recent-Uniqlo-Forced-Labor-Rulings-2105210021",
+        "quote": "CBP pulled down two recent rulings from its website that detailed the agency's detention of shipments imported by Uniqlo over suspected use of cotton from the Xinjiang Production and Construction Corps in China.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
         }
       }
     ],
@@ -6857,6 +7921,7 @@
   },
   {
     "id": "united-airlines-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "united-airlines-owner"
     ],
@@ -6876,6 +7941,7 @@
   },
   {
     "id": "university-of-texas-system-record",
+    "kind": "ownership",
     "ownerIds": [
       "university-of-texas-system"
     ],
@@ -6890,6 +7956,7 @@
   },
   {
     "id": "uralchem-record",
+    "kind": "ownership",
     "ownerIds": [
       "uralchem"
     ],
@@ -6920,6 +7987,7 @@
   },
   {
     "id": "ursapharm-arzneimittel-gmbh-record",
+    "kind": "ownership",
     "ownerIds": [
       "ursapharm-arzneimittel-gmbh"
     ],
@@ -6938,6 +8006,7 @@
   },
   {
     "id": "us-bank-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "us-bank-owner"
     ],
@@ -6956,6 +8025,7 @@
   },
   {
     "id": "ut-southwestern-medical-center-record",
+    "kind": "ownership",
     "ownerIds": [
       "ut-southwestern-medical-center"
     ],
@@ -6974,6 +8044,7 @@
   },
   {
     "id": "uw-health-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "uw-health-owner"
     ],
@@ -6988,6 +8059,7 @@
   },
   {
     "id": "visa-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "visa-inc"
     ],
@@ -7005,7 +8077,131 @@
     "reviewed": false
   },
   {
+    "id": "visit-qatar-qatar-tourism",
+    "kind": "ownership",
+    "ownerIds": [
+      "government-of-qatar"
+    ],
+    "text": "Visit Qatar was set up by Qatar Tourism, the state tourism body established by Amiri Decision No. 15 of 2021, as the marketing and promotional arm of Qatar's tourism sector.",
+    "source": {
+      "name": "Qatar Tourism: QT appoints Eng. Abdulaziz Ali Al-Mawlawi as CEO of Visit Qatar",
+      "date": "2024-04",
+      "url": "https://www.qatartourism.com/en/news-and-media/press-releases/qt-appoints-eng-abdulaziz-ali-al-mawlawi-as-ceo-of-visit-qatar",
+      "quote": "Qatar Tourism announced the appointment of Eng. Abdulaziz Ali Al-Mawlawi as CEO of Visit Qatar as part of the establishment of the entity, which is considered the marketing and promotional arm of the tourism sector in Qatar.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Qatar Living: Eng Abdulaziz Al Mawlawi is the new Visit Qatar CEO",
+        "date": "2024-04-30",
+        "url": "https://www.qatarliving.com/en/article/eng-abdulaziz-al-mawlawi-new-visit-qatar-ceo",
+        "quote": "The move came as part of the establishment of the entity, which is considered the marketing and promotional arm of Qatar’s tourism sector.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "The Peninsula (QNA): Cabinet approves draft Amiri Decision to strengthen functions of Qatar Tourism",
+        "date": "2024-09-12",
+        "url": "https://thepeninsulaqatar.com/article/12/09/2024/cabinet-approves-draft-amiri-decision-to-strengthen-functions-of-qatar-tourism",
+        "quote": "The Cabinet approved a draft Amiri Decision amending some provisions of Amiri Decision No. (15) of 2021 establishing Qatar Tourism.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "visit-rwanda-rdb-brand",
+    "kind": "ownership",
+    "ownerIds": [
+      "government-of-rwanda"
+    ],
+    "text": "Visit Rwanda is a tourism brand of the Rwanda Development Board (RDB), a government institution that works under the supervision of Rwanda's Office of the President.",
+    "source": {
+      "name": "Rwanda Development Board: About RDB",
+      "date": "2026-02-13",
+      "url": "https://rdb.rw/about-rdb/",
+      "quote": "Rwanda Development Board (RDB) is a government institution, mandated to accelerate Rwanda’s economic development by enabling private sector growth. Under the supervision of the Office of the President",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Finance Football: Aston Villa seals Visit Rwanda as new front-of-shirt sponsor",
+        "date": "2026-07-15",
+        "url": "https://financefootball.com/en/2026/07/15/aston-villa-seals-visit-rwanda-as-new-front-of-shirt-sponsor/",
+        "quote": "The Rwanda Development Board’s tourism brand will replace betting operator Betano",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "Sky Sports: Arsenal end eight-year sleeve shirt partnership with Visit Rwanda",
+        "date": "2025-11-19",
+        "url": "https://www.skysports.com/football/news/11095/13472759/arsenal-end-eight-year-sleeve-shirt-partnership-with-visit-rwanda",
+        "quote": "Arsenal have ended their eight-year partnership with the Rwanda Development Board; the words 'Visit Rwanda' appeared on the sleeves of Arsenal kits",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "visit-saudi-sta-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "government-of-saudi-arabia"
+    ],
+    "text": "Visit Saudi is the flagship platform of the Saudi Tourism Authority (STA), a Saudi government entity whose establishment the Saudi Cabinet approved in 2020.",
+    "source": {
+      "name": "Visit Saudi (Saudi Tourism Authority): About VisitSaudi",
+      "date": "2025-06-25",
+      "url": "https://www.visitsaudi.com/en/about-us",
+      "quote": "As the flagship platform of the Saudi Tourism Authority, Visit Saudi offers travelers inspiring content and up-to-date information on destinations, experiences, and events across the country.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "rating-review-2026-09-27"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "U.S. International Trade Administration: Saudi Arabia Country Commercial Guide, Travel, Tourism, and Entertainment",
+        "date": "2026-05-18",
+        "url": "https://www.trade.gov/country-commercial-guides/saudi-arabia-travel-tourism-and-entertainment",
+        "quote": "Saudi Tourism Authority: The official promoter of Visit Saudi, this government entity was established to support the growth of the travel and tourism sector by serving the needs of tourism companies and other commercial partners.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      },
+      {
+        "name": "Asharq Al-Awsat: Saudi Arabia Establishes New Tourism Authority",
+        "date": "2020-03-11",
+        "url": "https://english.aawsat.com/home/article/2174386/saudi-arabia-establishes-new-tourism-authority",
+        "quote": "The Saudi Cabinet had approved the establishment of the Saudi Tourism Authority (STA) based on the recommendation of Council of Economic and Development Affairs.",
+        "checked": {
+          "on": "2026-09-27",
+          "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "vodafone-group-plc-record",
+    "kind": "ownership",
     "ownerIds": [
       "vodafone-group-plc"
     ],
@@ -7024,6 +8220,7 @@
   },
   {
     "id": "walt-disney-world-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "walt-disney-world-owner"
     ],
@@ -7042,6 +8239,7 @@
   },
   {
     "id": "wwk-lebensversicherung-ag-record",
+    "kind": "ownership",
     "ownerIds": [
       "wwk-lebensversicherung-ag"
     ],
@@ -7061,6 +8259,7 @@
   },
   {
     "id": "xfinity-mobile-comcast-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "xfinity-mobile-comcast-owner"
     ],
@@ -7080,6 +8279,7 @@
   },
   {
     "id": "xfinity-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "xfinity-owner"
     ],
@@ -7099,6 +8299,7 @@
   },
   {
     "id": "yeti-holdings-inc-record",
+    "kind": "ownership",
     "ownerIds": [
       "yeti-holdings-inc"
     ],
@@ -7118,6 +8319,7 @@
   },
   {
     "id": "yildiz-holding-record",
+    "kind": "ownership",
     "ownerIds": [
       "yildiz-holding"
     ],
@@ -7136,6 +8338,7 @@
   },
   {
     "id": "york-space-systems-owner-record",
+    "kind": "ownership",
     "ownerIds": [
       "york-space-systems-owner"
     ],
@@ -7154,6 +8357,7 @@
   },
   {
     "id": "zhejiang-geely-holding-group-record",
+    "kind": "ownership",
     "ownerIds": [
       "zhejiang-geely-holding-group"
     ],
@@ -7173,6 +8377,7 @@
   },
   {
     "id": "zoomex-record",
+    "kind": "ownership",
     "ownerIds": [
       "zoomex"
     ],

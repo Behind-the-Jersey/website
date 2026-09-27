@@ -6,13 +6,24 @@
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "No state shareholder (NYSE-listed), but a sustained documented adverse record: a $10.3bn settlement, court-approved, over PFAS contamination of US public….",
+    "verdict": "US juries found for service members whose hearing, they said, 3M's Combat Arms earplugs damaged.",
     "claimIds": [
-      "3m-company-record",
+      "3m-company-ownership",
+      "3m-earplug-jury-verdicts",
       "3m-combat-arms-earplugs"
     ],
     "aliases": [],
-    "note": "Rating note: PFAS/forever-chemicals liability is lasting; a plain 'listed, no state' record would read as none, so flagged as concern for the reviewer to overturn if the net is drawn tighter."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): 3M Company (listed; largest holders Vanguard 8.89%, BlackRock 7.60%, JPMorgan 7.60%, State Street 5.10%) - US federal juries found for service members in 10 of 16 Combat Arms earplug bellwether trials (2021-2022) over hearing damage; no qualifying PFAS finding of harm to people yet.",
+    "why": {
+      "text": "In 2021 and 2022 US juries found for service members in 10 of 16 test trials over 3M's Combat Arms earplugs, which they said damaged their hearing, awarding nearly $300 million. In 2023 3M agreed to pay $6 billion to settle the claims.",
+      "claimIds": [
+        "3m-earplug-jury-verdicts",
+        "3m-combat-arms-earplugs",
+        "3m-company-ownership"
+      ],
+      "messageLine": "US juries found for service members in 10 of 16 test trials who said 3M's Combat Arms earplugs damaged their hearing.",
+      "status": "draft"
+    }
   },
   {
     "id": "aarp",
@@ -114,28 +125,28 @@
     "name": "adidas",
     "ownerId": "adidas-ag",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "adidas AG is a Frankfurt-listed German sportswear maker with a near-total free float: the company's own ownership analysis for December 2025 identified almost 100%….",
+    "verdict": "A listed company with widely held shares.",
     "claimIds": [
-      "adidas-ag-record"
+      "adidas-ag-ownership"
     ],
     "aliases": [],
-    "note": "Rating note: Judgement call: ownership is clean (no state stake) so 'none' was tempting, but the Xinjiang cotton/forced-labour exposure is a named, documented human-rights issue, so 'concern' on record not ownership. Same owner as sponsorId 'adidas-a'."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. The Xinjiang cotton tests were journalism, not a finding of forced labour against adidas (METHOD.md)."
   },
   {
     "id": "adidas-a",
     "name": "adidas",
     "ownerId": "adidas-ag",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "adidas AG is a Frankfurt-listed German sportswear maker with a near-total free float: the company's own ownership analysis for December 2025 identified almost 100%….",
+    "verdict": "A listed company with widely held shares.",
     "claimIds": [
-      "adidas-ag-record"
+      "adidas-ag-ownership"
     ],
     "aliases": [],
-    "note": "Rating note: Same company as sponsorId 'adidas' (Mercedes and Audi F1 partner deals are both adidas AG)."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. The Xinjiang cotton tests were journalism, not a finding of forced labour against adidas (METHOD.md)."
   },
   {
     "id": "adobe",
@@ -206,8 +217,8 @@
       "text": "The Russian state owns about 74% of Aeroflot. Russia has been at war with Ukraine since its full-scale invasion in February 2022, and after Western countries imposed sanctions over the invasion, Aeroflot stopped almost all its international flights. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
         "russian-federation-record",
-        "aeroflot-state-stake",
-        "aeroflot-sanctions-2022"
+        "aeroflot-sanctions-2022",
+        "aeroflot-state-stake"
       ],
       "messageLine": "Russia is fighting the war in Ukraine, and Aeroflot has been under EU and US sanctions since 2022.",
       "status": "draft"
@@ -613,17 +624,18 @@
     "claimIds": [
       "gov-saudi-arabia-record",
       "saudi-executions-2024",
-      "saudi-executions-2025"
+      "saudi-executions-2025",
+      "khashoggi-assessment"
     ],
     "aliases": [],
     "note": "Rating note: Ownership source: Fitch Ratings, 'Saudi Arabian Oil Company', 2025-01-31 (https://www.fitchratings.com/research/corporate-finance/saudi-arabian-oil-company-31-01-2025); Aramco FY2025 Annual Report states the Government remains largest shareholder at 81.48%. Aston Martin Aramco F1 title sponsor (aramco.com).",
     "why": {
       "text": "Aramco is controlled by the Saudi state: the government holds about 81.5% directly and its fund PIF a further 16%. Saudi Arabia carried out a record 345 executions in 2024, and US intelligence assessed that the crown prince approved the operation that killed journalist Jamal Khashoggi. A famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
-        "gov-saudi-arabia-record",
         "saudi-executions-2024",
         "khashoggi-assessment",
-        "saudi-executions-2025"
+        "saudi-executions-2025",
+        "gov-saudi-arabia-record"
       ],
       "messageLine": "Saudi Arabia carried out a record 345 executions in 2024.",
       "status": "draft"
@@ -985,15 +997,14 @@
     "name": "Bank of America",
     "ownerId": "bank-of-america",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Bank of America Corporation is a US-listed bank with dispersed institutional ownership (BlackRock and Vanguard the largest holdings, both well under 10%) and no….",
+    "verdict": "A listed company whose largest holders are investment firms.",
     "claimIds": [
-      "bank-of-america-record",
-      "bank-of-america-mortgage-settlement-2014"
+      "bank-of-america-major-holders-2026"
     ],
     "aliases": [],
-    "note": "Rating note: Fossil-fuel and settlement record is well documented but not 'sustained abuse', so concern not serious."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; the 2016 finding concerns hiring in 1993, more than 20 years ago; fossil finance and mortgage settlements are not human-rights findings."
   },
   {
     "id": "banque-saudi-fransi",
@@ -1040,13 +1051,14 @@
     "name": "Barclays",
     "ownerId": "barclays",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Barclays PLC is a UK-listed bank whose only notifiable holder above the 3% disclosure threshold as at 31 December 2025 is BlackRock (about 5.8% in 2024), with no….",
+    "verdict": "A listed bank; BlackRock is the only holder of 3% or more.",
     "claimIds": [
-      "barclays-record"
+      "barclays-major-shareholders-2025"
     ],
-    "aliases": []
+    "aliases": [],
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
   },
   {
     "id": "barmenia",
@@ -1279,12 +1291,22 @@
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "The Boeing Company is a US-listed commercial and defence aerospace prime with a widely held register and no state shareholder; its largest holders are index….",
+    "verdict": "A US court found that Boeing's deception of regulators led to the 737 MAX crashes that killed 346 people.",
     "claimIds": [
-      "boeing-record"
+      "boeing-ownership",
+      "boeing-737-max-court-finding"
     ],
     "aliases": [],
-    "note": "Rating note: Read literally, Boeing's weapons sales to conflict parties could argue for severe; kept at concern because the company itself is not a belligerent state entity."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): The Boeing Company (listed; largest holders Vanguard 9.0%, FMR 7.0%, BlackRock 6.8%) - Boeing admitted in 2021 that its pilots deceived the FAA about the 737 MAX, and a US federal judge found in 2022 that without that conspiracy the 346 people killed in two crashes would not have died.",
+    "why": {
+      "text": "In 2021 Boeing admitted that two of its pilots had deceived US regulators about the 737 MAX's MCAS flight-control system. In 2022 a US federal judge found that, but for Boeing's conspiracy to defraud the regulator, the 346 people killed in two 737 MAX crashes would not have lost their lives.",
+      "claimIds": [
+        "boeing-737-max-court-finding",
+        "boeing-ownership"
+      ],
+      "messageLine": "A US federal judge found that, but for Boeing's conspiracy to defraud the FAA, 346 people would not have lost their lives in the two 737 MAX crashes.",
+      "status": "draft"
+    }
   },
   {
     "id": "bora",
@@ -1330,12 +1352,22 @@
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "No state shareholder (London/NYSE-listed), but a sustained documented adverse record: the US court found BP grossly negligent over the 2010 Deepwater Horizon spill….",
+    "verdict": "BP pleaded guilty to manslaughter over the 11 deaths in the 2010 Deepwater Horizon disaster.",
     "claimIds": [
-      "bp-plc-record"
+      "bp-major-shareholders-2025",
+      "bp-deepwater-horizon-manslaughter-plea-2013"
     ],
     "aliases": [],
-    "note": "Rating note: Rated with shell for consistency. BP also held a 19.75% stake in Russia's state-controlled Rosneft until 2022 - a further Russia-exposure note."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): BP p.l.c. (listed; largest holder BlackRock, no state at 5%+) - in 2013 a US court accepted BP Exploration and Production's guilty plea to 11 counts of felony manslaughter for the 11 men killed on the Deepwater Horizon rig in 2010.",
+    "why": {
+      "text": "In 2013 a US court accepted the guilty plea of BP Exploration and Production, the bp company that was lease operator of the block where the Deepwater Horizon rig exploded in 2010, to 14 criminal counts, including 11 counts of felony manslaughter. BP admitted that its two highest-ranking supervisors on the rig negligently caused the deaths of 11 men.",
+      "claimIds": [
+        "bp-deepwater-horizon-manslaughter-plea-2013",
+        "bp-major-shareholders-2025"
+      ],
+      "messageLine": "In 2013 BP pleaded guilty to 11 counts of felony manslaughter over the 2010 Deepwater Horizon disaster, admitting its supervisors negligently caused the deaths of 11 men.",
+      "status": "draft"
+    }
   },
   {
     "id": "breitling",
@@ -1445,15 +1477,15 @@
     "name": "Capital One",
     "ownerId": "capital-one-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Capital One Financial Corp.",
+    "verdict": "A listed company whose largest holders are investment firms.",
     "claimIds": [
-      "capital-one-owner-record",
-      "capital-one-cfpb-add-on-products-2012"
+      "capital-one-major-holders-2026",
+      "capital-one-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Capital One has paid significant regulatory settlements including $425 million in 2023 for 360 Savings interest-rate practices and $140 million in 2020 for CFPB credit card marketing practices."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
   },
   {
     "id": "carlsberg",
@@ -1523,12 +1555,24 @@
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "Castrol is BP's lubricants brand, so it inherits BP's owner chain (London/NYSE-listed, no state shareholder) and its sustained documented adverse record on the….",
+    "verdict": "BP's lubricants brand; BP pleaded guilty to manslaughter over the 11 Deepwater Horizon deaths.",
     "claimIds": [
-      "bp-plc-record"
+      "castrol-bp-ownership",
+      "bp-major-shareholders-2025",
+      "bp-deepwater-horizon-manslaughter-plea-2013"
     ],
     "aliases": [],
-    "note": "Rating note: Same owner id as bp so the website derives one blood contribution. Castrol is F1's long-running lubricant partner."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): Castrol is BP's lubricants brand (BP p.l.c., listed, largest holder BlackRock); same BP record as the bp entry: the 2013 guilty plea to 11 counts of felony manslaughter over the Deepwater Horizon deaths. Pending sale of 65% to Stonepeak not completed yet.",
+    "why": {
+      "text": "Castrol is BP's lubricants brand; bp has agreed to sell 65% of it to Stonepeak. In 2013 a US court accepted the guilty plea of BP Exploration and Production, the bp company that was lease operator of the block where the Deepwater Horizon rig exploded in 2010, to 11 counts of felony manslaughter. BP admitted that its two highest-ranking supervisors on the rig negligently caused the deaths of 11 men.",
+      "claimIds": [
+        "bp-deepwater-horizon-manslaughter-plea-2013",
+        "castrol-bp-ownership",
+        "bp-major-shareholders-2025"
+      ],
+      "messageLine": "In 2013 BP, Castrol's owner, pleaded guilty to 11 counts of felony manslaughter over the 2010 Deepwater Horizon disaster, admitting its supervisors negligently caused the deaths of 11 men.",
+      "status": "draft"
+    }
   },
   {
     "id": "cazoo",
@@ -1680,12 +1724,22 @@
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "Citigroup is a NYSE-listed bank with no state ownership but has documented conduct issues including sanctions violations and settlements related to….",
+    "verdict": "A US regulator found that Citibank discriminated against applicants of Armenian origin (2015-2021).",
     "claimIds": [
-      "citigroup-citi-owner-record"
+      "citigroup-major-holders-2026",
+      "citibank-cfpb-armenian-american-discrimination-2023"
     ],
     "aliases": [],
-    "note": "Rating note: Citigroup has no state ownership but has a documented conduct record: paid ~$1.1bn in 2019 for Iran-related sanctions/AML failures and agreed to forfeit $227m in 2012 for Iran/Sudan transactions. Under rubric, this is a 'lesser link' (concern) not ownership-based severe/serious."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): Citigroup Inc. (listed; largest holders Vanguard and BlackRock, no state) - a 2023 CFPB consent order found Citibank had a pattern or practice of discriminating against credit card applicants based on Armenian national origin (2015-2021); order ended early in October 2025.",
+    "why": {
+      "text": "In 2023 the US Consumer Financial Protection Bureau found that from at least 2015 through 2021 Citibank had a pattern or practice of discriminating against credit card applicants based on Armenian national origin, picking them out by last names ending in -ian or -yan. It ordered the bank to pay a $24.5 million penalty and $1.4 million in redress.",
+      "claimIds": [
+        "citibank-cfpb-armenian-american-discrimination-2023",
+        "citigroup-major-holders-2026"
+      ],
+      "messageLine": "In 2023 the US consumer finance regulator found that from at least 2015 through 2021 Citibank discriminated against credit card applicants based on Armenian national origin.",
+      "status": "draft"
+    }
   },
   {
     "id": "citizens-bank",
@@ -1813,12 +1867,22 @@
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "Cognizant Technology Solutions Corporation (NASDAQ: CTSH) is a US-listed IT services firm with dispersed institutional ownership and no state shareholder in any of….",
+    "verdict": "A US jury found that Cognizant intentionally discriminated against employees who were not South Asian or Indian.",
     "claimIds": [
-      "cognizant-record"
+      "cognizant-major-holders-2026",
+      "cognizant-palmer-discrimination-verdict-2024"
     ],
     "aliases": [],
-    "note": "Rating note: Tier call is the softest in the batch - the FCPA case is real but small relative to peer sets. 'none' would be defensible."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): Cognizant (listed; 5% holders BlackRock and State Street, no state) - an October 2024 federal jury found a pattern or practice of intentional discrimination against non-South Asian and non-Indian employees; the verdict stands (post-trial motions denied Oct 2025, disparate-impact finding Dec 2025, case in phase two).",
+    "why": {
+      "text": "In October 2024 a unanimous US federal jury found that Cognizant engaged in a pattern or practice of intentional discrimination, on the basis of race and national origin, against employees who were not South Asian or Indian, in terminating staff from its pool of employees not assigned to a project. In December 2025 the court also found that its visa policies had a disparate impact on these employees.",
+      "claimIds": [
+        "cognizant-palmer-discrimination-verdict-2024",
+        "cognizant-major-holders-2026"
+      ],
+      "messageLine": "In 2024 a US federal jury found that Cognizant engaged in a pattern or practice of intentional discrimination against its non-South Asian and non-Indian employees.",
+      "status": "draft"
+    }
   },
   {
     "id": "coinbase",
@@ -2119,9 +2183,9 @@
     "name": "Deutsche Telekom",
     "ownerId": "federal-republic-of-germany",
     "ownership": "part-owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Deutsche Telekom's own shareholder-structure page shows the Federal Republic of Germany as the anchor shareholder via KfW (approx.",
+    "verdict": "The German state holds about 28% of Deutsche Telekom, directly and through KfW.",
     "claimIds": [
       "federal-republic-of-germany-record"
     ],
@@ -2129,7 +2193,7 @@
       "telekom",
       "t-mobile"
     ],
-    "note": "Rating note: State is the largest single owner block → state link, but Germany's record is not seriously abusive → concern. Alternative reading: none. KfW stake note: https://www.kfw.de/About-KfW/Newsroom/Latest-News/News-Details_134528.html"
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. State ownership alone is not a tier: Germany has no record of serious abuses."
   },
   {
     "id": "deutsche-vermoegensberatung",
@@ -2171,14 +2235,14 @@
     "name": "DHL",
     "ownerId": "deutsche-post-dhl",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "DHL Group (Deutsche Post AG) is a listed German logistics company, but it is not purely private: KfW Bankengruppe, the state-owned German development bank, holds….",
+    "verdict": "KfW, the German state development bank, holds about 17% of DHL Group.",
     "claimIds": [
       "deutsche-post-dhl-record"
     ],
     "aliases": [],
-    "note": "Rating note: Judgement call: 17.7% via KfW is a partial, not controlling, state stake, so 'concern' per the rubric. DHL would argue over 78% is free float and it is not state-controlled - which is why it is not 'serious'."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. State ownership alone is not a tier: Germany has no record of serious abuses."
   },
   {
     "id": "diageo",
@@ -2477,16 +2541,18 @@
     "status": "rated",
     "verdict": "The airline is owned by the Dubai government’s investment arm.",
     "claimIds": [
-      "uae-mass-trial-2024"
+      "uae-mass-trial-2024",
+      "emirates-icd-ownership"
     ],
     "aliases": [
       "dubai"
     ],
     "ownerVerb": "owned by",
     "why": {
-      "text": "Dubai is part of the United Arab Emirates. In 2024, a UAE court gave 43 people, including human rights defenders, life sentences after a single mass trial that human rights monitors called unfair. Putting Emirates on a famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+      "text": "Emirates is wholly owned by the Investment Corporation of Dubai, a Dubai government entity. Dubai is part of the United Arab Emirates, where in July 2024 a court in Abu Dhabi sentenced 43 people, including human rights defenders, to life in prison after a mass trial that human rights monitors called unfair. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
-        "uae-mass-trial-2024"
+        "uae-mass-trial-2024",
+        "emirates-icd-ownership"
       ],
       "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial.",
       "status": "draft"
@@ -2558,12 +2624,14 @@
   {
     "id": "etihad-airways",
     "name": "Etihad Airways",
-    "ownerId": "government-of-abu-dhabi",
+    "ownerId": "limad",
     "ownership": "owned",
     "tier": "serious",
     "status": "rated",
-    "verdict": "The airline is owned by the Government of Abu Dhabi.",
+    "verdict": "Owned by the Abu Dhabi government through its sovereign fund L'IMAD Holding.",
     "claimIds": [
+      "etihad-adq-ownership-2022",
+      "etihad-limad-2026",
       "uae-mass-trial-2024",
       "uae-mass-trial-upheld-2025"
     ],
@@ -2572,14 +2640,17 @@
       "abu dhabi"
     ],
     "why": {
-      "text": "Etihad is owned by the Government of Abu Dhabi, part of the United Arab Emirates. In 2024, a UAE court gave 43 people, including human rights defenders, life sentences after a single mass trial that human rights monitors called unfair, and in March 2025 the UAE’s Federal Supreme Court upheld the convictions. Putting Etihad on a famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+      "text": "Etihad Airways belongs to the Abu Dhabi government through its investment companies: its parent group was transferred in full to ADQ in 2022, and in 2026 ADQ's assets, Etihad included, were consolidated into L'IMAD Holding, one of the Abu Dhabi government's sovereign investment funds. In July 2024, a court in Abu Dhabi sentenced 43 people, including human rights defenders, to life in prison after a mass trial that human rights monitors called unfair, and in March 2025 the UAE’s Federal Supreme Court upheld the convictions. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
         "uae-mass-trial-2024",
-        "uae-mass-trial-upheld-2025"
+        "uae-mass-trial-upheld-2025",
+        "etihad-adq-ownership-2022",
+        "etihad-limad-2026"
       ],
       "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial, and the convictions were upheld in 2025.",
       "status": "draft"
-    }
+    },
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): Etihad moved from the Abu Dhabi government to ADQ (2022) and into L'IMAD Holding (2026), both Abu Dhabi state funds."
   },
   {
     "id": "etoro",
@@ -2656,16 +2727,18 @@
     "status": "rated",
     "verdict": "Experience Abu Dhabi is the official tourism authority of the Emirate of Abu Dhabi, a state government entity.",
     "claimIds": [
-      "government-of-abu-dhabi-record"
+      "government-of-abu-dhabi-record",
+      "uae-mass-trial-2024",
+      "uae-mass-trial-upheld-2025"
     ],
     "aliases": [],
     "note": "Rating note: Ultimate owner is the Government of Abu Dhabi, a state entity, which places it in the serious tier per rubric (state owner).",
     "why": {
       "text": "Experience Abu Dhabi is a tourism brand of the Abu Dhabi government, part of the United Arab Emirates. In 2024, a UAE court gave 43 people, including human rights defenders, life sentences after a single mass trial that human rights monitors called unfair, and in March 2025 the UAE’s Federal Supreme Court upheld the convictions. A tourism brand on a famous jersey makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
-        "government-of-abu-dhabi-record",
         "uae-mass-trial-2024",
-        "uae-mass-trial-upheld-2025"
+        "uae-mass-trial-upheld-2025",
+        "government-of-abu-dhabi-record"
       ],
       "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial, and the convictions were upheld in 2025.",
       "status": "draft"
@@ -2982,20 +3055,23 @@
     "name": "G42",
     "ownerId": "mubadala",
     "ownership": "part-owned",
-    "tier": "serious",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "G42 is anchor-invested by Mubadala, Abu Dhabi's sovereign wealth fund, and is chaired by Sheikh Tahnoon bin Zayed (ruling family) - UAE state money, rated serious….",
+    "verdict": "Abu Dhabi’s state fund Mubadala is a shareholder with a seat on the board.",
     "claimIds": [
-      "mubadala-record",
+      "g42-mubadala-minority-stake",
+      "g42-board-abu-dhabi-officials",
+      "g42-royal-group-control",
       "mubadala-uae-convictions-upheld"
     ],
     "aliases": [],
-    "note": "Rating note: Ownership: Mubadala portfolio page - G42 'backed by Mubadala, Silver Lake, Microsoft and Dalio Family Office' (https://www.mubadala.com/en/what-we-do/g42). Mubadala is a shareholder, not sole owner, so 'part-owned'. Mercedes F1 sponsor.",
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was serious. Mubadala holds an undisclosed minority stake and its CEO sits on the board (board-seat test); the controlling shareholder on record is Royal Group, Sheikh Tahnoon's private holding, not the state.",
     "why": {
-      "text": "G42 counts Mubadala, Abu Dhabi’s sovereign wealth fund, as an investor, and the company is chaired by a member of Abu Dhabi’s ruling family. In March 2025, the UAE’s Federal Supreme Court upheld the convictions of 53 people from a mass trial that Human Rights Watch called unfair. A famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+      "text": "Abu Dhabi’s state fund Mubadala is a shareholder in G42, and Mubadala’s chief executive sits on G42’s board, which is chaired by Abu Dhabi’s deputy ruler. In March 2025, the UAE’s Federal Supreme Court upheld the convictions of 53 people from a mass trial that Human Rights Watch called unfair. A famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
-        "mubadala-record",
-        "mubadala-uae-convictions-upheld"
+        "mubadala-uae-convictions-upheld",
+        "g42-mubadala-minority-stake",
+        "g42-board-abu-dhabi-officials"
       ],
       "messageLine": "The UAE’s courts upheld the convictions from an unfair mass trial of activists and dissidents.",
       "status": "draft"
@@ -3069,12 +3145,22 @@
     "ownership": "owned",
     "tier": "severe",
     "status": "rated",
-    "verdict": "The Russian Government controls over 50% of Gazprom's shares (Russian Federation direct 38.37% plus government-controlled Rosneftegaz 10.97% and Rosgazifikatsiya….",
+    "verdict": "Controlled by the Russian state.",
     "claimIds": [
+      "gazprom-state-control",
       "russian-federation-record"
     ],
     "aliases": [],
-    "note": "Rating note: Severe: state-controlled and the state is the direct party to an ongoing armed conflict. State-control claim corroborated by the company's own investor page; war-funding claim from Yale HRL PDF."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): the Russian state controls Gazprom; Russia is at war with Ukraine.",
+    "why": {
+      "text": "Gazprom is controlled by the Russian state, which holds more than half of its shares, directly and through companies it controls. Russia launched a full-scale invasion of Ukraine in February 2022 and has been at war with Ukraine since. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+      "claimIds": [
+        "russian-federation-record",
+        "gazprom-state-control"
+      ],
+      "messageLine": "Russia launched a full-scale invasion of Ukraine in February 2022 and has been at war with Ukraine since.",
+      "status": "draft"
+    }
   },
   {
     "id": "gcs",
@@ -3205,16 +3291,16 @@
   {
     "id": "gree",
     "name": "Gree",
-    "ownerId": "gree-group-zhuhai-sasac",
+    "ownerId": "gree-electric",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Gree Electric Appliances Inc.",
+    "verdict": "Listed with no controlling shareholder; the Zhuhai state's Gree Group holds 3.46%.",
     "claimIds": [
-      "gree-group-zhuhai-sasac-record"
+      "gree-no-controlling-shareholder"
     ],
     "aliases": [],
-    "note": "Rating note: Chinese appliance maker, so Xinjiang/forced-labour questions attach to the wider PRC SOE supply chain but no Gree-specific adverse finding was located: hence concern (partial state ownership) rather than serious. Owner type 'state' (municipal SASAC), country CN."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. The Zhuhai state sold control in 2019-2020 and holds 3.46%, under 5%, with no board seat."
   },
   {
     "id": "groupama",
@@ -3516,14 +3602,14 @@
     "name": "Herbalife",
     "ownerId": "herbalife-ltd",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Herbalife, the LA Galaxy front sponsor, is listed on the NYSE (HLF) with a public float and no state stake.",
+    "verdict": "A listed company whose largest holders are investment firms.",
     "claimIds": [
-      "herbalife-ltd-record"
+      "herbalife-major-holders-2026"
     ],
     "aliases": [],
-    "note": "Rating note: The 2016 FTC action is dated but is still the defining regulatory finding; Herbalife has had no state or conflict link."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
   },
   {
     "id": "hexaom",
@@ -3684,14 +3770,14 @@
     "name": "Hyundai (Hyundai Motor America)",
     "ownerId": "hyundai-motor-group",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Hyundai Motor America is the US sales subsidiary of Hyundai Motor Company (KRX: 005380), and Hyundai's own shareholder register for the end of 2025 lists Hyundai….",
+    "verdict": "Hyundai Motor Company is listed and family-controlled; South Korea's National Pension Service holds about 7.8%.",
     "claimIds": [
       "hyundai-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Chain traced to the top: Hyundai Motor America (listed in the same report's global network/subsidiary table as the US sales entity) is a wholly owned subsidiary of Hyundai Motor Company, Seoul-listed, which is itself the largest single shareholder of Kia (35.17%) while Hyundai Mobis (22.36% of Hyundai Motor) is Hyundai Motor's largest shareholder and Kia in turn owns roughly 17-18% of Mobis - a circular chaebol ring with no single shareholder at the top. Control sits with the Chung family (Euisun Chung 2.73% direct plus chair role on 0.33% of Mobis, his father Mong-Koo Chung 5.57% of Hyundai Motor and about 7.3% of Mobis), not with any state. Tier is 'concern' rather than 'none' because the parent's register contains genuine partial state/state-fund money: National Pension Service 7.76% as of end-2025, and 'The Government of Singapore' (GIC) at 3.55% as of end-2024 in the company's 2025 Sustainability Report (https://www.hyundai.news/newsroom/dam/eu/brand/20250704_2025_sustainability_report/hmc-2025-sustainability-report-en.pdf). It is not 'serious' because no state or state fund controls Hyundai - the listed company is family-controlled, so the state link is minority, which is exactly the rubric's 'partial state stake'. Honesty flag: the existing corpus entry for kia-america (same parent chain) says 'no state ownership ... privately held conglomerate' and is tiered 'none'; the NPS/GIC holdings are the difference, so the two entries are now inconsistent and kia-america is worth re-checking on the same evidence. Secondary corroboration for the filing itself: Hyundai Motor Company Annual Report filed with DART (rcpNo 20250312001148, 2025-03-12) https://englishdart.fss.or.kr/dsbh001/main.do?rcpNo=20250312001148."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. South Korea's pension fund holds 7.8%, but no claim ties South Korea to serious abuses."
   },
   {
     "id": "hyundai-kia",
@@ -3763,14 +3849,15 @@
     "name": "IFS",
     "ownerId": "ifs-ab",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "IFS, the Cadillac F1 partner, is controlled by private equity: EQT holds control and Hg became a co-control shareholder in April 2025, with TA Associates and new….",
+    "verdict": "Controlled by the private-equity firms EQT and Hg.",
     "claimIds": [
-      "ifs-ab-record"
+      "ifs-shareholders-2025",
+      "ifs-board-2026"
     ],
     "aliases": [],
-    "note": "Rating note: EQT itself is a listed Swedish PE firm, so the chain has both listed-PE and private-fund layers; ADIA's entry is minority, hence 'concern'."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. ADIA is a minority shareholder of undisclosed size with no board seat; if a stake of 5% or more is published, it becomes concern."
   },
   {
     "id": "indeed",
@@ -3845,14 +3932,14 @@
     "name": "Intuit (Intuit Inc., Nasdaq: INTU)",
     "ownerId": "intuit-intuit-inc-nasdaq-intu-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Intuit Inc.",
+    "verdict": "A listed company whose largest holders are investment firms.",
     "claimIds": [
-      "intuit-intuit-inc-nasdaq-intu-owner-record"
+      "intuit-major-holders-2026"
     ],
     "aliases": [],
-    "note": "Rating note: Ownership is clean: Nasdaq-listed, US-incorporated, dispersed float, only two >5% holders (both passive index managers), no state stake, so the ownership half of the test returns 'none'. Tiered 'concern' on conduct, following the house practice set by the herbalife, cognizant, citigroup and kroger entries, where a single named enforcement record with money attached was treated as the rubric's 'a lesser link': the FTC issued an Opinion and Final Order on 22 January 2024 upholding the Chief ALJ and holding that Intuit violated Section 5 of the FTC Act by running 'free' ads for products most consumers were ineligible for (https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-issues-opinion-finding-turbotax-maker-intuit-inc-engaged-deceptive-practices), and Intuit paid $141m to about 4.4 million mainly low-income taxpayers under a 50-state settlement signed in May 2022 (https://ag.ny.gov/press-release/2022/attorney-general-james-secures-141-million-millions-americans-deceived-turbotax). The 2026 DEF 14A is also the primary document that rules out a state stake: it is filed after the FY2025 10-K and carries the >5% beneficial-ownership table as of 31 October 2025 on 278,508,855 shares outstanding. Offsets in the other direction, recorded honestly: the FTC matter is one saga rather than a sustained pattern, and the precedent entry for deel held that company-level regulatory matters alone keep a sponsor at 'none' - so 'none' would be defensible for Intuit on a strict state-ownership-only reading. Not 'serious' (no state owner) and not 'severe' (no conflict exposure)."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
   },
   {
     "id": "io-sono-friuli-venezia-giulia",
@@ -3944,14 +4031,14 @@
     "name": "Jeep (with Visit Detroit)",
     "ownerId": "stellantis-nv",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Jeep (with Visit Detroit) on the Juventus front is a brand of Stellantis N.V., the Amsterdam-domiciled, NYSE/Euronext-listed automaker.",
+    "verdict": "A brand of Stellantis, whose holders include the French state investment bank Bpifrance (6.64%).",
     "claimIds": [
       "stellantis-nv-record"
     ],
     "aliases": [],
-    "note": "Rating note: The 2026 20-F also records Bpifrance's loyalty-voting power; the stake is minority and doubled-voting, so 'concern' not 'serious'."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. France has no record of serious abuses, so Bpifrance's stake is not a link."
   },
   {
     "id": "jefferson-health",
@@ -4005,15 +4092,15 @@
     "name": "JPMorgan Chase (Chase)",
     "ownerId": "jpmorgan-chase-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "JPMorgan Chase & Co.",
+    "verdict": "A listed company whose largest holders are investment firms.",
     "claimIds": [
-      "jpmorgan-chase-chase-owner-record",
-      "jpmorgan-chase-fossil-finance-2025"
+      "jpmorgan-chase-major-holders-2026",
+      "jpmorgan-chase-chase-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: JPMorgan Chase has paid multiple significant settlements including $151 million in 2024 for SEC violations and various other regulatory matters."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
   },
   {
     "id": "jpmorganchase",
@@ -4159,14 +4246,14 @@
     "name": "Kia America",
     "ownerId": "kia-america-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Kia Corporation is a KRX-listed automaker with Hyundai Motor Company as largest shareholder (~35.17%) and no state ownership; Hyundai Motor Company is a privately….",
+    "verdict": "Kia is listed; its largest shareholder is Hyundai Motor Company.",
     "claimIds": [
       "kia-america-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Kia's largest shareholder is Hyundai Motor Company (~35.17%), a private conglomerate; no state ownership in Kia or its parent. No documented human-rights concerns in ownership chain identified. ADJUSTED: same chain as hyundai - Hyundai Motor Company holds 35.17% of Kia and the NPS 7.76% stake sits behind it"
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern with no stated reason; no state stake that counts."
   },
   {
     "id": "kingdom-holding",
@@ -4255,14 +4342,14 @@
     "name": "Kroger",
     "ownerId": "kroger-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Kroger agreed to pay up to $1.4 billion to settle opioid lawsuits with states, counties and tribes in 2023.",
+    "verdict": "A listed company whose largest holders are investment firms.",
     "claimIds": [
-      "kroger-owner-record"
+      "kroger-major-holders-2026"
     ],
     "aliases": [],
-    "note": "Rating note: Conduct record: opioid settlement settlement is a documented conduct record, warranting concern tier (lesser link). No state stake identified."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
   },
   {
     "id": "kutxabank",
@@ -4295,14 +4382,14 @@
     "name": "LBBW",
     "ownerId": "state-of-baden-wuerttemberg",
     "ownership": "part-owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Landesbank Baden-Württemberg is a public-law institution whose Owners are the Savings Banks Association of Baden-Württemberg (SVBW), the State of….",
+    "verdict": "A public bank owned by the State of Baden-Württemberg, the city of Stuttgart and the savings banks.",
     "claimIds": [
       "state-of-baden-wuerttemberg-record"
     ],
     "aliases": [],
-    "note": "Rating note: Owner is the German state/public sector; Germany has no 'documented serious abuses' at state level, so this is treated as a lesser link → concern. An honest alternative reading is none (clean state). Recorded here rather than picked silently."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. State ownership alone is not a tier: a German state has no record of serious abuses."
   },
   {
     "id": "le-football-a-la-pointe",
@@ -4368,12 +4455,26 @@
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "Lenovo, Formula 1's league-level partner, is listed in Hong Kong (992) and its largest shareholder is Legend Holdings Corporation with about 31.4% - Legend's own….",
+    "verdict": "About a tenth indirectly owned by the Chinese state, through Legend Holdings.",
     "claimIds": [
-      "lenovo-group-ltd-record"
+      "lenovo-legend-stake-2026",
+      "legend-cas-holdings-stake-2026",
+      "cas-holdings-state-owned",
+      "china-xinjiang-un-assessment"
     ],
     "aliases": [],
-    "note": "Rating note: Legend Holdings holds 31.41% of Lenovo (also confirmed on Lenovo's own IR shareholding page); CAS Holdings held ~29.04% of Legend. Control runs through a listed holding company, so the state's effective economic interest is under 10% - hence 'concern'."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): CAS Holdings (wholly state-owned) holds 29.04% of Legend, which holds 32.95% of Lenovo: about 9.5% through the chain.",
+    "why": {
+      "text": "Lenovo’s largest shareholder is Legend Holdings, with about a third, and Legend’s largest shareholder, with 29%, is a company wholly owned by the Chinese state. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So part of the money behind Lenovo is the Chinese state’s.",
+      "claimIds": [
+        "china-xinjiang-un-assessment",
+        "lenovo-legend-stake-2026",
+        "legend-cas-holdings-stake-2026",
+        "cas-holdings-state-owned"
+      ],
+      "messageLine": "The UN human rights office found that China’s large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+      "status": "draft"
+    }
   },
   {
     "id": "les-constructeurs-reunis",
@@ -4656,16 +4757,18 @@
     "status": "rated",
     "verdict": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund, so it carries the same Saudi state money as Aramco and the same serious rating.",
     "claimIds": [
-      "pif-record"
+      "pif-record",
+      "saudi-executions-2024",
+      "khashoggi-assessment"
     ],
     "aliases": [],
     "note": "Rating note: Ma'aden's own newsroom confirms 'PIF remaining the majority shareholder' (https://www.maaden.com/news-insights/latest-news/maaden-to-acquire-full-ownership-of-aluminium-and-bauxite-assets-in-major-strategic-move). Aston Martin F1 'elevated partnership' sponsor (astonmartinf1.com). Saudi abuse evidence as per aramco (Amnesty).",
     "why": {
       "text": "Ma’aden is about 67% owned by PIF, Saudi Arabia’s sovereign wealth fund. Saudi Arabia carried out a record 345 executions in 2024, and US intelligence assessed that the crown prince approved the operation that killed journalist Jamal Khashoggi. A famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
-        "pif-record",
         "saudi-executions-2024",
-        "khashoggi-assessment"
+        "khashoggi-assessment",
+        "pif-record"
       ],
       "messageLine": "Saudi Arabia carried out a record 345 executions in 2024.",
       "status": "draft"
@@ -5039,30 +5142,31 @@
     "name": "Mobil 1 / Esso",
     "ownerId": "exxon-mobil-corporation",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Mobil 1 (and Esso) is the Oracle Red Bull Racing fuel/lubricants partner and is a brand of Exxon Mobil Corporation (NYSE: XOM), the New Jersey-incorporated oil….",
+    "verdict": "A brand of ExxonMobil, a listed company whose largest holders are investment firms.",
     "claimIds": [
-      "exxon-mobil-corporation-record",
-      "exxon-valdez-oil-spill"
+      "mobil-1-exxonmobil-brand",
+      "esso-exxonmobil-brand",
+      "exxon-mobil-major-holders-2026"
     ],
     "aliases": [],
-    "note": "Rating note: Judgement call: the tier reflects corporate conduct (pollution/climate) rather than any state stake; a stricter 'state-only' reading would make it 'none'."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
   },
   {
     "id": "mobil-1-rb",
     "name": "Mobil 1",
     "ownerId": "exxon-mobil-corporation",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Mobil 1 (and Esso) is the Racing Bulls fuel/lubricants partner and is a brand of Exxon Mobil Corporation (NYSE: XOM), the New Jersey-incorporated oil major with a….",
+    "verdict": "A brand of ExxonMobil, a listed company whose largest holders are investment firms.",
     "claimIds": [
-      "exxon-mobil-corporation-record",
-      "exxon-valdez-oil-spill"
+      "mobil-1-exxonmobil-brand",
+      "exxon-mobil-major-holders-2026"
     ],
     "aliases": [],
-    "note": "Rating note: Judgement call: the tier reflects corporate conduct (pollution/climate) rather than any state stake; a stricter 'state-only' reading would make it 'none'."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
   },
   {
     "id": "moda-health",
@@ -5151,17 +5255,32 @@
   {
     "id": "motorola-mobility",
     "name": "Motorola Mobility",
-    "ownerId": "motorola-mobility-owner",
+    "ownerId": "lenovo-group-ltd",
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "Lenovo acquired Motorola Mobility from Google in January 2014, making Motorola Mobility a subsidiary of Lenovo Group Limited.",
+    "verdict": "Owned by Lenovo, about a tenth of which the Chinese state owns indirectly.",
     "claimIds": [
       "motorola-mobility-owner-record",
-      "lenovo-group-ltd-record"
+      "lenovo-legend-stake-2026",
+      "legend-cas-holdings-stake-2026",
+      "cas-holdings-state-owned",
+      "china-xinjiang-un-assessment"
     ],
     "aliases": [],
-    "note": "Rating note: Although Motorola Mobility is a subsidiary of Lenovo (which has partial state stake via Legend Holdings), the direct owner is Lenovo; Lenovo has concern tier due to partial state stake (Legend Holdings ~31.4%, CAS Holdings ~29.04% leading to indirect state interest ~9%). Therefore, Motorola Mobility inherits concern tier."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): owned by Lenovo; the Chinese state holds about 9.5% of Lenovo through CAS Holdings and Legend.",
+    "why": {
+      "text": "Motorola belongs to Lenovo. Lenovo’s largest shareholder is Legend Holdings, with about a third, and Legend’s largest shareholder, with 29%, is a company wholly owned by the Chinese state. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So part of the money behind Motorola is the Chinese state’s.",
+      "claimIds": [
+        "china-xinjiang-un-assessment",
+        "motorola-mobility-owner-record",
+        "lenovo-legend-stake-2026",
+        "legend-cas-holdings-stake-2026",
+        "cas-holdings-state-owned"
+      ],
+      "messageLine": "The UN human rights office found that China’s large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+      "status": "draft"
+    }
   },
   {
     "id": "mouwasat-hospital",
@@ -5418,14 +5537,14 @@
     "name": "Nissan",
     "ownerId": "nissan-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Through the Renault-Nissan Alliance, the French State holds a 15% stake in Renault, which in turn holds a 15% stake in Nissan, resulting in an indirect state….",
+    "verdict": "The French state holds 15% of Renault, which holds about 36% of Nissan.",
     "claimIds": [
       "nissan-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: The French State's stake in Renault creates an indirect state stake in Nissan; per rubric, partial state stake leads to concern tier."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. France has no record of serious abuses."
   },
   {
     "id": "noon",
@@ -5434,13 +5553,24 @@
     "ownership": "part-owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "Part-owned by Saudi Arabia’s Public Investment Fund.",
+    "verdict": "Half owned by Saudi Arabia’s Public Investment Fund.",
     "claimIds": [
+      "noon-pif-stake",
       "saudi-executions-2024"
     ],
     "aliases": [
       "saudi"
-    ]
+    ],
+    "why": {
+      "text": "Saudi Arabia’s state fund, PIF, owns half of noon. Saudi Arabia carried out a record 345 executions in 2024. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+      "claimIds": [
+        "saudi-executions-2024",
+        "noon-pif-stake"
+      ],
+      "messageLine": "Saudi Arabia carried out a record 345 executions in 2024.",
+      "status": "draft"
+    },
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): PIF owns 50% (a joint venture, not control)."
   },
   {
     "id": "norelem",
@@ -5488,12 +5618,22 @@
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "Nouryon (formerly AkzoNobel Specialty Chemicals) is a privately held Dutch specialty chemicals group bought in 2018 for EUR 10.1bn and jointly owned by….",
+    "verdict": "Jointly owned by Carlyle and GIC, Singapore’s state fund.",
     "claimIds": [
-      "carlyle-group-and-gic-record"
+      "carlyle-group-and-gic-record",
+      "singapore-drug-executions-2025"
     ],
     "aliases": [],
-    "note": "Rating note: Tiered 'concern' not 'serious' because GIC co-owns with private-equity capital rather than holding 100%. Nouryon does not publish an exact split; 'jointly owned' implies broadly equal stakes."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): GIC is a named joint owner (share not published, no board seat); maintainers decided in September 2026 that Singapore's executions for drug offences count as a record.",
+    "why": {
+      "text": "Singapore’s state fund GIC owns Nouryon jointly with the private-equity firm Carlyle. Singapore carried out 17 executions in 2025, 15 of them for drug offences, and UN human rights experts have condemned its executions for drug offences as unlawful. So part of the money behind Nouryon is the Singapore state’s.",
+      "claimIds": [
+        "singapore-drug-executions-2025",
+        "carlyle-group-and-gic-record"
+      ],
+      "messageLine": "Singapore carried out 17 executions in 2025, 15 of them for drug offences.",
+      "status": "draft"
+    }
   },
   {
     "id": "nrg-energy",
@@ -5594,14 +5734,15 @@
     "name": "OKX",
     "ownerId": "okx-group",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "No state shareholder found.",
+    "verdict": "Privately owned; its founder, Star Xu, is the ultimate controlling party.",
     "claimIds": [
-      "okx-group-record"
+      "okx-ultimate-controlling-party",
+      "okx-founder-star-xu"
     ],
     "aliases": [],
-    "note": "Rating note: Exchange founded 2013 by Star Xu (OK Group); no sovereign fund on the register. DOJ Information v. 25 Cr. names Aux Cayes FinTech Co. Ltd d/b/a 'OKEx'/'OKX'. Man City sleeve sponsor (existing dataset row)."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its anti-money-laundering guilty plea is not a human-rights finding."
   },
   {
     "id": "omniyat",
@@ -5851,8 +5992,8 @@
       "text": "Petronas is wholly owned by the Malaysian state. Malaysia uses broad laws against its critics and holds refugees and migrants in indefinite detention, and UN experts and the US government report widespread exploitation of migrant workers, including debt bondage. A famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
         "gov-malaysia-record",
-        "petronas-state-ownership",
-        "malaysia-migrant-worker-exploitation"
+        "malaysia-migrant-worker-exploitation",
+        "petronas-state-ownership"
       ],
       "messageLine": "Human Rights Watch documents migrant workers in forced labour and refugees held in indefinite detention in Malaysia.",
       "status": "draft"
@@ -5926,30 +6067,30 @@
     "name": "Plenitude",
     "ownerId": "eni",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Plenitude is Eni's retail/renewables division; Eni is listed on Borsa Italiana and NYSE but the Italian Ministry of Economy and Finance plus CDP S.p.A.",
+    "verdict": "Controlled by Eni, in which the Italian state holds more than 30%.",
     "claimIds": [
       "eni-spa-record",
       "eni-plenitude-stake"
     ],
     "aliases": [],
-    "note": "Rating note: Flagged for proper look: the Italian state stake in Eni sits below 50% and via a listed parent, so concern rather than serious. Claims of Eni human-rights/environmental harm (Niger Delta, OPL 245) are contested and partly settled, supporting concern not serious."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. Italy has no record of serious abuses."
   },
   {
     "id": "pnc-bank",
     "name": "PNC Bank (PNC Financial Services)",
     "ownerId": "pnc-bank-pnc-financial-services-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "PNC Financial Services Group, Inc.",
+    "verdict": "A listed company whose largest holders are investment firms.",
     "claimIds": [
-      "pnc-bank-pnc-financial-services-owner-record",
-      "pnc-national-city-fair-lending-2013"
+      "pnc-major-holders-2026",
+      "pnc-bank-pnc-financial-services-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: PNC has paid significant settlements including $6.1 million in 2023 for BBVA 401(k) fees and various mortgage-related settlements."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; the 2013 fair-lending settlement is not a finding (the CFPB says so), and concerns 2002-2008."
   },
   {
     "id": "polestar",
@@ -6130,16 +6271,17 @@
     "verdict": "Qatar Airways Group Q.C.S.C.",
     "claimIds": [
       "government-of-qatar-record",
-      "qatar-world-cup-migrant-abuses"
+      "qatar-world-cup-migrant-abuses",
+      "qatar-migrant-worker-abuse-2025"
     ],
     "aliases": [],
     "note": "Rating note: Owner is a sovereign state, not a state fund, and Qatar is not a party to an armed conflict, so serious rather than severe. Migrant-worker deaths and unpaid wages documented by HRW and Amnesty; Qatar reformed kafala in 2020 but remedy/compensation remains outstanding (https://www.hrw.org/news/2022/11/17/fifa/qatar-migrant-workers-call-for-compensation-for-abuses).",
     "why": {
-      "text": "Qatar Airways is wholly owned by the Government of Qatar. In the years before the 2022 World Cup, migrant workers in Qatar faced widespread abuses, including unpaid wages, recruitment fees and deaths, and Amnesty International reports that workers are still exposed to exploitation and that expression and assembly are tightly restricted. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+      "text": "Qatar Airways is wholly owned by the Government of Qatar. In the years before the 2022 World Cup, migrant workers in Qatar faced widespread abuses, including unpaid wages, recruitment fees and deaths, and Amnesty International and Human Rights Watch report that workers still faced exploitation under the kafala system in 2025. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
-        "government-of-qatar-record",
-        "gov-qatar-record",
-        "qatar-world-cup-migrant-abuses"
+        "qatar-world-cup-migrant-abuses",
+        "qatar-migrant-worker-abuse-2025",
+        "government-of-qatar-record"
       ],
       "messageLine": "Amnesty International reports that migrant workers in Qatar are still exposed to exploitation.",
       "status": "draft"
@@ -6148,16 +6290,28 @@
   {
     "id": "qatar-airways-global",
     "name": "Qatar Airways",
-    "ownerId": "state-of-qatar-qia",
+    "ownerId": "government-of-qatar",
     "ownership": "owned",
     "tier": "serious",
     "status": "rated",
-    "verdict": "Qatar Airways is wholly owned by the State of Qatar, held through the Qatar Investment Authority sovereign wealth fund, and appears in QIA's domestic portfolio….",
+    "verdict": "Wholly owned by the government of Qatar.",
     "claimIds": [
-      "state-of-qatar-qia-record"
+      "state-of-qatar-qia-record",
+      "qatar-world-cup-migrant-abuses",
+      "qatar-migrant-worker-abuse-2025"
     ],
     "aliases": [],
-    "note": "Rating note: Called 'serious' rather than 'severe': Qatar is not a party to an ongoing armed conflict. Stake is arguably indirect (QIA + Ministry of Finance), but the state owns 100%."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): why text added.",
+    "why": {
+      "text": "Qatar Airways is fully owned by the government of Qatar. In the years before the 2022 World Cup, migrant workers in Qatar faced widespread abuses, including unpaid wages, recruitment fees and deaths, and Amnesty International and Human Rights Watch report that workers still faced exploitation under the kafala system in 2025. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+      "claimIds": [
+        "qatar-world-cup-migrant-abuses",
+        "qatar-migrant-worker-abuse-2025",
+        "state-of-qatar-qia-record"
+      ],
+      "messageLine": "Migrant workers in Qatar still faced labour abuses and exploitation under the kafala system in 2025.",
+      "status": "draft"
+    }
   },
   {
     "id": "qualcomm",
@@ -6454,7 +6608,9 @@
     "verdict": "Owned by Saudi Arabia’s sovereign wealth fund, which is chaired by Crown Prince Mohammed bin Salman.",
     "claimIds": [
       "saudi-executions-2024",
-      "khashoggi-assessment"
+      "khashoggi-assessment",
+      "riyadh-air-pif-ownership",
+      "pif-chaired-by-crown-prince"
     ],
     "aliases": [
       "saudi",
@@ -6462,10 +6618,12 @@
     ],
     "ownerVerb": "owned by",
     "why": {
-      "text": "Riyadh Air belongs to Saudi Arabia’s state fund, which the crown prince chairs. Saudi Arabia carried out a record 345 executions in 2024, and US intelligence assessed that the crown prince approved the operation that killed journalist Jamal Khashoggi. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+      "text": "Riyadh Air is wholly owned by Saudi Arabia’s state fund, PIF, which the crown prince chairs. Saudi Arabia carried out a record 345 executions in 2024, and US intelligence assessed that the crown prince approved the operation that killed journalist Jamal Khashoggi. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
         "saudi-executions-2024",
-        "khashoggi-assessment"
+        "khashoggi-assessment",
+        "riyadh-air-pif-ownership",
+        "pif-chaired-by-crown-prince"
       ],
       "messageLine": "Saudi Arabia carried out a record 345 executions in 2024.",
       "status": "draft"
@@ -6590,28 +6748,40 @@
     "name": "3M",
     "ownerId": "3m-company",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by 3M Company. Nothing found.",
+    "verdict": "US juries found for service members whose hearing, they said, 3M's Combat Arms earplugs damaged.",
     "claimIds": [
-      "3m-company-record"
+      "3m-company-ownership",
+      "3m-earplug-jury-verdicts",
+      "3m-combat-arms-earplugs"
     ],
     "aliases": [],
-    "note": "Rating note: Serious conduct record but private owner, so 'none' under the ownership-led method rather than 'concern'."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): 3M Company (listed; largest holders Vanguard 8.89%, BlackRock 7.60%, JPMorgan 7.60%, State Street 5.10%) - US federal juries found for service members in 10 of 16 Combat Arms earplug bellwether trials (2021-2022) over hearing damage; no qualifying PFAS finding of harm to people yet.",
+    "why": {
+      "text": "In 2021 and 2022 US juries found for service members in 10 of 16 test trials over 3M's Combat Arms earplugs, which they said damaged their hearing, awarding nearly $300 million. In 2023 3M agreed to pay $6 billion to settle the claims.",
+      "claimIds": [
+        "3m-earplug-jury-verdicts",
+        "3m-combat-arms-earplugs",
+        "3m-company-ownership"
+      ],
+      "messageLine": "US juries found for service members in 10 of 16 test trials who said 3M's Combat Arms earplugs damaged their hearing.",
+      "status": "draft"
+    }
   },
   {
     "id": "sabor-a-malaga",
     "name": "Sabor a Malaga",
     "ownerId": "diputacion-de-malaga",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Sabor a Malaga is not a company but a promotional quality brand owned and run by the Diputacion Provincial de Malaga, the provincial public administration; the….",
+    "verdict": "A promotional brand of the Diputación Provincial de Málaga, the provincial council.",
     "claimIds": [
       "diputacion-de-malaga-record"
     ],
     "aliases": [],
-    "note": "Rating note: Sub-national government owner (not a sovereign state, not a state fund) maps to concern as a lesser link. Currently front-of-shirt sponsor of Malaga CF (since 2021)."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. State ownership alone is not a tier: a Spanish provincial council has no record of serious abuses."
   },
   {
     "id": "salesforce",
@@ -6822,15 +6992,17 @@
     "verdict": "An events company owned by Saudi Arabia’s Public Investment Fund.",
     "claimIds": [
       "saudi-executions-2024",
-      "khashoggi-assessment"
+      "khashoggi-assessment",
+      "sela-pif-ownership"
     ],
     "aliases": [],
     "note": "Tier illustrative; was Newcastle front sponsor until 2025/26.",
     "why": {
-      "text": "Sela belongs to Saudi Arabia’s state fund, PIF. Saudi Arabia carried out a record 345 executions in 2024, and US intelligence assessed that the crown prince approved the operation that killed journalist Jamal Khashoggi. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+      "text": "Saudi Arabia’s state fund, PIF, owns 94% of Sela. Saudi Arabia carried out a record 345 executions in 2024, and US intelligence assessed that the crown prince approved the operation that killed journalist Jamal Khashoggi. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
         "saudi-executions-2024",
-        "khashoggi-assessment"
+        "khashoggi-assessment",
+        "sela-pif-ownership"
       ],
       "messageLine": "Saudi Arabia carried out a record 345 executions in 2024.",
       "status": "draft"
@@ -6899,12 +7071,22 @@
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "No state shareholder (a London-listed public company, effectively full free float), but a sustained documented adverse record: decades of oil spills and failed….",
+    "verdict": "Shell's Nigerian subsidiary admitted liability for the 2008 Bodo oil spills in the Niger Delta.",
     "claimIds": [
-      "shell-plc-record"
+      "shell-plc-ownership",
+      "shell-spdc-bodo-oil-spills-2008"
     ],
     "aliases": [],
-    "note": "Rating note: Raised to concern on the 'sustained documented adverse record' limb, not on state ownership - so bp and castrol are rated the same way for consistency. Shell is also Ferrari's fuel partner historically."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): Shell plc (listed; largest holder BlackRock 8.1%, no state) - Shell's then Nigerian subsidiary SPDC admitted liability in the English High Court for two 2008 oil spills at Bodo in the Niger Delta and paid £55 million in 2015.",
+    "why": {
+      "text": "In 2008 two oil spills from a pipeline run by Shell's Nigerian subsidiary SPDC polluted the Bodo area of the Niger Delta. In 2015 SPDC agreed to pay £55 million to 15,600 people and the Bodo community, having admitted liability for the spills in the English High Court.",
+      "claimIds": [
+        "shell-spdc-bodo-oil-spills-2008",
+        "shell-plc-ownership"
+      ],
+      "messageLine": "Shell's Nigerian subsidiary admitted liability in an English court for two 2008 oil spills at Bodo in the Niger Delta and agreed to pay the community £55 million.",
+      "status": "draft"
+    }
   },
   {
     "id": "shemagh-al-bassam",
@@ -7228,12 +7410,24 @@
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "Standard Chartered is a London-headquartered, publicly listed bank with dispersed shareholders and no state or state-fund owner.",
+    "verdict": "About 18% owned by Temasek, Singapore’s state investment company.",
     "claimIds": [
-      "standard-chartered-plc-record"
+      "standard-chartered-temasek-stake",
+      "temasek-singapore-government-owned",
+      "singapore-drug-executions-2025"
     ],
     "aliases": [],
-    "note": "Rating note: Listed UK owner, no state link → none. Honesty flag: the task highlighted SC as 'interesting', and its sanctions-violation history is real, but under a state-ownership rubric the honest tier is none. If conduct counted, concern. ADJUSTED: Raised from none: the 2012 and 2019 forfeitures are a sustained structural record, not a one-off fine, which is what tiers.json calls 'a lesser link'."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): Temasek (wholly owned by the Singapore government) holds 17-18%; Singapore counts as a state with a record (maintainers, September 2026). The sanctions record in the old claim is not a human-rights finding.",
+    "why": {
+      "text": "Singapore’s state investment company Temasek is Standard Chartered’s largest shareholder, with about 18%. Singapore carried out 17 executions in 2025, 15 of them for drug offences, and UN human rights experts have condemned its executions for drug offences as unlawful. So part of the money behind Standard Chartered is the Singapore state’s.",
+      "claimIds": [
+        "singapore-drug-executions-2025",
+        "standard-chartered-temasek-stake",
+        "temasek-singapore-government-owned"
+      ],
+      "messageLine": "Singapore carried out 17 executions in 2025, 15 of them for drug offences.",
+      "status": "draft"
+    }
   },
   {
     "id": "starbucks",
@@ -7803,18 +7997,20 @@
     "ownership": "part-owned",
     "tier": "serious",
     "status": "rated",
-    "verdict": "Turkish Airlines' official shareholding disclosure shows the state's Türkiye Wealth Fund as the largest shareholder with 49.12%, with a Ministry of Treasury and….",
+    "verdict": "Controlled by the Turkish state: its wealth fund owns 49.12% and a state golden share steers the board.",
     "claimIds": [
-      "turkiye-wealth-fund-record"
+      "turkish-airlines-state-ownership",
+      "turkey-kavala-detention"
     ],
     "aliases": [],
-    "note": "Rating note: State fund with a documented serious-abuse state record → serious. Arguable alternative is concern, because ownership is only ~49% and the rest is free float; the privileged state share and fund control tip it to serious. Confidence medium for that reason.",
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): the state's wealth fund owns 49.12% and a Treasury golden share carries privileged voting rights over board nominations (control).",
     "why": {
-      "text": "Turkish Airlines’ largest shareholder is the state’s Türkiye Wealth Fund, with 49.12%, and a government share gives the state control. Turkey has a documented record of serious human-rights abuses, including the purges after 2016 and attacks on press freedom. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+      "text": "Turkey’s sovereign wealth fund owns 49.12% of Turkish Airlines, and a special share held by the state carries privileged voting rights over who is nominated to the board. Turkey has kept civil society leader Osman Kavala in prison since 2017, and in 2026 the European Court of Human Rights ruled that he was convicted to punish and silence him. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
-        "turkiye-wealth-fund-record"
+        "turkey-kavala-detention",
+        "turkish-airlines-state-ownership"
       ],
-      "messageLine": "Turkey has a documented record of serious human-rights abuses, including the purges after 2016 and attacks on press freedom.",
+      "messageLine": "Turkey has kept civil society leader Osman Kavala in prison since 2017, although the European Court of Human Rights ruled that he was convicted to punish and silence him.",
       "status": "draft"
     }
   },
@@ -7953,14 +8149,15 @@
     "name": "UNIQLO",
     "ownerId": "uniqlo-owner",
     "ownership": "owned",
-    "tier": "concern",
-    "status": "rated",
-    "verdict": "Fast Retailing Co., Ltd.",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "Being rated: a maintainer decides whether a US customs ruling counts as a finding.",
     "claimIds": [
-      "uniqlo-owner-record"
+      "uniqlo-cbp-xpcc-detention-2021",
+      "fast-retailing-ownership"
     ],
     "aliases": [],
-    "note": "Rating note: UNIQLO's parent Fast Retailing is publicly traded with no state ownership; however, its supply chain carries documented forced-labour exposure from Xinjiang cotton (per UFLPA detentions and company disclosures), triggering 'concern' on conduct grounds."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): on hold for a maintainer. In 2021 US customs held Uniqlo shirts under its order against XPCC cotton and ruled Uniqlo had not shown they were made without forced labour; the rulings were later taken off CBP's site. A failure to disprove, not a finding."
   },
   {
     "id": "united-airlines",
@@ -8007,15 +8204,15 @@
     "name": "Uralkali",
     "ownerId": "uralchem",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Uralkali's controlling shareholder is Uralchem PJSC, which holds 81.47% of Uralkali; Uralchem is a private company, with Dmitry Mazepin previously holding 100% and….",
+    "verdict": "Controlled by Uralchem, a private Russian fertiliser company.",
     "claimIds": [
       "uralchem-record",
       "mazepin-uralchem-stake-2022"
     ],
     "aliases": [],
-    "note": "Rating note: Honesty flag: the task listed Uralkali under 'state-linked', but the ownership test shows a private owner, so none under the rubric. If the rubric counts the Russian state's war economy (not ownership) as the link, it would be concern. Uralkali itself has largely escaped sanctions (https://statewatch.org.ua/en/publications/rozsliduvannia/sanktsii/...). ADJUSTED: Raised from none: no state stake, but the ultimate owner sits inside a belligerent state and was sanctioned with it."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. No state holds 5% or more, and no human-rights finding against the company."
   },
   {
     "id": "us-bank",
@@ -8050,13 +8247,24 @@
     "ownership": "owned",
     "tier": "serious",
     "status": "rated",
-    "verdict": "Valvoline Global Operations is the former Valvoline Inc.",
+    "verdict": "Owned by Saudi Aramco, which the Saudi state controls.",
     "claimIds": [
       "saudi-aramco-record",
-      "aramco-state-ownership"
+      "aramco-state-ownership",
+      "saudi-executions-2024"
     ],
     "aliases": [],
-    "note": "Rating note: Called 'serious' not 'severe' under the Gulf-state rule. Saudi Arabia is a party to the Yemen conflict but large-scale coalition operations have wound down; if the dataset treats Yemen as live, this and Aramco's other sponsorships would move to 'severe'."
+    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): why text added.",
+    "why": {
+      "text": "Valvoline’s global products business belongs to Saudi Aramco, and the Saudi state controls Aramco: the government holds about 81.5% directly and its fund PIF a further 16%. Saudi Arabia carried out a record 345 executions in 2024. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+      "claimIds": [
+        "saudi-executions-2024",
+        "saudi-aramco-record",
+        "aramco-state-ownership"
+      ],
+      "messageLine": "Saudi Arabia carried out a record 345 executions in 2024.",
+      "status": "draft"
+    }
   },
   {
     "id": "vbet",
@@ -8162,16 +8370,18 @@
     "status": "rated",
     "verdict": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026.",
     "claimIds": [
-      "gov-qatar-record"
+      "visit-qatar-qatar-tourism",
+      "qatar-migrant-worker-abuse-2025"
     ],
     "aliases": [],
     "note": "Rating note: Partnership: Qatar Tourism press release, 2025-11-29 (https://www.qatartourism.com/en/news-and-media/press-releases/visit-qatar-announces-principal-partnership-with-the-future-audi) and Audi press release of the same date.",
     "why": {
-      "text": "Visit Qatar is the Qatari state’s tourism body. Amnesty International reports that migrant workers in Qatar are still exposed to exploitation despite reforms, and that expression and assembly are tightly restricted. A tourism brand on a famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+      "text": "Visit Qatar was set up by Qatar Tourism, the Qatari state’s tourism body, to market the country. Amnesty International and Human Rights Watch report that migrant workers in Qatar still face labour abuses and exploitation under the kafala sponsorship system, despite reforms. A tourism brand on a famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
-        "gov-qatar-record"
+        "qatar-migrant-worker-abuse-2025",
+        "visit-qatar-qatar-tourism"
       ],
-      "messageLine": "Amnesty International reports that migrant workers in Qatar are still exposed to exploitation.",
+      "messageLine": "Amnesty International and Human Rights Watch report that migrant workers in Qatar still face labour abuses under the kafala sponsorship system.",
       "status": "draft"
     },
     "ownerVerb": "paid for by"
@@ -8185,6 +8395,7 @@
     "status": "rated",
     "verdict": "Paid for by a government that UN experts say has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.",
     "claimIds": [
+      "visit-rwanda-rdb-brand",
       "rwanda-troops-m23",
       "m23-coltan-levies",
       "rubaya-smuggling",
@@ -8196,10 +8407,11 @@
     ],
     "ownerVerb": "paid for by",
     "why": {
-      "text": "Rwanda’s government pays to put its tourism brand on the shirt. UN experts say 3,000–4,000 Rwandan troops are fighting alongside M23 rebels in eastern Congo, and estimate that the rebels make about $800,000 a month from the coltan trade there. A famous shirt makes Rwanda look like a holiday destination while that goes on. That’s called sportswashing.",
+      "text": "Visit Rwanda is the tourism brand of the Rwanda Development Board, a Rwandan government institution. UN experts say 3,000–4,000 Rwandan troops are fighting alongside M23 rebels in eastern Congo, and estimated that the rebels made about $800,000 a month from the coltan trade there. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
         "rwanda-troops-m23",
-        "m23-coltan-levies"
+        "m23-coltan-levies",
+        "visit-rwanda-rdb-brand"
       ],
       "messageLine": "UN experts say 3,000–4,000 Rwandan troops are fighting alongside M23 rebels in eastern Congo.",
       "status": "draft"
@@ -8214,17 +8426,20 @@
     "status": "rated",
     "verdict": "Visit Saudi is the flagship destination-marketing platform of the Saudi Tourism Authority, a government body established by royal decree in 2020 and a wholly….",
     "claimIds": [
-      "government-of-saudi-arabia-record"
+      "visit-saudi-sta-ownership",
+      "saudi-migrant-worker-abuse-2025",
+      "saudi-executions-2024"
     ],
     "aliases": [],
     "note": "Rating note: State body → state tier above none. Could be argued severe on Yemen-war grounds, but the Saudi-led intervention has largely wound down, so serious is used. Cross-source: HRW Saudi Arabia chapter https://hrw.org/world-report/2026/country-chapters/saudi-arabia.",
     "why": {
-      "text": "Visit Saudi is the brand of the Saudi Tourism Authority, a Saudi government tourism body. Human Rights Watch records migrant workers in Saudi Arabia facing widespread wage theft and avoidable deaths at work, and the country carried out a record 345 executions in 2024. A tourism brand in a famous stadium makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+      "text": "Visit Saudi is the flagship platform of the Saudi Tourism Authority, a Saudi government body. Human Rights Watch and Amnesty International report widespread labour abuse of migrant workers in Saudi Arabia, including wage theft, and the country carried out a record 345 executions in 2024. A tourism brand in a famous stadium makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
       "claimIds": [
-        "government-of-saudi-arabia-record",
-        "saudi-executions-2024"
+        "saudi-migrant-worker-abuse-2025",
+        "saudi-executions-2024",
+        "visit-saudi-sta-ownership"
       ],
-      "messageLine": "Human Rights Watch records migrant workers in Saudi Arabia facing widespread wage theft and avoidable deaths at work.",
+      "messageLine": "Human Rights Watch reports that migrant workers in Saudi Arabia face widespread labour abuses, including wage theft and dying in avoidable workplace accidents.",
       "status": "draft"
     },
     "ownerVerb": "paid for by"

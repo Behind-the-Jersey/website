@@ -535,6 +535,14 @@
     "country": "US"
   },
   {
+    "id": "chinese-academy-of-sciences-holdings",
+    "parentId": "government-of-china",
+    "name": "Chinese Academy of Sciences Holdings Co., Ltd. (CAS Holdings)",
+    "type": "state-fund",
+    "country": "China",
+    "note": "Wholly state-owned asset manager of the Chinese Academy of Sciences; 29.04% of Legend Holdings (30 June 2026)."
+  },
+  {
     "id": "circle-internet-group",
     "name": "Circle Internet Group",
     "type": "listed-company",
@@ -1060,6 +1068,13 @@
     "country": "Spain"
   },
   {
+    "id": "gic",
+    "name": "GIC Private Limited (Singapore's sovereign wealth fund)",
+    "type": "state-fund",
+    "country": "Singapore",
+    "parentId": "government-of-singapore"
+  },
+  {
     "id": "golden-1-credit-union-owner",
     "name": "Golden 1 Credit Union",
     "type": "private-company",
@@ -1095,6 +1110,13 @@
     "type": "state",
     "country": "Belgium",
     "parentId": null
+  },
+  {
+    "id": "government-of-china",
+    "parentId": null,
+    "name": "Government of the People's Republic of China",
+    "type": "state",
+    "country": "China"
   },
   {
     "id": "government-of-cote-divoire",
@@ -1152,12 +1174,34 @@
     "parentId": null
   },
   {
+    "id": "government-of-singapore",
+    "parentId": null,
+    "name": "Government of Singapore",
+    "type": "state",
+    "country": "Singapore"
+  },
+  {
+    "id": "government-of-turkiye",
+    "parentId": null,
+    "name": "Republic of Türkiye (government)",
+    "type": "state",
+    "country": "TR"
+  },
+  {
     "id": "great-american-insurance-owner",
     "name": "Great American Insurance",
     "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of cincinnati-reds (2026-27).",
     "country": "USA"
+  },
+  {
+    "id": "gree-electric",
+    "parentId": null,
+    "name": "Gree Electric Appliances, Inc. of Zhuhai",
+    "type": "listed-company",
+    "country": "CN",
+    "note": "Shenzhen-listed (000651); no controlling shareholder or actual controller since 2020."
   },
   {
     "id": "gree-group-zhuhai-sasac",
@@ -1566,18 +1610,10 @@
     "country": "United States"
   },
   {
-    "id": "lenovo-group-limited",
-    "name": "Lenovo Group Limited",
-    "type": "listed-company",
-    "country": "Hong Kong",
-    "parentId": "legend-holdings",
-    "note": "Listed on the Hong Kong Stock Exchange (HKSE: 992)."
-  },
-  {
     "id": "lenovo-group-ltd",
     "name": "Lenovo Group Limited",
     "type": "listed-company",
-    "parentId": null,
+    "parentId": "legend-holdings",
     "country": "HK"
   },
   {
@@ -1594,6 +1630,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "CY"
+  },
+  {
+    "id": "limad",
+    "parentId": "government-of-abu-dhabi",
+    "name": "L'IMAD Holding Company (Abu Dhabi sovereign investment fund; ADQ's assets consolidated into it in January 2026)",
+    "type": "state-fund",
+    "country": "UAE",
+    "note": "Chaired by Sheikh Khaled bin Mohamed bin Zayed, Crown Prince of Abu Dhabi. Overseen by the Supreme Council for Financial and Economic Affairs with ADIA and Mubadala."
   },
   {
     "id": "lincoln-financial-group-owner",
@@ -1839,14 +1883,6 @@
     "country": "GB"
   },
   {
-    "id": "motorola-mobility-owner",
-    "name": "Lenovo Group Limited",
-    "type": "listed-company",
-    "parentId": null,
-    "note": "jersey patch partner of chicago-bulls (2026-27).",
-    "country": "HK"
-  },
-  {
     "id": "motors",
     "name": "Motors.co.uk Limited (O3 Industries / Novum Capital)",
     "type": "private-company",
@@ -1864,7 +1900,7 @@
     "id": "mubadala",
     "name": "Mubadala Investment Company (Abu Dhabi sovereign fund)",
     "type": "state-fund",
-    "parentId": null,
+    "parentId": "government-of-abu-dhabi",
     "country": "United Arab Emirates"
   },
   {
@@ -2344,6 +2380,14 @@
     "parentId": "government-of-saudi-arabia"
   },
   {
+    "id": "royal-group",
+    "parentId": null,
+    "name": "Royal Group (RGH1 Investment SPV RSC Ltd)",
+    "type": "private-company",
+    "country": "United Arab Emirates",
+    "note": "Ultimate beneficial owner: Sheikh Tahnoon bin Zayed Al Nahyan (SEC Schedule 13D, 2022). Majority shareholder of Group 42 Holding Ltd in 2022."
+  },
+  {
     "id": "russian-federation",
     "name": "Russian Federation (Federal Agency for State Property Management)",
     "type": "state",
@@ -2381,8 +2425,8 @@
   {
     "id": "saudi-aramco",
     "name": "Saudi Arabian Oil Company (Aramco)",
-    "type": "state",
-    "parentId": null,
+    "type": "listed-company",
+    "parentId": "government-of-saudi-arabia",
     "country": "SA"
   },
   {
@@ -2587,7 +2631,7 @@
     "id": "state-of-qatar-qia",
     "name": "State of Qatar (via Qatar Investment Authority)",
     "type": "state",
-    "parentId": null,
+    "parentId": "government-of-qatar",
     "country": "QA"
   },
   {
@@ -2717,6 +2761,13 @@
     "country": "CA"
   },
   {
+    "id": "temasek-holdings",
+    "parentId": "government-of-singapore",
+    "name": "Temasek Holdings (Private) Limited",
+    "type": "state-fund",
+    "country": "Singapore"
+  },
+  {
     "id": "temporal-technologies",
     "name": "Temporal Technologies, Inc. (private, VC-backed)",
     "type": "private-company",
@@ -2772,7 +2823,7 @@
     "name": "Türkiye Wealth Fund",
     "type": "state-fund",
     "country": "Türkiye",
-    "parentId": null
+    "parentId": "government-of-turkiye"
   },
   {
     "id": "twg-global",
@@ -2841,7 +2892,7 @@
   },
   {
     "id": "uniqlo-owner",
-    "name": "UNIQLO",
+    "name": "Fast Retailing Co., Ltd. (UNIQLO)",
     "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of los-angeles-dodgers (2026-27).",
