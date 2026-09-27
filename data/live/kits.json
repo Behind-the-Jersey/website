@@ -2019,9 +2019,15 @@
         "sponsorId": "lvcva",
         "placement": "patch",
         "source": {
-          "name": "MLB Trade Rumors",
-          "date": "2025-03-07",
-          "url": "https://mlbtraderumors.com/2025/03/as-announce-las-vegas-jersey-patch-sponsorship.html"
+          "name": "MLB.com - 'This is real': A's unveil Las Vegas jersey patch for 2025 season",
+          "date": "2025-03-08",
+          "url": "https://www.mlb.com/news/athletics-las-vegas-jersey-patch-2025",
+          "note": "The club's own announcement of a three-year, all-jersey deal, so it covers this season. The patch is worn on the sleeve; the record keeps the repo's 'patch' placement, as the other MLB kits do.",
+          "quote": "Debuting on Opening Day, March 27 against the Mariners at T-Mobile Park, the A's will wear the \"Las Vegas\" patch on their sleeve",
+          "checked": {
+            "on": "2026-09-27",
+            "by": "BigBossRabbit"
+          }
         }
       }
     ],

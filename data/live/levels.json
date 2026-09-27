@@ -32,14 +32,14 @@
     "order": 2,
     "label": "Spotted",
     "meter": 2,
-    "definition": "A lesser link, like a sponsor part-owned by a state.",
+    "definition": "A lesser link, like a sponsor part-owned by a state with a record of abuses.",
     "colors": {
       "text": "#e6b3a8",
       "fill": "#d9a399",
       "band": "#d9a399",
       "bandText": "#2a1512"
     },
-    "plain": "A lesser link, like a sponsor that a state partly owns."
+    "plain": "A lesser link, like a sponsor that a state with a record of abuses partly owns, or a company found responsible for abuses."
   },
   {
     "id": "stained",

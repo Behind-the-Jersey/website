@@ -11,7 +11,7 @@
     "score": 0,
     "label": "Nothing found",
     "color": "#f3ede6",
-    "description": "Sponsor and owner checked; no link to serious abuses found."
+    "description": "Sponsor and owner checked; no link to human-rights abuse found."
   },
   {
     "id": "concern",
@@ -19,7 +19,7 @@
     "label": "Concern",
     "color": "#e6b3a8",
     "fill": "#d9a399",
-    "description": "A lesser link, e.g. partly owned by a state or state fund with a poor record."
+    "description": "A lesser link: a state with a record of serious abuses holds part of it, or the company itself was found responsible for abuses."
   },
   {
     "id": "serious",
@@ -27,7 +27,7 @@
     "label": "Serious",
     "color": "#e0705f",
     "fill": "#8a2a22",
-    "description": "Owned by a state or state fund with documented serious abuses."
+    "description": "Controlled by a state or state fund with documented serious abuses."
   },
   {
     "id": "severe",
