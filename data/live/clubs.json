@@ -1,5 +1,19 @@
 [
   {
+    "id": "4aces-gc",
+    "name": "4Aces GC",
+    "shortName": "4Aces",
+    "code": "4AC",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "4 Aces",
+      "franchise team, no single country"
+    ]
+  },
+  {
     "id": "abha",
     "name": "Abha",
     "shortName": "Abha",
@@ -25,6 +39,33 @@
     "aliases": []
   },
   {
+    "id": "academico-de-viseu",
+    "name": "Academico de Viseu FC",
+    "shortName": "Academico",
+    "code": "ADV",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "academicodeviseu",
+      "academico"
+    ]
+  },
+  {
+    "id": "admiral-vladivostok",
+    "name": "Admiral Vladivostok",
+    "shortName": "Admiral",
+    "code": "ADM",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Адмирал Владивосток"
+    ]
+  },
+  {
     "id": "aek-athens",
     "name": "AEK Athens",
     "shortName": "AEK Athens",
@@ -40,6 +81,17 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "af-corse",
+    "name": "AF Corse",
+    "shortName": "AF Corse",
+    "code": "AFC",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Italy",
+    "crest": null,
+    "aliases": []
+  },
+  {
     "id": "afc-bournemouth",
     "name": "AFC Bournemouth",
     "shortName": "Bournemouth",
@@ -50,6 +102,20 @@
     "crest": "assets/crests/afc-bournemouth.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "ag-insurance-soudal-women",
+    "name": "AG Insurance-Soudal Team",
+    "shortName": "AG Insurance-Soudal",
+    "code": "AGS",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Belgium",
+    "crest": null,
+    "aliases": [
+      "ag insurance - soudal team",
+      "nxtg racing"
+    ]
   },
   {
     "id": "aj-auxerre",
@@ -66,6 +132,60 @@
     ]
   },
   {
+    "id": "ak-bars-kazan",
+    "name": "Ak Bars Kazan",
+    "shortName": "Ak Bars",
+    "code": "AKB",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Ак Барс Казань"
+    ]
+  },
+  {
+    "id": "akhmat-grozny",
+    "name": "FC Akhmat Grozny",
+    "shortName": "Akhmat",
+    "code": "AKH",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "akhmat",
+      "akhmat grozny"
+    ]
+  },
+  {
+    "id": "akkodis-asp-team",
+    "name": "Akkodis ASP Team",
+    "shortName": "Akkodis ASP",
+    "code": "AKK",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "akka asp"
+    ]
+  },
+  {
+    "id": "akron-tolyatti",
+    "name": "FC Akron Tolyatti",
+    "shortName": "Akron",
+    "code": "AKR",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "akron",
+      "akron tolyatti"
+    ]
+  },
+  {
     "id": "al-ahli",
     "name": "Al-Ahli",
     "shortName": "Al-Ahli",
@@ -78,6 +198,48 @@
       "al ahli saudi",
       "alahli",
       "al-ahli saudi fc"
+    ]
+  },
+  {
+    "id": "al-ahly",
+    "name": "Al Ahly",
+    "shortName": "Al Ahly",
+    "code": "AHL",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Egypt",
+    "crest": null,
+    "aliases": [
+      "al ahly sc",
+      "al ahly cairo",
+      "al ahly sporting club"
+    ]
+  },
+  {
+    "id": "al-ahly-ly",
+    "name": "Al Ahly Ly",
+    "shortName": "Al Ahly Ly",
+    "code": "ALL",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Libya",
+    "crest": null,
+    "aliases": [
+      "al ahly benghazi",
+      "alahli tripoli"
+    ]
+  },
+  {
+    "id": "al-ain",
+    "name": "Al Ain FC",
+    "shortName": "Al Ain",
+    "code": "AIN",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "United Arab Emirates",
+    "crest": null,
+    "aliases": [
+      "al ain fc"
     ]
   },
   {
@@ -134,6 +296,19 @@
     "aliases": [
       "al fayha",
       "fayha"
+    ]
+  },
+  {
+    "id": "al-gharafa",
+    "name": "Al-Gharafa SC",
+    "shortName": "Al-Gharafa",
+    "code": "GHA",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Qatar",
+    "crest": null,
+    "aliases": [
+      "al gharafa sports club"
     ]
   },
   {
@@ -237,6 +412,20 @@
     ]
   },
   {
+    "id": "al-quwa-al-jawiya",
+    "name": "Al-Quwa Al-Jawiya",
+    "shortName": "Al-Quwa Al-Jawiya",
+    "code": "QAW",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Iraq",
+    "crest": null,
+    "aliases": [
+      "al quwa al jawiya",
+      "air force club baghdad"
+    ]
+  },
+  {
     "id": "al-riyadh",
     "name": "Al-Riyadh",
     "shortName": "Al-Riyadh",
@@ -248,6 +437,20 @@
     "aliases": [
       "al riyadh",
       "riyadh sc"
+    ]
+  },
+  {
+    "id": "al-sadd",
+    "name": "Al Sadd SC",
+    "shortName": "Al Sadd",
+    "code": "SAD",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Qatar",
+    "crest": null,
+    "aliases": [
+      "al sadd sports club",
+      "al sadd doha"
     ]
   },
   {
@@ -265,6 +468,19 @@
     ]
   },
   {
+    "id": "al-shamal",
+    "name": "Al-Shamal SC",
+    "shortName": "Al-Shamal",
+    "code": "SHM",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Qatar",
+    "crest": null,
+    "aliases": [
+      "al shamal sports club"
+    ]
+  },
+  {
     "id": "al-taawoun",
     "name": "Al-Taawoun",
     "shortName": "Al-Taawoun",
@@ -276,6 +492,19 @@
     "aliases": [
       "al taawoun",
       "taawoun"
+    ]
+  },
+  {
+    "id": "al-wasl",
+    "name": "Al Wasl FC",
+    "shortName": "Al Wasl",
+    "code": "WAS",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "United Arab Emirates",
+    "crest": null,
+    "aliases": [
+      "al wasl fc"
     ]
   },
   {
@@ -315,6 +544,73 @@
     "aliases": []
   },
   {
+    "id": "alpine-endurance-team",
+    "name": "Alpine Endurance Team",
+    "shortName": "Alpine",
+    "code": "ALE",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "signatech",
+      "alpine a424"
+    ]
+  },
+  {
+    "id": "alverca",
+    "name": "FC Alverca",
+    "shortName": "Alverca",
+    "code": "ALV",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "futebol clube de alverca",
+      "alverca futebol sad"
+    ]
+  },
+  {
+    "id": "amur-khabarovsk",
+    "name": "Amur Khabarovsk",
+    "shortName": "Amur",
+    "code": "AMU",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Амур Хабаровск"
+    ]
+  },
+  {
+    "id": "anadolu-efes",
+    "name": "Anadolu Efes S.K.",
+    "shortName": "Anadolu Efes",
+    "code": "EFS",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Türkiye",
+    "crest": null,
+    "aliases": [
+      "Efes Istanbul"
+    ]
+  },
+  {
+    "id": "andretti-formula-e",
+    "name": "Andretti Formula E",
+    "shortName": "Andretti",
+    "code": "AND",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "Andretti Global"
+    ]
+  },
+  {
     "id": "angers-sco",
     "name": "Angers SCO",
     "shortName": "Angers",
@@ -326,6 +622,19 @@
     "aliases": [
       "angers",
       "sco angers"
+    ]
+  },
+  {
+    "id": "aprilia-racing",
+    "name": "Aprilia Racing",
+    "shortName": "Aprilia Racing",
+    "code": "APR",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "aprilia"
     ]
   },
   {
@@ -364,6 +673,19 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "arouca",
+    "name": "FC Arouca",
+    "shortName": "Arouca",
+    "code": "ARO",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "futebol clube de arouca"
+    ]
+  },
+  {
     "id": "arsenal",
     "name": "Arsenal",
     "shortName": "Arsenal",
@@ -378,6 +700,34 @@
     ],
     "hasTeamPageDesign": true,
     "contact": null
+  },
+  {
+    "id": "arsenal-w",
+    "name": "Arsenal Women",
+    "shortName": "Arsenal W",
+    "code": "ARW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "arsenal women fc"
+    ]
+  },
+  {
+    "id": "artemis-sweden",
+    "name": "Artemis SailGP Team",
+    "shortName": "Artemis",
+    "code": "SWE",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Sweden",
+    "crest": null,
+    "aliases": [
+      "Artemis SailGP",
+      "Sweden SailGP Team",
+      "Artemis Racing"
+    ]
   },
   {
     "id": "as-monaco",
@@ -405,6 +755,20 @@
     "aliases": []
   },
   {
+    "id": "asc-ville-de-dakar",
+    "name": "ASC Ville de Dakar",
+    "shortName": "Ville de Dakar",
+    "code": "AVD",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Senegal",
+    "crest": null,
+    "aliases": [
+      "ascvd",
+      "asc ville de dakar senegal"
+    ]
+  },
+  {
     "id": "aston-martin",
     "name": "Aston Martin Aramco F1 Team",
     "shortName": "Aston Martin",
@@ -414,6 +778,20 @@
     "country": "United Kingdom",
     "crest": "assets/crests/aston-martin.png",
     "aliases": []
+  },
+  {
+    "id": "aston-martin-thor-team",
+    "name": "Aston Martin THOR Team",
+    "shortName": "Aston Martin THOR",
+    "code": "AST",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "aston martin valkyrie",
+      "thor team"
+    ]
   },
   {
     "id": "aston-villa",
@@ -430,6 +808,33 @@
     ],
     "hasTeamPageDesign": true,
     "contact": null
+  },
+  {
+    "id": "aston-villa-w",
+    "name": "Aston Villa Women",
+    "shortName": "Aston Villa W",
+    "code": "AVW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "aston villa women fc"
+    ]
+  },
+  {
+    "id": "asvel",
+    "name": "ASVEL Basket",
+    "shortName": "ASVEL",
+    "code": "ASV",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "LDLC ASVEL",
+      "Groupe LDLC ASVEL"
+    ]
   },
   {
     "id": "atalanta",
@@ -580,6 +985,33 @@
     "aliases": []
   },
   {
+    "id": "avangard-omsk",
+    "name": "Avangard Omsk",
+    "shortName": "Avangard",
+    "code": "AVA",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Авангард Омск",
+      "Hawks"
+    ]
+  },
+  {
+    "id": "avtomobilist-yekaterinburg",
+    "name": "Avtomobilist Yekaterinburg",
+    "shortName": "Avtomobilist",
+    "code": "AVT",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Автомобилист Екатеринбург"
+    ]
+  },
+  {
     "id": "bahrain-victorious",
     "name": "Bahrain Victorious",
     "shortName": "Bahrain Victorious",
@@ -592,6 +1024,20 @@
       "bahrain-mclaren",
       "bahrain-merida",
       "team-bahrain-victorious"
+    ]
+  },
+  {
+    "id": "baltika-kaliningrad",
+    "name": "FC Baltika Kaliningrad",
+    "shortName": "Baltika",
+    "code": "BAL",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "baltika",
+      "baltika kaliningrad"
     ]
   },
   {
@@ -634,6 +1080,47 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "barcelona-basquet",
+    "name": "FC Barcelona Bàsquet",
+    "shortName": "Barcelona",
+    "code": "BAR",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "FC Barcelona basketball"
+    ]
+  },
+  {
+    "id": "barys-astana",
+    "name": "Barys Astana",
+    "shortName": "Barys",
+    "code": "BAR",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Kazakhstan",
+    "crest": null,
+    "aliases": [
+      "Барыс Астана",
+      "HC Barys"
+    ]
+  },
+  {
+    "id": "baskonia",
+    "name": "Saski Baskonia",
+    "shortName": "Baskonia",
+    "code": "BAS",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "Kosner Baskonia",
+      "Baskonia Vitoria-Gasteiz"
+    ]
+  },
+  {
     "id": "bayer-leverkusen",
     "name": "Bayer Leverkusen",
     "shortName": "Leverkusen",
@@ -663,6 +1150,33 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "bayern-munich-basketball",
+    "name": "FC Bayern Munich Basketball",
+    "shortName": "Bayern Munich",
+    "code": "FCB",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "FC Bayern Basketball"
+    ]
+  },
+  {
+    "id": "beijing-guoan",
+    "name": "Beijing Guoan FC",
+    "shortName": "Beijing Guoan",
+    "code": "BJG",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "beijing guoan",
+      "beijing fc"
+    ]
+  },
+  {
     "id": "belgium",
     "name": "Belgium",
     "shortName": "Belgium",
@@ -672,6 +1186,89 @@
     "country": "Belgium",
     "crest": "assets/crests/belgium.png",
     "aliases": []
+  },
+  {
+    "id": "benfica",
+    "name": "SL Benfica",
+    "shortName": "Benfica",
+    "code": "BEN",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "sport lisboa e benfica",
+      "sl benfica"
+    ]
+  },
+  {
+    "id": "besiktas-basketball",
+    "name": "Beşiktaş J.K. (men's basketball)",
+    "shortName": "Beşiktaş",
+    "code": "BJK",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Türkiye",
+    "crest": null,
+    "aliases": [
+      "Beşiktaş Gain"
+    ]
+  },
+  {
+    "id": "birmingham-city-w",
+    "name": "Birmingham City Women",
+    "shortName": "Birmingham City W",
+    "code": "BCW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "birmingham city women fc"
+    ]
+  },
+  {
+    "id": "bk8-gresini-racing-motogp",
+    "name": "BK8 Gresini Racing MotoGP",
+    "shortName": "Gresini",
+    "code": "GRE",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "gresini racing",
+      "gresini motogp"
+    ]
+  },
+  {
+    "id": "black-foils-nz",
+    "name": "Black Foils SailGP Team",
+    "shortName": "Black Foils",
+    "code": "NZL",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "New Zealand",
+    "crest": null,
+    "aliases": [
+      "New Zealand SailGP Team",
+      "Black Foils",
+      "NZ SailGP Team"
+    ]
+  },
+  {
+    "id": "bmw-m-team-wrt",
+    "name": "BMW M Team WRT",
+    "shortName": "BMW M WRT",
+    "code": "BMW",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Belgium",
+    "crest": null,
+    "aliases": [
+      "team wrt bmw",
+      "wrt"
+    ]
   },
   {
     "id": "bodo-glimt",
@@ -699,6 +1296,21 @@
     "country": "Italy",
     "crest": "assets/crests/bologna.png",
     "aliases": []
+  },
+  {
+    "id": "bonds-flying-roos",
+    "name": "BONDS Flying Roos SailGP Team",
+    "shortName": "Flying Roos",
+    "code": "AUS",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "Australia SailGP Team",
+      "Bonds Flying Roos",
+      "Flying Roos"
+    ]
   },
   {
     "id": "borussia-dortmund",
@@ -764,6 +1376,21 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "braga",
+    "name": "SC Braga",
+    "shortName": "Braga",
+    "code": "BRA",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "sporting clube de braga",
+      "sc braga",
+      "braga sad"
+    ]
+  },
+  {
     "id": "brazil",
     "name": "Brazil",
     "shortName": "Brazil",
@@ -802,6 +1429,20 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "brighton-and-hove-albion-w",
+    "name": "Brighton & Hove Albion Women",
+    "shortName": "Brighton W",
+    "code": "BHW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "brighton women",
+      "brighton and hove albion women fc"
+    ]
+  },
+  {
     "id": "brooklyn-nets",
     "name": "Brooklyn Nets",
     "shortName": "Nets",
@@ -826,6 +1467,19 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "buriram-united",
+    "name": "Buriram United",
+    "shortName": "Buriram",
+    "code": "BUR",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Thailand",
+    "crest": null,
+    "aliases": [
+      "buriram united fc"
+    ]
+  },
+  {
     "id": "cadillac",
     "name": "Cadillac Formula 1 Team",
     "shortName": "Cadillac",
@@ -835,6 +1489,20 @@
     "country": "United States",
     "crest": "assets/crests/cadillac.png",
     "aliases": []
+  },
+  {
+    "id": "cadillac-hertz-team-jota",
+    "name": "Cadillac Hertz Team JOTA",
+    "shortName": "Cadillac JOTA",
+    "code": "CDJ",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "jota sport",
+      "cadillac jota"
+    ]
   },
   {
     "id": "cagliari",
@@ -859,6 +1527,20 @@
     "aliases": []
   },
   {
+    "id": "canyon-sram-zondacrypto",
+    "name": "Canyon//SRAM zondacrypto",
+    "shortName": "Canyon//SRAM",
+    "code": "CSZ",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "canyon-sram",
+      "canyon//sram racing"
+    ]
+  },
+  {
     "id": "cape-verde",
     "name": "Cape Verde",
     "shortName": "Cape Verde",
@@ -880,6 +1562,19 @@
     "crest": "assets/crests/carolina-panthers.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "casa-pia",
+    "name": "Casa Pia AC",
+    "shortName": "Casa Pia",
+    "code": "CAS",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "casa pia atlantico clube"
+    ]
   },
   {
     "id": "celta-vigo",
@@ -930,6 +1625,19 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "charlton-athletic-w",
+    "name": "Charlton Athletic Women",
+    "shortName": "Charlton W",
+    "code": "CAW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "charlton athletic women fc"
+    ]
+  },
+  {
     "id": "chelsea",
     "name": "Chelsea",
     "shortName": "Chelsea",
@@ -943,6 +1651,32 @@
       "blues"
     ],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "chelsea-w",
+    "name": "Chelsea Women",
+    "shortName": "Chelsea W",
+    "code": "CHW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "chelsea women fc"
+    ]
+  },
+  {
+    "id": "chengdu-rongcheng",
+    "name": "Chengdu Rongcheng",
+    "shortName": "Rongcheng",
+    "code": "CRG",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "成都蓉城"
+    ]
   },
   {
     "id": "chicago-bears",
@@ -1004,6 +1738,19 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "chongqing-tonglianglong",
+    "name": "Chongqing Tonglianglong",
+    "shortName": "Tonglianglong",
+    "code": "CTL",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "重庆铜梁龙"
+    ]
+  },
+  {
     "id": "cincinnati-bengals",
     "name": "Cincinnati Bengals",
     "shortName": "Bengals",
@@ -1026,6 +1773,33 @@
     "crest": "assets/crests/cincinnati-reds.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "citroen-racing",
+    "name": "Citroen Racing",
+    "shortName": "Citroen",
+    "code": "CIT",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "Citroen Racing Formula E Team"
+    ]
+  },
+  {
+    "id": "cleeks-gc",
+    "name": "Cleeks Golf Club",
+    "shortName": "Cleeks",
+    "code": "CLK",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "Cleeks GC",
+      "franchise team, no single country"
+    ]
   },
   {
     "id": "cleveland-browns",
@@ -1062,6 +1836,20 @@
     "crest": "assets/crests/cleveland-guardians.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "club-africain",
+    "name": "Club Africain",
+    "shortName": "Club Africain",
+    "code": "CAF",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Tunisia",
+    "crest": null,
+    "aliases": [
+      "club africain tunisia",
+      "club africain basketball"
+    ]
   },
   {
     "id": "club-brugge",
@@ -1134,6 +1922,21 @@
     "aliases": []
   },
   {
+    "id": "cong-an-ha-noi",
+    "name": "Cong An Ha Noi FC",
+    "shortName": "Cong An Ha Noi",
+    "code": "CAH",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Vietnam",
+    "crest": null,
+    "aliases": [
+      "cong an ha noi",
+      "ha noi police fc",
+      "candid anh ha noi"
+    ]
+  },
+  {
     "id": "coventry-city",
     "name": "Coventry City",
     "shortName": "Coventry",
@@ -1157,6 +1960,33 @@
     "aliases": []
   },
   {
+    "id": "crushers-gc",
+    "name": "Crushers GC",
+    "shortName": "Crushers",
+    "code": "CRU",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "franchise team, no single country"
+    ]
+  },
+  {
+    "id": "crvena-zvezda",
+    "name": "KK Crvena zvezda",
+    "shortName": "Crvena zvezda",
+    "code": "CZV",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Serbia",
+    "crest": null,
+    "aliases": [
+      "Crvena zvezda Meridianbet Belgrade",
+      "Red Star Belgrade"
+    ]
+  },
+  {
     "id": "crystal-palace",
     "name": "Crystal Palace",
     "shortName": "Palace",
@@ -1167,6 +1997,61 @@
     "crest": "assets/crests/crystal-palace.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "crystal-palace-w",
+    "name": "Crystal Palace Women",
+    "shortName": "Crystal Palace W",
+    "code": "CPW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "crystal palace women fc"
+    ]
+  },
+  {
+    "id": "cska-moscow",
+    "name": "PFC CSKA Moscow",
+    "shortName": "CSKA",
+    "code": "CSK",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "cska",
+      "cska moscow",
+      "tska"
+    ]
+  },
+  {
+    "id": "cska-moscow-hockey",
+    "name": "HC CSKA Moscow",
+    "shortName": "CSKA",
+    "code": "CSK",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "ЦСКА",
+      "CSKA Moscow"
+    ]
+  },
+  {
+    "id": "cupra-kiro",
+    "name": "Cupra Kiro",
+    "shortName": "Cupra Kiro",
+    "code": "CKR",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "Kiro Race Co"
+    ]
   },
   {
     "id": "curacao",
@@ -1191,6 +2076,32 @@
     "aliases": []
   },
   {
+    "id": "daejeon-hana-citizen",
+    "name": "Daejeon Hana Citizen",
+    "shortName": "Daejeon Hana",
+    "code": "DAE",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "South Korea",
+    "crest": null,
+    "aliases": [
+      "daejeon hana citizen fc"
+    ]
+  },
+  {
+    "id": "dalian-yingbo",
+    "name": "Dalian Yingbo",
+    "shortName": "Yingbo",
+    "code": "DLY",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "大连英博"
+    ]
+  },
+  {
     "id": "dallas-cowboys",
     "name": "Dallas Cowboys",
     "shortName": "Cowboys",
@@ -1213,6 +2124,19 @@
     "crest": "assets/crests/dallas-mavericks.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "dar-city",
+    "name": "Dar City Basketball Club",
+    "shortName": "Dar City",
+    "code": "DAR",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Tanzania",
+    "crest": null,
+    "aliases": [
+      "dar city tanzania"
+    ]
   },
   {
     "id": "dc-united",
@@ -1354,6 +2278,114 @@
     "aliases": []
   },
   {
+    "id": "ds-automobiles-france",
+    "name": "DS Automobiles SailGP Team France",
+    "shortName": "DS Automobiles France",
+    "code": "FRA",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "France SailGP Team",
+      "DS Automobiles SailGP Team"
+    ]
+  },
+  {
+    "id": "ds-penske",
+    "name": "DS Penske",
+    "shortName": "DS Penske",
+    "code": "DSP",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "DS Automobiles Penske Formula E Team"
+    ]
+  },
+  {
+    "id": "dubai-basketball",
+    "name": "Dubai Basketball",
+    "shortName": "Dubai",
+    "code": "DXB",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "United Arab Emirates",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "ducati-lenovo-team",
+    "name": "Ducati Lenovo Team",
+    "shortName": "Ducati",
+    "code": "DUC",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "ducati corse"
+    ]
+  },
+  {
+    "id": "dynamo-makhachkala",
+    "name": "FC Dynamo Makhachkala",
+    "shortName": "Dynamo Makhachkala",
+    "code": "DKM",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "dinamo makhachkala",
+      "dynamo makhachkala"
+    ]
+  },
+  {
+    "id": "dynamo-minsk",
+    "name": "Dinamo Minsk",
+    "shortName": "Dinamo Minsk",
+    "code": "DIN",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Belarus",
+    "crest": null,
+    "aliases": [
+      "Динамо-Минск",
+      "HC Dinamo Minsk"
+    ]
+  },
+  {
+    "id": "dynamo-moscow",
+    "name": "FC Dynamo Moscow",
+    "shortName": "Dynamo Moscow",
+    "code": "DYN",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "dinamo moscow",
+      "dinamo moskva",
+      "dynamo moscow"
+    ]
+  },
+  {
+    "id": "dynamo-moscow-hockey",
+    "name": "HC Dynamo Moscow",
+    "shortName": "Dynamo",
+    "code": "DYN",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Динамо Москва",
+      "Dynamo Moscow hockey"
+    ]
+  },
+  {
     "id": "ecuador",
     "name": "Ecuador",
     "shortName": "Ecuador",
@@ -1376,6 +2408,20 @@
     "aliases": [
       "ef-education-first",
       "ef-education"
+    ]
+  },
+  {
+    "id": "ef-education-oatly",
+    "name": "EF Education-Oatly",
+    "shortName": "EF Education-Oatly",
+    "code": "EFO",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "ef education - oatly",
+      "ef-tibco-svb"
     ]
   },
   {
@@ -1416,6 +2462,21 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "emirates-great-britain",
+    "name": "Emirates Great Britain SailGP Team",
+    "shortName": "Emirates GBR",
+    "code": "GBR",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Great Britain",
+    "crest": null,
+    "aliases": [
+      "Great Britain SailGP Team",
+      "Emirates GBR",
+      "GBR SailGP Team"
+    ]
+  },
+  {
     "id": "england",
     "name": "England",
     "shortName": "England",
@@ -1425,6 +2486,20 @@
     "country": "England",
     "crest": "assets/crests/england.png",
     "aliases": []
+  },
+  {
+    "id": "envision-racing",
+    "name": "Envision Racing",
+    "shortName": "Envision",
+    "code": "ENV",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "Envision Formula E Team",
+      "Paysafe Envision Racing"
+    ]
   },
   {
     "id": "es-troyes-ac",
@@ -1453,6 +2528,48 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "esteghlal",
+    "name": "Esteghlal FC",
+    "shortName": "Esteghlal",
+    "code": "EST",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Iran",
+    "crest": null,
+    "aliases": [
+      "esteghlal tehran",
+      "esteghlal meli"
+    ]
+  },
+  {
+    "id": "estoril-praia",
+    "name": "G.D. Estoril Praia",
+    "shortName": "Estoril",
+    "code": "EST",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "grupo desportivo estoril praia",
+      "estoril praias"
+    ]
+  },
+  {
+    "id": "estrela-amadora",
+    "name": "C.F. Estrela da Amadora",
+    "shortName": "Estrela",
+    "code": "CFE",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "clube de futebol estrela da amadora",
+      "estrela da amadora"
+    ]
+  },
+  {
     "id": "everton",
     "name": "Everton",
     "shortName": "Everton",
@@ -1465,6 +2582,47 @@
       "toffees"
     ],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "everton-w",
+    "name": "Everton Women",
+    "shortName": "Everton W",
+    "code": "EVW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "everton women fc"
+    ]
+  },
+  {
+    "id": "fakel-voronezh",
+    "name": "FC Fakel Voronezh",
+    "shortName": "Fakel",
+    "code": "FAK",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "fakel",
+      "fakel voronezh"
+    ]
+  },
+  {
+    "id": "famalicao",
+    "name": "FC Famalicao",
+    "shortName": "Famalicao",
+    "code": "FAM",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "futebol clube de famalicao",
+      "famalicao sad"
+    ]
   },
   {
     "id": "fc-augsburg",
@@ -1529,6 +2687,20 @@
     ]
   },
   {
+    "id": "fdj-united-suez-women",
+    "name": "FDJ United-Suez",
+    "shortName": "FDJ-Suez",
+    "code": "TFS",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "fdj-suez",
+      "fdj nouvelle aquitaine futuroscope"
+    ]
+  },
+  {
     "id": "fenerbahce",
     "name": "Fenerbahçe",
     "shortName": "Fenerbahçe",
@@ -1544,6 +2716,35 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "fenerbahce-basketball",
+    "name": "Fenerbahçe (men's basketball)",
+    "shortName": "Fenerbahçe",
+    "code": "FEN",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Türkiye",
+    "crest": null,
+    "aliases": [
+      "Fenerbahçe Beko İstanbul",
+      "Fenerbahçe Tarfin"
+    ]
+  },
+  {
+    "id": "fenix-premier-tech",
+    "name": "Fenix-Premier Tech",
+    "shortName": "Fenix-Premier Tech",
+    "code": "FPT",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Belgium",
+    "crest": null,
+    "aliases": [
+      "fenix-deceuninck",
+      "plantur-pura",
+      "ciclismo mundial"
+    ]
+  },
+  {
     "id": "ferrari",
     "name": "Scuderia Ferrari HP",
     "shortName": "Ferrari",
@@ -1553,6 +2754,20 @@
     "country": "Italy",
     "crest": "assets/crests/ferrari.png",
     "aliases": []
+  },
+  {
+    "id": "ferrari-af-corse",
+    "name": "Ferrari AF Corse",
+    "shortName": "Ferrari AF Corse",
+    "code": "FER",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "ferrari hypercar",
+      "af corse ferrari"
+    ]
   },
   {
     "id": "feyenoord",
@@ -1576,6 +2791,19 @@
     "country": "Italy",
     "crest": "assets/crests/fiorentina.png",
     "aliases": []
+  },
+  {
+    "id": "fireballs-gc",
+    "name": "Fireballs GC",
+    "shortName": "Fireballs",
+    "code": "FIR",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "Fireballs"
+    ]
   },
   {
     "id": "france",
@@ -1612,6 +2840,20 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "fus-de-rabat",
+    "name": "FUS de Rabat",
+    "shortName": "FUS Rabat",
+    "code": "FUS",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Morocco",
+    "crest": null,
+    "aliases": [
+      "fath union sport rabat",
+      "fus rabat basketball"
+    ]
+  },
+  {
     "id": "galatasaray",
     "name": "Galatasaray",
     "shortName": "Galatasaray",
@@ -1624,6 +2866,43 @@
       "gala"
     ],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "gamba-osaka",
+    "name": "Gamba Osaka",
+    "shortName": "Gamba",
+    "code": "GAM",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "gamba osaka fc"
+    ]
+  },
+  {
+    "id": "garage-59",
+    "name": "Garage 59",
+    "shortName": "Garage 59",
+    "code": "G59",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "genesis-magma-racing",
+    "name": "Genesis Magma Racing",
+    "shortName": "Genesis Magma",
+    "code": "GEN",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "South Korea",
+    "crest": null,
+    "aliases": [
+      "genesis hypercar"
+    ]
   },
   {
     "id": "genoa",
@@ -1648,6 +2927,20 @@
     "aliases": []
   },
   {
+    "id": "germany-sailgp",
+    "name": "Germany SailGP Team presented by Deutsche Bank",
+    "shortName": "Germany SailGP",
+    "code": "GER",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "Germany SailGP Team",
+      "Deutsche Bank Germany SailGP Team"
+    ]
+  },
+  {
     "id": "getafe",
     "name": "Getafe CF",
     "shortName": "Getafe",
@@ -1669,6 +2962,19 @@
     "country": "Ghana",
     "crest": "assets/crests/ghana.png",
     "aliases": []
+  },
+  {
+    "id": "gil-vicente",
+    "name": "Gil Vicente FC",
+    "shortName": "Gil Vicente",
+    "code": "GVF",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "gil vicente futebol clube"
+    ]
   },
   {
     "id": "golden-state-warriors",
@@ -1745,6 +3051,76 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "hapoel-tel-aviv",
+    "name": "Hapoel Tel Aviv B.C.",
+    "shortName": "Hapoel Tel Aviv",
+    "code": "HTA",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Israel",
+    "crest": null,
+    "aliases": [
+      "Hapoel IBI Tel Aviv"
+    ]
+  },
+  {
+    "id": "heart-of-racing-team",
+    "name": "Heart of Racing Team",
+    "shortName": "Heart of Racing",
+    "code": "HOR",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "heart of racing"
+    ]
+  },
+  {
+    "id": "henan",
+    "name": "Henan",
+    "shortName": "Henan",
+    "code": "HEN",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "河南",
+      "Henan FC",
+      "Henan Songshan Longmen"
+    ]
+  },
+  {
+    "id": "honda-hrc-castrol",
+    "name": "Honda HRC Castrol",
+    "shortName": "Honda HRC",
+    "code": "HRC",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "honda racing corporation",
+      "hrc"
+    ]
+  },
+  {
+    "id": "honda-lcr",
+    "name": "Honda LCR",
+    "shortName": "LCR",
+    "code": "LCR",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Monaco",
+    "crest": null,
+    "aliases": [
+      "lcr honda",
+      "castrol honda lcr",
+      "lucio cecchinello racing"
+    ]
+  },
+  {
     "id": "houston-astros",
     "name": "Houston Astros",
     "shortName": "Astros",
@@ -1802,6 +3178,34 @@
     "crest": "assets/crests/hull-city.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "human-powered-health-women",
+    "name": "Human Powered Health",
+    "shortName": "HPH",
+    "code": "HPH",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "rally cycling",
+      "optum pro cycling"
+    ]
+  },
+  {
+    "id": "hyflyers-gc",
+    "name": "HyFlyers GC",
+    "shortName": "HyFlyers",
+    "code": "HYF",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "Hy Flyers",
+      "franchise team, no single country"
+    ]
   },
   {
     "id": "indiana-pacers",
@@ -1898,6 +3302,19 @@
     "aliases": []
   },
   {
+    "id": "iron-lynx",
+    "name": "Iron Lynx",
+    "shortName": "Iron Lynx",
+    "code": "IRL",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "iron dames"
+    ]
+  },
+  {
     "id": "ivory-coast",
     "name": "Ivory Coast",
     "shortName": "Ivory Coast",
@@ -1921,6 +3338,19 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "jaguar-tcs-racing",
+    "name": "Jaguar TCS Racing",
+    "shortName": "Jaguar TCS",
+    "code": "JAG",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "Jaguar Racing"
+    ]
+  },
+  {
     "id": "japan",
     "name": "Japan",
     "shortName": "Japan",
@@ -1930,6 +3360,61 @@
     "country": "Japan",
     "crest": "assets/crests/japan.png",
     "aliases": []
+  },
+  {
+    "id": "jca-kings",
+    "name": "JCA Kings",
+    "shortName": "JCA Kings",
+    "code": "JCA",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Cote d'Ivoire",
+    "crest": null,
+    "aliases": [
+      "jeunesse club d'abidjan",
+      "jca abidjan"
+    ]
+  },
+  {
+    "id": "jeonbuk-hyundai-motors",
+    "name": "Jeonbuk Hyundai Motors",
+    "shortName": "Jeonbuk",
+    "code": "JEO",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "South Korea",
+    "crest": null,
+    "aliases": [
+      "jeonbuk hyundai motors fc",
+      "jeonbuk fc"
+    ]
+  },
+  {
+    "id": "johannesburg-giants",
+    "name": "Johannesburg Giants",
+    "shortName": "Giants",
+    "code": "JGB",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "South Africa",
+    "crest": null,
+    "aliases": [
+      "johannesburg giants basketball club"
+    ]
+  },
+  {
+    "id": "johor-darul-tazim",
+    "name": "Johor Darul Ta'zim FC",
+    "shortName": "JDT",
+    "code": "JDT",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Malaysia",
+    "crest": null,
+    "aliases": [
+      "johor darul takzim",
+      "jdt fc"
+    ]
   },
   {
     "id": "jordan",
@@ -1978,6 +3463,87 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "kashima-antlers",
+    "name": "Kashima Antlers",
+    "shortName": "Kashima",
+    "code": "KAS",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "kashima antlers fc"
+    ]
+  },
+  {
+    "id": "kashiwa-reysol",
+    "name": "Kashiwa Reysol",
+    "shortName": "Kashiwa",
+    "code": "REY",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "kashiwa reysol fc"
+    ]
+  },
+  {
+    "id": "korean-golf-club",
+    "name": "Korean Golf Club",
+    "shortName": "Korean GC",
+    "code": "KGC",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "South Korea",
+    "crest": null,
+    "aliases": [
+      "Iron Heads GC"
+    ]
+  },
+  {
+    "id": "krasnodar",
+    "name": "FC Krasnodar",
+    "shortName": "Krasnodar",
+    "code": "KRA",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "fk krasnodar"
+    ]
+  },
+  {
+    "id": "krylia-sovetov",
+    "name": "PFC Krylia Sovetov Samara",
+    "shortName": "Krylia Sovetov",
+    "code": "KRY",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "krylya sovetov",
+      "krylia sovetov samara",
+      "wings of the soviets"
+    ]
+  },
+  {
+    "id": "kyoto-sanga",
+    "name": "Kyoto Sanga FC",
+    "shortName": "Kyoto Sanga",
+    "code": "KYT",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "kyoto sanga",
+      "kyoto purple sanga"
+    ]
+  },
+  {
     "id": "la-clippers",
     "name": "LA Clippers",
     "shortName": "LA Clippers",
@@ -2017,6 +3583,20 @@
       "nfl"
     ],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "lada-tolyatti",
+    "name": "Lada Tolyatti",
+    "shortName": "Lada",
+    "code": "LAD",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Лада Тольятти",
+      "ХК Лада"
+    ]
   },
   {
     "id": "las-vegas-raiders",
@@ -2107,6 +3687,20 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "legion-xiii",
+    "name": "Legion XIII",
+    "shortName": "Legion XIII",
+    "code": "L13",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "Legion 13",
+      "franchise team, no single country"
+    ]
+  },
+  {
     "id": "lens",
     "name": "RC Lens",
     "shortName": "Lens",
@@ -2134,6 +3728,19 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "liaoning-tieren",
+    "name": "Liaoning Tieren",
+    "shortName": "Tieren",
+    "code": "LNT",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "辽宁铁人"
+    ]
+  },
+  {
     "id": "lidl-trek",
     "name": "Lidl-Trek",
     "shortName": "Lidl-Trek",
@@ -2144,6 +3751,20 @@
     "crest": "assets/crests/lidl-trek.png",
     "aliases": [
       "trek-segafredo"
+    ]
+  },
+  {
+    "id": "lidl-trek-women",
+    "name": "Lidl-Trek",
+    "shortName": "Lidl-Trek",
+    "code": "LTKW",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "trek-segafredo women",
+      "trek factory racing women"
     ]
   },
   {
@@ -2175,6 +3796,20 @@
     ]
   },
   {
+    "id": "liv-alula-jayco",
+    "name": "Liv AlUla Jayco",
+    "shortName": "Liv AlUla Jayco",
+    "code": "LIV",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "liv jayco alula",
+      "liv racing teqfind"
+    ]
+  },
+  {
     "id": "liverpool",
     "name": "Liverpool",
     "shortName": "Liverpool",
@@ -2188,6 +3823,73 @@
       "reds"
     ],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "liverpool-w",
+    "name": "Liverpool Women",
+    "shortName": "Liverpool W",
+    "code": "LIW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "liverpool women fc"
+    ]
+  },
+  {
+    "id": "lokomotiv-moscow",
+    "name": "FC Lokomotiv Moscow",
+    "shortName": "Lokomotiv",
+    "code": "LOK",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "loko",
+      "lokomotiv moscow"
+    ]
+  },
+  {
+    "id": "lokomotiv-yaroslavl",
+    "name": "Lokomotiv Yaroslavl",
+    "shortName": "Lokomotiv",
+    "code": "LOK",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Локомотив Ярославль"
+    ]
+  },
+  {
+    "id": "lola-yamaha-abt",
+    "name": "Lola Yamaha ABT Formula E Team",
+    "shortName": "Lola Yamaha ABT",
+    "code": "LYA",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "Lola Cars",
+      "ABT Formula E Team"
+    ]
+  },
+  {
+    "id": "london-city-lionesses",
+    "name": "London City Lionesses",
+    "shortName": "London City",
+    "code": "LCL",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "london city lionesses fc"
+    ]
   },
   {
     "id": "los-angeles-angels",
@@ -2249,6 +3951,20 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "los-gallos",
+    "name": "Los Gallos SailGP Team",
+    "shortName": "Los Gallos",
+    "code": "ESP",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "Spain SailGP Team",
+      "Los Gallos"
+    ]
+  },
+  {
     "id": "lotto-intermarche",
     "name": "Lotto Intermarché",
     "shortName": "Lotto",
@@ -2263,6 +3979,30 @@
     ]
   },
   {
+    "id": "maccabi-tel-aviv",
+    "name": "Maccabi Tel Aviv B.C.",
+    "shortName": "Maccabi Tel Aviv",
+    "code": "MTA",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Israel",
+    "crest": null,
+    "aliases": [
+      "Maccabi Rapyd Tel Aviv"
+    ]
+  },
+  {
+    "id": "mahindra-racing",
+    "name": "Mahindra Racing",
+    "shortName": "Mahindra",
+    "code": "MAH",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "India",
+    "crest": null,
+    "aliases": []
+  },
+  {
     "id": "mainz-05",
     "name": "Mainz 05",
     "shortName": "Mainz",
@@ -2273,6 +4013,33 @@
     "crest": "assets/crests/mainz-05.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "majesticks-gc",
+    "name": "Majesticks Golf Club",
+    "shortName": "Majesticks",
+    "code": "MAJ",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "Majesticks GC"
+    ]
+  },
+  {
+    "id": "maktown-flyers",
+    "name": "Maktown Flyers",
+    "shortName": "Maktown",
+    "code": "MKF",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Nigeria",
+    "crest": null,
+    "aliases": [
+      "lagos legends",
+      "maktown flyers nigeria"
+    ]
   },
   {
     "id": "malaga",
@@ -2302,6 +4069,19 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "manchester-city-w",
+    "name": "Manchester City Women",
+    "shortName": "Man City W",
+    "code": "MCW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "manchester city women fc"
+    ]
+  },
+  {
     "id": "manchester-united",
     "name": "Manchester United",
     "shortName": "Man Utd",
@@ -2315,6 +4095,46 @@
       "united"
     ],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "manchester-united-w",
+    "name": "Manchester United Women",
+    "shortName": "Man Utd W",
+    "code": "MUW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "manchester united women fc"
+    ]
+  },
+  {
+    "id": "manthey-dk-engineering",
+    "name": "Manthey DK Engineering",
+    "shortName": "Manthey DK",
+    "code": "MDK",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "manthey racing"
+    ]
+  },
+  {
+    "id": "maritimo",
+    "name": "CS Maritimo",
+    "shortName": "Maritimo",
+    "code": "MAR",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "club sport maritimo",
+      "maritimo da madeira"
+    ]
   },
   {
     "id": "mclaren",
@@ -2349,6 +4169,20 @@
     "country": "United Kingdom",
     "crest": "assets/crests/mercedes.png",
     "aliases": []
+  },
+  {
+    "id": "metallurg-magnitogorsk",
+    "name": "Metallurg Magnitogorsk",
+    "shortName": "Metallurg",
+    "code": "MET",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Металлург Магнитогорск",
+      "Metallurg Mg"
+    ]
   },
   {
     "id": "mexico",
@@ -2469,6 +4303,20 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "monster-energy-yamaha-motogp",
+    "name": "Monster Energy Yamaha MotoGP",
+    "shortName": "Yamaha",
+    "code": "YAM",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "yamaha factory racing",
+      "monster energy yamaha"
+    ]
+  },
+  {
     "id": "monza",
     "name": "AC Monza",
     "shortName": "Monza",
@@ -2478,6 +4326,19 @@
     "country": "Italy",
     "crest": "assets/crests/monza.png",
     "aliases": []
+  },
+  {
+    "id": "moreirense",
+    "name": "Moreirense FC",
+    "shortName": "Moreirense",
+    "code": "MOR",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "futebol clube de moreirense"
+    ]
   },
   {
     "id": "morocco",
@@ -2504,6 +4365,60 @@
     ]
   },
   {
+    "id": "movistar-women",
+    "name": "Movistar Team (women)",
+    "shortName": "Movistar",
+    "code": "MOVW",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "movistar team mujeres"
+    ]
+  },
+  {
+    "id": "mubadala-brazil",
+    "name": "Mubadala Brazil SailGP Team",
+    "shortName": "Mubadala Brazil",
+    "code": "BRA",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Brazil",
+    "crest": null,
+    "aliases": [
+      "Brazil SailGP Team",
+      "Mubadala Brazil"
+    ]
+  },
+  {
+    "id": "nacional",
+    "name": "CD Nacional",
+    "shortName": "Nacional",
+    "code": "NAC",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "clube desportivo nacional",
+      "nacional da madeira"
+    ]
+  },
+  {
+    "id": "nairobi-city-thunder",
+    "name": "Nairobi City Thunder",
+    "shortName": "NCT",
+    "code": "NCT",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Kenya",
+    "crest": null,
+    "aliases": [
+      "nairobi city thunder kenya"
+    ]
+  },
+  {
     "id": "napoli",
     "name": "SSC Napoli",
     "shortName": "Napoli",
@@ -2524,6 +4439,33 @@
     "country": "USA",
     "crest": "assets/crests/nashville-sc.png",
     "aliases": []
+  },
+  {
+    "id": "neftchi",
+    "name": "Neftchi Fergana",
+    "shortName": "Neftchi",
+    "code": "NEF",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Uzbekistan",
+    "crest": null,
+    "aliases": [
+      "neftchi farg'ona",
+      "neftchi farkona"
+    ]
+  },
+  {
+    "id": "neftekhimik-nizhnekamsk",
+    "name": "Neftekhimik Nizhnekamsk",
+    "shortName": "Neftekhimik",
+    "code": "NEF",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Нефтехимик Нижнекамск"
+    ]
   },
   {
     "id": "neom",
@@ -2691,6 +4633,19 @@
     "aliases": []
   },
   {
+    "id": "newcastle-jets",
+    "name": "Newcastle Jets FC",
+    "shortName": "Newcastle Jets",
+    "code": "NJT",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "newcastle jets"
+    ]
+  },
+  {
     "id": "newcastle-united",
     "name": "Newcastle United",
     "shortName": "Newcastle",
@@ -2704,6 +4659,32 @@
       "toon"
     ],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "nissan-formula-e",
+    "name": "Nissan Formula E Team",
+    "shortName": "Nissan",
+    "code": "NIS",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "Japan",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "northstar-canada",
+    "name": "NorthStar SailGP Team",
+    "shortName": "NorthStar",
+    "code": "CAN",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Canada",
+    "crest": null,
+    "aliases": [
+      "Canada SailGP Team",
+      "NorthStar",
+      "Canada SailGP Team | NorthStar"
+    ]
   },
   {
     "id": "norway",
@@ -2758,6 +4739,20 @@
     ]
   },
   {
+    "id": "okgc",
+    "name": "OKGC",
+    "shortName": "OKGC",
+    "code": "OKG",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "Smash GC",
+      "Oklahoma Golf Club"
+    ]
+  },
+  {
     "id": "oklahoma-city-thunder",
     "name": "Oklahoma City Thunder",
     "shortName": "Thunder",
@@ -2768,6 +4763,33 @@
     "crest": "assets/crests/oklahoma-city-thunder.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "olimpia-milano",
+    "name": "Olimpia Milano",
+    "shortName": "Milano",
+    "code": "MIL",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "EA7 Emporio Armani Milano"
+    ]
+  },
+  {
+    "id": "olympiacos",
+    "name": "Olympiacos B.C.",
+    "shortName": "Olympiacos",
+    "code": "OLY",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Greece",
+    "crest": null,
+    "aliases": [
+      "Olympiacos Piraeus",
+      "Olympiacos Superbet"
+    ]
   },
   {
     "id": "olympique-de-marseille",
@@ -2795,6 +4817,19 @@
     "aliases": [
       "lyon",
       "ol"
+    ]
+  },
+  {
+    "id": "orenburg",
+    "name": "FC Orenburg",
+    "shortName": "Orenburg",
+    "code": "ORE",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "orenburg"
     ]
   },
   {
@@ -2833,6 +4868,19 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "pakhtakor",
+    "name": "Pakhtakor Tashkent",
+    "shortName": "Pakhtakor",
+    "code": "PAK",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Uzbekistan",
+    "crest": null,
+    "aliases": [
+      "pakhtakor tashkent fk"
+    ]
+  },
+  {
     "id": "panama",
     "name": "Panama",
     "shortName": "Panama",
@@ -2844,6 +4892,19 @@
     "aliases": []
   },
   {
+    "id": "panathinaikos",
+    "name": "Panathinaikos B.C.",
+    "shortName": "Panathinaikos",
+    "code": "PAO",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Greece",
+    "crest": null,
+    "aliases": [
+      "Panathinaikos AKTOR Athens"
+    ]
+  },
+  {
     "id": "paraguay",
     "name": "Paraguay",
     "shortName": "Paraguay",
@@ -2852,6 +4913,17 @@
     "leagueId": "fifa",
     "country": "Paraguay",
     "crest": "assets/crests/paraguay.png",
+    "aliases": []
+  },
+  {
+    "id": "paris-basketball",
+    "name": "Paris Basketball",
+    "shortName": "Paris",
+    "code": "PAR",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "France",
+    "crest": null,
     "aliases": []
   },
   {
@@ -2893,6 +4965,62 @@
     "country": "Italy",
     "crest": "assets/crests/parma.png",
     "aliases": []
+  },
+  {
+    "id": "partizan",
+    "name": "KK Partizan (basketball)",
+    "shortName": "Partizan",
+    "code": "PTZ",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Serbia",
+    "crest": null,
+    "aliases": [
+      "Partizan Mozzart Bet",
+      "Partizan Belgrade"
+    ]
+  },
+  {
+    "id": "pertamina-enduro-vr46-racing-team",
+    "name": "Pertamina Enduro VR46 Racing Team",
+    "shortName": "VR46",
+    "code": "VR4",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "vr46 racing team",
+      "pertamina enduro vr46"
+    ]
+  },
+  {
+    "id": "petro-de-luanda",
+    "name": "Petro de Luanda",
+    "shortName": "Petro",
+    "code": "PET",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Angola",
+    "crest": null,
+    "aliases": [
+      "atletico petroleos de luanda",
+      "petro de luanda basketball"
+    ]
+  },
+  {
+    "id": "peugeot-totalenergies",
+    "name": "Peugeot TotalEnergies",
+    "shortName": "Peugeot",
+    "code": "PEU",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "peugeot sport",
+      "peugeot 9x8"
+    ]
   },
   {
     "id": "philadelphia-76ers",
@@ -2978,6 +5106,46 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "pohang-steelers",
+    "name": "Pohang Steelers",
+    "shortName": "Pohang",
+    "code": "POH",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "South Korea",
+    "crest": null,
+    "aliases": [
+      "pohang steelers fc"
+    ]
+  },
+  {
+    "id": "porsche-formula-e",
+    "name": "Porsche Formula E Team",
+    "shortName": "Porsche",
+    "code": "POR",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "TAG Heuer Porsche Formula E Team"
+    ]
+  },
+  {
+    "id": "port-fc",
+    "name": "Port FC",
+    "shortName": "Port",
+    "code": "POR",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Thailand",
+    "crest": null,
+    "aliases": [
+      "port fc bangkok",
+      "port authority thailand"
+    ]
+  },
+  {
     "id": "portland-timbers",
     "name": "Portland Timbers",
     "shortName": "Portland Timbers",
@@ -3026,6 +5194,31 @@
     "aliases": []
   },
   {
+    "id": "prima-pramac-yamaha-motogp",
+    "name": "Prima Pramac Yamaha MotoGP",
+    "shortName": "Pramac",
+    "code": "PRA",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "pramac racing",
+      "pramac yamaha"
+    ]
+  },
+  {
+    "id": "proton-competition",
+    "name": "Proton Competition",
+    "shortName": "Proton",
+    "code": "PRO",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Germany",
+    "crest": null,
+    "aliases": []
+  },
+  {
     "id": "psv",
     "name": "PSV Eindhoven",
     "shortName": "PSV",
@@ -3051,6 +5244,47 @@
     "aliases": []
   },
   {
+    "id": "qatar-basketball",
+    "name": "Qatar men's national basketball team",
+    "shortName": "Qatar",
+    "code": "QAT",
+    "sportId": "basketball",
+    "leagueId": "fiba",
+    "country": "Qatar",
+    "crest": null,
+    "aliases": [
+      "qatar national basketball team",
+      "qatar 2027 host team"
+    ]
+  },
+  {
+    "id": "qingdao-hainiu",
+    "name": "Qingdao Hainiu",
+    "shortName": "Hainiu",
+    "code": "QDH",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "青岛海牛",
+      "Qingdao Mane"
+    ]
+  },
+  {
+    "id": "qingdao-west-coast",
+    "name": "Qingdao West Coast",
+    "shortName": "West Coast",
+    "code": "QDW",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "青岛西海岸"
+    ]
+  },
+  {
     "id": "racing-bulls",
     "name": "Visa Cash App Racing Bulls F1 Team",
     "shortName": "Racing Bulls",
@@ -3074,6 +5308,46 @@
       "racing"
     ],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "racing-team-turkey-by-tf",
+    "name": "Racing Team Turkey by TF",
+    "shortName": "Racing Team Turkey",
+    "code": "RTT",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Turkey",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "rangegoats-gc",
+    "name": "RangeGoats Golf Club",
+    "shortName": "RangeGoats",
+    "code": "RGO",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "RangeGoats GC",
+      "Range Goats",
+      "franchise team, no single country"
+    ]
+  },
+  {
+    "id": "ratchaburi",
+    "name": "Ratchaburi FC",
+    "shortName": "Ratchaburi",
+    "code": "RAT",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Thailand",
+    "crest": null,
+    "aliases": [
+      "ratchaburi fc",
+      "ratchaburi mitr phol"
+    ]
   },
   {
     "id": "rayo-vallecano",
@@ -3154,6 +5428,19 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "real-madrid-baloncesto",
+    "name": "Real Madrid Baloncesto",
+    "shortName": "Real Madrid",
+    "code": "RMB",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "Real Madrid basketball"
+    ]
+  },
+  {
     "id": "real-salt-lake",
     "name": "Real Salt Lake",
     "shortName": "Real Salt Lake",
@@ -3192,6 +5479,47 @@
     ]
   },
   {
+    "id": "red-bull-italy",
+    "name": "Red Bull Italy SailGP Team",
+    "shortName": "Red Bull Italy",
+    "code": "ITA",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "Italy SailGP Team",
+      "Red Bull Italy"
+    ]
+  },
+  {
+    "id": "red-bull-ktm-factory-racing",
+    "name": "Red Bull KTM Factory Racing",
+    "shortName": "KTM Factory",
+    "code": "KTM",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Austria",
+    "crest": null,
+    "aliases": [
+      "ktm factory racing"
+    ]
+  },
+  {
+    "id": "red-bull-ktm-tech3",
+    "name": "Red Bull KTM Tech3",
+    "shortName": "Tech3",
+    "code": "TEC",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "tech3",
+      "ktm tech3"
+    ]
+  },
+  {
     "id": "red-bull-racing",
     "name": "Oracle Red Bull Racing",
     "shortName": "Red Bull Racing",
@@ -3201,6 +5529,414 @@
     "country": "United Kingdom",
     "crest": "assets/crests/red-bull-racing.png",
     "aliases": []
+  },
+  {
+    "id": "rio-ave",
+    "name": "Rio Ave FC",
+    "shortName": "Rio Ave",
+    "code": "RIO",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "rio ave futebol clube",
+      "rioavefc"
+    ]
+  },
+  {
+    "id": "ripper-gc",
+    "name": "Ripper GC",
+    "shortName": "Ripper",
+    "code": "RIP",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "Ripper Golf Club"
+    ]
+  },
+  {
+    "id": "rockwool-denmark",
+    "name": "ROCKWOOL Racing SailGP Team",
+    "shortName": "ROCKWOOL Racing",
+    "code": "DEN",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Denmark",
+    "crest": null,
+    "aliases": [
+      "Denmark SailGP Team",
+      "ROCKWOOL Denmark SailGP Team",
+      "ROCKWOOL Racing"
+    ]
+  },
+  {
+    "id": "rodina-moscow",
+    "name": "FC Rodina Moscow",
+    "shortName": "Rodina",
+    "code": "ROD",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "rodina",
+      "rodina moscow"
+    ]
+  },
+  {
+    "id": "rostov",
+    "name": "FC Rostov",
+    "shortName": "Rostov",
+    "code": "ROS",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "rostov",
+      "fc rostov"
+    ]
+  },
+  {
+    "id": "rssb-tigers",
+    "name": "RSSB Tigers",
+    "shortName": "Tigers",
+    "code": "RSS",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Rwanda",
+    "crest": null,
+    "aliases": [
+      "tigers bbc",
+      "rssb tigers rwanda"
+    ]
+  },
+  {
+    "id": "rubin-kazan",
+    "name": "FC Rubin Kazan",
+    "shortName": "Rubin",
+    "code": "RUB",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "rubin",
+      "rubin kazan"
+    ]
+  },
+  {
+    "id": "rugby-argentina",
+    "name": "Argentina",
+    "shortName": "Argentina",
+    "code": "ARG",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Argentina",
+    "crest": null,
+    "aliases": [
+      "los pumas"
+    ]
+  },
+  {
+    "id": "rugby-australia",
+    "name": "Australia",
+    "shortName": "Australia",
+    "code": "AUS",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "wallabies",
+      "host"
+    ]
+  },
+  {
+    "id": "rugby-canada",
+    "name": "Canada",
+    "shortName": "Canada",
+    "code": "CAN",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Canada",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "rugby-chile",
+    "name": "Chile",
+    "shortName": "Chile",
+    "code": "CHI",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Chile",
+    "crest": null,
+    "aliases": [
+      "condors",
+      "chi"
+    ]
+  },
+  {
+    "id": "rugby-england",
+    "name": "England",
+    "shortName": "England",
+    "code": "ENG",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "England",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "rugby-fiji",
+    "name": "Fiji",
+    "shortName": "Fiji",
+    "code": "FIJ",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Fiji",
+    "crest": null,
+    "aliases": [
+      "flying fijians"
+    ]
+  },
+  {
+    "id": "rugby-france",
+    "name": "France",
+    "shortName": "France",
+    "code": "FRA",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "les bleus"
+    ]
+  },
+  {
+    "id": "rugby-georgia",
+    "name": "Georgia",
+    "shortName": "Georgia",
+    "code": "GEO",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Georgia",
+    "crest": null,
+    "aliases": [
+      "loros"
+    ]
+  },
+  {
+    "id": "rugby-hong-kong-china",
+    "name": "Hong Kong China",
+    "shortName": "Hong Kong China",
+    "code": "HKG",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Hong Kong",
+    "crest": null,
+    "aliases": [
+      "hong kong",
+      "debutants"
+    ]
+  },
+  {
+    "id": "rugby-ireland",
+    "name": "Ireland",
+    "shortName": "Ireland",
+    "code": "IRE",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Ireland",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "rugby-italy",
+    "name": "Italy",
+    "shortName": "Italy",
+    "code": "ITA",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "azzurri"
+    ]
+  },
+  {
+    "id": "rugby-japan",
+    "name": "Japan",
+    "shortName": "Japan",
+    "code": "JPN",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "brave blossoms"
+    ]
+  },
+  {
+    "id": "rugby-new-zealand",
+    "name": "New Zealand",
+    "shortName": "New Zealand",
+    "code": "NZL",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "New Zealand",
+    "crest": null,
+    "aliases": [
+      "all blacks",
+      "nzl"
+    ]
+  },
+  {
+    "id": "rugby-portugal",
+    "name": "Portugal",
+    "shortName": "Portugal",
+    "code": "POR",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "os lobos"
+    ]
+  },
+  {
+    "id": "rugby-romania",
+    "name": "Romania",
+    "shortName": "Romania",
+    "code": "ROU",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Romania",
+    "crest": null,
+    "aliases": [
+      "stejarii",
+      "oaks"
+    ]
+  },
+  {
+    "id": "rugby-samoa",
+    "name": "Samoa",
+    "shortName": "Samoa",
+    "code": "SAM",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Samoa",
+    "crest": null,
+    "aliases": [
+      "manu samoa"
+    ]
+  },
+  {
+    "id": "rugby-scotland",
+    "name": "Scotland",
+    "shortName": "Scotland",
+    "code": "SCO",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Scotland",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "rugby-south-africa",
+    "name": "South Africa",
+    "shortName": "South Africa",
+    "code": "RSA",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "South Africa",
+    "crest": null,
+    "aliases": [
+      "springboks",
+      "defending champions"
+    ]
+  },
+  {
+    "id": "rugby-spain",
+    "name": "Spain",
+    "shortName": "Spain",
+    "code": "ESP",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "los leones"
+    ]
+  },
+  {
+    "id": "rugby-tonga",
+    "name": "Tonga",
+    "shortName": "Tonga",
+    "code": "TGA",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Tonga",
+    "crest": null,
+    "aliases": [
+      "ikale tahi"
+    ]
+  },
+  {
+    "id": "rugby-uruguay",
+    "name": "Uruguay",
+    "shortName": "Uruguay",
+    "code": "URU",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Uruguay",
+    "crest": null,
+    "aliases": [
+      "los teros"
+    ]
+  },
+  {
+    "id": "rugby-usa",
+    "name": "USA",
+    "shortName": "USA",
+    "code": "USA",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "USA",
+    "crest": null,
+    "aliases": [
+      "eagles",
+      "united states"
+    ]
+  },
+  {
+    "id": "rugby-wales",
+    "name": "Wales",
+    "shortName": "Wales",
+    "code": "WAL",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Wales",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "rugby-zimbabwe",
+    "name": "Zimbabwe",
+    "shortName": "Zimbabwe",
+    "code": "ZIM",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Zimbabwe",
+    "crest": null,
+    "aliases": [
+      "sables",
+      "debutants"
+    ]
   },
   {
     "id": "sabah",
@@ -3228,6 +5964,19 @@
     "crest": "assets/crests/sacramento-kings.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "salavat-yulaev",
+    "name": "Salavat Yulaev Ufa",
+    "shortName": "Salavat Yulaev",
+    "code": "SAL",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Салават Юлаев Уфа"
+    ]
   },
   {
     "id": "san-antonio-spurs",
@@ -3298,6 +6047,20 @@
     "country": "USA",
     "crest": "assets/crests/san-jose-earthquakes.png",
     "aliases": []
+  },
+  {
+    "id": "santa-clara",
+    "name": "CD Santa Clara",
+    "shortName": "Santa Clara",
+    "code": "SCL",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "clube desportivo santa clara",
+      "santa clara azores"
+    ]
   },
   {
     "id": "sassuolo",
@@ -3417,6 +6180,19 @@
     "aliases": []
   },
   {
+    "id": "severstal-cherepovets",
+    "name": "Severstal Cherepovets",
+    "shortName": "Severstal",
+    "code": "SEV",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Северсталь Череповец"
+    ]
+  },
+  {
     "id": "sevilla",
     "name": "Sevilla FC",
     "shortName": "Sevilla",
@@ -3427,6 +6203,19 @@
     "crest": "assets/crests/sevilla.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "shabab-al-ahli",
+    "name": "Shabab Al Ahli Club",
+    "shortName": "Shabab Al Ahli",
+    "code": "SHA",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "United Arab Emirates",
+    "crest": null,
+    "aliases": [
+      "shabab al ahli dubai"
+    ]
   },
   {
     "id": "shakhtar-donetsk",
@@ -3441,6 +6230,103 @@
       "shakhtar"
     ],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "shandong-taishan",
+    "name": "Shandong Taishan",
+    "shortName": "Taishan",
+    "code": "SDT",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "山东泰山",
+      "Shandong Luneng"
+    ]
+  },
+  {
+    "id": "shanghai-dragons",
+    "name": "Shanghai Dragons",
+    "shortName": "Shanghai Dragons",
+    "code": "SHA",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "Шанхайские драконы",
+      "Kunlun Red Star"
+    ]
+  },
+  {
+    "id": "shanghai-port",
+    "name": "Shanghai Port FC",
+    "shortName": "Shanghai Port",
+    "code": "SHP",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "shanghai haigang",
+      "shanghai port"
+    ]
+  },
+  {
+    "id": "shanghai-shenhua",
+    "name": "Shanghai Shenhua",
+    "shortName": "Shenhua",
+    "code": "SHS",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "上海申花"
+    ]
+  },
+  {
+    "id": "shenzhen-peng-city",
+    "name": "Shenzhen Peng City",
+    "shortName": "Peng City",
+    "code": "SZP",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "深圳新鹏城",
+      "Shenzhen Peng City FC"
+    ]
+  },
+  {
+    "id": "sibir-novosibirsk",
+    "name": "Sibir Novosibirsk",
+    "shortName": "Sibir",
+    "code": "SIB",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Сибирь Новосибирск"
+    ]
+  },
+  {
+    "id": "ska-spb",
+    "name": "SKA Saint Petersburg",
+    "shortName": "SKA",
+    "code": "SKA",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "СКА",
+      "SKA St Petersburg",
+      "SKA Neva"
+    ]
   },
   {
     "id": "slavia-praha",
@@ -3470,6 +6356,20 @@
       "belasí"
     ],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "sochi-hc",
+    "name": "HC Sochi",
+    "shortName": "Sochi",
+    "code": "SOC",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "ХК Сочи",
+      "Sochi Leopards"
+    ]
   },
   {
     "id": "soudal-quick-step",
@@ -3508,6 +6408,19 @@
     "aliases": []
   },
   {
+    "id": "southern-guards-gc",
+    "name": "Southern Guards GC",
+    "shortName": "Southern Guards",
+    "code": "SGC",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "South Africa",
+    "crest": null,
+    "aliases": [
+      "Stinger GC"
+    ]
+  },
+  {
     "id": "spain",
     "name": "Spain",
     "shortName": "Spain",
@@ -3517,6 +6430,34 @@
     "country": "Spain",
     "crest": "assets/crests/spain.png",
     "aliases": []
+  },
+  {
+    "id": "spartak-moscow",
+    "name": "FC Spartak Moscow",
+    "shortName": "Spartak",
+    "code": "SPA",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "spartak",
+      "spartak moscow"
+    ]
+  },
+  {
+    "id": "spartak-moscow-hockey",
+    "name": "HC Spartak Moscow",
+    "shortName": "Spartak",
+    "code": "SPA",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "ХК Спартак",
+      "Spartak Moscow hockey"
+    ]
   },
   {
     "id": "sporting-cp",
@@ -3608,6 +6549,19 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "superfile-trackhouse-motogp-team",
+    "name": "SuperFile Trackhouse MotoGP Team",
+    "shortName": "Trackhouse",
+    "code": "TRK",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "trackhouse racing"
+    ]
+  },
+  {
     "id": "sv-elversberg",
     "name": "SV Elversberg",
     "shortName": "Elversberg",
@@ -3629,6 +6583,21 @@
     "country": "Sweden",
     "crest": "assets/crests/sweden.png",
     "aliases": []
+  },
+  {
+    "id": "swiss-sailgp",
+    "name": "Explora Journeys Swiss SailGP Team",
+    "shortName": "Swiss SailGP",
+    "code": "SUI",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Switzerland",
+    "crest": null,
+    "aliases": [
+      "Switzerland SailGP Team",
+      "Swiss SailGP Team",
+      "Explora Journeys Swiss SailGP Team"
+    ]
   },
   {
     "id": "switzerland",
@@ -3695,6 +6664,34 @@
     ]
   },
   {
+    "id": "team-picnic-postnl-women",
+    "name": "Team Picnic PostNL (women)",
+    "shortName": "Picnic PostNL",
+    "code": "TPPW",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Netherlands",
+    "crest": null,
+    "aliases": [
+      "team dsm",
+      "dsm-firmenich women"
+    ]
+  },
+  {
+    "id": "team-sd-worx-protime",
+    "name": "Team SD Worx-Protime",
+    "shortName": "SD Worx-Protime",
+    "code": "SDW",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Netherlands",
+    "crest": null,
+    "aliases": [
+      "boels-dolmans",
+      "dolmans-landscaping"
+    ]
+  },
+  {
     "id": "team-visma-lease-a-bike",
     "name": "Team Visma | Lease a Bike",
     "shortName": "Visma-Lease a Bike",
@@ -3705,6 +6702,32 @@
     "crest": "assets/crests/team-visma-lease-a-bike.png",
     "aliases": [
       "jumbo-visma"
+    ]
+  },
+  {
+    "id": "team-visma-lease-a-bike-women",
+    "name": "Team Visma | Lease a Bike (women)",
+    "shortName": "Visma-Lease a Bike",
+    "code": "TVLW",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Netherlands",
+    "crest": null,
+    "aliases": [
+      "jumbo-visma women"
+    ]
+  },
+  {
+    "id": "team-wrt",
+    "name": "Team WRT",
+    "shortName": "WRT",
+    "code": "WRT",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Belgium",
+    "crest": null,
+    "aliases": [
+      "w racing team"
     ]
   },
   {
@@ -3730,6 +6753,44 @@
     "crest": "assets/crests/texas-rangers.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "tf-sport",
+    "name": "TF Sport",
+    "shortName": "TF Sport",
+    "code": "TFS",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "the-bend-manthey",
+    "name": "The Bend Manthey",
+    "shortName": "The Bend Manthey",
+    "code": "TBM",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "manthey the bend"
+    ]
+  },
+  {
+    "id": "tianjin-jinmen-tiger",
+    "name": "Tianjin Jinmen Tiger",
+    "shortName": "Jinmen Tiger",
+    "code": "TJT",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "天津津门虎",
+      "Tianjin Jinmen Tiger FC"
+    ]
   },
   {
     "id": "torino",
@@ -3778,6 +6839,33 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "torpedo-nizhny-novgorod",
+    "name": "Torpedo Nizhny Novgorod",
+    "shortName": "Torpedo",
+    "code": "TOR",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Торпедо Нижний Новгород"
+    ]
+  },
+  {
+    "id": "torque-gc",
+    "name": "Torque GC",
+    "shortName": "Torque",
+    "code": "TOR",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "Torque Golf Club",
+      "franchise team, no single country"
+    ]
+  },
+  {
     "id": "tottenham-hotspur",
     "name": "Tottenham Hotspur",
     "shortName": "Tottenham",
@@ -3792,6 +6880,20 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "tottenham-hotspur-w",
+    "name": "Tottenham Hotspur Women",
+    "shortName": "Tottenham W",
+    "code": "THW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "tottenham women fc",
+      "spurs women"
+    ]
+  },
+  {
     "id": "toulouse-fc",
     "name": "Toulouse FC",
     "shortName": "Toulouse",
@@ -3803,6 +6905,47 @@
     "aliases": [
       "toulouse",
       "tfc"
+    ]
+  },
+  {
+    "id": "toyota-racing",
+    "name": "Toyota Racing",
+    "shortName": "Toyota",
+    "code": "TOY",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "toyota gazoo racing",
+      "toyota gr racing"
+    ]
+  },
+  {
+    "id": "tractor",
+    "name": "Tractor SC",
+    "shortName": "Tractor",
+    "code": "TRA",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Iran",
+    "crest": null,
+    "aliases": [
+      "tractor sports club",
+      "tractor sazi tabriz"
+    ]
+  },
+  {
+    "id": "traktor-chelyabinsk",
+    "name": "Traktor Chelyabinsk",
+    "shortName": "Traktor",
+    "code": "TRA",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Трактор Челябинск"
     ]
   },
   {
@@ -3840,6 +6983,20 @@
     "aliases": []
   },
   {
+    "id": "turkiye-basketball",
+    "name": "Turkiye men's national basketball team",
+    "shortName": "Turkiye",
+    "code": "TUR",
+    "sportId": "basketball",
+    "leagueId": "fiba",
+    "country": "Turkiye",
+    "crest": null,
+    "aliases": [
+      "turkey national basketball team",
+      "turkiye national basketball team"
+    ]
+  },
+  {
     "id": "uae-team-emirates-xrg",
     "name": "UAE Team Emirates XRG",
     "shortName": "UAE Team Emirates",
@@ -3851,6 +7008,20 @@
     "aliases": [
       "uae-team-emirates",
       "uae-team-adq"
+    ]
+  },
+  {
+    "id": "uae-team-limad",
+    "name": "UAE Team L'IMAD",
+    "shortName": "UAE Team L'IMAD",
+    "code": "UADW",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "United Arab Emirates",
+    "crest": null,
+    "aliases": [
+      "uae team adq",
+      "ale-btc ljubljana"
     ]
   },
   {
@@ -3901,6 +7072,19 @@
     ]
   },
   {
+    "id": "uno-x-mobility-women",
+    "name": "Uno-X Mobility (women)",
+    "shortName": "Uno-X",
+    "code": "UXMW",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Norway",
+    "crest": null,
+    "aliases": [
+      "uno-x mobility women"
+    ]
+  },
+  {
     "id": "uruguay",
     "name": "Uruguay",
     "shortName": "Uruguay",
@@ -3910,6 +7094,21 @@
     "country": "Uruguay",
     "crest": "assets/crests/uruguay.png",
     "aliases": []
+  },
+  {
+    "id": "us-sailgp",
+    "name": "United States SailGP Team",
+    "shortName": "US SailGP",
+    "code": "USA",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "United States SailGP Team",
+      "US SailGP Team",
+      "America's SailGP Team"
+    ]
   },
   {
     "id": "utah-jazz",
@@ -3945,6 +7144,17 @@
     "crest": "assets/crests/valencia.png",
     "aliases": [],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "valencia-basket",
+    "name": "Valencia Basket",
+    "shortName": "Valencia",
+    "code": "VAL",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Spain",
+    "crest": null,
+    "aliases": []
   },
   {
     "id": "vancouver-whitecaps",
@@ -4019,6 +7229,59 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "virtus-bologna",
+    "name": "Virtus Pallacanestro Bologna",
+    "shortName": "Virtus Bologna",
+    "code": "VIR",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "Virtus Costa Bologna",
+      "Virtus Segafredo Bologna"
+    ]
+  },
+  {
+    "id": "vissel-kobe",
+    "name": "Vissel Kobe",
+    "shortName": "Vissel Kobe",
+    "code": "VIS",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "vissel kobe fc"
+    ]
+  },
+  {
+    "id": "vista-af-corse",
+    "name": "Vista AF Corse",
+    "shortName": "Vista AF Corse",
+    "code": "VAC",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Italy",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "vitoria-guimaraes",
+    "name": "Vitoria SC",
+    "shortName": "Vitoria Guimaraes",
+    "code": "VSC",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "vitoria sport clube",
+      "vitoria de guimaraes",
+      "vitoriasc"
+    ]
+  },
+  {
     "id": "washington-commanders",
     "name": "Washington Commanders",
     "shortName": "Commanders",
@@ -4069,6 +7332,19 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "west-ham-united-w",
+    "name": "West Ham United Women",
+    "shortName": "West Ham W",
+    "code": "WHW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "west ham united women fc"
+    ]
+  },
+  {
     "id": "williams",
     "name": "Atlassian Williams F1 Team",
     "shortName": "Williams",
@@ -4078,6 +7354,19 @@
     "country": "United Kingdom",
     "crest": "assets/crests/williams.png",
     "aliases": []
+  },
+  {
+    "id": "wuhan-three-towns",
+    "name": "Wuhan Three Towns",
+    "shortName": "Three Towns",
+    "code": "WHT",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "武汉三镇"
+    ]
   },
   {
     "id": "xds-astana-team",
@@ -4091,6 +7380,62 @@
     "aliases": [
       "astana-qazaqstan",
       "astana"
+    ]
+  },
+  {
+    "id": "yunnan-yukun",
+    "name": "Yunnan Yukun",
+    "shortName": "Yukun",
+    "code": "YNY",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "云南玉昆"
+    ]
+  },
+  {
+    "id": "zalgiris",
+    "name": "Žalgiris Kaunas",
+    "shortName": "Žalgiris",
+    "code": "ZAL",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Lithuania",
+    "crest": null,
+    "aliases": [
+      "Zalgiris Kaunas"
+    ]
+  },
+  {
+    "id": "zenit-st-petersburg",
+    "name": "FC Zenit Saint Petersburg",
+    "shortName": "Zenit",
+    "code": "ZEN",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "zenit",
+      "zenit st petersburg",
+      "zenit saint petersburg"
+    ]
+  },
+  {
+    "id": "zhejiang",
+    "name": "Zhejiang",
+    "shortName": "Zhejiang",
+    "code": "ZJG",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "浙江",
+      "Zhejiang FC",
+      "Zhejiang Professional"
     ]
   }
 ]

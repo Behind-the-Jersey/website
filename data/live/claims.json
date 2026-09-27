@@ -177,6 +177,27 @@
     "reviewed": false
   },
   {
+    "id": "adsc-established-2006",
+    "kind": "ownership",
+    "ownerIds": [
+      "uae",
+      "government-of-abu-dhabi"
+    ],
+    "text": "The Abu Dhabi Sports Council says it was established in 2006 by Sheikh Mohamed bin Zayed Al Nahyan, President of the United Arab Emirates, and is aligned to the emirate's leadership vision to develop sport and youth activities.",
+    "short": "ADSC: established 2006 by Sheikh Mohamed bin Zayed, aligned to the emirate's leadership",
+    "source": {
+      "name": "Abu Dhabi Sports Council - About Us",
+      "date": "2026-09-27",
+      "url": "https://adsc.gov.ae/about-us/",
+      "quote": "Abu Dhabi Sports Council (ADSC) was established in 2006 by His Highness Sheikh Mohamed bin Zayed Al Nahyan The president of United Arab Emirates",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "adt-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -505,6 +526,26 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "amnesty-rwanda-sportswashing-2026",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-rwanda"
+    ],
+    "text": "Amnesty International's British head of campaigns, Felix Jakens, warned that Rwanda is using its Aston Villa sponsorship to sportswash a record of arbitrary detention, torture and repression of free speech, and is fuelling conflict in eastern Congo through its support for M23 rebels and its military's actions there.",
+    "short": "Amnesty: Villa's Visit Rwanda deal is sportswashing",
+    "source": {
+      "name": "Morning Star (PA quotes, Amnesty International)",
+      "date": "2026-07-15",
+      "url": "https://morningstaronline.co.uk/article/amnesty-international-warns-rwanda-sportswashing-villa-sponsorship",
+      "quote": "Rwanda is playing a significant role in fuelling that conflict – both through its support to the M23 rebels and the direct actions of its military in eastern Congo.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
       }
     },
     "reviewed": false
@@ -847,6 +888,27 @@
     "reviewed": false
   },
   {
+    "id": "bahri-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "The Public Investment Fund holds a 22.55 percent stake in Bahri (National Shipping Company of Saudi Arabia) and 20 percent is held by Saudi Aramco Development Company, with the remainder in public shares.",
+    "short": "PIF holds 22.55% of Bahri; Saudi Aramco Development Company holds 20%.",
+    "source": {
+      "name": "AGBI (Arab Gulf Business Insight) company profile",
+      "date": "2025-05-08",
+      "url": "https://www.agbi.com/companies/bahri-company/",
+      "quote": "The Public Investment Fund (PIF) holds a 22.55 percent stake, 20 percent is held by by Saudi Aramco Development Company and the remainder is held in public shares.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "bain-capital-record",
     "kind": "ownership",
     "ownerIds": [
@@ -995,6 +1057,25 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "bcd-qatar-racing-2026",
+    "kind": "ownership",
+    "ownerIds": [
+      "qipco"
+    ],
+    "text": "Qatar Racing, 'the global horse racing and breeding operation of the QIPCO group', became title sponsor of British Champions Day on 4 August 2026 for the next three years, with individual sponsorship of all seven races, succeeding its parent company QIPCO, whose chairman is HH Sheikh Hamad Al Thani.",
+    "source": {
+      "name": "British Champions Day - Qatar Racing to become title sponsor of British Champions Day",
+      "date": "2026-08-04",
+      "url": "https://britishchampionsday.com/2026/08/04/qatar-racing-to-become-title-sponsor-of-british-champions-day/",
+      "quote": "QATAR RACING will succeed its parent company, QIPCO, as title sponsor of British Champions Day.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
       }
     },
     "reviewed": false
@@ -1559,6 +1640,25 @@
     "reviewed": false
   },
   {
+    "id": "chery-state-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "chery-automobile"
+    ],
+    "text": "Chery Automobile's HKEX prospectus (17 Sep 2025) shows Wuhu Investment Holding continuing as the company's Single Largest Shareholder with 20.08% of the enlarged share capital upon listing (assuming the over-allotment option is not exercised) - itself owned 95.59% by Wuhu SASAC and 4.41% by the Anhui Provincial Department of Finance - alongside Anhui Credit Guaranty holding 9.46% (wholly owned by the People's Government of Anhui Province) and Anhui Investment Holding holding 4.93% (wholly owned by Anhui SASAC). The prospectus states the company has 22 shareholders with a dispersed shareholding structure including certain state-owned enterprises, and is not a state-owned, state-controlled or state-actually-controlled enterprise under the PRC's state-asset supervision measures.",
+    "source": {
+      "name": "Chery Automobile Co., Ltd. - HKEX Global Offering prospectus",
+      "date": "2025-09-17",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091700013.pdf",
+      "quote": "Wuhu Investment Holding is owned as to 95.59% by Wuhu SASAC and as to 4.41% by Anhui Provincial Department of Finance.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "childrens-hospital-colorado-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -2082,6 +2182,47 @@
     "reviewed": false
   },
   {
+    "id": "csl-crb-under-crc",
+    "kind": "ownership",
+    "ownerIds": [
+      "cr-beverage"
+    ],
+    "text": "CR Beverage (China Resources Beverage (Holdings) Co., Ltd., HKEX 02460) describes itself as a core business unit under China Resources (Group) Co., Ltd., headquartered in Nanshan, Shenzhen, according to the company's own website.",
+    "short": "CR Beverage is a core business unit of state-owned China Resources Group.",
+    "source": {
+      "name": "CR Beverage company website, about page (archived; live site blocked by a JS bot-challenge)",
+      "date": "2026-09-15",
+      "url": "https://web.archive.org/web/20260915082043/https://www.crbeverage.com/",
+      "quote": "华润饮料（控股）有限公司（简称“华润饮料”）是华润（集团）有限公司旗下专注即饮软饮业务的核心业务单元，于香港联合交易所上市（股份代号：02460）",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "csl-crc-sasac-2003",
+    "kind": "ownership",
+    "ownerIds": [
+      "china-resources-group",
+      "cr-beverage"
+    ],
+    "text": "China Resources (Group) Co., Ltd. was placed under the direct supervision of China's State-owned Assets Supervision and Administration Commission (SASAC) in 2003 and is a centrally managed state-owned key backbone enterprise, according to the group's own corporate overview page.",
+    "short": "China Resources Group is directly supervised by China's SASAC (state-owned).",
+    "source": {
+      "name": "China Resources (Group) Co., Ltd. corporate overview",
+      "date": "2026-09-27",
+      "url": "https://www.crc.com.hk/about/overview/Introduction/",
+      "quote": "2003年归属国务院国资委直接监管，被列为国有重点骨干企业。",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "cvc-capital-partners-record",
     "kind": "ownership",
     "ownerIds": [
@@ -2112,6 +2253,27 @@
       "name": "Daikin Industries Ltd. Shareholder Information",
       "date": "2026-09-24",
       "url": "https://www.daikin.com/investor/stock/stock_info"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "dakar-sportswashing-hrw-2020",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-saudi-arabia",
+      "aso",
+      "saudi-motorsport-company"
+    ],
+    "text": "Human Rights Watch and 12 other human rights organisations said ASO's Dakar Rally was being used to sportswash Saudi Arabia's imprisonment of peaceful critics, noting women activists jailed for campaigning for the right to drive while the 2020 rally ran under a five-year ASO-Saudi government deal, and urging ASO to adopt a human-rights policy consistent with the UN Guiding Principles on Business and Human Rights.",
+    "source": {
+      "name": "Human Rights Watch - Saudi Arabia: Repressive Site for Dakar Rally",
+      "date": "2020-01-03",
+      "url": "https://www.hrw.org/news/2020/01/03/saudi-arabia-repressive-site-dakar-rally",
+      "quote": "Fans, media, and race teams shouldn’t be blinded by the rally’s spectacle while Saudi Arabia ‘sports-washes’ the kingdom’s jailing of peaceful critics.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
     },
     "reviewed": false
   },
@@ -2337,6 +2499,68 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "dp-world-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "dp-world-limited",
+      "port-free-zone-world",
+      "dubai-world-corporation",
+      "government-of-dubai"
+    ],
+    "text": "DP World Limited's audited FY2025 financial statements state that Port & Free Zone World FZE ('PFZW'), a wholly owned subsidiary of Dubai World Corporation, holds 100% of the company's issued and outstanding share capital, and that the Government of Dubai is the ultimate owner of the group.",
+    "source": {
+      "name": "DP World Annual Report 2025 (consolidated financial statements), DP World Limited, DIFC, year ended 31 December 2025",
+      "date": "2026",
+      "url": "https://dpw-p-001.sitecorecontenthub.cloud/api/public/content/58b211cb1aad4263be87f0d33fd0993f?v=b2febf77",
+      "quote": "Port & Free Zone World FZE ('PFZW' or 'the Parent Company'), a wholly owned subsidiary of Dubai World Corporation ('the Intermediate Parent'), holds 100% of the Company's issued and outstanding",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "dp-world-tour-bahrain-record",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-bahrain"
+    ],
+    "text": "Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people; one detainee died in custody after being disappeared, and twelve death row inmates remain at imminent risk of execution.",
+    "short": "HRW documents 2026 arrests, a death in custody, citizenship-stripping",
+    "source": {
+      "name": "Human Rights Watch - Bahrain country page",
+      "date": "2026",
+      "url": "https://www.hrw.org/middle-east/north-africa/bahrain",
+      "quote": "Twelve death row inmates remain at imminent risk of execution.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "dp-world-tour-qatar-record",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-qatar"
+    ],
+    "text": "Amnesty International reports labour abuses against migrant workers in Qatar despite recent reforms, including under the kafala system, and deaths of migrant workers that were not effectively investigated.",
+    "short": "Amnesty documents migrant-worker exploitation and restricted expression",
+    "source": {
+      "name": "Amnesty International - Human rights in Qatar (country report)",
+      "date": "2026-01-15",
+      "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/qatar/report-qatar",
+      "quote": "migrant workers continued to face labour abuses, including an exploitative kafala sponsorship system, restrictions on freedom of assembly, inadequate access to justice and remedy",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
       }
     },
     "reviewed": false
@@ -2740,6 +2964,27 @@
     "reviewed": false
   },
   {
+    "id": "ewcf-pif-funded",
+    "kind": "ownership",
+    "ownerIds": [
+      "esports-foundation",
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "The Esports World Cup Foundation describes itself as a non-profit not owned by the Saudi state but funded through a sports grant from the Public Investment Fund; the Saudi cabinet named Crown Prince Mohammed bin Salman chair of its board of trustees on 2 Sep 2025.",
+    "source": {
+      "name": "The Esports Advocate",
+      "date": "2025-09-03",
+      "url": "https://esportsadvocate.net/2025/09/hrh-crown-prince-mbs-named-board-of-trustees-chair-for-esports-world-cup-foundation/",
+      "quote": "not owned or operated by the Saudi Arabian government, but rather funded through a sports grant from the country's sovereign wealth fund, the Public Investment Fund (PIF)",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "expedia-group-inc-record",
     "kind": "ownership",
     "ownerIds": [
@@ -2792,6 +3037,87 @@
       "checked": {
         "on": "2026-09-27",
         "by": "rating-review-2026-09-27"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "fa-cup-carling-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "molson-coors"
+    ],
+    "text": "Carling is one of Molson Coors' core power brands, named alongside Coors Light, Miller Lite, Coors Banquet, Molson Canadian and Ozujsko on the company's own About page.",
+    "short": "Carling is a Molson Coors core power brand.",
+    "source": {
+      "name": "Molson Coors Beverage Company - About",
+      "date": "2026-09-27",
+      "url": "https://www.molsoncoors.com/about",
+      "quote": "our core power brands Coors Light, Miller Lite, Coors Banquet, Molson Canadian, Carling, and Ožujsko",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "fa-cup-clearscore-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "clearscore-group"
+    ],
+    "text": "ClearScore says it is part of The ClearScore Group and was founded in the UK in 2015.",
+    "short": "ClearScore is part of the privately held ClearScore Group.",
+    "source": {
+      "name": "ClearScore - About Us",
+      "date": "2026-05-19",
+      "url": "https://web.archive.org/web/20260519133059/https://www.clearscore.com/about-us",
+      "quote": "Part of The ClearScore Group, ClearScore was founded in the UK in 2015",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "fa-cup-emirates-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "government-of-dubai",
+      "uae"
+    ],
+    "text": "The Emirates Group, Emirates airline's parent, is owned by the Investment Corporation of Dubai, 'Dubai's sovereign wealth fund'; Dubai gave Emirates about $4 billion in bailout funds during the pandemic, of which $3.6 billion has been repaid.",
+    "short": "Emirates' parent is owned by Dubai's sovereign wealth fund.",
+    "source": {
+      "name": "Associated Press (via NY1), 'Long-haul carrier Emirates reports record annual profit of $5.2 billion'",
+      "date": "2025-05-08",
+      "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2025/05/08/long-haul-carrier-emirates-reports-record-annual-profit-of-52-billion",
+      "quote": "The overall Emirates Group, owned by Dubai’s sovereign wealth fund known as the Investment Corporation of Dubai, saw annual profits of $5.6 billion, compared to $5.1 billion the year before.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "fa-cup-mitre-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "pentland-group"
+    ],
+    "text": "Pentland Group describes itself as 'a family business building and delivering positive brands in sports, outdoor and fashion' with annual sales of $8 billion; its Pentland Brands arm 'owns Speedo, Berghaus, Canterbury, Endura, ellesse, SeaVees, Red Or Dead and Mitre'.",
+    "short": "Mitre is owned by Pentland Brands, part of family-owned Pentland Group.",
+    "source": {
+      "name": "Pentland Group - About Us",
+      "date": "2026-09-27",
+      "url": "https://pentlandgroup.com/about-us/",
+      "quote": "It owns Speedo, Berghaus, Canterbury, Endura, ellesse, SeaVees, Red Or Dead and Mitre.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
       }
     },
     "reviewed": false
@@ -3582,6 +3908,26 @@
     "reviewed": false
   },
   {
+    "id": "hexagon-54-lead-investor",
+    "kind": "ownership",
+    "ownerIds": [
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "54, the sports and entertainment agency owned by Saudi Arabia's Public Investment Fund (PIF), was named lead investor in the Hexagon World Series, a new team padel circuit governed by the International Padel Federation (FIP); SportBusiness reported this as Saudi Arabia's first major investment move into padel.",
+    "source": {
+      "name": "SportBusiness (via Wayback Machine) - PIF enters padel as 54 gets new Hexagon event remit",
+      "date": "2025-12-17",
+      "url": "http://web.archive.org/web/20251220180832/https://www.sportbusiness.com/news/pif-enters-padel-as-54-gets-new-hexagon-event-remit/",
+      "quote": "54, the sports and entertainment agency owned by the Saudi Public Investment Fund (PIF), was today (Wednesday) named as the lead investor in the Hexagon World Series",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "hibob-record",
     "kind": "ownership",
     "ownerIds": [
@@ -3867,6 +4213,26 @@
     "reviewed": false
   },
   {
+    "id": "indonesia-hrw-record",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-indonesia"
+    ],
+    "text": "Human Rights Watch's 2026 world report records that President Prabowo expanded the military and placed active-duty personnel in civilian posts in his first year; in Papua, the Merauke food estate project forcibly displaced Indigenous communities and drove deforestation alongside the deployment of five new battalions; and in August 2025 police used excessive force to disperse protesters across 107 cities.",
+    "short": "Indonesia: military in civilian posts, Papua displacement and deforestation, excessive force against 2025 protesters",
+    "source": {
+      "name": "Human Rights Watch - World Report 2026, Indonesia chapter",
+      "date": "2026-01-15",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/indonesia",
+      "quote": "Nine UN rights experts raised concerns that the food estate project had forcibly displaced Indigenous communities, permitted deforestation, threatened biodiversity, and authorized the deployment of five new battalions.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "ineos-group-limited-record",
     "kind": "ownership",
     "ownerIds": [
@@ -3978,6 +4344,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "jcsa-1965-royal-decree",
+    "kind": "ownership",
+    "ownerIds": [
+      "jockey-club-of-saudi-arabia",
+      "government-of-saudi-arabia"
+    ],
+    "text": "The Jockey Club of Saudi Arabia was established in 1965 and 'is tasked with the organisation, development and promotion of Saudi Arabian horseracing at domestic and international level'; its history page records that a Royal Decree from King Faisal Bin Abdulaziz entrusted the presidency to Prince Abdullah Bin Abdulaziz.",
+    "short": "JCSA established 1965 under a royal decree",
+    "source": {
+      "name": "Jockey Club of Saudi Arabia website (footer) and JCSA history page",
+      "date": "2026-09-27",
+      "url": "https://www.jcsa.sa/en/aboutjcsa/history2/",
+      "quote": "The Jockey Club of Saudi Arabia (JCSA) was established in 1965 and is tasked with the organisation, development and promotion of Saudi Arabian horseracing at domestic and international level.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
       }
     },
     "reviewed": false
@@ -4270,6 +4657,26 @@
     "reviewed": false
   },
   {
+    "id": "kuwait-exit-permit-2025",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-kuwait"
+    ],
+    "text": "Kuwait announced that from July 2025 migrant workers need their employer's permission to leave the country; HRW called it an alarming step backwards that reinforces the kafala system and lets employers trap workers in abusive situations.",
+    "short": "Kuwait tightened kafala: employer exit permits for migrant workers from July 2025",
+    "source": {
+      "name": "Human Rights Watch - Kuwait's Exit Permit Requirement Puts Migrant Workers at Risk",
+      "date": "2025-06-15",
+      "url": "https://www.hrw.org/news/2025/06/15/kuwaits-exit-permit-requirement-puts-migrant-workers-at-risk",
+      "quote": "This decision is an alarming step backward in Kuwait's migrant worker governance.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "legend-cas-holdings-stake-2026",
     "kind": "ownership",
     "ownerIds": [
@@ -4413,6 +4820,26 @@
     "reviewed": false
   },
   {
+    "id": "liv-pif-funding",
+    "kind": "ownership",
+    "ownerIds": [
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "Saudi Arabia's Public Investment Fund has bankrolled LIV Golf since its 2022 launch and confirmed on 30 April 2026 that it will end its funding of the league at the end of the 2026 season, saying the substantial investment required is no longer consistent with its strategy; PIF governor and LIV Golf chairman Yasir Al-Rumayyan is expected to step down.",
+    "source": {
+      "name": "Sky Sports",
+      "date": "2026-04-30",
+      "url": "https://www.skysports.com/golf/news/12176/13538273/liv-golf-major-changes-with-saudi-arabia-set-to-end-funding-of-league-starring-bryson-dechambeau-and-jon-rahm",
+      "quote": "the substantial investment required is no longer consistent with the fund's investment strategy moving forward",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "loves-travel-stops-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -4448,6 +4875,25 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "lukoil-private-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "lukoil"
+    ],
+    "text": "The Russian Federation's stake in LUKOIL was reduced to 0% following the September 2004 auction of the remaining 7.6% state-held shares to ConocoPhillips affiliate Springtime Holdings.",
+    "source": {
+      "name": "LUKOIL – Share capital history",
+      "date": "2026-09-27",
+      "url": "https://lukoil.ru/InvestorAndShareholderCenter/Securities/sharecapital",
+      "quote": "Состоялся открытый аукцион по продаже 7,6% акций ОАО «ЛУКОЙЛ», находящихся в государственной собственности. Акции были приобретены компанией Springtime Holdings Limited, являющейся аффилированным лицом американской компании ConocoPhillips.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
       }
     },
     "reviewed": false
@@ -5386,6 +5832,26 @@
     "reviewed": false
   },
   {
+    "id": "oman-hrw-record-2021",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-oman"
+    ],
+    "text": "HRW's World Report 2021 Oman chapter found that 'Under Sultan Haitham bin Tariq, freedom of expression remained squeezed', citing prosecutions over social-media posts, and that Oman 'has done little to protect migrant domestic workers rights', with workers facing 'few avenues for redress' and risking 'imprisonment and deportation for absconding'.",
+    "short": "Oman: squeezed expression and weak migrant-worker protections (HRW)",
+    "source": {
+      "name": "Human Rights Watch - World Report 2021, Oman",
+      "date": "2021-01",
+      "url": "https://www.hrw.org/world-report/2021/country-chapters/oman",
+      "quote": "Under Sultan Haitham bin Tariq, freedom of expression remained squeezed.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "oracle-corporation-record",
     "kind": "ownership",
     "ownerIds": [
@@ -5635,6 +6101,27 @@
     "reviewed": false
   },
   {
+    "id": "pif-giga-labour-abuses",
+    "kind": "record",
+    "ownerIds": [
+      "saudi-pif",
+      "government-of-saudi-arabia",
+      "qiddiya"
+    ],
+    "text": "Human Rights Watch found that PIF-funded businesses and projects are among those exploiting and abusing migrant workers in Saudi Arabia's giga-project construction, including at NEOM, as Vision 2030 projects scale up toward the 2034 FIFA World Cup.",
+    "source": {
+      "name": "Human Rights Watch, 'Die First, and I'll Pay You Later': Saudi Arabia's 'Giga-Projects' Built on Widespread Labor Abuses",
+      "date": "2024-12-04",
+      "url": "https://www.hrw.org/report/2024/12/04/die-first-and-ill-pay-you-later/saudi-arabias-giga-projects-built-widespread",
+      "quote": "this report reveals that PIF-funded businesses and projects are among those exploiting and abusing migrant workers, including in NEOM, a PIF-funded giga-project",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "pif-record",
     "kind": "ownership",
     "ownerIds": [
@@ -5711,6 +6198,25 @@
       "checked": {
         "on": "2026-09-27",
         "by": "rating-review-2026-09-27"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "poules-adsc-2026",
+    "kind": "ownership",
+    "ownerIds": [
+      "government-of-abu-dhabi"
+    ],
+    "text": "The Abu Dhabi Sports Council was founded in 2006 by the crown prince of Abu Dhabi, Sheikh Mohamed bin Zayed Al Nahyan, as an organisation dedicated to promoting sport and elite competition.",
+    "source": {
+      "name": "France Galop - NRJ Music Tour at the Emirates Poules d'Essai",
+      "date": "2026",
+      "url": "https://billetterie.france-galop.com/en/event/emirates-poules-dessai/",
+      "quote": "Founded in 2006 by the crown prince of Abu Dhabi, Sheik Mohamed bin Zayed Al Nahyan, the Abu Dhabi Sports Council is an organisation dedicated to promoting sport",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
       }
     },
     "reviewed": false
@@ -5889,6 +6395,27 @@
     "reviewed": false
   },
   {
+    "id": "qsi-braga-stake",
+    "kind": "ownership",
+    "ownerIds": [
+      "qatar-sports-investments",
+      "qia",
+      "government-of-qatar"
+    ],
+    "text": "Qatar Sports Investments (QSI), which owns Paris Saint-Germain, signed a share purchase agreement with Olivedesportos, SGPS S.A. in October 2022 to acquire 21.67% of the share capital of Sporting Clube de Braga, a deal disclosed to Portugal's securities regulator, the CMVM.",
+    "source": {
+      "name": "Plataforma Media, 'PSG owner buys minority stake in SC Braga'",
+      "date": "2022-10-10",
+      "url": "https://www.plataformamedia.com/en/2022/10/10/psg-owner-buys-minority-stake-in-sc-braga/",
+      "quote": "The Qatar Sports Investments group, which owns Paris Saint-Germain, signed a share purchase agreement with Olivedesportos, SGPS S.A. for the acquisition of 21.67% of the share capital of Sporting Clube de Braga.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "qsi-owns-psg",
     "kind": "ownership",
     "ownerIds": [
@@ -6035,6 +6562,48 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "rdf-hrw-occupation",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-rwanda",
+      "rwanda-defence-force"
+    ],
+    "text": "Human Rights Watch documents a campaign of mass forced recruitment, arbitrary detention, torture and summary executions by M23 and Rwandan military forces in eastern DRC (mid-2024 through 2025), and concludes Rwanda 'exercises effective control over the area, meeting the legal threshold for belligerent occupation'; hundreds, perhaps more, died in the camps.",
+    "short": "HRW: mass detention, killings, forced recruitment by M23 and Rwandan forces",
+    "source": {
+      "name": "Human Rights Watch - ‘Death Was Everywhere’: Arbitrary Detention, Killings, and Forced Recruitment by the M23 and the Rwanda Defence Force",
+      "date": "2026-06-10",
+      "url": "https://www.hrw.org/report/2026/06/10/death-was-everywhere/arbitrary-detention-killings-and-forced-recruitment-by-the",
+      "quote": "Rwanda’s extensive military presence and direction of M23 operations in eastern Congo show that it exercises effective control over the area, meeting the legal threshold for belligerent occupation.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "rdf-ofac-designation-2026",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-rwanda",
+      "rwanda-defence-force"
+    ],
+    "text": "On 2 March 2026 OFAC designated the Rwanda Defence Force (Ministry of Defence, Kigali) and four senior officials because 'The RDF is actively supporting, training, and fighting alongside the March 23 Movement (M23)', a US- and UN-sanctioned armed group in the DRC; the action followed M23's capture of Uvira days after the Washington Accords were signed.",
+    "short": "OFAC designated the Rwanda Defence Force over M23 support (2 Mar 2026)",
+    "source": {
+      "name": "US Treasury press release: Treasury Sanctions Rwanda Officials, Condemns Blatant Violations of Washington Peace Accords",
+      "date": "2026-03-02",
+      "url": "https://home.treasury.gov/news/press-releases/sb0411",
+      "quote": "The RDF is actively supporting, training, and fighting alongside the March 23 Movement (M23), a U.S.- and United Nations (UN)-sanctioned armed group responsible for human rights abuses",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
       }
     },
     "reviewed": false
@@ -6266,6 +6835,27 @@
     "reviewed": false
   },
   {
+    "id": "roshn-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "roshn",
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "ROSHN Group describes itself as Saudi Arabia's leading multi-asset class real estate developer and a Public Investment Fund (PIF) company, in a press release naming it Title Partner of ROSHN Group LIV Golf Riyadh 2026.",
+    "source": {
+      "name": "ROSHN Group press release",
+      "date": "2026-01-05",
+      "url": "https://www.roshn.sa/news-and-events/press-releases/article-96",
+      "quote": "ROSHN Group, Saudi Arabia's leading multi-asset class real estate developer and a Public Investment Fund (PIF) company, has been announced as Title Partner of ROSHN Group LIV Golf Riyadh 2026",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "rouses-markets-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -6401,6 +6991,26 @@
     "reviewed": false
   },
   {
+    "id": "rwanda-hrw-record-2026",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-rwanda"
+    ],
+    "text": "HRW's World Report 2026 Rwanda chapter: 'Few journalists, civil society activists, or opposition members dare speak out publicly against the government'; Victoire Ingabire was arrested at her Kigali home in June 2025; and 'The M23, at times with the support of Rwandan forces, carried out mass summary executions, arbitrary detention', with Rwanda's control of parts of eastern Congo meeting the standards 'for a belligerent occupation'.",
+    "short": "Rwanda 2026: silenced dissent; M23 executions with Rwandan support (HRW)",
+    "source": {
+      "name": "Human Rights Watch - World Report 2026, Rwanda",
+      "date": "2026-01",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/rwanda",
+      "quote": "The M23, at times with the support of Rwandan forces, carried out mass summary executions, arbitrary detention, torture, forced labor, forced recruitment including child recruitment.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "rwanda-troops-m23",
     "kind": "record",
     "ownerIds": [
@@ -6434,6 +7044,46 @@
     ]
   },
   {
+    "id": "rwanda-worlds-hrw-2025",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-rwanda"
+    ],
+    "text": "On the eve of the 2025 UCI Road World Championships in Kigali (21-28 September 2025), HRW's Minky Worden wrote that the event 'risks being linked to abuses itself': opposition leader Victoire Ingabire was 'arrested in June' 2025 and 'faces serious criminal charges alongside 14 party members' in a 'politically motivated trial'; the Rwanda-backed M23 has committed war crimes including 'summary executions' of over 140 civilians in July 2025; and authorities 'round up and arbitrarily detain sex workers, street children' before high-profile events. The Union 'shouldn't be providing Rwanda such easy cover for its poor human rights record'.",
+    "short": "HRW: the Kigali Worlds risk sportswashing Rwanda's abuses",
+    "source": {
+      "name": "Human Rights Watch (Dispatches, Minky Worden) - Cycling Event Can't Override Rwanda's Abuses",
+      "date": "2025-09-22",
+      "url": "https://www.hrw.org/news/2025/09/22/cycling-event-cant-override-rwandas-abuses",
+      "quote": "The last remaining outspoken opposition leader, Victoire Ingabire, was arrested in June and faces serious criminal charges alongside 14 party members in a politically motivated trial.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "rzd-state-owned",
+    "kind": "ownership",
+    "ownerIds": [
+      "rzd",
+      "russian-federation"
+    ],
+    "text": "All shares of OAO Russian Railways are owned by the Russian Federation (RZD charter, clause 32).",
+    "source": {
+      "name": "RZD Charter (via Wayback Machine, company.rzd.ru)",
+      "date": "2022-02-19",
+      "url": "https://web.archive.org/web/20220219191724/https://company.rzd.ru/ru/9353/page/105104?id=1792",
+      "quote": "Все акции общества находятся в собственности Российской Федерации.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "salesforce-inc-record",
     "kind": "ownership",
     "ownerIds": [
@@ -6448,6 +7098,26 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "santa-casa-state-games",
+    "kind": "ownership",
+    "ownerIds": [
+      "santa-casa"
+    ],
+    "text": "Santa Casa da Misericordia de Lisboa operates Portugal's social games 'on behalf and on account of the State' under an exclusive regime; its Jogos Santa Casa arm runs the Placard betting brand ('O Placard, produto dos Jogos Santa Casa'), whose online licence (013) is held by SAS Apostas Sociais, Jogos e Apostas Online, S.A.",
+    "short": "Placard is a product of Jogos Santa Casa, which operates Portugal's games on behalf of the State",
+    "source": {
+      "name": "Santa Casa da Misericordia de Lisboa (scml.pt Jogos Santa Casa page and news) + SRIJ licensed-entities register",
+      "date": "2026-07-20",
+      "url": "https://scml.pt/comunicacao/noticias/placard-da-nome-a-supertaca-candido-de-oliveira/",
+      "quote": "O Placard, produto dos Jogos Santa Casa, é o novo patrocinador principal da Supertaça Cândido de Oliveira.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
       }
     },
     "reviewed": false
@@ -6585,6 +7255,28 @@
     "reviewed": false
   },
   {
+    "id": "saudi-executions-2026-record",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-saudi-arabia",
+      "saudi-pif",
+      "esports-foundation",
+      "savvy-games-group"
+    ],
+    "text": "Saudi authorities carried out an unprecedented surge in executions after trials that were likely unfair, executing at least 322 individuals as of early December 2025, exceeding prior execution records.",
+    "source": {
+      "name": "Human Rights Watch, World Report 2026: Saudi Arabia",
+      "date": "2026-02-04",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/saudi-arabia",
+      "quote": "Saudi authorities carried out an unprecedented surge in executions after trials that were likely unfair, executing at least 322 individuals as of early December 2025, which exceeded prior execution records.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "saudi-migrant-worker-abuse-2025",
     "kind": "record",
     "ownerIds": [
@@ -6613,6 +7305,26 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "saudi-visitors-detained-2026",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-saudi-arabia",
+      "saudi-pif"
+    ],
+    "text": "Amnesty International and ALQST documented eight people, mostly from Global South and Middle Eastern countries, arrested in Saudi Arabia during visits between July 2022 and late 2025 for social media posts, some subjected to prolonged arbitrary detention or grossly unfair trials.",
+    "source": {
+      "name": "Amnesty International",
+      "date": "2026-06",
+      "url": "https://www.amnesty.org/en/latest/news/2026/06/saudi-arabia-visitors-to-saudi-arabia-imprisoned-for-social-media-posts/",
+      "quote": "Amnesty International and ALQST have documented the cases of eight people, predominantly from Global South and Middle Eastern countries of origin, who were arrested in Saudi Arabia",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
     "reviewed": false
   },
   {
@@ -6943,6 +7655,27 @@
       "name": "LegalClarity article on Smoothie King ownership",
       "date": "2026-09-24",
       "url": "https://legalclarity.org/who-owns-smoothie-king-parent-company-and-investors"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "snb-pif-controlling-party",
+    "kind": "ownership",
+    "ownerIds": [
+      "saudi-national-bank",
+      "saudi-pif"
+    ],
+    "text": "Saudi National Bank's 2025 annual report states 'The ultimate controlling party is the Public Investment Fund \"PIF\", ultimately owned by the Saudi government', with PIF holding 37.2% (2,234,257,917 shares) at 31 December 2025.",
+    "short": "PIF is SNB's ultimate controlling party with 37.2%",
+    "source": {
+      "name": "Saudi National Bank Annual Report 2025 (corporate governance and financial statements)",
+      "date": "2026",
+      "url": "https://www.alahli.com/-/jssmedia/project/snb/snb-web/about-us/02-9-previous-annual-reports/annual-reports-pdfs-en/snb-annual-report-2025-en.pdf?view=1",
+      "quote": "The ultimate controlling party is the Public Investment Fund \"PIF\", ultimately owned by the Saudi government.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
     },
     "reviewed": false
   },
@@ -8219,6 +8952,26 @@
     "reviewed": false
   },
   {
+    "id": "vtb-state-control",
+    "kind": "ownership",
+    "ownerIds": [
+      "vtb",
+      "russian-federation"
+    ],
+    "text": "The Russian Federation holds a controlling position in Bank VTB: Rosimushchestvo held 60.93% of ordinary shares (12.13% of charter capital) and Minfin 100% of first-type preference shares (32.88% of charter capital).",
+    "source": {
+      "name": "VTB - Shareholder structure (IR governance, archived)",
+      "date": "2017-09-14",
+      "url": "https://web.archive.org/web/20170914171539/http://www.vtb.ru/ir/governance/structure/",
+      "quote": "Российская Федерация в лице Федерального агентства по управлению государственным имуществом (РОСИМУЩЕСТВО) Обыкновенные именные 60,93 12,13067",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "walt-disney-world-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -8233,6 +8986,67 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "wec-bapco-bahrain-record",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-bahrain"
+    ],
+    "text": "Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people; one detainee died in custody after being disappeared, and twelve death row inmates remain at imminent risk of execution.",
+    "short": "HRW documents 2026 Bahrain arrests, a custody death, imminent execution risk",
+    "source": {
+      "name": "Human Rights Watch - Bahrain country page",
+      "date": "2026-09-27",
+      "url": "https://www.hrw.org/middle-east/north-africa/bahrain",
+      "quote": "Twelve death row inmates remain at imminent risk of execution.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "wec-cyvn-mclaren-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "cyvn"
+    ],
+    "text": "CYVN Holdings, an Abu Dhabi-based investment vehicle, completed the acquisition of McLaren Automotive and a non-controlling stake in McLaren Racing in April 2025, consolidating its UK investments under McLaren Group Holdings.",
+    "short": "Abu Dhabi's CYVN owns McLaren Automotive and holds a non-controlling McLaren Racing stake",
+    "source": {
+      "name": "McLaren Racing - McLaren Racing welcomes CYVN Holdings as non-controlling shareholder",
+      "date": "2025-04-03",
+      "url": "https://www.mclaren.com/racing/latest-news/2025/mclaren-racing-welcomes-cyvn-holdings-as-minority-shareholder/",
+      "quote": "CYVN Holdings, an investment vehicle based in Abu Dhabi, have completed CYVN's acquisition of McLaren Automotive as well as the acquisition of a non-controlling stake in McLaren Racing",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "wec-pif-aston-martin-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "Saudi Arabia's Public Investment Fund is the largest shareholder (19.5%) of Aston Martin Lagonda, the manufacturer behind the Aston Martin THOR Team Hypercar programme; Aston Martin denied FT reports (14 Nov 2025) that PIF would raise its stake and take the company private.",
+    "short": "PIF is Aston Martin Lagonda's largest shareholder (19.5%); takeover-denied",
+    "source": {
+      "name": "CarExpert - Aston Martin denies change of ownership plans after massive losses",
+      "date": "2025-11-19",
+      "url": "https://www.carexpert.com.au/car-news/aston-martin-denies-change-of-ownership-plans-after-massive-losses",
+      "quote": "Aston Martin parent company Aston Martin Lagonda has denied the Saudi Arabia’s Public Investment Fund (PIF) – its largest shareholder – is looking to increase its ownership stake",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
       }
     },
     "reviewed": false
@@ -8337,6 +9151,25 @@
     "reviewed": false
   },
   {
+    "id": "yili-largest-shareholder",
+    "kind": "ownership",
+    "ownerIds": [
+      "yili-group"
+    ],
+    "text": "Yili Industrial Group's 2025 annual report (30 Apr 2026) names Hohhot Investment Co., Ltd. as its largest shareholder with 538,535,826 shares, 8.51%, shareholder type 'state legal person' (国有法人), and states the company has no controlling shareholder and no actual controller.",
+    "source": {
+      "name": "Inner Mongolia Yili Industrial Group - 2025 Annual Report (cninfo)",
+      "date": "2026-04-30",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225259562.PDF",
+      "quote": "呼和浩特投资有限责任公司 0 538,535,826 8.51 0 质押 205,380,000 国有法人",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "york-space-systems-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -8351,6 +9184,26 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "zenit-gazprom-owner",
+    "kind": "ownership",
+    "ownerIds": [
+      "gazprom",
+      "russian-federation"
+    ],
+    "text": "In winter 2005/06 Gazprom bought the controlling stake in FC Zenit, and Gazprom remains the club's general sponsor.",
+    "source": {
+      "name": "FC Zenit - club history",
+      "date": "2026-09-25",
+      "url": "https://www.fc-zenit.ru/club/zenit_history/history_1920/",
+      "quote": "Зимой-2005/06 у клуба снова сменился владелец: контрольный пакет акций «Зенита» выкупил ... ОАО «Газпром».",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "claude-review-282"
       }
     },
     "reviewed": false

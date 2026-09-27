@@ -123,7 +123,7 @@
     "sportId": "basketball",
     "name": "Basketball Africa League",
     "country": "Africa",
-    "status": "not-started",
+    "status": "complete",
     "notes": [
       "Visit Rwanda is a league partner, reportedly $6–7m a year."
     ]
@@ -246,6 +246,684 @@
       "18 UCI WorldTeams granted 2026-2028 licences by the UCI Licence Commission (UCI press release, 2026-2028 cycle).",
       "Every team is named after a sponsor; names change with sponsors.",
       "Sponsor placement here is mapped to the schema's front/back/sleeve/shorts/partner values from 'team title/name' and 'jersey'."
+    ]
+  },
+  {
+    "id": "wwe",
+    "aliases": [
+      "world wrestling entertainment",
+      "wwe"
+    ],
+    "sportId": "pro-wrestling",
+    "name": "WWE (TKO Group Holdings)",
+    "country": "United States",
+    "season": "2026",
+    "status": "not-started",
+    "notes": [
+      "Event-host shape: WWE stages premium live events plus weekly Raw/SmackDown TV; the 2026 Saudi calendar is three events (Royal Rumble 31 Jan, Night of Champions 27 Jun, Crown Jewel 7 Nov) plus WrestleMania 43 in Riyadh in 2027. No event entity exists in the schema yet, so events are recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts, not as clubs.",
+      "Saudi partnership origin: announced 1 Mar 2018 as a 10-year strategic multiplatform partnership with the Saudi General Sports Authority in support of Vision 2030, beginning with the Greatest Royal Rumble (27 Apr 2018, King Abdullah Sports City, Jeddah).",
+      "GEA expansion: on 4 Nov 2019 WWE and the Saudi General Entertainment Authority expanded their live event partnership through 2027 to include a second annual large-scale event; Riyadh Season (the GEA's annual festival, launched Oct 2019) hosts the annual Crown Jewel event.",
+      "2026 events are GEA/Riyadh Season productions: the Crown Jewel 2026 announcement (1 Sep 2026) comes 'from the General Entertainment Authority, on behalf of HE Turki Alalshikh, in partnership with WWE', and the Royal Rumble 2026 announcement (9 Dec 2025) is under the leadership of HE Turki Alalshikh with GEA and Riyadh Season.",
+      "WWE is part of TKO Group Holdings (NYSE: TKO), a controlled company: its FY2024 10-K states Endeavor subsidiaries held about 53.9% of voting interests, and after Silver Lake's take-private of Endeavor (completed 24 Mar 2025) Endeavor retains its controlling stake in TKO.",
+      "Crown Jewel 2026 is at 'Riyadh Season Stadium at KAFD' - the venue name itself carries the host's brand."
+    ]
+  },
+  {
+    "id": "esports-world-cup",
+    "aliases": [
+      "EWC",
+      "Esports World Cup 2026",
+      "EWC26",
+      "Esports World Cup Foundation",
+      "Esports Foundation"
+    ],
+    "sportId": "esports",
+    "name": "Esports World Cup (Esports Foundation)",
+    "country": "Saudi Arabia",
+    "clubCount": 40,
+    "season": "2026",
+    "status": "not-started",
+    "notes": [
+      "Event-host shape: EWC is an annual tournament, not a league; the 2026 edition ran 6 Jul - 23 Aug 2026 in Paris (moved from Riyadh; officially confirmed 20 May 2026), with 25 tournaments across 24 games and a $75m prize pool. The 2027 edition returns to Riyadh. Event-host placements (host, title sponsor) have no schema yet, so the event's commercial facts are recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts and as org deals.",
+      "Organiser: the Esports Foundation (EF), formerly Esports World Cup Foundation (EWCF), a Riyadh-based non-profit announced by Crown Prince Mohammed bin Salman on 31 Oct 2023 (event launch) and formally established September 2023; renamed Esports Foundation on 31 Mar 2026. It is funded by a sports grant from Saudi Arabia's Public Investment Fund; the Saudi cabinet named the crown prince chair of its board of trustees on 2 Sep 2025.",
+      "Tournament operator: ESL FACEIT Group (ESL, FACEIT, DreamHack) is the Official Operating Partner of the EWC. EFG is wholly owned by Savvy Games Group, which is PIF-owned and chaired by the crown prince.",
+      "The Club Partner Program pays 40 clubs: $20m committed in 2026 (six-figure base per club, up to $1m per club), over $100m distributed across the first three years. Club participation does not guarantee a tournament spot; all clubs qualify per game.",
+      "The Club Championship pool was $30m of the $75m total; AG.AL won the 2026 Club Championship ($7m). Organizations in total took $68.6m out of EWC 2026 (The Esports Advocate, 2026-08-25).",
+      "2026 games (25 competitions, from esportsworldcup.com/en/competitions/2026): Apex Legends, Chess, CoD Black Ops, CoD Warzone, Crossfire, CS2, Dota 2, EA FC Pro, Fatal Fury: CotW, Fortnite, Free Fire, Honor of Kings, League of Legends, MLBB, MLBB Women, Overwatch, PMWC (PUBG Mobile), PUBG Battlegrounds, Rainbow Six Siege, Rocket League, Street Fighter 6, Teamfight Tactics, Tekken 8, Trackmania, Valorant.",
+      "The inaugural Esports Nations Cup was postponed from Nov 2026 to Nov 2027 (The Esports Advocate, 2026-08-18). The Olympic Esports Games are no longer tied to Saudi Arabia: the IOC and the Saudi Olympic Committee ended their 12-year deal on 30 Oct 2025."
+    ]
+  },
+  {
+    "id": "horse-racing",
+    "aliases": [
+      "major international flat-racing meetings",
+      "Saudi Cup",
+      "Dubai World Cup",
+      "Qatar Prix de l'Arc de Triomphe",
+      "British Champions Day",
+      "Qatar Goodwood Festival",
+      "Glorious Goodwood",
+      "Emirates Poules d'Essai"
+    ],
+    "sportId": "horse-racing",
+    "name": "Major international flat-racing meetings with Gulf state-linked sponsors",
+    "country": "Global (Saudi Arabia, UAE, France, United Kingdom)",
+    "clubCount": 6,
+    "season": "2026-27",
+    "status": "not-started",
+    "notes": [
+      "Event-host shape: these 6 meetings do not fit the schema yet (no event entity, no host/title-sponsor placement), so the meetings are recorded here as the entity list and every commercial fact is recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts and as org deals, following the UFC and Esports World Cup precedent. clubs and kits arrays are empty.",
+      "The 6 meetings: Saudi Cup meeting (13-14 Feb 2026, King Abdulaziz Racecourse, Riyadh), Dubai World Cup meeting (28 Mar 2026, Meydan Racecourse), Qatar Prix de l'Arc de Triomphe weekend (3-4 Oct 2026, ParisLongchamp), Qatar Goodwood Festival (28 Jul - 1 Aug 2026, Goodwood), Qatar Racing British Champions Day (17 Oct 2026, Ascot), Emirates Poules d'Essai French Guineas day (10 May 2026, ParisLongchamp).",
+      "Sponsorship is on race titles and meeting titles, not shirts: each race card carries its own presenting partners, which change yearly. Race names embed sponsors (Qatar Prix de l'Arc de Triomphe, Neom Turf Cup, 1351 Turf Sprint, Visit Qatar Sussex Stakes).",
+      "Distinguish state bodies from private royal-family vehicles: Jockey Club of Saudi Arabia, QREC, Abu Dhabi Sports Council, Visit Qatar, Emirates and the PIF projects (Qiddiya, NEOM) are state or state-fund money; QIPCO and Qatar Racing are private companies of members of Qatar's ruling family; Godolphin is the Dubai ruler's own racing operation.",
+      "Title switches matter: QIPCO extended British Champions Day to 2028 on 22 Jun 2026, then on 4 Aug 2026 the headline sponsorship moved to its subsidiary Qatar Racing for three years."
+    ]
+  },
+  {
+    "id": "icc-cricket",
+    "aliases": [
+      "ICC",
+      "International Cricket Council",
+      "ICC events"
+    ],
+    "sportId": "cricket",
+    "name": "ICC events",
+    "country": "Global",
+    "clubCount": 4,
+    "season": "2026-27",
+    "status": "not-started",
+    "notes": [
+      "The ICC is a governing body, not a league; its commercial partners cover its major events rather than team shirts. Modelled like FIFA: one partner list covering the four senior events in the 2026-27 window.",
+      "Premier Partners (top tier): Emirates, Aramco, DP World, Hyundai. Global Partners: Coca-Cola, Budweiser (AB InBev), Google, Sobha Realty, Rexona (Unilever), Marriott Bonvoy. Official supporter: Royal Stag (per https://www.icc-cricket.com/about/partners, fetched 2026-09-25).",
+      "Rosters differ slightly per event: the Women's T20 World Cup 2026 footer showed Rexona but not Sobha Realty; the men's-event footers show Sobha Realty. Rexona rides the Unilever women's-cricket deal (women's events only), Sobha Realty is a men's-events-only Global Partner.",
+      "ICC's Cricket 4 Good sits in the 'official supporters' footer block but is the ICC's own social-responsibility programme, not a sponsor.",
+      "Side note, not researched as a target: the UAE's ILT20 (Emirates Cricket Board) has DP World as title sponsor; franchise owners per Wikipedia (lead only): Reliance, Adani, GMR, Knight Riders, Lancer Capital, Capri Global."
+    ]
+  },
+  {
+    "id": "atp-tour",
+    "aliases": [
+      "atp",
+      "association of tennis professionals tour",
+      "atp tour 2026"
+    ],
+    "sportId": "tennis",
+    "name": "ATP Tour",
+    "clubCount": 0,
+    "season": "2026",
+    "status": "not-started",
+    "notes": [
+      "Calendar-year competition; season field uses bare 2026. The 2026 ATP Tour runs January to November with the Next Gen ATP Finals in December.",
+      "PIF is the first-ever naming partner of the ATP Rankings ('PIF ATP Rankings') and a Platinum Partner of the ATP Tour; PIF's partner page at bnpparibasopen.com/partners/pif describes it as 'exclusive naming partner of both the ATP and WTA Rankings' and 'Platinum Partner of the ATP Tour' (fetched 25 Sep 2026).",
+      "Nitto extended as title sponsor of the ATP Finals in Turin through 2030; the 2026 edition is the 2026 Nitto ATP Finals (15-22 Nov 2026, Inalpi Arena).",
+      "Tour/competition sponsors are recorded as clubId-null deals; the events themselves are not club records."
+    ]
+  },
+  {
+    "id": "fiba",
+    "aliases": [
+      "fiba basketball world cup",
+      "basketball world cup",
+      "fiba world cup",
+      "international basketball federation"
+    ],
+    "sportId": "basketball",
+    "name": "FIBA Basketball World Cup 2027 (and other FIBA events)",
+    "country": "Global; 2027 World Cup hosted by Qatar",
+    "clubCount": 32,
+    "season": "2025-27",
+    "status": "not-started",
+    "notes": [
+      "World Cup runs 27 Aug - 12 Sep 2027 in Qatar, the first edition hosted in the Arab world (FIBA event page and FIBA event news, fetched 25 Sep 2026). Qualifiers run Nov 2025 - Mar 2027 across four regions.",
+      "Only two of the 32 World Cup teams are confirmed as of 25 Sep 2026: Qatar (qualified automatically as host) and Tuerkiye (first to qualify, FIBA news 'Turkiye qualify for World Cup', published 2026-08-31). The field is not set until qualifiers end in early 2027; the team list must be extended then.",
+      "Sponsorship story is event-level: national teams do not carry jersey sponsors, so the record is FIBA's own partner roster (10 FIBA Partners, 4 Global Suppliers) as league-partner deals, plus the Qatari state as event host (recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts: event-host shape).",
+      "FIBA's partners page and the World Cup 2027 event page list slightly different rosters: Jetour is a Global Supplier on the partners page but appears in the FIBA Partners footer of the event page; the event news calls Jetour FIBA's 'Official Car Supplier'.",
+      "Venues per FIBA event news: Lusail Arena (final), Duhail Arena, Ali Bin Hamad Al Attiyah Arena and Al Janoub Arena (a 2022 FIFA World Cup stadium converted for basketball).",
+      "Host award: FIBA announced Qatar as 2027 host at its Central Board meeting in Metro Manila on 28 Apr 2023, by unanimous vote (Wikipedia lead; FIBA primary release not located)."
+    ]
+  },
+  {
+    "id": "womens-golf",
+    "aliases": [
+      "Ladies European Tour",
+      "LET",
+      "LPGA Tour",
+      "Ladies Professional Golf Association",
+      "PIF Global Series",
+      "women's golf tours"
+    ],
+    "sportId": "golf",
+    "name": "Women's golf: Ladies European Tour & LPGA Tour (PIF Global Series)",
+    "country": "Global",
+    "clubCount": 0,
+    "season": "2026",
+    "status": "not-started",
+    "notes": [
+      "Tour/competition sponsors are recorded as clubId-null deals; the events themselves are not club records."
+    ]
+  },
+  {
+    "id": "formula-e",
+    "aliases": [
+      "formula e",
+      "fe",
+      "fia formula e",
+      "abb fia formula e world championship",
+      "electric racing",
+      "e-prix"
+    ],
+    "sportId": "motorsport",
+    "name": "ABB FIA Formula E World Championship",
+    "clubCount": 10,
+    "season": "2026-27",
+    "status": "not-started",
+    "notes": [
+      "10 teams in Season 12 (2025-26, finished 16 Aug 2026) per the official fiaformulae.com teams page (fetched 2026-09-25): Andretti, Citroen Racing, Cupra Kiro, DS Penske, Envision Racing, Jaguar TCS Racing, Lola Yamaha ABT, Mahindra Racing, Nissan, Porsche.",
+      "Season 13 (2026-27, Gen4 era) opens with a Jeddah double-header on 18-19 Dec 2026; 21 rounds across 13 events and 11 countries per the official Season 13 calendar (fiaformulae.com, fetched 2026-09-25). The full Season 13 team list was not confirmed on the official site.",
+      "Season 13 changes already announced on fiaformulae.com news (fetched 2026-09-25): Envision Racing rebrands as Paysafe Envision with Paysafe as new Title Partner (2026-09-14); Fortescue Zero acquires the Penske Formula E operation and joins the grid for 2026-27 (2026-09-18, subject to FEO and FIA approval).",
+      "Team names on the official site carry manufacturer/title brands (Jaguar TCS, Cupra Kiro, DS Penske, Lola Yamaha ABT); team-title/name placement is mapped to the schema's front value. Car-livery placements do not fit the schema yet.",
+      "Series partners per fiaformulae.com/en/partners (fetched 2026-09-25): ABB (Title Partner), Google Cloud (Principal AI), PIF (Principal Partner), and Official Partners Antofagasta Minerals, Autoliv, DHL, Fortescue Zero, Infosys, SAUDIA and TDK, plus Official Providers Aggreko, Corpay, Hackett Sport, Lenovo, Sennheiser, Taittinger and Tata Communications."
+    ]
+  },
+  {
+    "id": "chinese-super-league",
+    "aliases": [
+      "Chinese Super League",
+      "CSL",
+      "中超联赛",
+      "C'estbon Chinese Football Association Super League"
+    ],
+    "sportId": "soccer",
+    "name": "Chinese Football Super League",
+    "status": "not-started",
+    "country": "China",
+    "clubCount": 16,
+    "season": "2026-27",
+    "notes": [
+      "Top division of Chinese football, 23rd CSL season, running 6 March to 8 November 2026 with 16 clubs.",
+      "Title sponsor C'estbon (CR Beverage); strategic partners Nike and Migu; partners Lenovo and Tsingtao; game partner Tencent FC Online; media partners CCTV Sports and Migu, per the league's official competitions page.",
+      "Club-level shirt sponsors and club ownership chains not yet sourced from primary documents."
+    ]
+  },
+  {
+    "id": "uci-womens-worldtour",
+    "aliases": [
+      "womens worldtour",
+      "uci women's worldtour",
+      "women's worldtour",
+      "women's world team"
+    ],
+    "sportId": "cycling",
+    "name": "UCI Women's WorldTour (women's road cycling)",
+    "clubCount": 14,
+    "season": "2026",
+    "status": "not-started",
+    "notes": [
+      "14 UCI Women's WorldTeams granted 2026-2028 licences by the UCI Licence Commission (UCI press release, 2026-2028 cycle).",
+      "Every team is named after a sponsor; names change with sponsors.",
+      "Sponsor placement is mapped to the schema's front/back/sleeve/shorts/partner values from 'team title/name' and 'jersey'.",
+      "Mid-season rename: UAE Team ADQ became UAE Team L'IMAD on 1 August 2026 after ADQ was absorbed into L'IMAD; the UCI licence list still shows UAE Team ADQ (Cyclingnews, 2026-07-27)."
+    ]
+  },
+  {
+    "id": "euroleague",
+    "aliases": [
+      "turkish airlines euroleague",
+      "euroleague basketball"
+    ],
+    "sportId": "basketball",
+    "name": "EuroLeague",
+    "clubCount": 20,
+    "season": "2026-27",
+    "status": "partial",
+    "notes": [
+      "20 teams in 2026-27: 12 licensed clubs plus 8 associated (3-year or 1-year licences). AS Monaco dropped to the EuroCup; Beşiktaş entered as EuroCup runners-up.",
+      "Turkish Airlines' 15-year title sponsorship ended after 2024-25 and was not replaced; EuroLeague says it will prioritise global sponsors instead (SportsPro 2025-07-02).",
+      "DCT Abu Dhabi (via its Experience Abu Dhabi brand) and Etihad Airways are EuroLeague Main Partners and Final Four Presenting Partners from 2025-26, a four-year deal whose logos rotate across all participating teams' jerseys (Abu Dhabi Media Office 2025-09-24).",
+      "Inaugural Euroleague Basketball SuperCup held at Etihad Arena, Yas Island, Abu Dhabi, 18-19 September 2026, as part of the long-term DCT partnership brokered by IMG (Abu Dhabi Media Office 2026-08-24).",
+      "Wikipedia's partners section lists DenizBank and Castrol as league partners; neither appears on the official marketing-partners page (snapshot 7 Feb 2026) - unverified."
+    ]
+  },
+  {
+    "id": "dakar-rally",
+    "aliases": [
+      "Dakar Rally Saudi Arabia 2027",
+      "Dakar 2027",
+      "Rally Dakar",
+      "Paris-Dakar",
+      "Dakar Rally",
+      "W2RC opening round"
+    ],
+    "sportId": "motorsport",
+    "name": "Dakar Rally (Saudi Arabia)",
+    "country": "Saudi Arabia",
+    "clubCount": 1,
+    "season": "2027",
+    "status": "not-started",
+    "notes": [
+      "Event-host shape: one event, not a league of clubs, so no clubs are recorded; event facts and team/vehicle-livery sponsors are recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts. The 2027 edition runs 1-15 Jan 2027 with start and finish at King Abdullah Economic City (Rabigh) on a loop route (Arab News, 6 May 2026).",
+      "Organised by ASO (Amaury Sport Organisation) and Saudi Motorsport Company in cooperation with the Saudi Automobile and Motorcycle Federation (SAMF), under the supervision of the Ministry of Sport (Arab News, 6 May 2026; saudimotorsport.com).",
+      "Dakar has been held in Saudi Arabia since 2020 (48th edition in 2026, 3-17 Jan, Yanbu, 159 crews, 13 stages - FIA, 20 Dec 2025); 2027 is the eighth Saudi edition. Dakar director David Castera said in June 2023 the rally would stay in Saudi Arabia until at least 2029 (Motorsport.com es, 4 Jun 2023).",
+      "The 2027 route was unveiled around May 2026: about 5,320 km of timed specials, the longest Saudi-era competitive distance, with three entirely new stages (Arab News, 6 May 2026; Saudi Press Agency). Entry list not yet published; registration deadline 20 Oct 2026.",
+      "Official partners per dakar.com/en/dakar-world/partners (fetched 25 Sep 2026): host country Saudi Arabia (visitsaudi.com); institutional partners Ministry of Sport (mos.gov.sa), SAMF (samf.gov.sa), Saudi Motorsport Company (saudimotorsport.com); official partners BFGoodrich, Defender (Land Rover), Hero MotoCorp, Motul; official timekeeper TUDOR; technical partners Diverse Extreme Team and Wega; official supporter Kahoot.",
+      "Risk: as of Sep 2026 the regional security situation is worsening (Houthi attacks; the WRC's Rally Saudi Arabia planned for 12-15 Nov 2026 was cancelled and not replaced after Toyota and Hyundai travel bans). Dakar 2027 remains scheduled; re-check status before publishing."
+    ]
+  },
+  {
+    "id": "super-cups-abroad",
+    "aliases": [
+      "domestic super cups staged abroad",
+      "Supercopa de España (host editions)",
+      "Supercoppa Italiana (host editions)",
+      "Trophée des Champions (host editions)",
+      "Saudi Super Cup",
+      "Egyptian Super Cup"
+    ],
+    "sportId": "soccer",
+    "name": "Domestic super cups staged abroad in the Gulf (Supercopa de España, Supercoppa Italiana, Trophée des Champions, Saudi Super Cup, Egyptian Super Cup)",
+    "country": "Spain, Italy, France, Saudi Arabia, Egypt (host states: Saudi Arabia, Kuwait, UAE, Turkey)",
+    "season": "2026-27",
+    "status": "not-started",
+    "notes": [
+      "Event-host shape: the entities are super-cup editions, not clubs, so no clubs or kits are recorded; each edition's host facts and sources are on the matching issue and the host deals appear here as organisation-level league-partner entries.",
+      "Supercopa de España: the 2027 edition (Barcelona, Real Madrid, Atlético de Madrid, Real Sociedad) moves to Istanbul, 2-6 February 2027, because Saudi Arabia hosts the AFC Asian Cup; Saudi Arabia returns as host at least in 2028 and 2029 (El Español, 17 Sep 2026). Istanbul deal keeps economic terms similar to the Saudi ones, about EUR 40m split among the participants.",
+      "Supercoppa Italiana: Saudi Arabia hosted the last three editions (January 2024 to December 2025 finals in Riyadh; the 38th edition, December 2025, was the sixth time in Saudi Arabia). Lega Serie A did not exercise the contract option for 2026-27; the Inter v Lazio edition's venue and date were still undecided as of August 2026 (Football Italia, 11 May 2026; Goal Italia, 24 Aug 2026 - not fetched this run).",
+      "Trophée des Champions: the 2025 edition (PSG v Marseille) was played at Jaber Al-Ahmad International Stadium, Kuwait City, on 8 January 2026, organised by the LFP with the Kuwait Football Association. The 2026 edition (RC Lens v PSG) was played in Lens, France, on 16 August 2026 - no Gulf host.",
+      "Saudi Super Cup 2026: Kuwait hosts, 19-23 December 2026, Jaber Al-Ahmad International Stadium; teams Al-Nassr, Al-Ahli, Al-Qadsiah, Al-Kholood; organised by the Saudi Arabian Football Federation. Previous edition was in Hong Kong (Al-Ahli beat Al-Nassr 5-3 on penalties).",
+      "Egyptian Super Cup: hosted in Abu Dhabi in 2024 and 2025 per the issue's research notes; no primary source found this run and the 2026 host is unconfirmed - see the matching issue for the unsourced list.",
+      "Turkish Super Cup: the 2025 edition was played in Turkey in January 2026 per the issue's research notes; after the 2023 Riyadh final was cancelled, no Gulf edition is known for 2026-27 - unsourced this run."
+    ]
+  },
+  {
+    "id": "sailgp",
+    "aliases": [
+      "Rolex SailGP Championship",
+      "SailGP Championship",
+      "F50 League"
+    ],
+    "sportId": "sailing",
+    "name": "SailGP (Rolex SailGP Championship)",
+    "clubCount": 13,
+    "season": "2026",
+    "status": "partial",
+    "notes": [
+      "13 national teams in the 2026 season; official team names carry title/naming partners (sailgp.com team pages, fetched 2026-09-25): BONDS Flying Roos (AUS), Mubadala Brazil (BRA), NorthStar (CAN), ROCKWOOL Racing (DEN), DS Automobiles SailGP Team France (FRA), Emirates Great Britain (GBR), Germany SailGP Team presented by Deutsche Bank (GER), Red Bull Italy (ITA), Black Foils (NZL), Los Gallos (ESP), Artemis (SWE), Explora Journeys Swiss SailGP Team (SUI), United States (USA).",
+      "Calendar-year competition (Jan-Nov 2026), so season is bare 2026. 13 Sail Grands Prix from Oracle Perth (17-18 Jan 2026) to the Mubadala Abu Dhabi Grand Final (28-29 Nov 2026); the two closing rounds are in the UAE (sailgp.com/races/ calendar, fetched 2026-09-25).",
+      "League partner tiers per sailgp.com/about/partners/overview/ (fetched 2026-09-25): Presenting Partner Rolex; Global Partners DP World, Emirates, Mubadala, Oracle; Official Partners Accor, Apex, KPMG. Red Bull was announced as a new global partner in January 2026 (sailgp.com press release, publishDate 2026-01-15) but does not yet appear on the partners overview page.",
+      "Boat livery/event-host shape: SailGP has no shirts in the schema sense - team naming partners brand the F50 boats and team identity. Mapped team title/naming partners to placement 'front' and team partners to 'partner'; the event-host shape (13 events with title/presenting partners) is recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts because no event entity exists yet.",
+      "League founded 2018 by Larry Ellison and Russell Coutts, operated by F50 League LLC (Wikipedia lead, not cited)."
+    ]
+  },
+  {
+    "id": "boxing",
+    "aliases": [
+      "riyadh season boxing",
+      "the ring cards",
+      "zuffa boxing",
+      "professional boxing"
+    ],
+    "sportId": "combat-sports",
+    "name": "Saudi-backed professional boxing (Riyadh Season, The Ring, Zuffa Boxing)",
+    "country": "Saudi Arabia / global",
+    "season": "2026",
+    "status": "not-started",
+    "notes": [
+      "Event-host shape: the entities are fight cards, not clubs, so no clubs are recorded; events are listed on the matching issue. Saudi money appears in three forms: Riyadh Season (GEA) host/title deals on cards in Riyadh and abroad, Sela's 60% ownership of Zuffa Boxing (TKO holds 40%), and Turki Alalshikh's personal ownership of The Ring magazine and its belt brand.",
+      "Zuffa Boxing is a joint venture announced 5 Mar 2025 by Turki Alalshikh, TKO Group Holdings and Sela ('A Public Investment Fund (PIF) company', per the TKO release), TKO serving as managing partner. Thomas Hauser in The Guardian (28 Jan 2026) reports Sela owns 60% and TKO 40%; the split rests on that single press report and should be checked against TKO filings.",
+      "Paramount+ is the exclusive US/Canada/Latin America home of Zuffa Boxing from January 2026 (announced 29 Sep 2025); The Guardian reports Paramount is 'believed to be paying Zuffa Boxing $100m a year' for 12 cards.",
+      "The Ring magazine (The Ring Magazine FZ-LLC, Dubai) has been owned by Turki Alalshikh since November 2024; he is chairman of the General Entertainment Authority and president of the Saudi Boxing Federation. The Ring site's own partner wall lists PIF as its 'Strategic' partner and Saudi brands (anb, Visit Saudi, Saudia, stc, SRMG, HUMAIN, Sela, AROYA) among its tiered partners.",
+      "Zuffa Boxing and its allies lobbied for the Muhammad Ali American Boxing Revival Act (House-passed 24 Mar 2026, Senate pending), which would let 'Unified Boxing Organizations' combine promotion, rankings and titles - the Guardian (Hauser, 28 Jan 2026; Zidan, 1 Aug 2025) frames this as clearing the path for a Saudi-backed takeover of boxing governance.",
+      "Event lists on Wikipedia (Zuffa Boxing, The Ring, Riyadh Season) are mostly uncited; cards were cross-checked against Ring magazine, UFC.com, ESPN and press where possible. Zuffa events after June 2026 and further Riyadh Season 2026-27 cards were not fully captured."
+    ]
+  },
+  {
+    "id": "fa-cup",
+    "aliases": [
+      "emirates fa cup",
+      "fa cup",
+      "the fa cup",
+      "english fa cup"
+    ],
+    "sportId": "soccer",
+    "name": "The Emirates FA Cup",
+    "country": "England",
+    "clubCount": 124,
+    "season": "2026-27",
+    "status": "not-started",
+    "notes": [
+      "Organisation target: sponsors of the FA Cup are recorded as deals with clubId null, orgName and leagueId fa-cup.",
+      "clubCount 124 is the competition proper (32 First Round qualifiers plus the 92 Premier League and EFL clubs who enter in the Third Round); 743 clubs in total were accepted for 2026-27 per the FA's official list (thefa.com news, 26 Jun 2026). The 124 figure is derived, not published by the FA.",
+      "Key dates for 2026-27 (thefa.com/competitions/thefacup/round-dates, fetched): First Round Proper 7 Nov 2026, Third Round (PL and Championship enter) 9 Jan 2027, Final 22 May 2027. The competition-proper club list is not final until those rounds are drawn, so per-club kits are deferred.",
+      "Title sponsor Emirates runs to 2027-28; the FA's official page footer (thefa.com/competitions/thefacup, fetched 25 Sep 2026) shows Emirates as primary sponsor with Carling, Cognizant, Mitre and ClearScore as secondary sponsors."
+    ]
+  },
+  {
+    "id": "world-rugby",
+    "aliases": [
+      "World Rugby",
+      "Rugby World Cup",
+      "RWC 2027",
+      "HSBC SVNS",
+      "World Rugby Sevens Series",
+      "Nations Championship"
+    ],
+    "sportId": "rugby",
+    "name": "World Rugby events (Men's Rugby World Cup 2027 + HSBC SVNS 2026-27)",
+    "country": "Global",
+    "clubCount": 24,
+    "season": "2026-27",
+    "status": "not-started",
+    "notes": [
+      "Governing-body shape, modelled like FIFA/ICC: one partner list covering World Rugby's properties in the 2026-27 window - Men's Rugby World Cup 2027 (Australia, 1 Oct - 13 Nov 2027, 24 teams) and the HSBC SVNS Series and World Championship 2026-27 (nine events, 28 Nov 2026 - 30 May 2027).",
+      "World Rugby partner tiers (world.rugby header/footer, fetched 2026-09-25): Platinum Partner Emirates; Global Partners Macron, HSBC, WizTeam.",
+      "RWC 2027 partner tiers (rugbyworldcup.com/2027/en/partners, fetched 2026-09-25): Principal Partners Emirates, Asahi Super Dry, Visa; Official Partners LIQUI MOLY, Coca-Cola, IHG Hotels & Resorts; Official Suppliers & Supporters Dove Men+Care, Gilbert, Macron, LipovitanD (Taisho Pharmaceutical), Mitsubishi Estate, Meiji, Fanatics, Ticketmaster, ChildFund Rugby. Footer also shows Tourism Australia and the NSW, Queensland, South Australia, Western Australia and Victoria governments as host destination partners.",
+      "HSBC SVNS 2026-27 (world.rugby/news/1045878, 28 Jul 2026): Dubai 28-29 Nov, Cape Town 5-6 Dec, Singapore 30-31 Jan 2027, Perth 6-7 Feb, Vancouver 6-7 Mar, New York 13-14 Mar; World Championship: Hong Kong 9-11 Apr, Valladolid 21-23 May, Bordeaux 28-30 May 2027.",
+      "The World Rugby Nations Championship (inaugural 2026, finals at Twickenham; 2028 finals in Doha) is a separate World Rugby property. Its reported Qatar Airways title sponsorship (GBP 80m, eight years to 2034) was agreed but unsigned as of 25 Jun 2026 and paused amid Middle East tensions; no World Rugby announcement confirming it had been published as of 25 Sep 2026, so it is recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts, not as a deal.",
+      "RWC 2027 team-level shirt sponsors of the 24 national unions are not yet in this file (each union must be checked separately); verified union partner lists for three unions are recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts."
+    ]
+  },
+  {
+    "id": "asian-tour",
+    "aliases": [
+      "asian tour",
+      "the asian tour",
+      "asian pga tour",
+      "international series"
+    ],
+    "sportId": "golf",
+    "name": "Asian Tour",
+    "country": "Asia",
+    "clubCount": 17,
+    "season": "2026",
+    "status": "not-started",
+    "notes": [
+      "The 2026 season is the 31st of the modern Asian Tour; the Wikipedia 2026 schedule table (fetched 25 Sep 2026) lists 17 official events including 2 cancelled International Series events (International Series India, International Series China); asiantour.com schedule pages are JavaScript-rendered and returned no table text.",
+      "On 21 July 2026 the Asian Tour left its LIV Golf partnership and joined the PGA Tour / DP World Tour strategic alliance with immediate effect; the DP World Tour returns to co-sanctioning Asian Tour events from 2027 (CBS Sports, 2026-07-21). AFP (via Philstar, 2026-07-22) reports the partnership runs until at least 2029 and that LIV Golf had bankrolled the International Series to the tune of $300m.",
+      "After the split, remaining events lost International Series event status (Wikipedia notes 'Tournament had International Series event status removed following the restructuring of LIV Golf after the Public Investment Fund's announcement of withdrawal of funding', citing Flushing It, 2026-08-15); the three late-season events (Link Hong Kong Open, BingoPlus Philippine Open, PIF Saudi International) carry an 'International Series [status removed]' footnote.",
+      "The International Series pages on internationalseries.com still describe the 2026 season as co-sanctioned by LIV Golf and the Asian Tour with a pathway to LIV Golf (fetched 25 Sep 2026); they may predate the July 2026 split - flagged on the matching issue.",
+      "Event-host shape: tournaments are recorded as clubs (sportId golf, leagueId asian-tour) following the dp-world-tour pattern; kits array is empty; tournament sponsors are recorded as clubId-null league-partner deals (org-partner shape)."
+    ]
+  },
+  {
+    "id": "wta-tour",
+    "aliases": [
+      "wta",
+      "women's tennis association tour",
+      "wta tour driven by mercedes-benz"
+    ],
+    "sportId": "tennis",
+    "name": "WTA Tour",
+    "clubCount": 0,
+    "season": "2026",
+    "status": "not-started",
+    "notes": [
+      "2026 season runs 2 January to 22 November 2026; 57 tournaments per the Wikipedia 2026 WTA Tour summary (4 Grand Slams, WTA Finals, 10 WTA 1000, 17 WTA 500, 22 WTA 250, United Cup, Billie Jean King Cup qualifying round and finals). The official calendar (wtatennis.com/tournaments and api.wtatennis.com) returned HTTP 429 on every automated attempt.",
+      "The tour is branded 'WTA Tour Driven by Mercedes-Benz' from 1 January 2026 (Tennis.com, 11 Dec 2025): Mercedes-Benz is Exclusive Automobile Partner and Premier Partner, replacing Hologic as title sponsor.",
+      "PIF is a Global Partner of the WTA Tour and first-ever naming partner of the 'PIF WTA Rankings' (Tennis.com, 20 May 2024); wtatennis.com/rankings still shows 'PIF WTA Rankings' as of 25 Sep 2026, and the wtatennis.com footer lists PIF among Global Partners.",
+      "The WTA Finals left Riyadh a year early: held in Riyadh 2024 and 2025 under a three-year Saudi Tennis Federation deal; the 2026 edition is at Indian Wells (8-15 Nov 2026 per The National; the Wikipedia calendar row says the week of 9 Nov) and Charlotte, North Carolina hosts from 2027 for at least three years.",
+      "Grand Slams are run by the national federations, not the WTA; United Cup is a combined ATP/WTA event; the Billie Jean King Cup is organised by the ITF.",
+      "Tour/competition sponsors are recorded as clubId-null deals; the events themselves are not club records."
+    ]
+  },
+  {
+    "id": "khl",
+    "aliases": [
+      "Kontinental Hockey League",
+      "FONBET KHL Championship",
+      "КХЛ"
+    ],
+    "sportId": "ice-hockey",
+    "name": "Kontinental Hockey League (KHL)",
+    "country": "Russia",
+    "clubCount": 22,
+    "season": "2026-27",
+    "status": "not-started",
+    "notes": [
+      "22 clubs: 19 Russian, plus Dinamo Minsk (Belarus), Barys Astana (Kazakhstan) and Shanghai Dragons (China).",
+      "Title partner FONBET: the league championship is branded 'FONBET KHL Championship'; KHL.ru (2026-05-29) reported the title deal extended to 2027/28.",
+      "Russian clubs remain barred from IIHF competitions in 2026-27; the IIHF Council reaffirmed the ban on 2026-07-30.",
+      "khl.ru and several club sites return HTTP 403 to automated fetches; partner data was taken from club partner pages and a syndicated 2026-27 KHL partner widget on club sites.",
+      "No front-of-shirt (jersey) sponsor placements could be documented from reachable sources; kit entries carry sourced club partners with placement 'partner' and sponsorsComplete false."
+    ]
+  },
+  {
+    "id": "wec",
+    "aliases": [
+      "fia world endurance championship",
+      "world endurance championship",
+      "fia wec",
+      "wec"
+    ],
+    "sportId": "motorsport",
+    "name": "FIA World Endurance Championship",
+    "clubCount": 20,
+    "season": "2026",
+    "status": "not-started",
+    "notes": [
+      "20 teams run the 35 full-season 2026 entries per the official fiawec.com grid page (fetched 2026-09-26): 10 Hypercar teams and 10 LMGT3 teams; the target brief's 35 counts cars (17 Hypercar, 18 LMGT3) from 14 manufacturers.",
+      "Hypercar entries: Alpine Endurance Team (#35/#36), Aston Martin THOR Team (#007/#009), BMW M Team WRT (#15/#20), Cadillac Hertz Team JOTA (#12/#38), Ferrari AF Corse (#50/#51), AF Corse (#83), Genesis Magma Racing (#17/#19), Peugeot TotalEnergies (#93/#94), Toyota Racing (#7/#8) - 17 cars. LMGT3: Heart of Racing (#23/#27), Team WRT (#32/#69), TF Sport (#33), Racing Team Turkey by TF (#34), Vista AF Corse (#21/#54), Proton Competition (#77/#88), Akkodis ASP (#78/#87), Garage 59 (#10/#58), Iron Lynx (#61/#79), Manthey (DK Engineering #91, The Bend #92) - 18 cars.",
+      "2026 calendar (8 rounds): Prologue Imola 14 Apr; Imola 19 Apr; TotalEnergies 6 Hours of Spa-Francorchamps 9 May; 24 Hours of Le Mans 13-14 Jun; Rolex 6 Hours of Sao Paulo 12 Jul; Lone Star Le Mans (COTA) 6 Sep; 6 Hours of Fuji 27 Sep; 6 Hours of Barcelona 18 Oct; 6 Hours of Monza 8 Nov (fiawec.com homepage and entry-list news, fetched 2026-09-25/26).",
+      "Both 2026 Gulf rounds were lost to the Iran war and the Strait of Hormuz shipping risk: the Qatar 1812km was postponed from March (fiawec.com statement 1 Mar and rescheduling 13 Mar 2026) and then cancelled with Bahrain's finale, both replaced by Barcelona and Monza (Motorsport.com, 2026-07-28).",
+      "Both Gulf rounds return in 2027: Prologue Lusail 21-22 Mar, Qatar 1812km 25-27 Mar, and Bapco Energies 8 Hours of Bahrain 4-6 Nov, in a nine-round calendar that also restores Silverstone (fiawec.com 2027-calendar news, fetched 2026-09-26).",
+      "Series partners per the fiawec.com partners page (fetched 2026-09-26): Rolex, TotalEnergies, Michelin, DHL, Goodyear, CrowdStrike, Motul, Bosch; suppliers Pommery, Al Kamel, MRTC, AMP Visual TV. Goodyear is the exclusive LMGT3 tyre supplier to at least 2029 (fiawec.com news, 2026-06-11).",
+      "Car-livery placements do not fit the schema yet; car-level sponsor facts are recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts. Team title sponsors carried in team names are entered as kits with a front placement mapped from 'team title/name', mirroring the motogp research."
+    ]
+  },
+  {
+    "id": "premier-padel",
+    "aliases": [
+      "Qatar Airways Premier Padel Tour",
+      "Premier Padel",
+      "Qatar Airways Premier Padel Finals",
+      "Premier Padel Tour"
+    ],
+    "sportId": "padel",
+    "name": "Qatar Airways Premier Padel Tour",
+    "country": "Global",
+    "season": "2026",
+    "status": "not-started",
+    "notes": [
+      "Event-host shape: the entities are the tournaments on the FIP 2026 calendar, not clubs, so no clubs or kits are recorded; the event-level facts (names, cities, dates, statuses) live on the matching issue. The official 2026 calendar release announced 26 tournaments in 18 countries; the FIP calendar lists 25 (Qatar Major marked POSTPONED).",
+      "Ownership: Premier Padel was founded by Qatar Sports Investments (QSI) together with the International Padel Federation (FIP) and the Professional Padel Association, launched in 2022; QSI acquired World Padel Tour in August 2023 to create one global tour (Premier Padel release, 13 Jun 2024, fetched). QSI is wholly owned by the Qatar Investment Authority; the exact stake in Premier Padel is not published.",
+      "Title sponsor: Qatar Airways, multi-year since 13 Jun 2024 - the tour was renamed the 'Qatar Airways Premier Padel Tour' and Qatar Airways is also Official Airline Partner; the Barcelona Finals are the 'Qatar Airways Premier Padel Finals'. Owner (QSI) and title sponsor are both Qatari state entities.",
+      "The 2026 calendar was disrupted by the Iran war: the Qatar Major (Doha) is POSTPONED with no new date on the FIP calendar; per the issue's research notes Kuwait was upgraded to a Major (26-31 Oct) and Pretoria to a P1. Gulf stops: Riyadh Season P1 (7-14 Feb, tour opener), Kuwait Major, Emaar Dubai P1 (8-15 Nov); NewGiza P2 in Egypt.",
+      "FIP official sponsors (padelfip.com homepage footer, fetched 2026-09-25): CUPRA (Official Automotive Partner), Bullpadel (Official Apparel, Racket and Ball), Mondo (Official Turf), MejorSet (Official Court), Crionet (Official Technology Supplier), LedProjects (Official Lighting Supplier). These are FIP-level partners, not tour deals.",
+      "Linked team circuit: the Hexagon World Series, created in December 2025 with the agency 54 (PIF-owned) as investor and Premier Padel as 'shareholder and major strategic partner' (FIP release, 17 Dec 2025, fetched). The 2026 Europe P2 week (14-20 Sep) was converted into a Hexagon World Series event (FIP release, 4 Feb 2026, fetched); the series launch then moved to the GENERALI Hexagon Cup Madrid, 21-24 Jan 2027 (FIP release, 12 Aug 2026, fetched).",
+      "Attendance: more than 600,000 spectators attended the 23 tournaments of 2025; the Paris Major 2026 drew a record 81,000 (+26.5%) (FIP, 14 Sep 2026, fetched)."
+    ]
+  },
+  {
+    "id": "afc",
+    "aliases": [
+      "afc champions league elite",
+      "acl elite",
+      "afc asian cup",
+      "asian cup 2027",
+      "afc champions league two",
+      "afc women's champions league"
+    ],
+    "sportId": "events",
+    "name": "AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)",
+    "clubCount": 32,
+    "season": "2026-27",
+    "status": "not-started",
+    "notes": [
+      "32 clubs in the 2026/27 ACL Elite league stage (16 West, 16 East), the first 32-team edition, from the Wikipedia 2026-27 season article (the-afc.com hubs do not list the field). League stage 14 Sep 2026 to Feb 2027; final on 1 May 2027.",
+      "The centralised finals stage is hosted in Saudi Arabia (Jeddah 2025 and 2026); the 2026 finals used King Abdullah Sports City and Prince Abdullah Al Faisal Sports City (AFC, 2025-12-23). Saudi hosting provisionally runs through 2029 (Wikipedia lead).",
+      "AFC Asian Cup Saudi Arabia 2027 runs 7 Jan to 5 Feb 2027 in eight stadiums across Riyadh, Jeddah and Al Khobar (SAFF, 2025-01-07); the Al Khobar venue is named Aramco Stadium - the AFC's first venue-naming deal (AFC, 2026-05-06).",
+      "Top-tier Official Global Partners of the AFC: Qatar Airways, NEOM, Visit Saudi and Credit Saison. Official Global Supporters include Visa, Aramco, Midea, Kelme, TECNO, Barbican and ALBAIK (AFC announcements; Sportcal tier summary 2026-05-06).",
+      "Five of the 16 West-region clubs are Saudi Pro League sides already covered by the saudi-pro-league target (Al-Ahli, Al-Nassr, Al-Hilal, Al-Qadsiah, Al-Ittihad); Al-Ahli are two-time defending champions."
+    ]
+  },
+  {
+    "id": "womens-super-league",
+    "aliases": [
+      "wsl",
+      "barclays women's super league"
+    ],
+    "sportId": "soccer",
+    "name": "Women's Super League",
+    "country": "England",
+    "clubCount": 14,
+    "season": "2026-27",
+    "status": "partial",
+    "notes": [
+      "2026/27 is the first WSL season with 14 clubs, expanded from 12: Birmingham City (WSL2 champions), Crystal Palace (runners-up) and Charlton Athletic (play-off winners) were promoted; no club was relegated in 2025/26.",
+      "Title-sponsored by Barclays since 2019/20; Sky Sports shows the league from 2025/26 under a five-year UK broadcast deal.",
+      "Run by WSL Football, a company split from the FA."
+    ]
+  },
+  {
+    "id": "ufc",
+    "aliases": [
+      "ultimate fighting championship",
+      "ufc"
+    ],
+    "sportId": "combat-sports",
+    "name": "UFC (Ultimate Fighting Championship)",
+    "country": "United States",
+    "season": "2026",
+    "status": "not-started",
+    "notes": [
+      "Event-host shape: UFC stages about 40 events a year (numbered cards, Fight Nights); the 2026 list comes from UFC.com and the '2026 in UFC' schedule. No event entity exists in the schema yet, so events are recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts, not as clubs.",
+      "UFC is part of TKO Group Holdings (NYSE: TKO), a controlled company: its FY2024 10-K states Endeavor subsidiaries held about 53.9% of voting interests, and after Silver Lake's take-private of Endeavor (completed 24 Mar 2025) Endeavor retains its controlling stake in TKO.",
+      "Abu Dhabi: UFC and DCT Abu Dhabi (Department of Culture and Tourism - Abu Dhabi) have partnered since 2010 (formal partnership 2019), extended in October 2023 through 2028; 2026 brings UFC Fight Night 282 (25 Jul) and UFC 333 (24 Oct), both at Etihad Arena, plus Abu Dhabi Showdown Week.",
+      "Qatar: Visit Qatar hosted UFC's first Qatar event in Doha in November 2025 and announced the return, UFC Fight Night 294, for 21 Nov 2026.",
+      "Saudi Arabia: Riyadh Season (GEA) hosted UFC Fight Night in Riyadh on 1 Feb 2025; no UFC event in Saudi Arabia appears on the 2026 schedule.",
+      "Parent-company link: TKO's Zuffa Boxing promotion is a joint venture with Sela, a Public Investment Fund company, announced 5 Mar 2025 - a TKO corporate deal, separate from UFC event hosting."
+    ]
+  },
+  {
+    "id": "russian-premier-league",
+    "aliases": [
+      "rpl",
+      "russian premier liga",
+      "alfa-bank russian premier league",
+      "alfa-bank russian premier liga"
+    ],
+    "sportId": "soccer",
+    "name": "Alfa-Bank Russian Premier League",
+    "country": "Russia",
+    "clubCount": 16,
+    "season": "2026-27",
+    "status": "partial",
+    "notes": [
+      "2026-27 season ran from 24 July 2026 to 29 May 2027, with a winter break after 7 December 2026 until 26 February 2027.",
+      "Named 'Alfa-Bank Russian Premier League' for sponsorship reasons since July 2026 (title sponsor Alfa-Bank).",
+      "Russian clubs have been suspended from FIFA and UEFA competitions since February 2022 following the invasion of Ukraine.",
+      "The official premierliga.ru site is behind a Yandex anti-bot CAPTCHA, so club and sponsor facts rely on club announcements and press coverage."
+    ]
+  },
+  {
+    "id": "cycling-stage-races",
+    "aliases": [
+      "uae tour",
+      "uae tour women",
+      "alula tour",
+      "saudi tour",
+      "tour of oman",
+      "muscat classic",
+      "tour of guangxi",
+      "gree-tour of guangxi",
+      "tour du rwanda",
+      "state-hosted uci road races"
+    ],
+    "sportId": "cycling",
+    "name": "State-hosted UCI road races (UAE, Saudi Arabia, Oman, China, Rwanda)",
+    "country": "UAE / Saudi Arabia / Oman / China / Rwanda",
+    "clubCount": 7,
+    "season": "2026",
+    "status": "not-started",
+    "notes": [
+      "Event-host shape: these 7 races do not fit the schema yet (no event entity, no host/title-sponsor placement), so the races are recorded here as the entity list and every commercial fact is recorded on the matching issue (Beyond-The-Jersey/data) as unsourced facts and as org deals, following the UFC, Esports World Cup and horse-racing precedents. clubs and kits arrays are empty.",
+      "The 7 races (2026): UAE Tour (UCI WorldTour, 16-22 Feb, won by Isaac del Toro), UAE Tour Women (Women's WorldTour, 5-8 Feb, won by Elisa Longo Borghini), AlUla Tour (UCI ProSeries 2.Pro, 27-31 Jan, won by Jan Christen), Tour of Oman (ProSeries, 7-11 Feb, won by Christian Scaroni), Muscat Classic (ProSeries one-day race, 6 Feb, won by Mauro Schmid), Tour of Guangxi (WorldTour season finale, 13-18 Oct), Tour du Rwanda (UCI Africa Tour 2.1, 22 Feb-1 Mar, won by Moritz Kretschy).",
+      "Separate the race owner/host (the state body) from the commercial operator: Abu Dhabi Sports Council owns the UAE Tour races with RCS Sport as organiser; the AlUla Tour site is run by ASO (c) with the Saudi Ministry of Sport and Royal Commission for AlUla as institutional partners; the Tour of Oman site is run by ASO (c) with the Omani Ministry of Culture, Sports and Youth organising; the Tour of Guangxi is organised by the People's Government of Guangxi and Wanda Group; the Tour du Rwanda is organised by the Rwanda Cycling Federation.",
+      "Muscat Classic and Tour of Oman overlap in 2026 reporting: Muscat Daily describes the 6 Feb Muscat Classic as opening the Tour of Oman programme, while Wikipedia lists it as a separate one-day race on the ProSeries calendar; the race's own site says it runs 'ahead of the Tour of Oman (7-11 February 2026)'. Both are counted here; the exact governance split is unresolved.",
+      "Not counted: the 2025 UCI Road World Championships in Kigali (21-28 Sept 2025, one-off host event, covered in claims and unsourced) and a possible 2026 Tour of Guangxi women's race, which was not verified.",
+      "Sponsorship is on race titles, presenting partnerships and leader's-jersey/stage sponsorship, not shirts; the UAE Tour's own sponsors page lists Presenting Sponsor (AD Ports Group), Jersey Sponsors, Stage Sponsors and stage partners. Host fees are not disclosed."
+    ]
+  },
+  {
+    "id": "liga-portugal",
+    "aliases": [
+      "primeira liga",
+      "liga portugal betclic",
+      "portuguese primeira liga",
+      "primeira divisao",
+      "ligaportugal"
+    ],
+    "sportId": "soccer",
+    "name": "Liga Portugal Betclic (Primeira Liga)",
+    "country": "Portugal",
+    "clubCount": 18,
+    "season": "2026-27",
+    "status": "partial",
+    "notes": [
+      "18 clubs for 2026-27, from the Wikipedia season page (the official ligaportugal.pt site is a news hub and did not expose a club list). Season runs 7 Aug 2026 to 16 May 2027; promoted: Maritimo and Academico de Viseu; relegated: AVS and Tondela.",
+      "Title/naming sponsor Betclic since 2023-24 (previously Bwin 2021/22-2022/23); competition branded 'Liga Portugal Betclic'.",
+      "Most front-of-shirt sponsors are Portuguese betting brands (Placard, Betano, bwin, Solverde.pt, Lebull) plus Emirates at Benfica. Other placements are largely local sponsors (Hospital da Luz, Lusiadas, Super Bock, Sagres)."
+    ]
+  },
+  {
+    "id": "dp-world-tour",
+    "aliases": [
+      "dp world tour",
+      "race to dubai",
+      "european tour"
+    ],
+    "sportId": "golf",
+    "name": "DP World Tour (Race to Dubai)",
+    "clubCount": 0,
+    "season": "2026-27",
+    "status": "not-started",
+    "notes": [
+      "The 2026 Race to Dubai season runs 27 November 2025 (BMW Australian PGA Championship) to 15 November 2026 (DP World Tour Championship, Dubai); the official schedule page lists 42 tournaments plus a U.S. Open Final Qualifying row, which is not counted (europeantour.com/dpworld-tour/schedule, fetched 25 Sep 2026).",
+      "Season-labelled '2026-27' here because the season crosses calendar years (Nov 2025 - Nov 2026), matching the site's other cross-year competitions; the tour's own pages brand the season '2026 Race to Dubai'.",
+      "The tour is named for its Title Partner DP World, whose extension to 2035 is 'the largest in the Tour's history'; DP World also titles the season-ending DP World Tour Championship and is Official Partner to a further 15 tournaments a season (tour press release, 11 Nov 2025).",
+      "The five Rolex Series events in 2026 are the Hero Dubai Desert Classic, Genesis Scottish Open, BMW PGA Championship, Abu Dhabi Championship and DP World Tour Championship (rolex/2026 page, '5 unmissable events').",
+      "Gulf events: Dubai Invitational, Hero Dubai Desert Classic, Bapco Energies Bahrain Championship, Qatar Masters, Abu Dhabi Championship and DP World Tour Championship (all UAE except Bahrain and Qatar). No Saudi events in 2026; Ras Al Khaimah is not on the schedule.",
+      "Event titles change with sponsors (Abu Dhabi HSBC Championship is now the Abu Dhabi Championship; Commercial Bank Qatar Masters is now plain Qatar Masters); two events are 'presented by' sponsors (Magical Kenya Open presented by absa; Open de Espana presented by Madrid).",
+      "Tour/competition sponsors are recorded as clubId-null deals; the events themselves are not club records."
+    ]
+  },
+  {
+    "id": "liv-golf",
+    "aliases": [
+      "LIV Golf League",
+      "LIV Golf",
+      "LIV"
+    ],
+    "sportId": "golf",
+    "name": "LIV Golf League",
+    "country": "Global",
+    "clubCount": 13,
+    "season": "2026",
+    "status": "not-started",
+    "notes": [
+      "Owned and funded by Saudi Arabia's Public Investment Fund since the 2022 launch. On 2026-04-30 PIF said the 'substantial investment required is no longer consistent' with its strategy and that it will stop funding the league at the end of the 2026 season; reported spend c. $5bn to date, c. $6bn by year-end; PIF governor and LIV chairman Yasir Al-Rumayyan expected to step down (Sky Sports, 2026-04-30, https://www.skysports.com/golf/news/12176/13538273/). In August 2026 LIV announced an unnamed lead investor has signed for 2027, with players set to become majority equity holders ('LIV Golf 2.0', seasons through 2030 affirmed) (livgolf.com news, fetched 2026-09-25). Show 2026 as PIF-owned and flag the change.",
+      "13 four-player teams plus wild cards (57 players); 2026 was the first 72-hole no-cut season. 12 events played Feb-Aug 2026 (livgolf.com/schedule, fetched 2026-09-25). LIV Golf Louisiana (June 25-28) was postponed and does not appear on the finished schedule (Sky Sports 2026-04-30). The season-ending Aramco LIV Golf Michigan Team Championship (Aug 27-30, The Cardinal at Saint John's Resort) was cancelled on 2026-08-17; Indianapolis became the finale (Sky Sports, https://www.skysports.com/golf/news/12176/13574162/...). LIV says 2027 will be a 10-event schedule.",
+      "League partners (livgolf.com/partners, fetched 2026-09-25): Global Partners Aramco, HSBC ('Global Pillar Partner'), Maaden, Riyadh Air, Roshn Group, Salesforce; Premium Partner Bahri; Presenting Partner JCB; Official Suppliers Arena, Corpay, DAOU, Fever, New Era, Panini, Select Event Group, Trackman; Destination Partners Government of South Australia, Hong Kong Tourism Board, Louisiana Economic Development, Andalucia Tourism. Event names carry the sponsor: ROSHN Group LIV Golf Riyadh (Feb 4-7), MAADEN LIV Golf Virginia (May 7-10).",
+      "Team partner lists come from each team's page on livgolf.com (all fetched 2026-09-25); shirt-level placement on team apparel is not documented there, so kits carry placement 'partner' and sponsorsComplete false."
+    ]
+  },
+  {
+    "id": "motogp",
+    "aliases": [
+      "moto gp",
+      "motogp world championship",
+      "fim motogp world championship",
+      "premier class"
+    ],
+    "sportId": "motorsport",
+    "name": "FIM MotoGP World Championship",
+    "clubCount": 11,
+    "season": "2026",
+    "status": "partial",
+    "notes": [
+      "11 MotoGP-class teams per the official motogp.com teams page (fetched 2026-09-25); every team name carries its title sponsor.",
+      "The official calendar lists 22 rounds for 2026; race title sponsors are shown on motogp.com/en/sponsors, not on the calendar.",
+      "The Qatar GP (Lusail) was moved from 10-12 Apr to 6-8 Nov 2026 after the Iran conflict; as of 19 Sep 2026 Dorna was still deciding whether it runs (Crash.net). No Kazakhstan round in 2026.",
+      "Sponsor placement here is mapped to the schema's front value from 'team title/name'; bike-livery placements do not fit the schema yet."
     ]
   }
 ]

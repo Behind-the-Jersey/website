@@ -1,5 +1,74 @@
 [
   {
+    "id": "4aces-gc-2026-home",
+    "clubId": "4aces-gc",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "under-armour",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - 4Aces GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/4aces-gc"
+        }
+      },
+      {
+        "sponsorId": "celsius",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - 4Aces GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/4aces-gc"
+        }
+      },
+      {
+        "sponsorId": "swag-golf",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - 4Aces GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/4aces-gc"
+        }
+      },
+      {
+        "sponsorId": "flyhouse",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - 4Aces GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/4aces-gc"
+        }
+      },
+      {
+        "sponsorId": "daou",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - 4Aces GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/4aces-gc"
+        }
+      },
+      {
+        "sponsorId": "new-era",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - 4Aces GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/4aces-gc"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Team partners 2026: Under Armour, CELSIUS, SWAG Golf, FlyHouse, DAOU, New Era. Captain: Dustin Johnson.",
+    "change": null
+  },
+  {
     "id": "abha-2026-27-home",
     "clubId": "abha",
     "season": "2026-27",
@@ -59,6 +128,53 @@
     "summary": null
   },
   {
+    "id": "academico-de-viseu-2026-27-home",
+    "clubId": "academico-de-viseu",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visabeira",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Visabeira main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      },
+      {
+        "sponsorId": "dazn",
+        "placement": "sleeve",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (DAZN sleeve)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Grupo Visabeira (private Portuguese conglomerate).",
+    "change": null
+  },
+  {
+    "id": "admiral-vladivostok-2026-27-home",
+    "clubId": "admiral-vladivostok",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+    "change": null
+  },
+  {
     "id": "afc-bournemouth-2026-27-home",
     "clubId": "afc-bournemouth",
     "season": "2026-27",
@@ -91,6 +207,39 @@
     ],
     "sponsorsComplete": true,
     "summary": null,
+    "change": null
+  },
+  {
+    "id": "ag-insurance-soudal-women-2026-home",
+    "clubId": "ag-insurance-soudal-women",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "ag-insurance",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      },
+      {
+        "sponsorId": "soudal",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI Women's WorldTeam named for co-title sponsors AG Insurance and Soudal; team name carries both sponsors on the jersey.",
     "change": null
   },
   {
@@ -190,6 +339,59 @@
     "change": null
   },
   {
+    "id": "ak-bars-kazan-2026-27-home",
+    "clubId": "ak-bars-kazan",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+    "change": null
+  },
+  {
+    "id": "akhmat-grozny-2026-27-home",
+    "clubId": "akhmat-grozny",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "akhmat-foundation",
+        "placement": "front",
+        "source": {
+          "name": "RFK Akhmat – Partners",
+          "date": "2026-09-25",
+          "url": "https://www.fc-akhmat.ru/club/partners/",
+          "note": "Фонд Ахмат (fondkadyrova.net) listed among club partners."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Akhmat Foundation listed as a club partner; front-shirt placement not confirmed against a kit launch.",
+    "change": null
+  },
+  {
+    "id": "akron-tolyatti-2026-27-home",
+    "clubId": "akron-tolyatti",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "No front-of-shirt sponsor found on the club sponsors page (fcakron.ru/sponsors lists only partners).",
+    "change": null
+  },
+  {
     "id": "al-ahli-2026-27-home",
     "clubId": "al-ahli",
     "season": "2026-27",
@@ -252,6 +454,56 @@
     ],
     "sponsorsComplete": false,
     "summary": "Adidas home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-ahly-2026-home",
+    "clubId": "al-ahly",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visit-rwanda",
+        "placement": "league-partner",
+        "source": {
+          "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+          "date": "2023-06-19",
+          "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+    "change": null
+  },
+  {
+    "id": "al-ahly-ly-2026-home",
+    "clubId": "al-ahly-ly",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visit-rwanda",
+        "placement": "league-partner",
+        "source": {
+          "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+          "date": "2023-06-19",
+          "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
     "change": null
   },
   {
@@ -1378,6 +1630,82 @@
     "summary": "2026 car. S"
   },
   {
+    "id": "alverca-2026-27-home",
+    "clubId": "alverca",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "placard",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Placard.pt main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Shirt main slot paid for by Jogos Santa Casa (Portuguese state mandate) via Placard.",
+    "change": null
+  },
+  {
+    "id": "amur-khabarovsk-2026-27-home",
+    "clubId": "amur-khabarovsk",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "olimpbet",
+        "placement": "partner",
+        "source": {
+          "name": "HC Amur official site",
+          "date": "2026-09-25",
+          "url": "https://hcamur.ru/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. Olimpbet official partner per the club site; front-of-shirt sponsor not yet sourced.",
+    "change": null
+  },
+  {
+    "id": "anadolu-efes-2026-27-home",
+    "clubId": "anadolu-efes",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "andretti-formula-e-2025-26-home",
+    "clubId": "andretti-formula-e",
+    "season": "2025-26",
+    "kitType": "home",
+    "periodLabel": "Season 12 (2025/26)",
+    "periodFrom": "2025-26",
+    "periodTo": "2025-26",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
     "id": "angers-sco-2026-27-home",
     "clubId": "angers-sco",
     "season": "2026-27",
@@ -1429,6 +1757,20 @@
     "change": null
   },
   {
+    "id": "aprilia-racing-2026-home",
+    "clubId": "aprilia-racing",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
     "id": "arizona-cardinals-2026-27-home",
     "clubId": "arizona-cardinals",
     "season": "2026-27",
@@ -1474,6 +1816,30 @@
     ],
     "sponsorsComplete": true,
     "summary": "Jersey patch: Avnet.",
+    "change": null
+  },
+  {
+    "id": "arouca-2026-27-home",
+    "clubId": "arouca",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "bwin",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Entain plc (LSE-listed, no state owner) via Bwin.",
     "change": null
   },
   {
@@ -1635,6 +2001,59 @@
     "shortLine": "Visit Rwanda gone, Deel on the sleeve"
   },
   {
+    "id": "arsenal-w-2026-27-home",
+    "clubId": "arsenal-w",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "emirates",
+        "placement": "front",
+        "source": {
+          "name": "SportsPro: Arsenal's 'UK£70m' extension with Emirates continues England's most enduring stadium naming rights partnership",
+          "date": "2026-08-06",
+          "url": "https://www.sportspro.com/sponsorship-marketing/arsenal-emirates-stadium-renewal-70-million-shirt-august-2026/",
+          "quote": "The airline will remain the Premier League champions' front-of-shirt, training kit and stadium naming rights partner until 2033 in a deal that also covers Arsenal's women's and youth teams.",
+          "checked": {
+            "on": "2026-09-27",
+            "by": "claude-review-282"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Dubai's government pays for the front of the Arsenal Women shirt through Emirates.",
+    "change": null
+  },
+  {
+    "id": "artemis-sweden-2026-home",
+    "clubId": "artemis-sweden",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "sandmark",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - Artemis (Official Partners)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/artemis/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "New Swedish team Artemis has no title partner; Sandmark and Artemis Technologies are Official Partners, Pelle P supplies.",
+    "change": null
+  },
+  {
     "id": "as-monaco-2026-27-home",
     "clubId": "as-monaco",
     "season": "2026-27",
@@ -1735,6 +2154,31 @@
     "sponsorsComplete": false,
     "change": null,
     "summary": null
+  },
+  {
+    "id": "asc-ville-de-dakar-2026-home",
+    "clubId": "asc-ville-de-dakar",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visit-rwanda",
+        "placement": "league-partner",
+        "source": {
+          "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+          "date": "2023-06-19",
+          "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+          "note": "'Visit Rwanda will continue to be showcased on BAL team uniforms and at the BAL Combine' - league-wide branding on all 12 teams' uniforms, not a club-level shirt deal."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "League-controlled branding only: Visit Rwanda is carried on BAL team uniforms league-wide. No club-level shirt sponsor found for the 2026 season.",
+    "change": null
   },
   {
     "id": "aston-martin-2026-home",
@@ -1946,6 +2390,48 @@
     },
     "headline": "The shirt is {level}: the front sponsor, Visit Rwanda, is paid for by the Government of Rwanda.",
     "shortLine": "Visit Rwanda on the front, Betano on the sleeves"
+  },
+  {
+    "id": "aston-villa-w-2026-27-home",
+    "clubId": "aston-villa-w",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visit-rwanda",
+        "placement": "front",
+        "source": {
+          "name": "SportsPro",
+          "date": "2026-07-15",
+          "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Rwanda's government takes the front of the Aston Villa Women shirt, worth up to £20m a year across the club.",
+    "change": {
+      "kind": "worse",
+      "text": "Worse than last season: Visit Rwanda took the front",
+      "badge": "+ Visit Rwanda"
+    }
+  },
+  {
+    "id": "asvel-2026-27-home",
+    "clubId": "asvel",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
   },
   {
     "id": "atalanta-2026-27-home",
@@ -2307,6 +2793,53 @@
     "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
   },
   {
+    "id": "avangard-omsk-2026-27-home",
+    "clubId": "avangard-omsk",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "gazprom-neft",
+        "placement": "partner",
+        "source": {
+          "name": "HC Avangard official site, partners page",
+          "date": "2026-09-25",
+          "url": "https://hawk.ru/partners/"
+        }
+      },
+      {
+        "sponsorId": "alfa-bank",
+        "placement": "partner",
+        "source": {
+          "name": "HC Avangard official site, partners page",
+          "date": "2026-09-25",
+          "url": "https://hawk.ru/partners/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. Gazprom Neft general partner per the club partners page; front-of-shirt sponsor not yet sourced.",
+    "change": null
+  },
+  {
+    "id": "avtomobilist-yekaterinburg-2026-27-home",
+    "clubId": "avtomobilist-yekaterinburg",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+    "change": null
+  },
+  {
     "id": "bahrain-victorious-2026-home",
     "clubId": "bahrain-victorious",
     "season": "2026",
@@ -2403,6 +2936,31 @@
     "change": null
   },
   {
+    "id": "baltika-kaliningrad-2026-27-home",
+    "clubId": "baltika-kaliningrad",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "rostec",
+        "placement": "front",
+        "source": {
+          "name": "FC Baltika – official site",
+          "date": "2026-09-25",
+          "url": "https://www.fc-baltika.ru/",
+          "note": "Ростех logo linked under Генеральный спонсор ФК Балтика."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Rostec general sponsor per the club site; shirt placement not confirmed against a kit launch.",
+    "change": null
+  },
+  {
     "id": "baltimore-orioles-2026-27-home",
     "clubId": "baltimore-orioles",
     "season": "2026-27",
@@ -2491,6 +3049,69 @@
     ],
     "sponsorsComplete": true,
     "summary": null,
+    "change": null
+  },
+  {
+    "id": "barcelona-basquet-2026-27-home",
+    "clubId": "barcelona-basquet",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "barys-astana-2026-27-home",
+    "clubId": "barys-astana",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "samruk-kazyna",
+        "placement": "partner",
+        "source": {
+          "name": "HC Barys official site, partnership page",
+          "date": "2026-09-25",
+          "url": "https://hcbarys.kz/club/partnership/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. Samruk-Kazyna (sk.kz) listed as main partner ('Бас Серіктес') on the club partnership page; front-of-shirt sponsor not yet sourced.",
+    "change": null
+  },
+  {
+    "id": "baskonia-2026-27-home",
+    "clubId": "baskonia",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "kosner",
+        "placement": "front",
+        "source": {
+          "name": "Baskonia, Kosner Baskonia naming announcement",
+          "date": "2025-11-20",
+          "url": "https://www.baskonia.com/kosner-baskonia/",
+          "note": "Kosner naming sponsor since 2025"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Named Kosner Baskonia since 2025.",
     "change": null
   },
   {
@@ -2588,6 +3209,152 @@
     "change": null
   },
   {
+    "id": "bayern-munich-basketball-2026-27-home",
+    "clubId": "bayern-munich-basketball",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "benfica-2026-27-home",
+    "clubId": "benfica",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "emirates",
+        "placement": "front",
+        "source": {
+          "name": "Sportcal, 'Benfica and Emirates extend shirt sponsorship deal to 2029'",
+          "date": "2024-08-14",
+          "url": "https://www.sportcal.com/sponsorship/benfica-and-emirates-extend-shirt-sponsorship-deal-to-2029/"
+        }
+      },
+      {
+        "sponsorId": "betano",
+        "placement": "sleeve",
+        "source": {
+          "name": "Sportcal, 'Benfica and Emirates extend shirt sponsorship deal to 2029' (notes Betano sleeve renewal through 2026-27)",
+          "date": "2024-08-14",
+          "url": "https://www.sportcal.com/sponsorship/benfica-and-emirates-extend-shirt-sponsorship-deal-to-2029/"
+        }
+      },
+      {
+        "sponsorId": "sagres",
+        "placement": "back",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Emirates front; Sagres back)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Front paid for by the Government of Dubai via Emirates.",
+    "change": null
+  },
+  {
+    "id": "besiktas-basketball-2026-27-home",
+    "clubId": "besiktas-basketball",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "birmingham-city-w-2026-27-home",
+    "clubId": "birmingham-city-w",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "coral",
+        "placement": "front",
+        "source": {
+          "name": "Gambling News",
+          "date": "2026-07-28",
+          "url": "https://www.gamblingnews.com/news/birmingham-city-welcomes-entains-coral-as-front-of-shirt-sponsor-in-2026-27/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Entain's Coral betting brand sits on the front of the Birmingham City Women shirt, its first front-of-shirt deal.",
+    "change": {
+      "kind": "worse",
+      "text": "Worse than last season: Coral took the front",
+      "badge": "+ Coral"
+    }
+  },
+  {
+    "id": "bk8-gresini-racing-motogp-2026-home",
+    "clubId": "bk8-gresini-racing-motogp",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "bk8",
+        "placement": "front",
+        "source": {
+          "name": "MotoGP.com - 'Pure essence': BK8 Gresini Racing MotoGP unveil 2026 colours",
+          "date": "2026-01-31",
+          "url": "https://www.motogp.com/en/news/2026/01/31/pure-essence-bk8-gresini-racing-motogp-unveil-2026-colours/826840"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "black-foils-nz-2026-home",
+    "clubId": "black-foils-nz",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "itm",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - New Zealand Black Foils (Official Partners)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/new-zealand/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "New Zealand's Black Foils carry no title sponsor; ITM and AGP are official partners and Sky City and Zhik suppliers.",
+    "change": null
+  },
+  {
     "id": "bologna-2026-27-home",
     "clubId": "bologna",
     "season": "2026-27",
@@ -2610,6 +3377,49 @@
     "sponsorsComplete": false,
     "change": null,
     "summary": null
+  },
+  {
+    "id": "bonds-flying-roos-2026-home",
+    "clubId": "bonds-flying-roos",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "bonds",
+        "placement": "front",
+        "source": {
+          "name": "SailGP - Hugh Jackman and Ryan Reynolds announced as co-owners of BONDS Flying Roos Australia SailGP Team",
+          "date": "2025-06-05",
+          "url": "https://www.sailgp.com/news/25/hugh-jackman-ryan-reynolds-announced-co-owners-bonds-flying-roos-australia-sailgp-team/",
+          "note": "Team rebranded BONDS Flying Roos with BONDS as title sponsor; carries the name on the F50 and team identity."
+        }
+      },
+      {
+        "sponsorId": "monday-com",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - BONDS Flying Roos (Global Partners)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/australia/"
+        }
+      },
+      {
+        "sponsorId": "blueberry",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - BONDS Flying Roos (Team Partners)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/australia/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Sailing, not shirts: the team's naming partner Bonds carries the boat livery and identity; mapped to 'front'. Monday.com (Global Partner) and Blueberry (Team Partner) ride the partner block.",
+    "change": null
   },
   {
     "id": "borussia-dortmund-2026-27-home",
@@ -2738,6 +3548,48 @@
     "change": null
   },
   {
+    "id": "braga-2026-27-home",
+    "clubId": "braga",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "solverde",
+        "placement": "front",
+        "source": {
+          "name": "SC Braga official sponsors page (Solverde listed first among Patrocinadores Principais)",
+          "date": "2026-09",
+          "url": "https://www.scbraga.pt/pt/sponsors"
+        }
+      },
+      {
+        "sponsorId": "soleo",
+        "placement": "front",
+        "source": {
+          "name": "SC Braga official sponsors page (Soleo among Patrocinadores Principais)",
+          "date": "2026-09",
+          "url": "https://www.scbraga.pt/pt/sponsors"
+        }
+      },
+      {
+        "sponsorId": "tek4life",
+        "placement": "sleeve",
+        "source": {
+          "name": "SC Braga official sponsors page (Tek4life among Patrocinadores Principais)",
+          "date": "2026-09",
+          "url": "https://www.scbraga.pt/pt/sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Front of the shirt carries Solverde.pt (Grupo Solverde) and Soleo; sleeve Tek4life. Qatar Sports Investments (QSI, via the Qatar Investment Authority) holds about 29.6% of the football SAD.",
+    "change": null
+  },
+  {
     "id": "brentford-2026-27-home",
     "clubId": "brentford",
     "season": "2026-27",
@@ -2805,6 +3657,20 @@
     ],
     "sponsorsComplete": true,
     "summary": "A listed US company with no state owner. Nothing found.",
+    "change": null
+  },
+  {
+    "id": "brighton-and-hove-albion-w-2026-27-home",
+    "clubId": "brighton-and-hove-albion-w",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
     "change": null
   },
   {
@@ -2976,6 +3842,39 @@
     "summary": "Sardegna Turismo is the main shirt sponsor; Doppio Malto is the front-of-shirt on the kit (club announcement). Both reported as one front deal."
   },
   {
+    "id": "canyon-sram-zondacrypto-2026-home",
+    "clubId": "canyon-sram-zondacrypto",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "canyon",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+          "date": "2026-08-05",
+          "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "sram",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+          "date": "2026-08-05",
+          "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI Women's WorldTeam. UCI registration keeps 'zondacrypto' but both Cyclist (2026-07-14) and The Inner Ring (2026-08-05) report zondacrypto was dropped mid-2026 and the team races as Canyon-SRAM.",
+    "change": null
+  },
+  {
     "id": "carolina-panthers-2026-27-home",
     "clubId": "carolina-panthers",
     "season": "2026-27",
@@ -2997,6 +3896,39 @@
     ],
     "sponsorsComplete": true,
     "summary": "Practice-jersey patch: Atrium Health.",
+    "change": null
+  },
+  {
+    "id": "casa-pia-2026-27-home",
+    "clubId": "casa-pia",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "bwin",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      },
+      {
+        "sponsorId": "hospital-da-luz",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Hospital da Luz front)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Entain plc via Bwin; Hospital da Luz also on the front.",
     "change": null
   },
   {
@@ -3115,6 +4047,44 @@
     "change": null
   },
   {
+    "id": "charlton-athletic-w-2026-27-home",
+    "clubId": "charlton-athletic-w",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "rsk-group",
+        "placement": "front",
+        "source": {
+          "name": "Charlton Athletic FC, official announcement",
+          "date": "2025-05-22",
+          "url": "https://www.cafc.co.uk/news/charlton-announce-new-partnership-rsk"
+        }
+      },
+      {
+        "sponsorId": "todaytix",
+        "placement": "back",
+        "source": {
+          "name": "Charlton Athletic FC, TodayTix announcement",
+          "date": "2026-06-30",
+          "url": "https://www.cafc.co.uk/news/todaytix-announced-official-experience-partner",
+          "note": "Two-year deal from June 2026 puts the TodayTix logo on the back of the men's and women's first-team shirts; confirmed on the 2026/27 Reebok home kit (2 Jul 2026) and away kit (19 Aug 2026), which women's first-teamers modelled."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "RSK Group, a UK engineering and environmental services group, fronts the Charlton Women shirt, with TodayTix on the back.",
+    "change": {
+      "kind": "better",
+      "text": "New to the WSL: promoted from WSL2 as play-off winners",
+      "badge": "Promoted"
+    }
+  },
+  {
     "id": "chelsea-2026-27-home",
     "clubId": "chelsea",
     "season": "2026-27",
@@ -3138,6 +4108,51 @@
     ],
     "sponsorsComplete": true,
     "summary": "No front-of-shirt sponsor at the start of the season (SportsPro).",
+    "change": null
+  },
+  {
+    "id": "chelsea-w-2026-27-home",
+    "clubId": "chelsea-w",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "circle-usdc",
+        "placement": "front",
+        "source": {
+          "name": "Chelsea FC, Circle partner page",
+          "date": "2026-09-25",
+          "url": "https://www.chelseafc.com/en/circle",
+          "note": "Circle Internet Group is a Principal Partner and official front-of-shirt partner beginning with the 2026/27 season; in 2026/27 the Circle and USDC brands appear on the front of Chelsea's Men's, Women's and Academy shirts."
+        }
+      },
+      {
+        "sponsorId": "skoda",
+        "placement": "back",
+        "source": {
+          "name": "Chelsea FC, Škoda partner page",
+          "date": "2026-09-25",
+          "url": "https://www.chelseafc.com/en/skoda",
+          "note": "Chelsea FC Women first teamed up with Škoda UK at the start of 2024 as Official Car Partner; the May 2025 extension established Škoda as Chelsea Women's first Official Back of Shirt Partner."
+        }
+      },
+      {
+        "sponsorId": "here-we-flo",
+        "placement": "shorts",
+        "source": {
+          "name": "Chelsea FC, Here We Flo partner page",
+          "date": "2026-09-25",
+          "url": "https://www.chelseafc.com/en/partner-page-flo",
+          "note": "Here We Flo is Chelsea FC Women's Official Back of Short partner."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Circle's USDC stablecoin takes the front of the Chelsea Women shirt, with Škoda on the back and Here We Flo on the shorts.",
     "change": null
   },
   {
@@ -3309,6 +4324,53 @@
     "change": null
   },
   {
+    "id": "citroen-racing-2025-26-home",
+    "clubId": "citroen-racing",
+    "season": "2025-26",
+    "kitType": "home",
+    "periodLabel": "Season 12 (2025/26)",
+    "periodFrom": "2025-26",
+    "periodTo": "2025-26",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "cleeks-gc-2026-home",
+    "clubId": "cleeks-gc",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "icelandic-glacial",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Cleeks GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/cleeks-gc"
+        }
+      },
+      {
+        "sponsorId": "new-era",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Cleeks GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/cleeks-gc"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Team partners 2026: Icelandic Glacial, New Era. Captain: Martin Kaymer.",
+    "change": null
+  },
+  {
     "id": "cleveland-browns-2026-27-home",
     "clubId": "cleveland-browns",
     "season": "2026-27",
@@ -3378,6 +4440,31 @@
     ],
     "sponsorsComplete": true,
     "summary": "Jersey patch: Marathon.",
+    "change": null
+  },
+  {
+    "id": "club-africain-2026-home",
+    "clubId": "club-africain",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visit-rwanda",
+        "placement": "league-partner",
+        "source": {
+          "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+          "date": "2023-06-19",
+          "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
     "change": null
   },
   {
@@ -3512,6 +4599,118 @@
     "change": null
   },
   {
+    "id": "crushers-gc-2026-home",
+    "clubId": "crushers-gc",
+    "season": "2026",
+    "kitType": "home",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "periodLabel": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "reebok",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Crushers GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/crushers-gc"
+        }
+      },
+      {
+        "sponsorId": "qualcomm",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Crushers GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/crushers-gc"
+        }
+      },
+      {
+        "sponsorId": "salesforce",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Crushers GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/crushers-gc"
+        }
+      },
+      {
+        "sponsorId": "google-cloud",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Crushers GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/crushers-gc"
+        }
+      },
+      {
+        "sponsorId": "kalshi",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Crushers GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/crushers-gc"
+        }
+      },
+      {
+        "sponsorId": "hsbc",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Crushers GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/crushers-gc"
+        }
+      },
+      {
+        "sponsorId": "new-era",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Crushers GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/crushers-gc"
+        }
+      },
+      {
+        "sponsorId": "underdog",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Crushers GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/crushers-gc"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Team partners 2026: Reebok, Qualcomm, Salesforce, Google Cloud, Kalshi, HSBC, New Era, Underdog. Captain: Bryson DeChambeau.",
+    "change": null
+  },
+  {
+    "id": "crvena-zvezda-2026-27-home",
+    "clubId": "crvena-zvezda",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "meridianbet",
+        "placement": "partner",
+        "source": {
+          "name": "GlobeNewswire, Meridianbet emblem-integration deal with BC Crvena Zvezda (Wayback snapshot 14 Jan 2026)",
+          "date": "2024-11-21",
+          "url": "https://web.archive.org/web/20260114162714/https://www.globenewswire.com/news-release/2024/11/21/2984929/0/en/Meridianbet-Redefines-Sports-Sponsorship-with-Europe-s-First-Emblem-Integration-Deal-with-BC-Crvena-Zvezda.html",
+          "note": "Naming sponsor Crvena zvezda Meridianbet since 2023; logo integrated in club emblem"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
     "id": "crystal-palace-2026-27-home",
     "clubId": "crystal-palace",
     "season": "2026-27",
@@ -3543,6 +4742,112 @@
       }
     ],
     "sponsorsComplete": true,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "crystal-palace-w-2026-27-home",
+    "clubId": "crystal-palace-w",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "cska-moscow-2026-27-home",
+    "clubId": "cska-moscow",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "veb-rf",
+        "placement": "front",
+        "source": {
+          "name": "PFC CSKA – Partners",
+          "date": "2026-09-25",
+          "url": "https://pfc-cska.com/ru/club/partneryi/",
+          "note": "Титульный партнер ВЭБ.РФ."
+        }
+      },
+      {
+        "sponsorId": "fonbet",
+        "placement": "back",
+        "source": {
+          "name": "PFC CSKA – Partners",
+          "date": "2026-09-25",
+          "url": "https://pfc-cska.com/ru/club/partneryi/",
+          "note": "Официальный партнер FONBET; FONBET BAR lounge on the arena named in its description."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "VEB.RF title partner and Fonbet official partner per the club partners page; shirt placements not confirmed against a kit launch.",
+    "change": null
+  },
+  {
+    "id": "cska-moscow-hockey-2026-27-home",
+    "clubId": "cska-moscow-hockey",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "rosneft",
+        "placement": "partner",
+        "source": {
+          "name": "HC CSKA Moscow official site, partners page",
+          "date": "2026-09-25",
+          "url": "https://cska-hockey.ru/club/partners/"
+        }
+      },
+      {
+        "sponsorId": "olimpbet",
+        "placement": "partner",
+        "source": {
+          "name": "HC CSKA Moscow official site, partners page",
+          "date": "2026-09-25",
+          "url": "https://cska-hockey.ru/club/partners/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. Rosneft general sponsor and Olimpbet official partner per the club partners page; front-of-shirt sponsor not yet sourced.",
+    "change": null
+  },
+  {
+    "id": "cupra-kiro-2025-26-home",
+    "clubId": "cupra-kiro",
+    "season": "2025-26",
+    "kitType": "home",
+    "periodLabel": "Season 12 (2025/26)",
+    "periodFrom": "2025-26",
+    "periodTo": "2025-26",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "cupra",
+        "placement": "front",
+        "source": {
+          "name": "FIA Formula E - Cupra Kiro team page (CUPRA in team name)",
+          "date": "2026-09-25",
+          "url": "https://www.fiaformulae.com/en/teams/cupra-kiro"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
     "summary": null,
     "change": null
   },
@@ -3592,6 +4897,31 @@
     ],
     "sponsorsComplete": true,
     "summary": "Jersey patch: JPMorganChase (Chase).",
+    "change": null
+  },
+  {
+    "id": "dar-city-2026-home",
+    "clubId": "dar-city",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visit-rwanda",
+        "placement": "league-partner",
+        "source": {
+          "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+          "date": "2023-06-19",
+          "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
     "change": null
   },
   {
@@ -3893,6 +5223,248 @@
     "change": null
   },
   {
+    "id": "ds-automobiles-france-2026-home",
+    "clubId": "ds-automobiles-france",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "ds-automobiles",
+        "placement": "front",
+        "source": {
+          "name": "SailGP team page - DS Automobiles France (Title Partner)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/france/"
+        }
+      },
+      {
+        "sponsorId": "accor",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - France (Global Partners: ALL - Accor Live Limitless)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/france/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Stellantis marque DS Automobiles is France's Title Partner; ALL - Accor Live Limitless leads the global-partner block.",
+    "change": null
+  },
+  {
+    "id": "ds-penske-2025-26-home",
+    "clubId": "ds-penske",
+    "season": "2025-26",
+    "kitType": "home",
+    "periodLabel": "Season 12 (2025/26)",
+    "periodFrom": "2025-26",
+    "periodTo": "2025-26",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "ds-automobiles",
+        "placement": "front",
+        "source": {
+          "name": "FIA Formula E - DS Penske team page (DS in team name)",
+          "date": "2026-09-25",
+          "url": "https://www.fiaformulae.com/en/teams/ds-penske"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "dubai-basketball-2026-27-home",
+    "clubId": "dubai-basketball",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "det-dubai",
+        "placement": "back",
+        "source": {
+          "name": "Dubai Media Office, Dubai Department of Economy and Tourism partners with Dubai Basketball",
+          "date": "2025-01-31",
+          "url": "https://mediaoffice.ae/en/news/2025/january/31-01/dubai-department-of-economy-and-tourism-partners-with-dubai-basketball",
+          "note": "Dubai logo and visitdubai.com on the back of the shirts"
+        }
+      },
+      {
+        "sponsorId": "dnata",
+        "placement": "front",
+        "source": {
+          "name": "dnata media centre, dnata nets three-year deal with Dubai Basketball as Founding Partner",
+          "date": "2025-09-18",
+          "url": "https://www.dnata.com/media-centre/dnata-nets-three-year-deal-with-dubai-basketball-as-founding-partner/",
+          "note": "dnata branding on official jerseys (3-year Founding Partner)"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "ducati-lenovo-team-2026-home",
+    "clubId": "ducati-lenovo-team",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "lenovo",
+        "placement": "front",
+        "source": {
+          "name": "MotoGP.com - Revealed: Ducati celebrate 100 with stunning new livery",
+          "date": "2026-01-19",
+          "url": "https://www.motogp.com/en/news/2026/01/19/revealed-ducati-celebrate-100-with-stunning-new-livery/825628"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "dynamo-makhachkala-2026-27-home",
+    "clubId": "dynamo-makhachkala",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "magnit",
+        "placement": "front",
+        "source": {
+          "name": "FC Dynamo Makhachkala – Club partners",
+          "date": "2026-09-25",
+          "url": "https://dinamo-mx.ru/",
+          "note": "Магнит (Основа) in the club partners carousel."
+        }
+      },
+      {
+        "sponsorId": "betcity",
+        "placement": "back",
+        "source": {
+          "name": "FC Dynamo Makhachkala – Club partners",
+          "date": "2026-09-25",
+          "url": "https://dinamo-mx.ru/",
+          "note": "Бетсити first in the club partners carousel."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Magnit and Betcity in the club partners carousel; shirt placements not confirmed against a kit launch.",
+    "change": null
+  },
+  {
+    "id": "dynamo-minsk-2026-27-home",
+    "clubId": "dynamo-minsk",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "gazprom-transgaz-belarus",
+        "placement": "partner",
+        "source": {
+          "name": "HC Dinamo Minsk official site, partners page",
+          "date": "2026-09-25",
+          "url": "https://hcdinamo.by/club/partners/"
+        }
+      },
+      {
+        "sponsorId": "maxline",
+        "placement": "partner",
+        "source": {
+          "name": "HC Dinamo Minsk official site, partners page",
+          "date": "2026-09-25",
+          "url": "https://hcdinamo.by/club/partners/"
+        }
+      },
+      {
+        "sponsorId": "belavia",
+        "placement": "partner",
+        "source": {
+          "name": "HC Dinamo Minsk official site, partners page",
+          "date": "2026-09-25",
+          "url": "https://hcdinamo.by/club/partners/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. Gazprom transgaz Belarus general partner, Maxline official partner, Belavia partner per the club site; front-of-shirt sponsor not yet sourced.",
+    "change": null
+  },
+  {
+    "id": "dynamo-moscow-2026-27-home",
+    "clubId": "dynamo-moscow",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "vtb",
+        "placement": "front",
+        "source": {
+          "name": "FC Dynamo Moscow – site footer partners",
+          "date": "2026-09-25",
+          "url": "https://fcdynamo.ru/",
+          "note": "VTB listed first among club partners."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "VTB shirt sponsor per the club site footer; exact placement not confirmed against a kit launch.",
+    "change": null
+  },
+  {
+    "id": "dynamo-moscow-hockey-2026-27-home",
+    "clubId": "dynamo-moscow-hockey",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "vtb",
+        "placement": "partner",
+        "source": {
+          "name": "HC Dynamo Moscow official site",
+          "date": "2026-09-25",
+          "url": "https://dynamo.ru/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. VTB shown as the club's general sponsor on the official site; front-of-shirt sponsor not yet sourced.",
+    "change": null
+  },
+  {
     "id": "ef-education-easypost-2026-home",
     "clubId": "ef-education-easypost",
     "season": "2026",
@@ -3923,6 +5495,39 @@
     ],
     "sponsorsComplete": false,
     "summary": "2026 UCI WorldTeam. EF Education-EasyPost's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "ef-education-oatly-2026-home",
+    "clubId": "ef-education-oatly",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "ef-education-first",
+        "placement": "front",
+        "source": {
+          "name": "EF Pro Cycling - Partners page (EF Education First and Oatly logos)",
+          "date": "2026-09-25",
+          "url": "https://efprocycling.com/partners/"
+        }
+      },
+      {
+        "sponsorId": "oatly",
+        "placement": "front",
+        "source": {
+          "name": "EF Pro Cycling - Partners page (EF Education First and Oatly logos)",
+          "date": "2026-09-25",
+          "url": "https://efprocycling.com/partners/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI Women's WorldTeam co-sponsored by EF Education First and Oatly, both shown as title partners on the team's partners page.",
     "change": null
   },
   {
@@ -3985,6 +5590,91 @@
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
           "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "emirates-great-britain-2026-home",
+    "clubId": "emirates-great-britain",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "emirates",
+        "placement": "front",
+        "source": {
+          "name": "Emirates media centre - Emirates signs on as global partner and exclusive airline partner of SailGP",
+          "date": "2024-11-14",
+          "url": "https://www.emirates.com/media-centre/emirates-signs-on-as-global-partner-and-exclusive-airline-partner-of-sailgp/",
+          "note": "Five-season global sponsorship from Nov 2024; Emirates is Title Partner of the Emirates Great Britain SailGP Team and its Portsmouth home event."
+        }
+      },
+      {
+        "sponsorId": "howden",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - Emirates Great Britain (Global Partners)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+        }
+      },
+      {
+        "sponsorId": "jpmorgan-chase",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - Emirates Great Britain (Global Partners)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+        }
+      },
+      {
+        "sponsorId": "jumeirah",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - Emirates Great Britain (Global Partners)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+        }
+      },
+      {
+        "sponsorId": "eqt",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - Emirates Great Britain (Global Partners)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Dubai's state airline owns the name on Britain's boat: Emirates is Title Partner of the defending champions.",
+    "change": null
+  },
+  {
+    "id": "envision-racing-2025-26-home",
+    "clubId": "envision-racing",
+    "season": "2025-26",
+    "kitType": "home",
+    "periodLabel": "Season 12 (2025/26)",
+    "periodFrom": "2025-26",
+    "periodTo": "2025-26",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "paysafe",
+        "placement": "front",
+        "source": {
+          "name": "FIA Formula E - Paysafe Envision announcement (new Title Partner from 2026-27)",
+          "date": "2026-09-14",
+          "url": "https://www.fiaformulae.com/en/news/drivers/max-guenther-joins-forces-with-paysafe-envision-racing-for-2026-27-formula-e-season"
         }
       }
     ],
@@ -4104,6 +5794,54 @@
     "change": null
   },
   {
+    "id": "estoril-praia-2026-27-home",
+    "clubId": "estoril-praia",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "solverde",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Solverde.pt main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Grupo Solverde via Solverde.pt.",
+    "change": null
+  },
+  {
+    "id": "estrela-amadora-2026-27-home",
+    "clubId": "estrela-amadora",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "lebull",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Lebull main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Southern Stingray, S.A. via Lebull.",
+    "change": null
+  },
+  {
     "id": "everton-2026-27-home",
     "clubId": "everton",
     "season": "2026-27",
@@ -4136,6 +5874,80 @@
     ],
     "sponsorsComplete": true,
     "summary": null,
+    "change": null
+  },
+  {
+    "id": "everton-w-2026-27-home",
+    "clubId": "everton-w",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "ggm-gastro",
+        "placement": "shorts",
+        "source": {
+          "name": "Everton FC, official announcement (club news CMS)",
+          "date": "2025-10-10",
+          "url": "https://www.evertonfc.com/news/2025/october/10/everton-women-partner-with-ggm-gastro/",
+          "note": "GGM Gastro became an Official Partner of Everton Women in their first season at Goodison Park, with the brand mark on the back of the shorts worn by Everton Women; article body read via the club's news CMS (article bf9b9b90-a5c2-11f0-a06d-1b26a8313bb6)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "German catering-equipment supplier GGM Gastro pays for the back of the Everton Women shorts.",
+    "change": null
+  },
+  {
+    "id": "fakel-voronezh-2026-27-home",
+    "clubId": "fakel-voronezh",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "ekoniva",
+        "placement": "front",
+        "source": {
+          "name": "FC Fakel – Partners",
+          "date": "2026-09-25",
+          "url": "https://fakelfc.ru/partners",
+          "note": "Эконива (ekoniva-moloko.com) listed among club partners."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Ekoniva listed among club partners; shirt placement not confirmed against a kit launch.",
+    "change": null
+  },
+  {
+    "id": "famalicao-2026-27-home",
+    "clubId": "famalicao",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "bwin",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Entain plc via Bwin.",
     "change": null
   },
   {
@@ -4342,6 +6154,86 @@
     "change": null
   },
   {
+    "id": "fdj-united-suez-women-2026-home",
+    "clubId": "fdj-united-suez-women",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "fdj",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+          "date": "2026-08-05",
+          "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "suez",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI Women's WorldTeam named for FDJ United and Suez; The Inner Ring also notes blue-chip jersey partners Gan insurance and CB.",
+    "change": null
+  },
+  {
+    "id": "fenerbahce-basketball-2026-27-home",
+    "clubId": "fenerbahce-basketball",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "fenix-premier-tech-2026-home",
+    "clubId": "fenix-premier-tech",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "fenix",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      },
+      {
+        "sponsorId": "premier-tech",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI Women's WorldTeam; Fenix (Arpa Industriale) and Premier Tech as co-title sponsors in the team name and jersey.",
+    "change": null
+  },
+  {
     "id": "ferrari-2026-home",
     "clubId": "ferrari",
     "season": "2026",
@@ -4448,6 +6340,48 @@
     "summary": null
   },
   {
+    "id": "fireballs-gc-2026-home",
+    "clubId": "fireballs-gc",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "mip",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Fireballs GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/fireballs-gc"
+        }
+      },
+      {
+        "sponsorId": "fever",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Fireballs GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/fireballs-gc"
+        }
+      },
+      {
+        "sponsorId": "new-era",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Fireballs GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/fireballs-gc"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Team partners 2026: MIP (Mexico Infrastructure Partners), Fever, New Era. Captain: Sergio Garcia.",
+    "change": null
+  },
+  {
     "id": "frosinone-2026-27-home",
     "clubId": "frosinone",
     "season": "2026-27",
@@ -4507,6 +6441,31 @@
     "change": null
   },
   {
+    "id": "fus-de-rabat-2026-home",
+    "clubId": "fus-de-rabat",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visit-rwanda",
+        "placement": "league-partner",
+        "source": {
+          "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+          "date": "2023-06-19",
+          "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+    "change": null
+  },
+  {
     "id": "genoa-2026-27-home",
     "clubId": "genoa",
     "season": "2026-27",
@@ -4529,6 +6488,48 @@
     "sponsorsComplete": false,
     "change": null,
     "summary": null
+  },
+  {
+    "id": "germany-sailgp-2026-home",
+    "clubId": "germany-sailgp",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "deutsche-bank",
+        "placement": "front",
+        "source": {
+          "name": "SailGP team page - Germany presented by Deutsche Bank (Title Partner)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/germany/"
+        }
+      },
+      {
+        "sponsorId": "riedel",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - Germany (Official Partner)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/germany/"
+        }
+      },
+      {
+        "sponsorId": "viessmann",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - Germany (Official Partner)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/germany/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Deutsche Bank presents Germany's team; Riedel - whose founder owns the team - and Viessmann are official partners.",
+    "change": null
   },
   {
     "id": "getafe-2026-27-home",
@@ -4571,6 +6572,30 @@
     ],
     "sponsorsComplete": false,
     "summary": null,
+    "change": null
+  },
+  {
+    "id": "gil-vicente-2026-27-home",
+    "clubId": "gil-vicente",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "goldenpark",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Goldenpark Casino main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Azartia Games, S.A. via Goldenpark.",
     "change": null
   },
   {
@@ -4776,6 +6801,68 @@
     "change": null
   },
   {
+    "id": "hapoel-tel-aviv-2026-27-home",
+    "clubId": "hapoel-tel-aviv",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "honda-hrc-castrol-2026-home",
+    "clubId": "honda-hrc-castrol",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "castrol",
+        "placement": "front",
+        "source": {
+          "name": "MotoGP.com - Honda HRC Castrol reveal 2026 colours",
+          "date": "2026-02-02",
+          "url": "https://www.motogp.com/en/news/2026/02/02/honda-hrc-castrol-reveal-2026-colours/827209"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "honda-lcr-2026-home",
+    "clubId": "honda-lcr",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "castrol",
+        "placement": "front",
+        "source": {
+          "name": "MotoGP.com - Zarco's Castrol Honda LCR & Moreira's all-new Pro Honda LCR liveries revealed",
+          "date": "2026-02-01",
+          "url": "https://www.motogp.com/en/news/2026/02/01/zarcos-castrol-honda-lcr-moreiras-all-new-pro-honda-lcr-liveries-revealed/827151"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
     "id": "houston-astros-2026-27-home",
     "clubId": "houston-astros",
     "season": "2026-27",
@@ -4904,6 +6991,81 @@
     ],
     "sponsorsComplete": true,
     "summary": null,
+    "change": null
+  },
+  {
+    "id": "human-powered-health-women-2026-home",
+    "clubId": "human-powered-health-women",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "human-powered-health",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+          "date": "2026-08-05",
+          "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI Women's WorldTeam named for its title sponsor Human Powered Health, a US health company (Optum/UnitedHealth).",
+    "change": null
+  },
+  {
+    "id": "hyflyers-gc-2026-home",
+    "clubId": "hyflyers-gc",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "primo-golf-apparel",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - HyFlyers GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/hyflyers-gc"
+        }
+      },
+      {
+        "sponsorId": "rolex",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - HyFlyers GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/hyflyers-gc"
+        }
+      },
+      {
+        "sponsorId": "vistajet",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - HyFlyers GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/hyflyers-gc"
+        }
+      },
+      {
+        "sponsorId": "new-era",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - HyFlyers GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/hyflyers-gc"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Team partners 2026: Primo Golf Apparel, Rolex, VistaJet, New Era. Captain: Phil Mickelson.",
     "change": null
   },
   {
@@ -5095,6 +7257,80 @@
     "change": null
   },
   {
+    "id": "jaguar-tcs-racing-2025-26-home",
+    "clubId": "jaguar-tcs-racing",
+    "season": "2025-26",
+    "kitType": "home",
+    "periodLabel": "Season 12 (2025/26)",
+    "periodFrom": "2025-26",
+    "periodTo": "2025-26",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "tcs",
+        "placement": "front",
+        "source": {
+          "name": "FIA Formula E - Jaguar TCS Racing team page (TCS in team name)",
+          "date": "2026-09-25",
+          "url": "https://www.fiaformulae.com/en/teams/jaguar-tcs-racing"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "jca-kings-2026-home",
+    "clubId": "jca-kings",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visit-rwanda",
+        "placement": "league-partner",
+        "source": {
+          "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+          "date": "2023-06-19",
+          "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+    "change": null
+  },
+  {
+    "id": "johannesburg-giants-2026-home",
+    "clubId": "johannesburg-giants",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visit-rwanda",
+        "placement": "league-partner",
+        "source": {
+          "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+          "date": "2023-06-19",
+          "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+    "change": null
+  },
+  {
     "id": "juventus-2026-27-home",
     "clubId": "juventus",
     "season": "2026-27",
@@ -5167,6 +7403,87 @@
     "change": null
   },
   {
+    "id": "korean-golf-club-2026-home",
+    "clubId": "korean-golf-club",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "amazing-cre",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Korean Golf Club team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/korean-golf-club"
+        }
+      },
+      {
+        "sponsorId": "plus",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Korean Golf Club team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/korean-golf-club"
+        }
+      },
+      {
+        "sponsorId": "new-era",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Korean Golf Club team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/korean-golf-club"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Team partners 2026: Amazing CRE, PLUS, New Era. Captain: Byeong Hun An. Renamed from Iron Heads GC for 2026.",
+    "change": null
+  },
+  {
+    "id": "krasnodar-2026-27-home",
+    "clubId": "krasnodar",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "Winline is a named club partner; front-shirt placement not confirmed against a kit launch.",
+    "change": null
+  },
+  {
+    "id": "krylia-sovetov-2026-27-home",
+    "clubId": "krylia-sovetov",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "fonbet",
+        "placement": "front",
+        "source": {
+          "name": "PFC Krylia Sovetov – Sponsors and partners",
+          "date": "2026-09-25",
+          "url": "https://pfcks.ru/stranitsa-sponsorov/",
+          "note": "Fonbet is the first (large-tier) sponsor on the club's sponsors page."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Fonbet leads the club sponsors page; front-shirt placement not confirmed against a kit launch.",
+    "change": null
+  },
+  {
     "id": "la-clippers-2026-27-home",
     "clubId": "la-clippers",
     "season": "2026-27",
@@ -5236,6 +7553,30 @@
     ],
     "sponsorsComplete": true,
     "summary": "Practice-jersey patch: Hyundai (Hyundai Motor America).",
+    "change": null
+  },
+  {
+    "id": "lada-tolyatti-2026-27-home",
+    "clubId": "lada-tolyatti",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "avtovaz",
+        "placement": "partner",
+        "source": {
+          "name": "HC Lada official site, club partners page",
+          "date": "2026-09-25",
+          "url": "https://hclada.ru/club/partners/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. LADA (AvtoVAZ) title sponsor per the club partners page, which also lists the club's founders; front-of-shirt sponsor not yet sourced.",
     "change": null
   },
   {
@@ -5441,6 +7782,75 @@
     "change": null
   },
   {
+    "id": "legion-xiii-2026-home",
+    "clubId": "legion-xiii",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "callaway",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Legion XIII team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/legion-xiii"
+        }
+      },
+      {
+        "sponsorId": "greyson",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Legion XIII team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/legion-xiii"
+        }
+      },
+      {
+        "sponsorId": "openbank",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Legion XIII team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/legion-xiii"
+        }
+      },
+      {
+        "sponsorId": "rolex",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Legion XIII team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/legion-xiii"
+        }
+      },
+      {
+        "sponsorId": "new-era",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Legion XIII team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/legion-xiii"
+        }
+      },
+      {
+        "sponsorId": "sowayoga",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Legion XIII team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/legion-xiii"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Team partners 2026: Callaway, Greyson, Openbank, Rolex, New Era, SowaYoga. Captain: Jon Rahm.",
+    "change": null
+  },
+  {
     "id": "levante-2026-27-home",
     "clubId": "levante",
     "season": "2026-27",
@@ -5517,6 +7927,39 @@
     "change": null
   },
   {
+    "id": "lidl-trek-women-2026-home",
+    "clubId": "lidl-trek-women",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "lidl",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+          "date": "2026-08-05",
+          "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "trek",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI Women's WorldTeam; Lidl (majority owner of the team per Cyclist) and Trek carry the team name on the jersey.",
+    "change": null
+  },
+  {
     "id": "lille-osc-2026-27-home",
     "clubId": "lille-osc",
     "season": "2026-27",
@@ -5577,6 +8020,48 @@
     "change": null
   },
   {
+    "id": "liv-alula-jayco-2026-home",
+    "clubId": "liv-alula-jayco",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "alula",
+        "placement": "front",
+        "source": {
+          "name": "GreenEDGE Cycling - Partners 2026 page (Experience AlUla logo, links to experiencealula.com)",
+          "date": "2026-09-25",
+          "url": "https://greenedgecycling.com/2026/2025partners/"
+        }
+      },
+      {
+        "sponsorId": "jayco",
+        "placement": "front",
+        "source": {
+          "name": "GreenEDGE Cycling - Partners 2026 page (Jayco logo, links to jayco.com.au)",
+          "date": "2026-09-25",
+          "url": "https://greenedgecycling.com/2026/2025partners/"
+        }
+      },
+      {
+        "sponsorId": "liv",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring - Women's Pro Team Sponsors Explained (Liv AlUla Jayco co-title sponsors)",
+          "date": "2026-08-05",
+          "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI Women's WorldTeam. Liv (Giant's women's brand), Jayco and Saudi state brand AlUla carry the team name on the jersey; AlUla is run by the Royal Commission for AlUla, a Saudi government agency.",
+    "change": null
+  },
+  {
     "id": "liverpool-2026-27-home",
     "clubId": "liverpool",
     "season": "2026-27",
@@ -5610,6 +8095,101 @@
     "sponsorsComplete": true,
     "summary": null,
     "change": null
+  },
+  {
+    "id": "liverpool-w-2026-27-home",
+    "clubId": "liverpool-w",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "lokomotiv-moscow-2026-27-home",
+    "clubId": "lokomotiv-moscow",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "rzd",
+        "placement": "front",
+        "source": {
+          "name": "FC Lokomotiv – Partners",
+          "date": "2026-09-25",
+          "url": "https://www.fclm.ru/club/partners/",
+          "note": "\"ОАО «РЖД» Генеральный спонсор ФК «Локомотив»\"."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "RZD general sponsor of Lokomotiv; front-shirt placement follows the club's partner listing, not confirmed against a kit launch.",
+    "change": null
+  },
+  {
+    "id": "lokomotiv-yaroslavl-2026-27-home",
+    "clubId": "lokomotiv-yaroslavl",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+    "change": null
+  },
+  {
+    "id": "lola-yamaha-abt-2025-26-home",
+    "clubId": "lola-yamaha-abt",
+    "season": "2025-26",
+    "kitType": "home",
+    "periodLabel": "Season 12 (2025/26)",
+    "periodFrom": "2025-26",
+    "periodTo": "2025-26",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "london-city-lionesses-2026-27-home",
+    "clubId": "london-city-lionesses",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "nike",
+        "placement": "front",
+        "source": {
+          "name": "London City Lionesses, official announcement",
+          "date": "2026-09-03",
+          "url": "https://www.londoncitylionesses.com/post/london-city-lionesses-and-nike-announce-landmark-multi-year-deal"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Nike put its swoosh on the front of the London City Lionesses shirt in what owner Michele Kang calls a record women's shirt deal.",
+    "change": {
+      "kind": "better",
+      "text": "New to the WSL: promoted as WSL2 champions with Nike on the front",
+      "badge": "Promoted"
+    }
   },
   {
     "id": "los-angeles-angels-2026-27-home",
@@ -5732,6 +8312,39 @@
     "change": null
   },
   {
+    "id": "los-gallos-2026-home",
+    "clubId": "los-gallos",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "santander",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - Los Gallos Spain (Official Partners)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/spain/"
+        }
+      },
+      {
+        "sponsorId": "denza",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP - Los Gallos partner with DENZA for 2026 and 2027 SailGP Seasons",
+          "date": "2026-02-09",
+          "url": "https://www.sailgp.com/news/26/los-gallos-partner-denza-2026-2027-sailgp-seasons/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Spain's Los Gallos have no title partner; Santander and DENZA (2026-2027) are the official partners.",
+    "change": null
+  },
+  {
     "id": "lotto-intermarche-2026-home",
     "clubId": "lotto-intermarche",
     "season": "2026",
@@ -5762,6 +8375,34 @@
     ],
     "sponsorsComplete": false,
     "summary": "2026 UCI WorldTeam. Lotto Intermarché's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "maccabi-tel-aviv-2026-27-home",
+    "clubId": "maccabi-tel-aviv",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "mahindra-racing-2025-26-home",
+    "clubId": "mahindra-racing",
+    "season": "2025-26",
+    "kitType": "home",
+    "periodLabel": "Season 12 (2025/26)",
+    "periodFrom": "2025-26",
+    "periodTo": "2025-26",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
     "change": null
   },
   {
@@ -5796,6 +8437,109 @@
     ],
     "sponsorsComplete": false,
     "summary": null,
+    "change": null
+  },
+  {
+    "id": "majesticks-gc-2026-home",
+    "clubId": "majesticks-gc",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "genesys",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Majesticks GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/majesticks-gc"
+        }
+      },
+      {
+        "sponsorId": "hsbc",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Majesticks GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/majesticks-gc"
+        }
+      },
+      {
+        "sponsorId": "castore",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Majesticks GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/majesticks-gc"
+        }
+      },
+      {
+        "sponsorId": "destina",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Majesticks GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/majesticks-gc"
+        }
+      },
+      {
+        "sponsorId": "open-sky-group",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Majesticks GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/majesticks-gc"
+        }
+      },
+      {
+        "sponsorId": "seamless-digital",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Majesticks GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/majesticks-gc"
+        }
+      },
+      {
+        "sponsorId": "new-era",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Majesticks GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/majesticks-gc"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Team partners 2026: Genesys, HSBC, Castore, Destina, Open Sky Group, Seamless Digital, New Era. Led by Ian Poulter.",
+    "change": null
+  },
+  {
+    "id": "maktown-flyers-2026-home",
+    "clubId": "maktown-flyers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visit-rwanda",
+        "placement": "league-partner",
+        "source": {
+          "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+          "date": "2023-06-19",
+          "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
     "change": null
   },
   {
@@ -5887,6 +8631,35 @@
     "change": null
   },
   {
+    "id": "manchester-city-w-2026-27-home",
+    "clubId": "manchester-city-w",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "joie",
+        "placement": "shorts",
+        "source": {
+          "name": "Nursery Today: Joie announces new partnership with Manchester City Women",
+          "date": "2023-03-29",
+          "url": "https://nurserytoday.co.uk/2023/03/29/joie-announces-new-partnership-with-manchester-city-women/",
+          "quote": "Joie will see its logo on the back of the women's first team playing shorts for all fixtures for the period of the partnership.",
+          "checked": {
+            "on": "2026-09-27",
+            "by": "claude-review-282"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Joie on the back of the shorts. The front-of-shirt sponsor isn't sourced yet: the City Football Group page cited for Etihad doesn't mention the women's team.",
+    "change": null
+  },
+  {
     "id": "manchester-united-2026-27-home",
     "clubId": "manchester-united",
     "season": "2026-27",
@@ -5929,6 +8702,74 @@
     ],
     "sponsorsComplete": true,
     "summary": null,
+    "change": null
+  },
+  {
+    "id": "manchester-united-w-2026-27-home",
+    "clubId": "manchester-united-w",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "snapdragon",
+        "placement": "front",
+        "source": {
+          "name": "Manchester United, Microsoft Surface announcement",
+          "date": "2026-07-17",
+          "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1",
+          "note": "The article is about the Surface back-of-shirt deal; Snapdragon remains the shirt front from the existing club partnership (men's 2026/27 kit in normalized uses the same front). Women's-team-specific confirmation of the front placement not restated."
+        }
+      },
+      {
+        "sponsorId": "microsoft",
+        "placement": "back",
+        "source": {
+          "name": "Manchester United, Microsoft Surface announcement",
+          "date": "2026-07-17",
+          "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1",
+          "note": "Surface branding appears on the back of United Women's shirts across the 2026/27 campaign (men's domestic cup shirts and selected Academy kits covered separately)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Snapdragon fronts the Manchester United Women shirt with Microsoft Surface on the back for 2026/27.",
+    "change": null
+  },
+  {
+    "id": "maritimo-2026-27-home",
+    "clubId": "maritimo",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "bwin",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      },
+      {
+        "sponsorId": "madeira-tao-tua",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Madeira. Tão tua front)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Entain plc via Bwin; Madeira destination branding also on the front.",
     "change": null
   },
   {
@@ -6120,6 +8961,20 @@
     "sponsorsComplete": false,
     "change": null,
     "summary": "2026 car. S"
+  },
+  {
+    "id": "metallurg-magnitogorsk-2026-27-home",
+    "clubId": "metallurg-magnitogorsk",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+    "change": null
   },
   {
     "id": "miami-dolphins-2026-27-home",
@@ -6328,6 +9183,30 @@
     "change": null
   },
   {
+    "id": "monster-energy-yamaha-motogp-2026-home",
+    "clubId": "monster-energy-yamaha-motogp",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "monster-energy",
+        "placement": "front",
+        "source": {
+          "name": "Yamaha Motor - Monster Energy Yamaha MotoGP Enter V4 Era and Unveil 2026 Livery at Indonesia Launch Event",
+          "date": "2026-01-22",
+          "url": "https://global.yamaha-motor.com/race/release/2026/003/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
     "id": "monza-2026-27-home",
     "clubId": "monza",
     "season": "2026-27",
@@ -6353,6 +9232,39 @@
     "summary": null
   },
   {
+    "id": "moreirense-2026-27-home",
+    "clubId": "moreirense",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "placard",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Placard.pt main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      },
+      {
+        "sponsorId": "tvi",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (tvi front)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Jogos Santa Casa via Placard; TVI on the front.",
+    "change": null
+  },
+  {
     "id": "movistar-2026-home",
     "clubId": "movistar",
     "season": "2026",
@@ -6374,6 +9286,121 @@
     ],
     "sponsorsComplete": false,
     "summary": "2026 UCI WorldTeam. Movistar Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "movistar-women-2026-home",
+    "clubId": "movistar-women",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "movistar",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+          "date": "2026-08-05",
+          "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI Women's WorldTeam sponsored by Movistar (Telefónica brand).",
+    "change": null
+  },
+  {
+    "id": "mubadala-brazil-2026-home",
+    "clubId": "mubadala-brazil",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "mubadala",
+        "placement": "front",
+        "source": {
+          "name": "SailGP team page - Mubadala Brazil (Title Partner)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/mubadala-brazil/"
+        }
+      },
+      {
+        "sponsorId": "enel",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - Mubadala Brazil (Official Partner)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/mubadala-brazil/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Abu Dhabi's sovereign fund pays for the name on Brazil's F50: Mubadala Capital owns the team and Mubadala is its Title Partner.",
+    "change": null
+  },
+  {
+    "id": "nacional-2026-27-home",
+    "clubId": "nacional",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "coral-cerveja",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Coral Cerveja main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      },
+      {
+        "sponsorId": "madeira-tao-tua",
+        "placement": "back",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Madeira. Tão tua back)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by the Madeira Brewery (Pestana Group) via Coral beer.",
+    "change": null
+  },
+  {
+    "id": "nairobi-city-thunder-2026-home",
+    "clubId": "nairobi-city-thunder",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visit-rwanda",
+        "placement": "league-partner",
+        "source": {
+          "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+          "date": "2023-06-19",
+          "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
     "change": null
   },
   {
@@ -6423,6 +9450,20 @@
     "sponsorsComplete": false,
     "change": null,
     "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  },
+  {
+    "id": "neftekhimik-nizhnekamsk-2026-27-home",
+    "clubId": "neftekhimik-nizhnekamsk",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+    "change": null
   },
   {
     "id": "neom-2026-27-home",
@@ -6787,6 +9828,62 @@
     }
   },
   {
+    "id": "nissan-formula-e-2025-26-home",
+    "clubId": "nissan-formula-e",
+    "season": "2025-26",
+    "kitType": "home",
+    "periodLabel": "Season 12 (2025/26)",
+    "periodFrom": "2025-26",
+    "periodTo": "2025-26",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "northstar-canada-2026-home",
+    "clubId": "northstar-canada",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "butterfield",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - NorthStar Canada (Official Partners)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/canada/"
+        }
+      },
+      {
+        "sponsorId": "flyhouse",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - NorthStar Canada (Team Suppliers)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/canada/"
+        }
+      },
+      {
+        "sponsorId": "juvenescence",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - NorthStar Canada (Official Partners)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/canada/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Canada's team has no title sponsor; NorthStar is the team's own brand, with Butterfield, FlyHouse and Juvenescence as partners.",
+    "change": null
+  },
+  {
     "id": "nottingham-forest-2026-27-home",
     "clubId": "nottingham-forest",
     "season": "2026-27",
@@ -6933,6 +10030,48 @@
     "change": null
   },
   {
+    "id": "okgc-2026-home",
+    "clubId": "okgc",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "edgeconnex",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - OKGC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/okgc"
+        }
+      },
+      {
+        "sponsorId": "no-bull",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - OKGC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/okgc"
+        }
+      },
+      {
+        "sponsorId": "new-era",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - OKGC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/okgc"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Team partners 2026: EdgeConneX, No Bull, New Era. Led by Talor Gooch. Renamed from Smash GC for 2026.",
+    "change": null
+  },
+  {
     "id": "oklahoma-city-thunder-2026-27-home",
     "clubId": "oklahoma-city-thunder",
     "season": "2026-27",
@@ -6954,6 +10093,56 @@
     ],
     "sponsorsComplete": true,
     "summary": "Jersey patch: Love's Travel Stops & Country Stores.",
+    "change": null
+  },
+  {
+    "id": "olimpia-milano-2026-27-home",
+    "clubId": "olimpia-milano",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "ea7-emporio-armani",
+        "placement": "front",
+        "source": {
+          "name": "Olimpia Milano, 'L'Olimpia torna EA7' title-sponsor announcement (Wayback snapshot 7 Apr 2023)",
+          "date": "2022-07-07",
+          "url": "https://web.archive.org/web/20230407225620/https://www.olimpiamilano.com/ci-siamo-lolimpia-diventa-ea7-e-domani-scatta-la-campagna-abbonamenti-tutti-insieme/",
+          "note": "EA7 Emporio Armani title sponsor since 2022"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "olympiacos-2026-27-home",
+    "clubId": "olympiacos",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "superbet",
+        "placement": "front",
+        "source": {
+          "name": "Sport24, 'Superbet kai Olympiakos mazi mechri to 2032' (Superbet and Olympiacos together until 2032)",
+          "date": "2026-07-03",
+          "url": "https://www.sport24.gr/basket/superbet-kai-olimpiakos-mazi-mexri-to-2032/",
+          "note": "Superbet is the 'Great Sponsor' until 2032; deal reportedly worth EUR 55m including bonuses"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Superbet front-of-shirt from 2026, deal to 2032.",
     "change": null
   },
   {
@@ -7068,6 +10257,20 @@
     "change": null
   },
   {
+    "id": "orenburg-2026-27-home",
+    "clubId": "orenburg",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "No front-of-shirt sponsor confirmed on the club site; the Gazprom dobycha Orenburg 'general sponsor' block is commented out in the page markup.",
+    "change": null
+  },
+  {
     "id": "orlando-city-2026-27-home",
     "clubId": "orlando-city",
     "season": "2026-27",
@@ -7155,6 +10358,34 @@
         }
       }
     ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "panathinaikos-2026-27-home",
+    "clubId": "panathinaikos",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "paris-basketball-2026-27-home",
+    "clubId": "paris-basketball",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
     "sponsorsComplete": false,
     "summary": null,
     "change": null
@@ -7284,6 +10515,69 @@
     "sponsorsComplete": false,
     "change": null,
     "summary": "Prometeon is main sponsor; AdmiralBet.news also front of shirt."
+  },
+  {
+    "id": "partizan-2026-27-home",
+    "clubId": "partizan",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "pertamina-enduro-vr46-racing-team-2026-home",
+    "clubId": "pertamina-enduro-vr46-racing-team",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "pertamina",
+        "placement": "front",
+        "source": {
+          "name": "MotoGP.com - BLACKANDLIGHT: new year, new colours for Pertamina Enduro VR46",
+          "date": "2026-01-14",
+          "url": "https://www.motogp.com/en/news/2026/01/14/blackandlight-new-year-new-colours-for-pertamina-enduro-vr46/825185"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "petro-de-luanda-2026-home",
+    "clubId": "petro-de-luanda",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visit-rwanda",
+        "placement": "league-partner",
+        "source": {
+          "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+          "date": "2023-06-19",
+          "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+    "change": null
   },
   {
     "id": "philadelphia-76ers-2026-27-home",
@@ -7444,6 +10738,20 @@
     "change": null
   },
   {
+    "id": "porsche-formula-e-2025-26-home",
+    "clubId": "porsche-formula-e",
+    "season": "2025-26",
+    "kitType": "home",
+    "periodLabel": "Season 12 (2025/26)",
+    "periodFrom": "2025-26",
+    "periodTo": "2025-26",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
     "id": "portland-timbers-2026-27-home",
     "clubId": "portland-timbers",
     "season": "2026-27",
@@ -7479,6 +10787,72 @@
     "sponsors": [],
     "sponsorsComplete": false,
     "summary": "No patch partner for 2026-27.",
+    "change": null
+  },
+  {
+    "id": "porto-2026-27-home",
+    "clubId": "porto",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "betano",
+        "placement": "front",
+        "source": {
+          "name": "Kaizen Gaming, 'Betano and FC Porto renew partnership until 2029' (Main Sponsor, logo on the front of the official match shirts)",
+          "date": "2026-07-30",
+          "url": "https://kaizengaming.com/news/betano-and-fc-porto-renew-partnership-until-2029-2/"
+        }
+      },
+      {
+        "sponsorId": "super-bock",
+        "placement": "back",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Betano front slot; Super Bock back)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      },
+      {
+        "sponsorId": "xtb",
+        "placement": "sleeve",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (XTB sleeve, UEFA matches)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Front paid for by Kaizen Gaming (private Greek/Czech owners, partly Allwyn) via Betano.",
+    "change": null
+  },
+  {
+    "id": "prima-pramac-yamaha-motogp-2026-home",
+    "clubId": "prima-pramac-yamaha-motogp",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "prima-assicurazioni",
+        "placement": "front",
+        "source": {
+          "name": "MotoGP.com - Prima Pramac Yamaha take the covers off 2026",
+          "date": "2026-01-13",
+          "url": "https://www.motogp.com/en/news/2026/01/13/prima-pramac-yamaha-take-the-covers-off-2026/825075"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
     "change": null
   },
   {
@@ -7618,6 +10992,57 @@
     ],
     "sponsorsComplete": false,
     "summary": null,
+    "change": null
+  },
+  {
+    "id": "rangegoats-gc-2026-home",
+    "clubId": "rangegoats-gc",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "swannies",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - RangeGoats GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/rangegoats-gc"
+        }
+      },
+      {
+        "sponsorId": "convoy-of-hope",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - RangeGoats GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/rangegoats-gc"
+        }
+      },
+      {
+        "sponsorId": "freddys",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - RangeGoats GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/rangegoats-gc"
+        }
+      },
+      {
+        "sponsorId": "new-era",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - RangeGoats GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/rangegoats-gc"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Team partners 2026: Swannies, Convoy of Hope, Freddy's, New Era. Captain: Bubba Watson.",
     "change": null
   },
   {
@@ -7922,6 +11347,31 @@
     "change": null
   },
   {
+    "id": "real-madrid-baloncesto-2026-27-home",
+    "clubId": "real-madrid-baloncesto",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "emirates",
+        "placement": "front",
+        "source": {
+          "name": "Dubai Media Office, Emirates tips-off as the Official Main Sponsor of Real Madrid Basketball",
+          "date": "2025-09-15",
+          "url": "https://www.mediaoffice.ae/en/news/2025/september/15-09/emirates-tips-off-as-the-official-main-sponsor-of-real-madrid-basketball",
+          "note": "Emirates 'Fly Better' on player jerseys (Official Main Sponsor, multi-year)"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Emirates is the Official Main Sponsor; 'Fly Better' on the players' jerseys.",
+    "change": null
+  },
+  {
     "id": "real-salt-lake-2026-27-home",
     "clubId": "real-salt-lake",
     "season": "2026-27",
@@ -8019,6 +11469,87 @@
     ],
     "sponsorsComplete": false,
     "summary": "2026 UCI WorldTeam. Red Bull-Bora-Hansgrohe's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "red-bull-italy-2026-home",
+    "clubId": "red-bull-italy",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "red-bull",
+        "placement": "front",
+        "source": {
+          "name": "SailGP team page - Red Bull Italy (team name/identity)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/red-bull-italy/"
+        }
+      },
+      {
+        "sponsorId": "azimut",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - Red Bull Italy (Global Partners)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/red-bull-italy/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Red Bull is in the team's name itself rather than a bought placement; Azimut is the team's Global Partner. Red Bull also became a SailGP league global partner in January 2026. Azimut has no sponsor entry yet.",
+    "change": null
+  },
+  {
+    "id": "red-bull-ktm-factory-racing-2026-home",
+    "clubId": "red-bull-ktm-factory-racing",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "red-bull",
+        "placement": "front",
+        "source": {
+          "name": "MotoGP.com - Red Bull KTM Factory Racing and Tech3 unleash 2026 challengers",
+          "date": "2026-01-27",
+          "url": "https://www.motogp.com/en/news/2026/01/27/red-bull-ktm-factory-racing-and-tech3-unleash-2026-challengers/826283"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "red-bull-ktm-tech3-2026-home",
+    "clubId": "red-bull-ktm-tech3",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "red-bull",
+        "placement": "front",
+        "source": {
+          "name": "MotoGP.com - Red Bull KTM Factory Racing and Tech3 unleash 2026 challengers",
+          "date": "2026-01-27",
+          "url": "https://www.motogp.com/en/news/2026/01/27/red-bull-ktm-factory-racing-and-tech3-unleash-2026-challengers/826283"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
     "change": null
   },
   {
@@ -8127,6 +11658,223 @@
     "summary": "2026 car. O"
   },
   {
+    "id": "rio-ave-2026-27-home",
+    "clubId": "rio-ave",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "lebull",
+        "placement": "front",
+        "source": {
+          "name": "Rio Ave FC official partners page (Lebull listed as Main Sponsor) plus Wikipedia 2026-27 Personnel and kits",
+          "date": "2026-09",
+          "url": "https://www.rioavefc.pt/pt/clube/parceiros"
+        }
+      },
+      {
+        "sponsorId": "lus-iadas",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Lusíadas front)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Southern Stingray, S.A. via Lebull; Lusíadas also on the front.",
+    "change": null
+  },
+  {
+    "id": "ripper-gc-2026-home",
+    "clubId": "ripper-gc",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "greyson",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Ripper GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/ripper-gc"
+        }
+      },
+      {
+        "sponsorId": "airasia",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Ripper GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/ripper-gc"
+        }
+      },
+      {
+        "sponsorId": "hahn",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Ripper GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/ripper-gc"
+        }
+      },
+      {
+        "sponsorId": "new-era",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Ripper GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/ripper-gc"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Team partners 2026: Greyson Clothiers, AirAsia, Hahn, New Era. Led by Cameron Smith.",
+    "change": null
+  },
+  {
+    "id": "rockwool-denmark-2026-home",
+    "clubId": "rockwool-denmark",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "rockwool",
+        "placement": "front",
+        "source": {
+          "name": "SailGP team page - ROCKWOOL Denmark (Title Partner)",
+          "date": "2026-09-25",
+          "url": "https://www.sailgp.com/teams/rockwool-denmark/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Denmark's F50 races under Danish insulation maker ROCKWOOL's name: the team's Title Partner.",
+    "change": null
+  },
+  {
+    "id": "rodina-moscow-2026-27-home",
+    "clubId": "rodina-moscow",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "No sponsor page on the club site (rodina.moscow); no front-of-shirt sponsor confirmed.",
+    "change": null
+  },
+  {
+    "id": "rostov-2026-27-home",
+    "clubId": "rostov",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "atlantis-pak",
+        "placement": "front",
+        "source": {
+          "name": "FC Rostov – Sponsors and partners",
+          "date": "2026-09-25",
+          "url": "https://fc-rostov.ru/club/sponsors",
+          "note": "Титульный спонсор Атлантис-Пак."
+        }
+      },
+      {
+        "sponsorId": "fonbet",
+        "placement": "back",
+        "source": {
+          "name": "FC Rostov – Sponsors and partners",
+          "date": "2026-09-25",
+          "url": "https://fc-rostov.ru/club/sponsors",
+          "note": "Официальный букмекер ФК \"Ростов\"."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Atlantis-Pak title sponsor and Fonbet official bookmaker per the club sponsors page; shirt placements not confirmed against a kit launch.",
+    "change": null
+  },
+  {
+    "id": "rssb-tigers-2026-home",
+    "clubId": "rssb-tigers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visit-rwanda",
+        "placement": "league-partner",
+        "source": {
+          "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+          "date": "2023-06-19",
+          "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+        }
+      },
+      {
+        "sponsorId": "rssb",
+        "placement": "partner",
+        "source": {
+          "name": "The New Times (Rwanda) - APR vs Tigers, a new rivalry taking over Rwandan basketball",
+          "date": "2026",
+          "url": "https://www.newtimes.co.rw/article/37747/sports/basketball/apr-vs-tigers-a-new-rivalry-taking-over-rwandan-basketball/amp",
+          "note": "In 2025 'the Rwanda Social Security Board (RSSB) took full ownership of the club', which 'was subsequently renamed RSSB Tigers' - name-sponsor/owner relationship, not a bought shirt slot."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "League Visit Rwanda branding plus the state owner's name in the club name itself (RSSB took full ownership in 2025). No separate shirt sponsor found.",
+    "change": null
+  },
+  {
+    "id": "rubin-kazan-2026-27-home",
+    "clubId": "rubin-kazan",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "kazanorgsintez",
+        "placement": "front",
+        "source": {
+          "name": "FC Rubin – Partners",
+          "date": "2026-09-25",
+          "url": "https://www.rubin-kazan.ru/club/partners/",
+          "note": "Казаньоргсинтез — Генеральный спонсор."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Kazanorgsintez general sponsor; shirt placement not confirmed against a kit launch.",
+    "change": null
+  },
+  {
     "id": "sacramento-kings-2026-27-home",
     "clubId": "sacramento-kings",
     "season": "2026-27",
@@ -8148,6 +11896,20 @@
     ],
     "sponsorsComplete": true,
     "summary": "Jersey patch: Sutter Health.",
+    "change": null
+  },
+  {
+    "id": "salavat-yulaev-2026-27-home",
+    "clubId": "salavat-yulaev",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
     "change": null
   },
   {
@@ -8293,6 +12055,39 @@
     "sponsorsComplete": false,
     "change": null,
     "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+  },
+  {
+    "id": "santa-clara-2026-27-home",
+    "clubId": "santa-clara",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "lebull",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Lebull main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      },
+      {
+        "sponsorId": "azores-airlines",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Azores Airlines front)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Southern Stingray, S.A. via Lebull; Azores Airlines (Regional Government of the Azores) also on the front.",
+    "change": null
   },
   {
     "id": "sassuolo-2026-27-home",
@@ -8493,6 +12288,48 @@
     "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
   },
   {
+    "id": "severstal-cherepovets-2026-27-home",
+    "clubId": "severstal-cherepovets",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "severstal",
+        "placement": "partner",
+        "source": {
+          "name": "HC Severstal official site",
+          "date": "2026-09-25",
+          "url": "https://www.severstalclub.ru/"
+        }
+      },
+      {
+        "sponsorId": "olimpbet",
+        "placement": "partner",
+        "source": {
+          "name": "HC Severstal official site",
+          "date": "2026-09-25",
+          "url": "https://www.severstalclub.ru/"
+        }
+      },
+      {
+        "sponsorId": "sovcombank",
+        "placement": "partner",
+        "source": {
+          "name": "HC Severstal official site",
+          "date": "2026-09-25",
+          "url": "https://www.severstalclub.ru/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. Severstal general sponsor, Olimpbet and Sovcombank official partners per the club site; front-of-shirt sponsor not yet sourced.",
+    "change": null
+  },
+  {
     "id": "sevilla-2026-27-home",
     "clubId": "sevilla",
     "season": "2026-27",
@@ -8514,6 +12351,81 @@
     ],
     "sponsorsComplete": false,
     "summary": null,
+    "change": null
+  },
+  {
+    "id": "shanghai-dragons-2026-27-home",
+    "clubId": "shanghai-dragons",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+    "change": null
+  },
+  {
+    "id": "sibir-novosibirsk-2026-27-home",
+    "clubId": "sibir-novosibirsk",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+    "change": null
+  },
+  {
+    "id": "ska-spb-2026-27-home",
+    "clubId": "ska-spb",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "No sponsor on the 2026-27 playing jersey is sourced yet. The archived ska.ru page cited before shows an unlabelled strip of logos, not the jersey; Gazprom Neft owns the club (Interfax, May 2026), which is ownership, not a shirt sponsorship.",
+    "change": null
+  },
+  {
+    "id": "sochi-hc-2026-27-home",
+    "clubId": "sochi-hc",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "rzd",
+        "placement": "partner",
+        "source": {
+          "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+          "date": "2026-09-25",
+          "url": "https://www.hcsochi.ru/club/partner/"
+        }
+      },
+      {
+        "sponsorId": "olimpbet",
+        "placement": "partner",
+        "source": {
+          "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+          "date": "2026-09-25",
+          "url": "https://www.hcsochi.ru/club/partner/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. RZD and Olimpbet among the club partners listed for 2026/27 on the club site; front-of-shirt sponsor not yet sourced.",
     "change": null
   },
   {
@@ -8547,6 +12459,166 @@
     ],
     "sponsorsComplete": false,
     "summary": "2026 UCI WorldTeam. Soudal Quick-Step's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "southern-guards-gc-2026-home",
+    "clubId": "southern-guards-gc",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "kwv",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Southern Guards GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/southern-guards-gc"
+        }
+      },
+      {
+        "sponsorId": "oscar-jacobson",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Southern Guards GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/southern-guards-gc"
+        }
+      },
+      {
+        "sponsorId": "standard-bank",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Southern Guards GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/southern-guards-gc"
+        }
+      },
+      {
+        "sponsorId": "we-buy-cars",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Southern Guards GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/southern-guards-gc"
+        }
+      },
+      {
+        "sponsorId": "rhino-whiskey",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Southern Guards GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/southern-guards-gc"
+        }
+      },
+      {
+        "sponsorId": "new-era",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Southern Guards GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/southern-guards-gc"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Team partners 2026: KWV, Oscar Jacobson, Standard Bank, WeBuyCars, Rhino Whiskey, New Era. Led by Louis Oosthuizen. Renamed from Stinger GC for 2026.",
+    "change": null
+  },
+  {
+    "id": "spartak-moscow-2026-27-home",
+    "clubId": "spartak-moscow",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "lukoil",
+        "placement": "front",
+        "source": {
+          "name": "Spartak.com (archived homepage partner data)",
+          "date": "2024-01-04",
+          "url": "https://web.archive.org/web/20240104102625/https://spartak.com/",
+          "note": "\"Более 20 лет «ЛУКОЙЛ» оказывал неоценимую поддержку «Спартаку» как титульный спонсор, а летом 2022 года Компания объявила о приобретении 100% акций клуба\"."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "LUKOIL title sponsor and 100% owner of the club since summer 2022; current-season shirt placement not re-confirmed against a 2026-27 kit launch.",
+    "change": null
+  },
+  {
+    "id": "spartak-moscow-hockey-2026-27-home",
+    "clubId": "spartak-moscow-hockey",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "olimpbet",
+        "placement": "partner",
+        "source": {
+          "name": "Spartak club site, sponsors and partners page",
+          "date": "2026-09-25",
+          "url": "https://spartak.ru/club/sponsory-i-partnery/"
+        }
+      },
+      {
+        "sponsorId": "komus",
+        "placement": "partner",
+        "source": {
+          "name": "Spartak club site, sponsors and partners page",
+          "date": "2026-09-25",
+          "url": "https://spartak.ru/club/sponsory-i-partnery/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. Olimpbet official partner and Komus partner per the club site; front-of-shirt sponsor not yet sourced.",
+    "change": null
+  },
+  {
+    "id": "sporting-cp-2026-27-home",
+    "clubId": "sporting-cp",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "betano",
+        "placement": "front",
+        "source": {
+          "name": "Kaizen Gaming, 'Betano and Sporting CP renew partnership until 2029' (Main Sponsor, branding on the front of the official shirts)",
+          "date": "2025-08-08",
+          "url": "https://kaizengaming.com/news/betano-and-sporting-cp-renew-partnership-until-2029/"
+        }
+      },
+      {
+        "sponsorId": "super-bock",
+        "placement": "back",
+        "source": {
+          "name": "Sporting CP official sponsors page (Super Bock listed as Main Partner) plus Wikipedia 2026-27 Personnel and kits (Super Bock back)",
+          "date": "2026-09",
+          "url": "https://www.sporting.pt/en/sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Front paid for by Kaizen Gaming (private Greek/Czech owners, partly Allwyn) via Betano.",
     "change": null
   },
   {
@@ -8832,6 +12904,30 @@
     "change": null
   },
   {
+    "id": "superfile-trackhouse-motogp-team-2026-home",
+    "clubId": "superfile-trackhouse-motogp-team",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "superfile",
+        "placement": "front",
+        "source": {
+          "name": "MotoGP.com - Trackhouse pulls the covers off 2026 with two stunning liveries",
+          "date": "2026-01-21",
+          "url": "https://www.motogp.com/en/news/2026/01/21/trackhouse-pulls-the-covers-off-2026-with-two-stunning-liveries/825875"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
     "id": "sv-elversberg-2026-27-home",
     "clubId": "sv-elversberg",
     "season": "2026-27",
@@ -8863,6 +12959,30 @@
     ],
     "sponsorsComplete": false,
     "summary": null,
+    "change": null
+  },
+  {
+    "id": "swiss-sailgp-2026-home",
+    "clubId": "swiss-sailgp",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "explora-journeys",
+        "placement": "front",
+        "source": {
+          "name": "SailGP - Switzerland SailGP Team announce Explora Journeys as Title Partner",
+          "date": "2026-04-15",
+          "url": "https://www.sailgp.com/news/26/switzerland-sailgp-team-announce-explora-journeys-title-partner/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "MSC's cruise brand Explora Journeys took the Swiss title partnership in April 2026; the team now races under its name.",
     "change": null
   },
   {
@@ -8989,6 +13109,81 @@
     "change": null
   },
   {
+    "id": "team-picnic-postnl-women-2026-home",
+    "clubId": "team-picnic-postnl-women",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "picnic",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      },
+      {
+        "sponsorId": "postnl",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI Women's WorldTeam; Picnic and PostNL carry the team name on the jersey (women's team aligned with the men's squad).",
+    "change": null
+  },
+  {
+    "id": "team-sd-worx-protime-2026-home",
+    "clubId": "team-sd-worx-protime",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "sd-worx",
+        "placement": "front",
+        "source": {
+          "name": "Team SD Worx-Protime - Partners page ('SD Worx & Protime chose to sponsor the world's best women's cycling team')",
+          "date": "2026-09-25",
+          "url": "https://teamsdworxprotime.com/en/partners"
+        }
+      },
+      {
+        "sponsorId": "protime",
+        "placement": "front",
+        "source": {
+          "name": "Team SD Worx-Protime - Partners page",
+          "date": "2026-09-25",
+          "url": "https://teamsdworxprotime.com/en/partners"
+        }
+      },
+      {
+        "sponsorId": "specialized",
+        "placement": "partner",
+        "source": {
+          "name": "Team SD Worx-Protime - Partners page (premium partner Specialized)",
+          "date": "2026-09-25",
+          "url": "https://teamsdworxprotime.com/en/partners"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI Women's WorldTeam; SD Worx and Protime are the title sponsors, Specialized a premium partner.",
+    "change": null
+  },
+  {
     "id": "team-visma-lease-a-bike-2026-home",
     "clubId": "team-visma-lease-a-bike",
     "season": "2026",
@@ -9019,6 +13214,39 @@
     ],
     "sponsorsComplete": false,
     "summary": "2026 UCI WorldTeam. Team Visma | Lease a Bike's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "team-visma-lease-a-bike-women-2026-home",
+    "clubId": "team-visma-lease-a-bike-women",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visma",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+          "date": "2026-08-05",
+          "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "lease-a-bike",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+          "date": "2026-08-05",
+          "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI Women's WorldTeam; Visma and Lease a Bike carry the team name (sister team of the men's WorldTour squad).",
     "change": null
   },
   {
@@ -9166,6 +13394,71 @@
     "change": null
   },
   {
+    "id": "torpedo-nizhny-novgorod-2026-27-home",
+    "clubId": "torpedo-nizhny-novgorod",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+    "change": null
+  },
+  {
+    "id": "torque-gc-2026-home",
+    "clubId": "torque-gc",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "ping",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Torque GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/torque-gc"
+        }
+      },
+      {
+        "sponsorId": "akron",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Torque GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/torque-gc"
+        }
+      },
+      {
+        "sponsorId": "night-dragon",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Torque GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/torque-gc"
+        }
+      },
+      {
+        "sponsorId": "new-era",
+        "placement": "partner",
+        "source": {
+          "name": "LIV Golf - Torque GC team page",
+          "date": "2026-09-25",
+          "url": "https://www.livgolf.com/torque-gc"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Team partners 2026: PING, Akron, Night Dragon, New Era. Captain: Joaquin Niemann.",
+    "change": null
+  },
+  {
     "id": "tottenham-hotspur-2026-27-home",
     "clubId": "tottenham-hotspur",
     "season": "2026-27",
@@ -9198,6 +13491,41 @@
     ],
     "sponsorsComplete": true,
     "summary": null,
+    "change": null
+  },
+  {
+    "id": "tottenham-hotspur-w-2026-27-home",
+    "clubId": "tottenham-hotspur-w",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "aia",
+        "placement": "front",
+        "source": {
+          "name": "Tottenham Hotspur, Kraken partnership announcement (AIA front carried over)",
+          "date": "2024-07-16",
+          "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken",
+          "note": "The Kraken article names AIA only implicitly via the existing shirt deal; AIA as front sponsor across the club is carried from the men's 2026/27 kit in normalized. Women's-specific front confirmation not restated."
+        }
+      },
+      {
+        "sponsorId": "kraken",
+        "placement": "sleeve",
+        "source": {
+          "name": "Tottenham Hotspur, official announcement",
+          "date": "2024-07-16",
+          "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken",
+          "note": "Kraken became the club's first Official Crypto and Web3 Partner and the Official Sleeve Partner for the club's Men's and Women's teams from 2024/25."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "AIA fronts the Tottenham Women shirt with crypto platform Kraken on the sleeve.",
     "change": null
   },
   {
@@ -9258,6 +13586,20 @@
     ],
     "sponsorsComplete": false,
     "summary": "Nike kit. Casadora front; Starbucks on the sleeve.",
+    "change": null
+  },
+  {
+    "id": "traktor-chelyabinsk-2026-27-home",
+    "clubId": "traktor-chelyabinsk",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
     "change": null
   },
   {
@@ -9346,6 +13688,66 @@
     "change": null
   },
   {
+    "id": "uae-team-limad-2026-home",
+    "clubId": "uae-team-limad",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season (UAE Team ADQ to 31 July, UAE Team L'IMAD from 1 August)",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "limad",
+        "placement": "front",
+        "source": {
+          "name": "Cyclingnews - UAE Team ADQ get new name for Tour de France Femmes and beyond (Matilda Price)",
+          "date": "2026-07-27",
+          "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/uae-team-adq-get-new-name-for-tour-de-france-femmes-and-beyond/"
+        }
+      },
+      {
+        "sponsorId": "nmdc-group",
+        "placement": "partner",
+        "source": {
+          "name": "UAE Team L'IMAD - Main Sponsors page",
+          "date": "2026-09-25",
+          "url": "https://uaeteamlimad.com/sponsors/"
+        }
+      },
+      {
+        "sponsorId": "ihc",
+        "placement": "partner",
+        "source": {
+          "name": "UAE Team L'IMAD - Main Sponsors page",
+          "date": "2026-09-25",
+          "url": "https://uaeteamlimad.com/sponsors/"
+        }
+      },
+      {
+        "sponsorId": "analog",
+        "placement": "partner",
+        "source": {
+          "name": "UAE Team L'IMAD - Main Sponsors page",
+          "date": "2026-09-25",
+          "url": "https://uaeteamlimad.com/sponsors/"
+        }
+      },
+      {
+        "sponsorId": "mywhoosh",
+        "placement": "partner",
+        "source": {
+          "name": "UAE Team L'IMAD - Main Sponsors page",
+          "date": "2026-09-25",
+          "url": "https://uaeteamlimad.com/sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI Women's WorldTeam. Title sponsor L'IMAD on the front of the jersey from 1 August 2026 (UAE Team ADQ before that); NMDC, IHC, Analog and MyWhoosh are listed main sponsors. Individual jersey positions for the main sponsors beyond the front not verified.",
+    "change": null
+  },
+  {
     "id": "udinese-2026-27-home",
     "clubId": "udinese",
     "season": "2026-27",
@@ -9428,6 +13830,54 @@
     "change": null
   },
   {
+    "id": "uno-x-mobility-women-2026-home",
+    "clubId": "uno-x-mobility-women",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "uno-x",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+          "date": "2026-08-05",
+          "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI Women's WorldTeam sponsored by Uno-X (Reitan Retail).",
+    "change": null
+  },
+  {
+    "id": "us-sailgp-2026-home",
+    "clubId": "us-sailgp",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "tommy-hilfiger",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP - Tommy Hilfiger and United States SailGP Team milestone partnership",
+          "date": "2024-06-21",
+          "url": "https://www.sailgp.com/news/24/tommy-hilfiger-united-states-sailgp-team-mileston-partnership/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "The US team has no title partner; Tommy Hilfiger (PVH) leads the global-partner block with Marriott Luxury Group and Crypto/OG.",
+    "change": null
+  },
+  {
     "id": "utah-jazz-2026-27-home",
     "clubId": "utah-jazz",
     "season": "2026-27",
@@ -9480,6 +13930,20 @@
         }
       }
     ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "valencia-basket-2026-27-home",
+    "clubId": "valencia-basket",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
     "sponsorsComplete": false,
     "summary": null,
     "change": null
@@ -9610,6 +14074,133 @@
     "change": null
   },
   {
+    "id": "virtus-bologna-2026-27-home",
+    "clubId": "virtus-bologna",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "costa-cruises",
+        "placement": "front",
+        "source": {
+          "name": "Virtus Bologna, Costa Crociere is the new Title Sponsor LBA and Main Sponsor",
+          "date": "2026-09-13",
+          "url": "https://www.virtus.it/news/costa-crociere-e-il-nuovo-title-sponsor-lba-e-main-sponsor-della-virtus-pallacanestro-bologna/",
+          "note": "Costa Crociere Title and Main Sponsor for 2026/27; kit presented 13 Sep 2026 on Costa Pacifica"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "vissel-kobe-2026-27-home",
+    "clubId": "vissel-kobe",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "rakuten-group",
+        "placement": "front",
+        "source": {
+          "name": "Vissel Kobe - uniform partners (2026/27)",
+          "date": "2026-09-25",
+          "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+          "note": "Front (chest): Rakuten Group, Inc."
+        }
+      },
+      {
+        "sponsorId": "bishop",
+        "placement": "front",
+        "side": "front",
+        "source": {
+          "name": "Vissel Kobe - uniform partners (2026/27)",
+          "date": "2026-09-25",
+          "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+          "note": "Front (right collarbone): Bishop Retail Co. (4th season on the shirt)."
+        }
+      },
+      {
+        "sponsorId": "devis",
+        "placement": "front",
+        "source": {
+          "name": "Vissel Kobe - uniform partners (2026/27)",
+          "date": "2026-09-25",
+          "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+          "note": "Front (left collarbone): Devis Co., Ltd., new uniform partner from the 2026/27 season."
+        }
+      },
+      {
+        "sponsorId": "kawasaki-heavy-industries",
+        "placement": "back",
+        "source": {
+          "name": "Vissel Kobe - uniform partners (2026/27)",
+          "date": "2026-09-25",
+          "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+          "note": "Back: Kawasaki Heavy Industries (25th season; back placement since 2025)."
+        }
+      },
+      {
+        "sponsorId": "shuzet-holdings",
+        "placement": "shorts",
+        "source": {
+          "name": "Vissel Kobe - uniform partners (2026/27)",
+          "date": "2026-09-25",
+          "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+          "note": "Below the back number / shorts front: Shuzet Holdings (12th season)."
+        }
+      },
+      {
+        "sponsorId": "noevia",
+        "placement": "sleeve",
+        "source": {
+          "name": "Vissel Kobe - uniform partners (2026/27)",
+          "date": "2026-09-25",
+          "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+          "note": "Left sleeve: Noevir (also names the home stadium)."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "change": null,
+    "summary": "Vissel Kobe 2026/27 home shirt: Rakuten front, Bishop and Devis on the collarbones, Kawasaki Heavy Industries on the back, Shuzet Holdings below the number, Noevir on the left sleeve, Asics Japan as kitmaker. All from the club's own uniform-partners page, which is labelled 2026/27 and shows a 2026/27 kit special site.",
+    "headline": "Rakuten pays for the front of Vissel Kobe's shirt",
+    "shortLine": "Rakuten front, Noevir sleeve, Kawasaki back"
+  },
+  {
+    "id": "vitoria-guimaraes-2026-27-home",
+    "clubId": "vitoria-guimaraes",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "placard",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Placard.pt main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Jogos Santa Casa (Portuguese state mandate) via Placard.",
+    "change": null
+  },
+  {
     "id": "washington-commanders-2026-27-home",
     "clubId": "washington-commanders",
     "season": "2026-27",
@@ -9713,6 +14304,49 @@
     ],
     "sponsorsComplete": false,
     "summary": null,
+    "change": null
+  },
+  {
+    "id": "west-ham-united-w-2026-27-home",
+    "clubId": "west-ham-united-w",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "boylesports",
+        "placement": "front",
+        "source": {
+          "name": "SportsMint Media (quoting West Ham announcement)",
+          "date": "2026-06-30",
+          "url": "https://sportsmintmedia.com/boyle-sports-takes-centre-stage-on-west-ham-united-shirts-for-2026-27/"
+        }
+      },
+      {
+        "sponsorId": "lilley-plummer-risks",
+        "placement": "sleeve",
+        "source": {
+          "name": "SportsMint Media (quoting West Ham announcement)",
+          "date": "2026-07-03",
+          "url": "https://sportsmintmedia.com/lilley-plummer-risks-upgrades-partnership-to-become-west-ham-uniteds-sleeve-sponsor/",
+          "note": "Announced as official sleeve partner for the club's first-team training apparel; women's-shirt sleeve placement not stated explicitly."
+        }
+      },
+      {
+        "sponsorId": "paul-robinson-solicitors",
+        "placement": "back",
+        "source": {
+          "name": "SportsMint Media",
+          "date": "2025-07-15",
+          "url": "https://sportsmintmedia.com/paul-robinson-solicitors-joins-west-ham-united-women-as-back-of-shirt-partner/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "BoyleSports betting sits on the front of the West Ham Women shirt.",
     "change": null
   },
   {
@@ -9843,6 +14477,49 @@
     ],
     "sponsorsComplete": false,
     "summary": "2026 UCI WorldTeam. XDS Astana Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "zalgiris-2026-27-home",
+    "clubId": "zalgiris",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": null,
+    "change": null
+  },
+  {
+    "id": "zenit-st-petersburg-2026-27-home",
+    "clubId": "zenit-st-petersburg",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "gazprom",
+        "placement": "front",
+        "source": {
+          "name": "FC Zenit official site: Club kit (history page)",
+          "date": "2026",
+          "url": "https://en.fc-zenit.ru/club/fczenit_kit/",
+          "quote": "in 1997 the team shirts got the Gazprom logo",
+          "checked": {
+            "on": "2026-09-27",
+            "by": "claude-review-282"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Gazprom general sponsor on the front of the Zenit shirt; other partners (Winline, Aeroflot, MegaFon) per the club partners page but shirt placement not confirmed.",
     "change": null
   }
 ]
