@@ -134,7 +134,7 @@ Compared with `handover/design/static/*` and `handover/update-v3/design/static/*
 - **The numbers on the shirt are part of the click target.** UPDATE.md §5.8 has them ignore the pointer, but small logos put the number above the logo, outside its hit area, so hovering or clicking the number did nothing. Each sponsor is now one button: the area over the logo with its number inside.
 - **"Nothing found" sponsors get a dark marker with a solid ring**, not the red one: red is for concern or worse.
 - **"Share the card"** uses the phone's share sheet or copies a link. The link's preview is the club's share card.
-- **"Why is that a problem?" boxes for Concern too.** UPDATE.md §5.4 shows them for serious and severe sponsors only. Since September 2026 every rating above "Nothing found" must name the link and the human-rights record behind it (the data repo's METHOD.md), so a Spotted shirt explains itself as well.
+- **"Why is that a problem?" boxes for Concern too.** UPDATE.md §5.4 shows them for serious and severe sponsors only. Since September 2026 every rating above "Nothing found" must name the link and the human-rights record behind it (the data repo's METHOD.md), so a Spotted shirt explains itself as well. For the same reason the landing page's definition of Spotted reads "A lesser link to abuse." rather than "A lesser link to a state.": a state stake counts only when that state has a record of abuses, and a company's own human-rights finding counts too.
 - **Page heights** are natural. The design artboards have fixed heights with extra space before the footer.
 
 ## Open questions for the team
