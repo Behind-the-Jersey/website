@@ -218,6 +218,16 @@ describe('validation', () => {
     );
   });
 
+  it('accepts a why whose record is about a state an ownership claim names (a minority stake)', () => {
+    const ok = structuredClone(ds) as unknown as Parameters<typeof checkDataset>[0];
+    const emirates = ok.sponsors.find((x) => x.id === 'emirates')!;
+    const stake = { ...structuredClone(ok.claims[0]), id: 'test-stake', kind: 'ownership' as const, ownerIds: ['government-of-dubai', 'saudi-pif'] };
+    ok.claims.push(stake);
+    emirates.claimIds = [...emirates.claimIds, 'test-stake'];
+    emirates.why = { ...emirates.why!, claimIds: ['saudi-executions-2024', 'test-stake'] };
+    expect(checkDataset(ok).errors.filter((e) => e.startsWith('sponsors/emirates'))).toEqual([]);
+  });
+
   it('rejects a guessed or placeholder club contact', () => {
     const files = rawFiles();
     (files.clubs as { id: string; contact?: unknown }[])[0].contact = {

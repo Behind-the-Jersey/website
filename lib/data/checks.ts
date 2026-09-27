@@ -71,8 +71,15 @@ export function checkDataset(d: RawDataset): CheckResult {
     if (['concern', 'serious', 'severe'].includes(s.tier) && s.claimIds.length === 0)
       errors.push(`sponsors/${s.id}: tier "${s.tier}" needs at least one claim`);
     if (s.why) {
-      // The why text may only rest on claims about an owner in the sponsor's own owner chain.
+      // The why text may only rest on claims about an owner the link reaches: the sponsor's owner chain,
+      // or an owner named in the ownership claims it cites, with that owner's chain (the data repo's
+      // rating_owners: a minority stake by a state is a link without being a parent).
       const ownedBy = chain(s.ownerId);
+      for (const id of new Set([...s.claimIds, ...s.why.claimIds])) {
+        const c = claims.get(id);
+        if (c?.kind === 'ownership')
+          for (const o of c.ownerIds) for (const x of chain(o)) if (!ownedBy.includes(x)) ownedBy.push(x);
+      }
       for (const id of s.why.claimIds) {
         const c = claims.get(id);
         if (!c) errors.push(`sponsors/${s.id}: why cites unknown claim "${id}"`);
