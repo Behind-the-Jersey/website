@@ -92,7 +92,8 @@ function report(before: Dataset | null, after: Dataset, warnings: string[]): { t
       })
       .map((s) => {
         const o = b.byId.sponsor.get(s.id)!;
-        return `${s.name}: ${o.tier} (${o.status}) → **${s.tier}** (${s.status})`;
+        const held = s.hold ? ` (held at ${s.heldTier}: ${s.hold})` : '';
+        return `${s.name}: ${o.tier} (${o.status}) → **${s.tier}** (${s.status})${held}`;
       });
     sections.push(['Sponsor ratings that change', tiers]);
 
