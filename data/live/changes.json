@@ -16,6 +16,43 @@
     }
   },
   {
+    "id": "2026-09-07-villarreal-gac-sleeve",
+    "date": "2026-09-07",
+    "datePrecision": "day",
+    "clubId": "villarreal",
+    "sponsorId": "gac",
+    "kind": "new",
+    "levelAfter": "not-rated",
+    "title": "GAC on the sleeve",
+    "text": "Villarreal added the carmaker GAC as Official Sleeve Partner for 2026/27, with the option to extend to 2027/28. Not rated yet.",
+    "source": {
+      "name": "GAC Spain, GAC patrocinador oficial de Villarreal CF",
+      "date": "2026-09-07",
+      "url": "https://gacspain.es/gac-patrocinador-oficial-de-villareal-cf/"
+    }
+  },
+  {
+    "id": "2026-08-22-lazio-kaiyunsports-news",
+    "date": "2026-08-22",
+    "datePrecision": "day",
+    "clubId": "lazio",
+    "sponsorId": "kaiyunsports-news",
+    "kind": "new",
+    "levelAfter": "not-rated",
+    "title": "Sleeve filled eleven days after the front emptied",
+    "text": "Eleven days after terminating Polymarket, Lazio announced kaiyunsports.news as Official Sleeve Sponsor for the 2026/27 and 2027/28 Serie A seasons. The front of the shirt remains without a sponsor. Not rated yet.",
+    "source": {
+      "name": "S.S. Lazio - S.S. Lazio and kaiyunsports.news announce a two-season partnership",
+      "date": "2026-08-22",
+      "url": "https://www.sslazio.it/en/news/comunicati/s-s-lazio-e-kaiyunsports-news-annunciano-una-nuova-partnership-biennale",
+      "quote": "S.S. Lazio is pleased to announce a new partnership with kaiyunsports.news, which will become the Club’s Official Sleeve Sponsor for the 2026/27 and 2027/28 Serie A seasons",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    }
+  },
+  {
     "id": "2026-08-11-lazio-polymarket",
     "date": "2026-08-11",
     "datePrecision": "day",
@@ -125,6 +162,27 @@
       "name": "Footy Headlines",
       "date": "2026-04",
       "url": "https://www.footyheadlines.com/2026/04/lfc-new-sponsor.html"
+    }
+  },
+  {
+    "id": "2025-02-02-ac-milan-bitpanda-back",
+    "date": "2025-02-02",
+    "datePrecision": "day",
+    "clubId": "ac-milan",
+    "sponsorId": "bitpanda",
+    "kind": "new",
+    "levelAfter": "stained",
+    "title": "Bitpanda moves from Premium Partner to the back of the shirt",
+    "text": "Bitpanda, AC Milan's Premium Partner and Official Crypto Trading Partner since summer 2024, became the men's first team's Back-of-Shirt sponsor from the derby against Inter, joining the club's Principal Partners.",
+    "source": {
+      "name": "AC Milan, 'AC MILAN AND BITPANDA EXPAND PARTNERSHIP WITH NEW BACK OF SHIRT SPONSORSHIP'",
+      "date": "2025-02-02",
+      "url": "https://www.acmilan.com/en/news/articles/sponsor/2025-02-02/ac-milan-and-bitpanda-expand-partnership-with-new-back-of-shirt-sponsorship",
+      "quote": "Starting from today, Bitpanda will serve as the new Back-of-Shirt sponsor for the men's First Team , joining AC Milan's family of Principal Partners .",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     }
   },
   {

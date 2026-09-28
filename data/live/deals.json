@@ -1,5 +1,96 @@
 [
   {
+    "id": "ac-milan-bitpanda-back",
+    "clubId": "ac-milan",
+    "orgName": null,
+    "sponsorId": "bitpanda",
+    "placement": "back",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "AC Milan, 'AC MILAN AND BITPANDA EXPAND PARTNERSHIP WITH NEW BACK OF SHIRT SPONSORSHIP'",
+      "date": "2025-02-02",
+      "url": "https://www.acmilan.com/en/news/articles/sponsor/2025-02-02/ac-milan-and-bitpanda-expand-partnership-with-new-back-of-shirt-sponsorship",
+      "quote": "Bitpanda will serve as the new Back-of-Shirt sponsor for the men's First Team , joining AC Milan's family of Principal Partners .",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Expansion of a partnership begun in summer 2024 (Premium Partner and Official Crypto Trading Partner). End date and value not disclosed; SempreMilan reported Sole 24 Ore figures for the back-of-shirt deal but the article could not be opened to quote."
+  },
+  {
+    "id": "ac-milan-emirates-front",
+    "clubId": "ac-milan",
+    "orgName": null,
+    "sponsorId": "emirates",
+    "placement": "front",
+    "from": "2025",
+    "to": "2030",
+    "value": {
+      "amount": 20,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": null
+    },
+    "source": {
+      "name": "Football Italia, 'Official: Milan confirm €100m front-of-shirt sponsorship agreement'",
+      "date": "2025-10-15",
+      "url": "https://football-italia.net/official-milan-confirm-100m-sponsorship-deal",
+      "quote": "Reports in Italy suggest that this new extension will be worth around €100m to Milan over a five-year period, or in other words, €20m per season.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Five-year renewal of a partnership running since 2007 (front-of-shirt since 2010-11). SportsPro reported the deal as '€30m-a-year' citing La Gazzetta dello Sport — the two outlets disagree; both figures are press reports, not club filings."
+  },
+  {
+    "id": "ac-milan-msc-cruises-sleeve",
+    "clubId": "ac-milan",
+    "orgName": null,
+    "sponsorId": "msc-cruises",
+    "placement": "sleeve",
+    "from": "2023",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "AC Milan, 'MSC CRUISES BECOMES NEW SLEEVE PARTNER OF AC MILAN'",
+      "date": "2023-07-19",
+      "url": "https://www.acmilan.com/en/news/articles/sponsor/2023-07-19/msc-cruises-becomes-new-sleeve-partner-of-ac-milan",
+      "quote": "Starting from the 2023/24 season, MSC Cruises will become a Principal Partner and the Official Sleeve Partner of the Rossoneri",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Renewed in July 2026 ('AC MILAN AND MSC CRUISES: FROM MILAN TO THE WORLD, THE JOURNEY CONTINUES', acmilan.com, 2026-07-16). End date and value not disclosed."
+  },
+  {
+    "id": "aek-athens-seajets",
+    "clubId": "aek-athens",
+    "orgName": null,
+    "sponsorId": "seajets",
+    "placement": "back",
+    "from": "2024-25",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Sportdog: Λαμέλα είσαι τρέλα με τη νέα φανέλα! Με SeaJets χορηγό η εμφάνιση της ΑΕΚ",
+      "date": "2024-07-23",
+      "url": "https://www.sportdog.gr/podosfairo/superleague/840216/lamela-eisai-trela-me-th-nea-fanela-me-seajets-xorhgo-h-emfanish-ths-aek",
+      "quote": "Αξίζει να σημειωθεί, ότι η SeaJets έχει προστεθεί ως χορηγός στο πίσω μέρος της φανέλας",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Added to the back of the 2024-25 shirt. No source found naming it on the 2026-27 shirt, so it isn't on that kit."
+  },
+  {
     "id": "afc-albaik-asian-cup-2027",
     "clubId": null,
     "orgName": "AFC Asian Cup Saudi Arabia 2027",
@@ -720,6 +811,62 @@
     "endedOn": "2026-06"
   },
   {
+    "id": "as-roma-eurobet-live",
+    "clubId": "as-roma",
+    "orgName": null,
+    "sponsorId": "eurobet-live",
+    "placement": "front",
+    "from": "2025-26",
+    "to": "2028-29",
+    "value": {
+      "amount": 16,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": null
+    },
+    "source": {
+      "name": "RomaPress - Roma secure main sponsorship agreement with Eurobet: the club will earn €16 million per year",
+      "date": "2026-03-09",
+      "url": "https://romapress.net/roma-secure-main-sponsorship-agreement-with-eurobet-the-club-will-earn-e16-million-per-year/",
+      "quote": "Roma will receive €16 million per year from the agreement, which is valid for three years and four months.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Multi-year deal running to the 2028/29 season per the club's announcement. Value is a press report; another report (Yahoo/Football Italia, 2026-03-11) gives the same €16m figure. Two other variants exist: Goal (2026-03-18) reported €8m for the first season rising to €13m, and iGaming Republic (2026-03-16, citing Il Tempo via Calcio e Finanza) reported €13-14m base with bonuses to around €16m - see PR."
+  },
+  {
+    "id": "as-roma-wizz-air",
+    "clubId": "as-roma",
+    "orgName": null,
+    "sponsorId": "wizz-air",
+    "placement": "sleeve",
+    "from": "2025-26",
+    "to": null,
+    "value": {
+      "amount": 3,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": null
+    },
+    "source": {
+      "name": "RomaPress - Roma to earn €3 million per season from Wizz Air partnership",
+      "date": "2025-12-14",
+      "url": "https://romapress.net/roma-to-earn-e3-million-per-season-from-wizz-air-partnership/",
+      "quote": "Financially, the deal should generate revenue for Roma in excess of €3 million per year.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Reported 'in excess of €3 million per year' (citing Il Tempo), so upTo is false but the figure is a floor; recorded as approximately €3m per year. Sleeve sponsorship debuted 15 December 2025 per the club's announcement."
+  },
+  {
     "id": "asian-tour-liv",
     "clubId": null,
     "orgName": "Asian Tour",
@@ -735,6 +882,27 @@
     },
     "leagueId": "asian-tour",
     "note": "PIF-funded LIV Golf partnered with the Asian Tour from the league's 2022 launch, creating and funding the International Series; the partnership ended when the Asian Tour joined the PGA Tour / DP World Tour strategic alliance on 21 July 2026 (CBS Sports). AFP via Philstar (2026-07-22) reports LIV had bankrolled the International Series to the tune of $300m, and that PIF announced earlier in 2026 it would stop funding LIV after the 2026 season. Existing claim liv-pif-funding covers the PIF-LIV funding."
+  },
+  {
+    "id": "aston-martin-aquame",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "aquame",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Aston Martin Aramco announce AQUAME as Official Water Bottle Supplier",
+      "date": "2026-05-18",
+      "url": "https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramco-announce-aquame-as-official-water-bottle-supplier",
+      "quote": "AQUAME will supply Aston Martin Aramco with their specially designed team water bottle",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official Water Bottle Supplier; announced 18 May 2026, supplying the team through the 2026 season. No reported value."
   },
   {
     "id": "aston-martin-aramco",
@@ -753,6 +921,69 @@
     "note": "Aston Martin Aramco F1 Team title partner on the 2026 car. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2022-02-03."
   },
   {
+    "id": "aston-martin-arm",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "arm",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Arm (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/arm",
+      "quote": "Official AI Compute Platform Partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official AI Compute Platform Partner; Arm joined the team in a multi-year deal announced in January 2025. No reported value."
+  },
+  {
+    "id": "aston-martin-atlas-air",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "atlas-air",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Atlas Air (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/atlas-air",
+      "quote": "Official Logistics Partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official Logistics Partner; Atlas Air's partnership with the team was announced as a multi-year deal in February 2025. No reported value."
+  },
+  {
+    "id": "aston-martin-boss",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "boss",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – BOSS (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/boss",
+      "quote": "Global Fashion Partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Global Fashion Partner (HUGO BOSS); the page shows 2025 and 2026 team content including a bespoke BOSS x Aston Martin Aramco helmet livery for the 2026 Spanish Grand Prix. No reported value or start year."
+  },
+  {
     "id": "aston-martin-breitling",
     "clubId": "aston-martin",
     "orgName": null,
@@ -767,6 +998,48 @@
       "url": "https://www.astonmartinf1.com/en-GB/partners"
     },
     "note": "Aston Martin Aramco F1 Team other partner on the 2026 car."
+  },
+  {
+    "id": "aston-martin-celsius",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "celsius",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Aston Martin Aramco and CELSIUS enter multi-year global partnership",
+      "date": "2026-01-22",
+      "url": "https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramco-and-celsius-enter-multi-year-global-partnership",
+      "quote": "naming CELSIUS an Aston Martin Aramco Formula One Team Partner and official Global Energy Drink Partner of the team",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Exclusive, multi-year global partnership announced 22 January 2026. No reported value."
+  },
+  {
+    "id": "aston-martin-cognition",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "cognition",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Aston Martin Aramco signs AI software engineering specialists, Cognition, in multi-year deal",
+      "date": "2026-02-09",
+      "url": "https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramco-signs-cognition",
+      "quote": "Aston Martin Aramco Formula One Team announces a multi-year partnership with Cognition, the dedicated AI coding agent company, which joins as a Global Partner of the Silverstone-based team.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Multi-year deal announced 9 February 2026. No reported value."
   },
   {
     "id": "aston-martin-cognizant",
@@ -785,6 +1058,27 @@
     "note": "Aston Martin Aramco F1 Team other partner on the 2026 car."
   },
   {
+    "id": "aston-martin-cohere",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "cohere",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Cohere joins Aston Martin Aramco as Official Generative AI Partner to help accelerate AI innovation",
+      "date": "2026-03-04",
+      "url": "https://www.astonmartinf1.com/en-GB/news/announcement/cohere-joins-aston-martin-aramco-as-official-generative-ai-partner",
+      "quote": "The partnership establishes Cohere as the Official Generative AI Partner of the Aston Martin Aramco.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "New multi-year partnership announced 4 March 2026. No reported value."
+  },
+  {
     "id": "aston-martin-coinbase",
     "clubId": "aston-martin",
     "orgName": null,
@@ -799,6 +1093,132 @@
       "url": "https://www.coinbase.com/blog/coinbase-waves-the-green-flag-on-global-expansion-in-brand-partnership-with-Aston-Martin-Aramco-Formula-One-Team"
     },
     "note": "Aston Martin Aramco F1 Team other partner on the 2026 car. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-11-16."
+  },
+  {
+    "id": "aston-martin-coinpayments",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "coinpayments",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – COINPAYMENTS (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/coinpayments",
+      "quote": "Global Digital Payments Processing Partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Global Digital Payments Processing Partner. No reported value or start year."
+  },
+  {
+    "id": "aston-martin-coreweave",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "coreweave",
+    "placement": "partner",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco announces CoreWeave as Official AI Cloud Computing Partner",
+      "date": "2025-05-22",
+      "url": "https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramco-announces-coreweave-as-official-ai-cloud-computing-partner",
+      "quote": "Aston Martin Aramco announces a multi-year partnership with CoreWeave, the first AI Hyperscaler, which joins the team as Official AI Cloud Computing Partner.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official AI Cloud Computing Partner; CoreWeave branding appeared on the AMR25 from the 2025 Monaco Grand Prix. No reported value."
+  },
+  {
+    "id": "aston-martin-eight-sleep",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "eight-sleep",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Aston Martin Aramco turns to Eight Sleep to support competitive edge",
+      "date": "2026-02-10",
+      "url": "https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramco-turns-to-eight-sleep-to-support-competitive-edge",
+      "quote": "Aston Martin Aramco Formula One Team announces a new partnership with Eight Sleep, the world's leading sleep technology company, focused on improving driver and team performance across the 2026 Formula One season.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "New partnership announced 10 February 2026, focused on the 2026 season. No reported value."
+  },
+  {
+    "id": "aston-martin-elemis",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "elemis",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – ELEMIS (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/elemis",
+      "quote": "Official Skincare Partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official Skincare Partner; ELEMIS's partnership with the team was announced as a multi-year deal in February 2025. No reported value."
+  },
+  {
+    "id": "aston-martin-financial-times",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "financial-times",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Financial Times (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/financial-times",
+      "quote": "Official partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official partner (business news organisation). No reported value or start year."
+  },
+  {
+    "id": "aston-martin-glenfiddich",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "glenfiddich",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Glenfiddich (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/glenfiddich",
+      "quote": "Official Whisky Partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official Whisky Partner; the page marks the second year of the partnership and links team features on the launch of the partnership. No reported value or start year."
   },
   {
     "id": "aston-martin-honda",
@@ -817,6 +1237,48 @@
     "note": "Aston Martin Aramco F1 Team front partner on the 2026 car."
   },
   {
+    "id": "aston-martin-jcb",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "jcb",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – JCB (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/JCB",
+      "quote": "Global Partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Global Partner (JCB, construction equipment maker). No reported value or start year."
+  },
+  {
+    "id": "aston-martin-krown-produce",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "krown-produce",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Krown Produce (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/krown-produce",
+      "quote": "Official Produce Partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official Produce Partner (Canadian produce supplier). No reported value or start year."
+  },
+  {
     "id": "aston-martin-maaden",
     "clubId": "aston-martin",
     "orgName": null,
@@ -831,6 +1293,27 @@
       "url": "https://maaden.com/news-insights/latest-news/aston-martin-aramco-formula-one-team-and-principal-partner-maaden-announce-multi-year-youth-development-programme"
     },
     "note": "Aston Martin Aramco F1 Team other partner on the 2026 car."
+  },
+  {
+    "id": "aston-martin-morrison-foerster",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "morrison-foerster",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Morrison Foerster (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/morrison-foerster",
+      "quote": "Official Supplier",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official Supplier (global law firm). No reported value or start year."
   },
   {
     "id": "aston-martin-netapp",
@@ -849,6 +1332,90 @@
     "note": "Aston Martin Aramco F1 Team other partner on the 2026 car."
   },
   {
+    "id": "aston-martin-nexgen",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "nexgen",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – NexGen (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/nexgen",
+      "quote": "Global partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Global partner (NexGen Energy, Canadian uranium developer). No reported value or start year."
+  },
+  {
+    "id": "aston-martin-oakley",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "oakley",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Oakley (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/oakley",
+      "quote": "Technical Supplier",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Technical Supplier (eyewear); the page links the team's announcement of the first Oakley licensed special-edition product. No reported value or start year."
+  },
+  {
+    "id": "aston-martin-pepperstone",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "pepperstone",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Pepperstone (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/pepperstone",
+      "quote": "Global Forex and Trading Partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Global Forex and Trading Partner; Pepperstone joined the team as Official Trading Partner in a multi-year deal announced in January 2025. No reported value."
+  },
+  {
+    "id": "aston-martin-public",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "public",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Public (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/public",
+      "quote": "Official US Investing Platform",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official US Investing Platform. No reported value or start year."
+  },
+  {
     "id": "aston-martin-puma-am",
     "clubId": "aston-martin",
     "orgName": null,
@@ -865,6 +1432,90 @@
     "note": "Aston Martin Aramco F1 Team other partner on the 2026 car."
   },
   {
+    "id": "aston-martin-regent-seven-seas-cruises",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "regent-seven-seas-cruises",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Regent Seven Seas Cruises (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/regent-seven-seas-cruises",
+      "quote": "Global Cruise line partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Global Cruise line partner; the page links team features on Regent's 'innovative partnership with Aston Martin Aramco'. No reported value or start year."
+  },
+  {
+    "id": "aston-martin-servicenow",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "servicenow",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – ServiceNow (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/servicenow",
+      "quote": "Intelligent Platform Partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Intelligent Platform Partner; ServiceNow's partnership with the team was announced as a multi-year deal in February 2025. No reported value."
+  },
+  {
+    "id": "aston-martin-tiktok",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "tiktok",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Aston Martin Aramco and TikTok renew partnership, bringing 2026 team launch to TikTok LIVE",
+      "date": "2026-02-04",
+      "url": "https://www.astonmartinf1.com/en-GB/news/announcement/tiktok-and-aston-martin-aramco-renew-partnership",
+      "quote": "Aston Martin Aramco Formula One Team and TikTok announce a renewal of their partnership, marking the next chapter in a collaboration built on a shared ambition to put fans at the centre of Formula One.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Partnership first launched in 2021; renewal announced 4 February 2026. No reported value."
+  },
+  {
+    "id": "aston-martin-ukg",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "ukg",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – UKG (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/ukg",
+      "quote": "Official HR, Pay, and Workforce Management Partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official HR, Pay, and Workforce Management Partner. No reported value or start year."
+  },
+  {
     "id": "aston-martin-valvoline",
     "clubId": "aston-martin",
     "orgName": null,
@@ -879,6 +1530,90 @@
       "url": "https://www.astonmartinf1.com/en-GB/news/announcement/amf1-team-and-valvoline-global-operations-announce-strategic-partnership"
     },
     "note": "Aston Martin Aramco F1 Team other partner on the 2026 car."
+  },
+  {
+    "id": "aston-martin-velocity-black",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "velocity-black",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Velocity Black (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/velocity-black",
+      "quote": "Global Partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Global Partner (luxury members' club). No reported value or start year."
+  },
+  {
+    "id": "aston-martin-xerox",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "xerox",
+    "placement": "partner",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Xerox (partner page)",
+      "date": "2026-09-27",
+      "url": "https://www.astonmartinf1.com/en-GB/partner/xerox",
+      "quote": "Xerox will support Aston Martin Aramco's digital technology functions both on and off the racetrack, with our multi-year partnership commencing from the start of 2025",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official Global Partner; multi-year partnership commencing from the start of 2025. No reported value."
+  },
+  {
+    "id": "aston-martin-zscaler",
+    "clubId": "aston-martin",
+    "orgName": null,
+    "sponsorId": "zscaler",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Aston Martin Aramco – Aston Martin Aramco and Zscaler redefine speed and security",
+      "date": "2026-06-25",
+      "url": "https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramco-and-zscaler-redefine-speed-and-security",
+      "quote": "Today, Zscaler, which protects more than 45 per cent of the Fortune 500, joins Aston Martin Aramco as Global Cybersecurity Partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Global Cybersecurity Partner; branding debut announced 25 June 2026. No reported value."
+  },
+  {
+    "id": "athletic-club-digi",
+    "clubId": "athletic-club",
+    "orgName": null,
+    "sponsorId": "digi",
+    "placement": "back",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "quote": "Telecommunications company Digi is also visible as both a front-of-shirt sponsor (Rayo Vallecano and vertical on Racing Santander’s shirtfronts) and a back-of-shirt sponsor (Athletic).",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Value not disclosed."
   },
   {
     "id": "athletic-club-kutxabank",
@@ -1737,6 +2472,34 @@
     "leagueId": "dp-world-tour"
   },
   {
+    "id": "barcelona-midea",
+    "clubId": "barcelona",
+    "orgName": null,
+    "sponsorId": "midea",
+    "placement": "sleeve",
+    "from": "2026-27",
+    "to": "2030-31",
+    "value": {
+      "amount": 12,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 14
+    },
+    "source": {
+      "name": "SportsPro: Barcelona thread '€60m' Midea sleeve sponsorship deal",
+      "date": "2025-09-03",
+      "url": "https://www.sportspro.com/news/sponsorship-marketing/barcelona-midea-sleeve-sponsorship-deal-september-2025/",
+      "quote": "Spanish newspaper Mundo Deportivo reports that it is worth €12 million (US$14 million) per year.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "SportsPro: 'Deal will run for five seasons through to 2030/31'; 'Financial terms of the deal were not officially disclosed', the fee is Mundo Deportivo's report. 2Playbook (2025-09-02, 'El Barça ficha a Midea para la manga de la camiseta hasta junio de 2031') also gives 2030-2031 as the end; its URL mentions 9 million a year, its text states no fee."
+  },
+  {
     "id": "barcelona-spotify",
     "clubId": "barcelona",
     "orgName": null,
@@ -1781,15 +2544,48 @@
     "orgName": null,
     "sponsorId": "barmenia",
     "placement": "front",
-    "from": "2026-27",
-    "to": null,
+    "from": "2016",
+    "to": "2028",
+    "value": {
+      "amount": 9,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": 10
+    },
+    "source": {
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+      "quote": "Bayer Leverkusen durch Barmenia belaufen sich aktuell auf bis zu 9 Millionen Euro",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Main and shirt sponsor since 2016; contract runs to 2028 (ran.de/kicker: 'seit 2016, bis 2028', 9 Millionen Euro pro Jahr). New sponsor logo since 2025/26 after the Barmenia-Gothaer merger."
+  },
+  {
+    "id": "bayer-leverkusen-niedax",
+    "clubId": "bayer-leverkusen",
+    "orgName": null,
+    "sponsorId": "niedax",
+    "placement": "sleeve",
+    "from": "2024-25",
+    "to": "2027",
     "value": null,
     "source": {
-      "name": "Football Kit Archive, Bundesliga 2026-27 kits",
-      "date": "2026-09-24",
-      "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+      "name": "Niedax Group news, 10.06.2024: Niedax Group to become new Bayer 04 Leverkusen sleeve partner",
+      "date": "2024-06-10",
+      "url": "https://www.niedax-group.com/en/news-events/niedax-group-to-become-new-bayer-04-leverkusen-sleeve-partner/",
+      "quote": "The contract runs until 30 June 2027, and the logo of the Niedax Group will be prominently displayed during Bundesliga matches and in any international competitions in which Bayer 04 take part over the next three years.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Value not disclosed."
+    "note": "Value not disclosed. Partnership with the club dates to 1997; sleeve partnership since 2024/25 after Trive's contractual withdrawal."
   },
   {
     "id": "bayern-munich-deutsche-telekom",
@@ -1900,6 +2696,76 @@
     "note": "Benfica calls it the 'longest and most lucrative' front-of-shirt deal in its history; no value disclosed. Original 2015 announcement: Emirates media centre, 19 May 2015 (three-year front-of-shirt deal, 'Fly Emirates on the front of the SL Benfica jersey')."
   },
   {
+    "id": "bodo-glimt-coop-nordland-2029",
+    "clubId": "bodo-glimt",
+    "orgName": "Coop Nordland SA",
+    "sponsorId": "coop-nordland",
+    "placement": "partner",
+    "from": "2026",
+    "to": "2029",
+    "value": null,
+    "source": {
+      "name": "Bodø/Glimt - Coop på strømpene i 3 nye år (22 Sep 2026)",
+      "date": "2026-09-22",
+      "url": "https://www.glimt.no/nyheter/coop-pa-strompene-i-3-nye-ar",
+      "quote": "Coop Nordland og Glimt er enige om en ny partneravtale som strekker seg ut 2029-sesongen",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Renewal runs to the 2029 season; no value reported (the club says the financial contribution doubles, without figures). Socks placement."
+  },
+  {
+    "id": "bodo-glimt-novo-nordisk-shorts",
+    "clubId": "bodo-glimt",
+    "orgName": "Novo Nordisk",
+    "sponsorId": "novo-nordisk",
+    "placement": "shorts",
+    "from": "2026",
+    "to": "2026",
+    "value": null,
+    "source": {
+      "name": "Bodø/Glimt - Bodø/Glimt inngår samarbeid med Novo Nordisk (12 Sep 2026)",
+      "date": "2026-09-12",
+      "url": "https://www.glimt.no/nyheter/bodo-glimt-inngar-samarbeid-med-novo-nordisk",
+      "quote": "Novo Nordisk skal vises fram på shortsen framover.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Partnership announced September 2026, with Novo Nordisk on the shorts; it initially runs to the end of the year ('varer i utgangspunktet ut året'), with plans for a longer partnership. No value reported."
+  },
+  {
+    "id": "borussia-dortmund-polestar",
+    "clubId": "borussia-dortmund",
+    "orgName": null,
+    "sponsorId": "polestar",
+    "placement": "sleeve",
+    "from": "2025-26",
+    "to": null,
+    "value": {
+      "amount": 5,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": null
+    },
+    "source": {
+      "name": "SPORT1/SID: Neuer Geldregen für BVB (citing Bild: ~EUR 5m per season, three years)",
+      "date": "2025-08-04",
+      "url": "https://www.sport1.de/news/emerald-default-temp/2025/08/neuer-armelsponsor-bvb-kassiert-millionen",
+      "quote": "Der Bild-Zeitung zufolge nimmt der BVB dadurch fünf Millionen Euro pro Saison ein",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Announced 4 August 2025 as mobility partner and sleeve sponsor for all competitions, 'zunächst für drei Jahre' (initially three years). 'to' left null: the sources give the initial term, not a fixed end season."
+  },
+  {
     "id": "borussia-dortmund-vodafone",
     "clubId": "borussia-dortmund",
     "orgName": null,
@@ -1923,43 +2789,32 @@
     "note": "Five-year deal to 2030; replaces the 1&1 (league) and Evonik (cup) split."
   },
   {
-    "id": "borussia-monchengladbach-hylo",
-    "clubId": "borussia-monchengladbach",
-    "orgName": null,
-    "sponsorId": "hylo",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": null,
-    "source": {
-      "name": "Football Kit Archive, Bundesliga 2026-27 kits",
-      "date": "2026-09-24",
-      "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
-    },
-    "note": "Value not disclosed."
-  },
-  {
     "id": "borussia-monchengladbach-reuter",
     "clubId": "borussia-monchengladbach",
     "orgName": null,
     "sponsorId": "reuter",
     "placement": "front",
-    "from": null,
-    "to": "2026-27",
+    "from": "2024",
+    "to": "2027",
     "value": {
       "amount": 8,
       "currency": "EUR",
       "unit": "m",
       "per": "year",
-      "upTo": true,
+      "upTo": false,
       "usdApprox": 9
     },
     "source": {
-      "name": "ran.de, Was die Hauptsponsoren den 18 klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
-      "date": "2026-08",
-      "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665"
+      "name": "ran.de: Bundesliga: Was die Hauptsponsoren den 18 Klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
+      "date": "2026-07-24",
+      "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665",
+      "quote": "Borussia Mönchengladbach Hauptsponsor: Reuter Vertragslaufzeit: seit 2024, bis 2027 Summe: 8 Millionen Euro pro Jahr",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Two-year deal from 2024 with option (now exercised) to 2027; reported ~EUR8m, plus success bonuses."
+    "note": "Two-year deal from 2024 with option (now exercised) to 2027; reported ~EUR8m per year, plus success bonuses."
   },
   {
     "id": "boston-celtics-amica-mutual-insurance-patch",
@@ -2397,6 +3252,34 @@
     }
   },
   {
+    "id": "celta-vigo-abanca",
+    "clubId": "celta-vigo",
+    "orgName": null,
+    "sponsorId": "abanca",
+    "placement": "back",
+    "from": null,
+    "to": "2028",
+    "value": {
+      "amount": 2,
+      "currency": "EUR",
+      "unit": "million",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": null
+    },
+    "source": {
+      "name": "Faro de Vigo, 'Camiseta Celta de Vigo 2026/27: ?Regreso de Citroen al Celta? Stellantis vuelve a patrocinar al mundo del deporte'",
+      "date": "2026-06-12",
+      "url": "https://www.farodevigo.es/celta-de-vigo/2026/06/12/camiseta-celta-patrocinador-regreso-citroen-stellantis-131256719.html",
+      "quote": "algo menos de 2 millones de euros anuales —dentro de un presupuesto de casi 120— que otorga el contrato en vigor hasta 2028 por el nombre del estadio de Balaídos",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Press estimate for Abanca's whole package: the Abanca Balaidos stadium naming plus the secondary sponsorship on playing kit (back of shirt), combined 'a little under 2 million euros a year', running to 2028. The deal's start year is not stated. Faro de Vigo reported on 24 September 2026 that Conxemar takes over the stadium naming from 2028, when the Abanca agreement expires."
+  },
+  {
     "id": "celta-vigo-estrella-galicia",
     "clubId": "celta-vigo",
     "orgName": null,
@@ -2408,7 +3291,33 @@
     "source": {
       "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
       "date": "2026-09-06",
-      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "quote": "Celta de Vigo Estrella Galicia 0,0 Beverage",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Value not disclosed. RC Celta announced a renewal of the Estrella Galicia sponsorship on 4 February 2026, a relationship now past 15 years (https://rccelta.es/club/actualidad/el-celta-renueva-su-patrocinio-con-estrella-galicia-tras-mas-de-15-anos-de-historia-compartida/)."
+  },
+  {
+    "id": "celta-vigo-jp-financial",
+    "clubId": "celta-vigo",
+    "orgName": null,
+    "sponsorId": "jp-financial",
+    "placement": "sleeve",
+    "from": "2025-26",
+    "to": "2028",
+    "value": null,
+    "source": {
+      "name": "RC Celta, 'JP Financial, nuevo patrocinador de la manga del Celta'",
+      "date": "2025-08-15",
+      "url": "https://rccelta.es/club/actualidad/jp-financial-nuevo-patrocinador-de-la-manga-del-celta/",
+      "quote": "El acuerdo, vigente hasta 2028",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     },
     "note": "Value not disclosed."
   },
@@ -2481,18 +3390,30 @@
   {
     "id": "chelsea-circle-usdc",
     "clubId": "chelsea",
-    "orgName": null,
+    "orgName": "Circle Internet Group",
     "sponsorId": "circle-usdc",
     "placement": "front",
-    "from": null,
-    "to": null,
-    "value": null,
-    "source": {
-      "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
-      "date": "2026-09-17",
-      "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+    "from": "2026-27",
+    "to": "2026-27",
+    "value": {
+      "amount": 50,
+      "currency": "GBP",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 67
     },
-    "note": "USDC stablecoin branding; replaces the front that had been vacant."
+    "source": {
+      "name": "BBC Sport: Chelsea announce new shirt sponsorship with Circle",
+      "date": "2026-08-28",
+      "url": "https://www.bbc.com/sport/football/articles/c36lp8jyydjo",
+      "quote": "Chelsea have announced a new one-year front-of-shirt sponsorship deal with Circle Internet Group.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "USDC stablecoin branding; replaces the front that had been vacant. One-year deal; BBC Sport says the value was 'believed to be about £50m per season, though the exact figures have not been given', so the amount is a reported estimate. usdApprox is a conversion at about $1.34 per £, not a reported figure."
   },
   {
     "id": "chicago-bears-advocate-health-care-patch",
@@ -2802,6 +3723,28 @@
     "value": null,
     "source": null,
     "note": "Value not disclosed."
+  },
+  {
+    "id": "club-brugge-betsson-front",
+    "clubId": "club-brugge",
+    "orgName": null,
+    "sponsorId": "betsson-sport",
+    "placement": "front",
+    "from": "2025",
+    "to": "2028",
+    "value": null,
+    "source": {
+      "name": "Betsson Group, 'Betsson Group becomes main partner of Club Brugge'",
+      "date": "2025-06-28",
+      "url": "https://betssongroup.com/news/betsson-group-becomes-main-partner-of-club-brugge/",
+      "quote": "Betsson Group will be the new official main partner of Club Brugge. The three-year agreement represents the largest shirt sponsorship deal in the club’s history",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Opened via Wayback Machine snapshot 20251216055347 because betssongroup.com blocks bots. No figure is reported in the announcement, so value is null."
+    },
+    "note": "Three-year main-partner deal from June 2025. The announcement says betFIRST.sport fronts the domestic jersey and betsson.sport the European-competition kits; the 2026-27 home shirt (Jupiler Pro League) carries betsson.sport on the chest. Described as the largest shirt sponsorship deal in the club's history; no amount disclosed."
   },
   {
     "id": "colorado-rockies-coors-brewing-co-stadium",
@@ -3238,17 +4181,29 @@
     "id": "dallas-cowboys-at-and-t-stadium",
     "clubId": "dallas-cowboys",
     "orgName": "AT&T",
-    "sponsorId": "at-and-t",
+    "sponsorId": "att",
     "placement": "stadium",
-    "from": null,
+    "from": "2013",
     "to": null,
-    "value": null,
-    "source": {
-      "name": "ESPN",
-      "date": "2013-07-25",
-      "url": "https://www.espn.com/nfl/story/_/id/9508990/dallas-cowboys-say-complex-renamed-att-stadium"
+    "value": {
+      "amount": 17,
+      "currency": "USD",
+      "unit": "m",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": 19
     },
-    "note": "Arena naming rights: AT&T Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2013-07-25."
+    "source": {
+      "name": "ESPN - Cowboys complete AT&T deal",
+      "date": "2013-07-25",
+      "url": "https://www.espn.com/nfl/story/_/id/9508990/dallas-cowboys-say-complex-renamed-att-stadium",
+      "quote": "The deal is worth between $17 million and $19 million per year, according to sources.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Arena naming rights: AT&T Stadium, announced 2013-07-24 and effective immediately per ESPN."
   },
   {
     "id": "dallas-cowboys-att-patch",
@@ -3260,9 +4215,14 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Zoomph",
+      "name": "Zoomph - The Ultimate Guide To NFL Practice Jersey Sponsors",
       "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+      "quote": "Few partnerships are as integrated as AT&T and the Cowboys. From the team’s stadium name to the practice fields and now the jersey patch, the brand remains synonymous with America’s Team.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
     "note": "Practice-jersey patch."
   },
@@ -3374,9 +4334,35 @@
     "source": {
       "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
       "date": "2026-09-06",
-      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "quote": "Alavés has sports news platform MK TIYU News as main shirt sponsor, while featuring an Araba/Álava logo vertically lower down to promote the Basque region.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     },
     "note": "Value not disclosed."
+  },
+  {
+    "id": "deportivo-la-coruna-buala",
+    "clubId": "deportivo-la-coruna",
+    "orgName": null,
+    "sponsorId": "buala",
+    "placement": "shorts",
+    "from": "2026-27",
+    "to": "2027-28",
+    "value": null,
+    "source": {
+      "name": "Bualá: Bualá renueva su patrocinio con el RC Deportivo hasta 2028",
+      "date": "2026-08-14",
+      "url": "https://buala.es/blog/buala-renueva-su-patrocinio-con-el-rc-deportivo/",
+      "quote": "Hemos renovado nuestro acuerdo de patrocinio con el club para las temporadas 2026/27 y 2027/28",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Renewed as Patrocinador Premium for 2026/27 and 2027/28. Value not disclosed."
   },
   {
     "id": "deportivo-la-coruna-estrella-galicia",
@@ -4271,6 +5257,28 @@
     "note": "Value not disclosed."
   },
   {
+    "id": "elche-mgs-seguros",
+    "clubId": "elche",
+    "orgName": null,
+    "sponsorId": "mgs-seguros",
+    "placement": "sleeve",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Sleeve-sponsor table lists Elche - MGS Seguros. MGS's own Informe Anual Individual 2025 (p. 34) confirms the Elche Club de Fútbol sponsorship among the ten teams the company backed in 2025.",
+      "quote": "Three clubs – Elche and promoted sides Málaga and Racing Santander – have even agreed with the same company MGS Seguros.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Value not disclosed."
+  },
+  {
     "id": "espanyol-arctempus",
     "clubId": "espanyol",
     "orgName": null,
@@ -4280,11 +5288,37 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
-      "date": "2026-09-06",
-      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      "name": "La Grada: 'ARCTEMPUS Capital será el nuevo patrocinador del Espanyol: qué es la firma y su conexión con el entorno de Alan Pace'",
+      "date": "2026-08-20",
+      "url": "https://lagrada.org/arctempus-capital-patrocinador-espanyol-alan-pace-iese/",
+      "quote": "El Espanyol ya tiene nuevo patrocinador principal. ARCTEMPUS Capital ocupará el frontal de la camiseta blanquiazul",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Value not disclosed."
+    "note": "Value not disclosed; neither the club announcement nor La Grada's report gives a figure."
+  },
+  {
+    "id": "espanyol-kelme",
+    "clubId": "espanyol",
+    "orgName": null,
+    "sponsorId": "kelme",
+    "placement": "partner",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "La Grada: Kelme seguirá vistiendo al Espanyol en la temporada 2026-27: el club apuesta por la continuidad tras meses de negociaciones con la marca",
+      "date": "2026-03-26",
+      "url": "https://lagrada.org/kelme-espanyol-renovacion-equipacion-2026-2027/",
+      "quote": "ambas partes han alcanzado un acuerdo para prolongar la relación durante la campaña 2026-27",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Kit supply renewal for 2026-27; Kelme has supplied Espanyol since 2018-19 (La Grada). End date not settled in the sources: La Grada calls the renewal 'de momento por una temporada adicional', while Kelme's own Espanyol page (kelme.com/en/collections/rcd-espanyol) says the partnership that began in 2018 runs 'until 2030'. Value not disclosed."
   },
   {
     "id": "euroleague-adidas",
@@ -4820,6 +5854,28 @@
     "note": "Also holds the naming rights to the WWK Arena."
   },
   {
+    "id": "fc-koln-devk",
+    "clubId": "fc-koln",
+    "orgName": null,
+    "sponsorId": "devk",
+    "placement": "sleeve",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "DEVK: Kooperationen - Partnerschaft 1. FC Köln",
+      "date": "2026-09",
+      "url": "https://www.devk.de/unternehmen/partnerschaft1fckoeln/index.jsp",
+      "note": "Value not disclosed: 11+ Media's Bundesliga sponsoring overview puts the sleeve fee as 'unbekannt' (unknown). DEVK's own partnership page confirms the sleeve sponsorship (Ärmelsponsoring) exists; the partnership with the club dates to 2017, the sleeve deal's start is not stated.",
+      "quote": "Seit 2017 sind wir stolzer Partner des 1. FC Köln. Zusammen für die gute Sache einzustehen, verbindet die DEVK und den FC. Gemeinsam realisieren wir viele Projekte und Aktionen, die weit über die Bandenwerbung und unser Ärmelsponsoring hinausgehen.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Sleeve partner of 1. FC Köln. Partnership since 2017; sleeve-deal start and value unknown."
+  },
+  {
     "id": "fc-koln-rewe",
     "clubId": "fc-koln",
     "orgName": null,
@@ -4834,6 +5890,223 @@
       "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
     },
     "note": "Value not disclosed."
+  },
+  {
+    "id": "fenerbahce-basketball-en-ez-2025-26",
+    "clubId": "fenerbahce-basketball",
+    "orgName": null,
+    "sponsorId": "en-ez",
+    "placement": "shorts",
+    "from": "2025-26",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Türk Spor Ajansı: Fenerbahçe Beko’ya İki Yeni Sponsor",
+      "date": "2025-06-30",
+      "url": "https://turksporajansi.com/2025/06/30/fenerbahce-bekoya-iki-yeni-sponsor/",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "quote": "Anlaşma kapsamında En-Ez İnşaat logosu, takımın Türkiye Sigorta Basketbol Süper Ligi maçlarında giyeceği şortların sol yan tarafında yer alacak."
+    },
+    "note": "From 2025/26, on the left side of the shorts in BSL games."
+  },
+  {
+    "id": "fenerbahce-basketball-milk-academy-2025-26",
+    "clubId": "fenerbahce-basketball",
+    "orgName": null,
+    "sponsorId": "milk-academy",
+    "placement": "sleeve",
+    "from": "2025-26",
+    "to": "2025-26",
+    "value": null,
+    "source": {
+      "name": "Türk Spor Ajansı: Fenerbahçe Beko’ya İki Yeni Sponsor",
+      "date": "2025-06-30",
+      "url": "https://turksporajansi.com/2025/06/30/fenerbahce-bekoya-iki-yeni-sponsor/",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "quote": "Anlaşma kapsamında Milk Academy logosu, 2025-2026 sezonunda oynanacak Türkiye Basketbol Süper Ligi karşılaşmalarında formaların kol kısmında yer alacak."
+    },
+    "note": "2025/26 BSL games, on the arm of the shirt."
+  },
+  {
+    "id": "fenerbahce-basketball-rams-global-2025-26",
+    "clubId": "fenerbahce-basketball",
+    "orgName": null,
+    "sponsorId": "rams-global",
+    "placement": "back",
+    "from": "2025-26",
+    "to": "2025-26",
+    "value": null,
+    "source": {
+      "name": "Fenerbahçe SK: Kulübümüz ile RAMS Global arasındaki sponsorluk anlaşmasının imzaları atıldı (archived)",
+      "date": "2025-10-22",
+      "url": "https://web.archive.org/web/20260806235836/https://www.fenerbahce.org/haberler/basketbol-erkek/2025/10/kulubumuz-ile-rams-global-arasindaki-sponsorluk-anlasmasinin-imzalari-atildi",
+      "quote": "2025-2026 basketbol sezonunda Fenerbahçe Beko Erkek Basketbol Takımımızın Türkiye Basketbol Süper Ligi maçlarında giyeceği formalarının sırt numara altında",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "2025/26 only: below the back number in BSL games and on the front, under the right chest logo, in EuroLeague games."
+  },
+  {
+    "id": "fenerbahce-basketball-tarfin-front",
+    "clubId": "fenerbahce-basketball",
+    "orgName": null,
+    "sponsorId": "tarfin",
+    "placement": "front",
+    "from": "2026-27",
+    "to": "2027-28",
+    "value": null,
+    "source": {
+      "name": "BasketFaul: Fenerbahçe'de BEKO'nun Yerine Tarfin (Anlaşma 2 Yıl)",
+      "date": "2026-08-16",
+      "url": "https://basketfaul.com.tr/turkiye/bsl/fenerbahcede-bekonun-yerine-tarfin/",
+      "quote": "Anlaşmaya göre tarfin, Fenerbahçe’ye bonuslar dışında 7.5 milyon euro verecek.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Two-season name and chest sponsorship (2026/27 and 2027/28) replacing Beko. BasketFaul reports Tarfin will pay 7.5m euros excluding bonuses, plus 2.5m euros in bonuses tied to success in the BSL, the Turkish Cup and the EuroLeague; it doesn't say whether the 7.5m is per season or for the whole two-year deal, so value is left null."
+  },
+  {
+    "id": "fenerbahce-basketball-ykt-filo-2025-26",
+    "clubId": "fenerbahce-basketball",
+    "orgName": null,
+    "sponsorId": "ykt-filo",
+    "placement": "shorts",
+    "from": "2025-26",
+    "to": "2025-26",
+    "value": null,
+    "source": {
+      "name": "HalkTV: Fenerbahçe resmen açıkladı: Anlaşmayı duyurdu",
+      "date": "2025-07-01",
+      "url": "https://halktv.com.tr/spor/fenerbahce-resmen-acikladi-anlasmayi-duyurdu-951659h",
+      "quote": "YKT Filo logosu, 2025-2026 sezonu boyunca Türkiye Sigorta Basketbol Süper Ligi ve EuroLeague dahil olmak üzere Erkek Basketbol Takımımızın tüm karşılaşmalarında forma şortlarında",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "2025/26, on the shorts in all games (club announcement quoted by HalkTV)."
+  },
+  {
+    "id": "ferrari-ambipar",
+    "clubId": "ferrari",
+    "orgName": null,
+    "sponsorId": "ambipar",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Ferrari – Ambipar Team Partner page",
+      "date": "2026-09-24",
+      "url": "https://www.ferrari.com/en-EN/formula1/partners/ambipar"
+    },
+    "note": "Ambipar is a Team Partner on the 2026 partners grid. No reported value; start year not found."
+  },
+  {
+    "id": "ferrari-bingx",
+    "clubId": "ferrari",
+    "orgName": null,
+    "sponsorId": "bingx",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Ferrari – Ferrari signs a multi-year partnership agreement with BingX",
+      "date": "2025-10-31",
+      "url": "https://www.ferrari.com/en-EN/corporate/articles/FERRARI-signs-a-MULTI-YEAR-PARTNERSHIP-agreement--WITH-bingx"
+    },
+    "note": "Team Partner effective 1 January 2026. No reported value."
+  },
+  {
+    "id": "ferrari-bitdefender",
+    "clubId": "ferrari",
+    "orgName": null,
+    "sponsorId": "bitdefender",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Ferrari – Bitdefender Team Partner page",
+      "date": "2026-09-24",
+      "url": "https://www.ferrari.com/en-EN/formula1/partners/bitdefender"
+    },
+    "note": "Team Partner on the 2026 partners grid. No reported value; start year not found."
+  },
+  {
+    "id": "ferrari-ceva",
+    "clubId": "ferrari",
+    "orgName": null,
+    "sponsorId": "ceva",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Ferrari – Scuderia Ferrari HP extends partnership with CEVA Logistics, which becomes a Premium Partner",
+      "date": "2025-11-18",
+      "url": "https://www.ferrari.com/en-EN/formula1/articles/scuderia-ferrari-hp-extends-partnership-with-ceva-logistics-which-becomes-a-premium-partner"
+    },
+    "note": "CEVA becomes a Premium Partner from 2026. No reported value."
+  },
+  {
+    "id": "ferrari-chivas-regal",
+    "clubId": "ferrari",
+    "orgName": null,
+    "sponsorId": "chivas-regal",
+    "placement": "partner",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Ferrari – Scuderia Ferrari HP announces a multi-year partnership with Chivas Regal as Official Team Partner",
+      "date": "2024-11-14",
+      "url": "https://www.ferrari.com/en-EN/formula1/articles/scuderia-ferrari-hp-announces-a-multi-year-partnership-with-chivas-regal-as-official-team-partner"
+    },
+    "note": "Official Team Partner from November 2024. No reported value."
+  },
+  {
+    "id": "ferrari-dxc",
+    "clubId": "ferrari",
+    "orgName": null,
+    "sponsorId": "dxc",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Ferrari – DXC Technology Team Partner page",
+      "date": "2026-09-24",
+      "url": "https://www.ferrari.com/en-EN/formula1/partners/dxc"
+    },
+    "note": "Team Partner on the 2026 partners grid. No reported value; start year not found."
+  },
+  {
+    "id": "ferrari-genesys",
+    "clubId": "ferrari",
+    "orgName": null,
+    "sponsorId": "genesys",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Ferrari – Genesys Team Partner page",
+      "date": "2026-09-24",
+      "url": "https://www.ferrari.com/en-EN/formula1/partners/genesys"
+    },
+    "note": "Team Partner on the 2026 partners grid. No reported value; start year not found."
   },
   {
     "id": "ferrari-hp",
@@ -4866,6 +6139,22 @@
       "url": "https://www.ferrari.com/en-EN/formula1/articles/scuderia-ferrari-hp-announces-a-multi-year-agreement-with-ibm-as-a-premium-partner"
     },
     "note": "Scuderia Ferrari HP other partner on the 2026 car."
+  },
+  {
+    "id": "ferrari-omr-automotive",
+    "clubId": "ferrari",
+    "orgName": null,
+    "sponsorId": "omr-automotive",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Ferrari – OMR Technical Partner page",
+      "date": "2026-09-24",
+      "url": "https://www.ferrari.com/en-EN/formula1/partners/omr"
+    },
+    "note": "Technical Partner; the partnership with Ferrari began in 1978. No reported value."
   },
   {
     "id": "ferrari-peroni",
@@ -4916,6 +6205,22 @@
     "note": "Scuderia Ferrari HP other partner on the 2026 car."
   },
   {
+    "id": "ferrari-richard-mille",
+    "clubId": "ferrari",
+    "orgName": null,
+    "sponsorId": "richard-mille",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Ferrari – Richard Mille Team Partner page",
+      "date": "2026-09-24",
+      "url": "https://www.ferrari.com/en-EN/formula1/partners/richard-mille"
+    },
+    "note": "Team Partner on the 2026 partners grid. No reported value; start year not found."
+  },
+  {
     "id": "ferrari-shell",
     "clubId": "ferrari",
     "orgName": null,
@@ -4946,6 +6251,76 @@
       "url": "https://www.unicreditgroup.eu/en/unicredit-at-a-glance/art-culture-sport/sport/scuderia-ferrari.html"
     },
     "note": "Scuderia Ferrari HP sleeve partner on the 2026 car."
+  },
+  {
+    "id": "ferrari-whoop",
+    "clubId": "ferrari",
+    "orgName": null,
+    "sponsorId": "whoop",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Ferrari – WHOOP Team Partner page",
+      "date": "2026-09-24",
+      "url": "https://www.ferrari.com/en-EN/formula1/partners/whoop"
+    },
+    "note": "Team Partner on the 2026 partners grid. No reported value; start year not found."
+  },
+  {
+    "id": "ferrari-zcg",
+    "clubId": "ferrari",
+    "orgName": null,
+    "sponsorId": "zcg",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Ferrari – ZCG Team Partner page",
+      "date": "2026-09-24",
+      "url": "https://www.ferrari.com/en-EN/formula1/partners/zcg"
+    },
+    "note": "Team Partner on the 2026 partners grid. No reported value; start year not found."
+  },
+  {
+    "id": "ferrari-zyn",
+    "clubId": "ferrari",
+    "orgName": null,
+    "sponsorId": "zyn",
+    "placement": "partner",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Ferrari – Scuderia Ferrari HP extends its partnership with Philip Morris International",
+      "date": "2025-12-03",
+      "url": "https://www.ferrari.com/en-EN/formula1/articles/scuderia-ferrari-hp-philip-morris"
+    },
+    "note": "PMI partnership extended; ZYN branding appears on the car livery at selected Grands Prix starting from the 2025 Abu Dhabi Grand Prix (announced 3 December 2025). No reported value."
+  },
+  {
+    "id": "feyenoord-castore-partner",
+    "clubId": "feyenoord",
+    "orgName": null,
+    "sponsorId": "castore",
+    "placement": "partner",
+    "from": "2023-24",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Feyenoord: Feyenoord en Castore gaan meerjarig partnership met elkaar aan",
+      "date": "2023-01-27",
+      "url": "https://www.feyenoord.com/nl/news/feyenoord-en-castore-gaan-meerjarig-partnership-met-elkaar-aan-270123",
+      "quote": "Castore met ingang van seizoen 2023-2024 de officiële kledingsponsor en merchandisepartner van de Rotterdamse voetbalclub is",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Multi-year kit deal from 2023-24; no value in the club's announcement."
+    },
+    "note": "Castore became Feyenoord's kit maker from season 2023-24 and makes the 2026-27 home kit."
   },
   {
     "id": "fiba-1xbet",
@@ -6172,6 +7547,69 @@
     }
   },
   {
+    "id": "getafe-grand-class",
+    "clubId": "getafe",
+    "orgName": null,
+    "sponsorId": "grand-class",
+    "placement": "shorts",
+    "from": "2025-26",
+    "to": "2027-28",
+    "value": null,
+    "source": {
+      "name": "Getafe CF: El Getafe CF y Grand Class unen fuerzas en un nuevo acuerdo de patrocinio",
+      "date": "2025-08-14",
+      "url": "https://www.getafecf.com/noticias/el-getafe-cf-y-grand-class-unen-fuerzas-en-un-nuevo-acuerdo-de-patrocinio",
+      "quote": "El Getafe CF ha alcanzado un acuerdo con Grand Class, empresa de alquiler de vehículos de lujo en Madrid, para convertirse en nuevo patrocinador oficial del conjunto azulón durante las próximas tres temporadas.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "getafe-mapei",
+    "clubId": "getafe",
+    "orgName": null,
+    "sponsorId": "mapei",
+    "placement": "shorts",
+    "from": "2025-26",
+    "to": "2027-28",
+    "value": null,
+    "source": {
+      "name": "Getafe CF: El Getafe C.F. y Mapei firman un acuerdo de patrocinio por tres temporadas",
+      "date": "2025-09-03",
+      "url": "https://www.getafecf.com/noticias/el-getafe-cf-y-mapei-firman-un-acuerdo-de-patrocinio-por-tres-temporadas",
+      "quote": "El Getafe C.F. y Mapei han alcanzado un acuerdo por el que la multinacional italiana se convierte en nuevo patrocinador oficial del club durante las próximas tres temporadas.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "getafe-odty-news",
+    "clubId": "getafe",
+    "orgName": null,
+    "sponsorId": "odty-news",
+    "placement": "sleeve",
+    "from": "2024-25",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "2Playbook: El Getafe CF firma a Odty News como patrocinador para la manga de la camiseta",
+      "date": "2024-07-05",
+      "url": "https://www.2playbook.com/patrocinio/getafe-cf-firma-odty-news-como-patrocinador-manga-camiseta_16076_102.html",
+      "quote": "El club de LaLiga ha firmado a Odty News como patrocinador para la manga de la camiseta.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Value not disclosed: 2Playbook states 'Se desconocen los detalles económicos y de duración del acuerdo'. ODTY News replaced Tbty News on the sleeve; Score and Change's 2026/27 La Liga sleeve table still lists it ('Getafe ODTY News')."
+  },
+  {
     "id": "getafe-tecnocasa-group",
     "clubId": "getafe",
     "orgName": null,
@@ -6422,15 +7860,49 @@
     "orgName": null,
     "sponsorId": "hansemerkur",
     "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": null,
+    "from": "2022-23",
+    "to": "2027-28",
+    "value": {
+      "amount": 8,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": 9
+    },
     "source": {
       "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
       "date": "2026-08-04",
-      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+      "quote": "Der jährliche Sponsoringbeitrag wird in Medienberichten auf rund acht Millionen Euro geschätzt.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same page: 'Die HanseMerkur ist seit der Saison 2022/23 Haupt- und Trikotsponsor des Hamburger SV.' The to-season follows the September 2024 extension announced by the club (contract to summer 2028), which is not on this page."
     },
-    "note": "Value not disclosed."
+    "note": "Press estimate, not an official figure. Main and shirt sponsor since 2022/23."
+  },
+  {
+    "id": "hamburger-sv-helm-ag",
+    "clubId": "hamburger-sv",
+    "orgName": null,
+    "sponsorId": "helm-ag",
+    "placement": "sleeve",
+    "from": "2024-25",
+    "to": "2026-27",
+    "value": null,
+    "source": {
+      "name": "Plan International Deutschland, Pressemitteilung 24.06.2024",
+      "date": "2024-06-24",
+      "url": "https://www.plan.de/presse/pressemitteilungen/detail/helm-ag-wird-neuer-aermelpartner-des-hsv-und-ueberlaesst-die-praesenz-plan-international.html",
+      "quote": "Das traditionsreiche Hamburger Familienunternehmen HELM AG, das den Club seit 2022 bereits als Supplier unterstützt, wird von der Saison 2024/25 an und für die kommenden drei Jahre neuer Ärmelpartner des Hamburger SV.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Value not disclosed. Three seasons from 2024/25. HELM donates the league-match sleeve presence to Plan International; the HELM logo itself is on the sleeve in DFB-Pokal matches."
   },
   {
     "id": "hero-dubai-desert-classic-hero",
@@ -6844,6 +8316,153 @@
     "note": "Arena naming rights: Lucas Oil Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2006-02-28."
   },
   {
+    "id": "inter-miami-lowes",
+    "clubId": "inter-miami",
+    "orgName": null,
+    "sponsorId": "lowes",
+    "placement": "sleeve",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Lowe's Corporate – 'Inter Miami CF and Lowe's Renew Partnership as Lowe's Becomes a Main Partner, Official Jersey Sleeve Partner, Founding Partner of Miami Freedom Park'",
+      "date": "2026-01-16",
+      "url": "https://corporate.lowes.com/newsroom/press-releases/inter-miami-cf-and-lowes-renew-partnership-lowes-becomes-main-partner-official-jersey-sleeve-partner-founding-partner-miami-freedom-park-01-16-26",
+      "quote": "the Official and Exclusive Home Improvement Partner of Inter Miami CF will now serve as the Official Jersey Sleeve Partner across Inter Miami CF's First Team, MLS Next Pro team, and Academy teams",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Multiyear deal, from 2026 (collaboration began April 2024). Sports Business Journal (via Sportcal) called it the richest and longest sleeve sponsorship in MLS history; no exact value published."
+  },
+  {
+    "id": "inter-miami-nubank",
+    "clubId": "inter-miami",
+    "orgName": null,
+    "sponsorId": "nubank",
+    "placement": "back",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "USA TODAY – 'Inter Miami announces Nu Stadium as newest venue'",
+      "date": "2026-03-04",
+      "url": "https://www.usatoday.com/story/sports/soccer/2026/03/04/inter-miami-announces-nu-stadium-as-newest-venue/88977904007/",
+      "quote": "will also see the company's logo on the lower back of club jerseys beginning in August 2026",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Back-of-jersey placement part of the Nu Stadium naming-rights partnership; logo debuts in August 2026 under a new MLS league asset. No reported value."
+  },
+  {
+    "id": "inter-miami-royal-caribbean",
+    "clubId": "inter-miami",
+    "orgName": null,
+    "sponsorId": "royal-caribbean",
+    "placement": "front",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Inter Miami CF – 'South Florida Proud: Royal Caribbean Takes Center Stage on Inter Miami CF's Iconic Jerseys'",
+      "date": "2024-01-24",
+      "url": "https://www.intermiamicf.com/news/south-florida-proud-royal-caribbean-takes-center-stage-on-inter-miami-cf-s-iconi",
+      "quote": "the world's largest cruise line will make its mark front and center on every Inter Miami jersey as the Official Jersey Partner, beginning with upcoming 2024 campaign",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Multiyear front-of-jersey deal beginning with the 2024 season; no reported value. Sportcal described Royal Caribbean's front deal as an eight-figure annual deal, the most lucrative in MLS history when signed in 2024 (no exact figure published)."
+  },
+  {
+    "id": "inter-milan-bbva-sleeve",
+    "clubId": "inter-milan",
+    "orgName": null,
+    "sponsorId": "bbva",
+    "placement": "sleeve",
+    "from": "2026",
+    "to": null,
+    "value": {
+      "amount": 8.5,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": null
+    },
+    "source": {
+      "name": "AllFootball (citing La Gazzetta dello Sport), 'Gazzetta: Inter sign record sleeve sponsorship deal with BBVA worth €8.5 million annually'",
+      "date": "2026-07-28",
+      "url": "https://www.allfootballapp.com/articles/4911635-gazzetta-inter-sign-record-sleeve-sponsorship",
+      "quote": "The previous contract with Gate.io was worth €6 million per year, while the BBVA deal is expected to reach €8.5 million per year.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Press estimate (Gazzetta dello Sport via AllFootball); the club gave no value. Replaces the Gate.io sleeve deal."
+  },
+  {
+    "id": "inter-milan-betsson-sport-front",
+    "clubId": "inter-milan",
+    "orgName": null,
+    "sponsorId": "betsson-sport",
+    "placement": "front",
+    "from": "2024",
+    "to": "2028",
+    "value": {
+      "amount": 30,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 32200000
+    },
+    "source": {
+      "name": "SportsPro, 'Inter Milan ink club-record Betsson Sport shirt sponsorship'",
+      "date": "2024-07-01",
+      "url": "https://www.sportspro.com/news/sponsorship-marketing/inter-milan-betsson-sport-shirt-sponsorship-serie-a/",
+      "quote": "It was reported in February that Betsson was set to take over from Paramount+ in a deal worth around €30 million (US$32.2 million) annually plus bonuses.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Four-year deal running 2024-25 to 2027-28. Figure is a press report, not a club filing."
+  },
+  {
+    "id": "inter-milan-u-power-back",
+    "clubId": "inter-milan",
+    "orgName": null,
+    "sponsorId": "u-power",
+    "placement": "back",
+    "from": "2023",
+    "to": "2027",
+    "value": {
+      "amount": 5.5,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": null
+    },
+    "source": {
+      "name": "AllFootball (citing La Gazzetta dello Sport), 'Gazzetta: Inter sign record sleeve sponsorship deal with BBVA worth €8.5 million annually'",
+      "date": "2026-07-28",
+      "url": "https://www.allfootballapp.com/articles/4911635-gazzetta-inter-sign-record-sleeve-sponsorship",
+      "quote": "The main sponsor on the Nike jersey is Betsson, at €30 million per year, while the back sponsor is U-Power, at €5.5 million per year.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Four-year deal signed 2023 (Inter announcement); value is a press estimate (Gazzetta dello Sport)."
+  },
+  {
     "id": "international-series-fenix",
     "clubId": null,
     "orgName": "The International Series",
@@ -6973,6 +8592,64 @@
       "url": "https://www.fiaformulae.com/en/teams/jaguar-tcs-racing",
       "note": "Team name 'JAGUAR TCS RACING'; TCS start year and terms not stated. Placement front is the site's mapping of team title/name."
     }
+  },
+  {
+    "id": "juventus-jeep",
+    "clubId": "juventus",
+    "orgName": null,
+    "sponsorId": "jeep",
+    "placement": "front",
+    "from": "2025-26",
+    "to": "2027-28",
+    "value": {
+      "amount": 23,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 25.9
+    },
+    "source": {
+      "name": "SportsPro – Juventus and Jeep reunite in new €69m shirt sponsorship deal",
+      "date": "2025-05-14",
+      "url": "https://www.sportspro.com/news/juventus-jeep-visit-detroit-jersey-partnership-may-2025/",
+      "short": "SportsPro",
+      "quote": "The club will then gain €19 million (US$21.4 million) for the 2025/26 campaign and then €23 million (US$25.9 million) for subsequent years.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "SportsPro: Jeep pays €69m in total through 2028 (€4m for the rest of 2024/25, €19m for 2025/26, €23m per year after). Calcio e Finanza puts the combined Jeep+Visit Detroit front at €28-30m per season."
+  },
+  {
+    "id": "juventus-whitebit",
+    "clubId": "juventus",
+    "orgName": null,
+    "sponsorId": "whitebit",
+    "placement": "sleeve",
+    "from": "2025-26",
+    "to": "2027-28",
+    "value": {
+      "amount": 5,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": 5.8
+    },
+    "source": {
+      "name": "Sportcal (GlobalData) – Juventus name WhiteBIT as sleeve sponsor",
+      "date": "2025-06-16",
+      "url": "https://www.sportcal.com/sponsorship/juventus-name-whitebit-as-sleeve-sponsor-everton-partner-with-seat-unique/",
+      "short": "Sportcal",
+      "quote": "The deal will run through the 2025-26, 2026-27, and 2027-28 seasons and is understood to be worth around €5 million ($5.8 million) annually.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Press estimate ('understood to be worth around'); WhiteBIT replaces Azimut as sleeve sponsor."
   },
   {
     "id": "kansas-city-chiefs-burns-and-mcdonnell-patch",
@@ -7207,6 +8884,48 @@
       "url": "https://www.nba.com/clippers/news/visit-rwanda-lands-in-los-angeles"
     },
     "note": "Jersey patch."
+  },
+  {
+    "id": "la-galaxy-herbalife",
+    "clubId": "la-galaxy",
+    "orgName": null,
+    "sponsorId": "herbalife",
+    "placement": "front",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Herbalife – 'Herbalife and LA Galaxy Unveil 2024 Jersey Ahead of Opening Season Match Against Inter Miami CF at Dignity Health Sports Park'",
+      "date": "2024-02-15",
+      "url": "https://www.herbalife.com/en-us/about-herbalife/press-room/press-releases/herbalife-and-la-galaxy-unveil-2024-jersey-ahead-of-opening-season-match-against-inter-miami-cf-at-dignity-health-sports-park",
+      "quote": "our valued partner, Herbalife, will be featured in the front of our jersey for the 17th consecutive season",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Front-of-jersey partner since at least the 2008 season (17th consecutive season as of 2024) and still front partner for 2026 (For Soccer, February 2026). No reported deal value."
+  },
+  {
+    "id": "la-galaxy-royal-bank-of-canada",
+    "clubId": "la-galaxy",
+    "orgName": null,
+    "sponsorId": "royal-bank-of-canada",
+    "placement": "sleeve",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "City National Bank – 'Royal Bank of Canada and Subsidiary City National Bank Announce Jersey Partnership With the LA Galaxy and Founding Partnership With Dignity Health Sports Park'",
+      "date": "2025-02-13",
+      "url": "https://www.cnb.com/about-us/media/press-releases/2025/la-galaxy-soccer-jersey-partnership-founding-sports-park.html",
+      "quote": "The RBC shield will be prominently featured on the right sleeve of the LA Galaxy's official primary and secondary jerseys",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Multiyear jersey sleeve partnership beginning with the 2025 MLS season, brokered by AEG Global Partnerships; the sleeve logo is the RBC shield. Sister subsidiary City National Bank is the club's official bank and a Dignity Health Sports Park founding partner, but the jersey mark is RBC's. No reported value."
   },
   {
     "id": "la-rams-hyundai-patch",
@@ -7614,6 +9333,27 @@
     "note": "Arena naming rights: Allegiant Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2019-08-05."
   },
   {
+    "id": "lazio-kaiyunsports-news",
+    "clubId": "lazio",
+    "orgName": null,
+    "sponsorId": "kaiyunsports-news",
+    "placement": "sleeve",
+    "from": "2026-27",
+    "to": "2027-28",
+    "value": null,
+    "source": {
+      "name": "S.S. Lazio - S.S. Lazio and kaiyunsports.news announce a two-season partnership",
+      "date": "2026-08-22",
+      "url": "https://www.sslazio.it/en/news/comunicati/s-s-lazio-e-kaiyunsports-news-annunciano-una-nuova-partnership-biennale",
+      "quote": "S.S. Lazio is pleased to announce a new partnership with kaiyunsports.news, which will become the Club’s Official Sleeve Sponsor for the 2026/27 and 2027/28 Serie A seasons",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Two-season sleeve deal for Serie A matches only; financial terms not disclosed."
+  },
+  {
     "id": "lazio-polymarket",
     "clubId": "lazio",
     "orgName": null,
@@ -7671,11 +9411,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
-      "date": "2026-09-06",
-      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      "name": "2Playbook, \"El Levante UD firma a la 'techie' Sesame como patrocinador principal para 2026-2027\"",
+      "date": "2026-07-10",
+      "url": "https://www.2playbook.com/patrocinio/levante-ud-firma-techie-sesame-como-patrocinador-principal-2026-2027_22946_102.html",
+      "quote": "No se han hecho públicos los detalles económicos del acuerdo.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Value not disclosed."
+    "note": "Value not disclosed. Sesame replaces Marcos Automoción as front-of-shirt sponsor ('como relevo de Marcos Automoción en el frontal de su camiseta')."
   },
   {
     "id": "liga-portugal-betclic-title",
@@ -7913,6 +9658,35 @@
     }
   },
   {
+    "id": "liverpool-expedia",
+    "clubId": "liverpool",
+    "orgName": null,
+    "sponsorId": "expedia",
+    "placement": "sleeve",
+    "from": null,
+    "to": null,
+    "value": {
+      "amount": 9,
+      "currency": "GBP",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 12
+    },
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+      "date": "2026-09-17",
+      "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/",
+      "short": "Score and Change",
+      "quote": "Liverpool’s Expedia sleeve deal is reportedly worth less, with £9 million annually",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Press estimate; deal start and end not stated in the source. Expedia extended its sleeve partnership for four more years in March 2023."
+  },
+  {
     "id": "liverpool-standard-chartered",
     "clubId": "liverpool",
     "orgName": null,
@@ -8025,6 +9799,97 @@
     "note": "Arena naming rights: UNIQLO Field at Dodger Stadium."
   },
   {
+    "id": "los-angeles-fc-bmo",
+    "clubId": "los-angeles-fc",
+    "orgName": null,
+    "sponsorId": "bmo-bank",
+    "placement": "front",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BMO Newsroom – LAFC Announces BMO as Official Jersey Sponsor",
+      "date": "2024-02-15",
+      "url": "https://newsroom.bmo.com/2024-02-15-LAFC-Announces-BMO-as-Official-Jersey-Sponsor",
+      "quote": "unveiling BMO as the Club's \"Official Jersey Sponsor\" on the 2024 primary and secondary jersey",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "BMO became LAFC's official jersey sponsor in February 2024. No deal value reported."
+  },
+  {
+    "id": "los-angeles-fc-bmo-stadium",
+    "clubId": "los-angeles-fc",
+    "orgName": null,
+    "sponsorId": "bmo-bank",
+    "placement": "stadium",
+    "from": "2023",
+    "to": null,
+    "value": {
+      "amount": 100,
+      "currency": "USD",
+      "unit": "m",
+      "per": "10 years",
+      "upTo": false,
+      "usdApprox": 100
+    },
+    "source": {
+      "name": "Sportico – LAFC Signs MLS-Record $100 Million Naming Rights Deal With BMO",
+      "date": "2023-01-19",
+      "url": "https://www.sportico.com/business/sponsorship/2023/lafc-bmo-stadium-1234693659/",
+      "quote": "LAFC has signed a new naming rights deal with BMO Financial, a 10-year partnership worth approximately $100 million total",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Banc of California Stadium renamed BMO Stadium; roughly $10m a year, the largest naming-rights deal for a soccer-specific stadium in MLS."
+  },
+  {
+    "id": "los-angeles-fc-el-mexicano",
+    "clubId": "los-angeles-fc",
+    "orgName": null,
+    "sponsorId": "el-mexicano",
+    "placement": "back",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "LAFC – LAFC Announces El Mexicano Brand as Club's First-Ever Back-of-Kit Partner",
+      "date": "2026-07-31",
+      "url": "https://www.lafc.com/news/lafc-announces-el-mexicano-brand-as-club-s-first-ever-back-of-kit-partner",
+      "quote": "the El Mexicano® Brand logo will appear on the back of every LAFC first-team jersey",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Multi-year deal announced 31 July 2026; no value reported."
+  },
+  {
+    "id": "los-angeles-fc-ford",
+    "clubId": "los-angeles-fc",
+    "orgName": null,
+    "sponsorId": "ford",
+    "placement": "sleeve",
+    "from": "2023",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "LAFC – LAFC Unveils New 2023 'Smokescreen' Kit",
+      "date": "2023-02-16",
+      "url": "https://www.lafc.com/news/lafc-unveils-new-2023-smokescreen-kit",
+      "quote": "The enhanced partnership now includes a prominent position for Ford on the right sleeve of the First Team home and away authentic jerseys",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Ford has been an LAFC partner since 2020; the right-sleeve placement began with the 2023 kit. No deal value reported."
+  },
+  {
     "id": "los-angeles-lakers-albert-patch",
     "clubId": "los-angeles-lakers",
     "orgName": "Albert",
@@ -8036,7 +9901,12 @@
     "source": {
       "name": "Yahoo Sports",
       "date": "2026-07-17",
-      "url": "https://sports.yahoo.com/articles/lakers-announce-albert-jersey-patch-182626664.html"
+      "url": "https://sports.yahoo.com/articles/lakers-announce-albert-jersey-patch-182626664.html",
+      "quote": "Beginning this season, the Albert logo will appear on the upper left chest of all four Lakers uniform designs",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
     "note": "Jersey patch."
   },
@@ -8073,36 +9943,154 @@
     "note": "Shirt sponsor and Groupama Stadium branding; deal runs to 30 June 2030."
   },
   {
+    "id": "mainz-05-idm-energiesysteme",
+    "clubId": "mainz-05",
+    "orgName": null,
+    "sponsorId": "idm-energiesysteme",
+    "placement": "sleeve",
+    "from": "2023",
+    "to": "2029",
+    "value": null,
+    "source": {
+      "name": "Mainz 05, 'iDM verlängert Engagement bei Mainz 05 bis 2029'",
+      "date": "2026-05-07",
+      "url": "https://www.mainz05.de/news/idm-verlangert-engagement-bei-mainz-05-bis-2029",
+      "quote": "Der Wärmepumpenspezialist aus Matrei in Osttirol hat seinen Ärmelsponsoring-Vertrag vorzeitig um zwei weitere Jahre bis 2029 verlängert.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "iDM became left-sleeve partner in summer 2023 (Mainz 05 announcement, 19.06.2023: 'Die iDM Energiesysteme GmbH wird ab der kommenden Spielzeit auf dem linken Trikotärmel ... zu sehen sein.', https://www.mainz05.de/news/idm-energiesysteme-neuer-armelpartner-der-05er). Value not disclosed."
+  },
+  {
     "id": "mainz-05-koemmerling",
     "clubId": "mainz-05",
     "orgName": null,
     "sponsorId": "koemmerling",
     "placement": "front",
-    "from": "2026-27",
+    "from": "2015",
     "to": null,
-    "value": null,
-    "source": {
-      "name": "Football Kit Archive, Bundesliga 2026-27 kits",
-      "date": "2026-09-24",
-      "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+    "value": {
+      "amount": 5,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": null
     },
-    "note": "Value not disclosed."
+    "source": {
+      "name": "Deutsches Marketing Institut, Trikotsponsoren der Bundesliga (Stand 04.08.2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+      "quote": "Kömmerling ist bereits seit 2015 Trikotsponsor der Mainzer und ist damit das längste Engagement eines Sponsors in der Geschichte des FSV.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Value from the same page: 'Inzwischen erhält der FSV Mainz 05 circa 5 Millionen Euro jährlich für das Trikotsponsoring.' - a circa figure ('circa' -> upTo). Contract extended until at least 2027."
   },
   {
-    "id": "malaga-sabor-a-malaga",
+    "id": "malaga-ayuntamiento-de-malaga",
     "clubId": "malaga",
-    "orgName": null,
-    "sponsorId": "sabor-a-malaga",
+    "orgName": "Ayuntamiento de Málaga",
+    "sponsorId": "malaga-turismo",
     "placement": "front",
+    "from": "2026-27",
+    "to": "2026-27",
+    "value": {
+      "amount": 1600000,
+      "currency": "EUR",
+      "unit": "total",
+      "per": "season",
+      "upTo": false,
+      "usdApprox": 1750000
+    },
+    "source": {
+      "name": "Málaga CF (official site): El Málaga CF y el Ayuntamiento de Málaga amplían su vinculación una temporada más",
+      "date": "2026-08-13",
+      "url": "https://www.malagacf.com/noticias/el-malaga-cf-y-el-ayuntamiento-de-malaga-amplian-su-vinculacion-una-temporada-mas",
+      "quote": "El importe del patrocinio para el curso 26/27, en el cual el equipo blanquiazul disputará LALIGA EA SPORTS tras el ascenso el pasado mes de junio, alcanza el total de 1,6 millones de euros.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same announcement: 'Este nuevo acuerdo se extenderá hasta el final de la temporada 2026/27'. Málaga Hoy (2026-08-12, archived) confirms the 1.6 million euro figure for campaign 2026/27."
+    },
+    "note": "Paid by the city council through municipal company Promálaga with the Área de Deporte; includes the 'marca Málaga' on the front side (lateral) of the shirts of the men's, women's and reserve teams, stadium and social-media activations."
+  },
+  {
+    "id": "malaga-mgs-seguros",
+    "clubId": "malaga",
+    "orgName": "MGS, Seguros y Reaseguros, S.A.",
+    "sponsorId": "mgs-seguros",
+    "placement": "sleeve",
     "from": "2026-27",
     "to": null,
     "value": null,
     "source": {
       "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
       "date": "2026-09-06",
-      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "quote": "Three clubs – Elche and promoted sides Málaga and Racing Santander – have even agreed with the same company MGS Seguros.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Sleeve-sponsor table row 'Málaga MGS Seguros'."
     },
-    "note": "Value not disclosed."
+    "note": "Value not disclosed. MGS Seguros has been a Málaga CF partner since 2024/25 (club announcement of 2024-07-09, then on the left trouser leg); 2Playbook (2026-08-10): 'el club ha vendido la manga a MGS Seguros'."
+  },
+  {
+    "id": "malaga-sabor-a-malaga",
+    "clubId": "malaga",
+    "orgName": "Diputación Provincial de Málaga",
+    "sponsorId": "sabor-a-malaga",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": {
+      "amount": 1500000,
+      "currency": "EUR",
+      "unit": "total",
+      "per": "season",
+      "upTo": false,
+      "usdApprox": 1650000
+    },
+    "source": {
+      "name": "Málaga Hoy: Sabor a Málaga y Turismo Costa del Sol lucirán con el Málaga CF por 1,5 millones (archived)",
+      "date": "2026-07-02",
+      "url": "https://web.archive.org/web/20260703034710if_/https://www.malagahoy.es/malaga_cf/sabor-malaga-turismo-costa-sol_0_2007270420.html",
+      "quote": "entre ambas entidades, los ingresos alcanzarán los 1,5 millones de euros",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "The 1.5 million euros covers both Diputación brands combined: Sabor a Málaga on the shirt front and Turismo Costa del Sol on the back of the shorts. Press estimate, not a club disclosure."
+    },
+    "note": "Reported value is the combined Sabor a Málaga + Turismo Costa del Sol sponsorship of the Diputación de Málaga for the return to Primera División; the split between the two brands is not published."
+  },
+  {
+    "id": "manchester-united-betway",
+    "clubId": "manchester-united",
+    "orgName": null,
+    "sponsorId": "betway",
+    "placement": "training-kit",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Manchester United – 'Betway announced as Official Principal Partner'",
+      "date": "2026-08-04",
+      "url": "https://www.manutd.com/en/news/betway-announced-as-united-official-training-kit-partner",
+      "quote": "The agreement, which begins with the 2026/27 season, sees the partnership with Manchester United become Betway’s biggest sponsorship investment to date",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Multi-year deal from 2026/27; Betway is Official Principal Partner and Exclusive Global Betting Partner, with the logo on the training kits of the men's and women's teams. The club announcement gives no value; Score and Change (17 Sep 2026) reports 'over £20 million per year' with no linked source, so no value is recorded."
   },
   {
     "id": "manchester-united-snapdragon",
@@ -8110,7 +10098,7 @@
     "orgName": null,
     "sponsorId": "snapdragon",
     "placement": "front",
-    "from": null,
+    "from": "2024-25",
     "to": "2029-30",
     "value": {
       "amount": 60,
@@ -8121,11 +10109,143 @@
       "usdApprox": 80
     },
     "source": {
-      "name": "SportsPro, Manchester United and Qualcomm Snapdragon shirt deal",
-      "date": "2024-08",
-      "url": "https://www.sportspro.com/news/manchester-united-qualcomm-snapdragon-shirt-sponsorship/"
+      "name": "SportsPro, Manchester United confirm Qualcomm front-of-shirt sponsorship",
+      "date": "2023-09-13",
+      "url": "https://www.sportspro.com/news/manchester-united-qualcomm-snapdragon-shirt-sponsorship/",
+      "quote": "Agreement reportedly worth more than UK£60 million (US$74.8 million) per year",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Deal announced 13 September 2023, running from 2024/25; The Athletic reported a minimum of three years. Score and Change (17 Sep 2026) reports the current deal runs until at least 2029."
     },
     "note": "Reported GBP60m a year, among the largest shirt deals in the league."
+  },
+  {
+    "id": "manchester-united-sumup",
+    "clubId": "manchester-united",
+    "orgName": null,
+    "sponsorId": "sumup",
+    "placement": "sleeve",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Manchester United – 'SumUp becomes United's Official Sleeve Partner'",
+      "date": "2026-09-08",
+      "url": "https://www.manutd.com/en/news/sumup-is-united-official-sleeve-partner",
+      "quote": "The new agreement, which begins with Thursday's return to the UEFA Champions League, will see the SumUp logo feature on the sleeve of the playing shirt for the men’s, women’s and Academy teams across all competitions.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Multi-year sleeve deal announced 8 September 2026, beginning with the Champions League return; covers men's, women's and Academy teams. No value disclosed in the club announcement."
+  },
+  {
+    "id": "mclaren-airwallex",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "airwallex",
+    "placement": "partner",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "SportsKhabri – McLaren 2026 F1 team sponsors",
+      "date": "2026-04-13",
+      "url": "https://sportskhabri.com/formula-one-2026-team-sponsors-mclaren/",
+      "quote": "Global financial technology company Airwallex was unveiled as an Official Partner of the team in February 2024",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Unveiled February 2024 per SportsKhabri."
+  },
+  {
+    "id": "mclaren-allwyn",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "allwyn",
+    "placement": "partner",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Allwyn – Allwyn becomes an Official Partner of the McLaren Formula 1 Team",
+      "date": "2025-02-12",
+      "url": "https://www.allwyn.com/news/allwyn-becomes-an-official-partner-of-the-mc-laren-formula-1-team",
+      "quote": "Allwyn branding will feature on multiple team assets, including on the race cars and driver overalls of",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Announced February 2025."
+  },
+  {
+    "id": "mclaren-alteryx",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "alteryx",
+    "placement": "partner",
+    "from": "2021",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Alteryx – McLaren Racing selects Alteryx",
+      "date": "2021-06-30",
+      "url": "https://www.alteryx.com/about-us/newsroom/press-release/2021-06-30-mclaren-racing-selects-alteryx-for-analytics-automation-and-data-science",
+      "quote": "the Alteryx brand will also be represented on the McLaren MCL35M race cars, the race suits of drivers Lando Norris",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Multi-year technology partnership from 2021."
+  },
+  {
+    "id": "mclaren-arrow-electronics",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "arrow-electronics",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "SportsPro – Arrow Electronics sponsorship extension",
+      "date": "2021-09-20",
+      "url": "https://www.sportspro.com/news/sponsorship-marketing/mclaren-racing-f1-indycar-arrow-electronics-sponsorship-extension/",
+      "quote": "Arrow Electronics branding will feature on the cars and race suits of Formula One drivers Lando Norris and Daniel Ricciardo",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Start date not stated in the source."
+  },
+  {
+    "id": "mclaren-bat",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "bat",
+    "placement": "partner",
+    "from": "2019",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BAT – BAT and McLaren Racing announce partnership extension",
+      "date": "2024-04-08",
+      "url": "https://www.bat.com/media/news-and-stories/_2024/april/bat-and-mclaren-racing-announce-partnership-extension",
+      "quote": "BAT will continue to be an Official Principal Partner of the McLaren Formula 1 Team for the 2024 season and beyond",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Partnership first launched in 2019 per BAT's extension announcement."
   },
   {
     "id": "mclaren-cisco",
@@ -8133,15 +10253,20 @@
     "orgName": null,
     "sponsorId": "cisco",
     "placement": "partner",
-    "from": "2026",
+    "from": "2021",
     "to": null,
     "value": null,
     "source": {
-      "name": "McLaren Racing – Partners",
-      "date": "2026-09-24",
-      "url": "https://www.mclaren.com/racing/partners/"
+      "name": "McLaren Racing – Cisco Webex named Official Collaboration Partner",
+      "date": "2021-02-12",
+      "url": "https://www.mclaren.com/racing/partners/webex/cisco-webex-named-official-collaboration-partner-mclaren-formula-1-team/",
+      "quote": "Cisco Webex branding will be carried on the halos and sidepods of the McLaren MCL35M Formula 1 race cars and on the race suits of the McLaren F",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "McLaren Mastercard F1 Team other partner on the 2026 car."
+    "note": "Partnership began 2021 as Cisco Webex Official Collaboration Partner."
   },
   {
     "id": "mclaren-dell",
@@ -8149,15 +10274,167 @@
     "orgName": null,
     "sponsorId": "dell",
     "placement": "partner",
+    "from": "2018",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Dell Technologies partner page",
+      "date": "2026-09-24",
+      "url": "https://www.mclaren.com/racing/partners/dell-technologies/",
+      "quote": "Since 2018, Dell's expertise in high-performance computing, AI, and edge solutions has been integral",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official Innovation Partner since 2018."
+  },
+  {
+    "id": "mclaren-dp-world",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "dp-world",
+    "placement": "partner",
+    "from": "2023",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Partnership expansion with DP World",
+      "date": "2024-02-20",
+      "url": "https://www.mclaren.com/racing/partners/dp-world/mclaren-racing-announces-partnership-expansion-with-dp-world/",
+      "quote": "DP World branding will continue to be present on the chassis side of the MCL38 and driver overalls",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Relationship began 2023 per the 2024 expansion announcement."
+  },
+  {
+    "id": "mclaren-dropbox",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "dropbox",
+    "placement": "partner",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Dropbox Official Technology Partner announcement",
+      "date": "2024-02-09",
+      "url": "https://www.mclaren.com/racing/partners/dropbox/mclaren-racing-announces-dropbox-as-an-official-technology-partner-of-mclaren-formula-1-team/",
+      "quote": "Dropbox branding will feature on the McLaren MCL38, and the driver overalls and helmets of Formula 1 drivers Lando Norris",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "For the 2024 season and beyond."
+  },
+  {
+    "id": "mclaren-ecolab",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "ecolab",
+    "placement": "partner",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Ecolab Official Partner announcement",
+      "date": "2024-02-08",
+      "url": "https://www.mclaren.com/racing/partners/ecolab/mclaren-racing-announces-ecolab-as-an-official-partner-of-mclaren-formula-1-team/",
+      "quote": "Ecolab branding will feature on the team kit of McLaren Formula 1 Drivers Lando Norris and Oscar Piastri for the 2024 season",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "For the 2024 season and beyond."
+  },
+  {
+    "id": "mclaren-etihad-airways",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "etihad-airways",
+    "placement": "partner",
     "from": "2026",
     "to": null,
     "value": null,
     "source": {
-      "name": "McLaren Racing – Partners",
-      "date": "2026-09-24",
-      "url": "https://www.mclaren.com/racing/partners/"
+      "name": "McLaren Racing – McLaren Racing announces Etihad Airways as an Official Partner",
+      "date": "2026-02-26",
+      "url": "https://www.mclaren.com/racing/latest-news/2026/mclaren-racing-announces-etihad-airways-as-an-official-partner/",
+      "quote": "Etihad, the national airline of the UAE, will become an Official Partner of the McLaren Mastercard Formula 1 Team",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "McLaren Mastercard F1 Team other partner on the 2026 car."
+    "note": "Multi-year partnership from the 2026 season; rear wing, halo and driver helmets."
+  },
+  {
+    "id": "mclaren-freshworks",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "freshworks",
+    "placement": "partner",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Freshworks IR – McLaren Racing announces Freshworks as an Official Partner",
+      "date": "2025-07-22",
+      "url": "https://ir.freshworks.com/news/news-details/2025/McLaren-Racing-announces-Freshworks-as-an-Official-Partner-of-the-McLaren-Formula-1-Team-07-22-2025/default.aspx",
+      "quote": "Freshworks branding will feature on both McLaren Formula 1 Team race cars and the team kit",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "From the 2025 Belgian Grand Prix."
+  },
+  {
+    "id": "mclaren-fxpro",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "fxpro",
+    "placement": "partner",
+    "from": "2018",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – FxPro partnership extension 2026",
+      "date": "2026-02-25",
+      "url": "https://www.mclaren.com/racing/partners/fxpro/mclaren-racing-and-fxpro-extend-longstanding-partnership-2026/",
+      "quote": "FxPro branding will retain its position on the McLaren Mastercard F1 cars, as well as on driver helmets and team kit",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Partnership originally began in 2018 per the 2026 extension announcement."
+  },
+  {
+    "id": "mclaren-goldman-sachs",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "goldman-sachs",
+    "placement": "partner",
+    "from": "2022",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Goldman Sachs multi-year partnership announcement",
+      "date": "2022-06-21",
+      "url": "https://www.mclaren.com/racing/partners/goldman-sachs/mclaren-racing-announces-multi-year-partnership-goldman-sachs/",
+      "quote": "Goldman Sachs branding will be carried on the McLaren MCL36 F1 cars from the 2022 British Grand Prix.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "For the 2022 season and beyond."
   },
   {
     "id": "mclaren-google",
@@ -8171,25 +10448,161 @@
     "source": {
       "name": "McLaren Racing – McLaren Racing and Google announce partnership expansion",
       "date": "2024-02-26",
-      "url": "https://www.mclaren.com/racing/formula-1/2024/mclaren-racing-and-google-announce-partnership-expansion/"
+      "url": "https://www.mclaren.com/racing/formula-1/2024/mclaren-racing-and-google-announce-partnership-expansion/",
+      "quote": "Google Chrome, Android and Pixel branding will be featured on the McLaren MCL38, the pit crew overalls, team kit",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "McLaren Mastercard F1 Team front partner on the 2026 car. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2024-02-26."
+    "note": "Official Primary Partner; extension announced 19 November 2025 per McLaren's announcement: https://www.mclaren.com/racing/formula-1/2025/mclaren-racing-announces-partnership-extension-with-google/"
   },
   {
-    "id": "mclaren-gulf-oil",
+    "id": "mclaren-google-cloud",
     "clubId": "mclaren",
     "orgName": null,
-    "sponsorId": "gulf-oil",
+    "sponsorId": "google-cloud",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Google Cloud partner page",
+      "date": "2026-09-24",
+      "url": "https://www.mclaren.com/racing/partners/google-cloud/",
+      "quote": "Google Cloud is the Official Cloud and Preferred Technology Partner of the McLaren F1 team.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Start date not stated; generative AI integrations underway from the 2024 season."
+  },
+  {
+    "id": "mclaren-groq",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "groq",
+    "placement": "partner",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Groq Official Partner announcement",
+      "date": "2025-09-26",
+      "url": "https://www.mclaren.com/racing/partners/groq/mclaren-racing-announces-groq-as-an-official-partner/",
+      "quote": "The Groq logo will feature on the McLaren Formula 1 Team race cars from the 2025 Singapore Grand Prix.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "From the 2025 Singapore Grand Prix."
+  },
+  {
+    "id": "mclaren-hedera",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "hedera",
     "placement": "partner",
     "from": "2026",
     "to": null,
     "value": null,
     "source": {
-      "name": "McLaren Racing – Partners",
-      "date": "2026-09-24",
-      "url": "https://www.mclaren.com/racing/partners/"
+      "name": "Hedera – McLaren Racing and Hedera partner to expand digital fan engagement",
+      "date": "2026-01-22",
+      "url": "https://hedera.com/blog/mclaren-racing-and-hedera-partner-to-expand-digital-fan-engagement/",
+      "quote": "Hedera branding will feature on the McLaren Mastercard Formula 1 Team car, as well as driver race suits.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "McLaren Mastercard F1 Team other partner on the 2026 car."
+    "note": "Announced January 2026."
+  },
+  {
+    "id": "mclaren-hilton",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "hilton",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Hilton partner page",
+      "date": "2026-09-24",
+      "url": "https://www.mclaren.com/racing/partners/hilton/",
+      "quote": "extending Hilton's tenure as the team's longest standing partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Partner since at least 2005 (20 years celebrated in 2025); exact start year not stated on the page."
+  },
+  {
+    "id": "mclaren-iron-mountain",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "iron-mountain",
+    "placement": "partner",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Iron Mountain Official Partner announcement",
+      "date": "2025-10-14",
+      "url": "https://www.mclaren.com/racing/partners/iron-mountain/iron-mountain-becomes-an-official-partner-of-the-mclaren-formula-1-team/",
+      "quote": "Iron Mountain branding will feature on both McLaren Formula 1 Team race cars",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "From the 2025 United States Grand Prix."
+  },
+  {
+    "id": "mclaren-jack-daniels",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "jack-daniels",
+    "placement": "partner",
+    "from": "2023",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Jack Daniel's multi-year partnership announcement",
+      "date": "2022-09-13",
+      "url": "https://www.mclaren.com/racing/latest-news/mclarenracing/article/mclaren-racing-and-jack-daniels-announce-new-multi-year-partnership/",
+      "quote": "Jack Daniel's branding will feature on the nose of McLaren's 2023 F1 cars as well as on the driver's overalls",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official Partner from 2023; extended September 2025."
+  },
+  {
+    "id": "mclaren-liquid-iv",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "liquid-iv",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Liquid I.V. Official Partner announcement",
+      "date": "2026-04-21",
+      "url": "https://www.mclaren.com/racing/partners/liquid-iv/mclaren-racing-announces-liquid-iv-as-an-official-partner/",
+      "quote": "joins as an Official Partner of the McLaren Mastercard Formula 1 Team, McLaren F1 Academy and Arrow McLaren IndyCar Team.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Multi-year deal announced April 2026."
   },
   {
     "id": "mclaren-mastercard",
@@ -8199,13 +10612,88 @@
     "placement": "front",
     "from": "2026",
     "to": null,
+    "value": {
+      "amount": 100,
+      "currency": "USD",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 100
+    },
+    "source": {
+      "name": "McLaren Racing – Mastercard Official Naming Partner announcement",
+      "date": "2025-08-27",
+      "url": "https://www.mclaren.com/racing/formula-1/2025/mastercard-official-naming-partner-mclaren-formula-1-team-from-2026/",
+      "quote": "Mastercard is set to become the Official Naming Partner of the McLaren Formula 1 Team from 2026 onwards",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Estimated at US$100 million per season until the mid-2030s per BlackBook Motorsport (2025-08-27): https://www.blackbookmotorsport.com/news/f1-mclaren-mastercard-title-sponsorship-august-2025/"
+  },
+  {
+    "id": "mclaren-medallia",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "medallia",
+    "placement": "partner",
+    "from": "2021",
+    "to": null,
     "value": null,
     "source": {
-      "name": "McLaren Racing – McLaren Racing announces Mastercard as Official Naming Partner from 2026",
-      "date": "2025-08-27",
-      "url": "https://www.mclaren.com/racing/formula-1/2025/mastercard-official-naming-partner-mclaren-formula-1-team-from-2026/"
+      "name": "McLaren Racing – Medallia Official Feedback Partner announcement",
+      "date": "2021-10-19",
+      "url": "https://www.mclaren.com/racing/partners/medallia/mclaren-racing-announces-medallia-official-feedback-partner-mclaren-formula-1-team/",
+      "quote": "The Medallia brand will be represented on the McLaren MCL35M race cars for the US GP,",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "McLaren Mastercard F1 Team title partner on the 2026 car."
+    "note": "From the 2021 US Grand Prix; rear wing and pit crew helmets from 2022."
+  },
+  {
+    "id": "mclaren-monster-energy",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "monster-energy",
+    "placement": "partner",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Sportcal – Monster Energy shifts from Mercedes to McLaren",
+      "date": "2023-11-29",
+      "url": "https://www.sportcal.com/sponsorship/monster-energy-shifts-from-mercedes-to-mclaren-to-maintain-f1-presence/",
+      "quote": "From the 2024 F1 season, the brand will be featured on the helmets, race suits, caps, and drinks bottles of McLaren drivers",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "From the 2024 season."
+  },
+  {
+    "id": "mclaren-okta",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "okta",
+    "placement": "partner",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Okta Official Partner announcement",
+      "date": "2025-01-28",
+      "url": "https://www.mclaren.com/racing/formula-1/2025/mclaren-racing-announces-okta-as-an-official-partner-of-the-mclaren-formula-1-team/",
+      "quote": "Okta branding will be featured on the race cars and driver overalls of McLaren Formula 1 Team drivers Lando Norris",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Multi-year deal for the 2025 season and beyond."
   },
   {
     "id": "mclaren-okx",
@@ -8213,15 +10701,188 @@
     "orgName": null,
     "sponsorId": "okx",
     "placement": "sleeve",
+    "from": "2022",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – OKX livery announcement",
+      "date": "2026-09-01",
+      "url": "https://www.mclaren.com/racing/formula-1/2026/italian-grand-prix/okx-livery/",
+      "quote": "The design celebrates the ongoing collaboration between McLaren Racing and OKX, which began in 2022",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official Primary Partner since 2022 per McLaren's 2026 livery announcement."
+  },
+  {
+    "id": "mclaren-pirelli",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "pirelli",
+    "placement": "partner",
     "from": null,
     "to": null,
     "value": null,
     "source": {
-      "name": "McLaren Racing – McLaren Racing announces expansion with Official Primary Partner OKX",
-      "date": "2023",
-      "url": "https://www.mclaren.com/racing/formula-1/2023/mclaren-racing-announces-expansion-with-official-primary-partner-okx"
+      "name": "McLaren Racing – Pirelli partner page",
+      "date": "2026-09-24",
+      "url": "https://www.mclaren.com/racing/partners/pirelli/",
+      "quote": "Pirelli has been the exclusive global tyre partner to the FIA Formula One World Championship since 2011.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "McLaren Mastercard F1 Team sleeve partner on the 2026 car. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023."
+    "note": "Tyre supplier; a club-level deal value and start year are not published."
+  },
+  {
+    "id": "mclaren-puma",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "puma",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "PUMA – McLaren Racing and PUMA unite performance and style in new partnership",
+      "date": "2026-01-20",
+      "url": "https://about.puma.com/en/newsroom/corporate-news/2026/20-01-2026-mclaren-racing-and-puma-unite-performance-and-style-new",
+      "quote": "PUMA will create team kit, delivering performance where it matters.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Multi-year global team kit and apparel partnership from 2026."
+  },
+  {
+    "id": "mclaren-richard-mille",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "richard-mille",
+    "placement": "partner",
+    "from": "2016",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Richard Mille partner page",
+      "date": "2026-09-24",
+      "url": "https://www.mclaren.com/racing/partners/richard-mille/",
+      "quote": "In 2016, McLaren announced a long-term partnership with luxury watchmaking brand Richard Mille.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Long-term partnership announced 2016."
+  },
+  {
+    "id": "mclaren-smartsheet",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "smartsheet",
+    "placement": "partner",
+    "from": "2021",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Smartsheet – McLaren Racing and Smartsheet announce new partnership",
+      "date": "2021-11-11",
+      "url": "https://www.smartsheet.com/content-center/news/mclaren-racing-and-smartsheet-announce-new-partnership-mclaren-formula-1-team",
+      "quote": "The Smartsheet brand will first be represented on the McLaren MCL35M race cars at the 2021 Brazilian Grand Prix,",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "From the 2021 Brazilian Grand Prix; 2022 season and beyond on cars, overalls and race suits."
+  },
+  {
+    "id": "mclaren-stanley-black-decker",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "stanley-black-decker",
+    "placement": "partner",
+    "from": "2021",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "DEWALT Media Room – Multi-year partnership with Stanley Black & Decker",
+      "date": "2021-07-15",
+      "url": "https://dewalt.mediaroom.com/2021-07-15-McLaren-Racing-launches-multi-year-partnership-with-Stanley-Black-Decker",
+      "quote": "will be visible on the rear wing endplates of the McLaren MCL35M race cars and the racesuits of McLaren F1 drivers",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official Tools and Storage Partner from 2021."
+  },
+  {
+    "id": "mclaren-t-mobile",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "t-mobile",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "SportsKhabri – McLaren 2026 F1 team sponsors",
+      "date": "2026-04-13",
+      "url": "https://sportskhabri.com/formula-one-2026-team-sponsors-mclaren/",
+      "quote": "features T-Mobile branding on multiple touchpoints for all US races, including its garage headsets and race cars",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "US-races-focused partnership; start year not stated in the source."
+  },
+  {
+    "id": "mclaren-udemy",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "udemy",
+    "placement": "partner",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Udemy multi-series partnership announcement",
+      "date": "2023-11-14",
+      "url": "https://www.mclaren.com/racing/partners/udemy/mclaren-racing-and-udemy-announce-multi-series-partnership/",
+      "quote": "and on the helmets of McLaren Formula 1 drivers Lando Norris and Oscar Piastri during the 2024 F1 season.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official Learning and Skills Partner; helmet branding during the 2024 season."
+  },
+  {
+    "id": "mclaren-workday",
+    "clubId": "mclaren",
+    "orgName": null,
+    "sponsorId": "workday",
+    "placement": "partner",
+    "from": "2023",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "McLaren Racing – Workday partnership expansion for 2024",
+      "date": "2024-02-07",
+      "url": "https://www.mclaren.com/racing/partners/workday/mclaren-racing-expands-partnership-with-workday-for-the-2024-formula-1-season/",
+      "quote": "Workday branding will also be included on the McLaren team kits for the 2024 Formula 1 season.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Partnership began 2023 per the 2024 expansion announcement."
   },
   {
     "id": "memphis-grizzlies-fedex-stadium",
@@ -9376,20 +12037,55 @@
     "note": "Listed as an Official Sponsor of Major League Baseball on MLB.com's official-sponsors page (opened 2026-09-25). Start year not stated on the page."
   },
   {
+    "id": "mls-apple-tv",
+    "clubId": null,
+    "orgName": "Apple (Apple TV / MLS Season Pass)",
+    "leagueId": "mls",
+    "sponsorId": "apple-tv",
+    "placement": "league-partner",
+    "from": "2023",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "SportsLogos.Net News – 'MLS Expansion Franchise St. Louis City SC Launches Inaugural Home Kits'",
+      "date": "2022-11-16",
+      "url": "https://news.sportslogos.net/2022/11/16/mls-expansion-franchise-st-louis-city-sc-launches-inaugural-home-kits/soccer/",
+      "quote": "All 29 MLS teams will have Apple TV+ patches on their kits this season after the sides reached a 10-year broadcasting rights deal that starts with the 2023 season.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "League-wide sleeve patch since 2023, when the Apple–MLS broadcasting deal began; shown as a league deal (clubId null) because Apple pays MLS, not the club."
+  },
+  {
     "id": "monaco-rdc-sleeve",
     "clubId": "as-monaco",
     "orgName": null,
     "sponsorId": "rd-congo-coeur-d-afrique",
     "placement": "sleeve",
-    "from": "2026",
-    "to": null,
-    "value": null,
-    "source": {
-      "name": "AS Monaco — Les partenaires ('le logo R.D.Congo sera présent sur la manche du maillot')",
-      "date": "2026",
-      "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+    "from": "2025-06",
+    "to": "2028",
+    "value": {
+      "amount": 4.8,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "total",
+      "upTo": false,
+      "usdApprox": 6
     },
-    "note": "DR Congo state brand on the sleeve of the professional team."
+    "source": {
+      "name": "Foot Mercato: L’AS Monaco et la RD Congo sont au cœur d’une grande enquête judiciaire !",
+      "date": "2026-03-02",
+      "url": "https://www.footmercato.net/a566725631535879386-las-monaco-et-la-rd-congo-sont-au-coeur-dune-grande-enquete-judiciaire",
+      "short": "Foot Mercato",
+      "quote": "ce contrat estimé à 4,8 millions d'euros sur trois ans",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "DR Congo state brand on the sleeve of the professional team. Foot Mercato: the contract was signed in June 2025 and is estimated at €4.8m over three years; the club announced the partnership on 24 June 2025 as running until 2028. The Monaco parquet général opened a preliminary inquiry into the partnership (March 2026)."
   },
   {
     "id": "motogp-bmw-m",
@@ -9514,6 +12210,90 @@
       "note": "Surface branding on the back of United Women's shirts across 2026/27; men's coverage is domestic cup competitions only."
     },
     "note": "Back-of-shirt deal with Microsoft Surface covering the women's league campaign from 2026/27."
+  },
+  {
+    "id": "napoli-dongfeng-sleeve",
+    "clubId": "napoli",
+    "orgName": null,
+    "sponsorId": "dongfeng",
+    "placement": "sleeve",
+    "from": "2025-26",
+    "to": "2028-29",
+    "value": {
+      "amount": 4,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 5
+    },
+    "source": {
+      "name": "Calcio Napoli 24 - Maglia Napoli 2026/2027, i ricavi dagli sponsor sono da record",
+      "date": "2026-07-07",
+      "url": "https://www.calcionapoli24.it/notizie/maglia-napoli-2026-2027-i-ricavi-dagli-sponsor-sono-da-record-svelate-n691935.html",
+      "quote": "DongFeng (sponsor di manica): 4 milioni di euro",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Sleeve partner since 2025-26 as Global Automotive Partner; originally announced in January 2026 as running to the end of the 2027/28 season (club announcement, 23 January 2026). The club's own 6 July 2026 kit-unveil page and Calcio e Finanza (7 July 2026) both say the deal now runs until 2029, so the end date is set to the 2028/29 season. Value per Calcio Napoli 24 citing the 2026-27 shirt-revenue breakdown."
+  },
+  {
+    "id": "napoli-msc-cruises-front",
+    "clubId": "napoli",
+    "orgName": null,
+    "sponsorId": "msc-cruises",
+    "placement": "front",
+    "from": "2023",
+    "to": "2028-29",
+    "value": {
+      "amount": 18,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 21
+    },
+    "source": {
+      "name": "Calcio e Finanza - Napoli, la maglia vale il doppio: ricavi dagli sponsor a quota 24 milioni dopo il rinnovo con MSC",
+      "date": "2026-07-07",
+      "url": "https://www.calcioefinanza.it/2026/07/07/napoli-ricavi-da-sponsor-maglia-cifre/",
+      "quote": "il nuovo accordo triennale porterà nelle casse del Napoli 18 milioni di euro annui più bonus",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Main partner since 2023-24; renewal announced July 2026 runs to the end of the 2028/29 season. Calcio e Finanza reports 18m euros per year plus bonuses, up from 8.5m; the club's own kit-launch page says the agreement was extended until 2029."
+  },
+  {
+    "id": "napoli-sorgesana-back",
+    "clubId": "napoli",
+    "orgName": null,
+    "sponsorId": "sorgesana",
+    "placement": "back",
+    "from": "2024-25",
+    "to": null,
+    "value": {
+      "amount": 2.5,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 3
+    },
+    "source": {
+      "name": "Calcio Napoli 24 - Maglia Napoli 2026/2027, i ricavi dagli sponsor sono da record",
+      "date": "2026-07-07",
+      "url": "https://www.calcionapoli24.it/notizie/maglia-napoli-2026-2027-i-ricavi-dagli-sponsor-sono-da-record-svelate-n691935.html",
+      "quote": "Sorgesana (retrosponsor): 2,5 milioni di euro",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Back-of-Shirt Partner since 2024-25 (three-season deal announced 12 September 2024); value per Calcio Napoli 24 citing the 2026-27 shirt-revenue breakdown."
   },
   {
     "id": "nba-google",
@@ -9740,7 +12520,12 @@
     "source": {
       "name": "PR Newswire / MSG Sports Corp.",
       "date": "2024-10-17",
-      "url": "https://www.prnewswire.com/news-releases/experience-abu-dhabi-named-official-new-york-knicks-patch-partner-302278654.html"
+      "url": "https://www.prnewswire.com/news-releases/experience-abu-dhabi-named-official-new-york-knicks-patch-partner-302278654.html",
+      "quote": "Experience Abu Dhabi will become a Knicks global marketing partner, featuring the Experience Abu Dhabi logo on all Knicks game jerseys for both home and away games",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
     "note": "Jersey patch."
   },
@@ -10021,11 +12806,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Olympique de Marseille — Nos partenaires (CMA CGM 'partenaire principal ... présent sur la face avant des maillots')",
-      "date": "2026",
-      "url": "https://www.om.fr/fr/partenaires"
+      "name": "CMA CGM Group — Partnerships: sport",
+      "date": "2023",
+      "url": "https://www.cmacgm-group.com/en/partnerships/sport",
+      "quote": "As of July 1, 2023, CMA CGM Group became the new main partner of Olympique de Marseille for two seasons.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Main partner since 2023, logo on the front of the shirts."
+    "note": "Main partner since 2023, logo on the front of the shirts. Financial terms not disclosed; no reported value found."
   },
   {
     "id": "om-sublime-sleeve",
@@ -10033,15 +12823,20 @@
     "orgName": null,
     "sponsorId": "sublime-cote-divoire",
     "placement": "sleeve",
-    "from": "2024",
-    "to": null,
+    "from": "2026",
+    "to": "2029",
     "value": null,
     "source": {
-      "name": "Olympique de Marseille — Nos partenaires (Sublime Côte d'Ivoire, Ministère du Tourisme de Côte d'Ivoire)",
-      "date": "2026",
-      "url": "https://www.om.fr/fr/partenaires"
+      "name": "CINEWS — « Sublime Côte d'Ivoire » et l'OM prolongent leur partenariat jusqu'en 2029",
+      "date": "2026-08-27",
+      "url": "https://cinews.ci/football-sublime-cote-divoire-et-lom-prolongent-leur-partenariat-jusquen-2029/",
+      "quote": "le partenariat entre le club phocéen et la destination touristique ivoirienne est officiellement renouvelé pour trois années supplémentaires, soit jusqu’en 2029",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     },
-    "note": "With the Côte d'Ivoire Ministry of Tourism."
+    "note": "Renewed for the 2026-2029 cycle; the logo moves from the shorts to the shirt sleeve. A press report (information.tv5monde.com, 26 August 2026) mentions 'more than 5 million euros per year' but the page was unreachable (Access Denied), so the value stays null."
   },
   {
     "id": "orlando-magic-kia-america-stadium",
@@ -10076,20 +12871,88 @@
     "note": "Jersey patch."
   },
   {
-    "id": "osasuna-kosner",
+    "id": "osasuna-celer-lighting",
     "clubId": "osasuna",
     "orgName": null,
-    "sponsorId": "kosner",
-    "placement": "front",
-    "from": "2026-27",
+    "sponsorId": "celer-lighting",
+    "placement": "sleeve",
+    "from": null,
     "to": null,
     "value": null,
     "source": {
       "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
       "date": "2026-09-06",
-      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "quote": "Osasuna Grupo Saltoki: Celer Lighting (home) Saltoki Home (away & third) Lighting Building and interior design",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Value not disclosed."
+    "note": "Sleeve sponsor on the 2026-27 home kit; Saltoki Home takes the sleeve on the away and third kits. Value not disclosed; the source doesn't state when the deal started."
+  },
+  {
+    "id": "osasuna-kosner",
+    "clubId": "osasuna",
+    "orgName": null,
+    "sponsorId": "kosner",
+    "placement": "front",
+    "from": "2023-24",
+    "to": "2027-28",
+    "value": null,
+    "source": {
+      "name": "CA Osasuna: 'Kosner renueva como patrocinador principal de Osasuna hasta 2028'",
+      "date": "2025-11-11",
+      "url": "https://www.osasuna.es/kosner-patrocinador-osasuna-2028",
+      "quote": "Kosner renueva su compromiso con Osasuna y seguirá ocupando la parte frontal de la camiseta del primer equipo rojillo durante las temporadas 2026-27 y 2027-28",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Renewal announced 11 Nov 2025 covers 2026-27 and 2027-28; Kosner has been main sponsor since 2023. Value not disclosed. The announcement was made during a club visit to Saltoki, exclusive distributor of Kosner products for Spain and Andorra."
+  },
+  {
+    "id": "osasuna-ktech",
+    "clubId": "osasuna",
+    "orgName": null,
+    "sponsorId": "ktech",
+    "placement": "back",
+    "from": "2026-27",
+    "to": "2028-29",
+    "value": null,
+    "source": {
+      "name": "CA Osasuna: 'Osasuna y Ktech establecen una nueva alianza para las próximas tres temporadas'",
+      "date": "2026-06-30",
+      "url": "https://www.osasuna.es/osasuna-ktech-2026-2029",
+      "quote": "el club reforzará su compromiso con la entidad educativa, el cual se ampliará hasta el 30 de junio de 2029",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Extended partnership to 30 June 2029; value not disclosed. ktech also appears on training shirts and shorts, and Prolife (a brand managed by the same entity) on the training-shirt sleeve."
+  },
+  {
+    "id": "osasuna-macron",
+    "clubId": "osasuna",
+    "orgName": null,
+    "sponsorId": "macron",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "quote": "Macron continued with Levante and Osasuna, while adding a new Basque club Alavés (previously Puma).",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Kit maker for 2026-27, continuing from previous seasons; start year not stated by the source, so both term fields are null. Value not disclosed."
   },
   {
     "id": "paris-fc-bahrain-front",
@@ -10683,6 +13546,27 @@
     "note": "Riyadh Season (General Entertainment Authority, chaired by Turki Alalshikh) titles and hosts the 2026 tour opener in Riyadh, 7-14 Feb 2026. Event host/title - recorded as an org deal because event-host placements have no schema yet."
   },
   {
+    "id": "psg-beyond-developments-sleeve",
+    "clubId": "paris-saint-germain",
+    "orgName": null,
+    "sponsorId": "beyond-developments",
+    "placement": "sleeve",
+    "from": "2026",
+    "to": "2029",
+    "value": null,
+    "source": {
+      "name": "Economy Middle East — 'BEYOND Developments becomes Paris Saint-Germain's new premium sleeve partner until 2029'",
+      "date": "2026-01-06",
+      "url": "https://economymiddleeast.com/news/beyond-developments-becomes-paris-saint-germains-new-premium-sleeve-partner-until-2029/",
+      "quote": "Under this multi-year agreement, BEYOND becomes the Club's Premium Sleeve Partner until 2029",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Premium sleeve partnership announced 2 January 2026; logo debuted on the jersey against Paris FC. Financial terms not disclosed."
+  },
+  {
     "id": "psg-qatar-airways-front",
     "clubId": "paris-saint-germain",
     "orgName": null,
@@ -10878,6 +13762,38 @@
     "note": "Visa Cash App Racing Bulls F1 Team title partner on the 2026 car."
   },
   {
+    "id": "racing-santander-austral",
+    "clubId": "racing-santander",
+    "orgName": "Austral Sport",
+    "sponsorId": "austral",
+    "placement": "partner",
+    "from": "2022-23",
+    "to": "2027-28",
+    "value": null,
+    "source": {
+      "name": "Real Racing Club (official site): 'El Racing y Austral amplían su relación cuatro temporadas más'",
+      "date": "2024-03-07",
+      "url": "https://www.realracingclub.es/noticias/el-racing-y-austral-amplian-su-relacion-cuatro-temporadas-mas"
+    },
+    "note": "Kit-supply deal: 'El Racing y Austral han llegado a un acuerdo para prolongar su colaboración hasta el 30 de junio de 2028.' Value not disclosed."
+  },
+  {
+    "id": "racing-santander-mgs-seguros",
+    "clubId": "racing-santander",
+    "orgName": null,
+    "sponsorId": "mgs-seguros",
+    "placement": "sleeve",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed. MGS Seguros holds five LaLiga deals in 2026/27, mainly sleeves (2Playbook, 10 Aug 2026); no Racing-specific value reported anywhere checked."
+  },
+  {
     "id": "racing-santander-plenitude",
     "clubId": "racing-santander",
     "orgName": null,
@@ -10922,6 +13838,27 @@
     "note": "Value not disclosed."
   },
   {
+    "id": "rayo-vallecano-gcs",
+    "clubId": "rayo-vallecano",
+    "orgName": null,
+    "sponsorId": "gcs",
+    "placement": "sleeve",
+    "from": "2023-24",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Rayo Vallecano official site, 'GCS, nuevo patrocinado del Rayo Vallecano'",
+      "date": "2023-09-15",
+      "url": "https://www.rayovallecano.es/noticias/gcs-nuevo-patrocinado-del-rayo-vallecano",
+      "quote": "El Rayo Vallecano y GCS han firmado un acuerdo que convierte a la empresa vallecana en nuevo patrocinador del Club durante la presente temporada.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Sleeve deal running from 2023-24; still the sleeve sponsor in 2026/27 (Score and Change). Value not disclosed."
+  },
+  {
     "id": "rb-leipzig-red-bull",
     "clubId": "rb-leipzig",
     "orgName": null,
@@ -10940,7 +13877,12 @@
     "source": {
       "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
       "date": "2026-08-04",
-      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+      "quote": "Der Konzern zahlt circa 35 Millionen Euro jährlich für das Trikotsponsoring an RB Leipzig.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
     "note": "Red Bull owns 99% of the club's football company."
   },
@@ -10957,6 +13899,28 @@
       "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
       "date": "2026-09-06",
       "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "real-betis-trainline",
+    "clubId": "real-betis",
+    "orgName": null,
+    "sponsorId": "trainline",
+    "placement": "back",
+    "from": "2024-25",
+    "to": "2026-27",
+    "value": null,
+    "source": {
+      "name": "Real Betis Balompié: El Real Betis y Trainline refuerzan su alianza",
+      "date": "2025-02-13",
+      "url": "https://www.realbetisbalompie.es/noticias/actualidad/el-real-betis-y-trainline-refuerzan-su-alianza-31049",
+      "quote": "En primer lugar, el acuerdo de patrocinio se ha ampliado hasta la campaña 2026/27, una temporada más de las firmadas inicialmente.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same announcement: 'uniéndose así a su presencia en la trasera de las camisetas de juego'. The original deal (club, 2024-07-04, 'El Real Betis y Trainline alcanzan un acuerdo de patrocinio hasta 2026'): 'han cerrado un acuerdo de patrocinio hasta el 30 de junio de 2026', with the logo 'en la parte trasera de las camisetas oficiales de juego'."
     },
     "note": "Value not disclosed."
   },
@@ -11011,7 +13975,33 @@
     "source": {
       "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
       "date": "2026-09-06",
-      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "quote": "Real Sociedad Baghdadi Capital Financial services",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "real-sociedad-kutxabank",
+    "clubId": "real-sociedad",
+    "orgName": null,
+    "sponsorId": "kutxabank",
+    "placement": "back",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "quote": "Kutxabank sponsors the back of Basque clubs Alavés and Real Sociedad, while already being a front-of-shirt sponsor for Basque rival Athletic.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     },
     "note": "Value not disclosed."
   },
@@ -11025,11 +14015,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "AT&T – AT&T turbocharges partnership with Oracle Red Bull Racing",
-      "date": "2024-06-06",
-      "url": "https://about.att.com/story/2024/oracle-red-bull-racing.html"
+      "name": "Oracle Red Bull Racing – Turbocharged Connection with AT&T",
+      "date": "2024-10-16",
+      "url": "https://www.redbullracing.com/int-en/att-partner-renewal-2024-press-release",
+      "quote": "Oracle Red Bull Racing is proud to announce a multi-year extension and expansion of its partnership with AT&T starting in 2025",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Oracle Red Bull Racing sleeve partner on the 2026 car. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2024-06-06."
+    "note": "AT&T partnership extended from 2025; logo on the car, driver and team kits. Start of the original deal unknown."
   },
   {
     "id": "red-bull-racing-damac",
@@ -11041,11 +14036,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
-      "date": "2026-09-24",
-      "url": "https://www.redbullracing.com/int-en/partners"
+      "name": "Oracle Red Bull Racing – DAMAC Properties (partner page)",
+      "date": "2026-02-16",
+      "url": "https://www.redbullracing.com/int-en/partners/damac-properties",
+      "quote": "Oracle Red Bull Racing today announced a long-term global partnership with DAMAC Properties, the UAE and Middle East’s largest private real estate developer",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Oracle Red Bull Racing other partner on the 2026 car."
+    "note": "DAMAC Properties became Oracle Red Bull Racing's exclusive Real Estate Development Partner in February 2026."
   },
   {
     "id": "red-bull-racing-ford",
@@ -11057,11 +14057,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
-      "date": "2026-09-24",
-      "url": "https://www.redbullracing.com/int-en/partners"
+      "name": "Ford – Ford Returns To Formula 1; Strategic Partner To Oracle Red Bull Racing For 2026 Season And Beyond",
+      "date": "2023-02-03",
+      "url": "https://www.fromtheroad.ford.com/us/en/articles/2023/ford-returns-to-formula-1--strategic-partner-to-oracle-red-bull",
+      "quote": "Red Bull Ford will provide the power units for both the Oracle Red Bull Racing and Scuderia AlphaTauri teams",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Oracle Red Bull Racing front partner on the 2026 car."
+    "note": "Ford returned to Formula 1 in 2023 as strategic partner; Red Bull Ford power units run from 2026 to at least 2030."
   },
   {
     "id": "red-bull-racing-gate",
@@ -11069,15 +14074,20 @@
     "orgName": null,
     "sponsorId": "gate",
     "placement": "partner",
-    "from": "2026",
+    "from": "2025",
     "to": null,
     "value": null,
     "source": {
-      "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
-      "date": "2026-09-24",
-      "url": "https://www.redbullracing.com/int-en/partners"
+      "name": "Oracle Red Bull Racing – Gate (partner page)",
+      "date": "2025-02-10",
+      "url": "https://www.redbullracing.com/int-en/partners/gate",
+      "quote": "Gate becomes exclusive Crypto-Exchange Partner of Oracle Red Bull Racing, expanding blockchain's global reach, bridging blockchain and F1",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Oracle Red Bull Racing other partner on the 2026 car."
+    "note": "Gate became Oracle Red Bull Racing's exclusive Crypto-Exchange Partner in February 2025."
   },
   {
     "id": "red-bull-racing-hard-rock",
@@ -11085,15 +14095,41 @@
     "orgName": null,
     "sponsorId": "hard-rock",
     "placement": "partner",
+    "from": "2021",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Hard Rock – Oracle Red Bull Racing and Hard Rock International Expand Global Alliance for Racing, Music and Travel Fans",
+      "date": "2024-10-01",
+      "url": "https://www.hardrock.com/blog/oracle-red-bull-racing-and-hard-rock-international-expand-global-alliance-for-racing-music-and-travel-fans",
+      "quote": "Oracle Red Bull Racing and Hard Rock International are driving more excitement with the announcement that they have expanded their global alliance",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Hard Rock International extended as Official Team Partner for three more years from October 2024, with branding on the car, race suits and team kit."
+  },
+  {
+    "id": "red-bull-racing-indeed",
+    "clubId": "red-bull-racing",
+    "orgName": null,
+    "sponsorId": "indeed",
+    "placement": "partner",
     "from": "2026",
     "to": null,
     "value": null,
     "source": {
-      "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
-      "date": "2026-09-24",
-      "url": "https://www.redbullracing.com/int-en/partners"
+      "name": "Indeed – Building a Championship Winning Team: Indeed Partners with Oracle Red Bull Racing",
+      "date": "2026-03-10",
+      "url": "https://www.indeed.com/news/releases/building-a-championship-winning-team-indeed-partners-with-oracle-red-bull-racing",
+      "quote": "That’s why I am so incredibly excited to share that Indeed is officially the Recruitment Partner of Oracle Red Bull Racing.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Oracle Red Bull Racing other partner on the 2026 car."
+    "note": "Indeed joined Oracle Red Bull Racing as Recruitment Partner from the 2026 season. No deal value reported."
   },
   {
     "id": "red-bull-racing-mobil-1",
@@ -11101,15 +14137,20 @@
     "orgName": null,
     "sponsorId": "mobil-1",
     "placement": "partner",
-    "from": "2026",
+    "from": "2017",
     "to": null,
     "value": null,
     "source": {
-      "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
-      "date": "2026-09-24",
-      "url": "https://www.redbullracing.com/int-en/partners"
+      "name": "ExxonMobil – ExxonMobil to Become Red Bull Racing's Official Fuel and Lubricant Partner",
+      "date": "2016-12-01",
+      "url": "https://investor.exxonmobil.com/company-information/press-releases/detail/411/exxonmobil-to-become-red-bull-racings-official-fuel-and",
+      "quote": "ExxonMobil announced today that it will become the Red Bull Racing Formula 1™ team's official fuel, lubricant and motor oil partner in 2017",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Oracle Red Bull Racing other partner on the 2026 car."
+    "note": "ExxonMobil (Mobil 1 / Esso) became Red Bull Racing's official fuel and lubricant partner from 2017."
   },
   {
     "id": "red-bull-racing-oracle",
@@ -11117,15 +14158,20 @@
     "orgName": null,
     "sponsorId": "oracle",
     "placement": "front",
-    "from": "2026",
+    "from": "2021",
     "to": null,
     "value": null,
     "source": {
-      "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
-      "date": "2026-09-24",
-      "url": "https://www.redbullracing.com/int-en/partners"
+      "name": "ERP Today – Oracle Red Bull Racing Partnership with Oracle Extended to Power AI-Driven F1 Performance",
+      "date": "2026-02-27",
+      "url": "https://erp.today/oracle-red-bull-racing-partnership-with-oracle-extended-to-power-ai-driven-f1-performance/",
+      "quote": "Oracle and Oracle Red Bull Racing agreed to extend and expand their title partnership for several more years",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Oracle Red Bull Racing title partner on the 2026 car."
+    "note": "Oracle partnered with the team from the 2021 season-opening Bahrain Grand Prix (team partner page, 25 Mar 2021). The title 'Oracle Red Bull Racing' branding followed; the multi-year extension was announced 26 February 2026 (per Oracle's linked announcement; ERP Today reported it 27 February 2026). No value reported."
   },
   {
     "id": "red-bull-racing-siemens",
@@ -11133,15 +14179,20 @@
     "orgName": null,
     "sponsorId": "siemens",
     "placement": "partner",
-    "from": "2026",
+    "from": "2004",
     "to": null,
     "value": null,
     "source": {
-      "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
-      "date": "2026-09-24",
-      "url": "https://www.redbullracing.com/int-en/partners"
+      "name": "Siemens – Siemens and Oracle Red Bull Racing celebrate 20 years of innovation",
+      "date": "2024-12-12",
+      "url": "https://news.siemens.com/en-us/siemens-oracle-red-bull-racing/",
+      "quote": "Siemens Digital Industries Software is celebrating the 20th anniversary of its collaboration with Oracle Red Bull Racing",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Oracle Red Bull Racing other partner on the 2026 car."
+    "note": "Siemens's December 2024 release ('Since 2004...') marks the 20th anniversary of the collaboration; the team's own partner page says 'a partner since our inception in 2005'. The Siemens release's 2004 is taken for the deal start."
   },
   {
     "id": "red-bull-racing-tag-heuer",
@@ -11149,31 +14200,41 @@
     "orgName": null,
     "sponsorId": "tag-heuer",
     "placement": "partner",
-    "from": "2026",
+    "from": "2016",
     "to": null,
     "value": null,
     "source": {
-      "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
-      "date": "2026-09-24",
-      "url": "https://www.redbullracing.com/int-en/partners"
+      "name": "Red Bull Racing Honda – Charging On To 2024 With TAG Heuer",
+      "date": "2021-04-15",
+      "url": "https://www.redbullracing.com/int-en/charging-on-to-2024-with-tag-heuer",
+      "quote": "Red Bull Racing Honda and TAG Heuer are pleased to announce a partnership extension until 2024, with the legendary Swiss watch manufacturer continuing as the Team’s Official Timekeeper",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Oracle Red Bull Racing other partner on the 2026 car."
+    "note": "TAG Heuer has partnered with Red Bull Racing since 2016 as Official Timekeeper; the April 2021 extension ran to 2024. Current-term end not announced."
   },
   {
     "id": "red-bull-racing-visa",
     "clubId": "red-bull-racing",
     "orgName": null,
     "sponsorId": "visa",
-    "placement": "sleeve",
+    "placement": "front",
     "from": "2026",
     "to": null,
     "value": null,
     "source": {
       "name": "Visa Investor Relations – Visa renews partnership across Red Bull Formula One teams",
-      "date": "2026-02-21",
-      "url": "https://investor.visa.com/news/news-details/2026/Visa-Renews-Partnership-Across-Red-Bull-Formula-One-Teams"
+      "date": "2026-02-19",
+      "url": "https://investor.visa.com/news/news-details/2026/Visa-Renews-Partnership-Across-Red-Bull-Formula-One-Teams",
+      "quote": "Visa (NYSE: V) today announced a multi-year renewal and expansion of its global partnership with Red Bull F1 Team's Oracle Red Bull Racing and Visa Cash App Racing Bulls",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Oracle Red Bull Racing sleeve partner on the 2026 car."
+    "note": "Visa renewed across the Red Bull F1 teams from 2026, with on-car branding led by the front wing of the RB22."
   },
   {
     "id": "russian-premier-league-alfa-bank",
@@ -12081,15 +15142,69 @@
     "orgName": null,
     "sponsorId": "c-hedenkamp",
     "placement": "front",
-    "from": "2026-27",
+    "from": "2026",
+    "to": "2028",
+    "value": {
+      "amount": 2.5,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": null
+    },
+    "source": {
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (Stand 04.08.2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+      "quote": "Die zunächst über zwei Spielzeiten abgeschlossene Vereinbarung läuft bis zum Sommer 2028.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Value from the same page: 'Der jährliche Sponsoringbeitrag wird in Medienberichten auf rund 2,5 Millionen Euro geschätzt.' - a media estimate ('rund' -> upTo). Contract effective 1 July 2026 per the club's announcement."
+    }
+  },
+  {
+    "id": "sc-paderborn-07-hummel",
+    "clubId": "sc-paderborn-07",
+    "orgName": null,
+    "sponsorId": "hummel",
+    "placement": "partner",
+    "from": "2025-26",
+    "to": "2030",
+    "value": null,
+    "source": {
+      "name": "SC Paderborn 07, 'Neuer Ausrüster: hummel stattet SCP07 zur Saison 2025/2026 aus' (30.10.2024)",
+      "date": "2024-10-30",
+      "url": "https://www.scp07.de/Newsarchiv/Neuer-Ausruester.html",
+      "quote": "hummel wird zum 1. Juli 2025 neuer Ausrüster des SCP07. Die für fünf Jahre vereinbarte Kooperation beinhaltet",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Kit-maker (Ausrüster) deal: five years from 1 July 2025, i.e. through the 2029-30 season. Covers the professional squad and all youth teams of the Nullsieben Akademie. Value not disclosed."
+  },
+  {
+    "id": "sc-paderborn-07-media-com-gmbh",
+    "clubId": "sc-paderborn-07",
+    "orgName": null,
+    "sponsorId": "media-com-gmbh",
+    "placement": "sleeve",
+    "from": null,
     "to": null,
     "value": null,
     "source": {
-      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
-      "date": "2026-08-04",
-      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      "name": "SC Paderborn 07, 'Trikots 2026/2027 - Unser Heimtrikot' (kit page)",
+      "date": "2026",
+      "url": "https://www.scp07.de/Trikots/Unser-Heimtrikot-1/",
+      "quote": "Auch Ärmel-Sponsor Mediacom ist natürlich gut sichtbar in der weißen und roten Schrift",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     },
-    "note": "Value not disclosed."
+    "note": "Value not disclosed; no start or end date for the sleeve deal found."
   },
   {
     "id": "schalke-04-beumer-group",
@@ -12113,6 +15228,27 @@
       "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
     },
     "note": "Three seasons, independent of the division."
+  },
+  {
+    "id": "schalke-04-blaklader",
+    "clubId": "schalke-04",
+    "orgName": null,
+    "sponsorId": "blaklader",
+    "placement": "sleeve",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FC Schalke 04: FC Schalke 04 welcomes Blåkläder as its new sleeve partner",
+      "date": "2026-06-09",
+      "url": "https://schalke04.de/en/partner-en/blaklaeder-new-sleeve-partner/",
+      "quote": "Starting with the 2026/2027 season, FC Schalke 04 will welcome the internationally renowned workwear specialist Blåkläder as its new sleeve and main partner.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Sleeve and main partner from 2026/27; branding on the sleeves of the first team's jerseys and training kits. The announcement gives no value or term."
   },
   {
     "id": "seattle-mariners-nintendo-patch",
@@ -12179,6 +15315,36 @@
     "note": "Arena naming rights: Lumen Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2020-11-19."
   },
   {
+    "id": "serie-a-enilive",
+    "clubId": null,
+    "orgName": "Lega Serie A",
+    "sponsorId": "enilive",
+    "placement": "league-partner",
+    "from": "2024-25",
+    "to": "2026-27",
+    "value": {
+      "amount": 22,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": null
+    },
+    "source": {
+      "name": "SportsPro - Serie A scores '€22m per year' Enilive title sponsorship",
+      "date": "2024-02-06",
+      "url": "https://www.sportspro.com/news/serie-a-enilive-new-title-sponsorship-tim/",
+      "short": "SportsPro",
+      "quote": "Company will reportedly pay €22 million (US$23.6 million) per year in deal that includes option of a further two seasons beyond 2026/27",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Competition naming-rights deal. Value: SportsPro (2024-02-06) reports €22m per year, reportedly, with an option of two further seasons beyond 2026/27. Term: Eni's own release (2024-02-05, https://www.eni.com/en-IT/media/press-release/2024/02/enilive-becomes-serie-a-title-sponsor.html) titles the agreement 'up until 2027' and says it covers three seasons from 2024/25, so the confirmed term runs to 2026-27; the option years are not part of it.",
+    "leagueId": "serie-a"
+  },
+  {
     "id": "sevilla-fundacion-1890",
     "clubId": "sevilla",
     "orgName": null,
@@ -12191,9 +15357,33 @@
       "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
       "date": "2026-09-06",
       "url": "https://www.scoreandchange.com/la-liga-sponsors/",
-      "note": "club charity Fundacion 1890, announced for the start of the season"
+      "note": "Kit table row reads 'Sevilla Fundación 1890* Charity' with the footnote that it was announced as shirt sponsor for the start of the season rather than the whole season. The club announcement is at https://sevillafc.es/es/actualidad/noticias/camiseta-sevilla-fc-fundacion-1890 (2026-08-14).",
+      "quote": "A day before their opening match, Sevilla announced their charity Fundación 1890 as shirt sponsor."
     },
     "leagueId": "la-liga"
+  },
+  {
+    "id": "shakhtar-donetsk-beton-title",
+    "clubId": "shakhtar-donetsk",
+    "orgName": "SITIKOD LLC (BETON brand)",
+    "sponsorId": "beton",
+    "placement": "partner",
+    "from": "2026",
+    "to": "2029",
+    "value": null,
+    "source": {
+      "name": "FC Shakhtar: Shakhtar and BETON: new title sponsor of the club",
+      "date": "2026-05-03",
+      "url": "https://shakhtar.com/en/news/2026/may/3_news/3_shakhtar_beton/",
+      "note": "Three-year title-sponsorship contract beginning May 3, 2026. No fee reported by the club or the press checked; value unknown.",
+      "quote": "Under the terms of the three-year contract, the brand receives the status of the club's title sponsor. The partnership officially begins on May 3, 2026",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "leagueId": "uefa",
+    "note": "Title sponsor of FC Shakhtar; first worn in the Ukrainian Clasico on May 3, 2026."
   },
   {
     "id": "singapore-open-business-times",
@@ -12359,35 +15549,24 @@
     "from": null,
     "to": "2028-29",
     "value": {
-      "amount": 3,
+      "amount": 5,
       "currency": "EUR",
       "unit": "m",
       "per": "year",
       "upTo": true,
-      "usdApprox": 3
+      "usdApprox": null
     },
     "source": {
       "name": "ran.de, Was die Hauptsponsoren den 18 klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
       "date": "2026-08",
-      "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665"
+      "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665",
+      "quote": "SV Elversberg Hauptsponsor: URSAPHARM Vertragslaufzeit: seit 1990, bis 2029 Summe: zwischen 3 und 5 Millionen Euro pro Jahr",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     },
-    "note": "URSAPHARM (brand HYLO) since 1990 to 2029; estimated EUR3-5m; also URSAPHARM Arena naming rights."
-  },
-  {
-    "id": "sv-elversberg-reuter",
-    "clubId": "sv-elversberg",
-    "orgName": null,
-    "sponsorId": "reuter",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": null,
-    "source": {
-      "name": "Football Kit Archive, Bundesliga 2026-27 kits",
-      "date": "2026-09-24",
-      "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
-    },
-    "note": "Value not disclosed."
+    "note": "ran.de/kicker list the deal under URSAPHARM (HYLO is URSAPHARM's product brand on the shirt): since 1990, to 2029, EUR3-5m per year. Football Kit Archive's sponsor history shows the HYLO brand on the shirt since 2018. URSAPHARM also holds the URSAPHARM-Arena naming rights."
   },
   {
     "id": "svns-dubai-dhl",
@@ -13782,15 +16961,27 @@
     "orgName": null,
     "sponsorId": "raisin",
     "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": null,
-    "source": {
-      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
-      "date": "2026-08-04",
-      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+    "from": "2025-26",
+    "to": "2027",
+    "value": {
+      "amount": 4,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 5
     },
-    "note": "Value not disclosed."
+    "source": {
+      "name": "Deutsches Institut für Marketing: Die Trikotsponsoren der Fußballbundesliga - 1. und 2. Bundesliga",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+      "quote": "Seit der Saison 2025/26 ist das Berliner Finanztechnologieunternehmen Raisin Haupt- und Trikotsponsor des 1. FC Union Berlin und löste HomeToGo ab. Der aktuelle Vertrag läuft voraussichtlich bis zum Sommer 2027. Medienberichte schätzen den jährlichen Sponsoringwert auf etwa vier Millionen Euro.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "No official disclosure; the page cites press estimates of about EUR 4m per year. Partnership runs since 2025/26, contract expected to run to summer 2027."
   },
   {
     "id": "utah-jazz-delta-air-lines-stadium",
@@ -13825,6 +17016,28 @@
     "note": "Jersey patch."
   },
   {
+    "id": "valencia-divina-seguros",
+    "clubId": "valencia",
+    "orgName": null,
+    "sponsorId": "divina-seguros",
+    "placement": "sleeve",
+    "from": "2023-24",
+    "to": "2027",
+    "value": null,
+    "source": {
+      "name": "Valencia CF: Divina Seguros renews its partnership with Valencia CF as Official Insurer for the next two seasons",
+      "date": "2025-05-28",
+      "url": "https://www.valenciacf.com/divina-seguros-renews-its-partnership-with-valencia-cf-as-official-insurer-for-the-next-two-seasons",
+      "quote": "Divina Seguros will maintain its presence on the sleeve of the official match and training shirts of the men's first team and the VCF Academy. Through this renewed agreement until 2027",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "The deal began in 2023-24: Divina Seguros' Memoria Anual 2024 (divinaseguros.com/doc/eH4) says it is sleeve partner 'para las temporadas 2023-2024 y 2024-2025'."
+    },
+    "note": "Value not disclosed."
+  },
+  {
     "id": "valencia-tm-real-estate-group",
     "clubId": "valencia",
     "orgName": null,
@@ -13839,6 +17052,27 @@
       "url": "https://www.scoreandchange.com/la-liga-sponsors/"
     },
     "note": "Value not disclosed."
+  },
+  {
+    "id": "vfb-stuttgart-greenox",
+    "clubId": "vfb-stuttgart",
+    "orgName": null,
+    "sponsorId": "greenox",
+    "placement": "sleeve",
+    "from": "2026-08",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "VfB Stuttgart: 'Herzlich willkommen, GREENOX!' (club announcement)",
+      "date": "2026-08-28",
+      "url": "https://www.vfb.de/de/vfb/aktuell/neues/club/2026/herzlich-willkommen--greenox-/",
+      "quote": "Das Stuttgarter Unternehmen für Energieberatung und Gebäudesanierung engagiert sich ab sofort als Ärmelpartner und Premium-Partner beim VfB Stuttgart",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Sleeve partner (Ärmelpartner) of the men's team and premium partner from 28 August 2026 ('ab sofort' in the club's announcement). Footy Headlines (7 Sep 2026) reports it took over the sleeve from hep solar. Deal value not disclosed."
   },
   {
     "id": "vfb-stuttgart-lbbw",
@@ -13865,7 +17099,17 @@
     "from": "2024-25",
     "to": "2025-26",
     "value": null,
-    "source": null,
+    "source": {
+      "name": "SportsPro (citing The Athletic)",
+      "date": "2026-07-15",
+      "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/",
+      "note": "Reported as a UK£40m (US$53.5m) deal when Betano became principal partner in 2024; the article does not say whether that is per year or over the term, so the value stays null.",
+      "quote": "will replace Betano, which had been Villa’s principal partner since 2024 as part of a reported UK£40 million (US$53.5 million) deal",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
     "note": "Moved to the sleeves for 2026/27."
   },
   {
@@ -13876,8 +17120,25 @@
     "placement": "sleeve",
     "from": "2026-27",
     "to": null,
-    "value": null,
-    "source": null
+    "value": {
+      "amount": 4,
+      "currency": "GBP",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 5.3
+    },
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+      "date": "2026-09-17",
+      "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/",
+      "note": "Trade-press estimate: 'reportedly earning £4 million, twice as much as last season'. USD figure derived at the SportsPro conversion rate (US$26.7m per £20m).",
+      "quote": "A lucrative decision, with Aston Villa reportedly earning £4 million, twice as much as last season.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    }
   },
   {
     "id": "villa-trade-nation",
@@ -13909,7 +17170,12 @@
     "source": {
       "name": "SportsPro (citing The Athletic)",
       "date": "2026-07-15",
-      "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/"
+      "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/",
+      "quote": "the new deal is worth up to UK£20 million (US$26.7 million) each year if bonuses are met",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     },
     "note": "Up to £20m a year if bonuses are met. Men’s, women’s and academy shirts."
   },
@@ -13929,6 +17195,28 @@
       "note": "Club-wide figure: up to £20m a year if bonuses are met, across men's, women's and academy shirts; the women's share is not stated."
     },
     "note": "Replaces Betano as the club's principal partner. Amnesty International warned the deal is sportswashing. The reported value (up to GBP 20m a year) is for the club-wide deal, recorded on villa-visit-rwanda; it covers the men's, women's and academy shirts, so it is not repeated here."
+  },
+  {
+    "id": "villarreal-gac-sleeve",
+    "clubId": "villarreal",
+    "orgName": null,
+    "sponsorId": "gac",
+    "placement": "sleeve",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "GAC Spain, GAC patrocinador oficial de Villarreal CF",
+      "date": "2026-09-07",
+      "url": "https://gacspain.es/gac-patrocinador-oficial-de-villareal-cf/",
+      "quote": "La colaboración contempla la temporada 2026/2027, con posibilidad de prolongarse durante la temporada 2027/2028.",
+      "note": "The announcement covers the 2026/2027 season with an option to extend into 2027/2028; no deal value is reported.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Value not disclosed. The announcement says the deal covers 2026/27 with a possible extension to 2027/28, so to is left null."
   },
   {
     "id": "villarreal-pamesa-ceramica",
@@ -14203,6 +17491,28 @@
     "leagueId": "wec"
   },
   {
+    "id": "werder-bremen-harald-pihl",
+    "clubId": "werder-bremen",
+    "orgName": null,
+    "sponsorId": "harald-pihl",
+    "placement": "stadium",
+    "from": null,
+    "to": "2030",
+    "value": null,
+    "source": {
+      "name": "SV Werder Bremen: Langfristige Flutlichtpartnerschaft sichert den Namen Weserstadion (archived 6 Aug 2025, Wayback Machine)",
+      "date": "2025-08-06",
+      "url": "https://web.archive.org/web/20250806131341/https://www.werder.de/aktuell/news/2025/2026/weserstadion-name-20250806/",
+      "note": "werder.de blocks scripts (HTTP 429); quote verified on the Internet Archive snapshot.",
+      "quote": "Hauptsponsor MATTHÄI, Top-Partner HARALD PIHL GmbH und die Exklusiv-Partner WIESENHOF und GOLDSCHMAUS engagieren sich künftig zusätzlich als sogenannte Flutlichtpartner und tragen zur Namenssicherung bis 2030 bei.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Floodlight partnership announced 6 Aug 2025: Harald Pihl is one of four Flutlichtpartner who keep the Weserstadion name to 2030 instead of a naming sponsor. The page gives no start date and no value."
+  },
+  {
     "id": "werder-bremen-matthaei",
     "clubId": "werder-bremen",
     "orgName": null,
@@ -14274,6 +17584,27 @@
     "note": "Back-of-shirt partner of West Ham United Women since July 2025."
   },
   {
+    "id": "williams-airia",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "airia",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: Airia",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/airia-v2",
+      "quote": "Airia is a leading enterprise AI orchestration platform",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team partner on the 2026 car."
+  },
+  {
     "id": "williams-atlassian",
     "clubId": "williams",
     "orgName": null,
@@ -14322,6 +17653,48 @@
     "note": "Atlassian Williams F1 Team other partner on the 2026 car."
   },
   {
+    "id": "williams-bny",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "bny",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: BNY",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/bny",
+      "quote": "BNY is the corporate brand of The Bank of New York Mellon Corporation (NYSE: BK).",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "williams-brillio",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "brillio",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: Brillio",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/brillio-v2",
+      "quote": "Brillio is a global technology consulting and services company",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team partner on the 2026 car."
+  },
+  {
     "id": "williams-claude",
     "clubId": "williams",
     "orgName": null,
@@ -14354,6 +17727,48 @@
     "note": "Atlassian Williams F1 Team other partner on the 2026 car."
   },
   {
+    "id": "williams-estrella-galicia",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "estrella-galicia",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: Estrella Galicia",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/estrella-galicia",
+      "quote": "Estrella Galicia 0,0 is the flagship non-alcoholic beer brand of Corporación Hijos de Rivera",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "williams-girard-perregaux",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "girard-perregaux",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: Girard-Perregaux",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/girard-perregaux",
+      "quote": "Girard-Perregaux is one of the few fully integrated Swiss Manufactures",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team partner on the 2026 car."
+  },
+  {
     "id": "williams-gulf-oil-w",
     "clubId": "williams",
     "orgName": null,
@@ -14368,6 +17783,48 @@
       "url": "https://www.williamsf1.com/partners"
     },
     "note": "Atlassian Williams F1 Team other partner on the 2026 car."
+  },
+  {
+    "id": "williams-jackpot-city",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "jackpot-city",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: Jackpot City",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/jackpot-city-v2",
+      "quote": "Jackpot City is the leading casino brand operated by Spin, part of Super Group",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "williams-keeper-security",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "keeper-security",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: Keeper Security",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/keeper-security-v2",
+      "quote": "Keeper is an Official Cybersecurity Partner of Atlassian Williams F1 Team.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team Official Cybersecurity Partner on the 2026 car."
   },
   {
     "id": "williams-komatsu",
@@ -14400,6 +17857,279 @@
       "url": "https://www.kraken.com/press/releases/williams-racing-and-kraken-announce-global-crypto-partnership-ahead-of-australian-grand-prix"
     },
     "note": "Atlassian Williams F1 Team other partner on the 2026 car."
+  },
+  {
+    "id": "williams-m-and-s",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "m-and-s",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: M&S",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/m-and-s",
+      "quote": "M&S has been home to the best of British style for nearly 150 years.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "williams-new-era",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "new-era",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: New Era",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/new-era",
+      "quote": "New Era is the world’s leading sports and lifestyle headwear brand",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "williams-nmc",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "nmc",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: NMC²",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/nmc-v2",
+      "quote": "NorthMark Compute & Cloud (NMC²) is a newly established organisation working with multiple partners and industries",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "williams-nuveen",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "nuveen",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: Nuveen",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/nuveen",
+      "quote": "Nuveen is a global investment leader, managing $1.4T in public and private assets",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "williams-pirelli",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "pirelli",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: Pirelli",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/pirelli-v2",
+      "quote": "Pirelli has been the Global Tyre Partner of the Formula One™ World Championship since 2011 and has just extended the agreement until at least 2027.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Tyre partner; Pirelli supplies every F1 team, including Williams, under the championship agreement to at least 2027."
+  },
+  {
+    "id": "williams-sparco",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "sparco",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: Sparco",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/sparco",
+      "quote": "Sparco S.p.A. has been developing and manufacturing equipment for the racing environment",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "williams-spinal-injuries-association",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "spinal-injuries-association",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: Spinal Injuries Association",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/spinal-injuries-association-v2",
+      "quote": "In 2023 SIA launched their Frank Williams Academy",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Official charity partner of Atlassian Williams F1 Team."
+  },
+  {
+    "id": "williams-stephens",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "stephens",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: Stephens",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/stephens-v2",
+      "quote": "their partnership designation will be Official Investment Banking Partner",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team Official Investment Banking Partner on the 2026 car."
+  },
+  {
+    "id": "williams-vast-data",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "vast-data",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: VAST Data",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/vast-data-v2",
+      "quote": "Since 2024, VAST Data has supported Atlassian Williams F1 Team in managing and scaling data-intensive workloads",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "williams-wilkinson-sword",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "wilkinson-sword",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: Wilkinson Sword",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/wilkinson-sword",
+      "quote": "An iconic British brand since 1772, Wilkinson Sword brings over 250 years of blade-making expertise to modern men’s grooming.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "williams-zoox",
+    "clubId": "williams",
+    "orgName": null,
+    "sponsorId": "zoox",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlassian Williams F1 Team – Partner: Zoox",
+      "date": "2026-09-27",
+      "url": "https://www.williamsf1.com/partners/zoox-v2",
+      "quote": "Zoox is an independent subsidiary of Amazon.com, Inc.",
+      "checked": {
+        "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Atlassian Williams F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "winamax-rc-strasbourg-2020",
+    "clubId": "rc-strasbourg",
+    "orgName": "RC Strasbourg Alsace",
+    "sponsorId": "winamax",
+    "placement": "front",
+    "from": "2020",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "RC Strasbourg Alsace — Winamax, nouveau sponsor principal du Racing Club de Strasbourg Alsace",
+      "date": "2020-07-30",
+      "url": "https://www.rcstrasbourgalsace.fr/winamax-nouveau-sponsor-principal-du-racing-club-de-strasbourg-alsace/",
+      "quote": "Winamax et le Racing sont ravis d’annoncer aujourd’hui la signature d’un partenariat sur 3 saisons",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Initial main-partner deal: 3 seasons from 2020. No financial terms published."
+  },
+  {
+    "id": "winamax-rc-strasbourg-2026",
+    "clubId": "rc-strasbourg",
+    "orgName": "RC Strasbourg Alsace",
+    "sponsorId": "winamax",
+    "placement": "front",
+    "from": "2026",
+    "to": "2028",
+    "value": null,
+    "source": {
+      "name": "RC Strasbourg Alsace — Winamax et le Racing Club de Strasbourg Alsace prolongent leur aventure jusqu'en 2028",
+      "date": "2026-07-22",
+      "url": "https://www.rcstrasbourgalsace.fr/winamax-et-le-racing-club-de-strasbourg-alsace-prolongent-leur-aventure-jusquen-2028/",
+      "quote": "L'accord est prolongé pour deux saisons supplémentaires, soit jusqu'en 2028",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Extension announced 22 July 2026: two extra seasons, to 2028, with an option for 2029; the club describes Winamax as the unique front-of-shirt partner of the 2026-27 home shirt. No financial terms published."
   },
   {
     "id": "womens-golf-aramco",

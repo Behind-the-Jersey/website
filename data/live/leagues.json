@@ -53,7 +53,7 @@
     "country": "Germany",
     "clubCount": 18,
     "season": "2026-27",
-    "status": "not-started",
+    "status": "partial",
     "notes": [
       "All 18 clubs for 2026-27 are in the data; front sponsors are unrated.",
       "Bayern Munich dropped Qatar Airways in 2023 and moved away from Visit Rwanda in 2025."
@@ -162,7 +162,7 @@
     ],
     "sportId": "events",
     "name": "UEFA competitions",
-    "status": "not-started",
+    "status": "partial",
     "notes": [
       "UEFA ended its Gazprom deal in 2022."
     ]

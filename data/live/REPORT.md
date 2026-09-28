@@ -1,235 +1,285 @@
 # data/live
 
-Release `data-2026-09-27-f49f35a` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `f49f35a`, data updated 2026-09-27. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
+Release `data-2026-09-28-f6c688e1` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `f6c688e1`, data updated 2026-09-28. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
 
-Compared with the data it replaces (`a8659ca`, updated 2026-09-27):
+Compared with the data it replaces (`f49f35a`, updated 2026-09-27):
 
 | | clubs | kits | sponsors | owners | claims | deals | contacts |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| before | 331 | 271 | 656 | 410 | 376 | 460 | 213 |
-| after | 579 | 435 | 1048 | 616 | 418 | 888 | 213 |
+| before | 579 | 435 | 1048 | 616 | 418 | 888 | 213 |
+| after | 579 | 447 | 1202 | 873 | 710 | 1047 | 213 |
 
-## Clubs added (248)
+## Club levels that change (33)
 
-- [4Aces GC](https://behind-the-jersey.org/clubs/4aces-gc/) (LIV Golf League): Not rated yet
-- [Academico de Viseu FC](https://behind-the-jersey.org/clubs/academico-de-viseu/) (Liga Portugal Betclic (Primeira Liga)): Not rated yet
-- [Admiral Vladivostok](https://behind-the-jersey.org/clubs/admiral-vladivostok/) (Kontinental Hockey League (KHL)): Not rated yet
-- [AF Corse](https://behind-the-jersey.org/clubs/af-corse/) (FIA World Endurance Championship): Not rated yet
-- [AG Insurance-Soudal Team](https://behind-the-jersey.org/clubs/ag-insurance-soudal-women/) (UCI Women's WorldTour (women's road cycling)): Not rated yet
-- [Ak Bars Kazan](https://behind-the-jersey.org/clubs/ak-bars-kazan/) (Kontinental Hockey League (KHL)): Not rated yet
-- [FC Akhmat Grozny](https://behind-the-jersey.org/clubs/akhmat-grozny/) (Alfa-Bank Russian Premier League): Not rated yet
-- [Akkodis ASP Team](https://behind-the-jersey.org/clubs/akkodis-asp-team/) (FIA World Endurance Championship): Not rated yet
-- [FC Akron Tolyatti](https://behind-the-jersey.org/clubs/akron-tolyatti/) (Alfa-Bank Russian Premier League): Not rated yet
-- [Al Ahly](https://behind-the-jersey.org/clubs/al-ahly/) (Basketball Africa League): Stained
-- [Al Ahly Ly](https://behind-the-jersey.org/clubs/al-ahly-ly/) (Basketball Africa League): Stained
-- [Al Ain FC](https://behind-the-jersey.org/clubs/al-ain/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet
-- [Al-Gharafa SC](https://behind-the-jersey.org/clubs/al-gharafa/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet
-- [Al-Quwa Al-Jawiya](https://behind-the-jersey.org/clubs/al-quwa-al-jawiya/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet
-- [Al Sadd SC](https://behind-the-jersey.org/clubs/al-sadd/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet
-- [Al-Shamal SC](https://behind-the-jersey.org/clubs/al-shamal/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet
-- [Al Wasl FC](https://behind-the-jersey.org/clubs/al-wasl/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet
-- [Alpine Endurance Team](https://behind-the-jersey.org/clubs/alpine-endurance-team/) (FIA World Endurance Championship): Not rated yet
-- [FC Alverca](https://behind-the-jersey.org/clubs/alverca/) (Liga Portugal Betclic (Primeira Liga)): Not rated yet
-- [Amur Khabarovsk](https://behind-the-jersey.org/clubs/amur-khabarovsk/) (Kontinental Hockey League (KHL)): Not rated yet
-- [Anadolu Efes S.K.](https://behind-the-jersey.org/clubs/anadolu-efes/) (EuroLeague): Not rated yet
-- [Andretti Formula E](https://behind-the-jersey.org/clubs/andretti-formula-e/) (ABB FIA Formula E World Championship): Not rated yet
-- [Aprilia Racing](https://behind-the-jersey.org/clubs/aprilia-racing/) (FIM MotoGP World Championship): Not rated yet
-- [FC Arouca](https://behind-the-jersey.org/clubs/arouca/) (Liga Portugal Betclic (Primeira Liga)): Not rated yet
-- [Arsenal Women](https://behind-the-jersey.org/clubs/arsenal-w/) (Women's Super League): Stained
-- [Artemis SailGP Team](https://behind-the-jersey.org/clubs/artemis-sweden/) (SailGP (Rolex SailGP Championship)): Not rated yet
-- [ASC Ville de Dakar](https://behind-the-jersey.org/clubs/asc-ville-de-dakar/) (Basketball Africa League): Stained
-- [Aston Martin THOR Team](https://behind-the-jersey.org/clubs/aston-martin-thor-team/) (FIA World Endurance Championship): Not rated yet
-- [Aston Villa Women](https://behind-the-jersey.org/clubs/aston-villa-w/) (Women's Super League): Soaked
-- [ASVEL Basket](https://behind-the-jersey.org/clubs/asvel/) (EuroLeague): Not rated yet
-- [Avangard Omsk](https://behind-the-jersey.org/clubs/avangard-omsk/) (Kontinental Hockey League (KHL)): Not rated yet
-- [Avtomobilist Yekaterinburg](https://behind-the-jersey.org/clubs/avtomobilist-yekaterinburg/) (Kontinental Hockey League (KHL)): Not rated yet
-- [FC Baltika Kaliningrad](https://behind-the-jersey.org/clubs/baltika-kaliningrad/) (Alfa-Bank Russian Premier League): Not rated yet
-- [FC Barcelona Bàsquet](https://behind-the-jersey.org/clubs/barcelona-basquet/) (EuroLeague): Not rated yet
-- [Barys Astana](https://behind-the-jersey.org/clubs/barys-astana/) (Kontinental Hockey League (KHL)): Not rated yet
-- [Saski Baskonia](https://behind-the-jersey.org/clubs/baskonia/) (EuroLeague): Not rated yet
-- [FC Bayern Munich Basketball](https://behind-the-jersey.org/clubs/bayern-munich-basketball/) (EuroLeague): Not rated yet
-- [Beijing Guoan FC](https://behind-the-jersey.org/clubs/beijing-guoan/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet
-- [SL Benfica](https://behind-the-jersey.org/clubs/benfica/) (Liga Portugal Betclic (Primeira Liga)): Stained
-- [Beşiktaş J.K. (men's basketball)](https://behind-the-jersey.org/clubs/besiktas-basketball/) (EuroLeague): Not rated yet
-- … and 208 more
+- [Athletic Club](https://behind-the-jersey.org/clubs/athletic-club/) (La Liga): Not rated yet → **Clean**
+- [FC Barcelona](https://behind-the-jersey.org/clubs/barcelona/) (La Liga): Not rated yet → **Clean**
+- [Bayer Leverkusen](https://behind-the-jersey.org/clubs/bayer-leverkusen/) (Bundesliga): Not rated yet → **Clean**
+- [Borussia Dortmund](https://behind-the-jersey.org/clubs/borussia-dortmund/) (Bundesliga): Not rated yet → **Clean**
+- [Borussia Moenchengladbach](https://behind-the-jersey.org/clubs/borussia-monchengladbach/) (Bundesliga): Not rated yet → **Clean**
+- [Brighton & Hove Albion](https://behind-the-jersey.org/clubs/brighton-and-hove-albion/) (Premier League): Not rated yet → **Clean**
+- [Celta Vigo](https://behind-the-jersey.org/clubs/celta-vigo/) (La Liga): Not rated yet → **Clean**
+- [Club Brugge KV](https://behind-the-jersey.org/clubs/club-brugge/) (UEFA competitions): Not rated yet → **Clean**
+- [Como 1907](https://behind-the-jersey.org/clubs/como/) (Serie A): Not rated yet → **Clean**
+- [Deportivo A Coruna](https://behind-the-jersey.org/clubs/deportivo-la-coruna/) (La Liga): Not rated yet → **Clean**
+- [Eintracht Frankfurt](https://behind-the-jersey.org/clubs/eintracht-frankfurt/) (Bundesliga): Not rated yet → **Clean**
+- [Elche CF](https://behind-the-jersey.org/clubs/elche/) (La Liga): Not rated yet → **Clean**
+- [FC Augsburg](https://behind-the-jersey.org/clubs/fc-augsburg/) (Bundesliga): Not rated yet → **Clean**
+- [1. FC Koeln](https://behind-the-jersey.org/clubs/fc-koln/) (Bundesliga): Not rated yet → **Clean**
+- [ACF Fiorentina](https://behind-the-jersey.org/clubs/fiorentina/) (Serie A): Not rated yet → **Clean**
+- [Hamburger SV](https://behind-the-jersey.org/clubs/hamburger-sv/) (Bundesliga): Not rated yet → **Clean**
+- [Le Mans FC](https://behind-the-jersey.org/clubs/le-mans-fc/) (Ligue 1): Not rated yet → **Clean**
+- [Levante UD](https://behind-the-jersey.org/clubs/levante/) (La Liga): Not rated yet → **Clean**
+- [Mainz 05](https://behind-the-jersey.org/clubs/mainz-05/) (Bundesliga): Not rated yet → **Clean**
+- [McLaren Mastercard F1 Team](https://behind-the-jersey.org/clubs/mclaren/) (Formula 1): Not rated yet → **Spotted**
+- [RB Leipzig](https://behind-the-jersey.org/clubs/rb-leipzig/) (Bundesliga): Not rated yet → **Clean**
+- [Real Sociedad](https://behind-the-jersey.org/clubs/real-sociedad/) (La Liga): Not rated yet → **Clean**
+- [SC Freiburg](https://behind-the-jersey.org/clubs/sc-freiburg/) (Bundesliga): Not rated yet → **Clean**
+- [SC Paderborn](https://behind-the-jersey.org/clubs/sc-paderborn-07/) (Bundesliga): Not rated yet → **Clean**
+- [Schalke 04](https://behind-the-jersey.org/clubs/schalke-04/) (Bundesliga): Not rated yet → **Clean**
+- [Sevilla FC](https://behind-the-jersey.org/clubs/sevilla/) (La Liga): Not rated yet → **Clean**
+- [Shakhtar Donetsk](https://behind-the-jersey.org/clubs/shakhtar-donetsk/) (UEFA competitions): Not rated yet → **Clean**
+- [Slavia Praha](https://behind-the-jersey.org/clubs/slavia-praha/) (UEFA competitions): Not rated yet → **Clean**
+- [ŠK Slovan Bratislava](https://behind-the-jersey.org/clubs/slovan-bratislava/) (UEFA competitions): Not rated yet → **Clean**
+- [SV Elversberg](https://behind-the-jersey.org/clubs/sv-elversberg/) (Bundesliga): Not rated yet → **Clean**
+- [Toulouse FC](https://behind-the-jersey.org/clubs/toulouse-fc/) (Ligue 1): Not rated yet → **Clean**
+- [TSG Hoffenheim](https://behind-the-jersey.org/clubs/tsg-hoffenheim/) (Bundesliga): Not rated yet → **Clean**
+- [Union Berlin](https://behind-the-jersey.org/clubs/union-berlin/) (Bundesliga): Not rated yet → **Clean**
 
-## Sponsors added (392)
+## Sponsor ratings that change (123)
 
-- 1xBet: unrated
-- 54 (sport and entertainment agency): unrated
-- ABB: unrated
-- AbbVie: unrated
-- Absa: unrated
-- Abu Dhabi Sports Council: unrated
-- Accenture: unrated
-- Accor (ALL - Accor Live Limitless): unrated
-- Ace Hardware: unrated
-- AD Ports Group: unrated
-- AfrAsia Bank: unrated
-- Afreximbank (African Export-Import Bank): unrated
-- AG Insurance: unrated
-- Aggreko: unrated
-- Air Senegal: unrated
-- AirAsia: unrated
-- Ak Bars Bank: unrated
-- Akhmat Foundation: unrated
-- Akron: unrated
-- Al Shaqab (Qatar Foundation): unrated
-- ALBAIK: unrated
-- Aldar Properties: unrated
-- Alé Cycling: unrated
-- Alfa-Bank: unrated
-- Alfred Dunhill: unrated
-- Alrajhi Bank: unrated
-- Altrad: unrated
-- AM Green: unrated
-- Amazing CRE: unrated
-- Amgen: unrated
-- Amstel: unrated
-- Analog: unrated
-- Antofagasta Minerals: unrated
-- Apex Group: unrated
-- Apple Music: unrated
-- Arena: unrated
-- Armani Exchange (EA7): unrated
-- Asahi Super Dry: unrated
-- Aspetar: unrated
-- ASTRO Turf: unrated
-- … and 352 more
+- Abanca: unrated (unrated) → **none** (rated)
+- Acadomia: unrated (unrated) → **none** (rated)
+- Actual Group: unrated (unrated) → **none** (rated)
+- Advise Énergie: unrated (unrated) → **none** (rated)
+- Allianz: unrated (unrated) → **none** (rated)
+- Amplitude Groupe Automobile: unrated (unrated) → **none** (rated)
+- ANIEL Pièces Auto: unrated (unrated) → **none** (rated)
+- APM Monaco: unrated (unrated) → **none** (rated)
+- Ascale: unrated (unrated) → **none** (rated)
+- Association ELA: unrated (unrated) → **none** (rated)
+- Atheo Ingenierie: unrated (unrated) → **none** (rated)
+- Auchan: unrated (unrated) → **none** (rated)
+- Aushopping: unrated (unrated) → **none** (rated)
+- Ayuntamiento de Benahavis: unrated (unrated) → **none** (rated)
+- B&B Hotels: unrated (unrated) → **none** (rated)
+- B-Partner: unrated (unrated) → **none** (rated)
+- Bang & Olufsen: unrated (unrated) → **none** (rated)
+- BEYOND Developments: unrated (unrated) → **none** (rated)
+- Blot Immobilier: unrated (unrated) → **none** (rated)
+- Boulanger: unrated (unrated) → **none** (rated)
+- Breizh Cola: unrated (unrated) → **none** (rated)
+- Casadora: unrated (unrated) → **none** (rated)
+- Castore: unrated (unrated) → **none** (rated)
+- Celer Lighting: unrated (unrated) → **unrated** (being-rated)
+- Century 21 Groupe Martinot: unrated (unrated) → **none** (rated)
+- Cichy Manutention: unrated (unrated) → **none** (rated)
+- Cité Marine: unrated (unrated) → **none** (rated)
+- CMA CGM: unrated (unrated) → **none** (rated)
+- Deutsche Vermögensberatung: unrated (unrated) → **none** (rated)
+- DEVK: unrated (unrated) → **none** (rated)
+- DF Industrie: unrated (unrated) → **none** (rated)
+- Diputación Foral de Álava (Araba): unrated (unrated) → **none** (rated)
+- E.Leclerc: unrated (unrated) → **none** (rated)
+- École Noir&Blanc: unrated (unrated) → **none** (rated)
+- Électricité de Strasbourg: unrated (unrated) → **none** (rated)
+- Experience Kissimmee: unrated (being-rated) → **none** (rated)
+- Fundacio FC Barcelona: unrated (unrated) → **none** (rated)
+- GAC: unrated (unrated) → **unrated** (being-rated)
+- Gana Energía: unrated (unrated) → **none** (rated)
+- GCS: unrated (unrated) → **none** (rated)
+- … and 83 more
 
-## Owners added (206)
+## Sponsors added (154)
 
-- Acrisure, LLC (acrisure-owner)
-- Acushnet Holdings Corp. (acushnet-holdings)
-- AD Ports Group (Abu Dhabi Ports PJSC) (ad-ports-group)
-- ADQ (Abu Dhabi Developmental Holding Company) (adq)
-- African Export-Import Bank (Afreximbank) (afreximbank)
-- Ageas (ageas)
-- Agnelli/Elkann family (agnelli-elkann)
-- Airbnb, Inc. (airbnb-inc)
-- Akhmat Foundation (Regional Public Fund named after Akhmat Kadyrov) (akhmat-foundation)
-- ALBAIK Food Systems Company (albaik-food-systems)
-- Albert LLC (albert-owner)
-- Alfa-Bank (AO ALFA-BANK) (alfa-bank)
-- Al Rajhi Banking and Investment Corporation (alrajhi-bank-owner)
-- AM Green (am-green)
-- Amaury Group (Groupe Amaury / EPIC Editions Philippe Amaury) (amaury-group)
-- Amer Sports, Inc. (amer-sports)
-- AMR GP Limited (amr-gp)
-- Giorgio Armani S.p.A. (armani)
-- Arpa Industriale (arpa-industriale)
-- Amaury Sport Organisation (ASO) (aso)
-- Aspetar Orthopaedic and Sports Medicine Hospital (aspetar)
-- Aspire Zone Foundation (aspire-zone-foundation)
-- Aston Martin Lagonda Global Holdings plc (aston-martin-lagonda)
-- Atlantis-Pak (atlantis-pak)
-- Audi AG (audi-ag)
-- Authentic Brands Group (authentic-brands-group)
-- Azartia Games, S.A. (azartia)
-- Ball Corporation (ball-corporation-owner)
-- Beemok Capital (beemok-capital)
-- Arçelik A.S. (beko-owner)
-- Betcity (betcity)
-- Betclic Everest Group (betclic-everest)
-- BMW AG (bmw-ag)
-- Burjeel Holdings (burjeel-holdings)
-- Carnival Corporation & plc (carnival-corporation)
-- Celer Lighting (celer-lighting)
-- Chery Automobile Co., Ltd. (chery-automobile)
-- China Resources (Group) Co., Ltd. (china-resources-group)
-- City Football Group (city-football-group)
-- The ClearScore Group (clearscore-group)
-- … and 166 more
+- 1TEAM: none
+- 50+ Mobiel: unrated
+- Airia: unrated
+- Allwyn: unrated
+- Alteryx: unrated
+- Altibox: none
+- Ambipar: unrated
+- Apple TV: unrated
+- AQUAME: unrated
+- Arm: unrated
+- Arrow Electronics: unrated
+- Astor Enerji: unrated
+- Atlas Air: unrated
+- Auberge Collection: unrated
+- AUS Global: unrated
+- Austral: none
+- backaldrin Kornspitz: unrated
+- Bank Respublika: none
+- British American Tobacco: unrated
+- BBVA: unrated
+- bet365 Scores: none
+- BETON: none
+- BingX: unrated
+- Bitdefender: unrated
+- Bitpanda: none
+- Blåkläder: none
+- BNY: unrated
+- BOSS: unrated
+- Metropoolregio Brainport Eindhoven: none
+- Brillio: unrated
+- Buala: none
+- CEVA Logistics: unrated
+- Chivas Regal: unrated
+- Cognition: unrated
+- Cohere: unrated
+- COINPAYMENTS: unrated
+- Coop Nordland: none
+- CoreWeave: unrated
+- Grupo Dental Clinics: unrated
+- Diadora: none
+- … and 114 more
 
-## Claims added (42)
+## Owners added (258)
 
-- adsc-established-2006: The Abu Dhabi Sports Council says it was established in 2006 by Sheikh Mohamed bin Zayed Al Nahyan, President of the United Arab Emirates, and is aligned to the emirate's leadership vision to develop sport and youth activities.
-- amnesty-rwanda-sportswashing-2026: Amnesty International's British head of campaigns, Felix Jakens, warned that Rwanda is using its Aston Villa sponsorship to sportswash a record of arbitrary detention, torture and repression of free speech, and is fuelling conflict in eastern Congo through its support for M23 rebels and its military's actions there.
-- bahri-ownership: The Public Investment Fund holds a 22.55 percent stake in Bahri (National Shipping Company of Saudi Arabia) and 20 percent is held by Saudi Aramco Development Company, with the remainder in public shares.
-- bcd-qatar-racing-2026: Qatar Racing, 'the global horse racing and breeding operation of the QIPCO group', became title sponsor of British Champions Day on 4 August 2026 for the next three years, with individual sponsorship of all seven races, succeeding its parent company QIPCO, whose chairman is HH Sheikh Hamad Al Thani.
-- chery-state-shareholders: Chery Automobile's HKEX prospectus (17 Sep 2025) shows Wuhu Investment Holding continuing as the company's Single Largest Shareholder with 20.08% of the enlarged share capital upon listing (assuming the over-allotment option is not exercised) - itself owned 95.59% by Wuhu SASAC and 4.41% by the Anhui Provincial Department of Finance - alongside Anhui Credit Guaranty holding 9.46% (wholly owned by the People's Government of Anhui Province) and Anhui Investment Holding holding 4.93% (wholly owned by Anhui SASAC). The prospectus states the company has 22 shareholders with a dispersed shareholding structure including certain state-owned enterprises, and is not a state-owned, state-controlled or state-actually-controlled enterprise under the PRC's state-asset supervision measures.
-- csl-crb-under-crc: CR Beverage (China Resources Beverage (Holdings) Co., Ltd., HKEX 02460) describes itself as a core business unit under China Resources (Group) Co., Ltd., headquartered in Nanshan, Shenzhen, according to the company's own website.
-- csl-crc-sasac-2003: China Resources (Group) Co., Ltd. was placed under the direct supervision of China's State-owned Assets Supervision and Administration Commission (SASAC) in 2003 and is a centrally managed state-owned key backbone enterprise, according to the group's own corporate overview page.
-- dakar-sportswashing-hrw-2020: Human Rights Watch and 12 other human rights organisations said ASO's Dakar Rally was being used to sportswash Saudi Arabia's imprisonment of peaceful critics, noting women activists jailed for campaigning for the right to drive while the 2020 rally ran under a five-year ASO-Saudi government deal, and urging ASO to adopt a human-rights policy consistent with the UN Guiding Principles on Business and Human Rights.
-- dp-world-ownership: DP World Limited's audited FY2025 financial statements state that Port & Free Zone World FZE ('PFZW'), a wholly owned subsidiary of Dubai World Corporation, holds 100% of the company's issued and outstanding share capital, and that the Government of Dubai is the ultimate owner of the group.
-- dp-world-tour-bahrain-record: Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people; one detainee died in custody after being disappeared, and twelve death row inmates remain at imminent risk of execution.
-- dp-world-tour-qatar-record: Amnesty International reports labour abuses against migrant workers in Qatar despite recent reforms, including under the kafala system, and deaths of migrant workers that were not effectively investigated.
-- ewcf-pif-funded: The Esports World Cup Foundation describes itself as a non-profit not owned by the Saudi state but funded through a sports grant from the Public Investment Fund; the Saudi cabinet named Crown Prince Mohammed bin Salman chair of its board of trustees on 2 Sep 2025.
-- fa-cup-carling-ownership: Carling is one of Molson Coors' core power brands, named alongside Coors Light, Miller Lite, Coors Banquet, Molson Canadian and Ozujsko on the company's own About page.
-- fa-cup-clearscore-ownership: ClearScore says it is part of The ClearScore Group and was founded in the UK in 2015.
-- fa-cup-emirates-ownership: The Emirates Group, Emirates airline's parent, is owned by the Investment Corporation of Dubai, 'Dubai's sovereign wealth fund'; Dubai gave Emirates about $4 billion in bailout funds during the pandemic, of which $3.6 billion has been repaid.
-- fa-cup-mitre-ownership: Pentland Group describes itself as 'a family business building and delivering positive brands in sports, outdoor and fashion' with annual sales of $8 billion; its Pentland Brands arm 'owns Speedo, Berghaus, Canterbury, Endura, ellesse, SeaVees, Red Or Dead and Mitre'.
-- hexagon-54-lead-investor: 54, the sports and entertainment agency owned by Saudi Arabia's Public Investment Fund (PIF), was named lead investor in the Hexagon World Series, a new team padel circuit governed by the International Padel Federation (FIP); SportBusiness reported this as Saudi Arabia's first major investment move into padel.
-- indonesia-hrw-record: Human Rights Watch's 2026 world report records that President Prabowo expanded the military and placed active-duty personnel in civilian posts in his first year; in Papua, the Merauke food estate project forcibly displaced Indigenous communities and drove deforestation alongside the deployment of five new battalions; and in August 2025 police used excessive force to disperse protesters across 107 cities.
-- jcsa-1965-royal-decree: The Jockey Club of Saudi Arabia was established in 1965 and 'is tasked with the organisation, development and promotion of Saudi Arabian horseracing at domestic and international level'; its history page records that a Royal Decree from King Faisal Bin Abdulaziz entrusted the presidency to Prince Abdullah Bin Abdulaziz.
-- kuwait-exit-permit-2025: Kuwait announced that from July 2025 migrant workers need their employer's permission to leave the country; HRW called it an alarming step backwards that reinforces the kafala system and lets employers trap workers in abusive situations.
-- liv-pif-funding: Saudi Arabia's Public Investment Fund has bankrolled LIV Golf since its 2022 launch and confirmed on 30 April 2026 that it will end its funding of the league at the end of the 2026 season, saying the substantial investment required is no longer consistent with its strategy; PIF governor and LIV Golf chairman Yasir Al-Rumayyan is expected to step down.
-- lukoil-private-ownership: The Russian Federation's stake in LUKOIL was reduced to 0% following the September 2004 auction of the remaining 7.6% state-held shares to ConocoPhillips affiliate Springtime Holdings.
-- oman-hrw-record-2021: HRW's World Report 2021 Oman chapter found that 'Under Sultan Haitham bin Tariq, freedom of expression remained squeezed', citing prosecutions over social-media posts, and that Oman 'has done little to protect migrant domestic workers rights', with workers facing 'few avenues for redress' and risking 'imprisonment and deportation for absconding'.
-- pif-giga-labour-abuses: Human Rights Watch found that PIF-funded businesses and projects are among those exploiting and abusing migrant workers in Saudi Arabia's giga-project construction, including at NEOM, as Vision 2030 projects scale up toward the 2034 FIFA World Cup.
-- poules-adsc-2026: The Abu Dhabi Sports Council was founded in 2006 by the crown prince of Abu Dhabi, Sheikh Mohamed bin Zayed Al Nahyan, as an organisation dedicated to promoting sport and elite competition.
-- qsi-braga-stake: Qatar Sports Investments (QSI), which owns Paris Saint-Germain, signed a share purchase agreement with Olivedesportos, SGPS S.A. in October 2022 to acquire 21.67% of the share capital of Sporting Clube de Braga, a deal disclosed to Portugal's securities regulator, the CMVM.
-- rdf-hrw-occupation: Human Rights Watch documents a campaign of mass forced recruitment, arbitrary detention, torture and summary executions by M23 and Rwandan military forces in eastern DRC (mid-2024 through 2025), and concludes Rwanda 'exercises effective control over the area, meeting the legal threshold for belligerent occupation'; hundreds, perhaps more, died in the camps.
-- rdf-ofac-designation-2026: On 2 March 2026 OFAC designated the Rwanda Defence Force (Ministry of Defence, Kigali) and four senior officials because 'The RDF is actively supporting, training, and fighting alongside the March 23 Movement (M23)', a US- and UN-sanctioned armed group in the DRC; the action followed M23's capture of Uvira days after the Washington Accords were signed.
-- roshn-ownership: ROSHN Group describes itself as Saudi Arabia's leading multi-asset class real estate developer and a Public Investment Fund (PIF) company, in a press release naming it Title Partner of ROSHN Group LIV Golf Riyadh 2026.
-- rwanda-hrw-record-2026: HRW's World Report 2026 Rwanda chapter: 'Few journalists, civil society activists, or opposition members dare speak out publicly against the government'; Victoire Ingabire was arrested at her Kigali home in June 2025; and 'The M23, at times with the support of Rwandan forces, carried out mass summary executions, arbitrary detention', with Rwanda's control of parts of eastern Congo meeting the standards 'for a belligerent occupation'.
-- rwanda-worlds-hrw-2025: On the eve of the 2025 UCI Road World Championships in Kigali (21-28 September 2025), HRW's Minky Worden wrote that the event 'risks being linked to abuses itself': opposition leader Victoire Ingabire was 'arrested in June' 2025 and 'faces serious criminal charges alongside 14 party members' in a 'politically motivated trial'; the Rwanda-backed M23 has committed war crimes including 'summary executions' of over 140 civilians in July 2025; and authorities 'round up and arbitrarily detain sex workers, street children' before high-profile events. The Union 'shouldn't be providing Rwanda such easy cover for its poor human rights record'.
-- rzd-state-owned: All shares of OAO Russian Railways are owned by the Russian Federation (RZD charter, clause 32).
-- santa-casa-state-games: Santa Casa da Misericordia de Lisboa operates Portugal's social games 'on behalf and on account of the State' under an exclusive regime; its Jogos Santa Casa arm runs the Placard betting brand ('O Placard, produto dos Jogos Santa Casa'), whose online licence (013) is held by SAS Apostas Sociais, Jogos e Apostas Online, S.A.
-- saudi-executions-2026-record: Saudi authorities carried out an unprecedented surge in executions after trials that were likely unfair, executing at least 322 individuals as of early December 2025, exceeding prior execution records.
-- saudi-visitors-detained-2026: Amnesty International and ALQST documented eight people, mostly from Global South and Middle Eastern countries, arrested in Saudi Arabia during visits between July 2022 and late 2025 for social media posts, some subjected to prolonged arbitrary detention or grossly unfair trials.
-- snb-pif-controlling-party: Saudi National Bank's 2025 annual report states 'The ultimate controlling party is the Public Investment Fund "PIF", ultimately owned by the Saudi government', with PIF holding 37.2% (2,234,257,917 shares) at 31 December 2025.
-- vtb-state-control: The Russian Federation holds a controlling position in Bank VTB: Rosimushchestvo held 60.93% of ordinary shares (12.13% of charter capital) and Minfin 100% of first-type preference shares (32.88% of charter capital).
-- wec-bapco-bahrain-record: Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people; one detainee died in custody after being disappeared, and twelve death row inmates remain at imminent risk of execution.
-- wec-cyvn-mclaren-ownership: CYVN Holdings, an Abu Dhabi-based investment vehicle, completed the acquisition of McLaren Automotive and a non-controlling stake in McLaren Racing in April 2025, consolidating its UK investments under McLaren Group Holdings.
-- wec-pif-aston-martin-ownership: Saudi Arabia's Public Investment Fund is the largest shareholder (19.5%) of Aston Martin Lagonda, the manufacturer behind the Aston Martin THOR Team Hypercar programme; Aston Martin denied FT reports (14 Nov 2025) that PIF would raise its stake and take the company private.
-- … and 2 more
+- 50+ mobiel B.V. (50plus-mobiel-bv)
+- ACTUAL GROUP (actual-group-sas)
+- AD Invest (ad-invest)
+- Advenn (formerly Groupe Télégramme, SIREN 487661654) (advenn)
+- Agrial (agrial)
+- Rinat Akhmetov (akhmetov-rinat)
+- Albert Corporation (albert-corporation)
+- Ambipar (ambipar)
+- AMPLITUDE SAS (amplitude-sas)
+- ANIEL PIECES AUTOS (aniel-pieces-autos)
+- Apple Inc. (apple-inc)
+- AQUAME (aquame)
+- Arm Holdings plc (arm-holdings)
+- Arrow Electronics, Inc. (arrow-electronics-inc)
+- Association Européenne contre les Leucodystrophies (ELA) (association-ela)
+- Association Famille Mulliez (AFM) (association-famille-mulliez)
+- Astor Enerji A.Ş. (astor-enerji)
+- Atlas Air Worldwide (atlas-air-worldwide)
+- Auchan Retail International (auchan-retail-international)
+- Augendopler family (augendopler-family)
+- Austral Sport (International Austral Sport) (austral-sport)
+- B Partner SRL (b-partner-srl)
+- Bang & Olufsen A/S (bang-olufsen-as)
+- Bank Respublika ASC (bank-respublika)
+- BasicNet S.p.A. (basicnet)
+- Banco Bilbao Vizcaya Argentaria, S.A. (bbva-sa)
+- BingX (bingx)
+- Bitdefender (bitdefender)
+- Bitpanda Group AG (bitpanda-group-ag)
+- Blackstone Inc. and Vista Equity Partners (blackstone-and-vista-equity-partners)
+- AB Blåkläder (blaklader-ab)
+- Blot Immobilier SAS (Groupe Blot) (blot-groupe)
+- Bluestar Elkem International Co. Ltd S.A. (bluestar-elkem-international)
+- The Bank of New York Mellon Corporation (BNY) (bny-mellon)
+- Boulanger S.A. (boulanger)
+- Brainport Development N.V. (brainport-development-nv)
+- Brasserie Lancelot (brasserie-lancelot)
+- British American Tobacco P.L.C. (british-american-tobacco)
+- Brown-Forman Corporation (brown-forman)
+- ByteDance Ltd. (bytedance-ltd)
+- … and 218 more
 
-## Clubs whose kits change (164)
+## Owners removed (1)
 
-- [4Aces GC](https://behind-the-jersey.org/clubs/4aces-gc/)
-- [Academico de Viseu FC](https://behind-the-jersey.org/clubs/academico-de-viseu/)
-- [Admiral Vladivostok](https://behind-the-jersey.org/clubs/admiral-vladivostok/)
-- [AG Insurance-Soudal Team](https://behind-the-jersey.org/clubs/ag-insurance-soudal-women/)
-- [Ak Bars Kazan](https://behind-the-jersey.org/clubs/ak-bars-kazan/)
-- [FC Akhmat Grozny](https://behind-the-jersey.org/clubs/akhmat-grozny/)
-- [FC Akron Tolyatti](https://behind-the-jersey.org/clubs/akron-tolyatti/)
-- [Al Ahly](https://behind-the-jersey.org/clubs/al-ahly/)
-- [Al Ahly Ly](https://behind-the-jersey.org/clubs/al-ahly-ly/)
-- [FC Alverca](https://behind-the-jersey.org/clubs/alverca/)
-- [Amur Khabarovsk](https://behind-the-jersey.org/clubs/amur-khabarovsk/)
-- [Anadolu Efes S.K.](https://behind-the-jersey.org/clubs/anadolu-efes/)
-- [Andretti Formula E](https://behind-the-jersey.org/clubs/andretti-formula-e/)
-- [Aprilia Racing](https://behind-the-jersey.org/clubs/aprilia-racing/)
-- [FC Arouca](https://behind-the-jersey.org/clubs/arouca/)
-- [Arsenal Women](https://behind-the-jersey.org/clubs/arsenal-w/)
-- [Artemis SailGP Team](https://behind-the-jersey.org/clubs/artemis-sweden/)
-- [ASC Ville de Dakar](https://behind-the-jersey.org/clubs/asc-ville-de-dakar/)
+- Gana Energia (gana-energia)
+
+## Claims added (292)
+
+- 50plus-mobiel-ownership: 50+ mobiel subscriptions are with 50+ mobiel B.V., statutorily seated in Eindhoven and registered under KvK number 80808301.
+- abanca-escotet-ownership: Abanca is the Galician banking ally of Banesco Internacional; Banesco Internacional states that its founder and principal shareholder, the banker and economist Juan Carlos Escotet Rodríguez, is also the principal shareholder of Abanca. Abanca's 2025 corporate governance report says Escotet is the bank's effective owner (titular efectivo) with 84.75% of the share capital, 43.50% held directly and 41.25% through the Spanish company Escotet Family Office S.L.U., and that no other shareholder holds more than 5%.
+- abgrall-delanoe-ownership: Oriance's website is published by the sarl A-D Oriance (Siret 480 426 758 00037, 200 rue Robert Schuman, Guipavas). The company register lists AD INVEST (SIREN 804544914) as Président de SAS of ABGRALL-DELANOE (A.D.) (SIREN 480426758), and Stéphane Michel Abgrall and Bruno Yvon Delanoë as the gérants of AD INVEST. The club's partner page says Oriance was created in 2004 in Brest.
+- acadomia-domia-group-ownership: Acadomia's legal notice names DOMIA GROUP SA (RCS Paris 349 367 557) as the site's publisher and says AIS 2 SAS – ACADOMIA is a subsidiary of DOMIA GROUP SA. Metric Capital Partners' portfolio lists Acadomia as a Fund I investment from 2013, with status Exited.
+- actual-group-family-ownership: Actual is the brand of ACTUAL GROUP, a French SAS au capital de 1 798 534,00 EUR (RCS Laval 510 899 909) whose publication director is Samuel Tual; the group describes itself as 'une PME familiale et indépendante' headed by Samuel Tual, son of the founder.
+- advise-energie-lmef-ownership: The French company register lists LMEF Invest (SIREN 920916947), a legal person, as president (Président de SAS) of Advise Énergie (SIREN 841194582, Pierrelatte).
+- akhmetov-scm-ownership: SCM (System Capital Management), the Shakhtar Donetsk front-shirt sponsor, is a Ukrainian investment group founded by Rinat Akhmetov, who is its founder and sole shareholder; Akhmetov is also the club's president.
+- albert-corporation-record: Albert Corporation is a fintech company behind the Albert app, which launched in 2016; in February 2026 FinWise Bancorp announced a strategic program agreement with Albert Corporation.
+- albert-general-atlantic-investor: General Atlantic lists Albert, a financial services company that provides financial advice and automated savings guidance to consumers, among its investments, with 2021 as the year invested.
+- allianz-se-ownership: Allianz SE, the Munich-based insurance group whose shares trade in Frankfurt (DAX), reports that its share register held 901,740 shareholders and that Allianz shares are held 100% in free float - no state, foundation or controlling shareholder is named.
+- altibox-ownership: The Lyse group calls Altibox and Ice its brands ("våre merkevarer"); a 2018 Lyse announcement names the Lyse group as Altibox's owner.
+- ambipar-record: Ambipar, the Brazilian environmental-services group and Ferrari Team Partner, has shares listed on B3 in Brazil and on the New York Stock Exchange.
+- amplitude-ownership: The Amplitude car-dealership group is run by AMPLITUDE SAS, a societe par action simplifiee with capital of 4 million euros, registered at the RCS of Troyes under number 443 171 558, with its head office in Barberey-Saint-Sulpice.
+- aniel-pieces-autos-ownership: ANIEL Pièces Auto is the brand of ANIEL PIECES AUTOS, a French SAS au capital de 20 000 EUR registered with the RCS de Rennes (number 104 702 212 00010), whose publication director is Guillaume Ramirez.
+- apm-monaco-ownership: APM Monaco was founded in Monaco in 1982 by Ariane Prette and her son Philippe Prette. In April 2019 a consortium led by TPG, with China Synergy (an investment platform set up by TPG and CICC Capital) and Trail, agreed to acquire 30% of the company from its existing shareholders; Philippe Prette was then its founder and CEO.
+- apple-inc-record: Apple Inc. is a California corporation whose common stock trades on The Nasdaq Stock Market LLC under the symbol AAPL.
+- aquame-ownership: AQUAME is a performance technology company redefining how hydration is measured, understood and optimised.
+- arm-holdings-ownership: Arm Holdings plc's FY2026 annual report records 769,029,000 of its ordinary shares beneficially owned by SoftBank Group, representing a 72.0% equity interest in Arm.
+- arrow-electronics-inc-record: Arrow Electronics is a publicly listed company: its common stock is listed on the New York Stock Exchange under the trading symbol ARW.
+- ascale-brand-of-pamesa: Ascale's website footer reads 'ASCALE es una marca de' above the Pamesa Grupo Empresarial logo; Pamesa Grupo Empresarial's history page says the group acquired Best Surface, now ASCALE, in 2023 and created Ascale as a commercial brand in 2024.
+- astor-enerji-ownership: Astor Enerji is a listed company, not owned by one person: in the Public Disclosure Platform (KAP) shareholder table chairman Feridun Geçgel holds 37.25% of the capital and 62.68% of the voting rights, deputy chairman Enver Geçgel 20%, and other shareholders 42.75%. The Geçgel family bought Astor Transformatör in 2005.
+- atlas-air-worldwide-ownership: In March 2023 the investor group led by funds managed by affiliates of Apollo, together with investment affiliates of J.F. Lehman & Company and Hill City Capital, completed its previously announced acquisition of Atlas Air Worldwide.
+- auberge-friedkin-ownership: Since becoming part of The Friedkin Group in 2013, Auberge Resorts Collection has grown into the leading name in boutique luxury hospitality.
+- auchan-mulliez-ownership: ELO (formerly Auchan Holding) is an unlisted company with family and employee shareholders that brings together Auchan Retail, New Immo Holding and Oney (49.9%). Le Journal des Entreprises lists ELO, the parent company of Auchan Retail, among the companies held by the Association Famille Mulliez.
+- aushopping-nhood-ownership: The Aushopping.com website is published by Nhood Services France (Villeneuve d'Ascq, RCS Lille Métropole 534 886 411), which also publishes the Nhood France website; RC Lens describes Aushopping as the network brand of Auchan's shopping centres in France. New Immo Holding is the holding company of Foncière Ceetrus and of Nhood, a real-estate services platform created in 2021.
+- austral-family-record: Austral is a family-owned Spanish sportswear maker: founded in 1976, it describes itself as an 'empresa familiar' that manufactures its garments entirely at its own Spanish facilities, and it supplies Racing Santander under a contract renewed in 2024 (club announcement: the deal runs to 30 June 2028).
+- ayuntamiento-de-benahavis-ownership: The shirt sponsor 'Ayuntamiento de Benahavís' is the Ayuntamiento de Benahavís itself, the town council of Benahavís (Málaga province): its official municipal website carries the council's name and NIF P2902300I.
+- ayuntamiento-de-malaga-ownership: The 'marca Málaga' sponsor on the Málaga CF shirt belongs to the Ayuntamiento de Málaga, the city's municipal government, which places it through its municipal company Promálaga in collaboration with the Área de Deporte under a 1.6 million euro sponsorship agreement for 2026/27.
+- b-partner-ownership: B Partner is operated by B Partner SRL, a company registered in the Belgian trade register under number BE 1003965341, with its head office at 161 Drève Richelle, 1410 Waterloo, Belgium.
+- backaldrin-ownership: backaldrin International The Kornspitz Company GmbH (Asten) is an international family-owned business: its team page says the company's history is 'still closely linked to the founding and owner family, the Augendoplers', and names the owning family as Peter Augendopler sen. with Peter Augendopler jun. and Regina Augendopler.
+- bang-olufsen-ownership: Bang & Olufsen A/S is listed on Nasdaq Copenhagen (XCSE: BO). Its 2025/26 annual report says two shareholders hold more than 10% of the share capital (Dyvig Holdings A/S and New Sparkle Roll International Group Limited) and two more than 5% (Arbejdsmarkedets Tillægspension and Chr. Augustinus Fabrikker Aktieselskab).
+- bank-respublika-ownership: Bank Respublika's shares are held by private individuals and a German development trust: 63.32% by Natiq Saday oglu Quliyev, 18.46% by his brother Elchin Quliyev, 8.47% by Namig Quliyev, 5.45% by Shakir Khyavyam oglu Rahimov and 4.22% by SIDT (Sparkassen International Development Trust); no state stake is reported.
+- basicnet-borsa-italiana-ownership: BasicNet S.p.A., the Italian group listed on Borsa Italiana since 1999, owns the Kappa brand (alongside Robe di Kappa, K-Way, Superga, Briko, Sebago, Woolrich and Sundek) and operates in clothing, footwear and accessories for sport and leisure.
+- bb-hotels-move-on-goldman-ownership: B&B Hotels operates through MOVE ON B&B HOTELS, a French SAS au capital de 7 010 000 euros (RCS Brest 831 737 168) whose president is Nicolas Drapier; the B&B Hotels group states that since 2019 it has been majority-owned by the investment company Goldman Sachs.
+- bbva-ownership-record: BBVA's shares trade on the Madrid, Barcelona, Bilbao and Valencia stock markets (and as ADSs on the New York Stock Exchange); as of December 31, 2025 there were no shareholders with significant influence, and BBVA stated it was not aware of any direct or indirect interests through which control of the Bank may be exercised.
+- bet365-coates-control-record: Denise Coates holds ownership of shares in Bet365 Group Limited of more than 50% but less than 75%, and John Fitzgerald Coates has significant influence or control.
+- betsson-ownership-nasdaq: Betsson AB is listed on Nasdaq Stockholm; per its 2023 corporate governance report, no state shareholder is identified among its largest shareholders.
+- beyond-developments-omniyat-ownership: BEYOND Developments is a premium real estate brand by OMNIYAT GROUP, the Dubai developer founded by Mahdi Amjad.
+- bingx-record: BingX is a crypto exchange and Web3 company founded in 2018, serving more than 40 million users; Ferrari announced that it will become a Team Partner of Scuderia Ferrari HP with the agreement taking effect on 1 January 2026.
+- bitdefender-record: Bitdefender is a cybersecurity company co-founded by its CEO, Florin Talpeș, and his wife Mariuca. When Vitruvian Partners bought a stake of about 30% from Axxess Capital in December 2017, Bitdefender said Vitruvian became its second-largest shareholder and the co-founders continued to hold the majority stake.
+- … and 252 more
+
+## Claims edited (7)
+
+- barmenia-versicherungen-ag-record: The BarmeniaGothaer group is built on two mutual insurers (Versicherungsvereine auf Gegenseitigkeit): at its top stand Barmenia Versicherungen a. G. and Gothaer Versicherungsbank VVaG, with financial steering through BarmeniaGothaer AG. The group says it is 'unabhängig von Aktionären' (independent of shareholders) and acts solely for its members, so the mutuals are owned by their policyholder members, not by shareholders or the state.
+- gac-group-record: GAC Group's 2025 annual report names Guangzhou Automobile Industry Group (GAIG) as its controlling shareholder, holding about 54.02%, and the Guangzhou Municipal State-owned Assets Supervision and Administration Commission, a department directly under the Guangzhou Municipal People's Government, as its actual controller, holding 90% of GAIG. Nikkei Asia reports that the Guangzhou city government controls about two-thirds of GAC through several investment companies.
+- haufe-group-se-record: Lexware is the accounting-software brand of Haufe-Lexware GmbH & Co. KG, whose parent is the family-owned Haufe Group SE of Freiburg (HRA 4408). Haufe Group is described as a family-managed German B2B technology/publishing group - no state or fund ownership.
+- osceola-county-tourism-authority-record: Experience Kissimmee is the official tourism authority for Osceola County, Florida.
+- profine-gmbh-record: profine GmbH was sold by Bahrain's Arcapita Bank to Frankfurt's Hidden Peak Capital in 2012 (per profine's 2012 press release). profine's own group site names Dr Peter Mrosik as owner and CEO of profine Group. The Bahraini link is therefore the former owner only.
+- robinhood-owner-record: Robinhood Markets, Inc. is founder-controlled through super-voting Class B shares: per its 2026 proxy statement, co-founders Vladimir Tenev and Baiju Bhatt hold 26.1% and 32.0% of total voting power respectively (58.1% combined). Among Class A shareholders, The Vanguard Group (11.9%) and BlackRock (7.0%) are also disclosed 5%+ holders.
+- wwk-lebensversicherung-ag-record: The legal form of WWK Lebensversicherung is Versicherungsverein auf Gegenseitigkeit (a mutual insurance association), and the company says it answers exclusively to its customers and acts independently of shareholder interests.
+
+## Clubs whose kits change (102)
+
+- [AEK Athens](https://behind-the-jersey.org/clubs/aek-athens/)
+- [FK Bodø/Glimt](https://behind-the-jersey.org/clubs/bodo-glimt/)
+- [Club Brugge KV](https://behind-the-jersey.org/clubs/club-brugge/)
+- [Feyenoord](https://behind-the-jersey.org/clubs/feyenoord/)
+- [Galatasaray](https://behind-the-jersey.org/clubs/galatasaray/)
+- [LASK](https://behind-the-jersey.org/clubs/lask/)
+- [PSV Eindhoven](https://behind-the-jersey.org/clubs/psv/)
+- [Sabah FK](https://behind-the-jersey.org/clubs/sabah/)
+- [Shakhtar Donetsk](https://behind-the-jersey.org/clubs/shakhtar-donetsk/)
+- [Slavia Praha](https://behind-the-jersey.org/clubs/slavia-praha/)
+- [ŠK Slovan Bratislava](https://behind-the-jersey.org/clubs/slovan-bratislava/)
+- [Viking FK](https://behind-the-jersey.org/clubs/viking-fk/)
+- [AC Milan](https://behind-the-jersey.org/clubs/ac-milan/)
+- [AJ Auxerre](https://behind-the-jersey.org/clubs/aj-auxerre/)
+- [Angers SCO](https://behind-the-jersey.org/clubs/angers-sco/)
+- [Arsenal](https://behind-the-jersey.org/clubs/arsenal/)
+- [AS Monaco](https://behind-the-jersey.org/clubs/as-monaco/)
+- [AS Roma](https://behind-the-jersey.org/clubs/as-roma/)
+- [Aston Martin Aramco F1 Team](https://behind-the-jersey.org/clubs/aston-martin/)
+- [Aston Villa](https://behind-the-jersey.org/clubs/aston-villa/)
 - [Aston Villa Women](https://behind-the-jersey.org/clubs/aston-villa-w/)
-- [ASVEL Basket](https://behind-the-jersey.org/clubs/asvel/)
-- [Avangard Omsk](https://behind-the-jersey.org/clubs/avangard-omsk/)
-- [Avtomobilist Yekaterinburg](https://behind-the-jersey.org/clubs/avtomobilist-yekaterinburg/)
-- [FC Baltika Kaliningrad](https://behind-the-jersey.org/clubs/baltika-kaliningrad/)
-- [FC Barcelona Bàsquet](https://behind-the-jersey.org/clubs/barcelona-basquet/)
-- [Barys Astana](https://behind-the-jersey.org/clubs/barys-astana/)
-- [Saski Baskonia](https://behind-the-jersey.org/clubs/baskonia/)
-- [FC Bayern Munich Basketball](https://behind-the-jersey.org/clubs/bayern-munich-basketball/)
-- [SL Benfica](https://behind-the-jersey.org/clubs/benfica/)
-- [Beşiktaş J.K. (men's basketball)](https://behind-the-jersey.org/clubs/besiktas-basketball/)
-- [Birmingham City Women](https://behind-the-jersey.org/clubs/birmingham-city-w/)
-- [BK8 Gresini Racing MotoGP](https://behind-the-jersey.org/clubs/bk8-gresini-racing-motogp/)
-- [Black Foils SailGP Team](https://behind-the-jersey.org/clubs/black-foils-nz/)
-- [BONDS Flying Roos SailGP Team](https://behind-the-jersey.org/clubs/bonds-flying-roos/)
-- [SC Braga](https://behind-the-jersey.org/clubs/braga/)
-- [Brighton & Hove Albion Women](https://behind-the-jersey.org/clubs/brighton-and-hove-albion-w/)
-- [Canyon//SRAM zondacrypto](https://behind-the-jersey.org/clubs/canyon-sram-zondacrypto/)
-- [Casa Pia AC](https://behind-the-jersey.org/clubs/casa-pia/)
-- [Charlton Athletic Women](https://behind-the-jersey.org/clubs/charlton-athletic-w/)
-- [Chelsea Women](https://behind-the-jersey.org/clubs/chelsea-w/)
-- [Citroen Racing](https://behind-the-jersey.org/clubs/citroen-racing/)
-- … and 124 more
+- [Atalanta BC](https://behind-the-jersey.org/clubs/atalanta/)
+- [Athletic Club](https://behind-the-jersey.org/clubs/athletic-club/)
+- [FC Barcelona](https://behind-the-jersey.org/clubs/barcelona/)
+- [Bayer Leverkusen](https://behind-the-jersey.org/clubs/bayer-leverkusen/)
+- [Bayern Munich](https://behind-the-jersey.org/clubs/bayern-munich/)
+- [Bologna FC 1909](https://behind-the-jersey.org/clubs/bologna/)
+- [Borussia Dortmund](https://behind-the-jersey.org/clubs/borussia-dortmund/)
+- [Borussia Moenchengladbach](https://behind-the-jersey.org/clubs/borussia-monchengladbach/)
+- [Brighton & Hove Albion](https://behind-the-jersey.org/clubs/brighton-and-hove-albion/)
+- [Celta Vigo](https://behind-the-jersey.org/clubs/celta-vigo/)
+- [Chelsea](https://behind-the-jersey.org/clubs/chelsea/)
+- [Como 1907](https://behind-the-jersey.org/clubs/como/)
+- [Crystal Palace](https://behind-the-jersey.org/clubs/crystal-palace/)
+- [Dallas Cowboys](https://behind-the-jersey.org/clubs/dallas-cowboys/)
+- [Deportivo Alaves](https://behind-the-jersey.org/clubs/deportivo-alaves/)
+- [Deportivo A Coruna](https://behind-the-jersey.org/clubs/deportivo-la-coruna/)
+- [Eintracht Frankfurt](https://behind-the-jersey.org/clubs/eintracht-frankfurt/)
+- [Elche CF](https://behind-the-jersey.org/clubs/elche/)
+- [ES Troyes AC](https://behind-the-jersey.org/clubs/es-troyes-ac/)
+- … and 62 more
 
-## Warnings (31)
+## Warnings (34)
 
 - sponsors/3m: why text is a draft
 - sponsors/aeroflot: why text is a draft
@@ -243,6 +293,7 @@ Compared with the data it replaces (`a8659ca`, updated 2026-09-27):
 - sponsors/etihad-airways: why text is a draft
 - sponsors/experience-abu-dhabi: why text is a draft
 - sponsors/g42: why text is a draft
+- sponsors/gac: why text is a draft
 - sponsors/gazprom: why text is a draft
 - sponsors/lenovo: why text is a draft
 - sponsors/maaden: why text is a draft
@@ -252,10 +303,12 @@ Compared with the data it replaces (`a8659ca`, updated 2026-09-27):
 - sponsors/petronas: why text is a draft
 - sponsors/qatar-airways: why text is a draft
 - sponsors/qatar-airways-global: why text is a draft
+- sponsors/rd-congo-coeur-d-afrique: why text is a draft
 - sponsors/riyadh-air: why text is a draft
 - sponsors/s-3m: why text is a draft
 - sponsors/sela: why text is a draft
 - sponsors/shell: why text is a draft
+- sponsors/skoda: why text is a draft
 - sponsors/standard-chartered: why text is a draft
 - sponsors/turkish-airlines: why text is a draft
 - sponsors/valvoline: why text is a draft
