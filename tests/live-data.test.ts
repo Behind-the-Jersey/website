@@ -52,10 +52,12 @@ describe('data/live', () => {
     );
     expect(now.why.map((w) => w.sponsorId)).toEqual(['emirates']);
     expect(now.why[0].source?.url).toMatch(/^https:\/\/www\.hrw\.org\//);
-    expect(now.rows.map((r) => [r.name, r.tier])).toEqual([
+    // The logos on the shirt; any other row (the kit maker) is listed without a marker.
+    expect(now.rows.filter((r) => r.hotspot).map((r) => [r.name, r.tier])).toEqual([
       ['Emirates', 'serious'],
       ['Deel', 'none'],
     ]);
+    expect(now.rows.filter((r) => !r.hotspot).every((r) => r.placement === 'partner')).toBe(true);
     // Villa's old shirt is rated now, so the design's "not rated yet" headline isn't used.
     const villaOld = teamPage(ds, 'aston-villa')!.periods[0];
     expect(clubLevel(ds, 'aston-villa')).toBe('soaked');
@@ -89,7 +91,9 @@ describe('data/live', () => {
     // At most the three that were waiting for a why text are rated serious or severe without one
     // (the data release now holds any rating above "Nothing found" that has no why).
     const unsupported = ds.sponsors.filter((s) => (s.tier === 'serious' || s.tier === 'severe') && !s.why);
-    expect(['gazprom', 'qatar-airways-global', 'valvoline']).toEqual(expect.arrayContaining(unsupported.map((s) => s.id)));
+    expect(['gazprom', 'qatar-airways-global', 'valvoline']).toEqual(
+      expect.arrayContaining(unsupported.map((s) => s.id)),
+    );
   });
 
   it('offers a full list of clubs to check, from the big five leagues first', () => {
