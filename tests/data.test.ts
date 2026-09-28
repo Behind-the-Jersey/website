@@ -6,6 +6,7 @@ import {
   coverage,
   currentKit,
   hasMarkedShirt,
+  isMarkedKit,
   kitLevel,
   latestChanges,
   leagueSummary,
@@ -155,6 +156,15 @@ describe('selectors', () => {
     ]);
   });
 
+  it('marks a shirt by the logos printed on it, not the kit maker or shorts', () => {
+    const kit = structuredClone(currentKit(ds, 'arsenal')!);
+    expect(isMarkedKit(kit)).toBe(true);
+    kit.sponsors.push({ sponsorId: 'adidas', placement: 'partner' }, { sponsorId: 'deel', placement: 'shorts' });
+    expect(isMarkedKit(kit)).toBe(true);
+    kit.sponsors.push({ sponsorId: 'deel', placement: 'back' });
+    expect(isMarkedKit(kit)).toBe(false);
+  });
+
   it('lists the newest four changes like the design', () => {
     expect(latestChanges(ds).map((c) => c.id)).toEqual([
       '2026-08-06-arsenal-emirates',
@@ -221,7 +231,12 @@ describe('validation', () => {
   it('accepts a why whose record is about a state an ownership claim names (a minority stake)', () => {
     const ok = structuredClone(ds) as unknown as Parameters<typeof checkDataset>[0];
     const emirates = ok.sponsors.find((x) => x.id === 'emirates')!;
-    const stake = { ...structuredClone(ok.claims[0]), id: 'test-stake', kind: 'ownership' as const, ownerIds: ['government-of-dubai', 'saudi-pif'] };
+    const stake = {
+      ...structuredClone(ok.claims[0]),
+      id: 'test-stake',
+      kind: 'ownership' as const,
+      ownerIds: ['government-of-dubai', 'saudi-pif'],
+    };
     ok.claims.push(stake);
     emirates.claimIds = [...emirates.claimIds, 'test-stake'];
     emirates.why = { ...emirates.why!, claimIds: ['saudi-executions-2024', 'test-stake'] };
