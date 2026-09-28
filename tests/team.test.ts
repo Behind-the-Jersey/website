@@ -104,6 +104,7 @@ describe('Arsenal 2026/27', () => {
       messageLine: 'In 2024, 43 activists in the UAE got life sentences in one mass trial.',
     });
     expect(act.check?.name).toBe('Deel');
+    expect(act.show).toBe(true);
     expect(act.contact).toEqual({ kind: null, email: null, url: null });
     expect(act.share).toEqual({
       title: 'Arsenal is Stained',
@@ -188,6 +189,12 @@ describe('Aston Villa', () => {
   });
 });
 
+describe('What you can do', () => {
+  it('is left out when every sponsor on today\'s shirt is rated Nothing found', () => {
+    expect(page('brighton-and-hove-albion').act).toMatchObject({ show: false, raise: [], check: null });
+  });
+});
+
 describe('headlineFor without kit.headline', () => {
   const bare = (id: string): Kit => {
     const k = structuredClone(kit(id));
@@ -218,6 +225,20 @@ describe('headlineFor without kit.headline', () => {
     expect(build('aston-villa-2025-26-home').text).toBe(
       'We haven’t rated this shirt yet: 2 sponsors still need checking.',
     );
+  });
+
+  it('says the list is incomplete when every known sponsor is rated Nothing found', () => {
+    const rows = (k: Kit) => sponsorRows(ds, k, null, { club: 'X', isPast: false }).rows;
+    const one = { ...bare('brighton-and-hove-albion-2026-27-home'), sponsorsComplete: false };
+    expect(headlineFor(ds, one, rows(one), false).text).toBe(
+      'We haven’t rated this shirt yet: we found nothing behind American Express, but we don’t know every sponsor on it yet.',
+    );
+    const two = { ...one, sponsors: [...one.sponsors, { ...one.sponsors[0], placement: 'sleeve' as const }] };
+    expect(headlineFor(ds, two, rows(two), false).text).toBe(
+      'We haven’t rated this shirt yet: we found nothing behind the 2 sponsors we know of, but we don’t know every sponsor on it yet.',
+    );
+    const none = { ...one, sponsors: [] };
+    expect(headlineFor(ds, none, rows(none), false).text).toBe('We haven’t recorded the sponsors on this shirt yet.');
   });
 
   it('ignores a kit headline that no longer fits the rating', () => {

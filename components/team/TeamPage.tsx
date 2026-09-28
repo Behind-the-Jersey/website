@@ -224,9 +224,11 @@ export function TeamPage({ team, showCrest }: { team: TeamPageView; showCrest: b
             />
           </section>
 
-          <div className={s.actWrap}>
-            <ActNow act={team.act} club={team.club} factSheetHref={team.factSheetHref} />
-          </div>
+          {team.act.show && (
+            <div className={s.actWrap}>
+              <ActNow act={team.act} club={team.club} factSheetHref={team.factSheetHref} />
+            </div>
+          )}
         </div>
 
         <div className={s.right}>
