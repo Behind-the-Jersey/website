@@ -8615,6 +8615,27 @@
     }
   },
   {
+    "id": "jordan-kelme",
+    "clubId": "jordan",
+    "orgName": null,
+    "sponsorId": "kelme",
+    "placement": "partner",
+    "from": "2026-05",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "JFA (jfa.jo): الاتحاد يبرم اتفاقية شراكة مع \"كيلمي\" العالمية",
+      "date": "2026-05-18",
+      "url": "https://www.jfa.jo/news.php?id=31153",
+      "quote": "أبرم الاتحاد الأردني لكرة القدم وشركة كيلمي العالمية، اتفاقية شراكة تمتد لأربع سنوات، تتولى الشركة بموجبها تزويد المنتخبات الوطنية بالملابس الرسمية وملابس التدريب",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "note": "Four-year kit-supply partnership signed 18 May 2026, covering official and training kits for all national teams, referees' kits, match balls for national teams and domestic competitions, plus financial sponsorship (JFA announcement, in Arabic). Value not disclosed; end date not stated beyond 'four years'."
+  },
+  {
     "id": "juventus-jeep",
     "clubId": "juventus",
     "orgName": null,
