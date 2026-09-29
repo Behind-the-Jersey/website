@@ -190,23 +190,49 @@
         "sponsorId": "visabeira",
         "placement": "front",
         "source": {
-          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Visabeira main kit sponsor)",
-          "date": "2026-09",
-          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+          "name": "Académico de Viseu: Equipamento principal 2026/27: “Do nosso Interior, vivemos a glória”",
+          "date": "2026-07-28",
+          "url": "https://academicodeviseu.pt/noticia.php?n=1345",
+          "quote": "O regresso do logótipo da Visabeira à zona do abdómen recupera um momento do qual só os mais antigos se lembram",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          }
         }
       },
       {
         "sponsorId": "dazn",
         "placement": "sleeve",
         "source": {
-          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (DAZN sleeve)",
-          "date": "2026-09",
-          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+          "name": "O Jogo: Académico de Viseu revela mais dois jogos de preparação",
+          "date": "2026-07-13",
+          "url": "https://www.ojogo.pt/futebol/artigo/academico-de-viseu-anuncia-parceria-com-dazn/18105579",
+          "quote": "uma parceria com a DAZN, marca presente que se fará notar na manga esquerda dos novos equipamentos",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The club's own announcement of the same day (https://academicodeviseu.pt/noticia.php?n=1332) puts the DAZN brand on its match shirts; O Jogo names the left sleeve."
+        }
+      },
+      {
+        "sponsorId": "joma",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: Académico de Viseu 26-27 Liga Portugal Home, Away and Third Kits Released",
+          "date": "2026-07-30",
+          "url": "https://www.footyheadlines.com/4191948506/academico-de-viseu-26-27-liga-portugal-home-away-and-third-kits-released.html",
+          "quote": "This is the Académico de Viseu 26-27 home shirt, made by Joma.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Kit maker. The club renewed its Joma deal to 2028/29 (https://academicodeviseu.pt/noticia.php?n=986)."
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Main slot paid for by Grupo Visabeira (private Portuguese conglomerate).",
+    "summary": "Joma-made home shirt with Visabeira's logo back on the front and DAZN on the left sleeve. Not marked complete: only Wikipedia's kit table lists the other placements (Buondi on the front, Visipapel and Quinta de Lemos on the back, Águas do Caramulo and 2PLAY on the shorts), and no club announcement or news article found names them on the 2026-27 shirt.",
     "change": null
   },
   {
@@ -1805,14 +1831,65 @@
         "sponsorId": "placard",
         "placement": "front",
         "source": {
-          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Placard.pt main kit sponsor)",
-          "date": "2026-09",
-          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+          "name": "Footy Headlines: Alverca 26-27 Home, Away and Third Kits Released",
+          "date": "2026-08-11",
+          "url": "https://www.footyheadlines.com/1773878541/alverca-26-27-home-away-and-third-kits-released.html",
+          "quote": "FC Alverca and Nike have officially released the club's new home, away, and third kits for the 26-27 season under the campaign slogan 'Uma Nova Altitude'.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The article's photos of the new shirts (for example https://www.footyheadlines.com/static/img/post/2026/08/11/Bk3WvH3wXrqvIte/alverca-26-27-home-away-and-third-kits-released.jpg, the blue shirt the SAD calls the equipamento principal) show 'PLACARD.pt' across the front."
+        }
+      },
+      {
+        "sponsorId": "hospital-da-luz",
+        "placement": "front",
+        "source": {
+          "name": "Footy Headlines: Alverca 26-27 Home, Away and Third Kits Released",
+          "date": "2026-08-11",
+          "url": "https://www.footyheadlines.com/1773878541/alverca-26-27-home-away-and-third-kits-released.html",
+          "quote": "FC Alverca and Nike have officially released the club's new home, away, and third kits for the 26-27 season under the campaign slogan 'Uma Nova Altitude'.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The article's photos (https://www.footyheadlines.com/static/img/post/2026/08/11/Bk3WvH3wXrqvIte/alverca-26-27-home-away-and-third-kits-released.jpg; https://www.footyheadlines.com/static/img/post/2026/08/11/QtjfFTC7YsPZypR/alverca-26-27-home-away-and-third-kits-released.jpg) show the 'HOSPITAL DA LUZ' logo on the chest, above the Nike swoosh."
+        }
+      },
+      {
+        "sponsorId": "dazn",
+        "placement": "sleeve",
+        "source": {
+          "name": "Footy Headlines: Alverca 26-27 Home, Away and Third Kits Released",
+          "date": "2026-08-11",
+          "url": "https://www.footyheadlines.com/1773878541/alverca-26-27-home-away-and-third-kits-released.html",
+          "quote": "FC Alverca and Nike have officially released the club's new home, away, and third kits for the 26-27 season under the campaign slogan 'Uma Nova Altitude'.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The article's photos (https://www.footyheadlines.com/static/img/post/2026/08/11/Bk3WvH3wXrqvIte/alverca-26-27-home-away-and-third-kits-released.jpg) show the 'DAZN' logo on the sleeve."
+        }
+      },
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: Alverca 26-27 Home, Away and Third Kits Released",
+          "date": "2026-08-11",
+          "url": "https://www.footyheadlines.com/1773878541/alverca-26-27-home-away-and-third-kits-released.html",
+          "quote": "FC Alverca and Nike have officially released the club's new home, away, and third kits for the 26-27 season under the campaign slogan 'Uma Nova Altitude'.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Kit maker, recorded as partner per existing convention."
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Shirt main slot paid for by Jogos Santa Casa (Portuguese state mandate) via Placard.",
+    "summary": "Placard.pt across the front, with Hospital da Luz on the chest and DAZN on the sleeve, in the launch photos of the Nike shirts for 2026-27. Not marked complete: no cited source shows the back of the shirt or the shorts, so their sponsors aren't recorded yet.",
     "change": null
   },
   {
@@ -2063,14 +2140,64 @@
         "sponsorId": "bwin",
         "placement": "front",
         "source": {
-          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
-          "date": "2026-09",
-          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+          "name": "Footy Headlines: FC Arouca 26-27 Home Kit Released",
+          "date": "2026-08-06",
+          "url": "https://www.footyheadlines.com/0709288601/fc-arouca-26-27-home-kit-released.html",
+          "quote": "The Skita logo is placed on the right chest in navy, sitting opposite the traditional club crest, with main sponsor bwin printed across the front.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The club's announcement of 27 July 2026 (https://fcarouca.eu/noticias/mudanca-historica-em-arouca-bwin-e-o-novo-main-sponsor-do-fc-arouca/): 'a entrada da bwin como Main Sponsor do clube', replacing 'Construções Carlos Pinho, Lda na frente da camisola principal' after more than a decade."
+        }
+      },
+      {
+        "sponsorId": "castro-electronica",
+        "placement": "back",
+        "source": {
+          "name": "FC Arouca: Castro Electrónica renova parceria com o FC Arouca",
+          "date": "2026-08-20",
+          "url": "https://fcarouca.eu/noticias/castro-electronica-renova-parceria-com-o-fc-arouca/",
+          "quote": "com a renovação do patrocínio oficial para a época 2026/2027. A empresa mantém assim o seu logótipo em destaque nas costas da camisola oficial dos Lobos de Arouca",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          }
+        }
+      },
+      {
+        "sponsorId": "hospital-da-luz",
+        "placement": "sleeve",
+        "source": {
+          "name": "Footy Headlines: FC Arouca 26-27 Home Kit Released",
+          "date": "2026-08-06",
+          "url": "https://www.footyheadlines.com/0709288601/fc-arouca-26-27-home-kit-released.html",
+          "quote": "FC Arouca and technical sponsor Skita have officially launched the club's new home shirt for the 26-27 season.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The article's launch photo (https://www.footyheadlines.com/static/img/post/2026/08/06/RBDGIxBl9zd3Iix/fc-arouca-26-27-home-kit-released.jpg, captioned 'Equipamento Principal 26-27') shows 'HOSPITAL DA LUZ' on the left sleeve. Roda Viva's third-kit article (https://rodaviva.pt/fca-apresentou-terceiro-equipamento-para-2026-2027/, 5 Sep 2026): 'a margem superior da manga fica reservada ao Hospital da Luz'."
+        }
+      },
+      {
+        "sponsorId": "skita",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: FC Arouca 26-27 Home Kit Released",
+          "date": "2026-08-06",
+          "url": "https://www.footyheadlines.com/0709288601/fc-arouca-26-27-home-kit-released.html",
+          "quote": "FC Arouca and technical sponsor Skita have officially launched the club's new home shirt for the 26-27 season.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Kit maker, recorded as partner per existing convention."
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Main slot paid for by Entain plc (LSE-listed, no state owner) via Bwin.",
+    "summary": "bwin on the front from 2026-27, on a four-season deal with an option for a fifth, replacing Construções Carlos Pinho after more than a decade (club announcement, 27 July 2026). Castro Electrónica stays on the back (club, 20 August 2026), Hospital da Luz is on the sleeve in the launch photos, and Skita makes the kit. Not marked complete: no cited source lists every mark on the shirt, and Construções Carlos Pinho's place on it in 2026-27 isn't sourced.",
     "change": null
   },
   {
@@ -4180,33 +4307,66 @@
         "sponsorId": "emirates",
         "placement": "front",
         "source": {
-          "name": "Sportcal, 'Benfica and Emirates extend shirt sponsorship deal to 2029'",
-          "date": "2024-08-14",
-          "url": "https://www.sportcal.com/sponsorship/benfica-and-emirates-extend-shirt-sponsorship-deal-to-2029/"
+          "name": "A Bola: Benfica revela novo equipamento principal, inspirado na formação",
+          "date": "2026-06-08",
+          "url": "https://www.abola.pt/noticias/benfica-revela-novo-equipamento-principal-inspirado-na-formacao-2026060808170356659",
+          "quote": "A Fly Emirates continua a ser o principal patrocinador, e a Betano o patrocinador secundário.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Kit-launch coverage of the 2026/27 home shirt. Footy Headlines (https://www.footyheadlines.com/2026/01/new-benfica-26-27-home-kit.html, 8 June 2026): 'All sponsor logos, including Emirates on the chest, are applied in clean, solid white to match the accents.'"
         }
       },
       {
         "sponsorId": "betano",
         "placement": "sleeve",
         "source": {
-          "name": "Sportcal, 'Benfica and Emirates extend shirt sponsorship deal to 2029' (notes Betano sleeve renewal through 2026-27)",
-          "date": "2024-08-14",
-          "url": "https://www.sportcal.com/sponsorship/benfica-and-emirates-extend-shirt-sponsorship-deal-to-2029/"
+          "name": "Kaizen Gaming: Betano and SL Benfica renew partnership for 3 more years",
+          "date": "2024-05-16",
+          "url": "https://kaizengaming.com/news/betano-and-sl-benfica-renew-partnership-for-3-more-years/",
+          "quote": "was the first brand to occupy the sleeve of the official SL Benfica jersey and will remain as the 'Official Betting Sponsor' until the 2026/27 season.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "A Bola's 8 June 2026 kit-launch report: 'A Fly Emirates continua a ser o principal patrocinador, e a Betano o patrocinador secundário.' The club store's photos of the 2026-27 shirt (https://www.slbenfica.pt/pt-pt/loja/equipamentos/principal/adulto/camisola-principal-do-sl-benfica-20262027) show Betano on the sleeve."
         }
       },
       {
         "sponsorId": "sagres",
         "placement": "back",
         "source": {
-          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Emirates front; Sagres back)",
-          "date": "2026-09",
-          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+          "name": "SL Benfica store: Camisola Principal do SL Benfica 2026-2027",
+          "date": "2026",
+          "url": "https://www.slbenfica.pt/pt-pt/loja/equipamentos/principal/adulto/camisola-principal-do-sl-benfica-20262027",
+          "quote": "A Camisola Principal do SL Benfica 2026-2027 é inspirada num dos lugares mais especiais para o Clube, o Benfica Campus.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The store's back photo of the shirt (https://media.slbenfica.pt/-/media/benficadp/shop/produtos-2020-2021/equipamentos/26-27/principal/adulto/camisola_principal_slbenfica_20262027_2.jpg) shows 'SAGRES' across the upper back. The club's kit-launch page (https://www.slbenfica.pt/en-us/agora/noticias/2026/06/08/clube-benfica-futebol-camisolas-adidas-epoca-2026-27-oficial) lists Sagres among its 'Patrocinadores principais do Futebol'."
+        }
+      },
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: Benfica 26-27 Home Kit Released",
+          "date": "2026-06-08",
+          "url": "https://www.footyheadlines.com/2026/01/new-benfica-26-27-home-kit.html",
+          "quote": "The Adidas Benfica 2026-27 home kit was officially released, featuring a bespoke design with the club's traditional red base and white detailing on the collar, sleeve cuffs, and Three Stripes, built on Adidas's new template with wider shoulder stripes.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Kit maker, recorded as partner per existing convention."
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "Front paid for by the Government of Dubai via Emirates.",
-    "change": null
+    "sponsorsComplete": true,
+    "change": null,
+    "summary": "Emirates on the front, Betano on the sleeve (renewed to 2026/27) and Sagres on the back of the adidas home shirt. Marked complete: the club store's photos of the shirt's front, back and sleeve and of the home shorts (https://www.slbenfica.pt/pt-pt/loja/equipamentos/principal/adulto/camisola-principal-do-sl-benfica-20262027) show no other sponsor."
   },
   {
     "id": "besiktas-basketball-2026-27-home",
@@ -4733,32 +4893,95 @@
         "sponsorId": "solverde",
         "placement": "front",
         "source": {
-          "name": "SC Braga official sponsors page (Solverde listed first among Patrocinadores Principais)",
-          "date": "2026-09",
-          "url": "https://www.scbraga.pt/pt/sponsors"
+          "name": "Mantos do Futebol: Camisa titular do Sporting Braga 2026-2027 é revelada pela PUMA",
+          "date": "2026-06-29",
+          "url": "https://mantosdofutebol.com.br/2026/06/camisa-titular-sporting-braga-2026-2027-puma/",
+          "quote": "O patrocínio máster “Solverde.pt” está centralizado na parte frontal, enquanto os patrocinadores “amco” e “Lusíadas” aparecem na parte traseira da camisa.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Main sponsor across the front of the 2026-27 home shirt. The deal (ECO, 14 July 2025, https://eco.sapo.pt/2025/07/14/solverde-e-sc-braga-assinam-contrato-marca-de-apostas-e-agora-main-sponsor-do-clube-minhoto/) puts Solverde.pt on the front of the first team's shirts for three seasons from 2025-26; the club shop's product photo (https://shop.scbraga.pt/products/26-27-sc-braga-home-jersey-puma-red-puma) shows SOLVERDE.PT across the front."
         }
       },
       {
-        "sponsorId": "soleo",
-        "placement": "front",
+        "sponsorId": "amco",
+        "placement": "back",
         "source": {
-          "name": "SC Braga official sponsors page (Soleo among Patrocinadores Principais)",
-          "date": "2026-09",
-          "url": "https://www.scbraga.pt/pt/sponsors"
+          "name": "Mantos do Futebol: Camisa titular do Sporting Braga 2026-2027 é revelada pela PUMA",
+          "date": "2026-06-29",
+          "url": "https://mantosdofutebol.com.br/2026/06/camisa-titular-sporting-braga-2026-2027-puma/",
+          "quote": "O patrocínio máster “Solverde.pt” está centralizado na parte frontal, enquanto os patrocinadores “amco” e “Lusíadas” aparecem na parte traseira da camisa.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Back of the 2026-27 home shirt; the club shop's product photo (https://shop.scbraga.pt/products/26-27-sc-braga-home-jersey-puma-red-puma) shows amco intermediários crédito at the top of the back."
+        }
+      },
+      {
+        "sponsorId": "lus-iadas",
+        "placement": "back",
+        "source": {
+          "name": "Mantos do Futebol: Camisa titular do Sporting Braga 2026-2027 é revelada pela PUMA",
+          "date": "2026-06-29",
+          "url": "https://mantosdofutebol.com.br/2026/06/camisa-titular-sporting-braga-2026-2027-puma/",
+          "quote": "O patrocínio máster “Solverde.pt” está centralizado na parte frontal, enquanto os patrocinadores “amco” e “Lusíadas” aparecem na parte traseira da camisa.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Back of the 2026-27 home shirt; the club shop's product photo (https://shop.scbraga.pt/products/26-27-sc-braga-home-jersey-puma-red-puma) shows Lusíadas at the bottom of the back."
         }
       },
       {
         "sponsorId": "tek4life",
         "placement": "sleeve",
         "source": {
-          "name": "SC Braga official sponsors page (Tek4life among Patrocinadores Principais)",
-          "date": "2026-09",
-          "url": "https://www.scbraga.pt/pt/sponsors"
+          "name": "A Bola: SC Braga reforça parceria por mais dois anos",
+          "date": "2025-06-13",
+          "url": "https://www.abola.pt/noticias/sc-braga-reforca-parceria-por-mais-dois-anos-2025061311234027490",
+          "quote": "Guerreiros do Minho assinam novo protocolo com a 'Tek4life' que agora vai ter o seu nome nas camisolas da equipa principal; novo acordo estende-se até 2027",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The same article says the name goes on the sleeves ('O nome vai aparecer nas mangas das indumentárias de jogo destas três turmas'); the deal runs to 2027, covering 2026-27, and the club shop's product photo (https://shop.scbraga.pt/products/26-27-sc-braga-home-jersey-puma-red-puma) shows tek4life on the sleeve."
+        }
+      },
+      {
+        "sponsorId": "sabseg",
+        "placement": "shorts",
+        "source": {
+          "name": "SABSEG: SC Braga e SABSEG reforçam parceria até 2028",
+          "date": "2025",
+          "url": "https://sabseg.com/pt/artigo-noticia?name=sc-braga-e-sabseg-reforcam-parceria-ate-2028",
+          "quote": "Este acordo pressupõe o patrocínio da frente do calção das equipas A, B e Sub-23, bem como de outros ativos presentes no Estádio Municipal de Braga.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Front of the shorts under a contract that runs to 2028, so it covers 2026-27. The page is undated; ECO Seguros reported the renewal on 15 June 2025."
+        }
+      },
+      {
+        "sponsorId": "puma",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: Braga 26-27 Home Kit Released",
+          "date": "2026-06-29",
+          "url": "https://www.footyheadlines.com/8048167681/braga-26-27-home-kit-released.html",
+          "quote": "This is the new Puma SC Braga home shirt for 2026-27.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Kit maker, not a shirt sponsor in the front/back/sleeve sense."
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Front of the shirt carries Solverde.pt (Grupo Solverde) and Soleo; sleeve Tek4life. Qatar Sports Investments (QSI, via the Qatar Investment Authority) holds about 29.6% of the football SAD.",
+    "summary": "Puma-made home shirt, launched on 29 June 2026, with Solverde.pt (Grupo Solverde) across the front, amco and Lusíadas on the back, Tek4life on the sleeves and SABSEG on the front of the shorts. Not marked complete: the club shop's product photo (https://shop.scbraga.pt/products/26-27-sc-braga-home-jersey-puma-red-puma) also shows soleo above the Puma logo on the front, which no page text documents for 2026-27 (the last announced Soleo renewal was for 2025/26), and no source lists every sponsor on the shorts. Qatar Sports Investments agreed in 2022 to buy 21.67% of the club's share capital (qsi-braga-stake).",
     "change": null
   },
   {
@@ -5095,23 +5318,80 @@
         "sponsorId": "bwin",
         "placement": "front",
         "source": {
-          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
-          "date": "2026-09",
-          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+          "name": "Marketeer: A nova camisola do Casa Pia tem uma novidade e a \"culpada\" é a bwin",
+          "date": "2026-07-31",
+          "url": "https://marketeer.sapo.pt/a-nova-camisola-do-casa-pia-tem-uma-novidade-e-a-culpada-e-a-bwin/",
+          "quote": "A bwin anunciou uma nova parceria com o Casa Pia Atlético Clube para a temporada 2026/2027, passando a integrar os equipamentos oficiais de jogo e treino da equipa profissional do clube lisboeta.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The club shop's photos of the CAMISOLA PRINCIPAL 26-27 (https://casapiaac.pt/loja/index.php?route=product/product&product_id=363118702; https://casapiaac.pt/loja/image/cache/catalog/26-27/Equipamentos%20oficiais/Equipamento%20Principal%20Abdu-719x900h.png) show bwin across the front of the black home shirt."
         }
       },
       {
         "sponsorId": "hospital-da-luz",
         "placement": "front",
         "source": {
-          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Hospital da Luz front)",
-          "date": "2026-09",
-          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+          "name": "Casa Pia AC, Loja Oficial: CAMISOLA PRINCIPAL 26-27",
+          "date": "2026",
+          "url": "https://casapiaac.pt/loja/index.php?route=product/product&product_id=363118702",
+          "quote": "CAMISOLA PRINCIPAL 26-27",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The shop's front photos (https://casapiaac.pt/loja/image/cache/catalog/26-27/Equipamentos%20oficiais/Equipamento%20Principal%20Abdu-719x900h.png, https://casapiaac.pt/loja/image/cache/catalog/26-27/Equipamentos%20oficiais/Equipamento%20Principal%20David%20Sousa-719x900h.png) show 'HOSPITAL DA LUZ' on the right chest, beside the adidas logo, above bwin."
+        }
+      },
+      {
+        "sponsorId": "benecar",
+        "placement": "back",
+        "source": {
+          "name": "Casa Pia AC, Loja Oficial: CAMISOLA PRINCIPAL 26-27",
+          "date": "2026",
+          "url": "https://casapiaac.pt/loja/index.php?route=product/product&product_id=363118702",
+          "quote": "CAMISOLA PRINCIPAL 26-27",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The shop's back photo (https://casapiaac.pt/loja/image/cache/catalog/26-27/Equipamentos%20oficiais/Equipamento%20Principal%20Goulart-719x900h.png) shows 'Benecar Cidade do Automóvel' across the upper back, above the player's name."
+        }
+      },
+      {
+        "sponsorId": "silogia",
+        "placement": "sleeve",
+        "source": {
+          "name": "Casa Pia AC, Loja Oficial: CAMISOLA PRINCIPAL 26-27",
+          "date": "2026",
+          "url": "https://casapiaac.pt/loja/index.php?route=product/product&product_id=363118702",
+          "quote": "CAMISOLA PRINCIPAL 26-27",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The shop's back photo (https://casapiaac.pt/loja/image/cache/catalog/26-27/Equipamentos%20oficiais/Equipamento%20Principal%20Goulart-719x900h.png) shows 'SILOGIA' down the sleeve."
+        }
+      },
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: Casa Pia 26-27 Home & Away Kits Released",
+          "date": "2026-07-25",
+          "url": "https://www.footyheadlines.com/4690267943/casa-pia-26-27-home-away-kits-released.html",
+          "quote": "The jerseys are made by Adidas, which continues to supply the club's gear following its previous work for the 24-25 and 25-26 seasons.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Kit maker, recorded as partner per existing convention."
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Main slot paid for by Entain plc via Bwin; Hospital da Luz also on the front.",
+    "summary": "bwin on the front from 2026-27 (a new partnership announced in July 2026), with Hospital da Luz on the chest; Benecar on the upper back and Silogia on the sleeve in the club shop's photos of the Camisola Principal 26-27; adidas makes the kit. Not marked complete: the shop's back photo also shows a Meltino Café logo on the lower back and a partly hidden logo below it, which have no record here yet, and no cited source shows the shorts.",
     "change": null
   },
   {
@@ -7282,14 +7562,35 @@
         "sponsorId": "solverde",
         "placement": "front",
         "source": {
-          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Solverde.pt main kit sponsor)",
-          "date": "2026-09",
-          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+          "name": "Estoril Praia: Estoril Praia renova parceria com Solverde.pt até à temporada 2028/29",
+          "date": "2026-08-06",
+          "url": "https://estorilpraia.pt/blog/estoril-praia-renova-parceria-com-solverde-pt-ate-a-temporada-2028-29",
+          "quote": "Para além da presença na frente da camisola, a Solverde.pt continuará a assumir um papel ativo no crescimento da marca Estoril Praia",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Same article: 'A marca continuará a assumir o estatuto de Main Sponsor do clube até ao final da época 2028/29, reforçando uma relação iniciada em 2021.'"
+        }
+      },
+      {
+        "sponsorId": "reebok",
+        "placement": "partner",
+        "source": {
+          "name": "Estoril Praia: O Sol dá vida e traz a cor para a nova pele de 2026/27",
+          "date": "2026-07-20",
+          "url": "https://estorilpraia.pt/blog/o-sol-da-vida-e-traz-a-cor-para-a-nova-pele-de-2026-27",
+          "quote": "O Estoril Praia apresenta hoje o equipamento principal para a temporada 2026/27, o primeiro com a Reebok.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Kit maker, recorded as partner per existing convention."
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Main slot paid for by Grupo Solverde via Solverde.pt.",
+    "summary": "Reebok's first Estoril Praia home shirt, with Solverde.pt on the front: the club renewed it as Main Sponsor until the end of 2028/29 (6 August 2026). Not marked complete: no cited source shows the sleeves, the back or the shorts.",
     "change": null
   },
   {
@@ -7415,14 +7716,49 @@
         "sponsorId": "bwin",
         "placement": "front",
         "source": {
-          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
-          "date": "2026-09",
-          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+          "name": "FC Famalicão, 'Bwin é o novo main sponsor do FC Famalicão'",
+          "date": "2026-08-19",
+          "url": "https://www.fcfamalicao.pt/bwin-e-o-novo-main-sponsor-do-fc-famalicao/",
+          "quote": "a presença desta marca na parte frontal das camisolas da equipa principal",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          }
+        }
+      },
+      {
+        "sponsorId": "chanceplus",
+        "placement": "sleeve",
+        "source": {
+          "name": "FC Famalicão: Camisola Principal 26/27",
+          "date": "2026",
+          "url": "https://www.fcfamalicao.pt/loja/camisola-principal-26-27/",
+          "quote": "Camisola Principal 26/27",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The club shop's product photo of the sleeve (https://www.fcfamalicao.pt/wp-content/uploads/2026/08/FCF-LOJAONLINE-26270334_Easy-Resize.com_.jpg) shows 'chanceplus' and 'INTERMEDIÁRIO DE CRÉDITO' on the navy sleeve; the front photo (https://www.fcfamalicao.pt/wp-content/uploads/2026/08/FCF-LOJAONLINE-26270329_Easy-Resize.com_.jpg) shows bwin across the front and the Puma logo."
+        }
+      },
+      {
+        "sponsorId": "puma",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: FC Famalicão 26-27 Kits Revealed",
+          "date": "2026-07-19",
+          "url": "https://www.footyheadlines.com/5967214814/fc-famalicao-26-27-kits-revealed.html",
+          "quote": "Made by Puma, the FC Famalicão 26-27 shirts will be worn in the upcoming Primeira Liga campaign.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Kit maker, recorded as partner per existing convention."
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Main slot paid for by Entain plc via Bwin.",
+    "summary": "bwin on the front: the club announced a three-season main-sponsor deal on 19 August 2026, with the brand on the front of the first-team shirts and the naming of the Estádio Municipal's east stand. Chanceplus on the sleeve in the club shop's photos of the Camisola Principal 26/27; Puma makes the kit. Not marked complete: no cited source shows the back of the shirt or the shorts, so their sponsors aren't recorded yet.",
     "change": null
   },
   {

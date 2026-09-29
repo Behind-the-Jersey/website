@@ -28,6 +28,23 @@
     "note": "FIBA Partner (about.fiba.basketball/en/partners, fetched 25 Sep 2026). Offshore betting operator; ownership structure not checked in this pass. FIBA's own site geo-restricts the 1xBet logo for some countries."
   },
   {
+    "id": "2play",
+    "name": "2PLAY",
+    "ownerId": "2play-creative-lab",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "2play-creative-studio"
+    ],
+    "aliases": [
+      "2 play",
+      "2play creative lab"
+    ],
+    "note": "Creative studio in Viseu (its own site: https://2play.pt/empresa.php). Who owns it isn't sourced, so it isn't rated yet. Listed among Académico de Viseu's main sponsors on the club's site; no source other than Wikipedia puts it on the 2026-27 home kit."
+  },
+  {
     "id": "3m",
     "name": "3M",
     "ownerId": "3m-company",
@@ -468,6 +485,37 @@
     "note": "Official Temporary Power Provider (fiaformulae.com/en/partners, fetched 2026-09-25)."
   },
   {
+    "id": "agua-de-monfortinho",
+    "name": "Água de Monfortinho",
+    "ownerId": "ricardo-leitao-machado",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Relaunched by Portuguese entrepreneur Ricardo Leitão Machado, who bought the Termas de Monfortinho in March 2025. Nothing found.",
+    "claimIds": [
+      "agua-de-monfortinho-leitao-machado-ownership"
+    ],
+    "aliases": [
+      "agua de monfortinho",
+      "termas de monfortinho"
+    ],
+    "note": "Bottled-water brand from the Termas de Monfortinho (Idanha-a-Nova). Named as an Alverca shorts sponsor for 2026-27 only by Wikipedia's kit table, so it isn't on the kit record yet."
+  },
+  {
+    "id": "aguas-do-caramulo",
+    "name": "Águas do Caramulo",
+    "ownerId": "aguas-do-caramulo",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "aguas-do-caramulo-privately-held"
+    ],
+    "aliases": [],
+    "note": "Mineral-water company founded in 1984, based in Varzielas (LinkedIn company page). Who owns it isn't sourced, so it isn't rated yet. Was on the left sleeve of Académico de Viseu's shirts in 2022-23 and 2023-24 (club news, 19 Oct 2023); no source other than Wikipedia puts it on the 2026-27 home kit."
+  },
+  {
     "id": "aia",
     "name": "AIA",
     "ownerId": "aia-group",
@@ -480,6 +528,22 @@
     ],
     "aliases": [],
     "note": "Rating note: Listed Hong Kong company → none. Historical note: AIA was spun out of AIG; the US government's AIG bailout stake was long ago exited."
+  },
+  {
+    "id": "air-europa",
+    "name": "Air Europa",
+    "ownerId": "globalia",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "Air Europa is 54% owned by the Hidalgo family through Globalia, with Turkish Airlines at 26% and IAG at 20% (January 2026).",
+    "claimIds": [
+      "air-europa-globalia-ownership"
+    ],
+    "aliases": [
+      "Air Europa Lineas Aereas"
+    ],
+    "note": "Named as an Alverca shorts sponsor for 2026-27 only by Wikipedia's kit table, so it isn't on the kit record yet. Rating note: on hold for a maintainer. Turkish Airlines' 26% stake (agreed November 2025; awaiting the European Commission in June 2026, per ch-aviation) would put a state-controlled company over 5%: Türkiye Wealth Fund owns 49.12% of Turkish Airlines (turkish-airlines-state-ownership), about 12.8% of Air Europa along the chain, and Turkey's record is recorded (turkey-kavala-detention). IAG's 20% is a second path: Qatar Airways' stake in IAG isn't sourced here."
   },
   {
     "id": "air-senegal",
@@ -1029,6 +1093,22 @@
       "ambipar-record"
     ],
     "aliases": []
+  },
+  {
+    "id": "amco",
+    "name": "AMCO",
+    "ownerId": "amco",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "amco-lda-ownership"
+    ],
+    "aliases": [
+      "AMCO Intermediários de Crédito"
+    ],
+    "note": "On the back of SC Braga's 2026-27 home shirt. AMCO Intermediários de Crédito, Lda (Banco de Portugal register no. 759), founded in 2006 by its CEO Altino Osório (https://amco.pt/quem-somos/); who owns it isn't sourced, so it isn't rated yet."
   },
   {
     "id": "american-airlines",
@@ -2223,6 +2303,23 @@
     "note": "Partner of HC Dinamo Minsk; Belarusian state airline (ownership not traced)."
   },
   {
+    "id": "benecar",
+    "name": "Benecar",
+    "ownerId": "benecar",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "benecar-ownership"
+    ],
+    "aliases": [
+      "benecar cidade do automovel",
+      "grupo benecar"
+    ],
+    "note": "On the upper back of Casa Pia's 2026-27 home kit (issue #390). Not rated yet: its owner isn't identified (its own site names no shareholder or parent company)."
+  },
+  {
     "id": "bestebit",
     "name": "BesteBit",
     "ownerId": null,
@@ -2972,6 +3069,23 @@
     "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026). Sazerac-owned distillery per general knowledge; not traced to a primary document here, so no owner linked."
   },
   {
+    "id": "buondi",
+    "name": "Buondi",
+    "ownerId": "nestle-sa",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A Nestlé brand since 1993; owned by Nestlé S.A. Nothing found.",
+    "claimIds": [
+      "buondi-nestle-ownership",
+      "nestle-sa-record"
+    ],
+    "aliases": [
+      "buondi caffé"
+    ],
+    "note": "Rating note: a Nestlé coffee brand; Nestlé S.A. is broadly held (Institutions 74% / Private 26% per its 2025 Annual Review, claim nestle-sa-record) with no state or controlling shareholder named. Nothing passes the METHOD.md test."
+  },
+  {
     "id": "bupa",
     "name": "Bupa",
     "ownerId": null,
@@ -3028,13 +3142,16 @@
   {
     "id": "bwin",
     "name": "Bwin",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "entain-plc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Entain plc, a London-listed betting and gaming group. Nothing found.",
+    "claimIds": [
+      "entain-plc-bwin-brand"
+    ],
+    "aliases": [],
+    "note": "Rating note: Entain plc is listed on the Main Market of the London Stock Exchange. Its Annual Report 2024 (Substantial shareholdings) lists the holdings notified to it as at 21 February 2025: The Capital Group Companies 10.46%, Dodge & Cox 9.87%, BlackRock 7.20%, Eminence Capital 6.44%, Corvex Capital 5.32%, Janus Henderson 4.62% and Vanguard 4.24%; none is a state or state fund, so nothing passes the test."
   },
   {
     "id": "bwt",
@@ -3241,6 +3358,23 @@
     "note": "Rating note: Private UK sportswear company (Companies House no. 09670915, Manchester); the persons-with-significant-control register names founders Philip and Thomas Beahon, no state body or fund in the chain → none. Kit maker (Castore) of the Athletic Club 2026/27 shirt per Score and Change."
   },
   {
+    "id": "castro-electronica",
+    "name": "Castro Electrónica",
+    "ownerId": "castro-electronica",
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "castro-electronica-ownership"
+    ],
+    "aliases": [
+      "castro electronica",
+      "castro eletronica"
+    ],
+    "note": "Portuguese electronics company, on the back of FC Arouca's shirt in 2026-27. Who owns it isn't sourced, so it isn't rated yet."
+  },
+  {
     "id": "castrol",
     "name": "Castrol",
     "ownerId": "bp-plc",
@@ -3388,6 +3522,20 @@
       "CEVA"
     ],
     "note": "Rating note for maintainer: CEVA is a subsidiary of the private French CMA CGM Group; no state in the chain found."
+  },
+  {
+    "id": "chanceplus",
+    "name": "Chanceplus",
+    "ownerId": "chanceplus",
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "chanceplus-ownership"
+    ],
+    "aliases": [],
+    "note": "Credit intermediary in Vila Nova de Famalicão, on the sleeve of Famalicão's 2026/27 home shirt. Who owns it isn't sourced, so it isn't rated yet."
   },
   {
     "id": "chestny-znak",
@@ -3845,6 +3993,23 @@
     "note": "FC Krasnodar general partner (confectionery production group)."
   },
   {
+    "id": "construcoes-carlos-pinho",
+    "name": "Construções Carlos Pinho, Lda.",
+    "ownerId": "construcoes-carlos-pinho",
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "construcoes-carlos-pinho-ownership"
+    ],
+    "aliases": [
+      "construcoes carlos pinho",
+      "const. carlos pinho"
+    ],
+    "note": "Arouca construction company, FC Arouca's front-of-shirt sponsor for more than a decade until bwin took over in 2026-27. Who owns it isn't sourced, so it isn't rated yet."
+  },
+  {
     "id": "convoy-of-hope",
     "name": "Convoy of Hope",
     "ownerId": null,
@@ -4172,6 +4337,25 @@
     "aliases": []
   },
   {
+    "id": "das-weltauto",
+    "name": "Das WeltAuto",
+    "ownerId": "volkswagen-ag",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "Volkswagen Group's used-car brand; Qatar Holding LLC holds 10.4% of Volkswagen AG's capital and 17.0% of its voting rights.",
+    "claimIds": [
+      "das-weltauto-volkswagen-ownership",
+      "qatar-holding-vw-stake",
+      "qatar-holding-qia-ownership",
+      "qia-government-of-qatar-ownership"
+    ],
+    "aliases": [
+      "Das WeltAuto Portugal"
+    ],
+    "note": "Official partner of FC Alverca - Futebol SAD from 2026-27, providing the club's mobility (Fleet Magazine; O Jogo, 29 July 2026); named on the back of Alverca's 2026-27 shirt only by Wikipedia's kit table, so it isn't on the kit record yet. Rating note: on hold for a maintainer, like skoda: Volkswagen AG, whose used-car brand this is, is 10.4% owned (17.0% of votes) by Qatar Holding LLC, part of the Qatar Investment Authority (qatar-holding-vw-stake, qatar-holding-qia-ownership, qia-government-of-qatar-ownership); Qatar's record is recorded (qatar-migrant-worker-abuse-2025). That passes the 5% test, so 'none' can't stand."
+  },
+  {
     "id": "dazn",
     "name": "DAZN",
     "ownerId": "access-industries",
@@ -4179,9 +4363,12 @@
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "dazn-majority-access-industries",
+      "access-industries-record"
+    ],
     "aliases": [],
-    "note": "Global broadcaster of the FIFA Club World Cup 2025 (reported US$1bn rights deal). SURJ/PIF took a reported minority stake in DAZN."
+    "note": "Global broadcaster of the FIFA Club World Cup 2025 (reported US$1bn rights deal). SURJ/PIF took a reported minority stake in DAZN. DAZN's January 2025 company update names Access Industries as its majority shareholder (claim dazn-majority-access-industries). Rating note: SURJ Sports Investment, a subsidiary of Saudi Arabia's Public Investment Fund (SportsPro, 17 Feb 2025), agreed on 17 February 2025 to acquire a minority stake in DAZN; the joint release gives no percentage (https://dazngroup.com/press-room/surj-sports-investment-announces-investment-in-dazn/). Reports of its size differ: Broadcast says the Financial Times believed it to be less than 5% (https://www.broadcastnow.co.uk/broadcast-international/dazn-sells-minority-stake-to-saudi-arabias-surj/5202130.article); Variety says the deal was widely believed to be US$1bn for 10% (https://variety.com/2025/tv/news/dazn-saudi-arabia-surj-sports-investment-1billion-deal-1236311715/). DAZN's own board page lists Danny Townsend, CEO of Saudi Arabia's SURJ Sports Investment, as a Non-Executive Director (https://dazngroup.com/the-team/, checked 2026-09-28). A state-fund executive on the board meets the METHOD.md link test, so DAZN stays unrated until a maintainer rates it."
   },
   {
     "id": "dazn-bet-club",
@@ -4600,6 +4787,22 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "dominos",
+    "name": "Domino's",
+    "ownerId": "dominos-pizza-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Brand of Domino's Pizza, Inc. (NASDAQ: DPZ), a US listed franchisor: about 99% of its global stores are run by independent franchisees. Nothing found.",
+    "claimIds": [
+      "dominos-pizza-inc-ownership"
+    ],
+    "aliases": [
+      "dominos pizza"
+    ],
+    "note": "Listed among the Official Sponsors on casapiaac.pt. Its place on Casa Pia's 2026-27 home kit isn't sourced yet (the only source found was Wikipedia), so it isn't on the kit record. Rating note: the chain stops at the listed franchisor; the Portuguese master franchisee is not named in the 10-K and was not identified."
   },
   {
     "id": "dongfeng",
@@ -5230,6 +5433,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Rating note: Kept at serious rather than severe: Eni is a state oil major with conflict-zone assets but is not itself a belligerent or a Russian state entity. ON HOLD: a 33% Italian state stake, no sourced claim of abuses by that owner, and the conflict-exposure sentence had no source."
+  },
+  {
+    "id": "enif",
+    "name": "Enif",
+    "ownerId": "enif",
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "enif-ownership"
+    ],
+    "aliases": [],
+    "note": "Outdoor-advertising company in Vila Nova de Famalicão, listed among FC Famalicão's partners (https://www.fcfamalicao.pt/parceiros/enif/). Who owns it isn't sourced, so it isn't rated yet."
   },
   {
     "id": "enilive",
@@ -7308,15 +7525,19 @@
     "name": "Hospital da Luz (Luz Saude)",
     "ownerId": "fidelidade",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Run by Luz Saúde, 60% owned by the insurer Fidelidade (84.99% Fosun Group, 15% the Portuguese state bank CGD). Nothing found.",
+    "claimIds": [
+      "fidelidade-ownership",
+      "fosun-international-shareholders",
+      "luz-saude-fidelidade-ownership"
+    ],
     "aliases": [
       "luz saude",
       "hospital da luz"
     ],
-    "note": "Portuguese private hospital group (Luz Saude, 60% Fidelidade / 40% Macquarie since Sep 2025; Fidelidade is 85% Fosun / 15% state-owned CGD). Front or sleeve sponsor at several clubs in 2026-27."
+    "note": "Portuguese private hospital group; front or sleeve sponsor at several clubs in 2026-27. Rating note: CGD, a bank owned by the Portuguese State, holds 15% of Fidelidade, about 9% of Luz Saúde along the chain, but no record of serious abuses by Portugal is recorded, and state ownership alone is not a tier. Fosun International's substantial shareholders are only Fosun Holdings/Fosun International Holdings (72.78%, owned by Guo Guangchang and Wang Qunbin), so no state holds 5% of it; Fidelidade calls Fosun Group a Chinese private conglomerate. The other 40% of Luz Saúde is held by Macquarie European Infrastructure Fund 7, whose investors aren't sourced."
   },
   {
     "id": "howden",
@@ -9244,15 +9465,22 @@
   },
   {
     "id": "lus-iadas",
-    "name": "Lus Iadas",
-    "ownerId": null,
-    "ownership": null,
+    "name": "Lusíadas",
+    "ownerId": "lus-iadas-saude",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Kit sponsor per https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+    "claimIds": [
+      "lus-iadas-vivalto-ownership"
+    ],
+    "aliases": [
+      "Lusiadas",
+      "Grupo Lusíadas Saúde",
+      "Lusíadas Saúde"
+    ],
+    "note": "Private hospital group; on the back of SC Braga's 2026-27 home shirt and on the front at Rio Ave (per the Rio Ave kit record). Grupo Lusíadas Saúde has been part of France's Vivalto Santé since the end of 2022, controlled by Vivalto Partners. Mubadala, Abu Dhabi's sovereign fund, is one of Vivalto Santé's institutional shareholders (since 2016, per IK Partners' 2021 release, https://ikpartners.com/press-release/vivalto-partners-announces-the-acquisition-of-vivalto-sante/), and Vivalto Santé's supervisory board includes representatives of its institutional shareholders. Mubadala's stake and whether it has a seat aren't published, so the sponsor stays unrated.",
+    "ownerVerb": "paid for by"
   },
   {
     "id": "lvcva",
@@ -9754,6 +9982,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Chinese dairy brand; official sponsor of World Cup 26, Women's World Cup 2027 and World Cup 2030."
+  },
+  {
+    "id": "mercainox",
+    "name": "Mercainox",
+    "ownerId": "mercainox",
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "mercainox-ownership"
+    ],
+    "aliases": [],
+    "note": "Stainless-steel supplier (Mercainox – Componentes Industriais, Lda.), listed among FC Famalicão's partners (https://www.fcfamalicao.pt/parceiros/mercainox/). Who owns it isn't sourced, so it isn't rated yet."
   },
   {
     "id": "mercedes-benz",
@@ -11775,9 +12017,9 @@
     "name": "Placard (Jogos Santa Casa)",
     "ownerId": "santa-casa",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Operated by Santa Casa da Misericordia de Lisboa, which runs Portugal's social games on behalf and on account of the State. Nothing found.",
     "claimIds": [
       "santa-casa-state-games"
     ],
@@ -11786,7 +12028,7 @@
       "santa casa",
       "jogos santa casa"
     ],
-    "note": "Portuguese state-linked fixed-odds sports betting product of Jogos Santa Casa; online licences held by SAS Apostas Sociais, Jogos e Apostas Online, S.A. (SRIJ). Main kit sponsor at Alverca, Moreirense and Vitoria SC in 2026-27."
+    "note": "Portuguese state-linked fixed-odds sports betting product of Jogos Santa Casa; online licences held by SAS Apostas Sociais, Jogos e Apostas Online, S.A. (SRIJ). Main kit sponsor at Alverca, Moreirense and Vitoria SC in 2026-27. Rating note: Santa Casa runs the social games on behalf and on account of the Portuguese State, but no record of serious abuses by Portugal is recorded, and state ownership alone is not a tier."
   },
   {
     "id": "play",
@@ -12415,6 +12657,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  },
+  {
+    "id": "quinta-de-lemos",
+    "name": "Quinta de Lemos",
+    "ownerId": "quinta-de-lemos",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "quinta-de-lemos-family-estate"
+    ],
+    "aliases": [],
+    "note": "Dão wine estate in Silgueiros, Viseu, whose own site credits the Lemos family with its wines. Who legally owns it isn't sourced, so it isn't rated yet. Listed among Académico de Viseu's main sponsors on the club's site; no source other than Wikipedia puts it on the 2026-27 home kit."
   },
   {
     "id": "quooker",
@@ -13129,6 +13385,23 @@
     "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. State ownership alone is not a tier: a Spanish provincial council has no record of serious abuses."
   },
   {
+    "id": "sabseg",
+    "name": "SABSEG",
+    "ownerId": "sabseg",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "sabseg-sa-ownership"
+    ],
+    "aliases": [
+      "SABSEG Seguros",
+      "Grupo SABSEG"
+    ],
+    "note": "On the front of SC Braga's shorts under a deal running to 2028. SABSEG - Corretor de Seguros, S.A. (Lisbon); Grupo SABSEG says its capital is 100% Portuguese but names no shareholders, so it isn't rated yet."
+  },
+  {
     "id": "sage",
     "name": "Sage",
     "ownerId": null,
@@ -13144,15 +13417,18 @@
     "name": "Sagres",
     "ownerId": "sociedade-central-cervejas",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Sociedade Central de Cervejas e Bebidas, taken over 100% by Heineken in 2008. Nothing found.",
+    "claimIds": [
+      "scc-heineken-ownership",
+      "heineken-nv-shareholders"
+    ],
     "aliases": [
       "cerveja sagres",
       "scc"
     ],
-    "note": "Portuguese beer brand of Sociedade Central de Cervejas e Bebidas (100% Heineken since 2008). Back-of-shirt sponsor at Benfica in 2026-27."
+    "note": "Portuguese beer brand of Sociedade Central de Cervejas e Bebidas; back-of-shirt sponsor at Benfica in 2026-27. Rating note: SCC has been 100% controlled by the Heineken Group since 2008 (scc-heineken-ownership); Heineken N.V.'s only notified substantial shareholder is Mrs. C.L. de Carvalho-Heineken, indirectly 50.005% through Heineken Holding N.V. (heineken-nv-shareholders). No state or state fund appears in the chain, so nothing passes the rating test."
   },
   {
     "id": "salesforce",
@@ -13829,6 +14105,20 @@
     "note": "Rating note: SILL Entreprises calls itself a family business; the company register lists Sébastien Floch as Président de SAS with Tristan Falc'hun and Henri León as Directeurs Généraux. No state or fund stake found → none."
   },
   {
+    "id": "silogia",
+    "name": "Silogia",
+    "ownerId": "silogia",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "silogia-ownership"
+    ],
+    "aliases": [],
+    "note": "On the sleeve of Casa Pia's 2026-27 home kit (issue #390). Not rated yet: its owner isn't identified (its own site names no shareholder or parent company)."
+  },
+  {
     "id": "sim-agences-d-emploi",
     "name": "SIM Agences d'emploi",
     "ownerId": "sim-travail-temporaire",
@@ -13896,6 +14186,22 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "skita",
+    "name": "Skita",
+    "ownerId": "skita-sportwear",
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "skita-sportwear-ownership"
+    ],
+    "aliases": [
+      "skita sportwear"
+    ],
+    "note": "Sports-kit maker (Skita Sportwear, Orly), FC Arouca's kit maker in 2026-27. Who owns it isn't sourced, so it isn't rated yet."
   },
   {
     "id": "skoda",
@@ -14101,29 +14407,37 @@
   {
     "id": "soleo",
     "name": "Soleo",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "r-p-industries",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Kit sponsor per https://www.scbraga.pt/pt/sponsors"
+    "claimIds": [
+      "soleo-rp-industries-ownership"
+    ],
+    "aliases": [
+      "Soleo Piscinas"
+    ],
+    "note": "Swimming-pool brand of R.P. Industries, S.A. (Braga), an SC Braga sponsor since 2023. The club shop's photo of the 2026-27 home shirt (https://shop.scbraga.pt/products/26-27-sc-braga-home-jersey-puma-red-puma) shows soleo on the front, but no page text names it for 2026-27, so it isn't on the kit record. Who owns R.P. Industries isn't sourced, so it isn't rated yet."
   },
   {
     "id": "solverde",
     "name": "Solverde.pt",
     "ownerId": "solverde",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Solverde.pt is the online betting and casino brand of Grupo Solverde, a Portuguese casino and hotel group wholly held by the Violas family holding Violas SGPS. Nothing found.",
+    "claimIds": [
+      "solverde-violas-ownership",
+      "solverde-ownership"
+    ],
     "aliases": [
       "solverde",
       "grupo solverde"
     ],
-    "note": "Online casino/betting brand of Grupo Solverde (casinos Espinho, Vilamoura, Monte Gordo, Portimao, Chaves); SRIJ-licensed. Main kit sponsor at SC Braga and Estoril Praia in 2026-27."
+    "note": "Rating note: online casino and betting brand of Grupo Solverde (casinos in Espinho, Vilamoura, Monte Gordo, Praia da Rocha and Chaves), SRIJ-licensed; main kit sponsor at SC Braga and Estoril Praia in 2026-27. The group is wholly held by Violas SGPS, the Violas family holding (solverde-violas-ownership); no state or state fund appears in that chain, so nothing passes the rating test.",
+    "ownerVerb": "paid for by"
   },
   {
     "id": "sonepar",
@@ -15094,14 +15408,18 @@
   {
     "id": "tek4life",
     "name": "Tek4Life",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "tek4life",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Kit sponsor per https://www.scbraga.pt/pt/sponsors"
+    "claimIds": [
+      "tek4life-sa-ownership"
+    ],
+    "aliases": [
+      "Tek4life Group"
+    ],
+    "note": "On the sleeves of SC Braga's shirts under a deal running to 2027. TEK4LIFE, S.A. (Adaúfe, Braga, NIF 516 068 121); who owns it isn't sourced, so it isn't rated yet."
   },
   {
     "id": "telus",
@@ -16148,16 +16466,32 @@
   {
     "id": "visabeira",
     "name": "Visabeira",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "grupo-visabeira",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Grupo Visabeira, S.A. — held 98.57% by its founder Fernando Campos Nunes through NCFGest, S.A. Nothing found.",
+    "claimIds": [
+      "visabeira-ncfgest-ownership"
+    ],
     "aliases": [
       "grupo visabeira"
     ],
-    "note": "Portuguese conglomerate (telecoms, energy, industry incl. Vista Alegre, tourism, construction), founded in Viseu in 1980. Main kit sponsor at Academico de Viseu in 2026-27. Controlling owners not stated in the sources checked."
+    "note": "Portuguese conglomerate (telecoms, energy, industry incl. Vista Alegre, tourism, construction), founded in Viseu in 1980. Main kit sponsor at Academico de Viseu in 2026-27. Rating note: Grupo Visabeira's Relatório & Contas 2025 and Martifer's market release of 6 August 2025 both name one individual, Fernando Campos Nunes, as its ultimate owner through NCFGest; no state or state fund in the chain. Nothing passes the METHOD.md test."
+  },
+  {
+    "id": "visipapel",
+    "name": "Visipapel",
+    "ownerId": "visipapel",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "visipapel-founded-1988"
+    ],
+    "aliases": [],
+    "note": "Visipapel, Lda., Viseu, founded in 1988 (its own site). Who owns it isn't sourced, so it isn't rated yet. Listed among Académico de Viseu's main sponsors on the club's site; no source other than Wikipedia puts it on the 2026-27 home kit."
   },
   {
     "id": "visit-detroit",

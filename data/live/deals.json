@@ -747,6 +747,27 @@
     "note": "Arena naming rights: Chase Field."
   },
   {
+    "id": "arouca-bwin-front",
+    "clubId": "arouca",
+    "orgName": null,
+    "sponsorId": "bwin",
+    "placement": "front",
+    "from": "2026-27",
+    "to": "2029-30",
+    "value": null,
+    "source": {
+      "name": "FC Arouca: Mudança Histórica em Arouca: Bwin é o novo main sponsor do FC Arouca",
+      "date": "2026-07-27",
+      "url": "https://fcarouca.eu/noticias/mudanca-historica-em-arouca-bwin-e-o-novo-main-sponsor-do-fc-arouca/",
+      "quote": "O FC Arouca inicia uma nova etapa da sua história com a entrada da bwin como Main Sponsor do clube. O acordo, válido por quatro épocas, com opção por uma quinta temporada",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "note": "Four seasons with an option for a fifth; the club's announcement gives no value. Replaces Construções Carlos Pinho, Lda. after more than a decade on the front of the shirt."
+  },
+  {
     "id": "arsenal-deel",
     "clubId": "arsenal",
     "orgName": null,
