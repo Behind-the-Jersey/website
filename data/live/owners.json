@@ -1,5 +1,13 @@
 [
   {
+    "id": "2play-creative-lab",
+    "name": "2PLAY - Creative Lab",
+    "type": "private-company",
+    "country": "Portugal",
+    "parentId": null,
+    "note": "Creative studio in Viseu (branding, video and web for clubs including Academico de Viseu, CD Tondela and Liga Portugal). Its owners are not stated in the sources checked."
+  },
+  {
     "id": "3m-company",
     "name": "3M Company",
     "type": "listed-company",
@@ -158,6 +166,14 @@
     "note": "Norman agricultural cooperative (12,500 members in 2020, Le Journal des Entreprises); reported in November 2020 as the new owner of Brasserie Lancelot (Breizh Cola)."
   },
   {
+    "id": "aguas-do-caramulo",
+    "name": "Águas do Caramulo",
+    "type": "private-company",
+    "country": "Portugal",
+    "parentId": null,
+    "note": "Portuguese mineral-water company founded in 1984, based in Varzielas; privately held (LinkedIn company page). Its owners are not stated in the sources checked."
+  },
+  {
     "id": "aia-group",
     "name": "AIA Group Limited (HKEX: 1299)",
     "type": "listed-company",
@@ -310,6 +326,14 @@
     "parentId": null,
     "country": "Brazil",
     "note": "Shares listed on B3 (Brazil) and the New York Stock Exchange."
+  },
+  {
+    "id": "amco",
+    "name": "AMCO Intermediários de Crédito, Lda",
+    "type": "private-company",
+    "country": "Portugal",
+    "parentId": null,
+    "note": "Portuguese credit intermediary (Banco de Portugal register no. 759), founded in 2006 by its CEO Altino Osório. Its shareholders aren't sourced."
   },
   {
     "id": "amer-sports",
@@ -840,6 +864,14 @@
     "country": "US"
   },
   {
+    "id": "benecar",
+    "name": "Benecar - Cidade do Automóvel",
+    "type": "unknown",
+    "parentId": null,
+    "country": "Portugal",
+    "note": "Car dealer founded 10 April 1991 in Benedita (Alcobaça), presenting itself as 'Grupo Benecar' (Cidade do Automóvel); its own site describes the business but names no shareholder. Recorded during the Casa Pia research (issue #390); Benecar is the back-of-shirt sponsor of Casa Pia's 2026-27 home kit."
+  },
+  {
     "id": "berkshire-hathaway",
     "name": "Berkshire Hathaway Inc.",
     "type": "listed-company",
@@ -1124,6 +1156,14 @@
     "country": "US"
   },
   {
+    "id": "castro-electronica",
+    "name": "Castro Electrónica",
+    "type": "unknown",
+    "country": "Portugal",
+    "note": "Portuguese electronics company founded in 1996 by Joaquim Ferreira de Castro; it says its capital is 100% Portuguese (castroelectronica.pt). Its shareholders aren't sourced, so the owner is recorded as unknown.",
+    "parentId": null
+  },
+  {
     "id": "ceconomy",
     "name": "Ceconomy AG",
     "type": "listed-company",
@@ -1145,6 +1185,14 @@
     "parentId": null,
     "country": "United States",
     "note": "US functional-energy-drink company (founded 2004, per celsiusholdingsinc.com); the AMF1 partner page states CELSIUS is its brand. No state or state-fund holder found in this run."
+  },
+  {
+    "id": "chanceplus",
+    "name": "Chanceplus",
+    "type": "unknown",
+    "parentId": null,
+    "country": "PT",
+    "note": "Credit intermediary in Vila Nova de Famalicão, registered with the Banco de Portugal under no. 92 (chanceplus.pt). Its shareholders aren't sourced, so the owner is recorded as unknown."
   },
   {
     "id": "chery-automobile",
@@ -1370,6 +1418,14 @@
     "parentId": null,
     "country": "IT",
     "note": "Bologna-province consortium (Villanova di Castenaso, VAT 01522961208) that produces and markets the Selenella brand. Founded 2002 as Consorzio delle buone idee, renamed; 10 member companies (1 producer organisation, 2 cooperatives, 7 private traders) representing about 320 producers. No state or state-fund ownership: its members are private producers, cooperatives and traders."
+  },
+  {
+    "id": "construcoes-carlos-pinho",
+    "name": "Construções Carlos Pinho, Lda.",
+    "type": "unknown",
+    "country": "Portugal",
+    "note": "Construction company in Chave, Arouca (NIF 503369489), a Sociedade por Quotas with EUR 500,000 share capital (Racius). Its quotaholders aren't sourced, so the owner is recorded as unknown.",
+    "parentId": null
   },
   {
     "id": "continent-gaming",
@@ -1713,6 +1769,14 @@
     "note": "Acadomia's legal notice names DOMIA GROUP SA (RCS Paris 349 367 557) as publisher and AIS 2 SAS – ACADOMIA as its subsidiary. Metric Capital Partners' Fund I investment (2013) is listed as Exited; the current shareholders are not in the cited sources."
   },
   {
+    "id": "dominos-pizza-inc",
+    "name": "Domino's Pizza, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US",
+    "note": "US listed company (NASDAQ: DPZ), primarily a franchisor: about 99% of Domino's global stores are owned and operated by independent franchisees (Form 10-K, fiscal 2025). Internationally it grants the brand to master franchisees; the Portuguese one is not named in the 10-K."
+  },
+  {
     "id": "dongfeng-motor-corporation",
     "name": "Dongfeng Motor Corporation",
     "type": "state",
@@ -1929,6 +1993,14 @@
     "country": "IT"
   },
   {
+    "id": "enif",
+    "name": "Enif - Comunicação & Publicidade",
+    "type": "unknown",
+    "parentId": null,
+    "country": "PT",
+    "note": "Outdoor-advertising company founded in 1986, in Louro, Vila Nova de Famalicão (enif.pt). Its shareholders aren't sourced, so the owner is recorded as unknown."
+  },
+  {
     "id": "entain-plc",
     "name": "Entain plc",
     "type": "listed-company",
@@ -2058,6 +2130,14 @@
     "note": "US-listed logistics company (NYSE: FDX). The corpus previously had a fedex-owner record (\"FedEx LLC\"), listed-company); this parent-chain entry records the listed parent for the same chain. No state stake."
   },
   {
+    "id": "fernando-campos-nunes",
+    "name": "Fernando Campos Nunes",
+    "type": "private-company",
+    "country": "Portugal",
+    "parentId": null,
+    "note": "Founder, main shareholder and president of the Conselho Geral e de Supervisão of Grupo Visabeira; held 98.57% indirectly through NCFGest, S.A. at the end of 2025 (Visabeira Relatório & Contas 2025)."
+  },
+  {
     "id": "ferrari-nv",
     "name": "Ferrari N.V.",
     "type": "listed-company",
@@ -2068,7 +2148,10 @@
     "id": "fidelidade",
     "name": "Fidelidade - Companhia de Seguros",
     "type": "private-company",
-    "parentId": null
+    "country": "Portugal",
+    "via": "Fosun Group (through Millennium Gain Limited)",
+    "note": "Portuguese insurer. Its shareholders page lists Fosun Group (through Millennium Gain Limited) with 84.9892% and Caixa Geral de Depósitos (CGD), a bank owned by the Portuguese State, with 15%. It keeps 60% of Luz Saúde (Hospital da Luz) after selling 40% to Macquarie European Infrastructure Fund 7; the sale was completed on 29 January 2026, with Fidelidade keeping a controlling position (ECO).",
+    "parentId": "fosun"
   },
   {
     "id": "fifth-third-bank-owner",
@@ -2148,7 +2231,9 @@
   {
     "id": "fosun",
     "name": "Fosun International",
-    "type": "private-company",
+    "type": "listed-company",
+    "country": "China",
+    "note": "Listed on the main board of the Hong Kong Stock Exchange since 2007 (00656.HK). At 30 June 2026, Fosun Holdings and Fosun International Holdings held 72.78%; Fosun International Holdings was owned 85.29% by Guo Guangchang and 14.71% by Wang Qunbin (Interim Report 2026).",
     "parentId": null
   },
   {
@@ -2324,6 +2409,14 @@
     "type": "state-fund",
     "country": "Singapore",
     "parentId": "government-of-singapore"
+  },
+  {
+    "id": "globalia",
+    "name": "Globalia Corporacion Empresarial",
+    "type": "private-company",
+    "country": "Spain",
+    "parentId": null,
+    "note": "Spanish tourism group of the Hidalgo family, through which it holds its majority stake in Air Europa (El Conciso, El Español)."
   },
   {
     "id": "globe-life-globe-life-inc-owner",
@@ -2624,6 +2717,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "ES"
+  },
+  {
+    "id": "grupo-visabeira",
+    "name": "Grupo Visabeira, S.A.",
+    "type": "private-company",
+    "country": "Portugal",
+    "parentId": "ncfgest",
+    "note": "Private Portuguese conglomerate (telecoms, energy, industry including Vista Alegre, tourism, construction), founded in Viseu in 1980; parent of Visabeira, the brand on the front of Academico de Viseu's shirt."
   },
   {
     "id": "guangzhou-municipal-government",
@@ -3473,7 +3574,7 @@
   },
   {
     "id": "limad",
-    "name": "L'IMAD (Abu Dhabi sovereign investor, formerly ADQ)",
+    "name": "Abu Dhabi sovereign investor L'IMAD",
     "type": "state-fund",
     "country": "United Arab Emirates",
     "parentId": "government-of-abu-dhabi",
@@ -3631,6 +3732,14 @@
     "parentId": null,
     "note": "arena naming-rights holder of seattle-seahawks (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "lus-iadas-saude",
+    "name": "Grupo Lusíadas Saúde",
+    "type": "private-company",
+    "country": "Portugal",
+    "parentId": "vivalto-sante",
+    "note": "Portuguese private-hospital group (formerly HPP Saúde, rebranded 2014); part of France's Vivalto Santé since the end of 2022."
   },
   {
     "id": "lvcva-owner",
@@ -3872,6 +3981,14 @@
     "country": "China",
     "parentId": "cofco",
     "note": "Listed in Hong Kong; part of the COFCO group."
+  },
+  {
+    "id": "mercainox",
+    "name": "Mercainox – Componentes Industriais, Lda.",
+    "type": "unknown",
+    "parentId": null,
+    "country": "PT",
+    "note": "Stainless-steel supplier; its site (mercainox.pt) is run by Mercainox – Componentes Industriais, Lda. Its shareholders aren't sourced, so the owner is recorded as unknown."
   },
   {
     "id": "mercedes-benz-group",
@@ -4171,6 +4288,15 @@
     "parentId": null,
     "country": "Italy",
     "note": "Buyout firm led by its management; its former partner Neuberger Berman became a minority shareholder under the April 2024 agreement."
+  },
+  {
+    "id": "ncfgest",
+    "name": "NCFGest, S.A.",
+    "type": "private-company",
+    "country": "Portugal",
+    "parentId": "fernando-campos-nunes",
+    "via": "98.57% of Grupo Visabeira",
+    "note": "Holding company through which the founder holds his stake in Grupo Visabeira; wholly owned by Fernando Campos Nunes (Visabeira Relatório & Contas 2025, p. 89 and the shareholders' annex)."
   },
   {
     "id": "nederlandse-loterij",
@@ -4936,12 +5062,28 @@
     "country": "US"
   },
   {
+    "id": "quinta-de-lemos",
+    "name": "Quinta de Lemos",
+    "type": "private-company",
+    "country": "Portugal",
+    "parentId": null,
+    "note": "Wine estate in Silgueiros, Viseu (Dão), run by the Lemos family. Its legal owners are not stated in the sources checked."
+  },
+  {
     "id": "quooker",
     "name": "Quooker",
     "type": "private-company",
     "parentId": null,
     "country": "NL",
     "note": "Boiling-water-tap maker from Ridderkerk, wholly owned by the Peteri family, the brothers Niels and Walter Peteri (quooker-ownership)."
+  },
+  {
+    "id": "r-p-industries",
+    "name": "R.P. Industries, S.A.",
+    "type": "private-company",
+    "country": "Portugal",
+    "parentId": null,
+    "note": "Portuguese swimming-pool maker founded in 1994, head office in the Sobreposta industrial park, Braga; its brands include SOLEO, Naturalis, Inoblock and Fabistone (rppiscinas.com). Its shareholders aren't sourced."
   },
   {
     "id": "raigneau-et-compagnie",
@@ -5095,6 +5237,14 @@
     "country": "GB"
   },
   {
+    "id": "ricardo-leitao-machado",
+    "name": "Ricardo Leitão Machado",
+    "type": "private-company",
+    "country": "Portugal",
+    "parentId": null,
+    "note": "Portuguese entrepreneur, owner of Herdade do Vale Feitoso in Idanha-a-Nova. Bought the Termas de Monfortinho in March 2025 and relaunched the Água de Monfortinho bottled-water brand (Dinheiro Vivo, 30 May 2025)."
+  },
+  {
     "id": "richard-mille",
     "name": "Richard Mille",
     "type": "private-company",
@@ -5244,6 +5394,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "Spain"
+  },
+  {
+    "id": "sabseg",
+    "name": "SABSEG - Corretor de Seguros, S.A.",
+    "type": "private-company",
+    "country": "Portugal",
+    "parentId": null,
+    "note": "Portuguese insurance broker (Lisbon, NIF 500 906 181) of Grupo SABSEG, which says it was founded in late 1999 by four entrepreneurs and that its capital is 100% Portuguese. Its shareholders aren't named on its pages."
   },
   {
     "id": "saic-group",
@@ -5528,6 +5686,14 @@
     "note": "SAS (SIREN 636220220, Le Raden, Plouvien, capital EUR 18,830,562.30), which calls itself a longstanding family business; the club says the SILL was created in 1962 by the Falc'hun and León families. The company register lists Sébastien Floch as Président de SAS, with Tristan Falc'hun and Henri León as Directeurs Généraux."
   },
   {
+    "id": "silogia",
+    "name": "Silogia",
+    "type": "unknown",
+    "parentId": null,
+    "country": "Portugal",
+    "note": "Portuguese workplace-solutions company founded in 2004 (offices, acoustic and modular partitions); its own site describes the business but names no shareholder. Recorded during the Casa Pia research (issue #390); Silogia is the sleeve sponsor of Casa Pia's 2026-27 home kit."
+  },
+  {
     "id": "sim-travail-temporaire",
     "name": "SIM Travail Temporaire",
     "type": "private-company",
@@ -5567,6 +5733,14 @@
     "parentId": null,
     "country": "Ukraine",
     "note": "Licensed Ukrainian online-casino and betting operator working under the BETON brand. The club's announcement names SITIKOD LLC; Komersant reports the brand operates through CITYCODE LLC and names Roman Balashov as SITIKOD's founder and beneficial owner. Private ownership; no state link found."
+  },
+  {
+    "id": "skita-sportwear",
+    "name": "Skita Sportwear",
+    "type": "unknown",
+    "country": "France",
+    "note": "Sports-kit maker; skita.fr is published by SKITA SPORT (RCS Créteil 510 664 881, Orly). Its shareholders aren't sourced, so the owner is recorded as unknown.",
+    "parentId": null
   },
   {
     "id": "skoda-auto",
@@ -5614,8 +5788,8 @@
     "name": "Sociedade Central de Cervejas e Bebidas (SCC)",
     "type": "private-company",
     "country": "Portugal",
-    "note": "Portuguese brewer of the Sagres brand; owned 100% by the Heineken Group since March 2008. Heineken is an Amsterdam-listed family-controlled brewer, no state link.",
-    "parentId": null
+    "note": "Portuguese brewer of the Sagres brand; acquired by the Heineken Group in April 2008, which has held 100% control of the company since (SCC's own corporate pages).",
+    "parentId": "heineken-nv"
   },
   {
     "id": "sofi-owner",
@@ -5663,7 +5837,7 @@
     "name": "Grupo Solverde (Solverde - Sociedade de Investimentos Turisticos da Costa Verde)",
     "type": "private-company",
     "country": "Portugal",
-    "note": "Portuguese casino and hotel group founded in Espinho in 1972; per its 2025 annual report (cited on Portuguese Wikipedia), 93.67% held by Violas SGPS (Manuel Violas family). Private Portuguese owners, no state link.",
+    "note": "Portuguese casino and hotel group, founded on 12 April 1972 by Manuel de Oliveira Violas. Wholly held by Violas SGPS, the family holding controlled in equal parts by the siblings Manuel and Rita Celeste (ECO, 28 January 2026). Runs online games and betting at solverde.pt under SRIJ licences 10 and 24. Its 2025 annual report: Violas holds 93.67% of the capital, the other 6.33% being the company's own shares.",
     "parentId": null
   },
   {
@@ -6032,6 +6206,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "MT"
+  },
+  {
+    "id": "tek4life",
+    "name": "TEK4LIFE, S.A. (Tek4life Group)",
+    "type": "private-company",
+    "country": "Portugal",
+    "parentId": null,
+    "note": "Braga technology company (head office Adaúfe, Braga; NIF 516 068 121 per its privacy policy). Its shareholders aren't sourced."
   },
   {
     "id": "telus-corporation",
@@ -6409,6 +6591,22 @@
     "type": "listed-company",
     "country": "United States",
     "parentId": null
+  },
+  {
+    "id": "visipapel",
+    "name": "Visipapel, Lda.",
+    "type": "private-company",
+    "country": "Portugal",
+    "parentId": null,
+    "note": "Paper and hygiene-products company founded in 1988 and based in Viseu. Its owners are not stated in the sources checked."
+  },
+  {
+    "id": "vivalto-sante",
+    "name": "Vivalto Santé",
+    "type": "private-company",
+    "country": "France",
+    "parentId": null,
+    "note": "French private-hospital group founded in 2009 by Daniel Caille. Its controlling shareholder is Vivalto Partners (Daniel Caille's management company), alongside institutional investors (IK Partners, MACSF, Bpifrance, Mubadala, Arkéa Capital, Groupe Crédit Agricole, BNPP), more than 1,200 doctor shareholders and employee shareholders. The investors' stakes aren't published; the supervisory board includes representatives of the institutional shareholders."
   },
   {
     "id": "vodafone-espana-sau",

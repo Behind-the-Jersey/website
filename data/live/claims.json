@@ -1,5 +1,25 @@
 [
   {
+    "id": "2play-creative-studio",
+    "kind": "ownership",
+    "ownerIds": [
+      "2play-creative-lab"
+    ],
+    "text": "2PLAY's own about page describes it as a creative studio where programmers, videographers and designers work.",
+    "short": "2PLAY is a creative studio in Viseu.",
+    "source": {
+      "name": "2PLAY - Creative Lab, Empresa (about page)",
+      "date": "2026-09-28",
+      "url": "https://2play.pt/empresa.php",
+      "quote": "A 2 Play é um estúdio criativo onde vivem programadores, videógrafos e designers",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "3m-combat-arms-earplugs",
     "kind": "record",
     "ownerIds": [
@@ -492,6 +512,46 @@
     "reviewed": false
   },
   {
+    "id": "agua-de-monfortinho-leitao-machado-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "ricardo-leitao-machado"
+    ],
+    "text": "Entrepreneur Ricardo Leitão Machado, owner of Herdade do Vale Feitoso in Idanha-a-Nova, bought the Termas de Monfortinho in March 2025 and decided to relaunch Água de Monfortinho, entering the premium-water business.",
+    "short": "Água de Monfortinho was relaunched by Ricardo Leitão Machado, owner of the Termas de Monfortinho",
+    "source": {
+      "name": "Dinheiro Vivo: Água de Monfortinho regressa para concorrer com as melhores do mundo",
+      "date": "2025-05-30",
+      "url": "https://dinheirovivo.dn.pt/economia/%C3%A1gua-de-monfortinho-regressa-para-concorrer-com-as-melhores-do-mundo/",
+      "quote": "O empresário Ricardo Leitão Machado, proprietário da Herdade do Vale Feitoso, em Idanha-a-Nova, acaba de se estrear no negócio das águas",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "aguas-do-caramulo-privately-held",
+    "kind": "ownership",
+    "ownerIds": [
+      "aguas-do-caramulo"
+    ],
+    "text": "Águas do Caramulo's LinkedIn company page lists it as privately held, founded in 1984, headquartered in Varzielas.",
+    "short": "Águas do Caramulo: privately held, founded 1984 (LinkedIn).",
+    "source": {
+      "name": "LinkedIn, Águas do Caramulo company page",
+      "date": "2026-09-28",
+      "url": "https://www.linkedin.com/company/%C3%A1guasdocaramulo",
+      "quote": "Type Privately Held Founded 1984",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "aia-group-record",
     "kind": "ownership",
     "ownerIds": [
@@ -510,6 +570,48 @@
       }
     },
     "reviewed": false
+  },
+  {
+    "id": "air-europa-globalia-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "globalia"
+    ],
+    "text": "The Hidalgo family, through Globalia, is Air Europa's majority shareholder: in January 2026 it held 54%, with Turkish Airlines at 26% and IAG at 20%. Turkish Airlines' minority stake, formalised in November 2025 with a EUR300 million investment, was approved by Spain's council of ministers and in June 2026 awaited approval from the European Commission.",
+    "short": "Air Europa is 54% the Hidalgo family's (through Globalia), 26% Turkish Airlines, 20% IAG",
+    "source": {
+      "name": "El Español: Juan José Hidalgo (Globalia): “Turkish me ha dado el dinero y el poder de seguir gobernando Air Europa”",
+      "date": "2026-01-16",
+      "url": "https://www.elespanol.com/invertia/empresas/turismo/20260116/juan-jose-hidalgo-globalia-turkish-dado-dinero-poder-seguir-gobernando-air-europa/1003744091828_0.html",
+      "quote": "La familia Hidalgo mantiene el control de Air Europa, con un 54% de participación, mientras que Turkish Airlines tiene el 26% e IAG el 20%.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "El Conciso: Juan José Hidalgo mantendrá el control total de Air Europa pese a la entrada de Turkish Airlines como accionista",
+        "date": "2025-12-15",
+        "url": "https://www.elconciso.es/empresas/juan-jose-hidalgo-air-europa-turkish-airlines-accionista_0_2005463716.html",
+        "quote": "La familia Hidalgo, a través de Globalia, continuará siendo el accionista mayoritario de la compañía mientras que IAG conservará su participación actual mediante la compra de acciones a Globalia.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      },
+      {
+        "name": "ch-aviation: Spain okays Turkish Airlines stake in Air Europa",
+        "date": "2026-06-10",
+        "url": "https://www.ch-aviation.com/news/168132-spain-okays-turkish-airlines-stake-in-air-europa",
+        "quote": "Turkish Airlines' bid for a minority stake in Air Europa was formalised in November 2025 with a EUR300 million (USD347 million) investment. The acquisition now awaits approval from the European Commission.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ]
   },
   {
     "id": "airwallex-owner-record",
@@ -769,6 +871,26 @@
       "quote": "the company has shares listed on B3 and The New York Stock Exchange",
       "checked": {
         "on": "2026-09-27",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "amco-lda-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "amco"
+    ],
+    "text": "AMCO is AMCO Intermediários de Crédito, Lda, a credit intermediary authorised and supervised by Banco de Portugal (register no. 759).",
+    "short": "AMCO is AMCO Intermediários de Crédito, Lda, a Banco de Portugal-supervised credit intermediary.",
+    "source": {
+      "name": "AMCO Intermediários Crédito: Aviso Legal",
+      "date": "2026",
+      "url": "https://www.amco.pt/aviso-legal/",
+      "quote": "A atividade da AMCO Intermediários de Crédito, Lda está sujeita à supervisão do Banco de Portugal",
+      "checked": {
+        "on": "2026-09-28",
         "by": "Schnitzel"
       }
     },
@@ -2078,6 +2200,25 @@
     "reviewed": false
   },
   {
+    "id": "benecar-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "benecar"
+    ],
+    "text": "Benecar is a Portuguese car dealer founded on 10 April 1991, located in the Cidade do Automóvel in Benedita, municipality of Alcobaça.",
+    "source": {
+      "name": "Benecar: Cidade do Automóvel, Carros Usados à Venda",
+      "date": "2026",
+      "url": "https://benecar.pt/",
+      "quote": "Fundada a 10 de abril de 1991, a Benecar está localizada bem no centro de Portugal, em plena Cidade do Automóvel, na Benedita, concelho de Alcobaça.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "berkshire-hathaway-record",
     "kind": "ownership",
     "ownerIds": [
@@ -2913,6 +3054,26 @@
     ]
   },
   {
+    "id": "buondi-nestle-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "nestle-sa"
+    ],
+    "text": "Nestlé Portugal's own Buondi page says Buondi is a Portuguese brand, born in Porto in 1986, that became part of the Nestlé Group in 1993.",
+    "short": "Buondi has been a Nestlé brand since 1993.",
+    "source": {
+      "name": "Buondi: Café moído, em grão, espressos e cápsulas | NESTLÉ",
+      "date": "2026",
+      "url": "https://saboreiaavida.nestle.pt/produtos/buondi",
+      "quote": "Buondi é uma marca portuguesa que nasceu no Porto em 1986 e foi integrada em 1993 no Grupo Nestlé.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "burns-and-mcdonnell-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -3166,6 +3327,26 @@
     "reviewed": false
   },
   {
+    "id": "castro-electronica-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "castro-electronica"
+    ],
+    "text": "Castro Electrónica says it has served the electronics industry and trade in Portugal since it was set up in 1996, that it is a company with 100% Portuguese capital, and that its founder is Joaquim Ferreira de Castro.",
+    "short": "Castro Electrónica: founded 1996, 100% Portuguese capital.",
+    "source": {
+      "name": "Castro Electrónica: Sobre a Castro Electrónica - Líder em Tecnologia e Inovação",
+      "date": "2026",
+      "url": "https://www.castroelectronica.pt/pt/empresa/castro-electrnica",
+      "quote": "Desde a sua criação em 1996, a Castro Electrónica tem servido a indústria e comércio do mercado da eletrónica em Portugal, com qualidade e rigor. Uma empresa com capital 100% Português",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "castrol-bp-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -3271,6 +3452,25 @@
       "date": "2026-09-28",
       "url": "https://www.century21-groupe-martinot.com/mentions_legales",
       "quote": "MARTINOT IMMOBILIER TROYES RCS : TROYES 552 881 757 SARL au capital de : 204 000",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "chanceplus-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "chanceplus"
+    ],
+    "text": "Chanceplus is a credit intermediary that brokers between customers and financial institutions, registered with the Banco de Portugal under no. 92, with its address in Gondifelos, Vila Nova de Famalicão.",
+    "source": {
+      "name": "Chanceplus: Intermediários de Crédito (homepage)",
+      "date": "2026",
+      "url": "https://chanceplus.pt/",
+      "quote": "Fazemos a intermediação entre o cliente final e as instituições financeiras",
       "checked": {
         "on": "2026-09-28",
         "by": "Schnitzel"
@@ -3970,6 +4170,38 @@
     "reviewed": false
   },
   {
+    "id": "construcoes-carlos-pinho-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "construcoes-carlos-pinho"
+    ],
+    "text": "Construções Carlos Pinho, Lda. (NIF 503369489, Zona Industrial da Farrapa, Chave, Arouca) is a Sociedade por Quotas with share capital of EUR 500,000, per the Racius company page; Discurso Directo names Carlos Pinho Lda., based in Chave, as Arouca's leading building-construction company.",
+    "short": "Construções Carlos Pinho, Lda.: Sociedade por Quotas, EUR 500,000 capital (NIF 503369489).",
+    "source": {
+      "name": "Racius: Construções Carlos Pinho Lda",
+      "date": "2026",
+      "url": "https://www.racius.com/construcoes-carlos-pinho-lda/",
+      "quote": "Forma Jurídica Sociedade por Quotas Capital Social € 500.000,00",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Discurso Directo: Construções Carlos Pinho Lda é quem mais emprega em Arouca",
+        "date": "2021-03-02",
+        "url": "https://discursodireto.pt/2021/03/02/construcoes-carlos-pinho-lda-e-quem-mais-emprega-em-arouca/",
+        "quote": "A empresa que lidera no sector da Construção de Edifícios, com o CAE 41200 é a Carlos Pinho Lda., sediada em Chave, com um volume de negócios de 21,16 milhões de euros em 2019",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "continent-gaming-record",
     "kind": "ownership",
     "ownerIds": [
@@ -4307,6 +4539,38 @@
     "reviewed": false
   },
   {
+    "id": "das-weltauto-volkswagen-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "volkswagen-ag"
+    ],
+    "text": "Das WeltAuto is the used-car brand of the Volkswagen Group; in Portugal it is a brand of the SIVA|PHS group, specialised in certified used cars from the VW group.",
+    "short": "Das WeltAuto is Volkswagen Group's used-car brand",
+    "source": {
+      "name": "Das WeltAuto: Home Page",
+      "date": "2026-09",
+      "url": "https://www.dasweltauto.pt/",
+      "quote": "Das WeltAuto – A marca de Carros Usados do Grupo Volkswagen.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Fleet Magazine: Das WeltAuto vai assegurar a mobilidade da FC Alverca - Futebol SAD",
+        "date": "2026-08-04",
+        "url": "https://fleetmagazine.pt/das-weltauto-alverca/",
+        "quote": "A Das WeltAuto, marca do grupo SIVA|PHS especializada no comércio de usados certificados do grupo VW, é a nova parceira oficial da FC Alverca – Futebol SAD.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ]
+  },
+  {
     "id": "davide-campari-milano-record",
     "kind": "ownership",
     "ownerIds": [
@@ -4322,6 +4586,26 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "dazn-majority-access-industries",
+    "kind": "ownership",
+    "ownerIds": [
+      "access-industries"
+    ],
+    "text": "DAZN's own company update of January 2025 says its financial strength is underpinned by the continued support of its majority shareholder, Access Industries.",
+    "short": "Access Industries is DAZN's majority shareholder.",
+    "source": {
+      "name": "DAZN Group, Company Update (January 2025)",
+      "date": "2025-01-24",
+      "url": "https://dazngroup.com/wp-content/uploads/2025/01/DAZN-COMPANY-UPDATE-2024.pdf",
+      "quote": "alongside the continued support of its majority shareholder, Access Industries.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
       }
     },
     "reviewed": false
@@ -4719,6 +5003,26 @@
         "on": "2026-09-28",
         "by": "Schnitzel"
       }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "dominos-pizza-inc-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "dominos-pizza-inc"
+    ],
+    "text": "Domino's Pizza, Inc. is a US franchisor listed on NASDAQ: per its fiscal-2025 Form 10-K, it is primarily a franchisor with approximately 99% of Domino's global stores owned and operated by independent franchisees as of 28 December 2025; internationally it generally grants geographical rights to the brand to master franchisees.",
+    "source": {
+      "name": "Domino's Pizza, Inc.: Form 10-K for the fiscal year ended December 28, 2025",
+      "date": "2026-02-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312526062321/dpz-20251228.htm",
+      "quote": "We are primarily a franchisor, with approximately 99% of Domino’s global stores owned and operated by our independent franchisees as of December 28, 2025.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same 10-K, International franchise segment: 'In our international markets, we generally grant geographical rights to the Domino’s Pizza ® brand to master franchisees.' The 10-K does not name the Portuguese master franchisee."
     },
     "reviewed": false
   },
@@ -5366,6 +5670,25 @@
     "reviewed": false
   },
   {
+    "id": "enif-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "enif"
+    ],
+    "text": "Enif is an outdoor-advertising company founded in 1986, with its address in Louro, Vila Nova de Famalicão.",
+    "source": {
+      "name": "ENIF | Comunicação & Publicidade (homepage, Sobre nós)",
+      "date": "2026",
+      "url": "https://www.enif.pt/",
+      "quote": "A Enif nasceu em 1986 como forma de colmatar uma lacuna que existia na área da publicidade exterior na zona norte do país.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "enilive-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -5405,6 +5728,25 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "entain-plc-bwin-brand",
+    "kind": "ownership",
+    "ownerIds": [
+      "entain-plc"
+    ],
+    "text": "bwin is one of Entain plc's brands: the group's 2024 annual report describes Entain operating a market through its bwin and Party brands, and the same report lists wholly-owned bwin subsidiaries (bwin Holdings (Malta) Limited, bwin (Deutschland) Limited, bwin Poland S.A.) among its group companies.",
+    "source": {
+      "name": "Entain plc, Annual Report 2024 (Canada market review and list of group companies)",
+      "date": "2025-03",
+      "url": "https://www.entaingroup.com/AnnualReport2024/documents/Entain_Annual_Report_2024.pdf",
+      "quote": "Entain operates in Ontario through its bwin and Party brands, as well as Sports Interaction, a Canadian brand acquired by the Group in February 2022.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
     "reviewed": false
   },
   {
@@ -5935,6 +6277,51 @@
     ]
   },
   {
+    "id": "fidelidade-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "fidelidade",
+      "fosun"
+    ],
+    "text": "Luz Saúde has more than 30 health units in Portugal, including Hospital da Luz. Macquarie Asset Management's European Infrastructure Fund 7 agreed in September 2025 to buy 40% of Luz Saúde from Fidelidade, which keeps 60%. Fidelidade's shareholders page lists Fosun Group (through Millennium Gain Limited) with 84.9892%, a Chinese private conglomerate listed as Fosun International Limited in Hong Kong, and Caixa Geral de Depósitos (CGD), a bank owned by the Portuguese State, with 15%.",
+    "short": "Hospital da Luz is Luz Saúde's (60% Fidelidade); Fidelidade is 84.9892% Fosun Group and 15% state-owned CGD.",
+    "source": {
+      "name": "Fidelidade: Shareholders",
+      "date": "2026",
+      "url": "https://www.fidelidade.pt/EN/fidelidade/investor-relations/financial-information/Paginas/Shareholders.aspx",
+      "quote": "Fosun Group (through Millennium Gain Limited): 84.9892% Fosun Group is one of the largest Chinese private conglomerates with an international presence and is listed (Fosun International Limited) on the Hong Kong stock exchange.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same page: 'Caixa Geral de Depósitos (“CGD”): 15% CGD is a bank owned by the Portuguese State.'"
+    },
+    "additionalSources": [
+      {
+        "name": "Macquarie: Macquarie Asset Management to acquire Luz Saúde stake",
+        "date": "2025-09-05",
+        "url": "https://www.macquarie.com/us/en/about/news/2025/macquarie-asset-management-to-acquire-luz-saude-stake.html",
+        "quote": "The stake will be acquired from Fidelidade, the leading insurance company in Portugal, who will retain a 60 per cent stake in the company.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Same page: 'Macquarie Asset Management, via Macquarie European Infrastructure Fund 7, has reached an agreement to acquire a 40 per cent stake in Luz Saúde'."
+      },
+      {
+        "name": "RTP: Seguradora Fidelidade vende 40% da Luz Saúde ao grupo australiano Macquarie",
+        "date": "2025-09-05",
+        "url": "https://www.rtp.pt/noticias/economia/seguradora-fidelidade-vende-40-da-luz-saude-ao-grupo-australiano-macquarie_n1681490",
+        "quote": "A Luz Saúde detém em Portugal mais de 30 unidades de saúde, incluindo o Hospital da Luz.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "fifth-third-bank-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -6109,6 +6496,27 @@
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
       }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "fosun-international-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "fosun"
+    ],
+    "text": "Fosun International's 2026 interim report lists Fosun Holdings and its parent Fosun International Holdings as its substantial shareholders at 30 June 2026, with 72.78% of the shares; Fosun International Holdings was owned 85.29% by Guo Guangchang and 14.71% by Wang Qunbin. Apart from its directors' own interests, the company says it had not been notified of any other interest that has to be disclosed.",
+    "short": "Fosun International is 72.78% held by Guo Guangchang's and Wang Qunbin's Fosun International Holdings.",
+    "source": {
+      "name": "Fosun International Limited: Interim Report 2026",
+      "date": "2026-09",
+      "url": "https://ir.fosun.com/media/ar5l4o5p/hkex-eps_20260922_12341104_0.pdf",
+      "quote": "Fosun International Holdings was owned as to 85.29% and 14.71% by Messrs. Guo Guangchang and Wang Qunbin, respectively.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Substantial Shareholders section: 'Fosun Holdings ... Fosun International Holdings 5,921,160,734 72.78%'. Fosun's company profile (https://en.fosun.com/about/company.html): 'In 2007, Fosun International Limited was listed on the main board of the Hong Kong Stock Exchange (stock code: 00656.HK).'"
     },
     "reviewed": false
   },
@@ -7467,6 +7875,27 @@
         }
       }
     ]
+  },
+  {
+    "id": "heineken-nv-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "heineken-nv"
+    ],
+    "text": "Heineken N.V. is listed on Euronext Amsterdam. Its corporate governance statement (Annual Report 2023) lists one substantial shareholding notified to the Dutch financial markets authority: Mrs. C.L. de Carvalho-Heineken holds indirectly 50.005% of its issued share capital, through the direct 50.005% shareholder Heineken Holding N.V.",
+    "short": "Heineken N.V. is 50.005% held by Heineken Holding N.V., indirectly Mrs. C.L. de Carvalho-Heineken's.",
+    "source": {
+      "name": "Heineken N.V.: Corporate Governance statement (Annual Report 2023)",
+      "date": "2024",
+      "url": "https://www.theheinekencompany.com/sites/heineken-corp/files/Downloads/2024-04/heineken-n-v-corporate-governance-statement.pdf",
+      "quote": "Mrs. C.L. de Carvalho-Heineken (holds indirectly 50.005% of the issued share capital of the Company; the direct 50.005% shareholder is Heineken Holding N.V.)",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same statement: 'Its shares are listed on the Amsterdam Stock Exchange, Euronext Amsterdam.' It also says FEMSA sold its shares in the Company and Heineken Holding N.V. in February and May 2023."
+    },
+    "reviewed": false
   },
   {
     "id": "hellowork-telegramme-ownership",
@@ -9559,6 +9988,71 @@
     "reviewed": false
   },
   {
+    "id": "lus-iadas-vivalto-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "vivalto-sante"
+    ],
+    "text": "Lusíadas is the brand of Grupo Lusíadas Saúde, which joined the French group Vivalto Santé at the end of 2022. Vivalto Partners, the management company set up in 2021 by Vivalto Santé's founder and CEO Daniel Caille, is Vivalto Santé's controlling shareholder, alongside the institutional investors IK Partners, MACSF, Bpifrance, Mubadala, Arkéa Capital, Groupe Crédit Agricole and BNPP.",
+    "short": "Lusíadas belongs to Grupo Lusíadas Saúde, part of France's Vivalto Santé since 2022.",
+    "source": {
+      "name": "Lusíadas Saúde: Grupo Lusíadas Saúde",
+      "date": "2026",
+      "url": "https://www.lusiadas.pt/grupo-lusiadas-saude",
+      "quote": "A Lusíadas Saúde passa a integrar, no final de 2022, o grupo francês Vivalto Santé",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Vivalto Santé: Modèle fondateur de Vivalto Santé - Engagement et vision",
+        "date": "2026",
+        "url": "https://www.vivalto-sante.fr/un-groupe-engage/le-groupe-en-france/modele-fondateur/",
+        "quote": "Vivalto Partners, société de gestion créée en 2021 par Daniel Caille, le PDG fondateur de Vivalto Santé, est l’actionnaire contrôlant de Vivalto Santé",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Same page lists institutional investors (IK Partners, MACSF, Bpifrance, Mubadala, Arkéa Capital, Groupe Crédit Agricole, BNPP) and more than 1,200 doctor shareholders."
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "luz-saude-fidelidade-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "fidelidade"
+    ],
+    "text": "Fidelidade's brands page lists Luz Saúde among its group brands, one of the main private health-care groups in Portugal. Fidelidade concluded the sale of 40% of Luz Saúde to Macquarie Asset Management, via MEIF 7 MED BIDCO, S.A., on 29 January 2026, keeping a controlling position.",
+    "source": {
+      "name": "Fidelidade: Marcas do Grupo",
+      "date": "2026",
+      "url": "https://www.fidelidade.pt/PT/a-fidelidade/NossaMarca/marca/Paginas/Marcas-do-grupo.aspx",
+      "quote": "Luz Saúde Um dos principais grupos de prestação de cuidados de saúde privados em Portugal, com uma rede de hospitais e clínicas.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "ECO: Fidelidade confirmou venda de 40% da Luz Saúde à Macquarie",
+        "date": "2026-01-29",
+        "url": "https://eco.sapo.pt/2026/01/29/fidelidade-confirmou-venda-de-40-da-luz-saude-a-macquarie/",
+        "quote": "A Fidelidade concluiu esta quinta-feira a venda de uma participação de 40% no capital da Luz Saúde ao Grupo Macquarie Asset Management via MEIF 7 MED BIDCO, S.A., após a verificação de todas as condições definidas para o efeito, designadamente de caráter regulatório, comunicou a seguradora.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Same article: 'a conclusão da operação confirma a entrada do grupo australiano na estrutura acionista da Luz Saúde, com a Fidelidade “a manter uma posição de controlo'."
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "lvcva-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -10258,6 +10752,25 @@
       "name": "COFCO Corporation - About COFCO",
       "date": "2025",
       "url": "https://www.cofco.com/en/AboutCOFCO/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "mercainox-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "mercainox"
+    ],
+    "text": "Mercainox, whose site is run by Mercainox – Componentes Industriais, Lda., sells stainless-steel products and says it has 22 years of experience in the stainless-steel market.",
+    "source": {
+      "name": "Mercainox - aço inoxidável: Sobre nós",
+      "date": "2026",
+      "url": "https://mercainox.pt/sobre-nos/",
+      "quote": "Com 22 anos de experiência no mercado do aço inox, a Mercainox é já uma referência nacional e internacional.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
     },
     "reviewed": false
   },
@@ -12898,6 +13411,26 @@
     "reviewed": false
   },
   {
+    "id": "quinta-de-lemos-family-estate",
+    "kind": "ownership",
+    "ownerIds": [
+      "quinta-de-lemos"
+    ],
+    "text": "Quinta de Lemos's own page says the Lemos family believes it created one of the first high-quality Dão wines, using only native grape varieties.",
+    "short": "Quinta de Lemos's own page credits the Lemos family with its Dão wines.",
+    "source": {
+      "name": "Quinta de Lemos, A Quinta de Lemos (about page)",
+      "date": "2026-09-28",
+      "url": "https://www.quintadelemos.com/quinta-de-lemos/",
+      "quote": "Em homenagem à sua região, a família Lemos acredita ter criado um dos primeiros vinhos do Dão de alta qualidade",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "quooker-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -13665,6 +14198,48 @@
     "reviewed": false
   },
   {
+    "id": "sabseg-sa-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "sabseg"
+    ],
+    "text": "SABSEG is SABSEG - Corretor de Seguros, S.A. (Lisbon, NIF 500 906 181). Grupo SABSEG says it was founded in late 1999 by four entrepreneurs and that its capital is 100% Portuguese.",
+    "short": "SABSEG is SABSEG - Corretor de Seguros, S.A. (Lisbon).",
+    "source": {
+      "name": "SABSEG: Informação Legal",
+      "date": "2026",
+      "url": "https://www.sabseg.com/sabseg/informacao-legal/",
+      "quote": "SABSEG – CORRETOR DE SEGUROS, S.A. com sede social na Avenida Almirante Gago Coutinho, 164 1700-033 Lisboa, Nif 500 906 181",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "SABSEG: História",
+        "date": "2026",
+        "url": "https://www.sabseg.com/sabseg/historia/",
+        "quote": "O Grupo SABSEG, nasceu em finais de 1999, através da união de quatro empreendedores, conhecedores do mercado regional",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      },
+      {
+        "name": "SABSEG: História",
+        "date": "2026",
+        "url": "https://www.sabseg.com/sabseg/historia/",
+        "quote": "Atualmente, conta com mais de 25 anos de experiência no mercado segurador, com capital cem por cento português",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "saic-group-state-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -13770,7 +14345,7 @@
     "text": "Santa Casa da Misericordia de Lisboa operates Portugal's social games 'on behalf and on account of the State' under an exclusive regime; its Jogos Santa Casa arm runs the Placard betting brand ('O Placard, produto dos Jogos Santa Casa'), whose online licence (013) is held by SAS Apostas Sociais, Jogos e Apostas Online, S.A.",
     "short": "Placard is a product of Jogos Santa Casa, which operates Portugal's games on behalf of the State",
     "source": {
-      "name": "Santa Casa da Misericordia de Lisboa (scml.pt Jogos Santa Casa page and news) + SRIJ licensed-entities register",
+      "name": "Santa Casa da Misericórdia de Lisboa: Placard dá nome à Supertaça Cândido de Oliveira",
       "date": "2026-07-20",
       "url": "https://scml.pt/comunicacao/noticias/placard-da-nome-a-supertaca-candido-de-oliveira/",
       "quote": "O Placard, produto dos Jogos Santa Casa, é o novo patrocinador principal da Supertaça Cândido de Oliveira.",
@@ -13779,7 +14354,30 @@
         "by": "claude-review-282"
       }
     },
-    "reviewed": false
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Santa Casa da Misericórdia de Lisboa: Jogos Santa Casa",
+        "date": "2026",
+        "url": "https://scml.pt/jogos-santa-casa/",
+        "quote": "A Santa Casa é responsável pela exploração dos jogos sociais no país, em nome e por conta do Estado, em regime de exclusividade.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      },
+      {
+        "name": "SRIJ: Entidades licenciadas",
+        "date": "2026",
+        "url": "https://www.srij.turismodeportugal.pt/pt/jogos-e-apostas-online/entidades-licenciadas",
+        "quote": "Placard.pt Marca: Placard.pt Website: www.placard.pt Entidade exploradora: SAS APOSTAS SOCIAIS, JOGOS E APOSTAS ONLINE, S.A.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        },
+        "note": "Same entry: 'Licença 013 - Apostas desportivas à cota'."
+      }
+    ]
   },
   {
     "id": "sap-se-record",
@@ -13984,6 +14582,38 @@
         "by": "claude-review-282"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "scc-heineken-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "sociedade-central-cervejas"
+    ],
+    "text": "Sociedade Central de Cervejas e Bebidas (SCC), the brewer of the Sagres brand, was acquired by the Heineken Group in April 2008, which took 100% control of the company following the purchase of Scottish and Newcastle.",
+    "short": "SCC (Sagres) is 100% owned by Heineken since 2008.",
+    "source": {
+      "name": "Sociedade Central de Cervejas, 'Estrutura Orgânica' (corporate site)",
+      "date": "2026",
+      "url": "https://www.centralcervejas.pt/pt/sobre-nos/estrutura-organica/",
+      "quote": "O Grupo SCC foi adquirido, em Abril de 2008, pelo Grupo HEINEKEN, grupo cervejeiro líder europeu e uma das maiores empresas do Mundo, que passou a deter o controlo a 100% da empresa.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Sociedade Central de Cervejas, 'About us / SCC' (corporate site, English)",
+        "date": "2026",
+        "url": "https://www.centralcervejas.pt/en/about-us/scc/",
+        "quote": "Heineken took over the control of Sociedade Central de Cervejas e Bebidas (SCC) on April 29, 2008.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -14476,6 +15106,25 @@
     "reviewed": false
   },
   {
+    "id": "silogia-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "silogia"
+    ],
+    "text": "Silogia is a Portuguese company founded in 2004, the fruit of experience gained in the office market over several years.",
+    "source": {
+      "name": "Silogia: Sobre Nós",
+      "date": "2026",
+      "url": "https://silogia.pt/sobre-nos/",
+      "quote": "Fundada em 2004, a Silogia é fruto da experiência adquirida no mercado de escritórios ao longo de vários anos.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "kind": "ownership",
     "id": "sim-travail-temporaire-record",
     "ownerIds": [
@@ -14646,6 +15295,27 @@
     "reviewed": false
   },
   {
+    "id": "skita-sportwear-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "skita-sportwear"
+    ],
+    "text": "Skita presents itself as 'Skita Sportwear équipementier sportif', a sports-kit maker for training and competition; its site gives an address in Orly and is published by SKITA SPORT (RCS Créteil 510 664 881).",
+    "short": "Skita Sportwear (SKITA SPORT, Orly) is a sports-kit maker.",
+    "source": {
+      "name": "Skita - Equipementier sportif (homepage)",
+      "date": "2026",
+      "url": "https://www.skita.fr/",
+      "quote": "Skita Sportwear équipementier sportif SKITA vous accompagne à l’entrainement et dans la compétition",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Same site, Mentions légales (https://www.skita.fr/mentions-legales): 'Le site https://www.skita.fr est édité par SKITA SPORT Immatriculé au RCS de Créteil sous le numéro 510 664 881'. skita.fr resolves to 0.0.0.0 on some resolvers; it answers at 83.166.138.63."
+    },
+    "reviewed": false
+  },
+  {
     "id": "skoda-vw-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -14763,6 +15433,80 @@
         "by": "Schnitzel"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "soleo-rp-industries-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "r-p-industries"
+    ],
+    "text": "Soleo is a swimming-pool brand of R.P. Industries, S.A., a pool maker founded in 1994 with its head office in the Sobreposta industrial park, Braga.",
+    "short": "Soleo is the pool brand of R.P. Industries, S.A. (Braga).",
+    "source": {
+      "name": "Empresas de Piscinas SOLEO | RP Industries Piscinas",
+      "date": "2026",
+      "url": "https://www.rppiscinas.com/pt/empresas-de-piscinas/",
+      "quote": "é com a gama SOLEO que a RP INDUSTRIES usufrui de um protagonismo singular no mercado global de empresas de piscinas",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "The site's certificate chain is incomplete (the server doesn't send the Let's Encrypt intermediate), so scripts fail TLS verification; the page was read with verification off on 2026-09-28. The same page says 'Criada em 1994' and gives the head office as Parque Industrial de Sobreposta, Braga; its privacy text names R.P. Industries, S.A."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "solverde-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "solverde"
+    ],
+    "text": "Solverde, S.A.'s 2025 annual report states that its share capital is 6,000,000 shares and that its parent company, Violas - Empresa Gestora de Participações Sociais, S.A., holds 5,619,964 of them, 93.67% of the capital; the other 380,036 (6.33%) are the company's own shares. The report's related-parties note says Solverde is 93.67% held by Violas, S.G.P.S., S.A., based in Espinho.",
+    "short": "Solverde is 93.67% held by Violas SGPS; the other 6.33% are its own shares.",
+    "source": {
+      "name": "Solverde, S.A.: Relatório & Contas 2025",
+      "date": "2026",
+      "url": "https://gruposolverde.pt/uploads/2026/08/21/Relatorio-Contas-Solverde-2025.pdf",
+      "quote": "A Empresa-Mãe, Violas - Empresa Gestora de Participações Sociais, S.A., detém 5.619.964 ações, a que corresponde 93,67% do capital, sendo as restantes 380.036 (6,33%) ações próprias.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "Scanned PDF without a text layer: the quote was read from the page image (PDF page 78, note 15.1 Capital subscrito). Note 32 (Partes Relacionadas), PDF page 99: 'A Solverde é detida em 93,67% pela Violas, S.G.P.S., S.A. com sede na Rua dos Combatentes, 783, em Espinho.'"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "solverde-violas-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "solverde"
+    ],
+    "text": "Solverde.pt is run by Solverde - Sociedade de Investimentos Turísticos da Costa Verde, S.A., which operates online games and betting through www.solverde.pt. The Solverde group is wholly held by Violas SGPS, the family holding controlled in equal parts by the siblings Manuel and Rita Celeste.",
+    "short": "Grupo Solverde is wholly held by Violas SGPS, the Violas family holding.",
+    "source": {
+      "name": "ECO: Solverde promete “investimentos significativos” nos casinos após vencer concessões de Espinho e do Algarve",
+      "date": "2026-01-28",
+      "url": "https://eco.sapo.pt/2026/01/28/solverde-promete-investimentos-significativos-nos-casinos-apos-vencer-concessoes-de-espinho-e-do-algarve/",
+      "quote": "O grupo é detido integralmente pela Violas SGPS, a holding familiar controlada em partes iguais pelos irmãos Manuel e Rita Celeste",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Grupo Solverde: Hotéis e Casinos em Portugal (gruposolverde.pt, site footer)",
+        "date": "2026",
+        "url": "https://www.gruposolverde.pt/",
+        "quote": "A exploração de jogos e apostas online é exercida pela Solverde – Sociedade de Investimentos Turísticos da Costa Verde, S.A., através do sítio na Internet www.solverde.pt",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -15592,6 +16336,26 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "tek4life-sa-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "tek4life"
+    ],
+    "text": "Tek4life is TEK4LIFE, S.A., the company named in the tek4life.pt privacy policy, which gives its head office as Tek4life Group, Adaúfe, Braga (NIF 516 068 121).",
+    "short": "Tek4life is TEK4LIFE, S.A. (Braga).",
+    "source": {
+      "name": "Tek4life: Política de privacidade",
+      "date": "2026",
+      "url": "https://www.tek4life.pt/policies/privacy-policy",
+      "quote": "A TEK4LIFE, S.A. (doravante TEK4LIFE) está sujeita à legislação sobre proteção de dados pessoais",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
       }
     },
     "reviewed": false
@@ -16728,6 +17492,61 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "visabeira-ncfgest-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "grupo-visabeira",
+      "ncfgest",
+      "fernando-campos-nunes"
+    ],
+    "text": "Grupo Visabeira consolidates its accounts in the entity NCFGest, SA, its majority shareholder, which is held 100% by Fernando Campos Nunes; the notes also state the ultimate majority shareholder held 98.57% of Grupo Visabeira indirectly at the end of 2024 and 2025.",
+    "short": "Fernando Campos Nunes holds 98.57% of Grupo Visabeira via NCFGest.",
+    "source": {
+      "name": "Grupo Visabeira, Relatório & Contas 2025 (p. 89)",
+      "date": "2026-04-30",
+      "url": "https://grupovisabeira.com/assets/RC2025-GV.pdf",
+      "quote": "O Grupo Visabeira consolida as suas contas na entidade NCFGest, SA, acionista maioritária e detida a 100% por Fernando Campos Nunes.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      },
+      "note": "10.9 MB PDF: check_sources.py reads only the first 8 MB. Read in full with pypdf (strict=False) on 2026-09-28: the quote is on PDF page 89; note 31.1 (PDF page 126) gives the 98.57% held indirectly at the end of 2024 and 2025."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Martifer SGPS: Martifer Group informs about qualified holdings (6 August 2025)",
+        "date": "2025-08-06",
+        "url": "https://martifer.com/multimedia/martifer/en/bR9lgujc8S-an_20250806a.pdf",
+        "quote": "NCFGEST, S.A., which holds 98.57% of the share capital and voting rights of Grupo Visabeira, S.A.; and c) to Fernando Campos Nunes, the company referred to in b) being wholly owned by this individual shareholder.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ]
+  },
+  {
+    "id": "visipapel-founded-1988",
+    "kind": "ownership",
+    "ownerIds": [
+      "visipapel"
+    ],
+    "text": "Visipapel, Lda. was founded in 1988 and is based in Viseu, according to its own about page.",
+    "short": "Visipapel, Lda. was founded in 1988 in Viseu.",
+    "source": {
+      "name": "Visipapel, A Visipapel (about page)",
+      "date": "2026-09-28",
+      "url": "https://www.visipapel.pt/a-visipapel/",
+      "quote": "A Visipapel, Lda. foi fundada em 1988 e está sediada em Viseu",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
       }
     },
     "reviewed": false
