@@ -212,6 +212,14 @@
     "note": "Ukraine's wealthiest businessman; founder and sole shareholder of SCM (System Capital Management), president of FC Shakhtar. Personal (family) ownership, treated as a private owner, not a state."
   },
   {
+    "id": "al-salam-bank-bsc",
+    "name": "Al Salam Bank B.S.C.",
+    "type": "listed-company",
+    "country": "Bahrain",
+    "parentId": null,
+    "note": "Public bank listed on Bahrain Bourse. Major shareholders at 31 December 2025: Bank Muscat S.A.O.G. 14.74%, Muscat Overseas Company L.L.C. 8.43%, Sayacorp B.S.C. Closed 6.28% (annual report 2025)."
+  },
+  {
     "id": "albaik-food-systems",
     "name": "ALBAIK Food Systems Company",
     "type": "private-company",
@@ -655,7 +663,7 @@
     "name": "Authentic Brands Group",
     "type": "private-company",
     "country": "United States",
-    "note": "Reebok is listed first in Authentic's brand portfolio (corporate.authentic.com/brand-portfolio, fetched 2026-09-25).",
+    "note": "Reebok is listed first in Authentic's brand portfolio (corporate.authentic.com/brand-portfolio, fetched 2026-09-25). ABG's Shareholders & Leadership page (opened 2026-09-29) names no percentages and displays shareholder logos including GIC, Temasek and Qatar Investment Authority; the listed board has no seat for those funds.",
     "parentId": null
   },
   {
@@ -761,6 +769,14 @@
     "parentId": null,
     "country": "Denmark",
     "note": "Listed on Nasdaq Copenhagen (XCSE: BO). Annual report 2025/26: Dyvig Holdings A/S and New Sparkle Roll International Group Limited each hold more than 10%; Arbejdsmarkedets Tillægspension (ATP) and Chr. Augustinus Fabrikker more than 5%."
+  },
+  {
+    "id": "bank-muscat",
+    "name": "Bank Muscat S.A.O.G.",
+    "type": "listed-company",
+    "country": "Oman",
+    "parentId": null,
+    "note": "Omani bank. Shareholders at 31 December 2025 (Shareholders Booklet 2025): Royal Court Affairs 27.31%, Ominvest Group 15.00%, Muscat Overseas Group 5.63%, Social Protection Fund 4.99%, Pension Funds Trust Accounts 19.55%, others 27.52%. Holds 14.74% of Al Salam Bank."
   },
   {
     "id": "bank-of-america",
@@ -1049,6 +1065,14 @@
     "country": "NL",
     "parentId": null,
     "note": "Regional economic-development company (economische ontwikkelingsmaatschappij) behind the Brainport Eindhoven region brand. Its shareholders are five public authorities: Metropoolregio Eindhoven (on behalf of 21 municipalities in Southeast Brabant) and the municipalities of Eindhoven, Helmond, Veldhoven and Best. Regional and local Dutch government; governance also runs through Stichting Brainport, a triple-helix body of companies, knowledge institutions and governments chaired by Eindhoven's mayor."
+  },
+  {
+    "id": "brainvest",
+    "name": "Brainvest Wealth Management",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Switzerland",
+    "note": "Wealth manager and multi-family office founded in 2003 by Dany Roizman, with offices in Switzerland, the US and Brazil. Owners not sourced."
   },
   {
     "id": "brasserie-lancelot",
@@ -1909,6 +1933,14 @@
     "note": "Private sleep-technology company; venture-backed (per the Aston Martin Aramco partner page: 'the leading sleep technology company in the world')."
   },
   {
+    "id": "ekoi",
+    "name": "Ekoï",
+    "type": "private-company",
+    "parentId": null,
+    "country": "France",
+    "note": "French cycling-equipment company (JCR Ekoï) founded in 2001 by Jean-Christophe Rattel, based in Fréjus since 2008; owned 100% by Rattel since he bought out Amundi, Sofipaca and Jean-Fabrice Mathieu in 2019."
+  },
+  {
     "id": "ekoniva",
     "name": "Ekoniva",
     "type": "private-company",
@@ -2097,6 +2129,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "fantini-group",
+    "name": "Fantini Group",
+    "type": "private-company",
+    "parentId": "platinum-equity",
+    "country": "Italy",
+    "note": "Wine producer and exporter of Ortona, Abruzzo (Fantini Wines, Cantina Fantini); acquired by Platinum Equity from NB Renaissance Partners in March 2020."
   },
   {
     "id": "fbi",
@@ -2622,6 +2662,14 @@
     "country": "Germany",
     "note": "Stuttgart company for energy consulting and building renovation, founded 2023 (VfB Stuttgart announcement, 28 Aug 2026); Amtsgericht Stuttgart HRB 788621. Named shareholders: Maximilian Seifert (managing director) and Christoph Brechtel. greenox-group.de",
     "parentId": null
+  },
+  {
+    "id": "grimaldi-industri",
+    "name": "Grimaldi Industri AB",
+    "type": "private-company",
+    "country": "Sweden",
+    "parentId": null,
+    "note": "Swedish holding company owned by Salvatore Grimaldi (BikeBiz, 2000); its bicycle division Cycleurope AB includes Bianchi (F.I.V. Edoardo Bianchi SpA)."
   },
   {
     "id": "groq-inc",
@@ -3773,6 +3821,14 @@
     "country": "USA"
   },
   {
+    "id": "m-santos-centro-de-reciclagem-da-amadora-lda",
+    "name": "M. Santos - Centro de Reciclagem da Amadora, Lda",
+    "type": "private-company",
+    "country": "Portugal",
+    "note": "Amadora vehicle-recycling firm (NIF 513037624) behind the Centro de Reciclagem da Amadora brand. Ownership not disclosed in the sources checked.",
+    "parentId": null
+  },
+  {
     "id": "macron-spa",
     "name": "Macron S.p.A.",
     "type": "private-company",
@@ -3831,6 +3887,14 @@
     "parentId": null,
     "note": "jersey patch partner of cleveland-guardians (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "marcoscar-sa",
+    "name": "Marcoscar, S.A.",
+    "type": "private-company",
+    "country": "Portugal",
+    "note": "Car dealer group of Barreiro (NIF 508842778); the Marcos Car brand on the Estrela shirt. Ownership not disclosed in the sources checked.",
+    "parentId": null
   },
   {
     "id": "marex-group-plc",
@@ -4240,7 +4304,8 @@
     "name": "Bahrain Mumtalakat Holding Company",
     "type": "state-fund",
     "country": "Bahrain",
-    "parentId": "mclaren-group"
+    "parentId": "government-of-bahrain",
+    "note": "Bahrain's sovereign wealth fund, established by royal decree in 2006; wholly owned by the Government of Bahrain."
   },
   {
     "id": "murprotec-sa",
@@ -4476,6 +4541,14 @@
     "note": "SASU (single-shareholder company, SIREN 432 505 741, RCS Troyes); the register's beneficial-ownership data is restricted, so the shareholder is not named in any source we could open."
   },
   {
+    "id": "norgesgruppen",
+    "name": "NorgesGruppen ASA",
+    "type": "private-company",
+    "country": "Norway",
+    "note": "Norway's largest grocery group (KIWI, Meny, Joker, Spar); 74% of shares controlled by the Johannson family (Nettavisen, 2025-03-19).",
+    "parentId": null
+  },
+  {
     "id": "northmark-strategies",
     "name": "NorthMark Strategies",
     "type": "private-company",
@@ -4530,6 +4603,14 @@
     "parentId": null,
     "note": "arena naming-rights holder of houston-texans (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "nsn-never-say-never",
+    "name": "NSN (Never Say Never)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain",
+    "note": "Barcelona-based sports and entertainment company co-founded by Andrés Iniesta, one of its main shareholders; president and founder Joel Borràs. Stoneweg became a shareholder in November 2025 (stake not disclosed)."
   },
   {
     "id": "nu-holdings",
@@ -4760,6 +4841,13 @@
     "country": "US"
   },
   {
+    "id": "peace-park-capital",
+    "name": "Peace Park Capital Ltd",
+    "type": "private-company",
+    "parentId": null,
+    "note": "Collateralized loan obligation (CLO) investment firm; its team page lists Ron Baron, founder, executive director and CIO of Livermore Investments Group. Owners not sourced."
+  },
+  {
     "id": "pentland-group",
     "name": "Pentland Group plc",
     "type": "private-company",
@@ -4837,6 +4925,14 @@
     "type": "private-company",
     "country": "Italy",
     "parentId": "ferrari-nv"
+  },
+  {
+    "id": "platinum-equity",
+    "name": "Platinum Equity",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United States",
+    "note": "Beverly Hills-based private equity firm; acquired the Fantini Group in March 2020."
   },
   {
     "id": "plenitude-eni",
@@ -5198,6 +5294,14 @@
     "name": "Renault Group",
     "type": "listed-company",
     "country": "France",
+    "parentId": null
+  },
+  {
+    "id": "resposta-exemplar-mediacao-imobiliaria-lda",
+    "name": "Resposta Exemplar - Mediação Imobiliária, Lda",
+    "type": "private-company",
+    "country": "Portugal",
+    "note": "Paço de Arcos estate agency (NIF 510564658) that operates the RE/MAX Yes franchise. Ownership not disclosed in the sources checked.",
     "parentId": null
   },
   {
@@ -5833,6 +5937,14 @@
     "note": "SoftConstruct's leadership page lists Vahe and Vigen Badalyan as co-founders and a Head of VBET Group; UK filings for VBET SPORTS LIMITED name the two brothers as persons with significant control (each more than 25% but not more than 50%)."
   },
   {
+    "id": "solfaestofo-lda",
+    "name": "Solfaestofo, Lda",
+    "type": "private-company",
+    "country": "Portugal",
+    "note": "Upholstery manufacturer of Cernache do Bonjardim, Sertã (NIF 502759330). Ownership not disclosed in the sources checked.",
+    "parentId": null
+  },
+  {
     "id": "solverde",
     "name": "Grupo Solverde (Solverde - Sociedade de Investimentos Turisticos da Costa Verde)",
     "type": "private-company",
@@ -5876,7 +5988,7 @@
     "name": "Southern Stingray, S.A.",
     "type": "private-company",
     "country": "Portugal",
-    "note": "SRIJ-licensed Portuguese operating entity of the Lebull online betting brand (licences 027/028). Ownership not disclosed in sources checked.",
+    "note": "SRIJ-licensed Portuguese operating entity of the Lebull online betting brand (licences 027/028, Lisbon, NIF 515539988). Ownership not disclosed in the sources checked.",
     "parentId": null
   },
   {
@@ -6131,6 +6243,14 @@
     "type": "listed-company",
     "parentId": null,
     "country": "JP"
+  },
+  {
+    "id": "swi-group",
+    "name": "SWI Group (SWI Capital Holding)",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "SWI Capital Holding Ltd, a Singapore holding company, listed on Euronext Amsterdam (SWICH) from 19 February 2026. Its prospectus (16 Feb 2026): Max-Hervé George ultimately holds 95.242% of the voting rights; the group holds 80.26% of Stoneweg S.A. (fully diluted) since October 2025.",
+    "country": "Singapore"
   },
   {
     "id": "t-mobile-owner",
@@ -6861,6 +6981,14 @@
     "parentId": null,
     "note": "jersey patch partner of colorado-rockies (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "youngone-corporation",
+    "name": "Youngone Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "South Korea",
+    "note": "Seoul-listed outdoor apparel and footwear manufacturer with factories in Korea, Bangladesh, China, Vietnam and Thailand; controls Scott Sports SA (~97% after a February 2025 ICC arbitration ruling) and is majority owner of Outdoor Research."
   },
   {
     "id": "zcg",

@@ -684,14 +684,17 @@
   {
     "id": "al-salam-bank",
     "name": "Al Salam Bank",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "al-salam-bank-bsc",
+    "ownership": "owned",
     "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "status": "being-rated",
+    "verdict": "A Bahrain-listed bank whose largest shareholder is Bank Muscat (14.74%), in which Oman's Royal Court Affairs holds 27.31%; Bank Muscat's chairman chairs Al Salam Bank.",
+    "claimIds": [
+      "al-salam-bank-shareholdings",
+      "bank-muscat-shareholders"
+    ],
     "aliases": [],
-    "note": "Bahraini bank."
+    "note": "Rating note: on hold for a maintainer. Oman's stake along the chain: Royal Court Affairs 27.31% x 14.74% = 4.03%; with the Social Protection Fund (4.99%) 32.30% x 14.74% = 4.76%; if the Pension Funds Trust Accounts (19.55%) are state funds, 51.85% x 14.74% = 7.64%, and Omani state bodies would then hold a majority of Bank Muscat. Board: Al Salam's chairman Shaikh Khalid bin Mustahail Al Mashani chairs Bank Muscat, where he is listed as an independent, non-shareholder director (not a state official in the sources); Bank Muscat's deputy chairman is the Royal Court Affairs' Director General of Audit. Oman's record is recorded in oman-hrw-record-2021 (HRW, 2021). Muscat Overseas (8.43%) and Sayacorp (6.28%) owners aren't sourced."
   },
   {
     "id": "al-shaqab",
@@ -709,15 +712,18 @@
     "id": "alba",
     "name": "Alba (Aluminium Bahrain)",
     "ownerId": "mumtalakat",
-    "ownership": "part-owned",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "alba-mumtalakat-majority",
+      "wec-bapco-bahrain-record"
+    ],
     "aliases": [
       "aluminium bahrain"
     ],
-    "note": "Aluminium producer; Bahraini state funds hold a stake."
+    "note": "Aluminium smelter. Mumtalakat holds 69.38% and Saudi Arabia's Ma'aden 20.62% (Alba, AGBI)."
   },
   {
     "id": "albaik",
@@ -1954,11 +1960,14 @@
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "bahrain-edb-government-agency",
+      "wec-bapco-bahrain-record"
+    ],
     "aliases": [
       "bahrain edb"
     ],
-    "note": "Bahraini state investment promotion agency; long-running backer of the team."
+    "note": "Bahraini state investment promotion agency, chaired by the Crown Prince; long-running backer of the team."
   },
   {
     "id": "bahrain-gsa",
@@ -2143,11 +2152,15 @@
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
-    "aliases": [
-      "bapco"
+    "claimIds": [
+      "bapco-energies-government-owned",
+      "wec-bapco-bahrain-record"
     ],
-    "note": "Bahrain national oil and gas company."
+    "aliases": [
+      "bapco",
+      "nogaholding"
+    ],
+    "note": "Bahrain's national energy holding company, fully owned by the Bahraini government; its chairman is His Highness Shaikh Nasser bin Hamad Al Khalifa (Bapco Energies, About us), who founded the team in 2016 (team About page)."
   },
   {
     "id": "baptist-health",
@@ -2477,11 +2490,14 @@
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "beyon-government-shareholding",
+      "wec-bapco-bahrain-record"
+    ],
     "aliases": [
       "batelco"
     ],
-    "note": "Bahraini telecoms group (formerly Batelco); majority state-linked."
+    "note": "Bahraini telecoms group (formerly Batelco). Its 2025 annual report lists Mumtalakat (36.67%) and the Social Insurance Organization (20.31%) as 'Government' shareholders, 56.98% together; several directors are appointed by Mumtalakat."
   },
   {
     "id": "beyond-developments",
@@ -2518,6 +2534,20 @@
   {
     "id": "bianchi",
     "name": "Bianchi",
+    "ownerId": "grimaldi-industri",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Italian bicycle brand (F.I.V. Edoardo Bianchi SpA) of Cycleurope AB, part of Salvatore Grimaldi's Swedish holding Grimaldi Industri AB. Nothing found.",
+    "claimIds": [
+      "bianchi-cycleurope-grimaldi-ownership"
+    ],
+    "aliases": [],
+    "note": "Bahrain Victorious bike supplier from 2026; its logo is on the chest and sleeves of the 2026 jersey. Rating note: Grimaldi Industri's owner is sourced to BikeBiz (2000); no state or state fund is sourced in the chain."
+  },
+  {
+    "id": "bikebotix",
+    "name": "BikeBotix",
     "ownerId": null,
     "ownership": null,
     "tier": "unrated",
@@ -2525,7 +2555,7 @@
     "verdict": null,
     "claimIds": [],
     "aliases": [],
-    "note": "Italian bicycle manufacturer; Bahrain Victorious bike supplier from 2026."
+    "note": "Listed as an official supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French wheelbuilding-machinery maker."
   },
   {
     "id": "bimbo",
@@ -2567,6 +2597,18 @@
       "bingx-record"
     ],
     "aliases": []
+  },
+  {
+    "id": "bioracer",
+    "name": "Bioracer",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an official supplier (fournisseur officiel) of Équipe cycliste Groupama-FDJ United on the club's partner page; Belgian technical-apparel maker, team kit supplier from 2026, replacing Alé Cycling."
   },
   {
     "id": "bishop",
@@ -2942,6 +2984,22 @@
     "note": "Rating note: Since 2019 the front of the PSV shirt has carried not a company name but the region brand 'Metropoolregio Brainport Eindhoven'; behind the one name stand seven premium partners (ASML, CSU, Jumbo, Philips, Royal Swinkels, VDL Groep and, since 2025, Rabobank). The operating company is owned by regional and local Dutch government, which on its own is not a rating; no sourced abuse record was found."
   },
   {
+    "id": "brainvest",
+    "name": "Brainvest Wealth Management",
+    "ownerId": "brainvest",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "brainvest-ownership"
+    ],
+    "aliases": [
+      "Brainvest"
+    ],
+    "note": "Sleeve/shoulder sponsor. Not rated yet: the claim names its founder, not its owners. Its US adviser's Form ADV (SEC) lists Brainvestor Inc, owned by Mont Rose Ltd, as its owner; who owns the group isn't sourced."
+  },
+  {
     "id": "brd-rwanda",
     "name": "Development Bank of Rwanda (BRD)",
     "ownerId": null,
@@ -3219,6 +3277,24 @@
     "aliases": []
   },
   {
+    "id": "cantina-fantini",
+    "name": "Cantina Fantini",
+    "ownerId": "fantini-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Wine brand of the Fantini Group of Ortona, Italy, owned by the US private-equity firm Platinum Equity since March 2020. Nothing found.",
+    "claimIds": [
+      "fantini-platinum-ownership"
+    ],
+    "aliases": [
+      "Cantini Fantini",
+      "Fantini Wines",
+      "Fantini Farnese"
+    ],
+    "note": "Jersey and shorts sponsor (the shirt reads CANTINA FANTINI; the team's partner page says 'Cantini Fantini'). Rating note: Platinum Equity is a private US firm; no state or state fund is sourced in the chain and no human-rights finding against the group was found."
+  },
+  {
     "id": "canyon",
     "name": "Canyon",
     "ownerId": null,
@@ -3469,6 +3545,22 @@
     "claimIds": [],
     "aliases": [],
     "note": "Al-Ahli back sponsor."
+  },
+  {
+    "id": "centro-de-reciclagem-da-amadora",
+    "name": "Centro de Reciclagem da Amadora",
+    "ownerId": "m-santos-centro-de-reciclagem-da-amadora-lda",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "cra-m-santos-ownership"
+    ],
+    "aliases": [
+      "cra"
+    ],
+    "note": "Amadora vehicle-recycling business (M. Santos - Centro de Reciclagem da Amadora, Lda), Estrela da Amadora's main sponsor in 2025-26. Not rated yet: who owns the company isn't sourced."
   },
   {
     "id": "century-21-groupe-martinot",
@@ -3981,6 +4073,18 @@
     "note": "Rating note: Koch's 16.81% is the notable structural fact; it is private capital, so no tier change. Koch does, however, have its own well-documented political and environmental record that may matter downstream in this dataset."
   },
   {
+    "id": "compressport",
+    "name": "Compressport",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as a supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). Swiss compression-apparel company."
+  },
+  {
     "id": "constell-group",
     "name": "Constell Group",
     "ownerId": null,
@@ -4008,6 +4112,18 @@
       "const. carlos pinho"
     ],
     "note": "Arouca construction company, FC Arouca's front-of-shirt sponsor for more than a decade until bwin took over in 2026-27. Who owns it isn't sourced, so it isn't rated yet."
+  },
+  {
+    "id": "continental",
+    "name": "Continental",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an official supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). Tyre supplier; brand of Continental AG."
   },
   {
     "id": "convoy-of-hope",
@@ -4190,6 +4306,18 @@
     "note": "Japanese card issuer; a top-tier Official Global Partner of the AFC (per Sportcal, 2026-05-06). The AFC-Credit Saison renewal announcement was not opened this run - the relationship is sourced only via the Sportcal tier listing."
   },
   {
+    "id": "cristaline",
+    "name": "Cristaline",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as a supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French bottled-water brand created by Pierre Papillaud (Sources Roxane)."
+  },
+  {
     "id": "crowdstrike",
     "name": "CrowdStrike",
     "ownerId": "crowdstrike",
@@ -4310,6 +4438,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Dubai-based but privately owned, not state-owned - so none. If the dataset later treats all Dubai-domiciled firms as state-linked this becomes the first to revisit."
+  },
+  {
+    "id": "danielo",
+    "name": "Danielo",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as a supporter of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires)."
   },
   {
     "id": "daou",
@@ -4749,6 +4889,18 @@
     "claimIds": [],
     "aliases": [],
     "note": "Owner of Diriyah Club."
+  },
+  {
+    "id": "districlos",
+    "name": "Districlos",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an official partner of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French fencing/fence retailer (cloture-discount.fr)."
   },
   {
     "id": "diverse-extreme-team",
@@ -5199,6 +5351,23 @@
     "note": "Rating note for maintainer: private, venture-backed US sleep-technology company; no state or state-fund owner found in this run."
   },
   {
+    "id": "ekoi",
+    "name": "Ekoï",
+    "ownerId": "ekoi",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "French cycling-equipment company of Fréjus, founded in 2001 by Jean-Christophe Rattel, who has owned all of it since buying out his minority investors in 2019. Nothing found.",
+    "claimIds": [
+      "ekoi-ownership"
+    ],
+    "aliases": [
+      "EKOÏ",
+      "Ekoi"
+    ],
+    "note": "Kit manufacturer and partner of the team (also supplies helmets and eyewear). Rating note: owned 100% by its founder since 2019 (Fusacq); no human-rights finding against the company found."
+  },
+  {
     "id": "ekoniva",
     "name": "Ekoniva",
     "ownerId": "ekoniva",
@@ -5288,6 +5457,18 @@
     "claimIds": [],
     "aliases": [],
     "note": "Rating note for maintainer: skincare brand, B Corp certified 2023 (team partner page: 'Official Skincare Partner'); ownership not stated on the partner page and not traced this run."
+  },
+  {
+    "id": "elite",
+    "name": "Elite",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an official supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). Italian cycling bottles/home-trainers maker."
   },
   {
     "id": "elkem",
@@ -5776,14 +5957,16 @@
     "name": "FDJ United",
     "ownerId": "french-state",
     "ownership": "part-owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "FDJ United (the former La Française des Jeux) is listed on Euronext Paris; the French State holds 21.09% and keeps close control under the PACTE law. Nothing found.",
+    "claimIds": [
+      "fdj-united-french-state-control"
+    ],
     "aliases": [
       "francaise des jeux"
     ],
-    "note": "French national lottery, privatised in 2019 but the French state remains the largest shareholder."
+    "note": "Rating note: gambling sponsor. The French State (21.09%, PACTE-law control rights) is a link under METHOD.md, but no record claim about France is cited in the dataset, so no rating above none is possible; consistent with FDJ-owned ZEturf and Unibet, rated none the same way. State ownership alone is not a tier (METHOD.md)."
   },
   {
     "id": "federation-royale-marocaine-de-basketball",
@@ -6822,6 +7005,18 @@
     "note": "The Saudi state as contracted host of domestic super cups: Supercopa de España (hosted editions through 2026-27 cycle; resumes 2028 and 2029) and Supercoppa Italiana (hosted editions from 2018 to the December 2025 final). Host fees not published."
   },
   {
+    "id": "gowod",
+    "name": "GOWOD",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as a supporter of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French mobility/stretching app."
+  },
+  {
     "id": "grand-class",
     "name": "Grand Class",
     "ownerId": "lopez-rubio-grand-class-sl",
@@ -7784,6 +7979,18 @@
     "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. ADIA is a minority shareholder of undisclosed size with no board seat; if a stake of 5% or more is published, it becomes concern."
   },
   {
+    "id": "igpsport",
+    "name": "iGPSPORT",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an official supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). Bike computer brand (Wuhan Qitai Sports, China)."
+  },
+  {
     "id": "ihc",
     "name": "IHC (International Holding Company)",
     "ownerId": "international-holding-company",
@@ -8279,6 +8486,18 @@
     "note": "Baby-gear brand; Manchester City Women's team partner since March 2023, and the women's team's stadium is named the Joie Stadium."
   },
   {
+    "id": "jolt",
+    "name": "JOLT",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as a supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). Added to the club's supplier page mid-2026 (logo file uploaded 2026-09); no public description on the page."
+  },
+  {
     "id": "joma",
     "name": "Joma",
     "ownerId": "joma-sport",
@@ -8354,6 +8573,18 @@
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
   },
   {
+    "id": "julbo",
+    "name": "Julbo",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an official partner of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French sports-eyewear brand."
+  },
+  {
     "id": "jumeirah",
     "name": "Jumeirah",
     "ownerId": null,
@@ -8376,6 +8607,18 @@
     "claimIds": [],
     "aliases": [],
     "note": "Danish wooden-flooring maker; FIBA Global Supplier. Ownership not checked in this pass."
+  },
+  {
+    "id": "jura",
+    "name": "Jura",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as a supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). Swiss coffee-machine brand."
   },
   {
     "id": "jussieu-secours",
@@ -8415,6 +8658,18 @@
     "claimIds": [],
     "aliases": [],
     "note": "Partner of NorthStar Canada (SailGP press release, 2024)."
+  },
+  {
+    "id": "k-edge",
+    "name": "K-EDGE",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as a supporter of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). US bicycle-mounts brand."
   },
   {
     "id": "kabal",
@@ -8604,7 +8859,7 @@
     "aliases": [
       "new millennium sports"
     ],
-    "note": "Spanish sportswear brand; the AFC's Official Technical Sponsor and match-ball supplier, extended to 2029 and covering ACL Elite, Asian Cup 2027 and more (Kelme, 2024-11-18). Espanyol's kit maker since 2018-19 (La Grada, 2026-03-26). Kelme's legal notice names New Millennium Sports, S.L. as the owner of kelme.com; no public shareholder register found beyond the company itself."
+    "note": "Spanish sportswear brand; the AFC's Official Technical Sponsor and match-ball supplier, extended to 2029 and covering ACL Elite, Asian Cup 2027 and more (Kelme, 2024-11-18). Espanyol's kit maker since 2018-19 (La Grada, 2026-03-26). Four-year kit deal with the Jordan Football Association signed 2026-05-18 (JFA). Kelme's legal notice names New Millennium Sports, S.L. as the owner of kelme.com. Not rated yet: 2Playbook (2021-10-25, https://www.2playbook.com/retail/kelme-espana-presenta-concurso-acreedores-perder-pulso-judicial-32-millones_5546_102.html) says New Millennium Sports owned the brand until 2019 and is now only its distributor in Spain; the brand passed to Kelme Sports International, 80% held by Kelme Sports Products, the new name of Jinjiang Yuanxiang Garments Weaving (China). Who owns that company isn't sourced."
   },
   {
     "id": "kermi",
@@ -8660,6 +8915,23 @@
       "hd.kinopoisk.ru"
     ],
     "note": "League partner; streaming service. Ownership (Yandex) not traced."
+  },
+  {
+    "id": "kiwi-norge",
+    "name": "KIWI",
+    "ownerId": "norgesgruppen",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Norwegian grocery chain owned by Norgesgruppen, Norway's largest grocery group. Nothing found.",
+    "claimIds": [
+      "norgesgruppen-kiwi-ownership"
+    ],
+    "aliases": [
+      "KIWI minipris",
+      "KIWI Norge"
+    ],
+    "note": "Hovedsponsor (main sponsor) of Norway's men's national team since 2026 (five-year NFF deal with BAMA, announced 2025-06-03). Logo worn on national-team wear (training/presentation wear); the match shirt carries no sponsor."
   },
   {
     "id": "kleber",
@@ -8902,6 +9174,18 @@
     "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
   },
   {
+    "id": "l-arbre-vert",
+    "name": "L’Arbre Vert",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an official supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French eco household/hygiene products brand."
+  },
+  {
     "id": "laser",
     "name": "Laser",
     "ownerId": null,
@@ -8991,11 +9275,13 @@
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "lebull-southern-stingray-ownership"
+    ],
     "aliases": [
       "lebull.pt"
     ],
-    "note": "Portuguese online betting brand (SRIJ licence 027, operator Southern Stingray, S.A.). Main kit sponsor at Estrela da Amadora, Rio Ave and Santa Clara in 2026-27."
+    "note": "Portuguese online betting brand (SRIJ licence 027), operated by Southern Stingray, S.A.; main kit sponsor at Estrela da Amadora, Rio Ave and Santa Clara in 2026-27. Not rated yet: who owns Southern Stingray, S.A. isn't sourced."
   },
   {
     "id": "ledger",
@@ -9697,6 +9983,22 @@
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
   },
   {
+    "id": "marcos-car",
+    "name": "Marcos Car",
+    "ownerId": "marcoscar-sa",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "marcoscar-ownership"
+    ],
+    "aliases": [
+      "marcoscar"
+    ],
+    "note": "Barreiro car dealer (Marcoscar, S.A.), on the Estrela da Amadora shirt in 2026-27. Not rated yet: who owns Marcoscar, S.A. isn't sourced."
+  },
+  {
     "id": "marex",
     "name": "Marex",
     "ownerId": "marex-group-plc",
@@ -9984,6 +10286,18 @@
     "note": "Chinese dairy brand; official sponsor of World Cup 26, Women's World Cup 2027 and World Cup 2030."
   },
   {
+    "id": "meo",
+    "name": "Cafés Méo",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as a supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French coffee roaster from Lille."
+  },
+  {
     "id": "mercainox",
     "name": "Mercainox",
     "ownerId": "mercainox",
@@ -10120,6 +10434,18 @@
       "Grupo MGS"
     ],
     "note": "Rating note: Transformed from mutual Mutua General de Seguros (founded 1907) into an S.A. in 2011 with mutualists as shareholders. No state, listed parent or controlling shareholder found in the company's own statutes and annual report. Sleeve sponsor of Racing Santander, Málaga and Elche in 2026/27."
+  },
+  {
+    "id": "miche",
+    "name": "Miche",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an official partner of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). Italian bicycle-component maker; not related to Michelin."
   },
   {
     "id": "michelin",
@@ -10670,11 +10996,14 @@
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "mumtalakat-sovereign-wealth-fund",
+      "wec-bapco-bahrain-record"
+    ],
     "aliases": [
       "bahrain mumtalakat holding company"
     ],
-    "note": "Bahrain's sovereign wealth fund; long-running team partner."
+    "note": "Bahrain's sovereign wealth fund, wholly owned by the Bahraini government; long-running team partner."
   },
   {
     "id": "murprotec",
@@ -10705,16 +11034,19 @@
   {
     "id": "national-bank-of-bahrain",
     "name": "National Bank of Bahrain",
-    "ownerId": "government-of-bahrain",
+    "ownerId": "mumtalakat",
     "ownership": "part-owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "nbb-government-stake",
+      "wec-bapco-bahrain-record"
+    ],
     "aliases": [
       "nbb"
     ],
-    "note": "Bahraini bank with significant state/Mumtalakat ownership."
+    "note": "Bahraini bank: Mumtalakat (wholly owned by the government) holds 44.06% and the Social Insurance Organisation 10.85% (NBB, December 2024); Bahrain Bourse lists Mumtalakat's stake 'on behalf of Bahrain Government'."
   },
   {
     "id": "nationwide",
@@ -10729,6 +11061,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Type recorded as private-company because the schema has no 'mutual' option; the release confirms Nationwide Mutual Insurance Company as the mark owner."
+  },
+  {
+    "id": "nature-et-cie",
+    "name": "Nature & Cie",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as a supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French organic/gluten-free food SME (Loire-Atlantique)."
   },
   {
     "id": "nedbank",
@@ -11250,6 +11594,23 @@
   {
     "id": "nsn",
     "name": "NSN (Never Say Never)",
+    "ownerId": "nsn-never-say-never",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Barcelona sports and entertainment company co-founded by Andrés Iniesta, one of its main shareholders, and led by founder-president Joel Borràs; Stoneweg became a shareholder in 2025. Nothing found.",
+    "claimIds": [
+      "nsn-ownership"
+    ],
+    "aliases": [
+      "Never Say Never",
+      "wearensn"
+    ],
+    "note": "Title sponsor of the team it co-owns. Rating note: its known shareholders are Andrés Iniesta and Stoneweg (stake not disclosed), which SWI Capital Holding controls (Max-Hervé George, 95.242% of the votes); no state or state fund is sourced in the chain."
+  },
+  {
+    "id": "nst",
+    "name": "NST",
     "ownerId": null,
     "ownership": null,
     "tier": "unrated",
@@ -11257,7 +11618,7 @@
     "verdict": null,
     "claimIds": [],
     "aliases": [],
-    "note": "Catalan sports and entertainment agency co-founded by Andrés Iniesta; team title. Not state-linked."
+    "note": "Listed as an official supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French sports-care/cleaning products lab."
   },
   {
     "id": "nubank",
@@ -11522,14 +11883,16 @@
   {
     "id": "omniyat",
     "name": "OMNIYAT",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "omniyat-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Dubai ultra-luxury developer, flagship of OMNIYAT Group, founded, chaired and owned by Mahdi Amjad. Nothing found.",
+    "claimIds": [
+      "omniyat-omniyat-group-ownership"
+    ],
     "aliases": [],
-    "note": "Dubai ultra-luxury real-estate developer; added as a Bahrain Victorious partner for 2026 (announced Nov 2025)."
+    "note": "Dubai ultra-luxury real-estate developer; Bahrain Victorious partner from 2026 (announced Nov 2025), on the sleeves and side of the 2026 jersey. Rating note: owned by its founder Mahdi Amjad (LuxHabitat); no state or state fund is sourced in the chain."
   },
   {
     "id": "omr-automotive",
@@ -11715,6 +12078,18 @@
     "aliases": []
   },
   {
+    "id": "panzani",
+    "name": "Panzani",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as a supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French pasta brand; supplier of pasta to the team's nutrition."
+  },
+  {
     "id": "paramount",
     "name": "Paramount (Paramount+)",
     "ownerId": "paramount-skydance",
@@ -11841,6 +12216,22 @@
     ],
     "aliases": [],
     "note": "Rating note: Paze is owned by Early Warning Services, which is owned by seven major U.S. banks; no state stake or serious conduct record identified."
+  },
+  {
+    "id": "peace-park-capital",
+    "name": "Peace Park Capital",
+    "ownerId": "peace-park-capital",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "peace-park-ownership"
+    ],
+    "aliases": [
+      "Peace Park"
+    ],
+    "note": "Sleeve sponsor. Not rated yet: the claim names its investment team, not its owners (Peace Park Capital Ltd); who owns it isn't sourced."
   },
   {
     "id": "pepperstone",
@@ -11987,6 +12378,18 @@
     "note": "Official Tournament Supporter in North America and Asia for FIFA World Cup 26, incorporating Savvy Games Group and Qiddiya City."
   },
   {
+    "id": "pileje",
+    "name": "PiLeJe",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an official supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French micro-nutrition laboratory; team's micro-nutrition partner."
+  },
+  {
     "id": "ping",
     "name": "PING",
     "ownerId": null,
@@ -12096,6 +12499,18 @@
     ],
     "aliases": [],
     "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; the 2013 fair-lending settlement is not a finding (the CFPB says so), and concerns 2002-2008."
+  },
+  {
+    "id": "poggio-solutions",
+    "name": "Poggio Solutions",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as a supporter of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires)."
   },
   {
     "id": "pokerstars-news",
@@ -12264,6 +12679,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Progressive is a publicly traded insurance company; no state stake or serious conduct record identified."
+  },
+  {
+    "id": "prologo",
+    "name": "Prologo",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an official supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). Italian saddle/component brand."
   },
   {
     "id": "prometeon",
@@ -12541,6 +12968,18 @@
       "qatar holdings and investment company"
     ],
     "note": "Private investment company of the Al Thani ruling family; sponsored British Champions Day since its 2011 inaugural running and extended to 2028 on 22 Jun 2026, then handed the title to subsidiary Qatar Racing."
+  },
+  {
+    "id": "qm",
+    "name": "QM",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as a supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). ‘Qualité en Massage’ massage oils."
   },
   {
     "id": "qrec",
@@ -12843,9 +13282,11 @@
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "reebok-authentic-ownership"
+    ],
     "aliases": [],
-    "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25); Reebok listed in Authentic Brands Group's brand portfolio."
+    "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25); kit maker for Estoril Praia (2026-27) and Panama (2026 World Cup), listed as partner per convention. Rating left unrated: ABG's own Shareholders & Leadership page (corporate.authentic.com/leadership, opened 2026-09-29) lists GIC, Temasek and Qatar Investment Authority among its shareholders (logo list, no stakes disclosed); none of those funds appears on the board ABG lists (2x CVC, 1x HPS, 1x General Atlantic, 2x Leonard Green, Salter). Whether any state fund clears the 5% threshold is not publicly sourced."
   },
   {
     "id": "regent-seven-seas-cruises",
@@ -12860,6 +13301,22 @@
       "Regent"
     ],
     "note": "Rating note for maintainer: luxury cruise line (team partner page: 'Global Cruise line partner'); ownership not stated on the partner page and not traced this run."
+  },
+  {
+    "id": "remax-yes",
+    "name": "RE/MAX Yes",
+    "ownerId": "resposta-exemplar-mediacao-imobiliaria-lda",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "remax-yes-ownership"
+    ],
+    "aliases": [
+      "remax yes"
+    ],
+    "note": "RE/MAX franchise agency in Paço de Arcos, run by Resposta Exemplar - Mediação Imobiliária, Lda; an Estrela da Amadora partner. Not rated yet: who owns the company isn't sourced."
   },
   {
     "id": "renasant-bank",
@@ -13287,6 +13744,18 @@
       "rssb rwanda"
     ],
     "note": "Owner and name sponsor of RSSB Tigers, the 2026 BAL champions; took over Tigers BBC in 2025 (The New Times; Ecofin Agency)."
+  },
+  {
+    "id": "rukka",
+    "name": "Rukka",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an official partner of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). Rukka Suisse (Swiss outdoor/clothing brand) per the club page."
   },
   {
     "id": "rwanda-events",
@@ -13719,16 +14188,18 @@
   {
     "id": "scott",
     "name": "Scott",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "youngone-corporation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Swiss bike brand of Scott Sports SA, controlled by South Korean manufacturer Youngone Corporation (~97% after a 2025 ICC arbitration ruling). Nothing found.",
+    "claimIds": [
+      "scott-youngone-ownership"
+    ],
     "aliases": [
       "scott sports"
     ],
-    "note": "Bicycle manufacturer; NSN bike supplier from 2026."
+    "note": "Bike supplier whose logo appears on the kit. Rating note: Youngone Corporation (South Korea) controls Scott Sports; South Korea has no sourced record of serious abuses under the method, so a Korean state stake wouldn't count, and no human-rights finding against Scott or Youngone was located."
   },
   {
     "id": "sd-worx",
@@ -14237,6 +14708,18 @@
     "note": "Rating note: propose 'concern'. The link: Škoda Auto's sole shareholder is Volkswagen Finance Luxemburg S.A. (skoda-auto.com), and Volkswagen AG's Annual Report 2025 names Škoda Auto a.s. among the companies in which it 'holds direct or indirect interests' (claim skoda-vw-ownership); the same report shows Qatar Holding LLC with 10.4% of subscribed capital and 17.0% of voting rights, the third-largest shareholder (claim qatar-holding-vw-stake); two SEC filings by different issuers establish Qatar Holding LLC as a wholly-owned subsidiary of the Qatar Investment Authority (claim qatar-holding-qia-ownership); QIA's own About page names it the sovereign wealth fund of the State of Qatar (claim qia-government-of-qatar-ownership). The record: Amnesty International's Qatar 2025 country entry and HRW's World Report 2026 Qatar chapter, two independent publishers, on continuing migrant-labour abuses under kafala (existing claim qatar-migrant-worker-abuse-2025). Judgement call: Qatar's stake sits in Volkswagen AG two levels above Škoda and is 10.4% — a genuine link, but not control — so 'concern' rather than 'serious' seems right; a maintainer should decide. ON HOLD: proposed 'concern' in PR for issue #653, pending maintainer review."
   },
   {
+    "id": "sks",
+    "name": "SKS",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as a supporter of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). SKS Germany; pumps/mudguards."
+  },
+  {
     "id": "sky-sports",
     "name": "Sky Sports",
     "ownerId": null,
@@ -14419,6 +14902,20 @@
       "Soleo Piscinas"
     ],
     "note": "Swimming-pool brand of R.P. Industries, S.A. (Braga), an SC Braga sponsor since 2023. The club shop's photo of the 2026-27 home shirt (https://shop.scbraga.pt/products/26-27-sc-braga-home-jersey-puma-red-puma) shows soleo on the front, but no page text names it for 2026-27, so it isn't on the kit record. Who owns R.P. Industries isn't sourced, so it isn't rated yet."
+  },
+  {
+    "id": "solfaestofo",
+    "name": "Solfaestofo",
+    "ownerId": "solfaestofo-lda",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "solfaestofo-ownership"
+    ],
+    "aliases": [],
+    "note": "Upholstery maker of Sertã (Solfaestofo, Lda), an Estrela da Amadora partner. Not rated yet: who owns the company isn't sourced."
   },
   {
     "id": "solverde",
@@ -14912,14 +15409,16 @@
   {
     "id": "stoneweg",
     "name": "Stoneweg",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "swi-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Geneva investment platform founded by Jaume Sabater; since October 2025 80.26% owned by SWI Capital Holding, in which Max-Hervé George holds 95.242% of the votes. Nothing found.",
+    "claimIds": [
+      "stoneweg-swi-ownership"
+    ],
     "aliases": [],
-    "note": "Geneva-headquartered alternative investment group backing the NSN team."
+    "note": "Co-owner (with NSN) of the team and jersey sponsor. Rating note: SWI's prospectus (16 Feb 2026) lists its substantial shareholders: Max-Hervé George (80.25% directly, 95.242% of the votes in all), Philae Real Estate (4.76%, a Jaume Sabater company) and ICF SPC-BG (14.99%, voted by George; its sole investor is MSB Trust, which has no voting rights). No state or state fund among them."
   },
   {
     "id": "strauss",
@@ -15362,6 +15861,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Largest individual holders sit just under the 3% reporting threshold; none identified as state-linked."
+  },
+  {
+    "id": "technisom",
+    "name": "Technisom",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an official supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French ergonomic-bedding company."
   },
   {
     "id": "tecno",
@@ -16058,6 +16569,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Explicitly states family-owned since 1980; no state stake or serious conduct record identified."
+  },
+  {
+    "id": "ultrahuman",
+    "name": "Ultrahuman",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as a supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). Indian health-tech/wearables company."
   },
   {
     "id": "uludag",
@@ -16811,6 +17334,18 @@
     "aliases": []
   },
   {
+    "id": "wilier-triestina",
+    "name": "Wilier Triestina",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an official partner of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). Italian bicycle manufacturer; team bike supplier."
+  },
+  {
     "id": "wilkinson-sword",
     "name": "Wilkinson Sword",
     "ownerId": null,
@@ -16849,6 +17384,18 @@
       "winamax sports"
     ],
     "note": "Rating note: Private French online betting and poker operator, licensed by France's national gambling authority (ANJ); no state ownership found in the chain. RC Strasbourg partner since 2020, extended to 2028 (22 July 2026 announcement)."
+  },
+  {
+    "id": "winforce",
+    "name": "Winforce",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an official supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). Sports nutrition brand."
   },
   {
     "id": "winline",

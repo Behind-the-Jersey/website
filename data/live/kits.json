@@ -3888,9 +3888,15 @@
         "sponsorId": "bahrain-economic-development-board",
         "placement": "front",
         "source": {
-          "name": "Team Bahrain Victorious — About Us",
-          "date": "unknown",
-          "url": "https://bahraincyclingteam.com/about/"
+          "name": "Team Bahrain Victorious: Bahrain Victorious Unveils 2026 Alé Team Kit",
+          "date": "2026-01-02",
+          "url": "https://bahraincyclingteam.com/bahrain-victorious-unveils-2026-ale-team-kit",
+          "quote": "Team Bahrain Victorious today presents its new Alé team kit",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "The launch photo (https://bahraincyclingteam.com/wp-content/uploads/2026/01/CL_BAH_141225_studio-108-1.jpg) shows the 'Business Friendly Bahrain' mark on the upper chest; Alé's render in TOUR's article (https://res.cloudinary.com/delius-klasing-eu/image/upload/v1767869731/tour/ale-team-bahrain-victorious-new-kit-2026_321736fbbe36141263f9ccc96296f427.jpg) shows it on both sides of the chest. The team's About page lists the Bahrain Economic Development Board among its backers."
         }
       },
       {
@@ -3898,76 +3904,122 @@
         "placement": "front",
         "source": {
           "name": "Team Bahrain Victorious — About Us",
-          "date": "unknown",
-          "url": "https://bahraincyclingteam.com/about/"
+          "date": "2026",
+          "url": "https://bahraincyclingteam.com/about/",
+          "quote": "proud and continued support of the Bahrain Economic Development Board, Mumtalakat, Bapco Energies, Beyon, National Bank of Bahrain (BBK), Al Salam Bank, Alba",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Placement not confirmed on the launch photos and renders checked (front and sleeves; no back view found). The About page names Mumtalakat among the team's backers."
         }
       },
       {
         "sponsorId": "bapco-energies",
         "placement": "front",
         "source": {
-          "name": "Team Bahrain Victorious — About Us",
-          "date": "unknown",
-          "url": "https://bahraincyclingteam.com/about/"
+          "name": "Velopack: Un maillot 2026 identitaire pour Bahrain Victorious",
+          "date": "2026-01-02",
+          "url": "https://www.velopack.fr/17723-bahrain-victorious-devoile-un-maillot-2026-ancre-dans-lhistoire",
+          "quote": "la visibilité du sponsor principal Bapco Energies",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "The team's launch photo (https://bahraincyclingteam.com/wp-content/uploads/2026/01/CL_BAH_141225_studio-96.jpg) shows Bapco Energies across the lower front."
         }
       },
       {
         "sponsorId": "beyon",
-        "placement": "back",
+        "placement": "front",
         "source": {
-          "name": "Team Bahrain Victorious — Partners",
-          "date": "unknown",
-          "url": "https://bahraincyclingteam.com/partners/"
+          "name": "TOUR: Shirt presentation 2026: Bahrain-Victorious wears dark blue and celeste",
+          "date": "2026-01-11",
+          "url": "https://www.tour-magazin.de/en/professional-cycling/latest-news/shirt-presentation-2026-bahrain-victorious-wears-dark-blue-and-celeste/",
+          "quote": "Bahrain-Victorious has presented its new jersey for the coming season. The Italian manufacturer Alé remains the outfitter.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "Alé's render in the article (https://res.cloudinary.com/delius-klasing-eu/image/upload/v1767869731/tour/ale-team-bahrain-victorious-new-kit-2026_321736fbbe36141263f9ccc96296f427.jpg) shows BEYON on the upper chest, beside NBB; so does the team's launch photo (https://bahraincyclingteam.com/wp-content/uploads/2026/01/CL_BAH_141225_studio-96.jpg)."
         }
       },
       {
         "sponsorId": "national-bank-of-bahrain",
-        "placement": "back",
+        "placement": "front",
         "source": {
-          "name": "Team Bahrain Victorious — Partners",
-          "date": "unknown",
-          "url": "https://bahraincyclingteam.com/partners/"
+          "name": "TOUR: Shirt presentation 2026: Bahrain-Victorious wears dark blue and celeste",
+          "date": "2026-01-11",
+          "url": "https://www.tour-magazin.de/en/professional-cycling/latest-news/shirt-presentation-2026-bahrain-victorious-wears-dark-blue-and-celeste/",
+          "quote": "Bahrain-Victorious has presented its new jersey for the coming season. The Italian manufacturer Alé remains the outfitter.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "Alé's render in the article (https://res.cloudinary.com/delius-klasing-eu/image/upload/v1767869731/tour/ale-team-bahrain-victorious-new-kit-2026_321736fbbe36141263f9ccc96296f427.jpg) shows NBB and its Arabic logo on the upper chest, beside BEYON; so does the team's launch photo (https://bahraincyclingteam.com/wp-content/uploads/2026/01/CL_BAH_141225_studio-96.jpg)."
         }
       },
       {
         "sponsorId": "al-salam-bank",
-        "placement": "back",
+        "placement": "sleeve",
         "source": {
-          "name": "Team Bahrain Victorious — Partners",
-          "date": "unknown",
-          "url": "https://bahraincyclingteam.com/partners/"
+          "name": "Team Bahrain Victorious: Bahrain Victorious Unveils 2026 Alé Team Kit",
+          "date": "2026-01-02",
+          "url": "https://bahraincyclingteam.com/bahrain-victorious-unveils-2026-ale-team-kit",
+          "quote": "Team Bahrain Victorious today presents its new Alé team kit",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "The launch photo (https://bahraincyclingteam.com/wp-content/uploads/2026/01/CL_BAH_141225_studio-108-1.jpg) shows 'Al Salam Bank' with its Arabic name on the sleeve, under OMNIYAT."
         }
       },
       {
         "sponsorId": "alba",
-        "placement": "back",
+        "placement": "front",
         "source": {
-          "name": "Team Bahrain Victorious — Partners",
-          "date": "unknown",
-          "url": "https://bahraincyclingteam.com/partners/"
+          "name": "TOUR: Shirt presentation 2026: Bahrain-Victorious wears dark blue and celeste",
+          "date": "2026-01-11",
+          "url": "https://www.tour-magazin.de/en/professional-cycling/latest-news/shirt-presentation-2026-bahrain-victorious-wears-dark-blue-and-celeste/",
+          "quote": "Bahrain-Victorious has presented its new jersey for the coming season. The Italian manufacturer Alé remains the outfitter.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "Alé's render in the article (https://res.cloudinary.com/delius-klasing-eu/image/upload/v1767869731/tour/ale-team-bahrain-victorious-new-kit-2026_321736fbbe36141263f9ccc96296f427.jpg) shows 'alba, Aluminium for the world' on the right side of the collar."
         }
       },
       {
         "sponsorId": "omniyat",
-        "placement": "partner",
+        "placement": "sleeve",
         "source": {
-          "name": "Team Bahrain Victorious — OMNIYAT supports Team Bahrain Victorious in 2026 WorldTour Cycling season",
-          "date": "2025-11-24",
-          "url": "https://bahraincyclingteam.com/omniyat-supports-team-bahrain-victorious-in-2026-worldtour-cycling-season/"
+          "name": "Team Bahrain Victorious — Bahrain Victorious Unveils 2026 Alé Team Kit",
+          "date": "2026-01-02",
+          "url": "https://bahraincyclingteam.com/bahrain-victorious-unveils-2026-ale-team-kit",
+          "quote": "with new partner OMNIYAT featured on the sleeves and side of the jersey for the 2026 season",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       },
       {
         "sponsorId": "bianchi",
         "placement": "partner",
         "source": {
-          "name": "Team Bahrain Victorious — Partners",
-          "date": "unknown",
-          "url": "https://bahraincyclingteam.com/partners/"
+          "name": "Cyclingnews — Bahrain Victorious announce 2026 bike sponsor (Tom Wieckowski)",
+          "date": "2025-12-04",
+          "url": "https://www.cyclingnews.com/bikes/pro-bikes/bahrain-victorious-announces-2026-bike-sponsor",
+          "quote": "Bahrain Victorious have partnered with Bianchi as the official bike supplier for the 2026 racing season and beyond",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "2026 UCI WorldTeam. Bahrain Victorious's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "summary": "2026 UCI WorldTeam kit by Alé, with BAHRAIN VICTORIOUS across the chest. From the launch photos: Bapco Energies on the front, BEYON and NBB on the upper chest, 'Business Friendly Bahrain' on the chest, alba on the collar, OMNIYAT on the sides and sleeves, Al Salam Bank on the sleeves, Bianchi on the chest and sleeves. Not complete: no back view was found, Mumtalakat's place isn't confirmed, and the United Shipping mark on the chest and further partners (Rudy Project, Vision, Continental and others) aren't itemised.",
     "change": null
   },
   {
@@ -7606,15 +7658,68 @@
       {
         "sponsorId": "lebull",
         "placement": "front",
+        "side": "front",
         "source": {
-          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Lebull main kit sponsor)",
-          "date": "2026-09",
-          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+          "name": "Estrela da Amadora: PRE-SALE: Camisola Principal 26/27",
+          "date": "2026-08-06",
+          "url": "https://estrelamadora.pt/produto/pre-sale-principal-26-27/",
+          "quote": "Devido à elevada procura, podes reservar já a tua camisola com 5% de desconto até à chegada do novo stock. Pré-venda da Camisola Principal 26/27",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "The product photo (https://estrelamadora.pt/wp-content/uploads/2026/08/Camisolas-1.png) shows 'Lebull' across the front of the 2026-27 home shirt. Footy Headlines' third-kit article (28 Aug 2026) calls Lebull the 'front sponsor', and Cabine Desportiva (X, 1 Aug 2026): \"Estrela da Amadora passa a ter como patrocinador principal a Lebull\"."
+        }
+      },
+      {
+        "sponsorId": "marcos-car",
+        "placement": "front",
+        "side": "front",
+        "source": {
+          "name": "Estrela da Amadora: PRE-SALE: Camisola Principal 26/27",
+          "date": "2026-08-06",
+          "url": "https://estrelamadora.pt/produto/pre-sale-principal-26-27/",
+          "quote": "Devido à elevada procura, podes reservar já a tua camisola com 5% de desconto até à chegada do novo stock. Pré-venda da Camisola Principal 26/27",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "The product photo (https://estrelamadora.pt/wp-content/uploads/2026/08/Camisolas-1.png) shows 'MARCOS CAR' on the chest above the adidas logo."
+        }
+      },
+      {
+        "sponsorId": "hospital-da-luz",
+        "placement": "sleeve",
+        "source": {
+          "name": "Estrela da Amadora: PRE-SALE: Camisola Principal 26/27",
+          "date": "2026-08-06",
+          "url": "https://estrelamadora.pt/produto/pre-sale-principal-26-27/",
+          "quote": "Devido à elevada procura, podes reservar já a tua camisola com 5% de desconto até à chegada do novo stock. Pré-venda da Camisola Principal 26/27",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "The product photo (https://estrelamadora.pt/wp-content/uploads/2026/08/Camisolas-1.png) shows 'HOSPITAL DA LUZ' on the sleeve."
+        }
+      },
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: Adidas Estrela da Amadora 26-27 Home & Away Kits Released - No More Umbro",
+          "date": "2026-07-31",
+          "url": "https://www.footyheadlines.com/1747733699/adidas-estrela-da-amadora-26-27-home-away-kits-released-no-more-umbro.html",
+          "quote": "Portuguese Primeira Liga club CF Estrela da Amadora has officially launched its 26-27 home and away kits, marking the beginning of a new partnership with Adidas after three seasons with Umbro.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "Kit maker, not a shirt sponsor in the front/back/sleeve sense."
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Main slot paid for by Southern Stingray, S.A. via Lebull.",
+    "summary": "adidas home shirt with Lebull (Southern Stingray, S.A.) as the main front sponsor, Marcos Car on the chest and Hospital da Luz on the sleeve, as the club's shop photo shows. Not marked complete: the back and shorts sponsors (Centro de Reciclagem da Amadora, Solfaestofo and RE/MAX Yes in the 2026-27 kit table) have no source yet that shows them on this shirt.",
     "change": null
   },
   {
@@ -9096,23 +9201,467 @@
         "sponsorId": "groupama",
         "placement": "front",
         "source": {
-          "name": "The Inner Ring — Pro Team Sponsors Explained",
-          "date": "2026-07-10",
-          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Partenaires titres Groupama FDJ United",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       },
       {
         "sponsorId": "fdj",
         "placement": "front",
         "source": {
-          "name": "The Inner Ring — Pro Team Sponsors Explained",
-          "date": "2026-07-10",
-          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Partenaires titres Groupama FDJ United",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "districlos",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Partenaires officiels Districlos Wilier Triestina Julbo Miche Shimano Rukka",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "wilier-triestina",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Partenaires officiels Districlos Wilier Triestina Julbo Miche Shimano Rukka",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "julbo",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Partenaires officiels Districlos Wilier Triestina Julbo Miche Shimano Rukka",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "miche",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Partenaires officiels Districlos Wilier Triestina Julbo Miche Shimano Rukka",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "shimano",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Partenaires officiels Districlos Wilier Triestina Julbo Miche Shimano Rukka",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "rukka",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Partenaires officiels Districlos Wilier Triestina Julbo Miche Shimano Rukka",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "bioracer",
+        "placement": "partner",
+        "source": {
+          "name": "3bikes.fr — Groupama-FDJ United présente son maillot pour 2026",
+          "date": "2025-12-06",
+          "url": "https://www.3bikes.fr/2025/12/06/groupama-fdj-united-presente-son-maillot-pour-2026/",
+          "quote": "Côté équipementier, Bioracer remplace Alé Cycling, après 9 années de collaboration.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "bikebotix",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs officiels BikeBotix Bioracer Continental Elite iGPSPORT L’Arbre Vert NST Pileje Prologo Technisom Winforce",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "continental",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs officiels BikeBotix Bioracer Continental Elite iGPSPORT L’Arbre Vert NST Pileje Prologo Technisom Winforce",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "elite",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs officiels BikeBotix Bioracer Continental Elite iGPSPORT L’Arbre Vert NST Pileje Prologo Technisom Winforce",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "igpsport",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs officiels BikeBotix Bioracer Continental Elite iGPSPORT L’Arbre Vert NST Pileje Prologo Technisom Winforce",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "l-arbre-vert",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs officiels BikeBotix Bioracer Continental Elite iGPSPORT L’Arbre Vert NST Pileje Prologo Technisom Winforce",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "nst",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs officiels BikeBotix Bioracer Continental Elite iGPSPORT L’Arbre Vert NST Pileje Prologo Technisom Winforce",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "pileje",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs officiels BikeBotix Bioracer Continental Elite iGPSPORT L’Arbre Vert NST Pileje Prologo Technisom Winforce",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "prologo",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs officiels BikeBotix Bioracer Continental Elite iGPSPORT L’Arbre Vert NST Pileje Prologo Technisom Winforce",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "technisom",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs officiels BikeBotix Bioracer Continental Elite iGPSPORT L’Arbre Vert NST Pileje Prologo Technisom Winforce",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "winforce",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs officiels BikeBotix Bioracer Continental Elite iGPSPORT L’Arbre Vert NST Pileje Prologo Technisom Winforce",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "compressport",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs Compressport Cristaline JOLT Jura Méo Nature & Cie Panzani QM Ultrahuman",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "cristaline",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs Compressport Cristaline JOLT Jura Méo Nature & Cie Panzani QM Ultrahuman",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "jolt",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs Compressport Cristaline JOLT Jura Méo Nature & Cie Panzani QM Ultrahuman",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "jura",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs Compressport Cristaline JOLT Jura Méo Nature & Cie Panzani QM Ultrahuman",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "meo",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs Compressport Cristaline JOLT Jura Méo Nature & Cie Panzani QM Ultrahuman",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "nature-et-cie",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs Compressport Cristaline JOLT Jura Méo Nature & Cie Panzani QM Ultrahuman",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "panzani",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs Compressport Cristaline JOLT Jura Méo Nature & Cie Panzani QM Ultrahuman",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "qm",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs Compressport Cristaline JOLT Jura Méo Nature & Cie Panzani QM Ultrahuman",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "ultrahuman",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Fournisseurs Compressport Cristaline JOLT Jura Méo Nature & Cie Panzani QM Ultrahuman",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "danielo",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Supporters Danielo GOWOD K-EDGE Poggio Solutions SKS",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "gowod",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Supporters Danielo GOWOD K-EDGE Poggio Solutions SKS",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "k-edge",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Supporters Danielo GOWOD K-EDGE Poggio Solutions SKS",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "poggio-solutions",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Supporters Danielo GOWOD K-EDGE Poggio Solutions SKS",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "sks",
+        "placement": "partner",
+        "source": {
+          "name": "Équipe cycliste Groupama-FDJ United — Les partenaires de l'équipe (partner/supplier page)",
+          "date": "unknown",
+          "url": "https://www.equipecycliste-groupama-fdj.fr/partenaires/",
+          "quote": "Supporters Danielo GOWOD K-EDGE Poggio Solutions SKS",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "2026 UCI WorldTeam. Groupama-FDJ United's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "summary": "2026 UCI WorldTeam. The jersey carries title partners Groupama and FDJ United (on the chest); launch coverage (velopack, 3bikes) names only the team name on the jersey and Bioracer as the new kit maker. All other companies listed on the club's partners page are recorded here as 'partner'; the sponsor list follows that page in full, but on-shirt placements (sleeve, back, shorts) could not be verified from open text sources.",
     "change": null
   },
   {
@@ -9810,6 +10359,38 @@
     "change": null
   },
   {
+    "id": "japan-2026-home",
+    "clubId": "japan",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 (launched November 2025)",
+    "periodFrom": "2025-11",
+    "periodTo": null,
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines – 'Japan 2026 World Cup Home Kit Released'",
+          "date": "2025-11-05",
+          "url": "https://www.footyheadlines.com/2025/08/japan-2026-home-kit.html",
+          "note": "Kit maker. The 2026 home-kit launch article; its photos show no commercial logo anywhere on the shirt.",
+          "quote": "Adidas has officially unveiled Japan’s new 2026 home kit, featuring light blue curved lines symbolizing the Japanese horizon.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "The 2026 home shirt carries no commercial sponsor logos - front, back, sleeves and shorts were checked on the kit-launch photos and in the September 2026 match against Uruguay; only the JFA crest and the adidas maker mark appear. adidas is the kit maker.",
+    "change": null,
+    "headline": "The shirt is {level}: it carries no commercial sponsors. adidas makes the kit.",
+    "shortLine": "No shirt sponsors. adidas made."
+  },
+  {
     "id": "jca-kings-2026-home",
     "clubId": "jca-kings",
     "season": "2026",
@@ -9857,6 +10438,35 @@
     ],
     "sponsorsComplete": false,
     "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+    "change": null
+  },
+  {
+    "id": "jordan-2026-home",
+    "clubId": "jordan",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "kelme",
+        "placement": "partner",
+        "source": {
+          "name": "Kelme: Kelme unveils new World Cup kit for Jordanian national team",
+          "date": "2026-05-19",
+          "url": "https://kelme.com/en/blogs/news/nueva-piel-mundialista-kelme-para-la-seleccion-jordana",
+          "quote": "Kelme presents the new kit for the Jordanian National Team",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Kelme kit (four-year JFA deal signed May 2026). No commercial shirt sponsor: Kelme's launch images and JFA match photos (2026 World Cup v Argentina, June 2026) show only the Kelme logo, the JFA crest and the FIFA World Cup sleeve patch; the back carries name and number only.",
     "change": null
   },
   {
@@ -12538,6 +13148,36 @@
     "change": null
   },
   {
+    "id": "mexico-2026-home",
+    "clubId": "mexico",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 World Cup",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "miseleccion.mx (FMF) - La Selección Nacional de México presenta su jersey mundialista 2026",
+          "date": "2025-11-05",
+          "url": "https://miseleccion.mx/noticias/6207/La-Selecci%C3%B3n-Nacional-de-M%C3%A9xico-presenta-su-jersey-mundialista-2026",
+          "note": "Kit maker, not a shirt sponsor in the front/back/sleeve sense. National team match shirts carry no commercial sponsors.",
+          "quote": "una indumentaria confeccionada por Adidas, patrocinador oficial del Tricolor, que será utilizada en la Copa del Mundo 2026",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "adidas 2026 World Cup home shirt with an Aztec-inspired design; Mexico's national team match shirt carries no commercial sponsors.",
+    "change": null
+  },
+  {
     "id": "miami-dolphins-2026-27-home",
     "clubId": "miami-dolphins",
     "season": "2026-27",
@@ -12826,6 +13466,36 @@
     "change": null
   },
   {
+    "id": "morocco-2026-home",
+    "clubId": "morocco",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "puma",
+        "placement": "partner",
+        "source": {
+          "name": "Football Shirt Culture: Morocco 2026 Puma Home Kit",
+          "date": "2026-03-27",
+          "url": "https://www.footballshirtculture.com/new-kits/morocco-jersey-2026-home-puma.html",
+          "note": "Kit maker. Named-press kit write-up: the shirt carries the Puma logo and the Royal Moroccan Football Federation crest only, with matching red shorts and socks; no commercial sponsor on any placement. FootyLogos (2026) likewise describes gold PUMA branding and the crest as the shirt's only marks.",
+          "quote": "The Puma logo appears in gold on the chest, alongside the Royal Moroccan Football Federation crest in a central position.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Puma home kit for the 2026 World Cup cycle. No commercial shirt sponsors: kit-press write-ups describe only the FRMF crest and Puma branding on the shirt, with matching sponsor-free shorts.",
+    "change": null
+  },
+  {
     "id": "movistar-2026-home",
     "clubId": "movistar",
     "season": "2026",
@@ -13092,6 +13762,36 @@
     ],
     "sponsorsComplete": false,
     "summary": "Adidas home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "netherlands-2026-home",
+    "clubId": "netherlands",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026-2028",
+    "periodFrom": "2026",
+    "periodTo": "2026-28",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "KNVBshop.nl (official KNVB shop) – 'Nike Dutch Team Home Shirt 2026-2028'",
+          "date": "2026-09-29",
+          "url": "https://www.knvbshop.nl/en/nike-dutch-team-home-shirt-2026-2028.html",
+          "note": "Kit maker. Official KNVB fan shop selling the shirt players wear at the 2026 World Cup. Nike officially unveiled the 2026 home kit in March 2026 (Footy Headlines, 2026-04-01: https://www.footyheadlines.com/2025/02/netherlands-2026-home-kit.html).",
+          "quote": "Discover the new Nike Dutch Team Home Shirt 2026-2028, which is derived from the shirt that players wear during matches, such as the 2026 World Cup!",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "No commercial sponsor on the shirt: like other national teams, the Netherlands' match kit carries only the Nike mark and the KNVB crest. Nike makes the 2026 World Cup kit.",
     "change": null
   },
   {
@@ -13365,6 +14065,37 @@
     "change": null
   },
   {
+    "id": "new-zealand-2026-home",
+    "clubId": "new-zealand",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026–27",
+    "periodFrom": "2026",
+    "periodTo": "2027",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "puma",
+        "placement": "partner",
+        "source": {
+          "name": "Football Shirt Culture: New Zealand 2026 Puma Home Kit",
+          "date": "2026-03-27",
+          "url": "https://www.footballshirtculture.com/new-kits/new-zealand-jersey-2026-home-puma.html",
+          "quote": "Puma have revealed the New Zealand 2026 home kit, set to be worn by the New Zealand men’s national team during the 2026–2027 international cycle, including the 2026 FIFA World Cup",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "Kit maker, listed as partner per the convention for kit suppliers. The same article lists every mark on the black home shirt: 'A white Puma logo appears on the right chest, balanced by the silver fern crest on the left.' 'On the reverse, “Aotearoa” is positioned below the back collar in white lettering' and 'A small circular Puma authenticity mark is placed near the lower front hem.' Puma's US shop also calls the black shirt 'New Zealand Home'."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Nothing on the shirt but the fern: Puma's black 2026 home shirt carries no commercial sponsors, only the Puma logo, the New Zealand Football silver-fern crest, 'Aotearoa' below the back collar and Puma's authenticity mark (Football Shirt Culture's launch description).",
+    "change": null,
+    "shortLine": "No sponsors on the shirt"
+  },
+  {
     "id": "newcastle-united-2025-26-home",
     "clubId": "newcastle-united",
     "season": "2025-26",
@@ -13509,6 +14240,51 @@
     "change": null
   },
   {
+    "id": "norway-2026-home",
+    "clubId": "norway",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: Norway 2026 World Cup Home & Away Kits Released",
+          "date": "2026-03-20",
+          "url": "https://www.footyheadlines.com/2025/12/nike-norway-2026-world-cup-home-kit.html",
+          "note": "Kit maker, recorded as partner per existing convention. Match photos of the shirt (World Cup, June-July 2026) show no advertising on front, back, sleeves or shorts; NFF lists Nike as 'utstyrsleverandør' (equipment supplier) to all national teams.",
+          "quote": "This is the Norway 2026 home jersey, made by Nike",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "kiwi-norge",
+        "placement": "training-kit",
+        "source": {
+          "name": "KIWI: På banen i over 30 år",
+          "date": "2026-06-17",
+          "url": "https://kiwi.no/fotball/pa-banen-i-over-30-ar",
+          "note": "KIWI's own site says the men's national team wears the KIWI logo ('landslagsdrakta'); the match shirt itself carries no sponsor (World Cup match photos on footyheadlines.com), so the logo sits on team training/presentation wear.",
+          "quote": "I dag bærer David Møller Wolfe KIWI-logoen på landslagsdrakta",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Norway's national-team home shirt carries no commercial sponsors; Nike makes the kit. KIWI (grocery chain, NFF hovedsponsor with BAMA from 2026) is worn on team training/presentation wear, not on the match shirt.",
+    "change": null
+  },
+  {
     "id": "nottingham-forest-2026-27-home",
     "clubId": "nottingham-forest",
     "season": "2026-27",
@@ -13566,32 +14342,110 @@
         "sponsorId": "nsn",
         "placement": "front",
         "source": {
-          "name": "NSN Cycling Team — homepage / partner logos",
-          "date": "unknown",
-          "url": "https://nsncyclingteam.com/"
+          "name": "NSN Cycling Team, 'NSN and Stoneweg launch the NSN Cycling Team'",
+          "date": "2025-11-20",
+          "url": "https://nsncyclingteam.com/nsn-and-stoneweg-launch-the-nsn-cycling-team",
+          "quote": "the new WorldTour Team name is NSN Cycling Team, and the Conti Team name is NSN Development Team",
+          "note": "Title sponsor and team co-owner; the NSN logo fills the chest and the upper back of the 2026 jersey (kit-reveal gallery, 9 Dec 2025: https://nsncyclingteam.com/wp-content/uploads/2025/12/CAuldPhoto-2025-NSN-Camp-Day2-1377-533x800.jpg, https://nsncyclingteam.com/wp-content/uploads/2025/12/CAuldPhoto-2025-NSN-Camp-Day1-9177-533x800.jpg).",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       },
       {
         "sponsorId": "stoneweg",
         "placement": "front",
         "source": {
-          "name": "NSN Cycling Team — homepage / partner logos",
-          "date": "unknown",
-          "url": "https://nsncyclingteam.com/"
+          "name": "NSN Cycling Team, 'NSN and Stoneweg launch the NSN Cycling Team'",
+          "date": "2025-11-20",
+          "url": "https://nsncyclingteam.com/nsn-and-stoneweg-launch-the-nsn-cycling-team",
+          "quote": "NSN (Never Say Never) and Stoneweg, a global investment platform based in Geneva, Switzerland, have entered into a joint venture in professional road cycling",
+          "note": "Team co-owner; STONEWEG sits under the NSN logo on the front and the SW / STONEWEG mark on both sleeve cuffs (kit-reveal gallery, 9 Dec 2025: https://nsncyclingteam.com/wp-content/uploads/2025/12/CAuldPhoto-2025-NSN-Camp-Day2-1377-533x800.jpg).",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "cantina-fantini",
+        "placement": "front",
+        "source": {
+          "name": "NSN Cycling Team, 'Gallery: NSN Cycling Team reveals stunning 2026 jersey'",
+          "date": "2025-12-09",
+          "url": "https://nsncyclingteam.com/gallery-nsn-cycling-team-reveals-stunning-2026-jersey",
+          "quote": "Introducing our 2026 jersey, inspired by NSN’s home city of Barcelona.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "The front photo (https://nsncyclingteam.com/wp-content/uploads/2025/12/CAuldPhoto-2025-NSN-Camp-Day2-1377-533x800.jpg) shows 'CANTINA FANTINI' on the lower front of the jersey and on the shorts. Listed as 'Cantini Fantini' under 'Our Partners' on the team's About page."
+        }
+      },
+      {
+        "sponsorId": "brainvest",
+        "placement": "sleeve",
+        "source": {
+          "name": "NSN Cycling Team, 'Gallery: NSN Cycling Team reveals stunning 2026 jersey'",
+          "date": "2025-12-09",
+          "url": "https://nsncyclingteam.com/gallery-nsn-cycling-team-reveals-stunning-2026-jersey",
+          "quote": "Introducing our 2026 jersey, inspired by NSN’s home city of Barcelona.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "The front and side photos (https://nsncyclingteam.com/wp-content/uploads/2025/12/CAuldPhoto-2025-NSN-Camp-Day2-1377-533x800.jpg, https://nsncyclingteam.com/wp-content/uploads/2025/12/CAuldPhoto-2025-NSN-Camp-Day2-7339-533x800.jpg) show 'BRAINVEST Wealth Management' along the left shoulder. Listed under 'Our Partners' on the team's About page."
+        }
+      },
+      {
+        "sponsorId": "peace-park-capital",
+        "placement": "sleeve",
+        "source": {
+          "name": "NSN Cycling Team, 'Gallery: NSN Cycling Team reveals stunning 2026 jersey'",
+          "date": "2025-12-09",
+          "url": "https://nsncyclingteam.com/gallery-nsn-cycling-team-reveals-stunning-2026-jersey",
+          "quote": "Introducing our 2026 jersey, inspired by NSN’s home city of Barcelona.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "The front photo (https://nsncyclingteam.com/wp-content/uploads/2025/12/CAuldPhoto-2025-NSN-Camp-Day2-1377-533x800.jpg) shows 'PEACE PARK CAPITAL' running down the right sleeve. Listed under 'Our Partners' on the team's About page."
         }
       },
       {
         "sponsorId": "scott",
+        "placement": "back",
+        "source": {
+          "name": "NSN Cycling Team, 'Gallery: NSN Cycling Team reveals stunning 2026 jersey'",
+          "date": "2025-12-09",
+          "url": "https://nsncyclingteam.com/gallery-nsn-cycling-team-reveals-stunning-2026-jersey",
+          "quote": "Introducing our 2026 jersey, inspired by NSN’s home city of Barcelona.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "The rear photo (https://nsncyclingteam.com/wp-content/uploads/2025/12/CAuldPhoto-2025-NSN-Camp-Day1-9177-533x800.jpg) shows 'SCOTT' running down the rear side panels. SCOTT is the team's bike supplier from 2026 (team announcement, 3 Dec 2025: 'SCOTT and NSN Cycling Team today announce a multi-year sponsorship deal.')."
+        }
+      },
+      {
+        "sponsorId": "ekoi",
         "placement": "partner",
         "source": {
-          "name": "NSN Cycling Team — homepage / partner logos",
-          "date": "unknown",
-          "url": "https://nsncyclingteam.com/"
+          "name": "NSN Cycling Team, 'Gallery: NSN Cycling Team reveals stunning 2026 jersey'",
+          "date": "2025-12-09",
+          "url": "https://nsncyclingteam.com/gallery-nsn-cycling-team-reveals-stunning-2026-jersey",
+          "quote": "Our jersey was designed by Stijn Dossche of stycle.design and produced by Ekoï.",
+          "note": "Kit manufacturer (its logo also appears on the jersey chest/back, helmets and shorts); listed as partner per the convention for kit suppliers.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "2026 UCI WorldTeam. NSN Cycling Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "sponsorsComplete": true,
+    "summary": "NSN and Stoneweg (the team's joint-venture owners) on the front, Cantina Fantini lower front and on the shorts, Peace Park Capital and Brainvest on the sleeve and shoulder, SCOTT on the rear side panels, kit made by Ekoï: read from the photos in the team's kit-reveal gallery (9 December 2025), which show no other commercial marks.",
     "change": null
   },
   {
@@ -14122,6 +14976,36 @@
     "change": null
   },
   {
+    "id": "panama-2026-home",
+    "clubId": "panama",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "reebok",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines, 'Panama 2026 World Cup Home, Away & Third Kits Released'",
+          "date": "2026-04-16",
+          "url": "https://www.footyheadlines.com/2026/04/reebok-panama-2026-world-cup-home-away-third-kits.html",
+          "quote": "Reebok has officially unveiled the new home, away, and third kits for the Panama national team ahead of the 2026 World Cup.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. The full launch gallery shows no commercial sponsor, only the Reebok logo and the FEPAFUT crest."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "No commercial shirt sponsors on Panama's 2026 World Cup home shirt. The Reebok kit (unveiled 14-16 April 2026) carries only the Reebok logo and the FEPAFUT crest; Panama24News' description of the launch mentions only the 'canaleros' inscription on the back of the neck. Kit maker Reebok is listed as partner per dataset convention.",
+    "change": null
+  },
+  {
     "id": "panathinaikos-2026-27-home",
     "clubId": "panathinaikos",
     "season": "2026-27",
@@ -14133,6 +15017,35 @@
     "sponsors": [],
     "sponsorsComplete": false,
     "summary": null,
+    "change": null
+  },
+  {
+    "id": "paraguay-2026-home",
+    "clubId": "paraguay",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "puma",
+        "placement": "partner",
+        "source": {
+          "name": "ABC Color (EFE), 'Paraguay presenta la camiseta que vestirá en el Mundial, que honra su historia'",
+          "date": "2026-03-18",
+          "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/03/18/paraguay-presenta-la-camiseta-que-vestira-en-el-mundial-que-honra-su-historia/",
+          "quote": "las rayas aparecen imitando trazos de tierra roja, un detalle ideado por el sponsor oficial de la selección paraguaya, Puma",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "2026 home kit (launched 18 March 2026 for the World Cup, still worn in September 2026 friendlies). No commercial sponsors: kit-launch photos and the 27 September 2026 friendly against Bolivia show only the Puma logo and the APF crest on the shirt, and plain blue shorts. APF federation partners that do not appear on the match shirt are not listed here (see the pull request).",
     "change": null
   },
   {
@@ -14734,6 +15647,36 @@
     ],
     "sponsorsComplete": false,
     "summary": "PUMA-made home shirt in the classic red-white stripes, launched 17 July 2026, with the Metropoolregio Brainport Eindhoven region brand on the front (seven partner companies behind one name since 2019), GoodHabitz on the back and 50+ Mobiel on the right sleeve. Not marked complete: the FANstore photos also show a small round Philips badge at the top of the back, which no page text documents for this season, so it is noted here rather than recorded as a patch sponsor.",
+    "change": null
+  },
+  {
+    "id": "qatar-2026-home",
+    "clubId": "qatar",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "Football Shirt Culture: Qatar 2026 Adidas Home Kit",
+          "date": "2025-11-24",
+          "url": "https://www.footballshirtculture.com/new-kits/qatar-2026-home-shirt.html",
+          "note": "Kit maker. Named-press kit write-up: the shirt carries the QFA crest and adidas marks only, with 'Qatar' in Arabic on the upper back and matching maroon shorts; no commercial sponsor on any placement. GOAL's kit guide (2026-06-24) likewise describes only the crest and Three Stripes.",
+          "quote": "Qatar have released their Home football kit for the 2026-2028 cycle, with adidas presenting a design",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "adidas home kit for the 2026 World Cup cycle. No commercial shirt sponsors: kit-press write-ups describe only the QFA crest, adidas branding and 'Qatar' in Arabic on the upper back.",
     "change": null
   },
   {
@@ -15454,12 +16397,17 @@
           "name": "Dubai Media Office, Emirates tips-off as the Official Main Sponsor of Real Madrid Basketball",
           "date": "2025-09-15",
           "url": "https://www.mediaoffice.ae/en/news/2025/september/15-09/emirates-tips-off-as-the-official-main-sponsor-of-real-madrid-basketball",
-          "note": "Emirates 'Fly Better' on player jerseys (Official Main Sponsor, multi-year)"
+          "quote": "As part of the agreement, Emirates’ ‘Fly Better’ branding will prominently feature on the jerseys",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @{{HUMAN}})"
+          },
+          "note": "Emirates 'Fly Better' on player jerseys (Official Main Sponsor, multi-year, from September 2025). Seen on the front of the 2026/27 home jersey in official product photos and game photos (September 2026)."
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "Emirates is the Official Main Sponsor; 'Fly Better' on the players' jerseys.",
+    "sponsorsComplete": true,
+    "summary": "Emirates 'Fly Better' is the only commercial sponsor on the 2026/27 home kit, on the front of the jersey. Checked every placement: sleeveless jersey, back carries only the player name and number (retail product photos front and back, plus the retailer description, show nothing else), shorts carry no sponsor (25/26 retail shorts and September 2026 game photos show only the club crest, adidas mark and competition badges). The Liga Endesa / EuroLeague chest badge is a competition mark, not a sponsor.",
     "change": null
   },
   {
@@ -18579,6 +19527,37 @@
     "sponsorsComplete": false,
     "summary": "2026 UCI Women's WorldTeam sponsored by Uno-X (Reitan Retail).",
     "change": null
+  },
+  {
+    "id": "uruguay-2026-home",
+    "clubId": "uruguay",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines, 'Uruguay 2026 World Cup Home & Away Kits Released'",
+          "date": "2026-03-21",
+          "url": "https://www.footyheadlines.com/2025/06/uruguay-2026-world-cup-home-away-kits.html",
+          "quote": "The Uruguay 2026 World Cup home kit, made by Nike, features the classic Celeste (sky blue) color with a white polo collar and navy accents.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. The launch article's front and back photos of the home shirt show no commercial sponsor logos, only the Nike swoosh and the AUF crest. National-team playing kits carry no commercial sponsors."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "change": null,
+    "summary": "Kit made by Nike (released 23 March 2026 for the 2026 World Cup, per Footy Headlines). No commercial sponsors appear anywhere on the home shirt in the launch photos: only the manufacturer logo and the AUF crest.",
+    "shortLine": "No shirt sponsors, kit made by Nike"
   },
   {
     "id": "us-sailgp-2026-home",

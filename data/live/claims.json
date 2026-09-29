@@ -667,6 +667,71 @@
     "reviewed": false
   },
   {
+    "id": "al-salam-bank-shareholdings",
+    "kind": "ownership",
+    "ownerIds": [
+      "al-salam-bank-bsc"
+    ],
+    "text": "Al Salam Bank is a public bank listed on Bahrain Bourse; its major shareholders at 31 December 2025 were Bank Muscat S.A.O.G. (14.74%), Muscat Overseas Company L.L.C. (8.43%), both of Oman, and Sayacorp B.S.C. Closed (6.28%) of Bahrain. Its chairman, Shaikh Khalid bin Mustahail Al Mashani, is also chairman of Bank Muscat.",
+    "short": "Al Salam Bank is a listed Bahraini bank; largest holder Bank Muscat at 14.74%",
+    "source": {
+      "name": "Mubasher — Al Salam Bank B.S.C (SALAM) company profile, ownership",
+      "date": "2026-09-29",
+      "url": "https://english.mubasher.info/markets/BB/stocks/SALAM/profile",
+      "quote": "Ownership Bank Muscat SAOG (14.74%) Muscat Overseas Group (8.43%) Sayacorp B.S.C Closed (6.28%)",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Al Salam Bank: Annual Report 2025",
+        "date": "2026",
+        "url": "https://bahrainbourse.com/Documents/05052026150455En/05052026150455En_File2.pdf",
+        "quote": "1 Bank Muscat (S.A.O.G) Sultanate of Oman 437,315,389 14.74",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        },
+        "note": "Same report, 'Major Shareholders as of 31 December 2025': '2 Muscat Overseas Company L.L.C. Sultanate of Oman 250,246,941 8.43' and '3 Sayacorp B.S.C Closed Kingdom of Bahrain 186,273,227 6.28'; no government shareholders are listed. Board: 'He is the Chairman of the Board of Directors of Al Salam Bank, the Solidarity Group Holding and Solidarity Bahrain in the Kingdom of Bahrain, as well as Chairman of Bank Muscat S.A.O.G.' Filed on Bahrain Bourse."
+      }
+    ]
+  },
+  {
+    "id": "alba-mumtalakat-majority",
+    "kind": "ownership",
+    "ownerIds": [
+      "mumtalakat"
+    ],
+    "text": "Bahrain's sovereign wealth fund Mumtalakat holds 69.38% of Aluminium Bahrain (Alba); Saudi Arabian Mining Company (Ma'aden) holds 20.62%.",
+    "short": "Mumtalakat holds 69.38% of Alba",
+    "source": {
+      "name": "Aluminium Bahrain (Alba) — Corporate Profile",
+      "date": "2026",
+      "url": "https://www.albasmelter.com/en/category/corporate-profile",
+      "quote": "its shareholders are Bahrain Mumtalakat Holding Company B.S.C. © (69.38%), Saudi Arabian Mining Company (Ma'aden) (20.62%) and General Public (10%)",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Arabian Gulf Business Insight (AGBI) — Alba's total dividend for 2025 reaches $203m",
+        "date": "2026-03-13",
+        "url": "https://www.agbi.com/finance/2026/03/albas-total-dividend-for-2025-reaches-203m/",
+        "quote": "Bahrain Mumtalakat Holding Company owns 69.38 percent of Alba, while Saudi Arabian Mining Company (Maaden) owns 20.62 percent.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "albert-corporation-record",
     "kind": "ownership",
     "ownerIds": [
@@ -1840,6 +1905,38 @@
     "reviewed": false
   },
   {
+    "id": "bahrain-edb-government-agency",
+    "kind": "ownership",
+    "ownerIds": [
+      "government-of-bahrain"
+    ],
+    "text": "Bahrain's Economic Development Board (EDB) is the Bahraini government's investment promotion agency, chaired by the Crown Prince of Bahrain.",
+    "short": "Bahrain EDB is a Bahraini government agency chaired by the Crown Prince",
+    "source": {
+      "name": "Bahrain EDB — Frequently asked questions (archived)",
+      "date": "2026",
+      "url": "https://web.archive.org/web/20260520222437/https://www.bahrainedb.com/about-us/faq",
+      "quote": "The EDB is an investment promotion agency, chaired by His Royal Highness the Crown Prince of Bahrain, with the overall responsibility for attracting investment into Bahrain",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Fortune — Amid the Gulf's increasingly competitive landscape, Bahrain is carving out a distinct investment strategy (Melissa Hancock)",
+        "date": "2026-07-14",
+        "url": "https://fortune.com/2026/07/14/amid-gulf-competitive-investment-landscape-bahrain-distinct-investment-strategy",
+        "quote": "according to the head of the government agency tasked with bringing investment into the kingdom",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "bahri-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -1932,6 +2029,28 @@
     "reviewed": false
   },
   {
+    "id": "bank-muscat-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "bank-muscat",
+      "government-of-oman"
+    ],
+    "text": "Bank Muscat's shareholders at 31 December 2025 were the Royal Court Affairs (27.31%), Ominvest Group (15.00%), Muscat Overseas Group (5.63%), the Social Protection Fund (4.99%), Pension Funds Trust Accounts (19.55%) and others (27.52%). Its deputy chairman is Director General of Audit at the Royal Court Affairs, and a director is Chief Executive Officer of the Social Protection Fund.",
+    "short": "Bank Muscat: Royal Court Affairs 27.31%, Social Protection Fund 4.99%, pension fund trust accounts 19.55%.",
+    "source": {
+      "name": "Bank Muscat: Shareholders Booklet 2025",
+      "date": "2026",
+      "url": "https://www.bankmuscat.om/en/investorrelations/AnnualReports/Shareholders_book_2025_EN.pdf",
+      "quote": "Royal Court Affairs 27.31% Ominvest Group 15.00% Muscat Overseas Group 5.63% Social Protection Fund 4.99% Pension Funds Trust Accounts 19.55%",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      },
+      "note": "Corporate governance report, 'Source: Muscat Clearing & Depository Co. (S.A.O.C.) as of December 31, 2025.' Board profiles: 'Sheikh Ahmed Al Sadi is Director General of Audit at the Royal Court Affairs.' 'Dr. Faisal Al Farsi is currently the Chief Executive Officer of the Social Protection Fund'. The booklet is for the general meetings of 17 March 2026."
+    },
+    "reviewed": false
+  },
+  {
     "id": "bank-of-america-major-holders-2026",
     "kind": "ownership",
     "ownerIds": [
@@ -1999,6 +2118,38 @@
           "by": "Schnitzel"
         },
         "note": "Corroborates that Bank Respublika's shareholders include private German financial institutions (SIDT, formerly alongside DEG) rather than the Azerbaijani state."
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "bapco-energies-government-owned",
+    "kind": "ownership",
+    "ownerIds": [
+      "government-of-bahrain"
+    ],
+    "text": "Bapco Energies, Bahrain's national energy holding company, is fully owned by the government of the Kingdom of Bahrain.",
+    "short": "Bapco Energies is fully owned by the Bahraini government",
+    "source": {
+      "name": "Bapco Energies — Investors",
+      "date": "2026",
+      "url": "https://www.bapcoenergies.com/investors",
+      "quote": "Bapco Energies is fully owned by the Kingdom of Bahrain's government, and reports directly to The Higher Committee for Energy and Natural Resources.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Gulf Daily News (GDN Online) — Bahrain expected to issue $2-3 billion of international bonds in 2025",
+        "date": "2025-01-27",
+        "url": "https://www.gdnonline.com/Details/1343103",
+        "quote": "This follows a $1bn sukuk issued by state-owned Bapco Energies earlier this month.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
       }
     ],
     "reviewed": false
@@ -2316,6 +2467,40 @@
     "reviewed": false
   },
   {
+    "id": "beyon-government-shareholding",
+    "kind": "ownership",
+    "ownerIds": [
+      "mumtalakat",
+      "government-of-bahrain"
+    ],
+    "text": "Beyon (Batelco Group) is 56.98% held by Bahraini state bodies its 2025 annual report classifies as \"Government\" shareholders: the state fund Mumtalakat (36.67%) and the Social Insurance Organization (20.31%).",
+    "short": "Bahraini state bodies hold 56.98% of Beyon (Mumtalakat 36.67%, Social Insurance Organization 20.31%)",
+    "source": {
+      "name": "Beyon — Annual Report 2025 (Corporate Governance, Ownership Structure)",
+      "date": "2026-03",
+      "url": "https://beyon.com/wp-content/uploads/2026/03/Beyon_AR2025_English.pdf",
+      "quote": "1. Mumtalakat Holding Company 609,840,000 36.67% Government Local 2. Amber Holding Company 332,640,000 20% Organization Foreign 3. Social Insurance Organization 337,835,705 20.31% Government Local",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Mubasher — Beyon B.S.C (BEYON) company profile, ownership",
+        "date": "2026-09-29",
+        "url": "https://english.mubasher.info/markets/BB/stocks/BEYON/profile",
+        "quote": "Ownership Bahrain Mumtalakat Holding Co (36.67%) Amber Holding Limited (20.00%) Social Insurance Organization (10.58%)",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Mubasher also lists Social Insurance Organisation pension funds at 6.11% and 3.62%."
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "beyond-developments-omniyat-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -2334,6 +2519,39 @@
       }
     },
     "reviewed": false
+  },
+  {
+    "id": "bianchi-cycleurope-grimaldi-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "grimaldi-industri"
+    ],
+    "text": "Bianchi (F.I.V. Edoardo Bianchi SpA) is part of Cycleurope AB Group, a Swedish company of Grimaldi Industri AB. BikeBiz (2000) called Cycleurope a wholly owned subsidiary of the Grimaldi Industri group and Salvatore Grimaldi the owner of Grimaldi Industri AB.",
+    "short": "Bianchi is part of Cycleurope AB, of Sweden's Grimaldi Industri AB",
+    "source": {
+      "name": "Cycleurope — Our brands: Bianchi",
+      "date": "2026",
+      "url": "https://www.cycleurope.com/our-brands/bianchi",
+      "quote": "Founded in 1885 by Edoardo Bianchi, F.I.V. Edoardo Bianchi Spa is part of Cycleurope AB Group - Swedish company of the Grimaldi Industri AB",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "BikeBiz: Goetzmann ousted from Cycleurope",
+        "date": "2000-04-20",
+        "url": "https://bikebiz.com/goetzmann-ousted-from-cycleurope/",
+        "quote": "Salvatore Grimaldi, chairman of the Cycleurope AB board and owner of Grimaldi Industri AB",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        },
+        "note": "Same article: 'The Cycleurope Group is a wholly-owned subsidiary within the Grimaldi Industri Group.'"
+      }
+    ]
   },
   {
     "id": "bingx-record",
@@ -2889,6 +3107,38 @@
         "by": "Schnitzel"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "brainvest-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "brainvest"
+    ],
+    "text": "Brainvest Wealth Management, in business since 2003 with offices in Switzerland, the US and Brazil, lists Dany Roizman (Switzerland) as its founder on its team page.",
+    "short": "Brainvest's team page names Dany Roizman as founder.",
+    "source": {
+      "name": "Brainvest Wealth Management, 'Meet the Team'",
+      "date": "2026",
+      "url": "https://brainvest.com/meet-the-team",
+      "quote": "Dany Roizman Switzerland Founder",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "NSN Cycling Team, 'About' (partners section: Brainvest Wealth Management)",
+        "date": "2026",
+        "url": "https://nsncyclingteam.com/about/",
+        "quote": "Since 2003, Brainvest has built differentiated investment solutions with the highest level of governance and engagement",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -4403,6 +4653,38 @@
     ]
   },
   {
+    "id": "cra-m-santos-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "m-santos-centro-de-reciclagem-da-amadora-lda"
+    ],
+    "text": "The Centro de Reciclagem da Amadora brand belongs to M. Santos - Centro de Reciclagem da Amadora, Lda (NIF 513037624, Sociedade por Quotas, share capital 5,000 euros), a vehicle-recycling company of Amadora.",
+    "short": "Centro de Reciclagem da Amadora is M. Santos - Centro de Reciclagem da Amadora, Lda.",
+    "source": {
+      "name": "centroreciclagemdaamadora.pt (footer)",
+      "date": "2026",
+      "url": "https://centroreciclagemdaamadora.pt/",
+      "quote": "© 2026 All rights reserved to M.Santos - Centro de Reciclagem da Amadora, Lda",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Racius: M. Santos - Centro de Reciclagem da Amadora, Lda company profile",
+        "date": "2026-09-28",
+        "url": "https://www.racius.com/m-santos-centro-de-reciclagem-da-amadora-lda/",
+        "quote": "Forma Jurídica Sociedade por Quotas Capital Social € 5.000,00",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "crowdstrike-record",
     "kind": "ownership",
     "ownerIds": [
@@ -5422,6 +5704,40 @@
     "kind": "ownership"
   },
   {
+    "id": "ekoi-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "ekoi"
+    ],
+    "text": "Ekoï is a French cycling-equipment company founded in Roubaix in 2001 by Jean-Christophe Rattel and headquartered in Fréjus. In 2019 its minority shareholders since 2014 (Amundi, Sofipaca and Jean-Fabrice Mathieu) sold their stakes to Rattel, so that JCR Ekoï is owned 100% by him.",
+    "short": "Ekoï is owned 100% by its founder Jean-Christophe Rattel (since 2019).",
+    "source": {
+      "name": "TOUR Magazin, 'Ekoi interview: Many brands will disappear' (interview with CEO Jean-Christophe Rattel)",
+      "date": "2026-09-27",
+      "url": "https://www.tour-magazin.de/en/professional-cycling/latest-news/ekoi-interview-many-brands-will-disappear",
+      "quote": "The French brand Ekoi was founded in Roubaix in 2001 and is now headquartered in Fréjus.",
+      "note": "The page's 'About the person' block states Rattel founded Ekoï in 2001 together with a friend; machine-translated English version of a German original.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Fusacq: Jean-Christophe RATTEL récupère la totalité d'EKOI",
+        "date": "2019-10-25",
+        "url": "https://www.fusacq.com/buzz/jean-christophe-rattel-recupere-la-totalite-d-ekoi-a188473_be_",
+        "quote": "Désormais, JCR Ekoï est détenue à 100% par Monsieur Rattel",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        },
+        "note": "Same article: the buy-back of 'des actionnaires minoritaires présents depuis 2014, à savoir, AMUNDI et SOFIPACA ... et Jean-Fabrice Mathieu à titre personnel'."
+      }
+    ]
+  },
+  {
     "id": "el-camino-health-record",
     "kind": "ownership",
     "ownerIds": [
@@ -6149,6 +6465,40 @@
       "date": "2022-01-04",
       "url": "https://www.reuters.com/markets/deals/fanatics-buys-topps-trading-card-business-500-million-2022-01-04/"
     },
+    "reviewed": false
+  },
+  {
+    "id": "fantini-platinum-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "fantini-group",
+      "platinum-equity"
+    ],
+    "text": "The Fantini Group of Ortona, Italy, which produces and markets wines, is a Platinum Equity portfolio company, acquired from NB Renaissance Partners in March 2020; WineNews (June 2025) describes the Ortona-based wine group as owned by Platinum Equity.",
+    "short": "The Fantini Group (Cantina Fantini) is owned by the US private-equity firm Platinum Equity.",
+    "source": {
+      "name": "Platinum Equity — portfolio: Fantini Group",
+      "date": "2026",
+      "url": "https://www.platinumequity.com/our-company/fantini-group",
+      "quote": "Fantini Group acquires grapes from local farmers, produces and markets wines under specialty labels to customers internationally",
+      "note": "Same page, 'Transaction Description': 'Acquired from NB Renaissance Partners in March 2020'.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "WineNews, 'Italian Vignerons conquering Spain: Fantini Wines takes over the former Venta la Vega winery'",
+        "date": "2025-06-12",
+        "url": "https://winenews.it/en/italian-vignerons-conquering-spain-fantini-wines-takes-over-the-former-venta-la-vega-winery_560412",
+        "quote": "the Ortona-based wine group and export leader from Southern Italy (owned by Platinum Equity, with a record Ebitda of 27.5% and a turnover of 84 million euros in 2024",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -9591,6 +9941,38 @@
     "reviewed": false
   },
   {
+    "id": "lebull-southern-stingray-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "southern-stingray"
+    ],
+    "text": "Lebull is the betting brand of Southern Stingray, S.A., the SRIJ-licensed operator: the regulator's list of licensed entities gives LeBull (www.lebull.pt) with Southern Stingray, S.A. as its exploring entity under sports-betting licence 027.",
+    "short": "Lebull is operated by SRIJ licensee Southern Stingray, S.A.",
+    "source": {
+      "name": "SRIJ (Turismo de Portugal), Entidades licenciadas - jogos e apostas online",
+      "date": "2026-09-28",
+      "url": "https://www.srij.turismodeportugal.pt/pt/jogos-e-apostas-online/entidades-licenciadas",
+      "quote": "Marca: LeBull Website: www.lebull.pt Entidade exploradora: SOUTHERN STINGRAY, S.A.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Feeling Lucky: SRIJ emite duas licenças de jogo para novo operador em Portugal",
+        "date": "2023-02-02",
+        "url": "https://feelinglucky.pt/srij-emite-duas-licencas-de-jogo-para-novo-operador-em-portugal/",
+        "quote": "duas novas licenças de jogo – números 27 e 28 – à empresa Southern Stingray, S.A., que vai assim operar legalmente no nosso país sob a marca Lebull",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "leclerc-cooperative-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -10359,6 +10741,38 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "marcoscar-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "marcoscar-sa"
+    ],
+    "text": "Marcos Car is the brand of Marcoscar, S.A., a Barreiro car-dealer company (NIF 508842778, Sociedade Anónima, share capital 1,250,000 euros).",
+    "short": "Marcos Car is the brand of Marcoscar, S.A. (Barreiro).",
+    "source": {
+      "name": "Racius: Marcoscar, S.A. company profile",
+      "date": "2026-09-28",
+      "url": "https://www.racius.com/marcoscar-s-a/",
+      "quote": "Forma Jurídica Sociedade Anónima Capital Social € 1.250.000,00",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "marcoscar.com.pt (footer)",
+        "date": "2026",
+        "url": "https://www.marcoscar.com.pt/",
+        "quote": "NIF: 508842778",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -11363,6 +11777,38 @@
     "reviewed": false
   },
   {
+    "id": "mumtalakat-sovereign-wealth-fund",
+    "kind": "ownership",
+    "ownerIds": [
+      "mumtalakat"
+    ],
+    "text": "Bahrain Mumtalakat Holding Company is the sovereign wealth fund of the Kingdom of Bahrain, wholly owned by the Bahraini government.",
+    "short": "Mumtalakat is Bahrain's sovereign wealth fund, wholly government-owned",
+    "source": {
+      "name": "Bahrain Mumtalakat Holding Company — About Us",
+      "date": "2026",
+      "url": "https://www.mumtalakat.bh/who-we-are/about-us",
+      "quote": "Established in 2006, Mumtalakat is the Sovereign Wealth Fund of Bahrain.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "National Bank of Bahrain — Sustainable Finance Framework (December 2024)",
+        "date": "2024-12",
+        "url": "https://nbbonline.com/storage/2025/02/NBB_Sustainable-Finance-Framework-V4-1.pdf",
+        "quote": "44.06% Bahrain Mumtalakat Holding Company, wholly-owned by the Government of the Kingdom of Bahrain",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "murprotec-sa-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -11507,6 +11953,40 @@
         "by": "Schnitzel"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "nbb-government-stake",
+    "kind": "ownership",
+    "ownerIds": [
+      "mumtalakat",
+      "government-of-bahrain"
+    ],
+    "text": "National Bank of Bahrain is 44.06% owned by Bahrain Mumtalakat Holding Company, wholly owned by the Bahraini government, and 10.85% by the Social Insurance Organisation; Bahrain Bourse lists Mumtalakat as holding the stake \"on behalf of Bahrain Government\".",
+    "short": "State fund Mumtalakat holds ~44% of NBB \"on behalf of Bahrain Government\"",
+    "source": {
+      "name": "National Bank of Bahrain — Sustainable Finance Framework (December 2024)",
+      "date": "2024-12",
+      "url": "https://nbbonline.com/storage/2025/02/NBB_Sustainable-Finance-Framework-V4-1.pdf",
+      "quote": "owned 45.09% by private and institutional shareholders, 44.06% Bahrain Mumtalakat Holding Company, wholly-owned by the Government of the Kingdom of Bahrain, and 10.85% by the Social Insurance Organisation",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Bahrain Bourse — Major Shareholders, National Bank of Bahrain (NBB)",
+        "date": "2019",
+        "url": "https://bahrainbourse.com/sysimages/majorshareholder/NBB_MajorShareholder_12271126.pdf",
+        "quote": "Bahrain Mumtalakat Holding Co (On behalf of Bahrain Government) Bahrain 44.18",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Undated one-page PDF; its file metadata gives 11 February 2019. Next line: 'Social Insurance Organization (GOSI,Civil Pension Fund & Military Pension Fund) Bahrain 10.88'."
+      }
+    ],
     "reviewed": false
   },
   {
@@ -11894,6 +12374,26 @@
     "reviewed": false
   },
   {
+    "id": "norgesgruppen-kiwi-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "norgesgruppen"
+    ],
+    "text": "Norgesgruppen owns KIWI, along with Meny, Joker and Spar.",
+    "short": "Norgesgruppen owns KIWI.",
+    "source": {
+      "name": "Nettavisen: Massive prisøkninger: Kiwi-eier håver inn",
+      "date": "2025-03-19",
+      "url": "https://www.nettavisen.no/okonomi/norgesgruppen-tjente-4-9-milliarder-i-fjor/s/5-95-2340983",
+      "quote": "Norgesgruppen eier blant annet Kiwi, Meny, Joker og Spar og er Norges klart største dagligvare-aktør",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "northmark-strategies-record",
     "ownerIds": [
       "northmark-strategies"
@@ -12015,6 +12515,49 @@
           "on": "2026-09-28",
           "by": "Schnitzel"
         }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "nsn-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "nsn-never-say-never"
+    ],
+    "text": "NSN (Never Say Never) is a global sports and event company co-founded by Andrés Iniesta, one of its main shareholders, and led by its president and founder Joel Borràs. In November 2025 Stoneweg became a shareholder of NSN as the two formed the joint venture behind the NSN Cycling Team.",
+    "short": "NSN: Andrés Iniesta is a main shareholder; Stoneweg took a stake in 2025.",
+    "source": {
+      "name": "NSN Cycling Team, 'NSN and Stoneweg launch the NSN Cycling Team'",
+      "date": "2025-11-20",
+      "url": "https://nsncyclingteam.com/nsn-and-stoneweg-launch-the-nsn-cycling-team",
+      "quote": "Stoneweg becomes a shareholder of NSN, with the aim of continuing to support major projects in the world of sport and entertainment",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "NSN Cycling Team, 'About'",
+        "date": "2026",
+        "url": "https://nsncyclingteam.com/about/",
+        "quote": "global sports and event company NSN (Never Say Never), co-founded by Spanish football legend Andrés Iniesta, and Swiss investment firm Stoneweg",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "Ara: Iniesta enters the world of cycling by acquiring the team that bore the name of Israel",
+        "date": "2025-11-25",
+        "url": "https://en.ara.cat/sports/iniesta-enters-the-world-of-cycling-by-acquiring-the-team-that-bore-the-name-of-israel_1_5572902.html",
+        "quote": "A golden opportunity for the company NSN (Never Say Never), one of whose main shareholders is Andrés Iniesta.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        },
+        "note": "English translation of the Catalan article, labelled 'Unverified ENG translation' on the page."
       }
     ],
     "reviewed": false
@@ -12251,6 +12794,38 @@
       }
     },
     "reviewed": false
+  },
+  {
+    "id": "omniyat-omniyat-group-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "omniyat-group"
+    ],
+    "text": "OMNIYAT is the flagship of OMNIYAT Group, founded and chaired by Mahdi Amjad; LuxHabitat describes the developer as owned by Mahdi Amjad.",
+    "short": "OMNIYAT is the flagship of OMNIYAT GROUP, founded by Mahdi Amjad",
+    "source": {
+      "name": "Team Bahrain Victorious — OMNIYAT supports Team Bahrain Victorious in 2026 WorldTour Cycling season",
+      "date": "2025-11-24",
+      "url": "https://bahraincyclingteam.com/omniyat-supports-team-bahrain-victorious-in-2026-worldtour-cycling-season/",
+      "quote": "Mahdi Amjad, Founder and Executive Chairman of OMNIYAT Group, a diversified multi-brand portfolio, including OMNIYAT",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "LuxHabitat: Omniyat | Luxury Projects & Properties in Dubai",
+        "date": "2026",
+        "url": "https://www.luxhabitat.ae/developers/omniyat/",
+        "quote": "Omniyat is the UAE’s leading real estate and property development company since 2005. The organization, owned by Mahdi Amjad",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        }
+      }
+    ]
   },
   {
     "id": "omr-automotive-group-record",
@@ -12496,6 +13071,38 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "peace-park-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "peace-park-capital"
+    ],
+    "text": "Peace Park Capital invests in collateralized loan obligation (CLO) securities. Its team page lists Ron Baron, a founder, executive director and CIO of Livermore Investments Group.",
+    "short": "Peace Park Capital is a CLO investor; its team includes Livermore's Ron Baron.",
+    "source": {
+      "name": "Peace Park Capital, 'About us'",
+      "date": "2025",
+      "url": "https://www.peaceparkcapital.com/about-us/",
+      "quote": "Peace Park generates attractive risk-adjusted returns through diversified exposure to and active management of collateralized loan obligation (CLO) securities",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Peace Park Capital, 'Team' (Ron Baron)",
+        "date": "2025",
+        "url": "https://www.peaceparkcapital.com/team/team",
+        "quote": "Mr Baron is a Founder, Executive Director and CIO of Livermore Investments Group.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -13635,6 +14242,26 @@
     "reviewed": false
   },
   {
+    "id": "reebok-authentic-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "authentic-brands-group"
+    ],
+    "text": "Authentic Brands Group (ABG) completed its acquisition of Reebok from adidas on 1 March 2022; Reebok is part of ABG's brand portfolio.",
+    "short": "Reebok is owned by Authentic Brands Group.",
+    "source": {
+      "name": "Authentic Brands Group press release, 'Authentic Brands Group Finalizes the Acquisition of Reebok'",
+      "date": "2022-03-01",
+      "url": "https://corporate.authentic.com/press-releases/abg-finalizes-reebok",
+      "quote": "Authentic Brands Group (ABG) today announced that it has completed the acquisition of Reebok from adidas.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "regione-autonoma-della-sardegna-record",
     "kind": "ownership",
     "ownerIds": [
@@ -13647,6 +14274,38 @@
       "date": "2026-09",
       "url": "https://www.regione.sardegna.it/ricerca/assessorato-del-turismo-artigianato-e-commercio-527"
     },
+    "reviewed": false
+  },
+  {
+    "id": "remax-yes-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "resposta-exemplar-mediacao-imobiliaria-lda"
+    ],
+    "text": "RE/MAX Yes is the agency of Resposta Exemplar - Mediação Imobiliária, Lda (AMI 9706, Paço de Arcos, Sociedade por Quotas, share capital 5,000 euros); RE/MAX Portugal says all its agencies are autonomously and independently managed.",
+    "short": "RE/MAX Yes is run by Resposta Exemplar - Mediação Imobiliária, Lda.",
+    "source": {
+      "name": "RE/MAX Portugal: Agência RE/MAX Yes",
+      "date": "2026",
+      "url": "https://www.remax.pt/pt/agencia/remax-yes/12344",
+      "quote": "RE/MAX Yes Resposta Exemplar - Mediação Imobiliária, Lda AMI 9706",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Racius: Resposta Exemplar - Mediação Imobiliária, Lda company profile",
+        "date": "2026-09-28",
+        "url": "https://www.racius.com/resposta-exemplar-mediacao-imobiliaria-lda/",
+        "quote": "Forma Jurídica Sociedade por Quotas Capital Social € 5.000,00",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -14688,6 +15347,38 @@
     "reviewed": false
   },
   {
+    "id": "scott-youngone-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "youngone-corporation"
+    ],
+    "text": "Youngone Corporation of South Korea acquired 20% of Scott Sports in 2013 and 50.01% in 2015, taking the majority from Beat Zaugg; after a February 2025 International Chamber of Commerce arbitration ruling it is to hold 97% of Scott Sports and total control of the company.",
+    "short": "Youngone Corporation of South Korea controls Scott Sports, holding ~97% after a 2025 ICC ruling.",
+    "source": {
+      "name": "Brújula Bike, 'SCOTT Sports is acquired by the South Korean company Youngone'",
+      "date": "2025-02-14",
+      "url": "https://en.brujulabike.com/scott-sports-is-acquired-by-the-south-korean-company-youngone",
+      "quote": "With this decision, Youngone Corp will have 97% of the shares of Scott Sports and total control over all decisions of the company",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Bicycle Retailer and Industry News, 'Scotts Sports owner Youngone loans company $176 million'",
+        "date": "2024-01-16",
+        "url": "https://www.bicycleretailer.com/international/2024/01/16/scotts-sports-owner-youngone-invests-additional-176-million",
+        "quote": "It acquired a 20% share in Scott in 2013 and expanded it to 50.01% in 2015, taking over the majority position from Beat Zaugg",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "kind": "ownership",
     "id": "seafrigo-investissements-record",
     "ownerIds": [
@@ -15457,6 +16148,38 @@
     "reviewed": false
   },
   {
+    "id": "solfaestofo-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "solfaestofo-lda"
+    ],
+    "text": "Solfaestofo is Solfaestofo, Lda (NIF 502759330, Sociedade por Quotas, share capital 52,373.78 euros), an upholstery manufacturer of Cernache do Bonjardim, Sertã, whose privacy policy names the company as the operator of solfaestofo.pt.",
+    "short": "Solfaestofo is Solfaestofo, Lda (Sertã).",
+    "source": {
+      "name": "Racius: Solfaestofo, Lda company profile",
+      "date": "2026-09-28",
+      "url": "https://www.racius.com/solfaestofo-lda/",
+      "quote": "Forma Jurídica Sociedade por Quotas Capital Social € 52.373,78",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "solfaestofo.pt, Política de privacidade",
+        "date": "2024-03-28",
+        "url": "https://www.solfaestofo.pt/politica-de-privacidade",
+        "quote": "Esta Política de privacidade explica as políticas da Solfaestofo Lda sobre a recolha e utilização das informações",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "solverde-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -15979,6 +16702,49 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "stoneweg-swi-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "swi-group"
+    ],
+    "text": "Stoneweg is a Geneva-based investment platform founded about ten years ago by Jaume Sabater, and part of SWI Group, a Euronext Amsterdam-listed group born from the merger of Stoneweg and Icona Capital. In October 2025 the group's fully diluted stake in Stoneweg S.A. rose to 80.26%, giving it control; Max-Hervé George ultimately holds 95.242% of the voting rights in SWI Capital Holding.",
+    "short": "Stoneweg is 80.26% SWI Capital Holding, 95.242% controlled by Max-Hervé George.",
+    "source": {
+      "name": "NSN Cycling Team, 'NSN and Stoneweg launch the NSN Cycling Team'",
+      "date": "2025-11-20",
+      "url": "https://nsncyclingteam.com/nsn-and-stoneweg-launch-the-nsn-cycling-team",
+      "quote": "the Switzerland headquartered investment platform Stoneweg, founded 10 years ago by Jaume Sabater",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "SWI Group — homepage",
+        "date": "2026",
+        "url": "https://swi.com/",
+        "quote": "Born from the merger of Stoneweg and Icona Capital, SWI Group is a Euronext Amsterdam-listed global investment group",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "SWI Capital Holding Ltd: Prospectus",
+        "date": "2026-02-16",
+        "url": "https://swi.com/wp-content/uploads/SWICH-Prospectus-final.pdf",
+        "quote": "Mr Max-Hervé George ultimately holds, directly and indirectly, 95.242% of the voting rights in the Company.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        },
+        "note": "Same prospectus, 'Recent developments': 'In October 2025, the Group increased its participation in Stoneweg S.A. As a result, the Group’s fully diluted shareholding in Stoneweg S.A. increased to 80.26% and control has been achieved'."
+      }
+    ],
     "reviewed": false
   },
   {
@@ -17769,6 +18535,18 @@
         "by": "claude-review-282"
       }
     },
+    "additionalSources": [
+      {
+        "name": "Amnesty International — Bahrain 2025 (annual report)",
+        "date": "2025",
+        "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/bahrain/report-bahrain/",
+        "quote": "The government continued to suppress the rights to freedom of expression, association and peaceful assembly, including through arbitrary detention and prosecutions.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
