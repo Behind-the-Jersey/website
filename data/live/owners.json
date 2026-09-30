@@ -151,6 +151,14 @@
     "country": "USA"
   },
   {
+    "id": "aflac-inc",
+    "name": "Aflac Incorporated",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States",
+    "note": "Columbus, Georgia insurer; common stock (AFL) registered on the New York Stock Exchange (2025 Form 10-K cover page, SEC EDGAR)."
+  },
+  {
     "id": "afreximbank",
     "name": "African Export-Import Bank (Afreximbank)",
     "type": "unknown",
@@ -509,6 +517,14 @@
     "country": "Italy",
     "note": "EA7 is Armani's sportswear line",
     "parentId": null
+  },
+  {
+    "id": "arnold-clark-automobiles",
+    "name": "Arnold Clark Automobiles Limited",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": null,
+    "note": "Companies House SC036386. Persons with significant control: John Arnold Clark and Lady Philomena Butler Clark (each 75%+ of shares and voting rights, with control over the trustees of a trust), Adam Hugh Wallace Clark (25-50%, via trustees) and Jagc Holdings (25-50%)."
   },
   {
     "id": "arpa-industriale",
@@ -2581,7 +2597,8 @@
     "name": "French State via APE",
     "type": "state",
     "country": "France",
-    "parentId": null
+    "parentId": null,
+    "note": "The French State; its shareholdings in companies are managed by the Agence des participations de l'État (APE)."
   },
   {
     "id": "freshworks-inc",
@@ -2627,6 +2644,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "Spain"
+  },
+  {
+    "id": "future-plc",
+    "name": "Future plc",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "GB",
+    "note": "London-listed specialist media company; its brands page lists Go.Compare, and it completed the acquisition of GoCo Group (GoCompare's owner) in February 2021 (futureplc.com)."
   },
   {
     "id": "fxpro-group",
@@ -3355,6 +3380,14 @@
     "note": "Qingdao-based television and appliance group. Widely reported Qingdao state-linked (SASAC) but not confirmed against a primary filing in this pass."
   },
   {
+    "id": "hitachi-ltd",
+    "name": "Hitachi, Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Tokyo-headquartered industrial and digital conglomerate; listed in Tokyo and Nagoya (stock information, hitachi.com, as of 30 June 2026)."
+  },
+  {
     "id": "holding-cichy",
     "name": "Holding Cichy (H.C.)",
     "type": "private-company",
@@ -3808,6 +3841,14 @@
     "note": "Petrochemical producer, part of SIBUR group; general sponsor of FC Rubin."
   },
   {
+    "id": "kddi-corporation",
+    "name": "KDDI Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Telecommunications company; listed on the Tokyo Stock Exchange (code 9433) (stock information, kddi.com, as of 31 March 2026)."
+  },
+  {
     "id": "kerhupert",
     "name": "Kerhupert",
     "type": "private-company",
@@ -3975,6 +4016,14 @@
     "type": "private-company",
     "country": "Canada",
     "parentId": "yew-tree"
+  },
+  {
+    "id": "lawson-inc",
+    "name": "Lawson, Inc.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Convenience-store chain; taken private in 2024 and held 50/50 by Mitsubishi Corporation and KDDI Corporation (Lawson announcement, 2024-02-06; KDDI notice, 2024-08-20)."
   },
   {
     "id": "lbbw",
@@ -4641,6 +4690,14 @@
     "country": "Türkiye",
     "parentId": null,
     "note": "Operator of misli.com (App Store developer listing). Demirören Holding's site says it is a legal electronic dealer under a 2009 contract with the Spor Toto Organization and that it received an investment from Demirören Holding in 2019. Its shareholders are not in the cited sources."
+  },
+  {
+    "id": "mitsubishi-corporation",
+    "name": "Mitsubishi Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "General trading company; listed in Tokyo (securities code 8058) (stock information, mitsubishicorp.com, as of 31 March 2026, Wayback capture of 2026-06-12)."
   },
   {
     "id": "mizuno-corporation",
@@ -6197,6 +6254,14 @@
     "note": "French services group founded in 1986 by Christian Roulleau; the company register shows SAMSIC, SIREN 403227796, a SAS based in Cesson-Sévigné with Thierry Geffroy as président. The group's own site says it is and will remain a family-owned business (samsic-family-ownership)."
   },
   {
+    "id": "sankyo-frontier-co",
+    "name": "Sankyo Frontier Co., Ltd.",
+    "type": "listed-company",
+    "parentId": "wako-kosan",
+    "country": "Japan",
+    "note": "Kashiwa-based unit-house maker; listed on the Tokyo Stock Exchange Standard Market. Its securities report for the year ended March 2026 names the unlisted 有限会社和幸興産 (Wako Kosan) as parent company and largest shareholder (50.54%)."
+  },
+  {
     "id": "santa-casa",
     "name": "Santa Casa da Misericordia de Lisboa (Jogos Santa Casa)",
     "type": "state",
@@ -7513,6 +7578,13 @@
     "country": "France"
   },
   {
+    "id": "vinci-sa",
+    "name": "Vinci SA",
+    "type": "listed-company",
+    "country": "France",
+    "parentId": null
+  },
+  {
     "id": "virgin-media-o2",
     "name": "Virgin Media O2 (VMED O2 UK Limited)",
     "type": "private-company",
@@ -7611,6 +7683,14 @@
     "parentId": "russian-federation",
     "via": "Rosimushchestvo holds 60.93% of ordinary shares; Minfin holds 32.88% of preference shares",
     "note": "Majority state-controlled per VTB's own IR shareholder-structure page."
+  },
+  {
+    "id": "wako-kosan",
+    "name": "Wako Kosan Co., Ltd. (有限会社和幸興産)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Unlisted real-estate management company in Kashiwa, Chiba; parent of Sankyo Frontier. Sankyo Frontier's securities report for the year ended March 2026 says its voting rights are 100% held by 長妻和男, 長妻貴嗣 and their close relatives. English name from its own EDINET filing (2021-05-12: 'Wako Kosan Co,.Ltd.')."
   },
   {
     "id": "walt-disney-world-owner",
@@ -7838,6 +7918,14 @@
     "country": "Turkey",
     "parentId": null,
     "note": "Long-term vehicle rental company operating since 2009 (club announcement quoted by HalkTV, 1 July 2025). Owners not found."
+  },
+  {
+    "id": "yonex-co",
+    "name": "Yonex Co., Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Bunkyo-ku, Tokyo sporting-goods maker; listed on the Tokyo Stock Exchange Standard Market (securities report for the year ended March 2026)."
   },
   {
     "id": "yoovidhya-family",

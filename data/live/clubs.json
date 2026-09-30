@@ -3703,21 +3703,6 @@
     ]
   },
   {
-    "id": "lens",
-    "name": "RC Lens",
-    "shortName": "Lens",
-    "code": "RCL",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "France",
-    "crest": "assets/crests/lens.png",
-    "aliases": [
-      "rc lens",
-      "racing club de lens"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
     "id": "levante",
     "name": "Levante UD",
     "shortName": "Levante",
@@ -3768,20 +3753,6 @@
       "trek-segafredo women",
       "trek factory racing women"
     ]
-  },
-  {
-    "id": "lille",
-    "name": "Lille OSC",
-    "shortName": "Lille",
-    "code": "LIL",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "France",
-    "crest": "assets/crests/lille.png",
-    "aliases": [
-      "losc"
-    ],
-    "hasTeamPageDesign": false
   },
   {
     "id": "lille-osc",
@@ -5388,7 +5359,8 @@
     "crest": "assets/crests/rc-lens.png",
     "aliases": [
       "lens",
-      "racing club de lens"
+      "racing club de lens",
+      "rc lens"
     ]
   },
   {
