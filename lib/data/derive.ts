@@ -16,7 +16,20 @@ import { asset } from '../config';
 import type { Dataset } from './dataset';
 import { kitEnd, kitStart } from './dataset';
 import { compareLevels, isBad, isRated, levelForKit, TIER_SCORE } from './rating';
-import type { Club, Deal, Kit, KitSponsor, League, LevelId, Owner, Source, Sponsor, Sport, TierId } from './schema';
+import type {
+  Club,
+  Deal,
+  Kit,
+  KitSponsor,
+  League,
+  LevelId,
+  Owner,
+  Placement,
+  Source,
+  Sponsor,
+  Sport,
+  TierId,
+} from './schema';
 
 // ---------------------------------------------------------------- basics
 
@@ -38,12 +51,20 @@ export function clubLevel(ds: Dataset, clubId: string): LevelId {
   return kit ? kitLevel(ds, kit) : 'not-rated';
 }
 
+/** Placements printed on the shirt itself: the logos a marked shirt must place. */
+const ON_SHIRT: ReadonlySet<Placement> = new Set(['front', 'back', 'sleeve', 'patch']);
+
 /**
- * A kit whose shirt can be drawn with numbered markers: both photos, and every logo has a hotspot
- * and a side. Other kits still get a club page, with the photo alone or a placeholder.
+ * A kit whose shirt can be drawn with numbered markers: both photos, and every logo printed on the
+ * shirt has a hotspot and a side. The kit maker, shorts, training-kit and stadium sponsors are listed
+ * without a marker. Other kits still get a club page, with the photo alone or a placeholder.
  */
-export const isMarkedKit = (kit: Kit): boolean =>
-  Boolean(kit.photos.front && kit.photos.back) && kit.sponsors.every((s) => s.hotspot && s.side);
+export const isMarkedKit = (kit: Kit): boolean => {
+  const onShirt = kit.sponsors.filter((s) => ON_SHIRT.has(s.placement));
+  return (
+    Boolean(kit.photos.front && kit.photos.back) && onShirt.length > 0 && onShirt.every((s) => s.hotspot && s.side)
+  );
+};
 
 /** The club's current shirt can be drawn with markers (the design's full team page). */
 export function hasMarkedShirt(ds: Dataset, clubId: string): boolean {
