@@ -3977,6 +3977,38 @@
     "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
   },
   {
+    "id": "australia-2026-home",
+    "clubId": "australia",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "Football Australia: 'Nike and Football Australia unveil the 2026 National Team Collection, a celebration of two decades on the world stage'",
+          "date": "2026-03-23",
+          "url": "https://footballaustralia.com.au/news/nike-and-football-australia-unveil-2026-national-team-collection-a-celebration-two-decades",
+          "note": "Kit maker, listed as partner per the convention for kit suppliers. No commercial sponsor on any placement: the launch photos on this page (Hrustic and Bos wearing the shirt front, crest and shorts detail) show a plain yellow front and plain gradient-green shorts, and Footy Headlines' launch article (23 March 2026, footyheadlines.com/2026/01/australia-2026-home-kit.html) shows the official flat and worn retail images - front, back, sleeves and hem - with only the Nike swoosh and the Australia crest and nothing else.",
+          "quote": "Nike and Football Australia today unveil the 2026 National Team Collection, setting a new benchmark in national team kit design.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "The 2026 home shirt carries no commercial sponsor logos - front, back, sleeves and shorts were checked on the Football Australia launch photos and on Footy Headlines' official flat and worn images from the 23 March 2026 release; only the Australia crest and the Nike maker mark appear. Nike is the kit maker.",
+    "change": null,
+    "headline": "The shirt is {level}: it carries no commercial sponsors. Nike makes the kit.",
+    "shortLine": "No shirt sponsors. Nike made."
+  },
+  {
     "id": "avangard-omsk-2026-27-home",
     "clubId": "avangard-omsk",
     "season": "2026-27",
@@ -4509,6 +4541,37 @@
     "sponsorsComplete": false,
     "summary": "Siegmund (Bernd Siegmund GmbH, a family-run welding-table maker) is the main sponsor of FC Bayern's basketball team and has been its jersey sponsor, with the logo on the chest, since 2022/23 (Siegmund's sponsoring page). Not marked complete: no cited source shows the 2026/27 home kit itself, so the back and the shorts aren't recorded yet.",
     "change": null
+  },
+  {
+    "id": "belgium-2026-home",
+    "clubId": "belgium",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: Belgium 2026 World Cup Home Kit Released",
+          "date": "2025-11-05",
+          "url": "https://www.footyheadlines.com/2025/01/belgium-2026-home-kit.html",
+          "quote": "Adidas officially unveils Belgium’s 2026 home kit, featuring a “flames of the Red Devils” design that symbolizes the team’s courageous and bold spirit",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Kit maker, listed as partner per the convention for kit suppliers (same as germany-2026-home). The launch article's gallery covers every mark on the shirt: studio front, back, full-kit (shorts and socks) and replica photos show only the adidas performance logo and the RBFA crest; the collar and sleeve-cuff trim are tricolor only. No commercial sponsor on any placement."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "No sponsors on the shirt: adidas's red 2026 home shirt for Belgium (worn by the Red Devils and Red Flames in the 2026-2027 international cycle) carries only the adidas logo, the RBFA crest and a tulip-and-flames pattern; the launch photos show clean sleeves and plain black adidas-striped shorts (Footy Headlines' launch description and images).",
+    "change": null,
+    "shortLine": "No sponsors on the shirt"
   },
   {
     "id": "benfica-2026-27-home",
@@ -15434,6 +15497,66 @@
     "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
   },
   {
+    "id": "neftchi-2026-home",
+    "clubId": "neftchi",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "fnqiz",
+        "placement": "front",
+        "source": {
+          "name": "FNQIZ press service (fnpz.uz): '«Neftchi» — O'zbekiston Superkubogi sohibi'",
+          "date": "2026-03-16",
+          "url": "https://www.fnpz.uz/uz/matbuot-markazi/yangiliklar/1204-neftchi-o-zbekiston-superkubogi-sohibi",
+          "quote": "Jamoaning asosiy homiysi va ishonchli hamkori Farg‘ona neftni qayta ishlash zavodi hisoblanadi.",
+          "note": "The refinery's press service calls FNQIZ Neftchi's 'main sponsor and reliable partner' for the 2026 season. Football Kit Archive (footballkitarchive.com/fc-neftchi-fergana-2026-home-kit-464232/) describes the 2026 home shirt 'with FNQIZ as the sponsor' but is Cloudflare-blocked to scripts (HTTP 403).",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "fergana-region-administration",
+        "placement": "partner",
+        "source": {
+          "name": "PFK Neftchi — official website, homepage ('Our main sponsors' section)",
+          "date": "2026-09-30",
+          "url": "https://fcneftchi.uz/en",
+          "quote": "Fergana Region Administration",
+          "note": "Listed under the homepage's 'Our main sponsors' section; shirt placement (if any) not confirmed.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "fargona-invest",
+        "placement": "partner",
+        "source": {
+          "name": "PFK Neftchi — official website, homepage ('Our main sponsors' section)",
+          "date": "2026-09-30",
+          "url": "https://fcneftchi.uz/en",
+          "quote": "FARG'ONA INVEST",
+          "note": "Listed under the homepage's 'Our main sponsors' section; shirt placement (if any) not confirmed.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "FNQIZ (the Fergana Oil Refinery) is Neftchi's 2026 main sponsor per the refinery's own press service; Football Kit Archive shows 'FNQIZ' on the home shirt front but blocks scripts. The club site also lists 'Fergana Region Administration' and 'Farg'ona Invest' under 'Our main sponsors' (shirt placement unknown). Back/sleeve/shorts and kit maker unverified: Football Kit Archive says adidas, a supporter reel OCR reads 'JAKO'.",
+    "change": null
+  },
+  {
     "id": "neftekhimik-nizhnekamsk-2026-27-home",
     "clubId": "neftekhimik-nizhnekamsk",
     "season": "2026-27",
@@ -17591,6 +17714,20 @@
     "change": null
   },
   {
+    "id": "qatar-basketball-2026-27-home",
+    "clubId": "qatar-basketball",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2025/26 – 2026/27",
+    "periodFrom": "2025-26",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "White Peak-made home kit worn in the 2027 World Cup Asian qualifiers (Qatar v China, Al Janoub Arena, 2026-08-27; Japan v Qatar, Tokyo, 2026-08-31). Official QBF and FIBA photos show the shirt carries only the 'QATAR' wordmark, the Qatar flag square, the QBF crest and the PEAK maker mark (also on shorts and socks): no commercial sponsor logo on any visible placement. Not marked complete: the back of the jersey was never visible in an openable photo, and no kit launch or press article describes the shirt, so the PEAK maker attribution is visual only (PEAK is also listed in QBF's own 'Our Sponsors' grid).",
+    "change": null
+  },
+  {
     "id": "qingdao-hainiu-2026-home",
     "clubId": "qingdao-hainiu",
     "season": "2026",
@@ -19163,6 +19300,295 @@
     "shortLine": "O2 on the front"
   },
   {
+    "id": "rugby-fiji-2026-27-home",
+    "clubId": "rugby-fiji",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "fiji-water",
+        "placement": "front",
+        "source": {
+          "name": "Fiji Rugby Union: Our Sponsors (FIJI Water profile)",
+          "date": "2026-09-30",
+          "url": "https://www.fijirugby.com/corporate/our-sponsors",
+          "quote": "has led to the 15s rugby team being named the “FIJI WATER FLYING FIJIANS’’. This continued sponsorship aims to strengthen and support Fiji Rugby’s endeavors to the 2027 Rugby World Cup",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Undated club sponsors page; date is the day it was opened. Front placement: the large blue FIJI WATER logo across the chest is visible on the official Umbro replica home shirt (identical design sold as 'Fiji 25/26 Replica Home Jersey by Umbro' on worldrugbyshop.com and 'Umbro Fiji Home Replica Rugby Shirt 2026/27' on rugbystuff.com) and on the home shirt in Nations Championship match photos (Fiji v Wales, 4 July 2026, Cardiff). fijivillage (14 April 2023) reported that 'the Fiji Water logo will appear on the Flying Fijians kit and jersey'; fijivillage's June 2026 squad announcement still calls the team the 'FIJI Water Flying Fijians' for the 2026 Nations Championship."
+        }
+      },
+      {
+        "sponsorId": "fiji-airways",
+        "placement": "back",
+        "source": {
+          "name": "fijivillage: Fiji Rugby and Fiji Airways renew partnership for next two years",
+          "date": "2025-12-02",
+          "url": "https://www.fijivillage.com/news/Fiji-Rugby-and-Fiji-Airways-renew-partnership-for-next-two-years-fr58x4",
+          "quote": "Fiji Rugby and Fiji Airways renewed their partnership for the next two years, extending the airline’s role as Principal Partner of the Fiji Rugby Union (FRU) through to May 2027.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Back placement: the 'FIJI AIRWAYS' logo and tanoa mark across the upper back are visible on the official Umbro replica home shirt product photos (worldrugbyshop.com / rugbystuff.com, 2026/27 listing) and on the number-5 home shirt in Nations Championship match photos (Fiji v Wales, 4 July 2026)."
+        }
+      },
+      {
+        "sponsorId": "umbro",
+        "placement": "partner",
+        "source": {
+          "name": "Fiji Rugby Union: Our Sponsors (Umbro profile)",
+          "date": "2026-09-30",
+          "url": "https://www.fijirugby.com/corporate/our-sponsors",
+          "quote": "In January 2025, Umbro became Fiji Rakavi Unions Official technical partner for all national rugby teams.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Undated club sponsors page; date is the day it was opened. Kit maker, listed as partner per the convention for kit suppliers."
+        }
+      },
+      {
+        "sponsorId": "tappoo",
+        "placement": "shorts",
+        "source": {
+          "name": "Fiji Rugby Union: Tappoo Joins Forces with Fiji Rugby Union in Exciting Sponsorship Agreement",
+          "date": "2025-02-06",
+          "url": "https://www.fijirugby.com/tappoo-joins-forces-with-fiji-rugby-union-in-exciting-sponsorship-agreement",
+          "quote": "Also under this sponsorship agreement, the Tappoo Logo will appear on the FIJI Water Flying Fijians shorts.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Four-year agreement from February 2025 (also covering the 7s teams), so current. The circular Tappoo logo is visible on one thigh of the black match shorts in Nations Championship match photos (Fiji v Wales, 4 July 2026)."
+        }
+      },
+      {
+        "sponsorId": "vision-motors",
+        "placement": "shorts",
+        "source": {
+          "name": "Fiji Rugby Union: Our Sponsors (Vision Motors profile)",
+          "date": "2026-09-30",
+          "url": "https://www.fijirugby.com/corporate/our-sponsors",
+          "quote": "Their partnership with Fiji Rugby is to ensure that ground transportation is available to support teams at grass root level, local and international",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Undated club sponsors page; date is the day it was opened; it lists Vision Motors as a current Fiji Rugby partner (vehicle supplier deal announced July 2023, fijivillage). Shorts placement: the white 'VISION MOTORS' wordmark is visible on the other thigh of the black match shorts in Nations Championship match photos (Fiji v Wales, 4 July 2026, Cardiff — Getty/Nations Championship image in the Guardian's match report). No text source for the placement found."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "FIJI Water across the front and FIJI Airways at the top of the back of the white Umbro home shirt; Tappoo and Vision Motors logos on the black match shorts. The sleeves carry only the Fijian flag and Umbro's masi-art trim - no sleeve sponsor. Every placement checked against the official Umbro replica product photos and against Nations Championship match photos (Fiji v Wales, 4 July 2026).",
+    "change": null,
+    "shortLine": "Fiji Water on the front"
+  },
+  {
+    "id": "rugby-georgia-2026-27-home",
+    "clubId": "rugby-georgia",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "tbc-bank",
+        "placement": "back",
+        "source": {
+          "name": "Hubs.ge, official Georgian Rugby Union fan shop: Georgia national rugby team replica jersey",
+          "date": "2026-09-30",
+          "url": "https://hubs.ge/product/ragbis-erovnuli-nakrebis-replika-maisuri",
+          "quote": "საქართველოს რაგბის ეროვნული ნაკრების რეპლიკა მაისური",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Undated product listing on the GRU's official fan shop (linked from rugby.ge as 'shop'); date is the day it was opened. The quote is the product title ('Georgia national rugby team replica jersey'). The official product photos of the current home shirt on that page show the TBC sword logo and 'TBC' lettering on the upper back, in white. The deal is current: Sportall reported the GRU-TBC cooperation was extended by another four years, to 2027 (agreement signed 25 November 2022): https://sportall.ge/article/160290-sakartvelos-ragbis-kavshirisa-da-tibisis-tanamshromloba-kidev-4-clit-gagrzelda/"
+        }
+      },
+      {
+        "sponsorId": "macron",
+        "placement": "partner",
+        "source": {
+          "name": "boutique-rugby.com: Georgia Rugby Home Jersey 2025/2026 - Macron",
+          "date": "2026-09-30",
+          "url": "https://en.boutique-rugby.com/gru-m25-matchday-home-body-shirt-ss-macron-tek.html",
+          "quote": "Official Georgia home jersey for the 2025/2026 season. Comfort, style, and national pride by Macron.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Kit maker, listed as partner per the convention for kit suppliers. Undated retail listing; date is the day it was opened. Macron-GRU imagery: the official 2025/26 home shirt product image carries the Macron hero on the right chest and sleeve; July 2026 Nations Cup match photos (World Rugby/Getty, Uruguay v Georgia, 4 July 2026, Montevideo) show the same. Macron's own announcement page (about.macron.com, 'MACRON TECHNICAL PARTNER OF GEORGIA RUGBY UNION') is Cloudflare-blocked from this network; see PR notes."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Georgia's current home shirt (Macron, worn in the Rugby Europe Championship 2026 and the Nations Cup July 2026) carries TBC Bank on the upper back of the replica sold in the GRU's official shop. The front is plain (Macron chest logo and GRU crest only, per the official product image on boutique-rugby.com and the GRU shop), the sleeves carry only the Macron hero and a Georgian cross design motif, and the back below the TBC mark and the shorts show no commercial sponsor in Nations Cup match photos (Uruguay v Georgia, 4 July 2026).",
+    "change": null,
+    "shortLine": "TBC Bank on the back, plain front"
+  },
+  {
+    "id": "rugby-italy-2026-27-home",
+    "clubId": "rugby-italy",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "vittoria-assicurazioni",
+        "placement": "front",
+        "source": {
+          "name": "SportEconomy: FIR e Vittoria Assicurazioni prolungano partnership fino al 2028",
+          "date": "2025-10-28",
+          "url": "https://www.sporteconomy.it/fir-e-vittoria-assicurazioni-prolungano-partnership-fino-al-2028/",
+          "quote": "Come sponsor di maglia accompagniamo gli Azzurri e le Azzurre nelle diverse competizioni internazionali che li vedono protagonisti in campo",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Renewal of the main sponsorship of the FIR (national men's, women's and Under-20 teams) to 2028, announced with FIR at the launch of the Quilter Nations Series; 'sponsor di maglia' = shirt sponsor. The official Macron product photos of the 2026/27 home shirt (first worn for the November 2026 internationals) show the large white 'Vittoria Assicurazioni' wordmark centre front (also visible on rugbystuff.com)."
+        }
+      },
+      {
+        "sponsorId": "frecciarossa",
+        "placement": "back",
+        "source": {
+          "name": "FS News: A tifare la Nazionale Italiana di Rubgy con il Frecciarossa",
+          "date": "2025-10-10",
+          "url": "https://www.fsnews.it/it/eventi/sport/quilter-nations-series-rubgy-frecciarossa-italia-trenitalia.html",
+          "quote": "Frecciarossa conferma il suo impegno a fianco della Nazionale Italiana di Rugby come treno ufficiale degli azzurri",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "FS News is the Gruppo FS online title; the article confirms the ongoing partnership for the November 2025 internationals (the original FIR/Trenitalia announcement of 3 Feb 2023 said the Frecciarossa brand would debut 'sul retro delle maglie' — on the back of the shirts). The official 2026/27 home product photos show the FRECCIAROSSA wordmark and tricolore bar across the upper back."
+        }
+      },
+      {
+        "sponsorId": "macron",
+        "placement": "partner",
+        "source": {
+          "name": "Federazione Italiana Rugby: Macron e FIR presentano i nuovi kit Home e Away 26/27 per le Nazionali Azzurre",
+          "date": "2026-07-23",
+          "url": "https://www.federugby.it/dinamismo-velocita-e-linee-spezzate-macron-e-fir-presentano-i-nuovi-kit-home-e-away-26-27-per-le-nazionali-azzurre/",
+          "quote": "i nuovi Home e Away Kit 2026/27 realizzati da Macron, partner tecnico della FIR, si ispirano al Futurismo",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Kit maker, listed as partner per the convention for kit suppliers."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Vittoria Assicurazioni (private insurer controlled by the Acutis family) on the front and Frecciarossa (Trenitalia's brand, owned by the Italian state via the Ministry of Economy and Finance) across the upper back; Macron makes the kit. The launch text and the official 2026/27 product photos (shirt front, back, sleeves, collar and hem, plus the home shorts) show no other commercial marks: plain sleeves, FIR crest and Macron Hero on the chest, an 'ITALIA' emboss on the back hem and an 'Official Licensed Product / Eco Fabric' label. Nothing found on any sponsor.",
+    "change": null,
+    "shortLine": "Vittoria Assicurazioni on the front"
+  },
+  {
+    "id": "rugby-portugal-2026-27-home",
+    "clubId": "rugby-portugal",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "santander",
+        "placement": "front",
+        "source": {
+          "name": "ECO (+M): Santander renova patrocínio às seleções nacionais de rugby pelos próximos três anos",
+          "date": "2024-11-08",
+          "url": "https://eco.sapo.pt/2024/11/08/santander-renova-patrocinio-as-selecoes-nacionais-de-rugby-pelos-proximos-tres-anos/",
+          "note": "The article says Santander's naming appears on the front of the Portuguese teams' jerseys and the deal runs three years from November 2024. The Santander wordmark is also visible across the chest of the red home shirt in Rugby Europe's official photo of Portugal v Romania (Estádio Nacional, Jamor, 22 February 2026) and of Portugal's Nations Cup shirts (July 2026 broadcast graphics on fpr.pt).",
+          "quote": "com o banco a ter o seu naming na frente das camisolas das equipas portuguesas",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "cartrack",
+        "placement": "back",
+        "source": {
+          "name": "ECO (+M): Apoio das marcas é \"absolutamente indispensável\" para a seleção de rugby",
+          "date": "2023-09-07",
+          "url": "https://eco.sapo.pt/2023/09/07/apoios-das-marcas-sao-absolutamente-indispensaveis-para-a-selecao-de-rugby/",
+          "note": "The article names Cartrack one of the main sponsors of the Federação Portuguesa de Rugby. Placement verified visually: 'CARTRACK SEMPRE EM CONTROLO' across the upper back, above the numbers, in Rugby Europe's official match photo of Portugal v Romania (Jamor, 22 February 2026), and in fpr.pt graphics of the REC 2026 semi-final v Spain (8 March 2026). Cartrack remains a partner in 2026 (FPR partners bar; 'Lusitanos Cartrack Portugal' naming; Supertaça Cartrack).",
+          "quote": "encontram-se a Cartrack, a Labrador e o Santander enquanto principais patrocinadores da Federação Portuguesa de Rugby",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "honda",
+        "placement": "sleeve",
+        "source": {
+          "name": "Federação Portuguesa de Rugby: Honda assina acordo de parceria com a Seleção Portuguesa de Rugby",
+          "date": "2024-07-10",
+          "url": "https://fpr.pt/noticias/detalhe/honda-assina-acordo-de-parceria-com-a-selecao-portuguesa-de-rugby",
+          "note": "FPR announcement of the Honda partnership. The white Honda 'H' and HONDA wordmark sit on the shirt sleeve in the fpr.pt broadcast graphics of the REC 2026 semi-final v Spain (Restelo, 8 March 2026) and in Nations Cup photos (Tonga v Portugal, Winnipeg, 18 July 2026; USA v Portugal, 4 July 2026). Honda is still on the FPR partners bar (fpr.pt, opened 30 September 2026).",
+          "quote": "A Honda é a viatura oficial dos Lobos, a Seleção Portuguesa de Rugby",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "hovione",
+        "placement": "shorts",
+        "source": {
+          "name": "Hovione: Hovione é o novo patrocinador oficial da Seleção Portuguesa de Rugby (press release)",
+          "date": "2025-01-20",
+          "url": "https://www.hovione.pt/press-room/press-release/hovione-e-o-novo-patrocinador-oficial-da-selecao-portuguesa-de-rugby-acordo-inclui-apoio-desenvolvimento-de-academia-para-jovens-talentos",
+          "note": "Three-year deal from January 2025 stating the Hovione name will feature on the national team's equipment. The white Hovione logotype is visible on the thigh of the match shorts in the match photo used by the FPR official store (loja.fpr.pt) for the 'Camisola Oficial Lobos' national-team shirt listing.",
+          "quote": "O naming da Hovione passará a constar nos equipamentos da equipa nacional",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "macron",
+        "placement": "partner",
+        "source": {
+          "name": "En Mode Rugby: Portugal home replica rugby shirt for men / Macron (2025/2026 product page)",
+          "date": "2026-09-30",
+          "url": "https://www.enmoderugby.com/en/boutique-portugal-rugby/2491-portugal-home-replica-rugby-shirt-for-men-macron.html",
+          "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. Current home shirt is the Macron design sold as the 2025/2026 replica (Macron hero logo on the right chest of match shirts); FPR announced the renewal of its Macron supply contract on 4 January 2021 (fpr.pt). Date is the day the product page was opened. The shop page sits behind a bot check (Cloudflare), so neither the source check nor the maintainer could re-open it on 2026-09-30; the Portuguese federation's own site (fpr.pt) shows Macron's logo among its partners, linked to macron.com.",
+          "quote": "The home jersey of the Portugal National Rugby team, designed by Macron",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Santander (Banco Santander's Portuguese bank) across the front, Cartrack (Karooooo's vehicle-tracking brand) across the upper back and Honda on the sleeve of the Macron red home shirt, with family-owned pharma group Hovione on the shorts. Placements checked against Rugby Europe's official photos (Portugal v Romania, 22 Feb 2026; REC semi-final v Spain, 8 Mar 2026) and the federation's Nations Cup graphics (July 2026). Nothing found on any of them.",
+    "change": null,
+    "shortLine": "Santander on the front"
+  },
+  {
     "id": "sabah-2026-27-home",
     "clubId": "sabah",
     "season": "2026-27",
@@ -19797,6 +20223,111 @@
     ],
     "sponsorsComplete": true,
     "summary": "Home shirt 2026/27: adidas kit, Fundación 1890 (the club's own charity) on the front from the start of the season; no sleeve, back or shorts sponsor per Score and Change's La Liga overview.",
+    "change": null
+  },
+  {
+    "id": "shabab-al-ahli-2026-27-home",
+    "clubId": "shabab-al-ahli",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "nissan",
+        "placement": "front",
+        "source": {
+          "name": "Shabab Al Ahli FC, 'Our new kit… made for champions. 🔥' (2026/27 home kit launch)",
+          "date": "2026-08-14",
+          "url": "https://www.shababalahli.ae/our-new-kit-made-for-champions-%F0%9F%94%A5",
+          "quote": "Designed to win. Designed for glory. Our new kit… made for champions.",
+          "note": "The club's kit-launch photo gallery shows NISSAN as the main sponsor across the chest. The club's sponsors page (shababalahli.ae/our-sponsors) also lists Nissan.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "binghatti",
+        "placement": "front",
+        "source": {
+          "name": "Shabab Al Ahli FC, 'Our new kit… made for champions. 🔥' (2026/27 home kit launch)",
+          "date": "2026-08-14",
+          "url": "https://www.shababalahli.ae/our-new-kit-made-for-champions-%F0%9F%94%A5",
+          "quote": "Designed to win. Designed for glory. Our new kit… made for champions.",
+          "note": "The club's kit-launch photo gallery shows 'بن غاطي BINGHATTI' directly beneath Nissan on the chest of the home shirt.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "diez",
+        "placement": "front",
+        "source": {
+          "name": "Shabab Al Ahli FC, 'Our new kit… made for champions. 🔥' (2026/27 home kit launch)",
+          "date": "2026-08-14",
+          "url": "https://www.shababalahli.ae/our-new-kit-made-for-champions-%F0%9F%94%A5",
+          "quote": "Designed to win. Designed for glory. Our new kit… made for champions.",
+          "note": "The club's kit-launch photo gallery shows the DIEZ logo on the lower front of the home shirt. DIEZ is also listed on the club's sponsors page.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "mai-dubai",
+        "placement": "sleeve",
+        "source": {
+          "name": "Shabab Al Ahli FC, 'Our new kit… made for champions. 🔥' (2026/27 home kit launch)",
+          "date": "2026-08-14",
+          "url": "https://www.shababalahli.ae/our-new-kit-made-for-champions-%F0%9F%94%A5",
+          "quote": "Designed to win. Designed for glory. Our new kit… made for champions.",
+          "note": "The club's kit-launch photo gallery shows the 'Mai Dubai' script logo on both sleeves. The club announced on 18 Sep 2026 that Mai Dubai 'will continue as the Club's Official Drinking Water Partner for the upcoming 2026–2027 sports season' (shababalahli.ae/mai-dubai-and-shabab-al-ahli-renew-strategic-partnership-agreement).",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "sun-sand-sports",
+        "placement": "shorts",
+        "source": {
+          "name": "Shabab Al Ahli FC, 'Our new kit… made for champions. 🔥' (2026/27 home kit launch)",
+          "date": "2026-08-14",
+          "url": "https://www.shababalahli.ae/our-new-kit-made-for-champions-%F0%9F%94%A5",
+          "quote": "Designed to win. Designed for glory. Our new kit… made for champions.",
+          "note": "The club's kit-launch photo gallery shows the 'Sun & Sand Sports' logo on the shorts.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "Shabab Al Ahli FC, 'Our new kit… made for champions. 🔥' (2026/27 home kit launch)",
+          "date": "2026-08-14",
+          "url": "https://www.shababalahli.ae/our-new-kit-made-for-champions-%F0%9F%94%A5",
+          "quote": "Designed to win. Designed for glory. Our new kit… made for champions.",
+          "note": "Kit maker. The launch posters credit 'NIKE FOOTBALL AND SHABAB ALAHLI DUBAI FC' and the shirt carries the swoosh.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Nike 2026/27 home kit. Chest: Nissan (main) with Binghatti and DIEZ beneath; Mai Dubai script on the sleeves; Sun & Sand Sports on the shorts; all from the club's kit-launch gallery (14 Aug 2026). The back of the shirt is not shown in the launch gallery, so the list is not confirmed complete.",
     "change": null
   },
   {
@@ -22573,9 +23104,14 @@
         "placement": "front",
         "source": {
           "name": "Vissel Kobe - uniform partners (2026/27)",
-          "date": "2026-09-25",
+          "date": "2026",
           "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
-          "note": "Front (chest): Rakuten Group, Inc."
+          "note": "Front (chest): Rakuten Group, Inc. Page undated; content labelled 2026/27.",
+          "quote": "前面［胸部分］ 楽天グループ株式会社",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -22584,9 +23120,14 @@
         "side": "front",
         "source": {
           "name": "Vissel Kobe - uniform partners (2026/27)",
-          "date": "2026-09-25",
+          "date": "2026",
           "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
-          "note": "Front (right collarbone): Bishop Retail Co. (4th season on the shirt)."
+          "note": "Front (right collarbone): Bishop Inc. (Bshop), 4th season on the shirt. Page undated; content labelled 2026/27.",
+          "quote": "前面［右鎖骨部分］ 株式会社ビショップ",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -22594,9 +23135,14 @@
         "placement": "front",
         "source": {
           "name": "Vissel Kobe - uniform partners (2026/27)",
-          "date": "2026-09-25",
+          "date": "2026",
           "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
-          "note": "Front (left collarbone): Devis Co., Ltd., new uniform partner from the 2026/27 season."
+          "note": "Front (left collarbone): Debs Co., Ltd. (デビス株式会社), new uniform partner from the 2026/27 season. Page undated; content labelled 2026/27.",
+          "quote": "前面［左鎖骨部分］ デビス株式会社",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -22604,19 +23150,29 @@
         "placement": "back",
         "source": {
           "name": "Vissel Kobe - uniform partners (2026/27)",
-          "date": "2026-09-25",
+          "date": "2026",
           "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
-          "note": "Back: Kawasaki Heavy Industries (25th season; back placement since 2025)."
+          "note": "Back: Kawasaki Heavy Industries (25th season; back placement since 2025). Page undated; content labelled 2026/27.",
+          "quote": "後面［背中部分］ 川崎重工業株式会社",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       },
       {
         "sponsorId": "shuzet-holdings",
-        "placement": "shorts",
+        "placement": "back",
         "source": {
           "name": "Vissel Kobe - uniform partners (2026/27)",
-          "date": "2026-09-25",
+          "date": "2026",
           "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
-          "note": "Below the back number / shorts front: Shuzet Holdings (12th season)."
+          "note": "Back, below the number (hem): Suzette Holdings (12th season). Page undated; content labelled 2026/27.",
+          "quote": "後面［背番号下裾部分］ 株式会社シュゼット・ホールディングス",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -22624,15 +23180,50 @@
         "placement": "sleeve",
         "source": {
           "name": "Vissel Kobe - uniform partners (2026/27)",
-          "date": "2026-09-25",
+          "date": "2026",
           "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
-          "note": "Left sleeve: Noevir (also names the home stadium)."
+          "note": "Left sleeve: Noevir (also holds the Noevir Stadium Kobe naming rights since 2013). Page undated; content labelled 2026/27.",
+          "quote": "側面［左袖部分］ 株式会社ノエビア",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "digiara-holdings",
+        "placement": "shorts",
+        "source": {
+          "name": "Vissel Kobe - uniform partners (2026/27)",
+          "date": "2026",
+          "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+          "note": "Shorts (front): Digiara Holdings Co., Ltd. (6th season; sponsor's own site announced the 2026-27 uniform partnership on 2026-07-16). Page undated; content labelled 2026/27.",
+          "quote": "パンツ［前面部分］ 株式会社デジアラホールディングス",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "asics-japan",
+        "placement": "partner",
+        "source": {
+          "name": "Vissel Kobe - uniform partners (2026/27)",
+          "date": "2026",
+          "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+          "note": "Uniform supplier: Asics Japan Co., Ltd. (29th season). Page undated; content labelled 2026/27.",
+          "quote": "ユニフォームサプライヤー アシックスジャパン株式会社",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": true,
     "change": null,
-    "summary": "Vissel Kobe 2026/27 home shirt: Rakuten front, Bishop and Devis on the collarbones, Kawasaki Heavy Industries on the back, Shuzet Holdings below the number, Noevir on the left sleeve, Asics Japan as kitmaker. All from the club's own uniform-partners page, which is labelled 2026/27 and shows a 2026/27 kit special site.",
+    "summary": "Vissel Kobe 2026/27 home shirt: Rakuten front, Bishop (right collarbone) and Debs (left collarbone), Kawasaki Heavy Industries on the back, Suzette Holdings below the back number, Noevir on the left sleeve, Digiara Holdings on the front of the shorts, and Asics Japan as kit supplier. All placements confirmed on the club's uniform-partners page (2026/27).",
     "headline": "Rakuten pays for the front of Vissel Kobe's shirt",
     "shortLine": "Rakuten front, Noevir sleeve, Kawasaki back"
   },

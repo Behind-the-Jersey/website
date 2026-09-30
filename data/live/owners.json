@@ -550,6 +550,14 @@
     "country": "USA"
   },
   {
+    "id": "asics-corporation",
+    "name": "ASICS Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Kobe-headquartered sportswear company; listed on the Tokyo Stock Exchange Prime Market (company overview, corp.asics.com, opened 2026-09-30)."
+  },
+  {
     "id": "aso",
     "name": "Amaury Sport Organisation (ASO)",
     "type": "private-company",
@@ -827,6 +835,13 @@
     "country": "IT"
   },
   {
+    "id": "banco-santander-sa",
+    "name": "Banco Santander, S.A.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "ES"
+  },
+  {
     "id": "bang-olufsen-as",
     "name": "Bang & Olufsen A/S",
     "type": "listed-company",
@@ -1020,11 +1035,27 @@
     "country": "Germany"
   },
   {
+    "id": "binghatti-holding",
+    "name": "Binghatti Holding",
+    "type": "private-company",
+    "country": "United Arab Emirates",
+    "parentId": null,
+    "note": "Family-owned Dubai property developer founded by Hussain Binghatti Aljbori in 2008, chaired by his son Muhammad BinGhatti (ranked 18 on Forbes Middle East's Top 100 Arab Family Businesses 2026)."
+  },
+  {
     "id": "bingx",
     "name": "BingX",
     "type": "private-company",
     "parentId": null,
     "note": "Crypto exchange and Web3 company founded 2018 (Ferrari partner page); where it is registered isn't sourced."
+  },
+  {
+    "id": "bishop-inc",
+    "name": "Bishop Inc. (BSHOP INC.)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Kobe clothing and household-goods retailer (Bshop chain); private company, president Takeshi Mori (bshop-inc.com company profile)."
   },
   {
     "id": "bitdefender",
@@ -1247,6 +1278,14 @@
     "parentId": null,
     "note": "arena naming-rights holder of washington-wizards (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "carlo-acutis",
+    "name": "Carlo Acutis (and family)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Italy",
+    "note": "Italian businessman, vice-president/chairman of the Vittoria Assicurazioni group; 99.99% shareholder of Yafa S.p.A. per the group's shareholder chart (June 2026). Personal (family) ownership, treated as a private owner, not a state."
   },
   {
     "id": "carlsberg-group",
@@ -1749,6 +1788,14 @@
     "country": "IT"
   },
   {
+    "id": "debs-co",
+    "name": "Debs Co., Ltd. (Debs Corporation)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Osaka-headquartered textiles and lifestyle company, a Kobe trading business since 1917; private company, president and CEO Hani Debs (debscorp.com overview)."
+  },
+  {
     "id": "deel-inc",
     "name": "Deel, Inc.",
     "type": "private-company",
@@ -1849,6 +1896,14 @@
     "parentId": null
   },
   {
+    "id": "dewa",
+    "name": "Dubai Electricity and Water Authority (DEWA)",
+    "type": "listed-company",
+    "country": "United Arab Emirates",
+    "parentId": "government-of-dubai",
+    "note": "Listed on the Dubai Financial Market (ticker DEWA) since April 2022; the Government of Dubai continued to own 82% of its share capital after selling 18% in the IPO (The National, 2022-04-06; Dubai One/WAM)."
+  },
+  {
     "id": "df-invest",
     "name": "DF Invest",
     "type": "private-company",
@@ -1877,6 +1932,14 @@
     "type": "listed-company",
     "parentId": null,
     "country": "RO"
+  },
+  {
+    "id": "digiara-holdings",
+    "name": "Digiara Holdings Co., Ltd. (DIGITAL ALLIANCE Holdings CO.,LTD)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Kobe holding company for online retail of housing/exterior equipment and exterior works; founded April 2000; private company, representative director Tetsuya Arimoto (d-a.co.jp company outline)."
   },
   {
     "id": "digiplus-interactive",
@@ -2335,6 +2398,14 @@
     "note": "Wine producer and exporter of Ortona, Abruzzo (Fantini Wines, Cantina Fantini); acquired by Platinum Equity from NB Renaissance Partners in March 2020."
   },
   {
+    "id": "fargona-invest",
+    "name": "Farg'ona Invest Kompaniyasi AJ",
+    "type": "state",
+    "country": "Uzbekistan",
+    "note": "Founded by the Fergana region administration (hokimlik) by the hokim's decision 163-11-0-Q/26 of 31 March 2026, under presidential decree PF-29 of 24 February 2026; the company's own 'Yagona aksiyador' (sole shareholder) page names the hokimlik as sole shareholder (image text).",
+    "parentId": "fergana-region-administration"
+  },
+  {
     "id": "fbi",
     "name": "F.B.I.",
     "type": "private-company",
@@ -2366,6 +2437,14 @@
     "note": "US-listed logistics company (NYSE: FDX). The corpus previously had a fedex-owner record (\"FedEx LLC\"), listed-company); this parent-chain entry records the listed parent for the same chain. No state stake."
   },
   {
+    "id": "fergana-region-administration",
+    "name": "Fergana Region Administration (Farg'ona viloyati hokimligi)",
+    "type": "state",
+    "country": "Uzbekistan",
+    "note": "The hokimlik is Uzbekistan's regional state administration for the Fergana region; it issues government decisions (e.g. decision 163-11-0-Q/26 of 31 March 2026 founding 'Farg'ona invest kompaniyasi' AJ).",
+    "parentId": "government-of-uzbekistan"
+  },
+  {
     "id": "fernando-campos-nunes",
     "name": "Fernando Campos Nunes",
     "type": "private-company",
@@ -2379,6 +2458,14 @@
     "type": "listed-company",
     "country": "Italy",
     "parentId": null
+  },
+  {
+    "id": "ferrovie-dello-stato-italiane",
+    "name": "Ferrovie dello Stato Italiane S.p.A. (FS, FS Italiane Group)",
+    "type": "private-company",
+    "country": "Italy",
+    "parentId": "italian-ministry-of-economy-finance",
+    "note": "FS EMTN base prospectus 2025: the Italian State is the sole shareholder of FS (via the Ministry of Economy and Finance, MEF), appointing its Board of Directors and overseeing its strategy."
   },
   {
     "id": "fidelidade",
@@ -2441,6 +2528,15 @@
     "type": "listed-company",
     "parentId": null,
     "country": "IE"
+  },
+  {
+    "id": "fnqiz",
+    "name": "Farg'ona neftni qayta ishlash zavodi LLC (FNQIZ, Fergana Oil Refinery)",
+    "type": "state",
+    "country": "Uzbekistan",
+    "via": "sole founder is Uzbekistan's State Assets Management Agency (Davaktiv) per Gazeta.uz and Spot, 8 June 2026",
+    "note": "100% state share was sold to Saneg (formerly Jizzakh Petroleum) in May 2022; by May 2026 the register showed Davaktiv 58.5% and Saneg 41.5%; as of June 2026 the State Assets Management Agency is again the sole founder.",
+    "parentId": "government-of-uzbekistan"
   },
   {
     "id": "fonbet",
@@ -2695,6 +2791,14 @@
     "note": "Privately held apparel and fashion accessories company founded by George Altirs in Brooklyn in 1990; owner of the Capelli New York brand and of Capelli Sport, which Altirs launched in 2011 (capellisportplus.com: Capelli Sport is 'under the umbrella of GMA Accessories, Inc.', 'led by owner and CEO, George Altirs'; Sportico, 15 June 2026: 'the company... is still privately held')."
   },
   {
+    "id": "gmg",
+    "name": "GMG (Gulf Marketing Group)",
+    "type": "private-company",
+    "country": "United Arab Emirates",
+    "parentId": null,
+    "note": "Family-owned Dubai holding company owned and managed by the Baker family (gmg.com; SGB Media). Its GMG Sports division's homegrown brands include Sun & Sand Sports."
+  },
+  {
     "id": "godolphin",
     "name": "Godolphin",
     "type": "private-company",
@@ -2788,6 +2892,14 @@
     "parentId": "uae"
   },
   {
+    "id": "government-of-fiji",
+    "name": "Government of Fiji",
+    "type": "state",
+    "country": "Fiji",
+    "parentId": null,
+    "note": "Majority shareholder of the national carrier Fiji Airways with 51 percent of shares, per the airline CEO's July 2022 statement as reported by fijivillage. Other named shareholders: Fiji National Provident Fund 30.02 percent, Unit Trust of Fiji 1.85 percent; the same reporting describes Qantas as the other major shareholder."
+  },
+  {
     "id": "government-of-indonesia",
     "name": "Government of the Republic of Indonesia",
     "type": "state",
@@ -2852,6 +2964,13 @@
     "name": "Republic of Türkiye (government)",
     "type": "state",
     "country": "TR"
+  },
+  {
+    "id": "government-of-uzbekistan",
+    "name": "Government of Uzbekistan",
+    "type": "state",
+    "country": "Uzbekistan",
+    "parentId": null
   },
   {
     "id": "grays-of-cambridge",
@@ -3252,6 +3371,14 @@
     "country": "JP"
   },
   {
+    "id": "hovione-holding-ag",
+    "name": "Hovione Holding AG",
+    "type": "private-company",
+    "parentId": null,
+    "country": "CH",
+    "note": "Family-owned pharmaceutical CDMO founded in Portugal in 1959; holding company in Baar, Switzerland; principal shareholder the Villax family."
+  },
+  {
     "id": "howden-group-holdings",
     "name": "Howden Group Holdings Limited",
     "type": "private-company",
@@ -3640,12 +3767,28 @@
     "country": "US"
   },
   {
+    "id": "karooooo-ltd",
+    "name": "Karooooo Ltd",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "SG",
+    "note": "Nasdaq- and JSE-listed. Controlling shareholder: founder and CEO Isaias 'Zak' Calisto, who controls a majority of the combined voting power (FY2026 Form 20-F)."
+  },
+  {
     "id": "kaseya-owner",
     "name": "Kaseya",
     "type": "private-company",
     "parentId": null,
     "note": "arena naming-rights holder of miami-heat (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "kawasaki-heavy-industries-ltd",
+    "name": "Kawasaki Heavy Industries, Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Listed on the Tokyo Stock Exchange Prime Market, code 7012 (Kawasaki Report 2025, corporate profile / stock information page)."
   },
   {
     "id": "kayanee",
@@ -4893,6 +5036,14 @@
     "note": "Formerly NGK Spark Plug Co., Ltd. (it changed its English name to Niterra); listed on the Tokyo and Nagoya stock exchanges (niterragroup.com history page). Maker of NGK spark plugs."
   },
   {
+    "id": "noevir-holdings",
+    "name": "Noevir Holdings Co., Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Kobe cosmetics holding company; Tokyo-listed (securities code 4928). Files securities reports (yuho) on noevirholdings.co.jp."
+  },
+  {
     "id": "nomadix",
     "name": "Nomadix",
     "type": "private-company",
@@ -5636,6 +5787,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "rakuten-group-inc",
+    "name": "Rakuten Group, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Japanese internet conglomerate; its IR site publishes a 'State of Stock and Shareholders' page (listed-company disclosure), largest holders are trust banks and the Mikitani family's Crimson Group."
   },
   {
     "id": "ramazan-bulbul",
@@ -6751,6 +6910,14 @@
     "country": "US"
   },
   {
+    "id": "suzette-holdings",
+    "name": "Suzette Holdings Co., Ltd.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Nishinomiya, Hyogo confectionery holding company (brands include Henri Charpentier, C3, Casaneo); private company, president Tsuyoshi Arita (suzette.co.jp company profile)."
+  },
+  {
     "id": "suzuki-motor-corporation",
     "name": "Suzuki Motor Corporation",
     "type": "listed-company",
@@ -6805,6 +6972,14 @@
     "via": "member of the Anritsu Group since January 2022 (takasago-ss.co.jp company profile)"
   },
   {
+    "id": "tappoo-group",
+    "name": "Tappoos Group of Companies (Tappoo Pte Limited)",
+    "type": "private-company",
+    "country": "Fiji",
+    "parentId": null,
+    "note": "Family-owned Fijian group founded in 1941 by Tappoo Kanji (per Fiji Rugby's sponsor profile); retail, wholesale, manufacturing, travel, hospitality and real estate. Fiji Rugby's February 2025 announcement names the contracting entity Tappoo Pte Limited and makes it the official distribution partner and an official sponsor of the Fiji Rugby Union for four years. Root of the chain."
+  },
+  {
     "id": "tarfin",
     "name": "Tarfin Tarım Yatırım A.S.",
     "type": "private-company",
@@ -6817,6 +6992,14 @@
     "type": "listed-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "tbc-bank-group",
+    "name": "TBC Bank Group PLC",
+    "type": "listed-company",
+    "country": "United Kingdom",
+    "parentId": null,
+    "note": "Listed on the London Stock Exchange (TBCG). Parent company of JSC TBC Bank (TBC Bank, Georgia), per FT Markets company profile."
   },
   {
     "id": "td-bank-owner",
@@ -6933,6 +7116,14 @@
     "note": "Holds The Quartz Corp AS; ownership shared between the French industrial group Imerys and Norway's Norsk Mineral AS."
   },
   {
+    "id": "the-wonderful-company",
+    "name": "The Wonderful Company LLC",
+    "type": "private-company",
+    "country": "US",
+    "parentId": null,
+    "note": "American consumer-brand company headquartered in Los Angeles; its own careers pages describe it as 'a privately held $6 billion company' and name Lynda and Stewart Resnick as its co-founders. Its brand list includes FIJI Water, POM Wonderful, Wonderful Pistachios, Wonderful Halos, JUSTIN Vineyards and Teleflora (wonderful.com 'Our Brands'). Root of the chain."
+  },
+  {
     "id": "thoma-bravo",
     "name": "Thoma Bravo",
     "type": "private-company",
@@ -7011,6 +7202,14 @@
     "country": "China",
     "parentId": null,
     "note": "Shenzhen-headquartered; TECNO's parent. Listed on the SSE Star Market in 2019 (transsion.com/en/about)."
+  },
+  {
+    "id": "trenitalia",
+    "name": "Trenitalia S.p.A.",
+    "type": "private-company",
+    "country": "Italy",
+    "parentId": "ferrovie-dello-stato-italiane",
+    "note": "Trenitalia's own 'Chi siamo' page calls it a company of the FS Italiane Group ('Trenitalia, società del Gruppo FS Italiane'); the FS Group Company Profile lists Trenitalia among the group's operating companies under parent Ferrovie dello Stato Italiane S.p.A."
   },
   {
     "id": "tropicana-tropicana-brands-group-owner",
@@ -7329,12 +7528,28 @@
     "parentId": null
   },
   {
+    "id": "vision-investments-ltd",
+    "name": "Vision Investments Limited",
+    "type": "listed-company",
+    "country": "Fiji",
+    "parentId": null,
+    "note": "Suva company listed on Fiji's South Pacific Stock Exchange (SPX: VIL). Its trading divisions include Vision Motors, Courts Fiji, SportsWorld, Vision Carpets and Mahogany Industries (vil.com.fj 'Service' pages)."
+  },
+  {
     "id": "visipapel",
     "name": "Visipapel, Lda.",
     "type": "private-company",
     "country": "Portugal",
     "parentId": null,
     "note": "Paper and hygiene-products company founded in 1988 and based in Viseu. Its owners are not stated in the sources checked."
+  },
+  {
+    "id": "vittoria-assicurazioni-spa",
+    "name": "Vittoria Assicurazioni S.p.A.",
+    "type": "private-company",
+    "country": "Italy",
+    "parentId": "yafa-holding-spa",
+    "note": "Corporate-data page: 'Soggetta all'attività di direzione e coordinamento della Capogruppo Yafa S.p.A.'; the shareholder chart on the same page (June 2026) shows Yafa Holding S.p.A. holding 98.34% of Vittoria Assicurazioni S.p.A."
   },
   {
     "id": "vivalto-sante",
@@ -7562,6 +7777,22 @@
     "country": "Poland",
     "note": "Polish broker listed on the Warsaw Stock Exchange since 2016. Largest shareholder XX ZW Investment Group S.A. (Luxembourg) holds 27.78%; it is directly controlled by Jakub Zabłocki (81.97% of its capital and votes). Other shareholders hold 72.22%.",
     "parentId": null
+  },
+  {
+    "id": "yafa-holding-spa",
+    "name": "Yafa Holding S.p.A.",
+    "type": "private-company",
+    "country": "Italy",
+    "parentId": "yafa-spa",
+    "note": "Shareholder chart on Vittoria Assicurazioni's corporate-data page (June 2026): Yafa S.p.A. holds 80.43% of Yafa Holding S.p.A."
+  },
+  {
+    "id": "yafa-spa",
+    "name": "Yafa S.p.A. (Vittoria Assicurazioni group parent)",
+    "type": "private-company",
+    "country": "Italy",
+    "parentId": "carlo-acutis",
+    "note": "Shareholder chart on Vittoria Assicurazioni's corporate-data page (June 2026): Carlo Acutis holds 99.99% of Yafa S.p.A., the group parent that directs and coordinates Vittoria Assicurazioni."
   },
   {
     "id": "yamaha-motor-co",

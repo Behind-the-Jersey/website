@@ -1627,6 +1627,24 @@
     "note": "Rating note: Ascension is a private, faith-based nonprofit healthcare system; sponsored by Catholic ministries but not state-owned or state-controlled. No evidence of state stake."
   },
   {
+    "id": "asics-japan",
+    "name": "Asics Japan",
+    "ownerId": "asics-corporation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "ASICS Japan Corporation, the Japanese arm of TSE Prime-listed ASICS Corporation. Nothing found.",
+    "claimIds": [
+      "asics-japan-asics-group",
+      "asics-corporation-shareholders"
+    ],
+    "aliases": [
+      "アシックスジャパン株式会社",
+      "ASICS Japan Corporation"
+    ],
+    "note": "Uniform supplier of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/ . Rating note: ASICS Corporation's largest shareholders are trust banks and institutions; GOVERNMENT OF NORWAY (2.13%) and GIC (1.39%) are small passive stakes. No human-rights finding against the company was found."
+  },
+  {
     "id": "aspetar",
     "name": "Aspetar",
     "ownerId": "aspetar",
@@ -2881,6 +2899,24 @@
     "note": "Rating note: The site publishes shareholder structure as a downloadable table rather than inline, so the exact family percentage is not stated on the page itself."
   },
   {
+    "id": "binghatti",
+    "name": "Binghatti",
+    "ownerId": "binghatti-holding",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Binghatti Holding is a private, family-owned Dubai property developer founded by Hussain Binghatti Aljbori in 2008 and chaired by his son Muhammad BinGhatti. Nothing found.",
+    "claimIds": [
+      "binghatti-holding-ownership"
+    ],
+    "aliases": [
+      "Binghatti Developers",
+      "bin ghatti",
+      "بن غاطي"
+    ],
+    "note": "Chest sponsor (beneath Nissan) on Shabab Al Ahli's 2026/27 home kit from the club's launch gallery (14 Aug 2026); the club announced Binghatti as 'official Platinum Sponsor' for 2024-25 and Instagram posts of May 2025 (reel DKbpiK5OWU1) thank it for continued support."
+  },
+  {
     "id": "bingoplus",
     "name": "BingoPlus",
     "ownerId": "digiplus-interactive",
@@ -2921,15 +2957,21 @@
   },
   {
     "id": "bishop",
-    "name": "Bishop Retail Co.",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+    "name": "Bishop (BSHOP)",
+    "ownerId": "bishop-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Bishop Inc. (Bshop), a private Kobe clothing and household-goods retailer led by president Takeshi Mori. Nothing found.",
+    "claimIds": [
+      "bishop-inc-private"
+    ],
+    "aliases": [
+      "株式会社ビショップ",
+      "BSHOP INC.",
+      "Bishop Retail Co."
+    ],
+    "note": "Kit sponsor (front, right collarbone) of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/ . Rating note: private company; corporate profile gives no shareholding beyond the founding family business and no state or fund involvement was found."
   },
   {
     "id": "bitdefender",
@@ -3723,6 +3765,23 @@
       "Carrera"
     ],
     "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to carreraworld.com, stands under 'Official Partners' with the line 'Sunglasses and optical frames since 1956' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note (2026-09-30): Carrera is one of Safilo Group's home brands; Safilo is listed in Milan and its reference shareholder is Multibrands Italy B.V., a subsidiary of HAL Holding N.V., with 49.8% (safilo-hal-ownership). No state or state-fund shareholder named."
+  },
+  {
+    "id": "cartrack",
+    "name": "Cartrack",
+    "ownerId": "karooooo-ltd",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Karooooo Ltd, the Nasdaq/JSE-listed Singapore group whose founder and CEO Zak Calisto controls a majority of the votes. Nothing found.",
+    "claimIds": [
+      "cartrack-portugal-karooooo",
+      "karooooo-zak-calisto-control"
+    ],
+    "aliases": [
+      "Cartrack Portugal"
+    ],
+    "note": "Back-of-shirt sponsor of Portugal's national rugby team and naming sponsor of its Lusitanos Cartrack Portugal development side and of the Supertaça Cartrack."
   },
   {
     "id": "carvana",
@@ -5184,15 +5243,21 @@
   },
   {
     "id": "devis",
-    "name": "Devis Co., Ltd., new uniform partner from the 2026/27 season.",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+    "name": "Debs",
+    "ownerId": "debs-co",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Debs Co., Ltd. (Debs Corporation), a private Osaka textile and lifestyle company led by president Hani Debs. Nothing found.",
+    "claimIds": [
+      "debs-co-private"
+    ],
+    "aliases": [
+      "デビス株式会社",
+      "Debs Co., Ltd.",
+      "Debs Corporation"
+    ],
+    "note": "Kit sponsor (front, left collarbone) of Vissel Kobe 2026-27, new uniform partner per https://www.vissel-kobe.co.jp/partner/uniform-partners/ . Rating note: private company, no state or fund involvement found."
   },
   {
     "id": "devk",
@@ -5282,6 +5347,24 @@
     "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to didchain.com, stands under 'Technical partners' with the line 'Chains' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
   },
   {
+    "id": "diez",
+    "name": "DIEZ",
+    "ownerId": "investment-corporation-of-dubai",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "uae-mass-trial-2024",
+      "diez-icd-ownership"
+    ],
+    "aliases": [
+      "Dubai Integrated Economic Zones Authority",
+      "DIEZA"
+    ],
+    "note": "Lower chest on Shabab Al Ahli's 2026/27 home kit. A Dubai government free-zone authority; under Dubai Law No. 16 of 2021 it is wholly owned by the Investment Corporation of Dubai. Serious tier proposed in the PR for issue #544."
+  },
+  {
     "id": "digi",
     "name": "Digi",
     "ownerId": "digi-communications-nv",
@@ -5294,6 +5377,24 @@
     ],
     "aliases": [],
     "note": "Rating note: Romanian listing plus US/Nasdaq-style ADRs; ownership private/founder with public float. Founder-linked governance litigation exists but no state link."
+  },
+  {
+    "id": "digiara-holdings",
+    "name": "Digiara Holdings",
+    "ownerId": "digiara-holdings",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Digiara Holdings (Digital Alliance Holdings), a private Kobe holding company for online retail and exterior works. Nothing found.",
+    "claimIds": [
+      "digiara-holdings-private"
+    ],
+    "aliases": [
+      "株式会社デジアラホールディングス",
+      "DIGITAL ALLIANCE Holdings",
+      "Digital Alliance Holdings"
+    ],
+    "note": "Kit sponsor (shorts, front) of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/ ; its own site announced the 2026-27 uniform partnership (2026-07-16). Rating note: private company, no state or fund involvement found."
   },
   {
     "id": "diputacion-foral-de-alava",
@@ -6542,6 +6643,25 @@
     "aliases": []
   },
   {
+    "id": "fargona-invest",
+    "name": "Farg'ona Invest",
+    "ownerId": "fargona-invest",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "fargona-invest-hokimlik-founder",
+      "uzbekistan-karakalpakstan-2022"
+    ],
+    "aliases": [
+      "Farg'ona Invest Kompaniyasi",
+      "FARG'ONA INVEST"
+    ],
+    "note": "Listed by Neftchi Fergana under 'Our main sponsors'. Regional investment company founded and wholly owned by the Fergana region administration (hokimlik).",
+    "ownerVerb": "owned by"
+  },
+  {
     "id": "fdj",
     "name": "FDJ United",
     "ownerId": "french-state",
@@ -6598,6 +6718,25 @@
     "note": "Official apparel partner of the International Series, labelled 'Fenix 2025' on the partners page (fetched 2026-09-25). The brand entity behind Fenix and its ownership are unconfirmed - see unsourced."
   },
   {
+    "id": "fergana-region-administration",
+    "name": "Fergana Region Administration",
+    "ownerId": "fergana-region-administration",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "fergana-hokimlik-sponsor",
+      "uzbekistan-karakalpakstan-2022"
+    ],
+    "aliases": [
+      "Farg'ona viloyati hokimligi",
+      "Fergana regional government"
+    ],
+    "note": "Listed by Neftchi Fergana under 'Our main sponsors'. Uzbekistan's regional state administration for the Fergana region.",
+    "ownerVerb": "paid for by"
+  },
+  {
     "id": "fever",
     "name": "Fever",
     "ownerId": null,
@@ -6638,6 +6777,38 @@
       "Future Investment Initiative Institute"
     ],
     "note": "Official Partner of the PIF Global Series (pifglobalseries.com footer, fetched 25 Sep 2026, linking fii-institute.org, 'FII Institute - Impact on Humanity')."
+  },
+  {
+    "id": "fiji-airways",
+    "name": "Fiji Airways",
+    "ownerId": "government-of-fiji",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "The Fijian Government holds 51% of Fiji Airways. State ownership alone is not a tier, and no sourced record of serious abuses by the Fijian state is cited. Nothing found.",
+    "claimIds": [
+      "fiji-airways-fiji-government-ownership"
+    ],
+    "aliases": [
+      "Air Pacific"
+    ],
+    "note": "Back-of-shirt sponsor of the Flying Fijians; renewed as Principal Partner of the Fiji Rugby Union through May 2027 (fijivillage, 2 December 2025). Other shareholders reported in 2022: Fiji National Provident Fund 30.02% (a statutory workers' pension fund, not itself a state with a record), Unit Trust of Fiji 1.85%, with Qantas named in the same reporting as the other major shareholder. No UN, HRW, Amnesty or court record of the kind METHOD.md requires was found for the Fijian state; and no human-rights finding against the airline itself."
+  },
+  {
+    "id": "fiji-water",
+    "name": "FIJI Water",
+    "ownerId": "the-wonderful-company",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "FIJI Water is a brand of The Wonderful Company LLC — a privately held US company. Nothing found.",
+    "claimIds": [
+      "fiji-water-wonderful-ownership"
+    ],
+    "aliases": [
+      "Fiji Water"
+    ],
+    "note": "Naming-rights sponsor of the Flying Fijians (front of the home shirt) since 2023, under a multimillion-dollar deal running towards the 2027 Rugby World Cup (Fiji Rugby sponsors page; fijivillage 14 April 2023). No state or fund in the ownership chain, and no court, regulator, UN body or major-NGO human-rights finding against The Wonderful Company found."
   },
   {
     "id": "financial-times",
@@ -6821,6 +6992,29 @@
     "note": "Principal Partner of the Springboks (springboks.rugby/partners); shirt placement not stated on that page."
   },
   {
+    "id": "fnqiz",
+    "name": "FNQIZ (Fergana Oil Refinery)",
+    "ownerId": "fnqiz",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "fnqiz-state-ownership",
+      "uzbekistan-karakalpakstan-2022"
+    ],
+    "aliases": [
+      "FNQIZ",
+      "Farg'ona NQIZ",
+      "Farg'ona neftni qayta ishlash zavodi",
+      "FNPZ",
+      "Fergana refinery",
+      "ФНПЗ"
+    ],
+    "note": "The refinery's own press service calls it Neftchi Fergana's main sponsor for the 2026 season; 'FNQIZ' appears on the 2026 home shirt per Football Kit Archive (blocked to scripts).",
+    "ownerVerb": "owned by"
+  },
+  {
     "id": "fonbet",
     "name": "FONBET",
     "ownerId": null,
@@ -6930,16 +7124,19 @@
   {
     "id": "frecciarossa",
     "name": "Frecciarossa",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "trenitalia",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by the Italian state: Frecciarossa is Trenitalia's brand, Trenitalia is a company of the FS Italiane Group, and parent Ferrovie dello Stato Italiane is wholly owned by the Ministry of Economy and Finance. Nothing found.",
+    "claimIds": [
+      "frecciarossa-trenitalia-ownership",
+      "trenitalia-italian-state-ownership"
+    ],
     "aliases": [
       "Trenitalia"
     ],
-    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to trenitalia.com, stands under 'Official Partners' with the line 'High speed travel' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+    "note": "Also an Official Partner of the Ducati Lenovo Team: on Ducati's partner page the Frecciarossa logo, linking to trenitalia.com, stands under 'Official Partners' with the line 'High speed travel' (Wayback Machine captures of 23 May and 18 Sep 2026). Sponsor of the FIR national teams since February 2023; partnership confirmed for the autumn 2025 internationals (FS News, 10 Oct 2025); the Frecciarossa wordmark is on the back of the 2026/27 home shirt. Rating note (2026-09-30): full state-ownership chain sourced (frecciarossa-trenitalia-ownership, trenitalia-italian-state-ownership), but state ownership alone is not a tier and this dataset has no record of serious abuses for Italy (METHOD.md). No court, regulator, UN or major-NGO human-rights finding against Trenitalia or Ferrovie dello Stato found; the 2023 European Commission State-aid decision against Trenitalia mentioned in the FS 2023 annual report is financial, not a human-rights record."
   },
   {
     "id": "freddys",
@@ -8401,6 +8598,20 @@
     "note": "Portuguese private hospital group; front or sleeve sponsor at several clubs in 2026-27. Rating note: CGD, a bank owned by the Portuguese State, holds 15% of Fidelidade, about 9% of Luz Saúde along the chain, but no record of serious abuses by Portugal is recorded, and state ownership alone is not a tier. Fosun International's substantial shareholders are only Fosun Holdings/Fosun International Holdings (72.78%, owned by Guo Guangchang and Wang Qunbin), so no state holds 5% of it; Fidelidade calls Fosun Group a Chinese private conglomerate. The other 40% of Luz Saúde is held by Macquarie European Infrastructure Fund 7, whose investors aren't sourced."
   },
   {
+    "id": "hovione",
+    "name": "Hovione",
+    "ownerId": "hovione-holding-ag",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Hovione Holding AG, the family-controlled pharmaceutical group founded in Portugal. Nothing found.",
+    "claimIds": [
+      "hovione-family-owned"
+    ],
+    "aliases": [],
+    "note": "Official sponsor of Portugal's national rugby team (three-year deal from January 2025, Hovione press release), with its name on team equipment including the match shorts."
+  },
+  {
     "id": "howden",
     "name": "Howden",
     "ownerId": "howden-group-holdings",
@@ -9548,14 +9759,20 @@
   {
     "id": "kawasaki-heavy-industries",
     "name": "Kawasaki Heavy Industries",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+    "ownerId": "kawasaki-heavy-industries-ltd",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Kawasaki Heavy Industries, Ltd., listed on the TSE Prime Market with institutional trust-bank shareholders. Nothing found.",
+    "claimIds": [
+      "khi-listed-shareholders"
+    ],
+    "aliases": [
+      "川崎重工業株式会社",
+      "Kawasaki Heavy Industries, Ltd.",
+      "KHI"
+    ],
+    "note": "Kit sponsor (back) of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/ . Rating note: TSE Prime listing and shareholder register show no government stake; no human-rights finding against the company was found."
   },
   {
     "id": "kayanee",
@@ -10886,6 +11103,24 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "mai-dubai",
+    "name": "Mai Dubai",
+    "ownerId": "dewa",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "uae-mass-trial-2024",
+      "mai-dubai-dewa-ownership",
+      "dewa-government-of-dubai-ownership"
+    ],
+    "aliases": [
+      "Mai Dubai Water"
+    ],
+    "note": "Sleeve sponsor of Shabab Al Ahli's 2026/27 home kit (club's kit-launch gallery; partnership renewed for 2026/27 per club announcement 18 Sep 2026). Fully owned by DEWA, of which the Government of Dubai owns 82%. Serious tier proposed in the PR for issue #544."
   },
   {
     "id": "maison-de-l-atoll",
@@ -12592,14 +12827,20 @@
   {
     "id": "noevia",
     "name": "Noevir",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+    "ownerId": "noevir-holdings",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Noevir Co., Ltd., a wholly owned subsidiary of Tokyo-listed Noevir Holdings. Nothing found.",
+    "claimIds": [
+      "noevir-co-noevir-holdings",
+      "noevir-holdings-shareholders"
+    ],
+    "aliases": [
+      "株式会社ノエビア",
+      "Noevir Co., Ltd."
+    ],
+    "note": "Kit sponsor (left sleeve) of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/ ; also holds the Noevir Stadium Kobe naming rights. Rating note: 100% subsidiary of Noevir Holdings; Noevir Holdings' largest shareholder is the private N.I.I. Co. (36.25%), no state stake."
   },
   {
     "id": "nomadix",
@@ -14446,14 +14687,18 @@
   {
     "id": "rakuten-group",
     "name": "Rakuten Group, Inc.",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+    "ownerId": "rakuten-group-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Rakuten Group, Inc., a Tokyo-listed internet conglomerate with dispersed ownership. Nothing found.",
+    "claimIds": [
+      "rakuten-group-shareholders"
+    ],
+    "aliases": [
+      "楽天グループ株式会社"
+    ],
+    "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/ . Rating note: largest holders are trust banks, the Mikitani family's Crimson Group and founder Hiroshi Mikitani; JAPAN POST HOLDINGS holds 6.04% but the Japanese government's residual stake in Japan Post Holdings keeps any indirect state holding in Rakuten Group below 5% and there is no control or board seat."
   },
   {
     "id": "rams-global",
@@ -15365,16 +15610,20 @@
   {
     "id": "santander",
     "name": "Santander",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [
-      "Banco Santander"
+    "ownerId": "banco-santander-sa",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Banco Santander, S.A., the Spanish-listed banking group whose Portuguese bank Banco Santander Totta trades as Santander Portugal. Nothing found.",
+    "claimIds": [
+      "banco-santander-totta-ownership"
     ],
-    "note": "Official Partner of Los Gallos (Spain) (sailgp.com team page, fetched 2026-09-25)."
+    "aliases": [
+      "Banco Santander",
+      "Santander Portugal",
+      "Banco Santander Totta"
+    ],
+    "note": "Official Partner of Los Gallos (Spain) (sailgp.com team page, fetched 2026-09-25). Front-of-shirt sponsor of Portugal's national rugby teams (renewed for three years, ECO, 2024-11-08)."
   },
   {
     "id": "santini",
@@ -15909,15 +16158,22 @@
   },
   {
     "id": "shuzet-holdings",
-    "name": "Shuzet Holdings",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+    "name": "Suzette Holdings",
+    "ownerId": "suzette-holdings",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Suzette Holdings, a private Nishinomiya confectionery holding company (Henri Charpentier and other brands). Nothing found.",
+    "claimIds": [
+      "suzette-holdings-private"
+    ],
+    "aliases": [
+      "株式会社シュゼット・ホールディングス",
+      "Henri Charpentier",
+      "アンリ・シャルパンティエ",
+      "Shuzet Holdings"
+    ],
+    "note": "Kit sponsor (back, below the number) of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/ . Rating note: private company, no state or fund involvement found."
   },
   {
     "id": "siegmund",
@@ -17001,6 +17257,24 @@
     "note": "Rating note: Sun Life Financial is publicly traded (Canada/US) with no state ownership; no controlling shareholder. Largest holdings are institutional (Vanguard, BlackRock) each under 10%. No human-rights concerns in ownership chain."
   },
   {
+    "id": "sun-sand-sports",
+    "name": "Sun & Sand Sports",
+    "ownerId": "gmg",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Sun & Sand Sports is a homegrown sports-retail brand of GMG (Gulf Marketing Group), a holding company owned and managed by the Baker family. Nothing found.",
+    "claimIds": [
+      "sun-sand-sports-gmg-ownership"
+    ],
+    "aliases": [
+      "Sun and Sand Sports",
+      "sssports",
+      "Sun & Sand"
+    ],
+    "note": "Shorts sponsor on Shabab Al Ahli's 2026/27 home kit (club kit-launch gallery, 14 Aug 2026) and listed on the club's sponsors page."
+  },
+  {
     "id": "super-bock",
     "name": "Super Bock",
     "ownerId": "super-bock-group",
@@ -17280,6 +17554,23 @@
     "aliases": []
   },
   {
+    "id": "tappoo",
+    "name": "Tappoo",
+    "ownerId": "tappoo-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Tappoo is part of the Tappoos Group of Companies — a family-owned Fijian company. Nothing found.",
+    "claimIds": [
+      "tappoo-group-ownership"
+    ],
+    "aliases": [
+      "Tappoo City",
+      "Tappoo Pte Limited"
+    ],
+    "note": "Shorts sponsor of the FIJI Water Flying Fijians under the four-year agreement announced by the Fiji Rugby Union on 6 February 2025, which also makes Tappoo the union's official distribution partner. No state or fund in the ownership chain, and no court, regulator, UN body or major-NGO human-rights finding found."
+  },
+  {
     "id": "tarfin",
     "name": "Tarfin",
     "ownerId": "tarfin",
@@ -17321,6 +17612,24 @@
     "claimIds": [],
     "aliases": [],
     "note": "Official Broadcast Distribution Provider (fiaformulae.com/en/partners, fetched 2026-09-25). Tata Sons ownership chain not researched in this pass."
+  },
+  {
+    "id": "tbc-bank",
+    "name": "TBC Bank",
+    "ownerId": "tbc-bank-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Georgian bank owned by TBC Bank Group PLC, listed on the London Stock Exchange. Nothing found.",
+    "claimIds": [
+      "tbc-bank-group-ownership"
+    ],
+    "aliases": [
+      "TBC",
+      "JSC TBC Bank",
+      "თიბისი ბანკი",
+      "თიბისი"
+    ]
   },
   {
     "id": "tcl",
@@ -18652,6 +18961,22 @@
     "note": "Portuguese conglomerate (telecoms, energy, industry incl. Vista Alegre, tourism, construction), founded in Viseu in 1980. Main kit sponsor at Academico de Viseu in 2026-27. Rating note: Grupo Visabeira's Relatório & Contas 2025 and Martifer's market release of 6 August 2025 both name one individual, Fernando Campos Nunes, as its ultimate owner through NCFGest; no state or state fund in the chain. Nothing passes the METHOD.md test."
   },
   {
+    "id": "vision-motors",
+    "name": "Vision Motors",
+    "ownerId": "vision-investments-ltd",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Vision Motors is a trading division of Vision Investments Limited — a Fijian company listed on the South Pacific Stock Exchange. Nothing found.",
+    "claimIds": [
+      "vision-motors-vil-ownership"
+    ],
+    "aliases": [
+      "Vision Motors Fiji"
+    ],
+    "note": "Fiji Rugby partner since a three-year 'official vehicle supplier' deal announced in July 2023 (fijivillage); the Vision Motors logo appears on the match shorts in 2026. No state or fund in the ownership chain, and no court, regulator, UN body or major-NGO human-rights finding found."
+  },
+  {
     "id": "visipapel",
     "name": "Visipapel",
     "ownerId": "visipapel",
@@ -18800,6 +19125,22 @@
     ],
     "aliases": [],
     "note": "Rating note: Currency of sponsor name is ambiguous: 'Vitality' most commonly means the Discovery-owned brand (UK VitalityHealth/VitalityLife are Discovery subsidiaries). If the sponsor is instead US 'Vitality' (John Hancock/Manulife) the owner is likewise a listed insurer and the tier stays none. Flagged rather than picked silently."
+  },
+  {
+    "id": "vittoria-assicurazioni",
+    "name": "Vittoria Assicurazioni",
+    "ownerId": "vittoria-assicurazioni-spa",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Controlled by the Acutis family: the group's shareholder chart shows Vittoria Assicurazioni 98.34% held by Yafa Holding, itself 80.43% held by Yafa S.p.A., which is 99.99% held by Carlo Acutis. Nothing found.",
+    "claimIds": [
+      "vittoria-yafa-ownership"
+    ],
+    "aliases": [
+      "Vittoria"
+    ],
+    "note": "Main sponsor (front of shirt) of the Italian rugby national teams; renewed to 2028 (SportEconomy, 28 Oct 2025). Rating note (2026-09-30): no state stake anywhere in the chain (vittoria-yafa-ownership). Searched for a court, regulator, UN or major-NGO human-rights finding against Vittoria Assicurazioni (forced or child labour, deaths or injuries, discrimination, abuse of communities); nothing found."
   },
   {
     "id": "vodafone",

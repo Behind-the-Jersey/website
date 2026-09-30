@@ -612,7 +612,7 @@
     "country": "Global",
     "clubCount": 24,
     "season": "2026-27",
-    "status": "not-started",
+    "status": "partial",
     "notes": [
       "Governing-body shape, modelled like FIFA/ICC: one partner list covering World Rugby's properties in the 2026-27 window - Men's Rugby World Cup 2027 (Australia, 1 Oct - 13 Nov 2027, 24 teams) and the HSBC SVNS Series and World Championship 2026-27 (nine events, 28 Nov 2026 - 30 May 2027).",
       "World Rugby partner tiers (world.rugby header/footer, fetched 2026-09-25): Platinum Partner Emirates; Global Partners Macron, HSBC, WizTeam.",
@@ -746,7 +746,7 @@
     "name": "AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)",
     "clubCount": 32,
     "season": "2026-27",
-    "status": "not-started",
+    "status": "partial",
     "notes": [
       "32 clubs in the 2026/27 ACL Elite league stage (16 West, 16 East), the first 32-team edition, from the Wikipedia 2026-27 season article (the-afc.com hubs do not list the field). League stage 14 Sep 2026 to Feb 2027; final on 1 May 2027.",
       "The centralised finals stage is hosted in Saudi Arabia (Jeddah 2025 and 2026); the 2026 finals used King Abdullah Sports City and Prince Abdullah Al Faisal Sports City (AFC, 2025-12-23). Saudi hosting provisionally runs through 2029 (Wikipedia lead).",

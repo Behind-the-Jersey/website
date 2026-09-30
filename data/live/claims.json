@@ -1752,6 +1752,47 @@
     "reviewed": false
   },
   {
+    "id": "asics-corporation-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "asics-corporation"
+    ],
+    "text": "ASICS Corporation's principal shareholders as of 30 June 2026 were The Master Trust Bank of Japan, Ltd. (Trust Account, 16.13%), Custody Bank of Japan, Ltd. (Trust Account, 8.57%), THE CHASE MANHATTAN BANK, N.A. LONDON SECS LENDING OMNIBUS ACCOUNT (2.73%) and Nippon Life Insurance Company (2.56%); GOVERNMENT OF NORWAY held 2.13% and GIC PRIVATE LIMITED 1.39% — no state or sovereign shareholder is listed as controlling the company.",
+    "short": "ASICS Corporation's top holders are trust banks and institutions; no state control.",
+    "source": {
+      "name": "ASICS Corporation: Shareholding Structure (as of June 30, 2026)",
+      "date": "2026-06-30",
+      "url": "https://corp.asics.com/en/investor_relations/stock_info/shareholder_structure",
+      "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) 114,374 16.13",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "asics-japan-asics-group",
+    "kind": "ownership",
+    "ownerIds": [
+      "asics-corporation"
+    ],
+    "text": "ASICS Corporation's site lists ASICS Japan Corporation (アシックスジャパン株式会社, headquartered at JP Tower, Chiyoda-ku, Tokyo) among its group ('related') companies in Japan.",
+    "short": "ASICS Japan Corporation is an ASICS Corporation group company.",
+    "source": {
+      "name": "株式会社アシックス: 拠点情報 関係会社 (ASICS group locations / related companies)",
+      "date": "2026",
+      "url": "https://corp.asics.com/jp/about_asics/location",
+      "note": "Page undated; opened 2026-09-30.",
+      "quote": "関係会社 アシックスジャパン株式会社",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "astor-enerji-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -2481,6 +2522,39 @@
     "reviewed": false
   },
   {
+    "id": "banco-santander-totta-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "banco-santander-sa"
+    ],
+    "text": "The 'Santander' name on Portugal's rugby shirt is Santander Portugal, the trading name of Banco Santander Totta, S.A., of which Banco Santander, S.A. owns 1,383,690,177 shares, per Banco Santander's 2025 annual report filed with the SEC.",
+    "short": "Santander Portugal is Banco Santander Totta, S.A., owned by Banco Santander, S.A.",
+    "source": {
+      "name": "Banco Santander, S.A. Form 20-F 2025 (SEC EDGAR) - Consolidated annual report, Appendix on Banco Santander Totta",
+      "date": "2026-02-27",
+      "url": "https://www.sec.gov/Archives/edgar/data/891478/000089147826000030/san-20251231.htm",
+      "quote": "Banco Santander, S.A. owns 1,383,690,177 shares of Banco Santander Totta, S.A.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Banco Santander Totta, S.A.: Institutional Presentation H1'26 (santander.pt investor relations)",
+        "date": "2026-08",
+        "url": "https://www.santander.pt/pdfs/investor-relations/santander-totta-sa/apresentacoes/2026/SAN_PT-Institutional_1H26.pdf",
+        "note": "The presentation opens: 'Banco Santander Totta, S.A. (\"Santander Portugal\")', tying the Santander Portugal name to Banco Santander Totta, S.A.",
+        "quote": "Banco Santander Totta, S.A. (\"Santander Portugal\")",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "bang-olufsen-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -3077,6 +3151,27 @@
     ]
   },
   {
+    "id": "binghatti-holding-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "binghatti-holding"
+    ],
+    "text": "Binghatti Holding is a private, family-owned Dubai property developer founded by Hussain Binghatti Aljbori in 2008 and chaired by Muhammad BinGhatti; Forbes Middle East ranks it 18th on its Top 100 Arab Family Businesses 2026.",
+    "short": "Binghatti Holding is a family-owned Dubai developer founded in 2008.",
+    "source": {
+      "name": "Forbes Middle East: Top 100 Arab Family Businesses 2026, entry '18. Binghatti Holding'",
+      "date": "2026-06-19",
+      "url": "https://www.forbesmiddleeast.com/lists/top-100-arab-family-businesses-2026/binghatti-holding",
+      "quote": "Chairman: Muhammad BinGhatti Established: 2008 Country: UAE Hussain Binghatti Aljbori, whose net worth is estimated at $2.5 billion as of May 2026, founded Binghatti Holding in 2008.",
+      "note": "The list's methodology covers private businesses owned or run by Arab families.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "bingx-record",
     "kind": "ownership",
     "ownerIds": [
@@ -3106,6 +3201,27 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "bishop-inc-private",
+    "kind": "ownership",
+    "ownerIds": [
+      "bishop-inc"
+    ],
+    "text": "Bishop Inc. (株式会社ビショップ, 'BSHOP INC.') is a clothing and household-goods retailer established on 15 December 1993 and headquartered in Kobe; its company profile names Takeshi Mori as president and lists group companies BOY'S CO., LTD, Un Fil Inc., BRC CO., LTD and Bshop Korea Inc.",
+    "short": "Bishop Inc. (Bshop) is a private Kobe retailer, president Takeshi Mori.",
+    "source": {
+      "name": "Bshop Inc.: Company Profile (English page; archived copy)",
+      "date": "2026",
+      "url": "http://web.archive.org/web/20260521050410/https://bshop-inc.com/company/en",
+      "note": "Live bshop-inc.com pages block scripts (HTTP 403); Wayback snapshot of 2026-05-21 opened instead. Page undated.",
+      "quote": "CORPORATE NAME BSHOP INC. PRESIDENT Takeshi Mori",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -4178,6 +4294,26 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "cartrack-portugal-karooooo",
+    "kind": "ownership",
+    "ownerIds": [
+      "karooooo-ltd"
+    ],
+    "text": "Cartrack trades in Portugal as Cartrack Portugal S.A., which Karooooo Ltd's FY2026 Form 20-F group-structure table lists as held 100% by Cartrack Ireland Limited; that table chains every layer of the group (Cartrack Ireland, Cartrack Technologies Pte. Ltd., Cartrack Holdings) at 100% up to Karooooo Ltd.",
+    "short": "Cartrack Portugal S.A. is wholly inside the Karooooo Ltd group.",
+    "source": {
+      "name": "Karooooo Ltd Form 20-F for fiscal year ended February 28, 2026 (SEC EDGAR) - Organizational structure table",
+      "date": "2026-06-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/1828102/000121390026066795/ea0293645-20f_karooooo.htm",
+      "quote": "Cartrack Portugal S.A. Cartrack Ireland Limited Portugal 100.0 100.0",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -5717,6 +5853,27 @@
     "reviewed": false
   },
   {
+    "id": "debs-co-private",
+    "kind": "ownership",
+    "ownerIds": [
+      "debs-co"
+    ],
+    "text": "Debs Co., Ltd. (デビス株式会社, 'Debs Corporation') is a Japanese textiles and lifestyle company; its corporate overview describes a family trading history in Kobe going back to 1917 and names Hani Debs as President & CEO.",
+    "short": "Debs Corporation is a private Japanese textile company, President & CEO Hani Debs.",
+    "source": {
+      "name": "Debs Corporation: Overview (company page)",
+      "date": "2026",
+      "url": "https://www.debscorp.com/en/overview",
+      "note": "Page undated; opened 2026-09-30.",
+      "quote": "Hani Debs President & CEO",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "deel-inc-record",
     "kind": "ownership",
     "ownerIds": [
@@ -5914,6 +6071,39 @@
     "reviewed": false
   },
   {
+    "id": "dewa-government-of-dubai-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "dewa",
+      "government-of-dubai"
+    ],
+    "text": "When Dubai Electricity and Water Authority (DEWA) listed on the Dubai Financial Market in April 2022, selling 18% of its share capital, the Government of Dubai continued to own 82%.",
+    "short": "The Government of Dubai owns 82% of DEWA.",
+    "source": {
+      "name": "The National: 'IPO of Dubai's Dewa set to raise $6.1bn in second largest ever listing in Middle East'",
+      "date": "2022-04-06",
+      "url": "https://www.thenationalnews.com/business/markets/2022/04/06/ipo-of-dubais-dewa-set-to-raise-61bn-in-second-largest-ever-listing-in-middle-east",
+      "quote": "Following completion of the IPO, the Dubai Government will continue to own 82 per cent of Dewa's share capital.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Dubai One (Dubai Media Incorporated, carrying WAM): 'DEWA Starts Trading on Dubai Financial Market'",
+        "date": "2022-04-12",
+        "url": "https://www.dubaione.ae/content/dubaione/en-ae/programs/181/DEWAonDFM.html",
+        "quote": "The Government of Dubai continues to own 82 percent of DEWA's share capital.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "kind": "ownership",
     "id": "df-invest-record",
     "ownerIds": [
@@ -5994,6 +6184,40 @@
     "reviewed": false
   },
   {
+    "id": "diez-icd-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "investment-corporation-of-dubai"
+    ],
+    "text": "The Dubai Integrated Economic Zones Authority (DIEZ) is wholly owned by the Investment Corporation of Dubai (ICD).",
+    "short": "DIEZ is wholly owned by the Investment Corporation of Dubai.",
+    "source": {
+      "name": "Dubai Legislation Portal (Supreme Legislation Committee): Law No. (16) of 2021 Establishing the Dubai Integrated Economic Zones Authority, Article 3",
+      "date": "2021-09-14",
+      "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2021/Law%20No.%20(16)%20of%202021.html",
+      "quote": "DIEZA will have legal personality, financial and administrative autonomy, and the legal capacity required to undertake all acts and dispositions required for the achievement of its objectives. DIEZA will be wholly owned by the ICD.",
+      "note": "Article 2 of the law defines ICD as the Investment Corporation of Dubai.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Investment Corporation of Dubai: Consolidated financial statements for the period ended 30 June 2023 (Euronext RIS filing)",
+        "date": "2023",
+        "url": "https://direct.euronext.com/api/PublicAnnouncements/RISDocument/ICD%20Consolidated%20Financial%20Statements%2030.06.2023.pdf?id=254383c4-f177-43f8-b012-c678a69d91f2",
+        "quote": "DIEZ is wholly owned by ICD and effective 1 January 2022, all assets and liabilities of DSO and DAFZA were transferred to DIEZ in accordance with the Law.",
+        "note": "Page 31 of the PDF (notes to the financial statements).",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "digi-communications-nv-record",
     "kind": "ownership",
     "ownerIds": [
@@ -6009,6 +6233,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "digiara-holdings-private",
+    "kind": "ownership",
+    "ownerIds": [
+      "digiara-holdings"
+    ],
+    "text": "株式会社デジアラホールディングス (DIGITAL ALLIANCE Holdings CO.,LTD) is a Kobe holding company founded in April 2000 managing group companies in online retail of housing/exterior equipment and exterior works; its company outline names 有本哲也 (Tetsuya Arimoto) as representative director.",
+    "short": "Digiara Holdings (Digital Alliance Holdings) is a private Kobe company, representative director Tetsuya Arimoto.",
+    "source": {
+      "name": "株式会社デジアラホールディングス: 企業情報 (company outline)",
+      "date": "2026",
+      "url": "https://www.d-a.co.jp/public/corporate/outline.php",
+      "note": "Page undated (employee figure as of March 2026); opened 2026-09-30.",
+      "quote": "社名 株式会社デジアラホールディングス 英文社名 DIGITAL ALLIANCE Holdings CO.,LTD",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -7644,6 +7889,40 @@
     "reviewed": false
   },
   {
+    "id": "fargona-invest-hokimlik-founder",
+    "kind": "ownership",
+    "ownerIds": [
+      "fargona-invest",
+      "fergana-region-administration"
+    ],
+    "text": "'Farg'ona Invest Kompaniyasi' AJ was founded by the Fergana region administration (hokimlik).",
+    "short": "Farg'ona Invest was founded by, and is solely owned by, the Fergana regional government.",
+    "source": {
+      "name": "Farg'ona Invest Kompaniyasi AJ: Uzbekistan Republic, Fergana region hokim's decision 163-11-0-Q/26 (charter annexe)",
+      "date": "2026-03-31",
+      "url": "https://fargonainvestkompaniya.uz/wp-content/uploads/2026/06/%D0%92%D0%A5-163-%D1%81%D0%BE%D0%BD%D0%BB%D0%B8-%D0%BA%D0%B0%D1%80%D0%BE%D1%80%D0%B8-1.pdf",
+      "quote": "Farg‘ona viloyati hokimligi muassisligida tadbirkorlik subyektlari va davlat organlari o‘rtasida “ko‘prik” vazifasini bajaruvchi “Farg‘ona invest kompaniyasi” aksiyadorlik jamiyati (keyingi o‘rinlarda —Kompaniya) tashkil etilsin.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Lex.uz: Presidential decree PF-29 of 24.02.2026 (On measures to accelerate housing provision)",
+        "date": "2026-02-24",
+        "url": "https://lex.uz/ru/docs/-8072219",
+        "quote": "viloyatlar hokimliklari bir oy muddatda “Toshkent Invest kompaniyasi” AJ va “Samarqand Invest kompaniyasi” AJ tajribasi asosida aksiyadorlik jamiyati shaklida",
+        "note": "Clause 6 orders the regional hokimliks to establish the investment companies as joint-stock companies; appendix 6 lists them as founded by the administrations.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "fast-retailing-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -7769,6 +8048,41 @@
     ]
   },
   {
+    "id": "fergana-hokimlik-sponsor",
+    "kind": "ownership",
+    "ownerIds": [
+      "fergana-region-administration",
+      "government-of-uzbekistan"
+    ],
+    "text": "Neftchi Fergana's official website lists the 'Fergana Region Administration' (Farg'ona viloyati hokimligi) — Uzbekistan's regional state administration, which issues local government decisions — among the club's main sponsors.",
+    "short": "Neftchi lists the Fergana regional government (hokimlik) as a main sponsor.",
+    "source": {
+      "name": "PFK Neftchi — official website, homepage ('Our main sponsors' section)",
+      "date": "2026-09-30",
+      "url": "https://fcneftchi.uz/en",
+      "quote": "Fergana Region Administration",
+      "note": "The name appears under the homepage's 'Our main sponsors' section.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Farg'ona Invest Kompaniyasi AJ: Uzbekistan Republic, Fergana region hokim's decision 163-11-0-Q/26 (charter annexe)",
+        "date": "2026-03-31",
+        "url": "https://fargonainvestkompaniya.uz/wp-content/uploads/2026/06/%D0%92%D0%A5-163-%D1%81%D0%BE%D0%BD%D0%BB%D0%B8-%D0%BA%D0%B0%D1%80%D0%BE%D1%80%D0%B8-1.pdf",
+        "note": "Decision of the Fergana region hokim establishing the region's investment company, showing the hokimlik acting as a regional government body.",
+        "quote": "Farg‘ona viloyati hokimligi muassisligida tadbirkorlik subyektlari va davlat organlari o‘rtasida “ko‘prik” vazifasini bajaruvchi “Farg‘ona invest kompaniyasi” aksiyadorlik jamiyati (keyingi o‘rinlarda —Kompaniya) tashkil etilsin.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "fidelidade-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -7831,6 +8145,61 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "fiji-airways-fiji-government-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "government-of-fiji"
+    ],
+    "text": "The Fijian Government holds 51 percent of the shares in Fiji Airways, ahead of the Fiji National Provident Fund, which bought 30.02 percent in July 2022 and became the second largest shareholder.",
+    "short": "The Fijian government owns 51% of Fiji Airways.",
+    "source": {
+      "name": "fijivillage: FNPF and Unit Trust now new shareholders in Fiji Airways",
+      "date": "2022-07-08",
+      "url": "https://www.fijivillage.com/news/-FNPF-and-Unit-Trust-now-new-shareholders-in-Fiji-Airways-r548xf",
+      "quote": "Fiji National Provident Fund is now the second largest shareholder, holding 30.02 percent of shares in Fiji Airways after the Fijian Government which holds 51 percent of shares",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "The statement is attributed to Fiji Airways Managing Director and CEO Andre Viljoen. The same article reports the earlier 74.56% figure stated in parliament in October 2021 and questions about the transaction from opposition parties; 51% is the figure given by the airline's CEO in July 2022."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "fiji-water-wonderful-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "the-wonderful-company"
+    ],
+    "text": "FIJI Water is one of the brands of The Wonderful Company LLC of Los Angeles, which describes itself as a privately held $6 billion company.",
+    "short": "FIJI Water is a The Wonderful Company brand; Wonderful is privately held.",
+    "source": {
+      "name": "The Wonderful Company: FIJI Water (official brand page, listed under 'Our Brands')",
+      "date": "2026-09-30",
+      "url": "https://www.wonderful.com/brands/fiji",
+      "quote": "Our Brands FIJI Water JUSTIN Wines Landmark Wines Lewis Cellars POM Wonderful",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Undated corporate brand page; date is the day it was opened. The page is The Wonderful Company's own brand page for FIJI Water, and its 'Our Brands' menu lists FIJI Water alongside the company's other brands."
+    },
+    "additionalSources": [
+      {
+        "name": "The Wonderful Company Careers: Manager, Consumer PR, FIJI Water (job posting)",
+        "date": "2026-09-30",
+        "url": "https://careers.wonderful.com/jobs/744000107837686",
+        "quote": "The Wonderful Company is a privately held $6 billion company committed to providing high-quality, healthy brands",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Undated careers page; date is the day it was opened. The posting is for 'Manager, Consumer Public Relations for FIJI Water' at 'The Wonderful Company, Los Angeles, CA', tying the brand to the company."
+      }
+    ],
     "reviewed": false
   },
   {
@@ -7953,6 +8322,39 @@
     "reviewed": false
   },
   {
+    "id": "fnqiz-state-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "fnqiz",
+      "government-of-uzbekistan"
+    ],
+    "text": "Uzbekistan's State Assets Management Agency (Davaktiv) is the sole founder of 'Farg'ona neftni qayta ishlash zavodi' LLC (FNQIZ, the Fergana Oil Refinery), which returned to full state control in June 2026.",
+    "short": "Uzbek state agency Davaktiv is the sole founder of the Fergana Oil Refinery (FNQIZ).",
+    "source": {
+      "name": "Gazeta.uz: Davlat yana Farg'ona neftni qayta ishlash zavodining yagona egasiga aylandi",
+      "date": "2026-06-08",
+      "url": "https://www.gazeta.uz/oz/2026/06/08/fnqiz/",
+      "quote": "Farg‘ona neftni qayta ishlash zavodi MCHJning yagona ta’sischisi sifatida Davlat aktivlarini boshqarish agentligi ko‘rsatilgan.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Spot.uz: Farg'ona NQIZ xususiylashtirilgandan to'rt yil o'tib davlat mulkiga qaytarildi",
+        "date": "2026-06-08",
+        "url": "https://www.spot.uz/oz/2026/06/08/ferghana-refinery/",
+        "quote": "Reyestr ma’lumotlariga ko‘ra, Farg‘ona neftni qayta ishlash zavodi kompaniyasining yagona ta’sischisi Davlat aktivlarini boshqarish agentligi hisoblanadi. Unga 124,54 mlrd so‘mlik ustav fondining 100%i tegishli.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "ford-motor-company-record",
     "kind": "ownership",
     "ownerIds": [
@@ -8009,6 +8411,27 @@
         "by": "Schnitzel"
       },
       "note": "Substantial Shareholders section: 'Fosun Holdings ... Fosun International Holdings 5,921,160,734 72.78%'. Fosun's company profile (https://en.fosun.com/about/company.html): 'In 2007, Fosun International Limited was listed on the main board of the Hong Kong Stock Exchange (stock code: 00656.HK).'"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "frecciarossa-trenitalia-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "trenitalia"
+    ],
+    "text": "Frecciarossa is the high-speed train brand of Trenitalia S.p.A.: the FIR announced a sponsorship agreement with Trenitalia that puts the Frecciarossa brand on the Italian national rugby teams' shirts.",
+    "short": "Frecciarossa is Trenitalia's brand.",
+    "source": {
+      "name": "Federazione Italiana Rugby: Frecciarossa Treno Ufficiale del Rugby Italiano",
+      "date": "2023-02-03",
+      "url": "https://www.federugby.it/frecciarossa-treno-ufficiale-del-rugby-italiano/",
+      "quote": "La Federazione Italiana Rugby e Trenitalia SpA hanno sottoscritto un accordo di sponsorizzazione che, sino al 31 dicembre 2024, porterà il brand “Frecciarossa” sulle maglie delle Nazionali maschili e femminili seniores",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "The original term ran to 31 December 2024; the partnership has continued since: FS News (Gruppo FS, 10 October 2025) reports 'Frecciarossa conferma il suo impegno a fianco della Nazionale Italiana di Rugby come treno ufficiale degli azzurri', and the Frecciarossa wordmark is on the back of the 2026/27 home shirt in the official Macron product photos."
     },
     "reviewed": false
   },
@@ -9851,6 +10274,27 @@
     "reviewed": false
   },
   {
+    "id": "hovione-family-owned",
+    "kind": "ownership",
+    "ownerIds": [
+      "hovione-holding-ag"
+    ],
+    "text": "Hovione Holding AG is a family-owned pharmaceutical group; its own press room describes Guy Villax as non-executive director and chairman of the family council, speaking for the company's principal shareholder.",
+    "short": "Hovione Holding AG is family-owned; the Villax family is the principal shareholder.",
+    "source": {
+      "name": "Hovione: 'Hovione nomeia Stefan Doboczky como Chief Executive Officer' (press release, hovione.pt press room)",
+      "date": "2026-09-08",
+      "url": "https://www.hovione.pt/press-room/press-release/hovione-e-o-novo-patrocinador-oficial-da-selecao-portuguesa-de-rugby-acordo-inclui-apoio-desenvolvimento-de-academia-para-jovens-talentos",
+      "note": "The page is the Hovione press room; below the January 2025 rugby-sponsorship release it carries the full text of the 8 September 2026 CEO-appointment release, which calls Hovione 'um grupo familiar' (a family group) and describes the family-council chairman as representing the principal shareholder.",
+      "quote": "Guy Villax, Administrador Não Executivo e Presidente do Conselho de Família, em representação do principal acionista da empresa",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "howden-employee-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -10992,6 +11436,26 @@
     "reviewed": false
   },
   {
+    "id": "karooooo-zak-calisto-control",
+    "kind": "ownership",
+    "ownerIds": [
+      "karooooo-ltd"
+    ],
+    "text": "Karooooo Ltd's ordinary shares are listed on the Nasdaq and the JSE, and its founder and chief executive officer Zak Calisto, its controlling shareholder, controls a majority of the combined voting power of its outstanding shares.",
+    "short": "Karooooo is Nasdaq/JSE-listed; founder and CEO Zak Calisto controls a majority of the votes.",
+    "source": {
+      "name": "Karooooo Ltd Form 20-F for fiscal year ended February 28, 2026 (SEC EDGAR) - Risk factors and share information",
+      "date": "2026-06-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/1828102/000121390026066795/ea0293645-20f_karooooo.htm",
+      "quote": "Our controlling shareholder and chief executive officer, Zak Calisto, controls a majority of the combined voting power of our outstanding ordinary shares",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "kaseya-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -11062,6 +11526,26 @@
         }
       }
     ]
+  },
+  {
+    "id": "khi-listed-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "kawasaki-heavy-industries-ltd"
+    ],
+    "text": "Kawasaki Heavy Industries, Ltd. is listed on the Tokyo Stock Exchange (TSE Prime Market), code 7012. Per the Kawasaki Report 2025 (stock information as of 31 March 2025) its largest shareholders were The Master Trust Bank of Japan, Ltd. (Trust Account, 15.01%), Custody Bank of Japan, Ltd. (Trust Account, 8.09%), Nippon Life Insurance Company (3.42%) and the Kawasaki Heavy Industries Employee Stock Ownership Association (2.84%); no state or sovereign shareholder is listed.",
+    "short": "Kawasaki Heavy Industries is TSE-Prime listed (code 7012); institutional holders, no state shareholder.",
+    "source": {
+      "name": "Kawasaki Heavy Industries: Kawasaki Report 2025, 'Corporate Profile / Stock Information (As of March 31, 2025)'",
+      "date": "2025-03-31",
+      "url": "https://global.kawasaki.com/en/corp/sustainability/report/2025/pdf/25_houkokusyo_25.pdf",
+      "quote": "Tokyo Stock Exchange (TSE Prime Market)",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
   },
   {
     "id": "kia-america-owner-record",
@@ -12340,6 +12824,39 @@
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "mai-dubai-dewa-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "dewa"
+    ],
+    "text": "Mai Dubai, the bottled-water company, is fully owned by Dubai Electricity and Water Authority (DEWA).",
+    "short": "Mai Dubai is fully owned by DEWA.",
+    "source": {
+      "name": "Mai Dubai (carrying DEWA's press release): 'Mai Dubai launches fastest bottled water production line in the region'",
+      "date": "2021-09-20",
+      "url": "https://www.maidubaiwater.com/whatson/mai-dubai-launches-fastest-bottled-water-production-line-in-the-region",
+      "quote": "Mai Dubai, the leading bottled water company fully owned by Dubai Electricity and Water Authority (DEWA)",
+      "note": "Company website carrying DEWA's press release (the dewa.gov.ae original 403s from datacenter IPs).",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "The National: 'Mai Dubai to double up on bottled water production'",
+        "date": "2017-04-16",
+        "url": "https://www.thenationalnews.com/business/mai-dubai-to-double-up-on-bottled-water-production-1.31044",
+        "quote": "Mai Dubai, which is owned by the Dubai Electricity and Water Authority (Dewa), on Sunday said it will more than double its current production capacity next year",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -14263,6 +14780,46 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "noevir-co-noevir-holdings",
+    "kind": "ownership",
+    "ownerIds": [
+      "noevir-holdings"
+    ],
+    "text": "Noevir Holdings Co., Ltd.'s securities report for the year ended September 2025 lists Noevir Co., Ltd. (㈱ノエビア, Kobe) among its consolidated subsidiaries, with Noevir Holdings holding 100.00% of the voting rights.",
+    "short": "Noevir Co., Ltd. is a wholly owned subsidiary of Noevir Holdings.",
+    "source": {
+      "name": "Noevir Holdings Co., Ltd.: 2025年9月期 有価証券報告書 (annual securities report, consolidated subsidiaries and major shareholders sections)",
+      "date": "2025-09",
+      "url": "https://www.noevirholdings.co.jp/ir/library/security-reports/pdf/2025/yuho15.pdf",
+      "quote": "㈱ノエビア (注)4、5 神戸市中央区 7,319百万円 化粧品事業 医薬・食品事業 その他の事業 100.00",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "noevir-holdings-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "noevir-holdings"
+    ],
+    "text": "Noevir Holdings Co., Ltd. (Tokyo-listed, securities code 4928) reported in its securities report for the year ended September 2025 that its largest shareholders were 株式会社エヌ・アイ・アイ (36.25%), 大倉俊 (10.83%) and 日本マスタートラスト信託銀行株式会社 / The Master Trust Bank of Japan (trust account, 6.14%); no state or sovereign shareholder is listed.",
+    "short": "Noevir Holdings' largest shareholder is N.I.I. Co. (36.25%); no state shareholder.",
+    "source": {
+      "name": "Noevir Holdings Co., Ltd.: 2025年9月期 有価証券報告書, 大株主の状況 (major shareholders, as of 30 September 2025)",
+      "date": "2025-09",
+      "url": "https://www.noevirholdings.co.jp/ir/library/security-reports/pdf/2025/yuho15.pdf",
+      "quote": "株式会社エヌ・アイ・アイ 東京都港区北青山1-2-3 12,382 36.25",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -16294,6 +16851,26 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "rakuten-group-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "rakuten-group-inc"
+    ],
+    "text": "Rakuten Group, Inc.'s main shareholders as of 31 December 2025 were The Master Trust Bank of Japan, Ltd. (Trust Account, 10.84%), Crimson Group, LLC. (10.43%), Hiroshi Mikitani (8.14%), JAPAN POST HOLDINGS Co., Ltd. (6.04%) and Haruko Mikitani (5.19%); no state or sovereign shareholder is listed as controlling the company.",
+    "short": "Rakuten Group's top holders are trust banks and founder-linked entities; no state control.",
+    "source": {
+      "name": "Rakuten Group, Inc.: State of Stock and Shareholders (as of December 31, 2025)",
+      "date": "2025-12-31",
+      "url": "https://global.rakuten.com/corp/investors/stock/overview.html",
+      "quote": "Crimson Group, LLC. 226,419,000 10.43 Hiroshi Mikitani 176,703,400 8.14",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -19293,6 +19870,40 @@
     "reviewed": false
   },
   {
+    "id": "sun-sand-sports-gmg-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "gmg"
+    ],
+    "text": "Sun & Sand Sports is a homegrown sports-retail brand of Gulf Marketing Group (GMG), a holding company owned and managed by the Baker family.",
+    "short": "Sun & Sand Sports is a GMG brand; GMG is owned by the Baker family.",
+    "source": {
+      "name": "GMG (Gulf Marketing Group): 'GMG pursues aggressive global expansion in sports retail with RSH acquisition'",
+      "date": "2020-12-16",
+      "url": "https://www.gmg.com/gmg-pursues-aggressive-global-expansion-in-sports-retail-with-rsh-acquisition",
+      "quote": "The GMG Sports portfolio includes homegrown brands such as Sun and Sand Sports",
+      "note": "Same page, 'About Gulf Marketing Group (GMG)': 'Under the ownership and management of the Baker family, it has become one of the Middle East's leading family-owned holding companies.'",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "SGB Media (SGB Executive): 'Sports Direct to Roll Out Stores in Gulf States and Egypt Via GMG Partnership'",
+        "date": "2025-03-03",
+        "url": "https://sgbonline.com/exec-sports-direct-to-roll-out-stores-in-gulf-states-and-egypt-via-gmg-partnership",
+        "quote": "GMG has been owned and managed by the Baker family for over 47 years.",
+        "note": "The same article calls Sun & Sand Sports GMG's 'home-grown multi-brand sports retailer'.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "suntory-holdings-record",
     "kind": "ownership",
     "ownerIds": [
@@ -19378,6 +19989,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "suzette-holdings-private",
+    "kind": "ownership",
+    "ownerIds": [
+      "suzette-holdings"
+    ],
+    "text": "株式会社シュゼット・ホールディングス (Suzette Holdings Co., Ltd.) is a Nishinomiya, Hyogo confectionery holding company whose brands include Henri Charpentier, C3 and Casaneo; its company profile names 蟻田剛毅 (Tsuyoshi Arita) as president and lists its group companies.",
+    "short": "Suzette Holdings is a private Nishinomiya confectionery holding company, president Tsuyoshi Arita.",
+    "source": {
+      "name": "株式会社シュゼット・ホールディングス: 企業情報 (company profile)",
+      "date": "2026",
+      "url": "https://www.suzette.co.jp/company/",
+      "note": "Page undated (figures as of April/June 2026); opened 2026-09-30.",
+      "quote": "商号 株式会社シュゼット・ホールディングス 代表者 代表取締役社長 蟻田剛毅",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -19484,6 +20116,27 @@
     "reviewed": false
   },
   {
+    "id": "tappoo-group-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "tappoo-group"
+    ],
+    "text": "Tappoo, the Fiji Rugby sponsor whose logo appears on the national team's shorts, is part of the Tappoos Group of Companies, a family-owned Fijian company founded in 1941 by Tappoo Kanji.",
+    "short": "Tappoo is a family-owned Fijian group.",
+    "source": {
+      "name": "Fiji Rugby Union: Our Sponsors (Tappoo City profile)",
+      "date": "2026-09-30",
+      "url": "https://www.fijirugby.com/corporate/our-sponsors",
+      "quote": "Tappoos Group of Companies is a well – known, family owned – Fijian company that was founded back in 1941. Tappoo comes from the name Tappoo Kanji.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Undated club sponsors page; date is the day it was opened. The same profile says 'Tappoo is the exclusive distribution partner of Fiji Rakavi merchandise and sponsors for Fiji Water flying Fijians, Fiji Airways 7s teams.'"
+    },
+    "reviewed": false
+  },
+  {
     "id": "tarfin-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -19541,6 +20194,27 @@
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
       }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "tbc-bank-group-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "tbc-bank-group"
+    ],
+    "text": "TBC Bank (JSC TBC Bank) belongs to TBC Bank Group PLC, a United Kingdom-based parent company listed on the London Stock Exchange (TBCG).",
+    "short": "TBC Bank is owned by London Stock Exchange-listed TBC Bank Group PLC.",
+    "source": {
+      "name": "FT Markets: TBC Bank Group PLC (TBCG:LSE) - Summary, About the company",
+      "date": "2026-09-30",
+      "url": "https://markets.ft.com/data/equities/tearsheet/summary?s=TBCG:LSE",
+      "quote": "TBC Bank Group PLC is a United Kingdom-based parent company of JSC TBC Bank (TBC Bank) and a group of companies that principally operate in Georgia in the financial sector.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Undated live market-data page; date is the day it was opened. The listing ticker TBCG on the LSE appears on the same page ('TBCG:LSE')."
     },
     "reviewed": false
   },
@@ -20044,6 +20718,42 @@
           "by": "Schnitzel"
         },
         "note": "The page lists Pelleau Antoine as contact."
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "trenitalia-italian-state-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "trenitalia",
+      "ferrovie-dello-stato-italiane",
+      "italian-ministry-of-economy-finance"
+    ],
+    "text": "Trenitalia is a subsidiary of Ferrovie dello Stato Italiane S.p.A. (FS), the holding company of the Italian FS railway group, and the Italian State is FS's sole shareholder via the Ministry of Economy and Finance (MEF): the FS EMTN base prospectus lists the railway undertaking Trenitalia among the subsidiaries FS controls, and describes the Italian State as FS's sole shareholder, appointing its Board of Directors and overseeing its strategy.",
+    "short": "Trenitalia is a subsidiary of FS, whose sole shareholder is the Italian state via the Ministry of Economy and Finance.",
+    "source": {
+      "name": "Ferrovie dello Stato Italiane S.p.A.: EMTN Programme Update 2025, Base Prospectus (Description of the Issuer; Regulation and supervision)",
+      "date": "2025",
+      "url": "https://www.fsitaliane.it/content/dam/fsitaliane/Documents/investor-relations/Ferrovie_EMTN_Update_2025_Base_Prospectus.pdf",
+      "quote": "As sole shareholder, the Italian State: (i) appoints the Board of Directors; (ii) oversees FS' strategy via its board representation",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Same prospectus, printed page 127: 'FS controls the railway infrastructure manager RFI, the road infrastructure manager Anas as well as the railway undertaking Trenitalia, which are subsidiaries of FS', and 'On 12 August 1992, FS became a joint-stock company which was wholly owned by the State via the MEF'."
+    },
+    "additionalSources": [
+      {
+        "name": "Trenitalia: Chi siamo (Who we are)",
+        "date": "2026",
+        "url": "https://www.trenitalia.com/it/chi-siamo.html",
+        "quote": "Trenitalia, società del Gruppo FS Italiane, offre servizi di trasporto per soddisfare le esigenze di mobilità in Italia e in Europa",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Trenitalia's own site describes Trenitalia as a company of the FS Italiane Group."
       }
     ],
     "reviewed": false
@@ -20928,6 +21638,48 @@
     "reviewed": false
   },
   {
+    "id": "uzbekistan-karakalpakstan-2022",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-uzbekistan"
+    ],
+    "text": "In July 2022 Uzbek security forces used unjustifiably lethal and other excessive force to disperse mainly peaceful protesters in Karakalpakstan, where at least 18 protesters died; the UN human rights chief called for a prompt, independent investigation into the deaths.",
+    "short": "Karakalpakstan, July 2022: lethal force against mainly peaceful protesters; at least 18 dead.",
+    "source": {
+      "name": "Human Rights Watch: Uzbekistan - Police Abuses in Autonomous Region Protests",
+      "date": "2022-11-07",
+      "url": "https://www.hrw.org/news/2022/11/07/uzbekistan-police-abuses-autonomous-region-protests",
+      "quote": "Uzbek security forces unjustifiably used lethal force and other excessive responses to disperse mainly peaceful demonstrators on July 1 and 2, 2022 in Karakalpakstan",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Amnesty International: Uzbekistan - End use of unlawful force against Karakalpakstan protesters",
+        "date": "2022-07-04",
+        "url": "https://www.amnesty.org/en/latest/news/2022/07/uzbekistan-end-use-of-unlawful-force-against-karakalpakstan-protesters/",
+        "quote": "Reports of use of unlawful force in Nukus, which left at least 18 protesters dead following a demonstration against a proposed amendment to the Constitution",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "UN News: Bachelet calls for impartial, 'transparent investigation' into Uzbekistan protest deaths",
+        "date": "2022-07-05",
+        "url": "https://news.un.org/en/story/2022/07/1122012",
+        "quote": "prompt, impartial and “transparent investigation” into the deaths of at least 18 people during clashes at protests in the Uzbek region of Karakalpakstan",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "var-group-sesa-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -21136,6 +21888,27 @@
     ]
   },
   {
+    "id": "vision-motors-vil-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "vision-investments-ltd"
+    ],
+    "text": "Vision Motors is a trading division of Vision Investments Limited (VIL), which describes itself as a public listed company on the Fiji stock exchange.",
+    "short": "Vision Motors is a trading division of listed Vision Investments Limited.",
+    "source": {
+      "name": "Vision Investments Limited: Vision Motors (company's own service page)",
+      "date": "2026-09-30",
+      "url": "https://vil.com.fj/service/vision-motors",
+      "quote": "Vision Motors is a trading division of Vision Investments Limited (VIL) which is undoubtedly one of the largest private sector entrepreneurs in Fiji",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Undated company page; date is the day it was opened. The same page's footer describes VIL as 'A public listed company and amongst the first three largest companies on the Fiji Stock Exchange.' The ticker VIL trades on the South Pacific Stock Exchange (marketreports.spx.com.fj)."
+    },
+    "reviewed": false
+  },
+  {
     "id": "visipapel-founded-1988",
     "kind": "ownership",
     "ownerIds": [
@@ -21276,6 +22049,30 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "vittoria-yafa-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "vittoria-assicurazioni-spa",
+      "yafa-holding-spa",
+      "yafa-spa",
+      "carlo-acutis"
+    ],
+    "text": "Vittoria Assicurazioni S.p.A. is part of the Vittoria Assicurazioni Group and subject to the direction and coordination of its parent Yafa S.p.A. The shareholder chart ('Gli Azionisti') on the same corporate-data page shows 98.34% of Vittoria Assicurazioni S.p.A. held by Yafa Holding S.p.A., 80.43% of Yafa Holding S.p.A. held by Yafa S.p.A. and 99.99% of Yafa S.p.A. held by Carlo Acutis.",
+    "short": "Vittoria Assicurazioni is controlled by Carlo Acutis through Yafa S.p.A. and Yafa Holding S.p.A.",
+    "source": {
+      "name": "Vittoria Assicurazioni: Struttura e Dati societari (Wayback Machine capture of 13 June 2026)",
+      "date": "2026-06-13",
+      "url": "https://web.archive.org/web/20260613001911/https://www.vittoriaassicurazioni.com/chi-siamo/struttura-e-dati-societari/",
+      "quote": "Soggetta all’attività di direzione e coordinamento della Capogruppo Yafa S.p.A.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "vittoriaassicurazioni.com answers scripts with a maintenance page; read via the Wayback capture. The direction-and-coordination sentence is in the page text; the 98.34% / 80.43% / 99.99% stakes are legible in the 'Gli Azionisti' chart image published on the same page."
+    },
     "reviewed": false
   },
   {
