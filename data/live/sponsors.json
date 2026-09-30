@@ -185,6 +185,22 @@
     "note": "Presenting sponsor of the Magical Kenya Open presented by absa (event name, 2026 Race to Dubai schedule). Ownership not traced here."
   },
   {
+    "id": "abt-sportsline",
+    "name": "ABT Sportsline",
+    "ownerId": "abt-sportsline-gmbh",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by ABT Sportsline GmbH, an Abt-family owner-managed company. Nothing found.",
+    "claimIds": [
+      "abt-sportsline-gmbh-family"
+    ],
+    "aliases": [
+      "ABT"
+    ],
+    "note": "Naming partner in the Lola Yamaha ABT Formula E team name; Lola and ABT announced in January 2026 they will split after Season 12 (the-race.com)."
+  },
+  {
     "id": "abu-dhabi-sports-council",
     "name": "Abu Dhabi Sports Council",
     "ownerId": "government-of-abu-dhabi",
@@ -362,6 +378,23 @@
     "aliases": []
   },
   {
+    "id": "adq",
+    "name": "ADQ",
+    "ownerId": "adq",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "ADQ is an Abu Dhabi investment and holding company; Abu Dhabi's Supreme Council for Financial and Economic Affairs consolidated its assets under the sovereign fund L'IMAD in January 2026.",
+    "claimIds": [
+      "etihad-adq-ownership-2022",
+      "etihad-limad-2026"
+    ],
+    "aliases": [
+      "abu dhabi developmental holding company"
+    ],
+    "note": "Abu Dhabi Developmental Holding Company; its mark is on the sleeves of the 2026 UAE Team Emirates XRG jersey (kit launched 12 December 2025). Rating note: on hold for a maintainer. The sponsor is an Abu Dhabi state holding company, now under L'IMAD, a sovereign fund of the Government of Abu Dhabi. The UAE's record is on main (uae-mass-trial-2024, mubadala-uae-convictions-upheld)."
+  },
+  {
     "id": "adt",
     "name": "ADT",
     "ownerId": "adt-owner",
@@ -473,6 +506,22 @@
     "note": "Belgian insurer founded 1824, 75% owned by Ageas, 25% by BNP Paribas Fortis; title sponsor of AG Insurance-Soudal (Cyclist, 2026-07-14)."
   },
   {
+    "id": "ag1",
+    "name": "AG1",
+    "ownerId": "athletic-greens",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "ag1-athletic-greens-ownership"
+    ],
+    "aliases": [
+      "Athletic Greens"
+    ],
+    "note": "Official Foundational Nutrition Partner of the U.S. SailGP Team (ussailgpteam.com, 14 Mar 2025). Left unrated for a maintainer: Athletic Greens is a private company founded by Chris Ashenden (ag1-athletic-greens-ownership); its share register isn't public. Its January 2022 round of US$115 million, at a valuation above US$1 billion, was led by Alpha Wave Ventures, the flagship venture fund of Alpha Wave Global, whose chairman Rick Gerson joined the board (Athletic Greens release, Business Wire, 2022-01-25, https://www.businesswire.com/news/home/20220125005425/en/Athletic-Greens-Raises-%24115M-From-Alpha-Wave-Ventures-and-Strategic-Investors-to-Accelerate-Global-Growth-and-Reach-Millions-of-New-Customers). The same day Abu Dhabi's Chimera Capital closed the US$10 billion fund Alpha Wave Ventures II, which it co-manages with Alpha Wave Global; Chimera Capital is part of Royal Group, chaired by Sheikh Tahnoon bin Zayed Al Nahyan, and the fund's investors are 'local and regional' and unnamed (Reuters via Euronews, 2022-01-25, https://www.euronews.com/next/2022/01/25/chimera-funds). Which Alpha Wave fund holds the AG1 stake, and how large it is, isn't published. Whether a company Sheikh Tahnoon controls privately is a state link is the maintainer's call (see colnago, ihc). No human-rights finding against the company found."
+  },
+  {
     "id": "aggreko",
     "name": "Aggreko",
     "ownerId": null,
@@ -483,6 +532,24 @@
     "claimIds": [],
     "aliases": [],
     "note": "Official Temporary Power Provider (fiaformulae.com/en/partners, fetched 2026-09-25)."
+  },
+  {
+    "id": "agp",
+    "name": "AGP",
+    "ownerId": "profile-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Double-glazing manufacturer, 75% owned by New Zealand's Profile Group, whose shares are held by Mitchell Plaw and co-holders. Nothing found.",
+    "claimIds": [
+      "agp-ownership",
+      "profile-group-ownership"
+    ],
+    "aliases": [
+      "Architectural Glass Products",
+      "AGP Architectural Glass Products"
+    ],
+    "note": "Rating note: official partner of the Black Foils (SailGP team page, which links the AGP logo to agpl.co.nz; fetched 2026-09-30). Chain checked on the New Zealand Companies Register: Profile Group Limited holds 75% of Architectural Glass Products Limited and the other 25% sits with New Zealand private holders (a company, trustees and an individual); Profile Group Limited's shares are held by Mitchell Plaw, alone or with co-holders. No state or state fund in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against AGP or Profile Group found."
   },
   {
     "id": "agua-de-monfortinho",
@@ -635,6 +702,18 @@
     "note": "Regional Public Fund named after Akhmat Kadyrov; listed partner of RFK Akhmat."
   },
   {
+    "id": "akrapovic",
+    "name": "Akrapovič",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Sponsor of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to akrapovic.com, stands under 'Official Sponsors' with the line 'Exhaust systems' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
     "id": "akron",
     "name": "Akron",
     "ownerId": null,
@@ -647,6 +726,29 @@
       "akron.com.mx"
     ],
     "note": "Torque GC partner; logo links to akron.com.mx (fetched 2026-09-25)."
+  },
+  {
+    "id": "aktor",
+    "name": "AKTOR",
+    "ownerId": "aktor-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "AKTOR is the brand of AKTOR Group, an Athens-listed infrastructure group whose largest holder is Winex Investments (33.41%), a company related to its chairman. Nothing found.",
+    "claimIds": [
+      "aktor-group-listed",
+      "aktor-group-winex-stake",
+      "aktor-group-voting-rights-2026",
+      "aktor-group-castellano-stake",
+      "aktor-group-blue-silk-stake"
+    ],
+    "aliases": [
+      "AKTOR Group",
+      "Aktor",
+      "Άκτωρ",
+      "AKTOR Όμιλος Εταιρειών"
+    ],
+    "note": "Rating note: naming sponsor of Panathinaikos B.C. (the team plays as Panathinaikos AKTOR Athens; naming deal renewed in November 2024 for three more seasons, to 2028-29). AKTOR Group is traded on Euronext Athens. Its holders of 5% or more are Winex Investments Limited, related to chairman and CEO Alexandros Exarchou (33.41%), Castellano Properties Limited of the Gotsis family (20.31%) and Blue Silk (CY) Ltd of Konstantinos Angelou (11.33%); the rest is free float. No state or state fund is among the holders of 5% or more listed by Euronext Athens (checked 2026-09-29); no human-rights finding against the group by a court, regulator, UN body or major NGO was found."
   },
   {
     "id": "al-dahayan",
@@ -1084,8 +1186,11 @@
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "claimIds": [
+      "amazon-com-inc-listing"
+    ],
+    "aliases": [],
+    "note": "Official sponsor and retail partner of the U.S. SailGP Team (ussailgpteam.com, 2 Jun 2025). Left unrated for a maintainer: the owner is sourced (amazon-com-inc-listing: Amazon.com, Inc. is Nasdaq-listed; no state or state-fund holder found), but the company test isn't settled. Amnesty International's report 'Don't worry, it's a branch of Amazon' (2023-10-10, https://www.amnesty.org/en/documents/mde23/7229/2023/en/) documents abuses of Nepali migrant workers contracted to Amazon's warehouses in Saudi Arabia between 2021 and 2023 and says many 'are highly likely to be victims of human trafficking'; Amnesty's release of the same day (https://www.amnesty.org/en/latest/news/2023/10/saudi-arabia-migrants-workers-who-toiled-in-amazon-warehouses-were-deceived-and-exploited/) says Amazon 'has contributed to abuses'. The US Equal Employment Opportunity Commission issued determinations in February and April 2026 that Amazon systemically violated the Pregnant Workers Fairness Act and the Americans with Disabilities Act in its warehouses, as reported by the workers' counsel A Better Balance (2026-04-24, https://www.abetterbalance.org/federal-agency-finds-amazon-is-systemically-violating-disabled-workers-rights/); the determinations themselves weren't opened. OSHA's ergonomics citations from inspections at ten Amazon warehouses that began in 2022 ended in a corporate-wide settlement (OSHA, 2024-12-19, https://www.osha.gov/news/newsreleases/osha-national-news-release/20241219), which by itself isn't a finding. No record claim is written yet."
   },
   {
     "id": "ambipar",
@@ -1219,16 +1324,20 @@
   {
     "id": "analog",
     "name": "Analog",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "g42",
+    "ownership": "part-owned",
     "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "status": "being-rated",
+    "verdict": "Analog was launched by G42 in January 2024; its founder says G42 is its biggest investor.",
+    "claimIds": [
+      "analog-g42-venture",
+      "g42-mubadala-minority-stake",
+      "g42-board-abu-dhabi-officials"
+    ],
     "aliases": [
       "analog sports"
     ],
-    "note": "Adaptive intelligence/technology company; official technology sponsor of UAE Team ADQ/L'IMAD. The Inner Ring (2026-08-05) says Analog is owned by G42 (normalized sponsor id g42, Mubadala-backed)."
+    "note": "Abu Dhabi edge-computing company; on the shoulders of the 2026 UAE Team Emirates XRG kit and an official technology sponsor of UAE Team L'IMAD. Rating note: on hold for a maintainer. G42's stake in Analog isn't disclosed. The state link sits one step up, at G42: Abu Dhabi's state fund Mubadala holds a minority stake there and its chief executive sits on G42's board (G42 is rated on main). The UAE's record is on main (uae-mass-trial-2024, mubadala-uae-convictions-upheld)."
   },
   {
     "id": "anheuser-busch",
@@ -1276,16 +1385,18 @@
   {
     "id": "apex-group",
     "name": "Apex Group",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "genstar-capital",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "apex-group-genstar-ownership"
+    ],
     "aliases": [
       "Apex"
     ],
-    "note": "Official Partner of SailGP; also title partner of the Apex Group Bermuda Sail Grand Prix and an official partner of the United States team (sailgp.com partners overview, US team page and 2026 calendar, fetched 2026-09-25)."
+    "note": "Official Partner of SailGP; also title partner of the Apex Group Bermuda Sail Grand Prix and an official partner of the United States team (ussailgpteam.com, 24 Oct 2024). Left unrated: Apex Group's release of 15 July 2021 says Carlyle and the sovereign investor Mubadala Investment Company took minority stakes, investing in the ordinary share capital alongside founder Peter Hughes, majority investor Genstar Capital and TA Associates (claim apex-group-genstar-ownership). Neither the size of Mubadala's stake nor whether it has a board seat is published, and no later source on the shareholders was found. Mubadala is wholly owned by the Government of Abu Dhabi, and the UAE has a record in this data (uae-mass-trial-2024, mubadala-uae-convictions-upheld), so a Mubadala stake of 5% or more, or a board seat, would be Concern. No human-rights finding against the company found."
   },
   {
     "id": "apm-monaco",
@@ -1454,6 +1565,20 @@
       "Arrow"
     ],
     "note": "Official Technology Partner; branding on cars and race suits per SportsPro 2021-09-20."
+  },
+  {
+    "id": "aruba",
+    "name": "Aruba",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Aruba.it"
+    ],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to aruba.it, stands under 'Official Partners' with the line 'Hosting, Domains, PEC, Digital Signatures, Data Center and Cloud' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
   },
   {
     "id": "asahi-super-dry",
@@ -1686,6 +1811,33 @@
     "note": "Rating note: Formerly state-regulated monopoly (pre-1984 break-up) but never state-owned; no sovereign stake today."
   },
   {
+    "id": "atvos",
+    "name": "Atvos",
+    "ownerId": "mubadala-capital",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "Brazilian biofuel producer controlled by Mubadala Capital, the asset-management subsidiary of Abu Dhabi's sovereign wealth fund, through its MC Green Energy fund.",
+    "claimIds": [
+      "uae-mass-trial-2024",
+      "atvos-mubadala-capital-ownership"
+    ],
+    "aliases": [
+      "Atvos Bioenergia",
+      "Atvos Agroindustrial"
+    ],
+    "why": {
+      "text": "Atvos is controlled by Mubadala Capital, the asset-management subsidiary of Abu Dhabi's sovereign wealth fund; Mubadala itself is wholly owned by the Government of Abu Dhabi. In July 2024, a court in Abu Dhabi sentenced 43 people, including human rights defenders, to life in prison after a mass trial that human rights monitors called unfair. Sponsorship on Brazil's boat makes the UAE's money look good to fans while that goes on.",
+      "claimIds": [
+        "uae-mass-trial-2024",
+        "atvos-mubadala-capital-ownership"
+      ],
+      "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial.",
+      "status": "draft"
+    },
+    "note": "Rating note: propose 'serious'. The link: Valor (12 Dec 2022) reported Mubadala 'will become the controlling shareholder through the MC Green Energy fund', the change of control completed in January 2023, Mubadala Capital raised its stake again in October-November 2023 when Novonor exited (Latin Lawyer), and Mubadala Capital's own site still lists Atvos as a Brazil portfolio investment (claim atvos-mubadala-capital-ownership). Mubadala Capital is the wholly-owned asset-management subsidiary of Mubadala Investment Company, itself wholly owned by the Government of Abu Dhabi (owners mubadala-capital -> mubadala -> government-of-abu-dhabi). The record: uae-mass-trial-2024. A state fund with a sourced serious-abuse record controls the sponsor -> 'serious'. ON HOLD: proposed 'serious' in PR, pending maintainer review."
+  },
+  {
     "id": "auberge-collection",
     "name": "Auberge Collection",
     "ownerId": "the-friedkin-group",
@@ -1713,6 +1865,39 @@
     ],
     "aliases": [],
     "note": "Chain: Auchan Retail International → ELO → Association Famille Mulliez. No state or state fund in the chain."
+  },
+  {
+    "id": "audi",
+    "name": "Audi",
+    "ownerId": "audi-ag",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "Audi is a fully owned Volkswagen AG subsidiary; Qatar Holding LLC holds 10.4% of Volkswagen AG's capital and 17.0% of its voting rights.",
+    "claimIds": [
+      "audi-vw-ownership",
+      "qatar-holding-vw-stake",
+      "qatar-holding-qia-ownership",
+      "qia-government-of-qatar-ownership"
+    ],
+    "aliases": [],
+    "note": "Main Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to audi.com/en/audisport.html, stands under 'Main Partners' with the line 'Automotive / Performance cars' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note: on hold for a maintainer, like das-weltauto and skoda: AUDI AG is a fully owned subsidiary of Volkswagen AG (audi-vw-ownership), and Qatar Holding LLC, part of the Qatar Investment Authority, holds 10.4% of Volkswagen AG's capital and 17.0% of its voting rights (qatar-holding-vw-stake, qatar-holding-qia-ownership, qia-government-of-qatar-ownership); Qatar's record is recorded (qatar-migrant-worker-abuse-2025). That passes the 5% test, so 'none' can't stand."
+  },
+  {
+    "id": "audi-al-nabooda",
+    "name": "Audi Al Nabooda (Al Nabooda Automobiles)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "audi",
+      "audi dubai",
+      "al nabooda automobiles"
+    ],
+    "note": "The deal was announced by 'Audi, Al Nabooda Automobiles', Dubai Basketball's Official Automotive Partner (club announcement, 1 September 2025). Ownership not traced."
   },
   {
     "id": "aus-global",
@@ -1759,6 +1944,36 @@
     ],
     "aliases": [],
     "note": "Kit maker (partner) of the Racing Santander 2026/27 shirt per Score and Change and Footy Headlines; its contract with the club runs to 30 June 2028 (club announcement, 7 March 2024)."
+  },
+  {
+    "id": "auto-eder",
+    "name": "Auto Eder",
+    "ownerId": "auto-eder",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Auto Eder GmbH is a family-led Bavarian car-dealer group; its managing partners are Peter Eder and Josef Eder. Nothing found.",
+    "claimIds": [
+      "auto-eder-family-ownership"
+    ],
+    "aliases": [
+      "AUTO EDER"
+    ],
+    "note": "Rating note (issue #603, 2026-09-29): family business; no state in the chain and no human-rights finding found. Auto Eder also gives its name to the team's junior squad, grenke - Auto Eder."
+  },
+  {
+    "id": "autogrill",
+    "name": "Autogrill",
+    "ownerId": "avolta-ag",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Autogrill belongs to Avolta AG (formerly Dufry), a listed Swiss travel-retail group whose largest shareholder is Edizione S.p.A. Nothing found.",
+    "claimIds": [
+      "autogrill-avolta-ownership"
+    ],
+    "aliases": [],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to autogrill.it, stands under 'Official Partners' with the line 'Food and Beverage services for people on the move' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note (2026-09-30): Autogrill belongs to Avolta AG (formerly Dufry AG), listed in Zurich (autogrill-avolta-ownership). Avolta's Corporate Governance Report 2025 (https://www.avoltaworld.com/system/files/2026-03/Corporate%20Governance.pdf) lists the holders of 3% or more at 31 December 2025: Edizione S.p.A. 22.17%, Advent International 8.72%, Helikon Investments 5.04%, Compagnie Financière Rupert 4.94%, the Qatar Investment Authority 4.49% (held by Qatar Holding LLC), BlackRock 3.93% and UBS Fund Management 3.60%. Qatar has a record in this data, but its stake is below 5% and the report's board biographies name no Qatar Investment Authority representative, so the link test isn't met. A notice that the stake is back at 5% or more would change this. No human-rights finding against the company found."
   },
   {
     "id": "autoliv",
@@ -1861,16 +2076,19 @@
   {
     "id": "azimut",
     "name": "Azimut",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [
-      "Azimut Yachts"
+    "ownerId": "azimut-holding-spa",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "The asset and wealth management group Azimut Holding S.p.A., listed in Milan; its named shareholders are Timone Fiduciaria (21.15%) and Helikon Investments (5.82%), the rest is free float. Nothing found.",
+    "claimIds": [
+      "azimut-holding-shareholders"
     ],
-    "note": "Italian luxury yacht builder; Global Partner of Red Bull Italy (sailgp.com team page, fetched 2026-09-25)."
+    "aliases": [
+      "Azimut Investments",
+      "Azimut Group"
+    ],
+    "note": "Global Partner of Red Bull Italy SailGP Team for the 2026 season. This is the asset and wealth management group, not the yacht builder Azimut|Benetti (Azimut Yachts): the team's announcement calls Azimut an 'independent global group in asset and wealth management' and says the Azimut Investments logo is on the hull of the Italian F50 (pressmare.it, 2026-01-15), and SailGP's team page links the partner to azimut-group.com."
   },
   {
     "id": "azores-airlines",
@@ -2035,6 +2253,18 @@
     "note": "Rating note: Listed Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
   },
   {
+    "id": "ballena",
+    "name": "Ballena (tequila-based liqueur)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Brazilian strawberry-flavoured, tequila-based liqueur (Ballena Comércio de Bebidas S.A., São Bernardo do Campo). Valor International (2026-09-14) describes it as entrepreneur Fernando Gorayeb's fourth beverage company, created in 2021; formal shareholder structure not found in public sources."
+  },
+  {
     "id": "ballys-intralot",
     "name": "Bally's Intralot",
     "ownerId": "standard-general",
@@ -2102,6 +2332,26 @@
     ],
     "aliases": [],
     "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; the 2016 finding concerns hiring in 1993, more than 20 years ago; fossil finance and mortgage settlements are not human-rights findings."
+  },
+  {
+    "id": "bank-of-communications",
+    "name": "Bank of Communications",
+    "ownerId": "bank-of-communications",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": "Controlled by China's Ministry of Finance (35.02%); China has a documented record of serious abuses in Xinjiang.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "bocom-mof-controlling-shareholder"
+    ],
+    "aliases": [
+      "交通银行",
+      "BoCom",
+      "BOCOM",
+      "Jiaoyin Yinhang"
+    ],
+    "note": "Front-of-shirt sponsor of Shanghai Shenhua in the 2026 Chinese Super League season (announced via a publicity-services tender by the bank's Shanghai branch; named press: Tencent News, 2026-03-17)."
   },
   {
     "id": "bank-of-kigali",
@@ -2221,6 +2471,22 @@
     "note": "Rating note: German mutual 'a.G.' structure; Barmenia Versicherungen a.G. and Gothaer Versicherungsbank VVaG stand at the top of the BarmeniaGothaer group (steering via BarmeniaGothaer AG). Owned by policyholder members, not shareholders or the state. Main and shirt sponsor since 2016, running to 2028."
   },
   {
+    "id": "barton-and-gray",
+    "name": "Barton & Gray Mariners Club",
+    "ownerId": "barton-and-gray-mariners-club",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A private US membership yachting club run by its founders. Nothing found.",
+    "claimIds": [
+      "barton-gray-ownership"
+    ],
+    "aliases": [
+      "Barton & Gray"
+    ],
+    "note": "Official Team Supplier of the U.S. SailGP Team (ussailgpteam.com, 16 Jun 2025). Rating note (2026-09-30): founded in 2006 and led by Timothy Barton and Douglas Gray per its own About page; its share register isn't public, no source names a state or state-fund shareholder, and no human-rights finding against the company was found."
+  },
+  {
     "id": "basic-electronics",
     "name": "Basic Electronics Company",
     "ownerId": null,
@@ -2302,6 +2568,18 @@
     "note": "Saudi Pro League partner."
   },
   {
+    "id": "beatbot",
+    "name": "Beatbot",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official partner of the U.S. SailGP Team (ussailgpteam.com, 10 Feb 2025). Ownership not sourced yet: the team's announcement names no owner or parent company."
+  },
+  {
     "id": "belavia",
     "name": "Belavia",
     "ownerId": null,
@@ -2331,6 +2609,23 @@
       "grupo benecar"
     ],
     "note": "On the upper back of Casa Pia's 2026-27 home kit (issue #390). Not rated yet: its owner isn't identified (its own site names no shareholder or parent company)."
+  },
+  {
+    "id": "bermuda",
+    "name": "Bermuda",
+    "ownerId": "bermuda-tourism-authority",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "The Bermuda Tourism Authority, Bermuda's official destination marketing organisation. Nothing found.",
+    "claimIds": [
+      "bermuda-tourism-authority-ownership"
+    ],
+    "aliases": [
+      "Bermuda Tourism Authority",
+      "BTA"
+    ],
+    "note": "Official Tourism Partner of the U.S. SailGP Team for 2026 (ussailgpteam.com, 30 Mar 2026). Rating note (2026-09-30): the 'Bermuda' partner is the Bermuda Tourism Authority, Bermuda's official, quasi-independent destination-marketing organisation. State ownership alone is not a tier, and this data has no record of serious abuses for Bermuda, so it rates none (METHOD.md)."
   },
   {
     "id": "bestebit",
@@ -2369,6 +2664,20 @@
       "bet365.Scores"
     ],
     "note": "bet365's live-scores app, used as an infotainment sleeve brand where Italy restricts direct gambling sponsorship. Developer on the app listing is Hillside Technology Limited, bet365's technology business; the owner chain runs through bet365 Group. Privately held by the Coates family; no state links found in the owner chain."
+  },
+  {
+    "id": "beta-tools",
+    "name": "Beta",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Beta Utensili"
+    ],
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to beta-tools.com, stands under 'Technical partners' with the line 'Tools' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
   },
   {
     "id": "betano",
@@ -2856,29 +3165,35 @@
   },
   {
     "id": "bora",
-    "name": "Bora",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "German cooker-extractor manufacturer."
+    "name": "BORA",
+    "ownerId": "bora-lueftungstechnik",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "BORA is the brand of Bora Lüftungstechnik GmbH, a German cooktop-extractor maker founded, led and owned by Willi Bruckbauer. Nothing found.",
+    "claimIds": [
+      "bora-bruckbauer-ownership"
+    ],
+    "aliases": [
+      "Bora"
+    ],
+    "note": "German cooker-extractor manufacturer. Rating note (issue #603, 2026-09-29): founder-owned company; no state in the chain and no human-rights finding found."
   },
   {
     "id": "bosch",
     "name": "Bosch",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "robert-bosch-gmbh",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Robert Bosch GmbH is 94% owned by the not-for-profit Robert Bosch Stiftung. Nothing found.",
+    "claimIds": [
+      "bosch-stiftung-ownership"
+    ],
     "aliases": [
       "bosch motorsport"
     ],
-    "note": "Series partner (fiawec.com partners page, fetched 2026-09-26). Robert Bosch GmbH is majority-held by Robert Bosch Stiftung, a charitable foundation; not verified from a primary source here."
+    "note": "Series partner (fiawec.com partners page, fetched 2026-09-26). Also Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to bosch-pt.co.uk/professional, stands under 'Official Partners' with the line 'Professional power tools' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note (2026-09-30): Robert Bosch GmbH is about 94% owned by the not-for-profit Robert Bosch Stiftung GmbH, with about 5% held by a Bosch family company (bosch-stiftung-ownership). No state or state-fund shareholder."
   },
   {
     "id": "boss",
@@ -3240,6 +3555,22 @@
     "note": "Rating note: Small mittelstand firm; family owners in the register. No state link."
   },
   {
+    "id": "cadbury",
+    "name": "Cadbury",
+    "ownerId": "mondelez-international",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "cadbury-mondelez-ownership"
+    ],
+    "aliases": [
+      "Cadbury Australia"
+    ],
+    "note": "Ownership is sourced (Mondelēz International, cadbury-mondelez-ownership). The company test (findings on child labour in the cocoa supply chain) hasn't been done, so the sponsor stays unrated, like `mondelez`."
+  },
+  {
     "id": "caesars-entertainment",
     "name": "Caesars Entertainment",
     "ownerId": "caesars-entertainment-owner",
@@ -3307,6 +3638,23 @@
     "note": "German bike brand; title sponsor of Canyon//SRAM (Cyclist, 2026-07-14)."
   },
   {
+    "id": "capelli-sport",
+    "name": "Capelli Sport",
+    "ownerId": "gma-accessories",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by GMA Accessories Inc., the private New York apparel company of founder and owner-CEO George Altirs. Nothing found.",
+    "claimIds": [
+      "capelli-sport-gma-accessories-ownership"
+    ],
+    "aliases": [
+      "Capelli",
+      "Capelli Sport+"
+    ],
+    "note": "Rating note: New York sportswear brand launched in 2011 by George Altirs; sits under GMA Accessories, Inc., a privately held New York apparel company Altirs founded in 1990. No state body or fund found anywhere in the chain, and no court, regulator, UN body or major-NGO human-rights finding against Capelli Sport or GMA Accessories found (searched 30 Sep 2026)."
+  },
+  {
     "id": "capital-one",
     "name": "Capital One",
     "ownerId": "capital-one-owner",
@@ -3338,6 +3686,18 @@
     "note": "Official beer partner of the Emirates FA Cup and Adobe Women's FA Cup until 2027 (FA Cup page footer and Sportcal). Carling is a Molson Coors core power brand per molsoncoors.com/about."
   },
   {
+    "id": "carlo-barbera",
+    "name": "Carlo Barbera",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to carlobarbera.it, stands under 'Official Partners' with the line 'Carlo Barbera' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
     "id": "carlsberg",
     "name": "Carlsberg",
     "ownerId": "carlsberg-group",
@@ -3347,6 +3707,22 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "carrera-eyewear",
+    "name": "Carrera (eyewear)",
+    "ownerId": "safilo-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Carrera eyewear is a Safilo Group house brand; Safilo is Milan-listed, with HAL Holding's Multibrands Italy at 49.8%. Nothing found.",
+    "claimIds": [
+      "safilo-hal-ownership"
+    ],
+    "aliases": [
+      "Carrera"
+    ],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to carreraworld.com, stands under 'Official Partners' with the line 'Sunglasses and optical frames since 1956' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note (2026-09-30): Carrera is one of Safilo Group's home brands; Safilo is listed in Milan and its reference shareholder is Multibrands Italy B.V., a subsidiary of HAL Holding N.V., with 49.8% (safilo-hal-ownership). No state or state-fund shareholder named."
   },
   {
     "id": "carvana",
@@ -3475,6 +3851,20 @@
       "messageLine": "In 2013 BP, Castrol's owner, pleaded guilty to 11 counts of felony manslaughter over the 2010 Deepwater Horizon disaster, admitting its supervisors negligently caused the deaths of 11 men.",
       "status": "draft"
     }
+  },
+  {
+    "id": "cato-networks",
+    "name": "Cato Networks",
+    "ownerId": "cato-networks",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "cato-networks-ownership"
+    ],
+    "aliases": [],
+    "note": "Technology partner of the Porsche Formula E Team. Left unrated: Cato Networks' investors include Singtel Innov8, the corporate venture fund of Singtel (innov8.singtel.com), in which Singapore's state fund Temasek holds just over 50% (The Edge Singapore, 2025, via https://sg.finance.yahoo.com/news/capital-group-emerges-substantial-singtel-002056508.html), and SoftBank Vision Fund 2. Neither stake is published. Singapore counts as a state with a record in this data, so an effective Temasek stake of 5% or more (Singtel Innov8 would need about 10% of Cato), or a board seat, would be Concern. No human-rights finding against the company located."
   },
   {
     "id": "cazoo",
@@ -3698,6 +4088,26 @@
     "note": "Rating note: Explicitly states private, non-profit status; no state stake or serious conduct record identified."
   },
   {
+    "id": "china-eastern-airlines",
+    "name": "China Eastern Airlines",
+    "ownerId": "china-eastern-airlines",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": "State airline: the State Council SASAC is its actual controller, via China Eastern Air Holding; China has a documented record of serious abuses in Xinjiang.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "cea-state-control"
+    ],
+    "aliases": [
+      "中国东方航空",
+      "中国东航",
+      "CEA",
+      "CES"
+    ],
+    "note": "Sleeve sponsor of Shanghai Shenhua; announced in October 2024 as a 'senior partner' whose logo appears on Shenhua's CSL jersey (China Daily, 2024-10-21)."
+  },
+  {
     "id": "chivas-regal",
     "name": "Chivas Regal",
     "ownerId": "pernod-ricard",
@@ -3754,6 +4164,20 @@
       "circle"
     ],
     "note": "Rating note: Listed US company, no state link → none."
+  },
+  {
+    "id": "ciroc",
+    "name": "CÎROC",
+    "ownerId": "diageo-plc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A Diageo plc brand. Nothing found.",
+    "claimIds": [
+      "ciroc-diageo-ownership"
+    ],
+    "aliases": [],
+    "note": "Rating note (2026-09-30): CÎROC is listed on diageo.com's brand page; Diageo plc is a UK-listed drinks group with no state owner."
   },
   {
     "id": "cisco",
@@ -4035,14 +4459,17 @@
   {
     "id": "colnago",
     "name": "Colnago",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "chimera-investments",
+    "ownership": "owned",
     "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "status": "being-rated",
+    "verdict": "Colnago has been majority-owned by the Abu Dhabi fund Chimera Investments since May 2020.",
+    "claimIds": [
+      "colnago-chimera-majority",
+      "chimera-tahnoon-empire"
+    ],
     "aliases": [],
-    "note": "Italian bicycle manufacturer; UAE Team Emirates bike sponsor (Inner Ring links it to Sheikh Tahnoun)."
+    "note": "Italian bicycle manufacturer; bike sponsor of UAE Team Emirates XRG (its clover is on the shorts and the jersey shoulders of the 2026 kit). Rating note: on hold for a maintainer. Bloomberg calls Chimera part of a business empire overseen by Sheikh Tahnoon bin Zayed Al Nahyan, who is Deputy Ruler of Abu Dhabi (claim g42-board-abu-dhabi-officials); whether a company he controls privately is a state link is the maintainer's call (the G42 review of 2026-09-27 treated Royal Group as private). Chimera's own owner isn't named by a checked source. No human-rights finding against Colnago found. The UAE's record is on main (uae-mass-trial-2024, mubadala-uae-convictions-upheld)."
   },
   {
     "id": "commscope",
@@ -4112,6 +4539,18 @@
       "const. carlos pinho"
     ],
     "note": "Arouca construction company, FC Arouca's front-of-shirt sponsor for more than a decade until bwin took over in 2026-27. Who owns it isn't sourced, so it isn't rated yet."
+  },
+  {
+    "id": "contadi-castaldi",
+    "name": "Contadi Castaldi",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to contadicastaldi.it, stands under 'Official Partners' with the line 'Franciacorta wines' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
   },
   {
     "id": "continental",
@@ -4331,6 +4770,22 @@
     "aliases": []
   },
   {
+    "id": "crowe-uk",
+    "name": "Crowe UK",
+    "ownerId": "crowe-uk-owner",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Crowe U.K. LLP. Nothing found.",
+    "claimIds": [
+      "crowe-uk-owner-record"
+    ],
+    "aliases": [
+      "Crowe"
+    ],
+    "note": "Rating note: UK limited liability partnership, member firm of the Crowe Global accounting network. No state stake or human-rights finding identified."
+  },
+  {
     "id": "crown-resorts",
     "name": "Crown",
     "ownerId": null,
@@ -4355,7 +4810,10 @@
     "claimIds": [
       "foris-dax-record"
     ],
-    "aliases": [],
+    "aliases": [
+      "Crypto.com | OG",
+      "OG Prediction Markets"
+    ],
     "note": "Rating note: Used a US regulator document rather than a company page because it names the top-tier holding company, which the Crypto.com site does not."
   },
   {
@@ -4810,6 +5268,20 @@
     "note": "Official spirits supporter in the Americas."
   },
   {
+    "id": "did",
+    "name": "DID",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Daido Kogyo"
+    ],
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to didchain.com, stands under 'Technical partners' with the line 'Chains' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
     "id": "digi",
     "name": "Digi",
     "ownerId": "digi-communications-nv",
@@ -4935,10 +5407,28 @@
     "ownerId": "government-of-dubai",
     "ownership": "owned",
     "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "dnata is wholly owned by the Investment Corporation of Dubai, a Government of Dubai entity.",
+    "claimIds": [
+      "dnata-icd-ownership"
+    ],
+    "aliases": [],
+    "ownerVerb": "owned by",
+    "note": "Rating note: on hold for a maintainer. Same owner as Emirates, which is rated on main: the Investment Corporation of Dubai controls dnata (claim dnata-icd-ownership, two sources). The UAE's record is on main (uae-mass-trial-2024)."
+  },
+  {
+    "id": "domino-group",
+    "name": "Domino",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
     "status": "unrated",
     "verdict": null,
     "claimIds": [],
-    "aliases": []
+    "aliases": [
+      "Domino S.p.A."
+    ],
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to domino-group.com, stands under 'Technical partners' with the line 'Motorcycle throttle controls' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
   },
   {
     "id": "dominos",
@@ -5059,16 +5549,19 @@
   {
     "id": "ds-automobiles",
     "name": "DS Automobiles",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "stellantis-nv",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "ds-automobiles-stellantis-ownership",
+      "stellantis-nv-record"
+    ],
     "aliases": [
       "DS"
     ],
-    "note": "French Stellantis marque; Title Partner of the France team (sailgp.com team page, fetched 2026-09-25). Stellantis ownership per Wikipedia lead, not verified to a primary source."
+    "note": "French Stellantis marque; title partner of DS Penske in Formula E (2025/26) and of the France SailGP team. Left unrated for a maintainer: the owner is sourced (ds-automobiles-stellantis-ownership, stellantis-nv-record: largest holders Etablissements Peugeot Frères 7.72% and Bpifrance Participations 6.64%; France has no record in this data), but the company test isn't settled. A Georgia jury found in 2015 that Chrysler Group (now FCA US, a Stellantis company) acted with reckless or wanton disregard for human life in the design or sale of the Jeep Grand Cherokee, in the 2012 death of a four-year-old; the Georgia Court of Appeals affirmed in 2016 (https://caselaw.findlaw.com/court/ga-court-of-appeals/1754342.html). A maintainer decides whether a finding against another Stellantis company counts for DS Automobiles."
   },
   {
     "id": "dubai-duty-free",
@@ -5163,6 +5656,23 @@
     ]
   },
   {
+    "id": "e-and",
+    "name": "e& (formerly Etisalat)",
+    "ownerId": "emirates-investment-authority",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "e& is 60% owned by the Emirates Investment Authority, part of the UAE's federal government.",
+    "claimIds": [
+      "e-and-eia-ownership"
+    ],
+    "aliases": [
+      "etisalat",
+      "etisalat and"
+    ],
+    "note": "UAE telecoms group, formerly Etisalat; on the chest, collar and upper back of the 2026 UAE Team Emirates XRG kit. Rating note: on hold for a maintainer. The Emirates Investment Authority holds 60% (SEC filing of May 2023; 2019 governance report) and appoints seven of the eleven board members. The UAE's record is on main (uae-mass-trial-2024, mubadala-uae-convictions-upheld)."
+  },
+  {
     "id": "e-leclerc",
     "name": "E.Leclerc",
     "ownerId": "e-leclerc-mouvement",
@@ -5230,6 +5740,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "US e-commerce shipping software company."
+  },
+  {
+    "id": "eataly",
+    "name": "Eataly",
+    "ownerId": "eataly-spa",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "52% owned by the investment group Investindustrial, with the founding Farinetti family among the other shareholders. Nothing found.",
+    "claimIds": [
+      "eataly-investindustrial"
+    ],
+    "aliases": [],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to eataly.co.uk, stands under 'Official Partners' with the line 'Italian food retail and catering in the world' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note (2026-09-30): under the September 2022 agreement Investindustrial VII L.P. holds 52% of Eataly S.p.A., and Eatinvest (Farinetti family), the Baffigo/Miroglio family and Clubitaly (Tamburi Investment Partners) the other 48% (eataly-investindustrial). The investors in Investindustrial's fund aren't published; no source names a state or state fund among Eataly's shareholders. No human-rights finding against the company found."
   },
   {
     "id": "eaton",
@@ -5459,6 +5983,23 @@
     "note": "Rating note for maintainer: skincare brand, B Corp certified 2023 (team partner page: 'Official Skincare Partner'); ownership not stated on the partner page and not traced this run."
   },
   {
+    "id": "elf-cosmetics",
+    "name": "e.l.f. Cosmetics",
+    "ownerId": "elf-beauty-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Brand of e.l.f. Beauty, Inc. (NYSE: ELF), a US-listed company. Nothing found.",
+    "claimIds": [
+      "elf-beauty-inc-ownership"
+    ],
+    "aliases": [
+      "e.l.f.",
+      "Eyes. Lips. Face"
+    ],
+    "note": "Rating note: US listed company with no state link and no qualifying human-rights finding found → none. A 2019 OFAC settlement (~$996k) over false-eyelash materials sourced via China from North Korea is a sanctions record and a settlement without a human-rights finding, so it does not count (METHOD.md)."
+  },
+  {
     "id": "elite",
     "name": "Elite",
     "ownerId": null,
@@ -5567,16 +6108,35 @@
   {
     "id": "enel",
     "name": "Enel",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "italian-ministry-of-economy-finance",
+    "ownership": "part-owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "enel-italy-ownership"
+    ],
     "aliases": [
       "ENEL"
     ],
-    "note": "Official partner of Mubadala Brazil and title partner of the Enel Rio Sail Grand Prix (sailgp.com team page and 2026 calendar, fetched 2026-09-25)."
+    "note": "Ownership is checked: Italy's Ministry of Economy and Finance holds 23.6% (enel-italy-ownership), and Italy has no sourced record of serious abuses in this dataset, so the state stake isn't a link. The company test (a court, regulator, UN or major-NGO finding against Enel or its subsidiaries in the last 20 years) hasn't been done yet, so the sponsor stays unrated."
+  },
+  {
+    "id": "eneos",
+    "name": "ENEOS",
+    "ownerId": "eneos-corporation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by ENEOS Corporation, a wholly owned subsidiary of ENEOS Holdings, Inc., which is listed in Tokyo and Nagoya. Nothing found.",
+    "claimIds": [
+      "eneos-ownership",
+      "eneos-holdings-listed"
+    ],
+    "aliases": [
+      "Eneos"
+    ],
+    "note": "Official Sponsor of the Monster Energy Yamaha MotoGP team: ENEOS USA's MotoGP page says it 'proudly sponsors Yamaha Factory Racing, working with the Monster Energy Yamaha MotoGP team', and the logo is listed under Official Sponsors on the team's official sponsors page (2026). Rating note: no state holder identified and no human-rights finding against ENEOS located; NGOs criticised its part in Myanmar's Yetagun gas project, from which it announced its withdrawal in 2022 (criticism, not a finding)."
   },
   {
     "id": "energy-transfer",
@@ -5658,14 +6218,31 @@
   {
     "id": "eqt",
     "name": "EQT",
+    "ownerId": "eqt-ab",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A listed company; its published top-25 shareholder table is led by Investor at 14.0% of share capital and votes.",
+    "claimIds": [
+      "eqt-top-shareholders-2026"
+    ],
+    "aliases": [],
+    "note": "Official private markets partner of Emirates Great Britain SailGP Team from July 2026, running through 2030 (EQT newsroom, 22 July 2026). Largest holder is the Swedish Wallenberg sphere's Investor ('Investor', 14.0%); no state owner in the chain."
+  },
+  {
+    "id": "equiti",
+    "name": "Equiti",
     "ownerId": null,
     "ownership": null,
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
     "claimIds": [],
-    "aliases": [],
-    "note": "Global Partner of Emirates Great Britain SailGP Team (sailgp.com team page, fetched 2026-09-25)."
+    "aliases": [
+      "equiti group",
+      "equiti securities currencies brokers"
+    ],
+    "note": "Fintech brand headquartered in Dubai (its own release, 24 September 2025); Founding Partner and Official Digital Wealth Partner of Dubai Basketball. Ownership not traced."
   },
   {
     "id": "esl-faceit-group",
@@ -5709,6 +6286,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Fifth-generation family group (Rivera family). No state or fund capital."
+  },
+  {
+    "id": "eternoo",
+    "name": "Eternoo",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to eternoo.it, stands under 'Official Partners' with the line 'Building Materials' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
   },
   {
     "id": "etihad-airways",
@@ -6078,6 +6667,23 @@
     "aliases": []
   },
   {
+    "id": "first-abu-dhabi-bank",
+    "name": "FAB (First Abu Dhabi Bank)",
+    "ownerId": "mubadala",
+    "ownership": "part-owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "Abu Dhabi's state fund Mubadala is First Abu Dhabi Bank's largest shareholder, with 37.9%.",
+    "claimIds": [
+      "fab-mubadala-stake"
+    ],
+    "aliases": [
+      "fab",
+      "first abu dhabi bank"
+    ],
+    "note": "The UAE's largest bank, listed on the Abu Dhabi Securities Exchange; on the chest, sleeves and side panels of the 2026 UAE Team Emirates XRG kit. Rating note: on hold for a maintainer. Mubadala, wholly owned by the Emirate of Abu Dhabi, holds 37.9% (30 June 2026); FAB's share profile also lists the 'Abu Dhabi ruling family' with 17.7%, each holder below 5%. The UAE's record is on main (uae-mass-trial-2024, mubadala-uae-convictions-upheld)."
+  },
+  {
     "id": "fiserv",
     "name": "Fiserv",
     "ownerId": "fiserv-owner",
@@ -6115,6 +6721,18 @@
     ],
     "aliases": [],
     "note": "Rating note: The group publishes no share register; 'largest shareholder' and 'majority control' are the company's own words. No state or PE owner identified."
+  },
+  {
+    "id": "flex-box",
+    "name": "Flex-Box",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to flex-box.com, stands under 'Official Partners' with the line 'Shipping container development and manufacturing' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
   },
   {
     "id": "flexicar",
@@ -6308,6 +6926,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  },
+  {
+    "id": "frecciarossa",
+    "name": "Frecciarossa",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Trenitalia"
+    ],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to trenitalia.com, stands under 'Official Partners' with the line 'High speed travel' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
   },
   {
     "id": "freddys",
@@ -6809,6 +7441,18 @@
     "note": "League partner; tyre brand."
   },
   {
+    "id": "givi",
+    "name": "Givi",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to givimoto.com, stands under 'Official Partners' with the line 'Motorbike accessories' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
     "id": "glenfiddich",
     "name": "Glenfiddich",
     "ownerId": "william-grant-and-sons",
@@ -7088,6 +7732,23 @@
     "claimIds": [],
     "aliases": [],
     "note": "BAL partner; Rwanda-based electric mobility / ride-hailing company (bal.nba.com/partners). Ownership not traced."
+  },
+  {
+    "id": "grenke",
+    "name": "grenke",
+    "ownerId": "grenke-ag",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "grenke AG is an SDAX-listed German leasing company; the founding Grenke family's holding company owns 40.84%. Nothing found.",
+    "claimIds": [
+      "grenke-ag-ownership"
+    ],
+    "aliases": [
+      "Grenke",
+      "GRENKE"
+    ],
+    "note": "Rating note (issue #603, 2026-09-29): the shareholders above 5% in the 2024 annual report are the family holding and two German fund managers (ACATIS, Universal Investment); no state in the chain and no human-rights finding found. grenke also gives its name to the team's junior squad, grenke - Auto Eder."
   },
   {
     "id": "greyson",
@@ -7375,15 +8036,20 @@
   },
   {
     "id": "hansgrohe",
-    "name": "Hansgrohe",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "German sanitary fittings manufacturer."
+    "name": "hansgrohe",
+    "ownerId": "masco-corporation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Hansgrohe SE is 68% owned by the US-listed Masco Corporation; the Klaus Grohe family holds 32%. Nothing found.",
+    "claimIds": [
+      "hansgrohe-masco-ownership",
+      "masco-shareholders"
+    ],
+    "aliases": [
+      "Hansgrohe"
+    ],
+    "note": "German sanitary-fittings manufacturer. Rating note (issue #603, 2026-09-29): Masco is NYSE-listed and the holders above 5% in its 2026 proxy statement are US fund managers (Vanguard, BlackRock, Harris Associates); no state in the chain, and no human-rights finding against Hansgrohe or Masco found."
   },
   {
     "id": "harald-pihl",
@@ -7737,14 +8403,16 @@
   {
     "id": "howden",
     "name": "Howden",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "howden-group-holdings",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "An employee-owned insurance group: employees are the largest shareholder group, with long-term minority outside investors.",
+    "claimIds": [
+      "howden-employee-ownership"
+    ],
     "aliases": [],
-    "note": "UK insurance broker, employee-owned ('our business is grounded in employee ownership', howdengroup.com); presenter of the Neom Turf Cup and the Red Sea Turf Handicap presenter is Longines. Entry exists (SailGP); this adds the Saudi Cup presenter role."
+    "note": "UK insurance broker. Tier 2 Global Partner of Emirates Great Britain SailGP Team (Howden news, 25 February 2026); presenter of the Neom Turf Cup and the Red Sea Turf Handicap presenter is Longines. Ownership per its own 'Our shareholders' page: employees are the largest shareholder group (~30%); minority investors General Atlantic, La Caisse (formerly CDPQ, a Quebec public pension fund) and Hg; the Howden Foundation also holds shares."
   },
   {
     "id": "hp",
@@ -7760,6 +8428,23 @@
     "aliases": []
   },
   {
+    "id": "hrx",
+    "name": "HRX",
+    "ownerId": "hrx-srl",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by HRX S.r.l. Nothing found.",
+    "claimIds": [
+      "hrx-srl-record"
+    ],
+    "aliases": [
+      "HRX North America",
+      "HRX NA"
+    ],
+    "note": "Rating note: Small private Italian racewear manufacturer (Turin); hrxna.com states it is a brand of HRX SRL. No state stake or human-rights finding identified."
+  },
+  {
     "id": "hsbc",
     "name": "HSBC",
     "ownerId": "hsbc-holdings",
@@ -7770,6 +8455,35 @@
     "claimIds": [],
     "aliases": [],
     "note": "LIV Golf 'Global Pillar Partner' (livgolf.com/partners); also a partner of Crushers GC and Majesticks GC."
+  },
+  {
+    "id": "huayuan-securities",
+    "name": "Huayuan Securities",
+    "ownerId": "wuhan-financial-holdings",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": "Huayuan Securities, a Chinese brokerage controlled by the Wuhan municipal government through its state financial holding group. Front-of-shirt sponsor of Wuhan Three Towns (2026).",
+    "claimIds": [
+      "huayuan-securities-state-ownership",
+      "china-xinjiang-un-assessment"
+    ],
+    "aliases": [
+      "华源证券",
+      "Huayuan Stock",
+      "Jiuzhou Securities",
+      "九州证券"
+    ],
+    "why": {
+      "text": "Huayuan Securities is controlled by the Wuhan city government: Wuhan Financial Holdings Group, which the city wholly owns as its only first-level state financial platform, holds 50% of Huayuan Securities and is its actual controller. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind Huayuan Securities is the Chinese state's.",
+      "claimIds": [
+        "china-xinjiang-un-assessment",
+        "huayuan-securities-state-ownership"
+      ],
+      "messageLine": "The UN human rights office found that China's large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+      "status": "draft"
+    },
+    "note": "The link (claim huayuan-securities-state-ownership): Huayuan Securities' shareholder page names Wuhan Financial Holdings (Group) as 50% holder and actual controller; the group's own profile says it is a wholly state-owned enterprise of Wuhan city; the chain is wuhan-financial-holdings, wuhan-municipal-government, government-of-china, so the Chinese state controls the sponsor through its city government. The record (claim china-xinjiang-un-assessment): the UN OHCHR 2022 Xinjiang assessment and Human Rights Watch (2026). The tier is for a maintainer to set (METHOD.md 'Sponsor tiers': a state with a record that controls the sponsor)."
   },
   {
     "id": "hugo",
@@ -7996,13 +8710,15 @@
     "ownerId": "international-holding-company",
     "ownership": "owned",
     "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "status": "being-rated",
+    "verdict": "IHC is controlled by Royal Group, a conglomerate whose president is Sheikh Tahnoon bin Zayed Al Nahyan.",
+    "claimIds": [
+      "ihc-royal-group-control"
+    ],
     "aliases": [
       "international holding company"
     ],
-    "note": "Abu Dhabi listed holding company; main sponsor of UAE Team L'IMAD. Reuses normalized owner id international-holding-company."
+    "note": "Abu Dhabi listed holding company; on the seat of the shorts of the 2026 UAE Team Emirates XRG kit and a main sponsor of UAE Team L'IMAD. Reuses normalized owner id international-holding-company. Rating note: on hold for a maintainer. Royal Group is Sheikh Tahnoon's private holding (the G42 review of 2026-09-27 treated it as private, not the state); Sheikh Tahnoon is Deputy Ruler of Abu Dhabi (claim g42-board-abu-dhabi-officials). ihc-record has no checked quote yet, and ihc-royal-group-control rests on one 2021 source. The UAE's record is on main (uae-mass-trial-2024, mubadala-uae-convictions-upheld)."
   },
   {
     "id": "ihg-hotels-resorts",
@@ -8244,8 +8960,8 @@
     "note": "Title sponsor of the ISCO Championship (event name, 2026 Race to Dubai schedule). Ownership not traced here."
   },
   {
-    "id": "itm",
-    "name": "ITM",
+    "id": "isokinetic",
+    "name": "Isokinetic",
     "ownerId": null,
     "ownership": null,
     "tier": "unrated",
@@ -8253,7 +8969,35 @@
     "verdict": null,
     "claimIds": [],
     "aliases": [],
-    "note": "New Zealand building-supplies co-operative; Official Partner of the Black Foils and title partner of the ITM New Zealand Sail Grand Prix since 2022 (SailGP press release, 7 Dec 2022; team page fetched 2026-09-25)."
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to isokinetic.com, stands under 'Official Partners' with the line 'Sports Medicine and Orthopedic Rehabilitation' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
+    "id": "ita-airways",
+    "name": "ITA Airways",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to ita-airways.com, stands under 'Official Partners' with the line 'Flag carrier airline' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
+    "id": "itm",
+    "name": "ITM",
+    "ownerId": "independent-timber-merchants-cooperative",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "New Zealand building-supplies co-operative owned by its member stores, more than 90 of them. Nothing found.",
+    "claimIds": [
+      "itm-ownership"
+    ],
+    "aliases": [
+      "Independent Timber Merchants"
+    ],
+    "note": "Rating note: Official Partner of the Black Foils and title partner of the ITM New Zealand Sail Grand Prix since 2022 (SailGP press release, 7 Dec 2022; team page fetched 2026-09-30). The co-operative's shares are held by its member stores' companies (Companies Register, largest parcel 8.20%); no state or state fund among them, and no court, regulator, UN-body or major-NGO human-rights finding against the co-operative found."
   },
   {
     "id": "ito-en",
@@ -8354,7 +9098,7 @@
     "aliases": [
       "jako ag"
     ],
-    "note": "Kit maker (Hollenbach, Mulfingen). Kit supplier to Mainz 05 (2026/27 home), VfB Stuttgart (2026/27 home) and Al-Ettifaq."
+    "note": "Kit maker (Hollenbach, Mulfingen). Kit supplier to Mainz 05 (2026/27 home), VfB Stuttgart (2026/27 home), Al-Ettifaq and the Iraq national team (2026 World Cup)."
   },
   {
     "id": "japan-airlines",
@@ -8541,7 +9285,9 @@
       "jpmorgan-chase-major-holders-2026",
       "jpmorgan-chase-chase-owner-record"
     ],
-    "aliases": [],
+    "aliases": [
+      "J.P. Morgan"
+    ],
     "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
   },
   {
@@ -8587,14 +9333,29 @@
   {
     "id": "jumeirah",
     "name": "Jumeirah",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "dubai-holding",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "verdict": "A luxury hotel group owned by Dubai's ruler through Dubai Holding.",
+    "claimIds": [
+      "uae-mass-trial-2024",
+      "jumeirah-dubai-holding-ownership",
+      "dubai-holding-ruler-ownership"
+    ],
     "aliases": [],
-    "note": "Global Partner of Emirates Great Britain SailGP Team (sailgp.com team page, fetched 2026-09-25). Dubai state link: Jumeirah has been part of Dubai Holding (owned by Sheikh Mohammed bin Rashid Al Maktoum) since 2004, per Wikipedia lead only; ownerId left null pending a primary source."
+    "ownerVerb": "owned by",
+    "note": "Global Partner of Emirates Great Britain SailGP Team (three-season deal announced 12 February 2026, Jumeirah media hub). Ownership chain sourced 2026-09-30; a serious tier is proposed in the pull request.",
+    "why": {
+      "text": "Jumeirah is a member of Dubai Holding, the global investment holding company owned by Dubai's ruler, Sheikh Mohammed bin Rashid Al Maktoum. Dubai is part of the United Arab Emirates, where in July 2024 a court in Abu Dhabi sentenced 43 people, including human rights defenders, to life in prison after a mass trial that human rights monitors called unfair. A famous boat makes the country look good to millions of fans while that goes on. That's called sportswashing.",
+      "claimIds": [
+        "uae-mass-trial-2024",
+        "jumeirah-dubai-holding-ownership",
+        "dubai-holding-ruler-ownership"
+      ],
+      "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial.",
+      "status": "draft"
+    }
   },
   {
     "id": "junckers",
@@ -9174,6 +9935,22 @@
     "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
   },
   {
+    "id": "kyocera-avx",
+    "name": "KYOCERA AVX",
+    "ownerId": "kyocera-corporation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A subsidiary of Kyocera Corporation (listed, Japan). Nothing found.",
+    "claimIds": [
+      "kyocera-avx-ownership"
+    ],
+    "aliases": [
+      "AVX"
+    ],
+    "note": "DS Penske partner (Season 12, 2025/26; confirmed on kyocera-avx.com Formula-E page)."
+  },
+  {
     "id": "l-arbre-vert",
     "name": "L’Arbre Vert",
     "ownerId": null,
@@ -9184,6 +9961,80 @@
     "claimIds": [],
     "aliases": [],
     "note": "Listed as an official supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French eco household/hygiene products brand."
+  },
+  {
+    "id": "l-auxiliaire",
+    "name": "L'Auxiliaire",
+    "ownerId": "l-auxiliaire",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A French mutual insurer for building-trade professionals, governed by a board of its members' company heads. Nothing found.",
+    "claimIds": [
+      "l-auxiliaire-mutual-insurer"
+    ],
+    "aliases": [
+      "L'Auxiliaire BTP",
+      "Auxiliaire"
+    ],
+    "note": "Rating note: a mutual, so it has no shareholders; no state in the chain and no human-rights finding found."
+  },
+  {
+    "id": "laoshan-beer",
+    "name": "Laoshan Beer",
+    "ownerId": "tsingtao-brewery",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "Laoshan Beer is the national second brand of Tsingtao Brewery Co., Ltd., whose controlling shareholder Tsingtao Brewery Group (32.51%) is solely owned by the Qingdao municipal SASAC; continuing sleeve sponsor of Qingdao Hainiu.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "laoshan-beer-tsingtao-brand",
+      "tsingtao-brewery-group-sasac"
+    ],
+    "aliases": [
+      "崂山啤酒"
+    ],
+    "why": {
+      "text": "Laoshan Beer is a brand of Tsingtao Brewery Co., Ltd., whose controlling shareholder is Tsingtao Brewery Group (32.51%); the Qingdao municipal state-assets commission is that group's sole shareholder and the company's ultimate controller. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind Laoshan Beer is the Chinese state's.",
+      "claimIds": [
+        "china-xinjiang-un-assessment",
+        "laoshan-beer-tsingtao-brand",
+        "tsingtao-brewery-group-sasac"
+      ],
+      "messageLine": "The UN human rights office found that China’s large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+      "status": "draft"
+    },
+    "note": "Rating note: proposed 'serious' — the Chinese state controls the sponsor (the link, claims laoshan-beer-tsingtao-brand + tsingtao-brewery-group-sasac: Laoshan Beer is Tsingtao Brewery Co.'s brand; the listed company's controlling shareholder Tsingtao Brewery Group (32.51%) is wholly owned by the Qingdao municipal SASAC, its stated ultimate controller) and the record (claim china-xinjiang-un-assessment) is documented for that state. ON HOLD: awaits a maintainer's review (tier set by maintainers). The existing sponsor record 'tsingtao' (CSL league partner) has ownerId null: the owners tsingtao-brewery and tsingtao-brewery-group added here would serve it too — left untouched as outside this issue."
+  },
+  {
+    "id": "laoshan-cola",
+    "name": "Laoshan Cola",
+    "ownerId": "qingdao-beverage-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "Laoshan Cola is a brand of Qingdao Beverage Group, an enterprise wholly owned by the Qingdao municipal SASAC; new front sponsor of Qingdao Hainiu for the 2026 CSL season.",
+    "claimIds": [
+      "china-xinjiang-un-assessment",
+      "laoshan-cola-beverage-group-ownership",
+      "qingdao-beverage-group-sasac"
+    ],
+    "aliases": [
+      "崂山可乐",
+      "Laoshan Cola Co."
+    ],
+    "why": {
+      "text": "Laoshan Cola is a brand of Qingdao Beverage Group, which is wholly owned by the Qingdao municipal state-assets commission. The UN human rights office found in 2022 that China committed serious human rights violations against Uyghurs and other mostly Muslim communities in Xinjiang, including large-scale arbitrary detention that may amount to crimes against humanity. So the money behind Laoshan Cola is the Chinese state's.",
+      "claimIds": [
+        "china-xinjiang-un-assessment",
+        "laoshan-cola-beverage-group-ownership",
+        "qingdao-beverage-group-sasac"
+      ],
+      "messageLine": "The UN human rights office found that China’s large-scale arbitrary detention of Uyghurs in Xinjiang may amount to crimes against humanity.",
+      "status": "draft"
+    },
+    "note": "Rating note: proposed 'serious' — the Chinese state controls the sponsor (the link, claims laoshan-cola-beverage-group-ownership + qingdao-beverage-group-sasac: Laoshan Cola is a Qingdao Beverage Group brand, and the group is wholly owned by Qingdao SASAC; METHOD.md counts control), and the record (claim china-xinjiang-un-assessment: UN OHCHR 2022 Xinjiang assessment plus Human Rights Watch 2026) is documented for that state. ON HOLD: awaits a maintainer's review (tier set by maintainers)."
   },
   {
     "id": "laser",
@@ -9226,6 +10077,23 @@
     ],
     "aliases": [],
     "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. State ownership alone is not a tier: a German state has no record of serious abuses."
+  },
+  {
+    "id": "ldlc",
+    "name": "LDLC",
+    "ownerId": "ldlc-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "The LDLC brand belongs to Groupe LDLC, a French e-commerce group traded on Euronext Growth and controlled by its founding family, de la Clergerie. Nothing found.",
+    "claimIds": [
+      "ldlc-group-ownership"
+    ],
+    "aliases": [
+      "LDLC.com",
+      "Groupe LDLC"
+    ],
+    "note": "Rating note: naming partner of ASVEL since 2018 (the club plays as LDLC ASVEL); LDLC.com says the partnership runs until 2028 (https://www.ldlc.com/n4720/ldlc-asvel). The only shareholders above 5% are members of the de la Clergerie family (annual report 2025-2026); no state in the chain and no human-rights finding found."
   },
   {
     "id": "le-football-a-la-pointe",
@@ -9393,6 +10261,20 @@
     "note": "Rating note: Privately held, family-controlled group; ~500 staff at Lexware, part of Haufe Group SE."
   },
   {
+    "id": "leyton",
+    "name": "Leyton",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "We are Leyton"
+    ],
+    "note": "Official Tax Efficiency Partner of the U.S. SailGP Team (leyton.com, 3 Feb 2026). Ownership not sourced yet: no page that names Leyton's owners could be opened and quoted."
+  },
+  {
     "id": "liberty-broker",
     "name": "Libertex",
     "ownerId": "libertex-group",
@@ -9458,6 +10340,18 @@
     "claimIds": [],
     "aliases": [],
     "note": "Front-of-shorts sponsor of Fenerbahçe Tarfin for 2026/27 (Anasponsor, 31 Aug-6 Sep 2026). Owner not researched yet."
+  },
+  {
+    "id": "limolane",
+    "name": "Limolane",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to limolane.com, stands under 'Official Partners' with the line 'Digital platform redefining the premium luxury Chauffeur Drive Service' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
   },
   {
     "id": "limova-ai",
@@ -9599,6 +10493,53 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "lockton",
+    "name": "Lockton",
+    "ownerId": "lockton-companies",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A privately held, Lockton family insurance brokerage.",
+    "claimIds": [
+      "lockton-ownership"
+    ],
+    "aliases": [],
+    "note": "DS Penske partner (Season 12, 2025/26)."
+  },
+  {
+    "id": "loctite",
+    "name": "LOCTITE",
+    "ownerId": "henkel",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Adhesives brand of Henkel AG & Co. KGaA of Germany, whose ordinary (voting) shares are 61.85% held by the Henkel family share-pooling agreement. Nothing found.",
+    "claimIds": [
+      "loctite-henkel-ownership",
+      "henkel-family-share-pool"
+    ],
+    "aliases": [
+      "Loctite"
+    ],
+    "note": "Technology partner of the Porsche Formula E Team. Rating note: Henkel is controlled by the Henkel family share pool, not a state; no human-rights finding against Henkel or LOCTITE located."
+  },
+  {
+    "id": "lola",
+    "name": "Lola",
+    "ownerId": "lola-cars",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Lola Cars is owned by investor Till Bechtolsheimer. Nothing found.",
+    "claimIds": [
+      "lola-cars-bechtolsheimer"
+    ],
+    "aliases": [
+      "Lola Cars"
+    ],
+    "note": "Naming partner in the Lola Yamaha ABT Formula E team name; Lola Cars also owns and operates the team."
   },
   {
     "id": "longines",
@@ -9769,6 +10710,24 @@
     "ownerVerb": "paid for by"
   },
   {
+    "id": "luxury-group-marriott",
+    "name": "Luxury Group, Marriott International",
+    "ownerId": "marriott-international",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "The luxury brand portfolio of Marriott International, Inc. (Nasdaq: MAR). Nothing found.",
+    "claimIds": [
+      "luxury-group-marriott-ownership",
+      "marriott-international-listing"
+    ],
+    "aliases": [
+      "Luxury Group",
+      "The Luxury Group"
+    ],
+    "note": "Rating note (2026-09-30): Marriott International is Nasdaq-listed; no state or state-fund holder in its chain. Separate sponsor record from the league partner 'marriott-bonvoy' (different brand on the US team's partner list)."
+  },
+  {
     "id": "lvcva",
     "name": "Las Vegas Convention and Visitors Authority (LVCVA) - 'Las Vegas' patch",
     "ownerId": "lvcva-owner",
@@ -9880,6 +10839,18 @@
     "note": "'Madeira. Tua' destination-marketing slogan of the Madeira island authorities; appears as front-of-shirt sponsor at Maritimo and back at Nacional in 2026-27. The branding body (Madeira Promotion Bureau / regional government) not yet verified from a primary source."
   },
   {
+    "id": "madonna-di-campiglio",
+    "name": "Madonna di Campiglio",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to campigliodolomiti.it, stands under 'Official Partners' with the line 'Madonna di Campiglio' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
     "id": "magnit",
     "name": "Magnit",
     "ownerId": "magnit",
@@ -9890,6 +10861,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Dynamo Makhachkala partner."
+  },
+  {
+    "id": "mahle",
+    "name": "MAHLE",
+    "ownerId": "mahle-gmbh",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "MAHLE is 99.9% owned by the MAHLE Foundation. Nothing found.",
+    "claimIds": [
+      "mahle-foundation-ownership"
+    ],
+    "aliases": [],
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to mahle.com, stands under 'Technical partners' with the line 'Engine components' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note (2026-09-30): the MAHLE Foundation has held 99.9% of the company since 1964, and MABEG the other 0.1% with the voting rights (mahle-foundation-ownership). No state or state-fund shareholder. No human-rights finding against the company found."
   },
   {
     "id": "mahou-san-miguel",
@@ -9918,6 +10903,21 @@
       "L'Atoll Angers"
     ],
     "note": "Rating note: Compagnie de Phalsbourg is a French SARL (RCS Paris 349 545 103) run by its founder Philippe Journo; no state or fund appears in any source opened. Nothing passes the test."
+  },
+  {
+    "id": "majid",
+    "name": "Majid",
+    "ownerId": null,
+    "ownership": null,
+    "ownerVerb": "owned by",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Merooj"
+    ],
+    "note": "Iranian sportswear brand, kit supplier to the Iran national team since 2022 (SportsLogos.Net, 2022-11-09); it also produced Iran's 2026 World Cup kits, unveiled at a May 2026 event held by the Iranian Football Federation (Footy Headlines, 2026-05-15). The brand was formerly known as Merooj. Not rated yet: who owns the company is not sourced. Secondary sources describe it as a private Iranian company founded by Majid Saedifar, but no primary document or named press article confirming its ownership was found."
   },
   {
     "id": "malaga-turismo",
@@ -9983,6 +10983,24 @@
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
   },
   {
+    "id": "marathon-sports",
+    "name": "Marathon Sports",
+    "ownerId": "innovasport",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Innovasport. Nothing found.",
+    "claimIds": [
+      "innovasport-acquired-marathon-sports"
+    ],
+    "aliases": [
+      "Marathon",
+      "Marathon Sports Ecuador",
+      "Superdeporte"
+    ],
+    "note": "Rating note: kit supplier of the Ecuador national team, shirt mark 'Marathon'. No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+  },
+  {
     "id": "marcos-car",
     "name": "Marcos Car",
     "ownerId": "marcoscar-sa",
@@ -9997,6 +11015,18 @@
       "marcoscar"
     ],
     "note": "Barreiro car dealer (Marcoscar, S.A.), on the Estrela da Amadora shirt in 2026-27. Not rated yet: who owns Marcoscar, S.A. isn't sourced."
+  },
+  {
+    "id": "marelli",
+    "name": "Marelli",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to magnetimarelli.com, stands under 'Technical partners' with the line 'Data acquisition systems' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
   },
   {
     "id": "marex",
@@ -10075,6 +11105,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Family/mittelstand building group; ownership not unit-listed, no state stake found."
+  },
+  {
+    "id": "mattos-filho",
+    "name": "Mattos Filho",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Mattos Filho Advogados"
+    ],
+    "note": "São Paulo law firm (Mattos Filho, Veiga Filho, Marrey Jr e Quiroga Advogados). Listed as an Official Partner on the SailGP team page with a partner-created timestamp of 2025-12-17. Law-firm partnership; no other owners found."
   },
   {
     "id": "maxline",
@@ -10361,6 +11405,22 @@
     "claimIds": [],
     "aliases": [],
     "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  },
+  {
+    "id": "mewa",
+    "name": "MEWA",
+    "ownerId": "mewa-textil-service",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "MEWA is a German textile-services group owned by the Gebauer family. Nothing found.",
+    "claimIds": [
+      "mewa-family-ownership"
+    ],
+    "aliases": [
+      "Mewa"
+    ],
+    "note": "Rating note (issue #603, 2026-09-29): family-owned business; no state in the chain and no human-rights finding found."
   },
   {
     "id": "mezaj-maghribhi",
@@ -10723,6 +11783,20 @@
     "aliases": []
   },
   {
+    "id": "molex",
+    "name": "Molex",
+    "ownerId": "koch-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A Koch, Inc. company; Koch is privately held.",
+    "claimIds": [
+      "molex-koch-ownership"
+    ],
+    "aliases": [],
+    "note": "DS Penske partner (Season 12, 2025/26)."
+  },
+  {
     "id": "molinel",
     "name": "Molinel",
     "ownerId": "molinel-sas",
@@ -10780,9 +11854,9 @@
     "name": "Monster Energy",
     "ownerId": "monster-beverage-corp",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Monster Energy is Monster Beverage Corporation's brand; The Coca-Cola Company holds about 20.9% of Monster Beverage. Nothing found.",
     "claimIds": [
       "monster-beverage-corporation-record"
     ],
@@ -10790,7 +11864,7 @@
       "Monster",
       "monster"
     ],
-    "note": "McLaren Official Partner from the 2024 season (announced November 2023); also title sponsor of Monster Energy Yamaha MotoGP since 2019, confirmed for 2026 at the Jakarta launch (Yamaha Motor race release, 2026-01-22). Monster Energy is the brand of Monster Beverage Corporation (Nasdaq: MNST); Coca-Cola held about 20.9% as of 13 Feb 2026 per the FY2025 10-K. No state or fund owner."
+    "note": "McLaren Official Partner from the 2024 season (announced November 2023); also title sponsor of Monster Energy Yamaha MotoGP since 2019, confirmed for 2026 at the Jakarta launch (Yamaha Motor race release, 2026-01-22). Main Partner of the Ducati Lenovo Team (SPEEDWEEK.com, 2026-07-23). Monster Energy is the brand of Monster Beverage Corporation (Nasdaq: MNST); Coca-Cola held about 20.9% as of 13 Feb 2026 per the FY2025 10-K. No state or fund owner."
   },
   {
     "id": "monzo",
@@ -10910,6 +11984,21 @@
     "note": "Series partner (fiawec.com partners page, fetched 2026-09-26). Motul is a subsidiary of Integra Eco (French family group); ownership not verified from a primary source here."
   },
   {
+    "id": "mouser-electronics",
+    "name": "Mouser Electronics",
+    "ownerId": "tti-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Part of TTI, Inc., a private Berkshire Hathaway company.",
+    "claimIds": [
+      "mouser-tti-ownership",
+      "tti-berkshire-ownership"
+    ],
+    "aliases": [],
+    "note": "DS Penske partner (Season 12, 2025/26)."
+  },
+  {
     "id": "mouwasat-hospital",
     "name": "Mouwasat Hospital",
     "ownerId": null,
@@ -10933,6 +12022,21 @@
       "telefonica"
     ],
     "note": "Spanish telecoms brand of Telefónica (listed)."
+  },
+  {
+    "id": "mr-eight",
+    "name": "Mr. Eight Branded Residences (Mr. Eight Development)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "mr. eight development",
+      "mr eight"
+    ],
+    "note": "Dubai-based European boutique real estate developer, Mr. Eight Development (club announcement, 11 September 2026); Exclusive Partner of Dubai Basketball. Ownership not traced."
   },
   {
     "id": "mrq",
@@ -10982,11 +12086,24 @@
     "ownerId": "mubadala",
     "ownership": "owned",
     "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "status": "being-rated",
+    "verdict": "Abu Dhabi's sovereign wealth fund; its own site says its sole shareholder is the government of Abu Dhabi.",
+    "claimIds": [
+      "uae-mass-trial-2024",
+      "mubadala-abu-dhabi-ownership"
+    ],
     "aliases": [],
-    "note": "Abu Dhabi sovereign fund; sole title sponsor of the Mubadala DC Open (ATP/WTA 500, Washington DC, 2026-2030) and host sponsor of the Rio Open (rioopen.com); title sponsor of the Mubadala Abu Dhabi Open (WTA)."
+    "ownerVerb": "owned by",
+    "why": {
+      "text": "Mubadala Investment Company is wholly owned by the Government of Abu Dhabi: its own site describes the government as its sole shareholder. In July 2024, a court in Abu Dhabi sentenced 43 people, including human rights defenders, to life in prison after a mass trial that human rights monitors called unfair. The fund's name and money behind Brazil's boat make the country look good to fans while that goes on. That's called sportswashing.",
+      "claimIds": [
+        "uae-mass-trial-2024",
+        "mubadala-abu-dhabi-ownership"
+      ],
+      "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial.",
+      "status": "draft"
+    },
+    "note": "Rating note: propose 'serious'. The link: Mubadala Investment Company is wholly owned by the Government of Abu Dhabi (claim mubadala-abu-dhabi-ownership: Mubadala's own board page names the government its 'sole shareholder'; SEC Schedule 13D confirms 'wholly owned by the Government of Abu Dhabi'). The record: uae-mass-trial-2024 (HRW + UN experts; July 2024 mass-trial life sentences against human rights defenders), ownerIds include government-of-abu-dhabi and uae, both reached via the mubadala owner chain. Abu Dhabi government with a sourced serious-abuse record controls the sponsor -> 'serious'. ON HOLD: proposed 'serious' in PR, pending maintainer review.\n\nAbu Dhabi sovereign fund; sole title sponsor of the Mubadala DC Open (ATP/WTA 500, Washington DC, 2026-2030) and host sponsor of the Rio Open (rioopen.com); title sponsor of the Mubadala Abu Dhabi Open (WTA)."
   },
   {
     "id": "mumtalakat",
@@ -11029,7 +12146,7 @@
     "verdict": null,
     "claimIds": [],
     "aliases": [],
-    "note": "Indoor cycling app; main sponsor of UAE Team L'IMAD. Ownership not found."
+    "note": "Indoor cycling app; on the back shoulders of the 2026 UAE Team Emirates XRG jersey and main sponsor of UAE Team L'IMAD. Ownership not found."
   },
   {
     "id": "national-bank-of-bahrain",
@@ -11104,11 +12221,24 @@
     "ownerId": "neom",
     "ownership": "owned",
     "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "status": "being-rated",
+    "verdict": "NEOM is fully owned by Saudi Arabia's Public Investment Fund, the state's sovereign wealth fund.",
+    "claimIds": [
+      "saudi-executions-2025",
+      "pif-giga-labour-abuses",
+      "neom-pif-ownership"
+    ],
     "aliases": [],
-    "note": "Owner of NEOM SC."
+    "note": "DS Penske partner in the joint 'NEOM-SRMG' block on the team site (Season 12, 2025/26); NEOM also owns NEOM SC. Rating note: on hold for a maintainer; the pull request proposes serious. The link is neom-pif-ownership (SPA 2019: NEOM 'fully owned by the Public Investment Fund'; HRW 2024 calls NEOM a PIF-funded giga-project); the record is saudi-executions-2025 (HRW + Amnesty) and pif-giga-labour-abuses (HRW, NEOM named; one source).",
+    "why": {
+      "text": "NEOM is fully owned by Saudi Arabia's Public Investment Fund, the state's sovereign wealth fund. Saudi Arabia executed at least 356 people in 2025, a record. The logo on DS Penske's Formula E entry is that state's money. That's called sportswashing.",
+      "claimIds": [
+        "saudi-executions-2025",
+        "neom-pif-ownership"
+      ],
+      "messageLine": "Saudi Arabia executed at least 356 people in 2025, a new record.",
+      "status": "draft"
+    }
   },
   {
     "id": "netapp",
@@ -11286,6 +12416,23 @@
     "aliases": []
   },
   {
+    "id": "ngk",
+    "name": "NGK",
+    "ownerId": "niterra-co",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "NGK spark plugs are a brand of Niterra Co., Ltd., listed in Tokyo and Nagoya. Nothing found.",
+    "claimIds": [
+      "ngk-niterra-ownership"
+    ],
+    "aliases": [
+      "Niterra",
+      "NGK Spark Plug"
+    ],
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to ngk.de, stands under 'Technical partners' with the line 'Spark Plugs' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note (2026-09-30): NGK spark plugs are made by Niterra Co., Ltd., formerly NGK Spark Plug Co., Ltd., listed in Tokyo and Nagoya (ngk-niterra-ownership). No state or state-fund shareholder named; no human-rights finding against the company found."
+  },
+  {
     "id": "nhc",
     "name": "NHC (National Housing Company)",
     "ownerId": "nhc",
@@ -11453,6 +12600,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  },
+  {
+    "id": "nomadix",
+    "name": "Nomadix",
+    "ownerId": "nomadix",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A private US accessories brand launched by its three co-founders. Nothing found.",
+    "claimIds": [
+      "nomadix-ownership"
+    ],
+    "aliases": [],
+    "note": "Official supplier of the U.S. SailGP Team for 2026 (ussailgpteam.com, 21 May 2026). Rating note (2026-09-30): co-founders Zack Helminiak, Chace Petersen and Hunter Robinson launched Nomadix in 2015 (nomadix.co blog, 4 Feb 2021), a US social purpose corporation. Its share register isn't public; no source names a state or state-fund shareholder, and no human-rights finding against the company was found."
   },
   {
     "id": "noon",
@@ -11660,6 +12821,24 @@
   {
     "id": "o2",
     "name": "O2",
+    "ownerId": "virgin-media-o2",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": null,
+    "claimIds": [
+      "virgin-media-o2-ownership",
+      "telefonica-significant-shareholders-2025",
+      "telefonica-stc-board-seat"
+    ],
+    "aliases": [
+      "telefonica o2 uk"
+    ],
+    "note": "O2 is a brand of Virgin Media O2, a 50/50 joint venture of Telefónica and Liberty Global. Telefónica's significant shareholders include stc (Saudi Arabia, 9.97%), which has a director on Telefónica's board, SEPI (Spain, 10.00%) and CriteriaCaixa (see the cited ownership claims). Along the chain stc's share of O2 is about 4.99%, just under the 5% test; whether a board seat at the 50% parent counts as a board seat under METHOD.md is for a maintainer. Until then the rating is on hold."
+  },
+  {
+    "id": "oakberry",
+    "name": "Oakberry (OAKBERRY)",
     "ownerId": null,
     "ownership": null,
     "tier": "unrated",
@@ -11667,9 +12846,9 @@
     "verdict": null,
     "claimIds": [],
     "aliases": [
-      "telefonica o2 uk"
+      "OAKBERRY"
     ],
-    "note": "Sponsor logo shown in the englandrugby.com header ('header-sponsor-logo'); shirt placement not stated on the pages opened this pass - see unsourced."
+    "note": "Brazilian-founded acai-bowl franchise chain. Its own PR Newswire release (19 Nov 2024) says it was 'founded in Brazil in 2016 by Georgios Frangulis and Renato Haidar'; current shareholder structure not found in public sources."
   },
   {
     "id": "oakley",
@@ -11685,6 +12864,24 @@
     ],
     "aliases": [],
     "note": "Rating note for maintainer: sport performance brand; the team's partner page states Oakley is a subsidiary of Luxottica Group. EssilorLuxottica SA is the group's parent (see the reused essilorluxottica-record claim); no state or state-fund holder found in this run."
+  },
+  {
+    "id": "oanda",
+    "name": "OANDA",
+    "ownerId": "ftmo",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by FTMO, a Czech private company co-owned by its founders Otakar Šuffner and Marek Vašíček. Nothing found.",
+    "claimIds": [
+      "ftmo-oanda-ownership",
+      "ftmo-founders-ownership"
+    ],
+    "aliases": [
+      "OANDA Corporation",
+      "OANDA Global Corporation"
+    ],
+    "note": "Rating none: no state in the owner chain and no human-rights finding against OANDA or FTMO located. OANDA's May 2025 settlement with the US National Futures Association was a financial-regulation matter, which METHOD.md excludes."
   },
   {
     "id": "oatly",
@@ -12035,6 +13232,21 @@
     "note": "Krasnodar partner."
   },
   {
+    "id": "paceteq",
+    "name": "PACETEQ",
+    "ownerId": "paceteq-gmbh",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "paceteq-gmbh-lola-stake",
+      "lola-cars-bechtolsheimer"
+    ],
+    "aliases": [],
+    "note": "Partner of the team per lola-fe.com partners page. Left unrated: Lola Cars (owned by Till Bechtolsheimer) became a 'major stakeholder' in PACETEQ in 2024; the size of that stake and the other shareholders aren't published, so the owner isn't fully identified. Nothing else found."
+  },
+  {
     "id": "pame-stoixima",
     "name": "Pame Stoixima",
     "ownerId": "opap-group",
@@ -12102,6 +13314,18 @@
       "paramount+"
     ],
     "note": "US media partner: exclusive home of Zuffa Boxing in the US, Canada and Latin America from January 2026, 12 cards in year one, select simulcasts on CBS."
+  },
+  {
+    "id": "parmacotto",
+    "name": "Parmacotto",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to parmacottogroup.com, stands under 'Official Partners' with the line 'Producer of cured meats' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
   },
   {
     "id": "pasifik-holding",
@@ -12234,6 +13458,23 @@
     "note": "Sleeve sponsor. Not rated yet: the claim names its investment team, not its owners (Peace Park Capital Ltd); who owns it isn't sourced."
   },
   {
+    "id": "penske-media-corporation",
+    "name": "Penske Media Corporation (PMC)",
+    "ownerId": "penske-media-corporation",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "pmc-srmg-investment",
+      "srmg-state-ownership"
+    ],
+    "aliases": [
+      "PMC"
+    ],
+    "note": "DS Penske partner; PMC lists the team among its brands (founder Jay Penske owns the Penske Autosport operation). Left unrated: Saudi Research and Media Group (SRMG) invested $200 million in PMC in February 2018 (pmc-srmg-investment); PMC called it minority funding, and neither the size of the stake nor any board seat is published. SRMG's controlling ownership runs through state-linked funds to Saudi Arabia's PIF (srmg-state-ownership), so a stake of 5% or more, or a board seat, would be a link to the Saudi state."
+  },
+  {
     "id": "pepperstone",
     "name": "Pepperstone",
     "ownerId": null,
@@ -12342,6 +13583,22 @@
     }
   },
   {
+    "id": "philip-morris-international",
+    "name": "Philip Morris International",
+    "ownerId": "philip-morris-international",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "pmi-shareholders"
+    ],
+    "aliases": [
+      "PMI"
+    ],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to pmi.com/markets/italy, stands under 'Official Partners' with the line 'Phillip Morris International' (Wayback Machine captures of 23 May and 18 Sep 2026). Left unrated for a maintainer, like zyn: the owner is sourced (pmi-shareholders: NYSE-listed; the holders above 5% are Vanguard, Capital World Investors, Capital International Investors and BlackRock), but the company test isn't settled. Human Rights Watch's report 'Hellish Work' (2010-07-14, https://www.hrw.org/report/2010/07/14/hellish-work/exploitation-migrant-tobacco-workers-kazakhstan) documented, from research in 2009, the exploitation of migrant workers, including child labour, on Kazakh farms that supplied tobacco to Philip Morris Kazakhstan, a PMI subsidiary. Its later reports on hazardous child labour in tobacco farming name PMI among the buyers: in the United States ('Tobacco's Hidden Children', 2014-05-14, https://www.hrw.org/report/2014/05/14/tobaccos-hidden-children/hazardous-child-labor-united-states-tobacco-farming) and in Indonesia through its subsidiary Sampoerna ('The Harvest is in My Blood', 2016-05-25, https://www.hrw.org/report/2016/05/25/harvest-my-blood/hazardous-child-labor-tobacco-farming-indonesia). In the Zimbabwe report (2018) PMI told Human Rights Watch it doesn't buy tobacco there. No record claim is written yet."
+  },
+  {
     "id": "pick-n-pay",
     "name": "Pick n Pay",
     "ownerId": null,
@@ -12402,6 +13659,22 @@
     "note": "Torque GC partner (livgolf.com/torque-gc, fetched 2026-09-25)."
   },
   {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "ownerId": "pinterest-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A listed US company with no state owner. Nothing found.",
+    "claimIds": [
+      "pinterest-inc-major-holders-2026"
+    ],
+    "aliases": [
+      "pinterest inc"
+    ],
+    "note": "Rating note: back-of-shirt sponsor of Brighton & Hove Albion Women from 2026/27 (four-year deal, club announcement of 4 Aug 2026). Pinterest, Inc.'s 2026 proxy statement lists four holders of 5% or more: Benjamin Silbermann, Paul Sciarra, BlackRock and Vanguard - no state or state fund. No human-rights finding against the company by a court, regulator, UN body or major NGO was found (checked 2026-09-30)."
+  },
+  {
     "id": "pirelli",
     "name": "Pirelli",
     "ownerId": "sinochem-holdings",
@@ -12414,6 +13687,20 @@
     ],
     "aliases": [],
     "note": "Rating note: State stake is being reduced (talk of a further cut toward 10%) but Sinochem remained Pirelli's second-largest shareholder after the July 2026 sale, so 'serious' still stands. Camfin (Tronchetti Provera family) is the largest holder. ON HOLD: a minority state stake (about 20%): concern at most under tiers.json."
+  },
+  {
+    "id": "pissei",
+    "name": "Pissei",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "pissei srl"
+    ],
+    "note": "Italian cycling-apparel maker (PISSEI SRL); makes the UAE Team Emirates XRG kit (team announcement, 12 December 2025). Ownership not traced."
   },
   {
     "id": "placard",
@@ -13058,6 +14345,23 @@
     "note": "Rating note: Quest Diagnostics is publicly traded with no state ownership; largest holder is BlackRock (~6.9%). No documented human-rights concerns in ownership chain identified."
   },
   {
+    "id": "quest-global",
+    "name": "Quest Global",
+    "ownerId": "quest-global-owner",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "quest-global-owner-record",
+      "quest-global-gic-stake"
+    ],
+    "aliases": [
+      "QuEST Global"
+    ],
+    "note": "Left unrated: whether Singapore's state fund GIC is still a shareholder, and with what stake, isn't sourced. GIC bought a minority stake with Bain Capital and Advent International in 2016 (US$350 million in total, split not published) and was reported as still invested in August 2021. Quest Global's August 2023 release says Bain Capital and Advent International exit as Carlyle comes in and doesn't mention GIC; DealStreetAsia (Nikkei Asia, 2023-08-09) still listed GIC among the investors. An Economic Times report republished by M&A Critique (2025-12-25, https://mnacritique.mergersindia.com/news/hillhouse-joins-temasek-in-race-for-up-to-6-stake-in-quest-global/) says Carlyle and the founder's holding company bought the 40% stake held by Advent, Bain Capital and GIC in 2023, and names Carlyle (23%), Ajit Prabhu (47%), ChrysCapital, True North, Onyx, Ocorian Singapore, JTC Trust and Sanaka Growth as shareholders, without GIC; no company document confirms GIC's exit. Singapore counts as a state with a record in this data (executions for drug offences), so a GIC stake of 5% or more, or a board seat, would be Concern. No human-rights finding against the company identified."
+  },
+  {
     "id": "quick-step",
     "name": "Quick-Step",
     "ownerId": null,
@@ -13166,6 +14470,38 @@
       "RAMS Türkiye"
     ],
     "note": "Rating note: on Fenerbahçe Beko's 2025/26 shirts (below the back number in the BSL, on the front in the EuroLeague; deal fenerbahce-basketball-rams-global-2025-26); no source yet for 2026/27, when İyi Finans took the BSL spot below the number. Owned by Ramazan Bülbül (rams-global-ownership). ON HOLD: proposed 'none', waiting on a maintainer's review."
+  },
+  {
+    "id": "randstad",
+    "name": "Randstad",
+    "ownerId": "randstad-nv",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Listed in Amsterdam; largest disclosed holder is the Dutch foundation Stichting Stad en Lant. Nothing found.",
+    "claimIds": [
+      "randstad-shareholder-base"
+    ],
+    "aliases": [],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to randstad.it, stands under 'Official Partners' with the line 'HR Services' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note (2026-09-30): Randstad N.V. is listed in Amsterdam; its largest holder is the foundation Stichting Stad en Lant with 33% (randstad-shareholder-base). No state or state-fund shareholder named; no human-rights finding against the company found."
+  },
+  {
+    "id": "rapyd",
+    "name": "Rapyd",
+    "ownerId": "rapyd",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "rapyd-ownership"
+    ],
+    "aliases": [
+      "Rapyd Payments",
+      "Rapyd Financial Network",
+      "Maccabi Rapyd"
+    ],
+    "note": "Rating note: main sponsor of Maccabi Tel Aviv B.C. since July 2025 on a seven-year deal — the team plays as Maccabi Rapyd Tel Aviv and carries Rapyd on the front of the jersey and the front of the shorts. Rapyd (Rapyd Financial Network (2016) Ltd) is a private, founder-led company backed by venture funds (rapyd-ownership); no source names a state or state fund as controlling it, holding 5%+, or holding a board seat, and the shareholder register isn't public. No human-rights finding against the company by a court, regulator, UN body or major NGO was found (checked 2026-09-29). Proposed: none."
   },
   {
     "id": "rassen",
@@ -13287,6 +14623,32 @@
     ],
     "aliases": [],
     "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25); kit maker for Estoril Praia (2026-27) and Panama (2026 World Cup), listed as partner per convention. Rating left unrated: ABG's own Shareholders & Leadership page (corporate.authentic.com/leadership, opened 2026-09-29) lists GIC, Temasek and Qatar Investment Authority among its shareholders (logo list, no stakes disclosed); none of those funds appears on the board ABG lists (2x CVC, 1x HPS, 1x General Atlantic, 2x Leonard Green, Salter). Whether any state fund clears the 5% threshold is not publicly sourced."
+  },
+  {
+    "id": "reflexallen",
+    "name": "Reflexallen",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to reflexallen.com, stands under 'Technical partners' with the line 'Carbon structural components' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
+    "id": "reflo",
+    "name": "Reflo",
+    "ownerId": "reflo-owner",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Reflo Sports Ltd. Nothing found.",
+    "claimIds": [
+      "reflo-owner-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: UK sportswear company; reflo.com terms name Reflo Sports Ltd as the operator, and Companies House lists two individuals as its persons with significant control. No state stake or human-rights finding identified."
   },
   {
     "id": "regent-seven-seas-cruises",
@@ -13454,6 +14816,20 @@
     "note": "Official partner of the Germany team; founder Thomas Riedel is the German team's principal owner (sailgp.com team page and press release 10 Feb 2026)."
   },
   {
+    "id": "riello-ups",
+    "name": "Riello UPS",
+    "ownerId": "riello-elettronica",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Founder-led Riello Elettronica group (Pierantonio Riello, since 1986). Nothing found.",
+    "claimIds": [
+      "riello-elettronica-ownership"
+    ],
+    "aliases": [],
+    "note": "Official Sponsor of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to riello-ups.com, stands under 'Official Sponsors' with the line 'Power Supply' (Wayback Machine captures of 23 May and 18 Sep 2026). The partnership is also described on Riello UPS's own page (riello-ups.com). Rating note (2026-09-30): Riello UPS is the brand of the Riello Elettronica group, founded in 1986 and led since by Pierantonio Riello (riello-elettronica-ownership). Its share register isn't public; no source names a state or state-fund shareholder, and no human-rights finding against the company was found."
+  },
+  {
     "id": "riyad-bank",
     "name": "Riyad Bank",
     "ownerId": null,
@@ -13576,6 +14952,22 @@
       "ROCKWOOL Racing"
     ],
     "note": "Danish insulation multinational (Hedehusene); Title Partner of the Denmark team, which races as ROCKWOOL Racing (sailgp.com team page, fetched 2026-09-25). Ownership stake in the team not published."
+  },
+  {
+    "id": "rodd-and-gunn",
+    "name": "Rodd & Gunn",
+    "ownerId": "rodd-and-gunn-new-zealand",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "Being rated: a maintainer decides whether an NGO investigation of its supplier factories in Mauritius counts as a finding.",
+    "claimIds": [
+      "rodd-and-gunn-ownership"
+    ],
+    "aliases": [
+      "Rodd and Gunn"
+    ],
+    "note": "Rating note: on hold for a maintainer. Official partner of the Black Foils (SailGP team page, fetched 2026-09-30). The owner is checked: the Companies Register lists Winona R&G, LLC (Chicago) with 57.30%, Michael Beagley and his trust company with 31.45% and Zippin Pty Limited with 10.39%; no state or state fund among them. The open question is the company test: Transparentem's December 2023 investigation of four garment suppliers in Mauritius ('I Came Here with So Many Dreams', transparentem.org/report/mauritius-disclosure) reports high recruitment fees, deceptive recruitment, intimidation and abusive conditions for migrant workers, and lists Rodd & Gunn among the buyers it contacted: with the buyers that collaborated on remediation at Firemount, R.E.A.L and Aquarelle, not with those that reimbursed recruitment fees. The Business & Human Rights Resource Centre recorded that Rodd & Gunn did not respond to its questions (28 Jun 2024). The reported abuse is at supplier factories, not by Rodd & Gunn itself, and no court or regulator finding against the company was found. A Reuters investigation naming it as a customer of Vietnamese manufacturers with Xinjiang-linked cotton suppliers (read only in the NGO Not For Sale's summary) is journalism, not a finding."
   },
   {
     "id": "rogers-communications",
@@ -14559,6 +15951,18 @@
     "note": "Rating note: Ownership is dispersed; no state stake. Conduct record (e.g. historic bribery, gas-turbine/Siemens Energy split) is not state-related."
   },
   {
+    "id": "silence",
+    "name": "Silence",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to silence.eco, stands under 'Official Partners' with the line 'Electric Motorcycles' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
     "id": "sill",
     "name": "SILL",
     "ownerId": "sill-entreprises",
@@ -14659,6 +16063,18 @@
     "aliases": []
   },
   {
+    "id": "skf",
+    "name": "SKF",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to skf.com, stands under 'Technical partners' with the line 'Bearings and mechanical engineering solutions' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
     "id": "skita",
     "name": "Skita",
     "ownerId": "skita-sportwear",
@@ -14732,6 +16148,24 @@
       "sky"
     ],
     "note": "Comcast-owned broadcaster; WSL principal partner and UK broadcaster from 2025/26."
+  },
+  {
+    "id": "skycity-auckland",
+    "name": "SkyCity Auckland",
+    "ownerId": "skycity-entertainment-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Auckland casino and entertainment complex of SkyCity Entertainment Group, listed in New Zealand and Australia. Nothing found.",
+    "claimIds": [
+      "skycity-auckland-ownership",
+      "skycity-entertainment-group-holders"
+    ],
+    "aliases": [
+      "Sky City",
+      "SkyCity"
+    ],
+    "note": "Rating note: listed as 'Sky City', official supplier of the Black Foils; the SailGP team page links the logo to skycityauckland.co.nz (fetched 2026-09-30). SkyCity Entertainment Group's Annual Report 2026 lists three substantial product holders as at 30 June 2026: Allan Gray Group 12.55%, Accident Compensation Corporation (ACC) 11.84% and AustralianSuper 8.32%. ACC is a New Zealand Crown entity; New Zealand has no record of serious abuses in the dataset, and state ownership alone is not a tier (METHOD.md). No other state or state fund is among the substantial holders. Company test: SkyCity's regulator actions are anti-money-laundering cases (Federal Court of Australia, A$67m, June 2024; High Court of New Zealand, NZ$4.16m, 2024) and gambling-licence cases about harm minimisation (a five-day closure of the Auckland casino agreed with the Department of Internal Affairs in July 2024; an A$21m fine agreed with South Australia's Liquor and Gambling Commissioner in June 2026, which also covers anti-money-laundering failures). These are financial and consumer-protection matters, not findings of forced or child labour, deaths or injuries, discrimination or abuse of communities, so they do not count under METHOD.md."
   },
   {
     "id": "smart",
@@ -15106,14 +16540,16 @@
   {
     "id": "specialized",
     "name": "Specialized",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "specialized-bicycle-components",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Specialized Bicycle Components is controlled by its founder Mike Sinyard; the listed Taiwanese bicycle maker Merida owns 35%. Nothing found.",
+    "claimIds": [
+      "specialized-merida-minority"
+    ],
     "aliases": [],
-    "note": "US bike manufacturer; premium partner of Team SD Worx-Protime (team partners page). Not state-linked."
+    "note": "US bike manufacturer; premium partner of Team SD Worx-Protime (team partners page) and kit supplier of Red Bull-BORA-hansgrohe. Rating note (issue #603, 2026-09-29): founder-controlled, with 35% held by the listed Taiwanese bicycle maker Merida; Merida's own shareholders weren't checked (a state would need about 14.3% of Merida to reach 5% of Specialized). No human-rights finding found."
   },
   {
     "id": "spectrum",
@@ -15195,6 +16631,35 @@
     "claimIds": [],
     "aliases": [],
     "note": "Chicago-based component manufacturer; co-title sponsor of Canyon//SRAM (Cyclist, 2026-07-14)."
+  },
+  {
+    "id": "srmg",
+    "name": "Saudi Research and Media Group (SRMG)",
+    "ownerId": "srmg",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "A listed Saudi media group whose controlling ownership runs through state-linked funds to Saudi Arabia's Public Investment Fund.",
+    "claimIds": [
+      "saudi-executions-2025",
+      "srmg-state-ownership"
+    ],
+    "aliases": [
+      "SRMG",
+      "NEOM-SRMG",
+      "Saudi Research and Marketing Group",
+      "Saudi Media Group"
+    ],
+    "note": "DS Penske partner in the joint 'NEOM-SRMG' block on the team site; the club's Season 12 partners press kit (Dec 2025) names the partner as SRMG. Rating note: on hold for a maintainer; the pull request proposes serious. The link is srmg-state-ownership (State Media Monitor + TheWrap); control is indirect (PIF is the ultimate controlling party of SNB, whose Al Ahli Capital funds hold the controlling stake). The record is saudi-executions-2025 (HRW + Amnesty).",
+    "why": {
+      "text": "Saudi Research and Media Group is a listed Saudi media company whose controlling ownership runs through state-linked funds to Saudi Arabia's Public Investment Fund. Saudi Arabia executed at least 356 people in 2025, a record. The state sits behind the SRMG logo on DS Penske's Formula E entry. That's called sportswashing.",
+      "claimIds": [
+        "saudi-executions-2025",
+        "srmg-state-ownership"
+      ],
+      "messageLine": "Saudi Arabia executed at least 356 people in 2025, a new record.",
+      "status": "draft"
+    }
   },
   {
     "id": "staffmatch",
@@ -15444,6 +16909,18 @@
     "note": "US performance-workwear brand (us.strauss.com, STRAUSS/Strauss America), official sponsor per MLB.com. Distinct from the existing 'strauss' sponsor (Strauss GmbH, Germany) already in the data; not the same company."
   },
   {
+    "id": "streparava",
+    "name": "Streparava",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to streparava.com, stands under 'Technical partners' with the line 'Powertrain and chassis components' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
     "id": "sublime-cote-divoire",
     "name": "Sublime Côte d'Ivoire",
     "ownerId": "government-of-cote-divoire",
@@ -15617,6 +17094,37 @@
     "note": "RangeGoats GC partner (livgolf.com/rangegoats-gc, fetched 2026-09-25)."
   },
   {
+    "id": "syensqo",
+    "name": "Syensqo",
+    "ownerId": "syensqo-sa",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "syensqo-ownership"
+    ],
+    "aliases": [],
+    "note": "DS Penske partner (Season 12, 2025/26; Syensqo lists its Formula E partnership on its own site). Left unrated for a maintainer: the largest shareholder is sourced (syensqo-ownership: Solvac SA, 30.81%), but the company test isn't settled. Syensqo took over Solvay's Spinetta Marengo plant in Italy at the 2023 demerger. In December 2015 an Italian court found Solvay managers guilty of causing environmental damage there and ordered Solvay to compensate residents; the Court of Cassation upheld the verdict in 2019 (ICIJ, https://www.icij.org/investigations/pandora-papers/solvay-italy-new-jerey-chemical-plants-offshore/). Two former plant directors were sent to trial in 2026 over PFAS pollution (no verdict yet)."
+  },
+  {
+    "id": "synopsys",
+    "name": "Synopsys",
+    "ownerId": "synopsys-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Synopsys, Inc., a Nasdaq-listed US company; its only disclosed owners of more than 5% are Vanguard (7.1%) and BlackRock (6.2%). Nothing found.",
+    "claimIds": [
+      "synopsys-major-holders"
+    ],
+    "aliases": [
+      "Ansys",
+      "ANSYS"
+    ],
+    "note": "Partner of the Porsche Formula E Team; Porsche's announcement notes the team's previous partner ANSYS 'is now known as Synopsys' (Synopsys completed its acquisition of Ansys in 2025). Rating note: no state stake and no human-rights finding against Synopsys located."
+  },
+  {
     "id": "systeme-u",
     "name": "Système U",
     "ownerId": "cooperative-u",
@@ -15716,6 +17224,23 @@
     "claimIds": [],
     "aliases": [],
     "note": "Official Champagne (fiaformulae.com/en/partners, fetched 2026-09-25)."
+  },
+  {
+    "id": "takasago",
+    "name": "Takasago",
+    "ownerId": "takasago-ltd",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by TAKASAGO, LTD., part of the TSE-listed Anritsu Group. Nothing found.",
+    "claimIds": [
+      "takasago-ltd-anritsu",
+      "anritsu-listed"
+    ],
+    "aliases": [
+      "TAKASAGO, LTD."
+    ],
+    "note": "Partner of the team per lola-fe.com partners page."
   },
   {
     "id": "tameeni-insurance",
@@ -15839,14 +17364,16 @@
   {
     "id": "tdk",
     "name": "TDK",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "tdk-corporation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "TDK Corporation of Japan, listed on the Tokyo Stock Exchange; its largest disclosed holders are custodial trust accounts. Nothing found.",
+    "claimIds": [
+      "tdk-major-holders"
+    ],
     "aliases": [],
-    "note": "Official Partner (fiaformulae.com/en/partners, fetched 2026-09-25)."
+    "note": "Also an Official Partner of Formula E itself (fiaformulae.com/en/partners, fetched 2026-09-25) and new on-car partner of the Porsche Formula E Team from Season 12 (2025/26). Rating note: no state or state-fund holder at 5% or more (Government of Norway 1.29%) and no human-rights finding against TDK located."
   },
   {
     "id": "teamviewer",
@@ -15904,6 +17431,18 @@
     "note": "Rating note: Private Italian holding, founding-franchise structured; not listed, no state capital found."
   },
   {
+    "id": "tecnoelettra",
+    "name": "Tecnoelettra",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to tecnoelettra.net, stands under 'Technical partners' with the line 'Development of technical projects' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
     "id": "teddy-smith",
     "name": "Teddy Smith",
     "ownerId": "teddy-smith-sas",
@@ -15959,6 +17498,24 @@
     ],
     "aliases": [],
     "note": "Rating note: Private VC-backed US company → none. Source is business press; company has no published shareholder register."
+  },
+  {
+    "id": "ten-ltd",
+    "name": "TEN Ltd",
+    "ownerId": "tsakos-energy-navigation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "TEN Ltd is NYSE-listed Tsakos Energy Navigation; the biggest disclosed shareholders are the Tsakos Holdings Foundation and Tsakos family entities. Nothing found.",
+    "claimIds": [
+      "tsakos-energy-navigation-ownership"
+    ],
+    "aliases": [
+      "TEN",
+      "Tsakos Energy Navigation",
+      "Tsakos Energy Navigation Ltd"
+    ],
+    "note": "Rating note: sleeve sponsor of Crystal Palace Women for 2026/27 (club announcement), after a spell as the women's front-of-shirt sponsor. Bermuda-incorporated and NYSE-listed; the proxy statement's table of holders of 5% or more (as of 30 March 2026) lists only the Tsakos Holdings Foundation and Tsakos family companies - no state or state fund. Searched for court, regulator, UN or NGO human-rights findings against TEN and the Tsakos group (checked 2026-09-30); nothing found that passes METHOD.md."
   },
   {
     "id": "tencent-fc-online",
@@ -16060,6 +17617,18 @@
     "aliases": []
   },
   {
+    "id": "thermal-technology",
+    "name": "Thermal Technology",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to thermaltechrace.com, stands under 'Technical partners' with the line 'Tyrewarmers' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
     "id": "ticketmaster",
     "name": "Ticketmaster",
     "ownerId": "live-nation-entertainment",
@@ -16086,6 +17655,23 @@
     ],
     "aliases": [],
     "note": "Rating note for maintainer: TikTok is ByteDance's global short-video product (bytedance.com); no state or state-fund owner found in this run."
+  },
+  {
+    "id": "tim",
+    "name": "TIM",
+    "ownerId": "tim-spa",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by the Italian state through Poste Italiane, which holds 66.6% of TIM. Nothing found.",
+    "claimIds": [
+      "tim-poste-ownership"
+    ],
+    "aliases": [
+      "Telecom Italia",
+      "TIM Group"
+    ],
+    "note": "Main Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to tim.it, stands under 'Main Partners' with the line 'Telecommunications operator' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note (2026-09-30): Poste Italiane holds 66.627% of TIM's ordinary shares and is the only holder above 3% (TIM, 24 Sep 2026); Poste Italiane is about 65% held by Italy's Ministry of the Economy and Finance and Cassa Depositi e Prestiti (tim-poste-ownership). State ownership alone is not a tier, and this data has no record of serious abuses for Italy. No human-rights finding against the company by a court, regulator, UN body or major NGO was found."
   },
   {
     "id": "tissot",
@@ -16157,6 +17743,21 @@
     "note": "Rating note: PVH also owns Calvin Klein. No sovereign stake."
   },
   {
+    "id": "tongshun-real-estate",
+    "name": "Tongshun Real Estate",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "统顺地产",
+      "大连统顺房地产开发有限公司"
+    ],
+    "note": "Front-of-shirt sponsor of Dalian Yingbo in the 2026 CSL season, identified by Tencent News (2026-03-17) as Dalian Tongshun Real Estate Development Co., Ltd. (大连统顺房地产开发有限公司). Ownership not yet sourced: Chinese corporate registries (qcc, tianyancha, qizhidao) could not be opened from the research environment. Press context (Soccer News via Tencent, 2025-09-15): the club's investor Dalian Tongshun Construction Development Group, chaired by Wang Kui (also the club's chairman), moved from construction into property development in 2024; a source tying this real-estate entity to that group was not found."
+  },
+  {
     "id": "topps",
     "name": "Topps",
     "ownerId": "fanatics",
@@ -16170,16 +17771,18 @@
   {
     "id": "totalenergies",
     "name": "TotalEnergies",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "totalenergies-se",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "totalenergies-ownership"
+    ],
     "aliases": [
       "total"
     ],
-    "note": "Existing normalized sponsor reused: series partner and title sponsor of the TotalEnergies 6 Hours of Spa-Francorchamps; Peugeot TotalEnergies carries the name as Hypercar team title sponsor. Listed company (Euronext Paris et al.), largest shareholder BlackRock, no state control."
+    "note": "DS Penske partner (Season 12, 2025/26) and WEC Peugeot TotalEnergies title sponsor. Left unrated for a maintainer: the owner is sourced (totalenergies-ownership: listed, 95% free-float factor), but the company test isn't settled. Human Rights Watch's report 'Our Trust is Broken' (2023-07-10, https://www.hrw.org/report/2023/07/10/our-trust-broken/loss-land-and-livelihoods-oil-development-uganda) found that the land acquisition for TotalEnergies' East African Crude Oil Pipeline project 'has devastated thousands of people's livelihoods in Uganda', with delayed and inadequate compensation. French prosecutors opened a manslaughter investigation in March 2025 over the 2021 attack near its Mozambique LNG site (an investigation, not a finding)."
   },
   {
     "id": "toyota",
@@ -16332,6 +17935,22 @@
       "Tsingtao"
     ],
     "note": "Chinese brewer; CSL partner per the league's official site. Ownership (listed in Hong Kong and Shanghai, with a state-linked shareholder base) not verified from a primary document."
+  },
+  {
+    "id": "tti-inc",
+    "name": "TTI, Inc.",
+    "ownerId": "tti-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A private Berkshire Hathaway company.",
+    "claimIds": [
+      "tti-berkshire-ownership"
+    ],
+    "aliases": [
+      "TTI"
+    ],
+    "note": "DS Penske partner (Season 12, 2025/26)."
   },
   {
     "id": "tudor",
@@ -16680,6 +18299,22 @@
     "note": "Personal-care brands official sponsors."
   },
   {
+    "id": "unipolsai",
+    "name": "UnipolSai",
+    "ownerId": "unipol-assicurazioni",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Merged into Unipol Assicurazioni S.p.A. (Milan-listed) in December 2024. Nothing found.",
+    "claimIds": [
+      "unipolsai-merger-2025"
+    ],
+    "aliases": [
+      "Unipol"
+    ],
+    "note": "Official Sponsor of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to unipolsai.com, stands under 'Official Sponsors' with the line 'Insurance' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note (2026-09-30): UnipolSai was merged into Unipol Assicurazioni S.p.A., listed in Milan, at the end of 2024 (unipolsai-merger-2025); Unipol's shareholders above 3% at 9 June 2026 are Italian cooperatives and their holding companies, led by Coop Alleanza 3.0 with 23.48% (unipol.com, Major Shareholders). No state or state-fund shareholder; no human-rights finding against the company found."
+  },
+  {
     "id": "uniqlo",
     "name": "UNIQLO",
     "ownerId": "uniqlo-owner",
@@ -16812,6 +18447,20 @@
       "messageLine": "Saudi Arabia carried out a record 345 executions in 2024.",
       "status": "draft"
     }
+  },
+  {
+    "id": "var-group",
+    "name": "Var Group",
+    "ownerId": "sesa-spa",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Part of SeSa S.p.A., listed on Euronext STAR Milan. Nothing found.",
+    "claimIds": [
+      "var-group-sesa-ownership"
+    ],
+    "aliases": [],
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to linktr.ee/vargroup, stands under 'Technical partners' with the line 'Digital Soul: Business digital solutions' (Wayback Machine captures of 23 May and 18 Sep 2026). Rating note (2026-09-30): Var Group is part of the Sesa Group; SeSa S.p.A. is listed on Euronext STAR Milan (var-group-sesa-ownership). No state or state-fund shareholder named; no human-rights finding against the company found."
   },
   {
     "id": "vast-data",
@@ -17251,6 +18900,18 @@
     "note": "BAL partner (bal.nba.com/partners); African mobile-money company, co-founder and CEO Drew Durbin (wave.com/en/about)."
   },
   {
+    "id": "wd-40",
+    "name": "WD-40",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to wd40.com, stands under 'Technical partners' with the line 'Lubricants, Degreasers and Cleaners' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
     "id": "we-buy-cars",
     "name": "WeBuyCars",
     "ownerId": null,
@@ -17481,6 +19142,18 @@
     "note": "Rating note: Wargaming is a private Cyprus-based company; press reporting (Bloomberg via GameSpot, 2016) put control with Victor Kislyi (64% direct plus his father's 25.5%). No state or fund ownership found, no human-rights finding found. Kislyi-stake figures date from 2016."
   },
   {
+    "id": "wrs",
+    "name": "WRS",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to wrs.it, stands under 'Technical partners' with the line 'Motorcycle Windscreens and Accessories' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+  },
+  {
     "id": "wtw",
     "name": "WTW",
     "ownerId": null,
@@ -17630,16 +19303,19 @@
   {
     "id": "xrg",
     "name": "XRG",
-    "ownerId": "government-of-abu-dhabi",
+    "ownerId": "adnoc",
     "ownership": "owned",
     "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "status": "being-rated",
+    "verdict": "XRG is wholly owned by ADNOC, which is wholly owned by the Abu Dhabi Government.",
+    "claimIds": [
+      "xrg-adnoc-ownership",
+      "adnoc-abu-dhabi-ownership"
+    ],
     "aliases": [
       "xrg energy"
     ],
-    "note": "Wholly owned by ADNOC (Abu Dhabi state oil company); co-title and official energy partner of UAE Team Emirates XRG from 2025 on a six-year deal."
+    "note": "International energy and chemicals investment company; co-title and official energy partner of UAE Team Emirates XRG from 2025 on a six-year deal. Rating note: on hold for a maintainer. The Abu Dhabi Government controls XRG through ADNOC (both claims have a second source). The UAE's record is on main (uae-mass-trial-2024, mubadala-uae-convictions-upheld)."
   },
   {
     "id": "xtb",
@@ -17658,6 +19334,38 @@
     ],
     "note": "Sleeve sponsor of FC Porto in domestic competitions from 2026-27. Rating note (2026-09-28): XTB S.A. is listed in Warsaw; its only shareholder above 5%, XX ZW Investment Group S.A. (27.78%), is controlled by Jakub Zabłocki. No state or state fund in the chain, so nothing passes the METHOD.md test.",
     "ownerVerb": "owned by"
+  },
+  {
+    "id": "yahoo",
+    "name": "Yahoo",
+    "ownerId": "apollo-global-management",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by funds managed by Apollo Global Management since 2021; Verizon retains 10%.",
+    "claimIds": [
+      "yahoo-apollo-ownership"
+    ],
+    "aliases": [
+      "YAHOO!"
+    ],
+    "note": "DS Penske partner (Season 12, 2025/26)."
+  },
+  {
+    "id": "yamaha-motor",
+    "name": "Yamaha Motor",
+    "ownerId": "yamaha-motor-co",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "yamaha-motor-co-listed"
+    ],
+    "aliases": [
+      "Yamaha"
+    ],
+    "note": "Naming/technical partner in the Lola Yamaha ABT Formula E team name. Left unrated for a maintainer: the owner is sourced (yamaha-motor-co-listed: listed in Tokyo, governments hold 0.0%), but the company test isn't settled. An Alabama jury found for a woman injured in 2007 when her Yamaha Rhino 660 off-road vehicle rolled over, on her wantonness claim against Yamaha; the Alabama Supreme Court affirmed the $3.3 million award in March 2015 (Law360, https://www.law360.com/articles/636731; the court's 2012 opinion sending the wantonness claim to a jury: https://caselaw.findlaw.com/court/al-supreme-court/1595756.html). Yamaha won most of the other Rhino trials. A maintainer decides whether a product-liability verdict like this one counts (3M is rated Concern on jury verdicts over its earplugs)."
   },
   {
     "id": "yaourt-malo",
@@ -17787,6 +19495,22 @@
     "claimIds": [],
     "aliases": [],
     "note": "Back-of-shorts sponsor of Fenerbahçe's men's basketball team for 2026/27 (Anasponsor, 10-16 Aug 2026). Owner not researched yet."
+  },
+  {
+    "id": "zhik",
+    "name": "Zhik",
+    "ownerId": "zhik-pty-ltd",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Sydney sailing-apparel company whose shareholders include the private equity group Nightingale Partners and its 2023 crowdfunding investors. Nothing found.",
+    "claimIds": [
+      "zhik-ownership"
+    ],
+    "aliases": [
+      "Zhik Pty Ltd"
+    ],
+    "note": "Rating note: official supplier of the Black Foils (SailGP team page, fetched 2026-09-30) and Official Technical Partner of the U.S. SailGP Team (ussailgpteam.com, 30 Oct 2024). Zhik Pty Ltd's known shareholders are Nightingale Partners, a Sydney-based private equity group that has backed it since 2013 and led the existing shareholders in the 2023 equity crowdfunding, members of the sailing community and the crowdfunding investors (Inside Small Business, 16 Mar 2023; Marine Business News, 15 Feb 2023). The full share register isn't public; no source names a state or state-fund shareholder, and no court, regulator, UN-body or major-NGO human-rights finding against the company was found."
   },
   {
     "id": "zoho-corporation",

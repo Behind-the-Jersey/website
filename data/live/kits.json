@@ -1939,9 +1939,80 @@
     "periodFrom": "2025-26",
     "periodTo": "2025-26",
     "photos": {},
-    "sponsors": [],
+    "sponsors": [
+      {
+        "sponsorId": "twg-ai",
+        "placement": "front",
+        "source": {
+          "name": "ABB FIA Formula E World Championship: Andretti unveil new livery and Primary Partner",
+          "date": "2026-01-28",
+          "url": "https://www.fiaformulae.com/en/news/races/andretti-unveil-new-livery-and-primary-partner",
+          "quote": "Andretti's new collaboration will see TWG AI serve as the primary partner of Andretti Global’s two-car Formula E program.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "quest-global",
+        "placement": "partner",
+        "source": {
+          "name": "Andretti Global: Quest Global Joins Andretti Formula E as Official Engineering Technology Sponsor",
+          "date": "2025-07-25",
+          "url": "https://andrettiglobal.com/news/2025/07/quest-global-andretti-formula-e-engineering-technology-sponsor",
+          "quote": "has entered a multi-year partnership with the Andretti Formula E team as its official Engineering Technology Sponsor",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "crowe-uk",
+        "placement": "partner",
+        "source": {
+          "name": "Andretti Global: Andretti Formula E Launches Season 12 Campaign with New Lineup and Fresh Livery",
+          "date": "2025-10-23",
+          "url": "https://andrettiglobal.com/news/2025/10/andretti-formula-e-launches-season-12-campaign/",
+          "quote": "The team also welcomes back valued partners Quest Global, Crowe UK and Reflo",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          }
+        }
+      },
+      {
+        "sponsorId": "hrx",
+        "placement": "partner",
+        "source": {
+          "name": "Andretti Global: Andretti Formula E Partners with HRX North America in Multi-Year Deal",
+          "date": "2025-11-10",
+          "url": "https://andrettiglobal.com/news/2025/11/andretti-formula-e-partners-with-hrx",
+          "quote": "Andretti Formula E is proud to announce a multi-year partnership with HRX North America, the world’s fastest growing racewear manufacturer, continuing a collaboration into Season 12 and beyond.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "reflo",
+        "placement": "partner",
+        "source": {
+          "name": "Andretti Global: Andretti Formula E Launches Season 12 Campaign with New Lineup and Fresh Livery",
+          "date": "2025-10-23",
+          "url": "https://andrettiglobal.com/news/2025/10/andretti-formula-e-launches-season-12-campaign/",
+          "quote": "The team also welcomes back valued partners Quest Global, Crowe UK and Reflo",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          }
+        }
+      }
+    ],
     "sponsorsComplete": false,
-    "summary": null,
+    "summary": "Season 12 (2025/26) Porsche 99X Electric customer programme. TWG AI is the primary partner (front); Quest Global, Crowe UK, HRX and Reflo are team partners named in Andretti's Season 12 announcements and shown in the partner logos on its Formula E team page. The list isn't marked complete: no source shows which partners are printed on the team kit.",
     "change": null
   },
   {
@@ -2406,11 +2477,43 @@
             "by": "claude-review-282"
           }
         }
+      },
+      {
+        "sponsorId": "deel",
+        "placement": "sleeve",
+        "source": {
+          "name": "Arsenal FC – 'Deel and Arsenal announce multi-year sleeve partnership'",
+          "date": "2026-05-14",
+          "url": "https://www.arsenal.com/news/deel-and-arsenal-announce-multi-year-sleeve-partnership-ai5MJ4o82lIM",
+          "note": "Club-wide sleeve partnership. Arsenal Women wear the same home shirt: the official women's 26/27 home shirt on Arsenal Direct (product WKB9946) shows the Deel logo on the left sleeve, checked visually 2026-09-30.",
+          "quote": "Deel's logo will appear on the left sleeve of our home, away and third shirts from the start of next season",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "Arsenal FC – 'The inspiration and features behind our 2026/27 home kit'",
+          "date": "2026-05-15",
+          "url": "https://www.arsenal.com/news/the-inspiration-and-features-behind-our-202627-home-kit-a84jJ7T0sFDo",
+          "note": "Kit maker. The club's 2026/27 home-kit launch covers both teams; Alessia Russo of Arsenal Women features in the launch.",
+          "quote": "adidas and Arsenal have revealed our new home kit for the 2026/27 season, celebrating 20 years of Emirates Stadium as our home",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "Dubai's government pays for the front of the Arsenal Women shirt through Emirates.",
-    "change": null
+    "sponsorsComplete": true,
+    "summary": "Dubai's government pays for the front of the Arsenal Women shirt through Emirates, Deel takes the sleeve, and adidas makes the kit.",
+    "change": null,
+    "headline": "The shirt is {level}: the front sponsor, Emirates, is owned by the Government of Dubai.",
+    "shortLine": "Emirates on the front, Deel on the sleeve"
   },
   {
     "id": "artemis-sweden-2026-home",
@@ -3388,9 +3491,55 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
+    "sponsors": [
+      {
+        "sponsorId": "ldlc",
+        "placement": "front",
+        "source": {
+          "name": "EuroTeams Basketball: Patty Mills x LDLC ASVEL 2026-27 EuroLeague Jersey | Men’s",
+          "date": "2026-08-25",
+          "url": "https://euroteams-basketball.com/en/produit/patty-mills-x-ldlc-asvel-2026-27-euroleague-jersey-mens/",
+          "quote": "LDLC ASVEL 2026–2027 Home Jersey",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "The page's front view of the jersey (https://euroteams-basketball.com/wp-content/uploads/2026/08/asvel-euroleague-domicile-8-mills-avant-EL.png) shows 'LDLC ASVEL' across the chest; BeBasket's photos of the 2026-27 Betclic Élite shirts (https://cdn.bebasket.fr/resources/images/blog/patty-mills-c-florentin-brere-1f1b6834-e121-6fbc-840a-17fb87466946.jpg, https://cdn.bebasket.fr/resources/images/blog/asvel-noir-myles-cale-1f1b6841-983b-68cc-962f-f36ba2d57644.jpg) show the same. LDLC has been the club's naming sponsor since 2018."
+        }
+      },
+      {
+        "sponsorId": "l-auxiliaire",
+        "placement": "front",
+        "source": {
+          "name": "L'Auxiliaire: L'Auxiliaire renforce son engagement aux côtés de LDLC ASVEL et affirme son identité lyonnaise (communiqué de presse)",
+          "date": "2026-03-26",
+          "url": "https://www.auxiliaire.fr/static/6e5875f86cb42bb8cec4130e7b8bd07c/CP_26_03_2026_LDLC_ASVEL_Ancrage_Territorial_22fb3f72bf.pdf",
+          "quote": "Partenaire depuis 2022, L'Auxiliaire devient, à compter de ce dimanche 22 mars, Partenaire Premium et sponsor maillot de l'équipe professionnelle",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "Jersey sponsor from 22 March 2026; the release adds: 'L’Auxiliaire bénéficiera d’une visibilité maximale lors des rencontres de Betclic ELITE'. For 2026-27, BeBasket's roundup of the season's Betclic Élite shirts (22 September 2026, https://www.bebasket.fr/tous-les-maillots-de-betclic-elite-pour-la-saison-2026-2027) shows L'Auxiliaire across the lower front of the white shirt (https://cdn.bebasket.fr/resources/images/blog/patty-mills-c-florentin-brere-1f1b6834-e121-6fbc-840a-17fb87466946.jpg). It isn't on the EuroLeague version (https://euroteams-basketball.com/wp-content/uploads/2026/08/asvel-euroleague-domicile-8-mills-avant-EL.png)."
+        }
+      },
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "EuroTeams Basketball: Patty Mills x LDLC ASVEL 2026-27 EuroLeague Jersey | Men’s",
+          "date": "2026-08-25",
+          "url": "https://euroteams-basketball.com/en/produit/patty-mills-x-ldlc-asvel-2026-27-euroleague-jersey-mens/",
+          "quote": "Show your support for Villeurbanne with the official 2026–2027 home jersey designed by Adidas.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "Kit maker, recorded as partner per existing convention. The page also lists 'Kit Provider: Adidas'; its front view (https://euroteams-basketball.com/wp-content/uploads/2026/08/asvel-euroleague-domicile-8-mills-avant-EL.png) shows the adidas logo on the chest."
+        }
+      }
+    ],
     "sponsorsComplete": false,
-    "summary": null,
+    "summary": "'LDLC ASVEL', the club's name with its naming sponsor LDLC, is across the chest; L'Auxiliaire is on the lower front in Betclic Élite games (jersey sponsor since 22 March 2026); adidas makes the kit. Not marked complete: BeBasket's photos of the 2026-27 Betclic Élite shirts (https://www.bebasket.fr/tous-les-maillots-de-betclic-elite-pour-la-saison-2026-2027) also show Swile, Adéquat and DCB International on the chest and Visiativ on the shorts, which have no record here yet, and no cited source shows the back of the Betclic Élite shirt. The EuroLeague version carries only the club's name, the adidas logo and the league's patch.",
     "change": null
   },
   {
@@ -4340,9 +4489,25 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
+    "sponsors": [
+      {
+        "sponsorId": "siegmund",
+        "placement": "front",
+        "source": {
+          "name": "EuroLeague: Bayern unveils its new jersey for the 2026-27 season",
+          "date": "2026-06-12",
+          "url": "https://www.euroleaguebasketball.net/en/euroleague/news/bayern-unveils-its-new-jersey-for-the-2026-27-season/",
+          "quote": "the club crest sitting cleanly above the Siegmund sponsor logo on the chest",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "Opened in a browser (the site blocks scripts). Siegmund's own sponsoring page (https://www.siegmund.com/en-us/Company-Profile/Sports-sponsoring/FC-Bayern-Basketball) says it is the main sponsor with its logo on the chest since 2022/23."
+        }
+      }
+    ],
     "sponsorsComplete": false,
-    "summary": null,
+    "summary": "Siegmund (Bernd Siegmund GmbH, a family-run welding-table maker) is the main sponsor of FC Bayern's basketball team and has been its jersey sponsor, with the logo on the chest, since 2022/23 (Siegmund's sponsoring page). Not marked complete: no cited source shows the 2026/27 home kit itself, so the back and the shorts aren't recorded yet.",
     "change": null
   },
   {
@@ -4497,17 +4662,53 @@
     "photos": {},
     "sponsors": [
       {
+        "sponsorId": "rodd-and-gunn",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - New Zealand Black Foils (Official Partners)",
+          "date": "2026-09-30",
+          "url": "https://www.sailgp.com/teams/new-zealand/"
+        }
+      },
+      {
         "sponsorId": "itm",
         "placement": "partner",
         "source": {
           "name": "SailGP team page - New Zealand Black Foils (Official Partners)",
-          "date": "2026-09-25",
+          "date": "2026-09-30",
+          "url": "https://www.sailgp.com/teams/new-zealand/"
+        }
+      },
+      {
+        "sponsorId": "agp",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - New Zealand Black Foils (Official Partners)",
+          "date": "2026-09-30",
+          "url": "https://www.sailgp.com/teams/new-zealand/"
+        }
+      },
+      {
+        "sponsorId": "skycity-auckland",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - New Zealand Black Foils (Official Suppliers)",
+          "date": "2026-09-30",
+          "url": "https://www.sailgp.com/teams/new-zealand/"
+        }
+      },
+      {
+        "sponsorId": "zhik",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - New Zealand Black Foils (Official Suppliers)",
+          "date": "2026-09-30",
           "url": "https://www.sailgp.com/teams/new-zealand/"
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "New Zealand's Black Foils carry no title sponsor; ITM and AGP are official partners and Sky City and Zhik suppliers.",
+    "summary": "New Zealand's Black Foils carry no title sponsor; Rodd & Gunn, ITM and AGP are official partners and SkyCity Auckland and Zhik official suppliers. The team page lists one more name, the ocean foundation Live Ocean as the team's Purpose Partner, which isn't counted as a sponsor. Not marked complete: Live Ocean, the team's Purpose Partner, isn't recorded as a sponsor yet.",
     "change": null
   },
   {
@@ -5126,9 +5327,55 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
-    "sponsorsComplete": false,
-    "summary": null,
+    "sponsors": [
+      {
+        "sponsorId": "american-express",
+        "placement": "front",
+        "source": {
+          "name": "Brighton & Hove Albion: American Express - Main Club Partner of Brighton & Hove Albion Football Club",
+          "date": "2026",
+          "url": "https://www.brightonandhovealbion.com/american-express-partnership",
+          "quote": "sponsorship of the men’s, women’s and disability teams’ shirts since 2013, and in 2021 we announced a long term extension",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "The club's current partner page, undated. Its partners page (https://www.brightonandhovealbion.com/partner-and-sponsors) lists American Express as 'Stadium Naming Rights and Shirt Partner'."
+        }
+      },
+      {
+        "sponsorId": "experience-kissimmee",
+        "placement": "sleeve",
+        "source": {
+          "name": "Brighton & Hove Albion: Experience Kissimmee announces partnership with Albion",
+          "date": "2024-06-11",
+          "url": "https://web.archive.org/web/20240611174801/https://www.brightonandhovealbion.com/news/4036436/experience-kissimmee-announces-partnership-with-albion",
+          "note": "Archived copy of the club's announcement of 11 June 2024, in which the club calls it 'a new three-year sleeve partnership', so it covers 2024/25 to 2026/27. The club's current partners page (https://www.brightonandhovealbion.com/partner-and-sponsors) still shows Experience Kissimmee under 'Official Sleeve Sponsor'.",
+          "quote": "Experience Kissimmee has secured promotional rights as a sleeve partner on the men’s, women’s and academy shirts",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "pinterest",
+        "placement": "back",
+        "source": {
+          "name": "Brighton & Hove Albion: Pinterest and Brighton & Hove Albion Women partner to bring inspiration to every game",
+          "date": "2026-08-04",
+          "url": "https://www.brightonandhovealbion.com/media-article/pinterest-and-brighton-and-hove-albion-women-partner-to-bring-inspiration-to-every-game",
+          "quote": "will see Pinterest become the first solo sponsor of our women’s team with their branding to appear on the back of our shirts",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "The announcement's picture shows the blue-and-white home shirt from behind, with the Pinterest logo under the number, and shorts without a sponsor."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "American Express on the front, Experience Kissimmee on the sleeve, and Pinterest - the women's team's first solo sponsor - on the back, under the number. The picture with the club's Pinterest announcement shows no sponsor on the shorts.",
     "change": null
   },
   {
@@ -5147,7 +5394,13 @@
         "source": {
           "name": "Brooklyn Sports & Entertainment (bkse.com)",
           "date": "2025-07-01",
-          "url": "https://bkse.com/news/brooklyn-nets-name-all-in-won-as-official-jersey-patch-partner"
+          "url": "https://bkse.com/news/brooklyn-nets-name-all-in-won-as-official-jersey-patch-partner",
+          "quote": "The Brooklyn Nets and All In Won, a New York-based premier medical billing company, have formed a new multiyear partnership",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "BigBossRabbit"
+          },
+          "note": "Announced 1 July 2025, ahead of the 2025-26 season; the release does not restate the 2026-27 season."
         }
       }
     ],
@@ -5330,6 +5583,36 @@
     ],
     "sponsorsComplete": false,
     "summary": "2026 UCI Women's WorldTeam. UCI registration keeps 'zondacrypto' but both Cyclist (2026-07-14) and The Inner Ring (2026-08-05) report zondacrypto was dropped mid-2026 and the team races as Canyon-SRAM.",
+    "change": null
+  },
+  {
+    "id": "cape-verde-2026-home",
+    "clubId": "cape-verde",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "capelli-sport",
+        "placement": "partner",
+        "source": {
+          "name": "Capelli Sport: 'Cabo Verde Football Federation x Capelli Sport' (capellisport.com)",
+          "date": "2026-02-25",
+          "url": "https://capellisport.com/blogs/news/cabo-verde-football-federation",
+          "note": "Kit maker. Capelli's own announcement of the four-year deal as 'Official Technical and Apparel Partner' of the FCF. Kit-launch coverage (Footy Headlines, 13 Apr 2026) describes only the design details - deep blue base, red trim, Capelli squares on the shoulders, flight-path pattern - and names no shirt sponsor; Capelli's product page for the 2026 home jersey shows only the Capelli logo and the FCF crest on the shirt. No commercial sponsor on any placement.",
+          "quote": "announced a four-year partnership with the Cabo Verde Football Federation (FCF), naming Capelli Sport the Official Technical and Apparel Partner of Cabo Verde Football.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Capelli home kit for the 2026 World Cup cycle, unveiled 13 April 2026. No commercial shirt sponsors: the shirt carries only the Capelli logo and the FCF crest.",
     "change": null
   },
   {
@@ -5757,7 +6040,13 @@
         "source": {
           "name": "Chicago Bulls (nba.com)",
           "date": "2022-09-20",
-          "url": "https://www.nba.com/bulls/news/chicago-bulls-name-motorola-mobility-as-official-jersey-patch-partner"
+          "url": "https://www.nba.com/bulls/news/chicago-bulls-name-motorola-mobility-as-official-jersey-patch-partner",
+          "quote": "The Chicago Bulls announced a multiyear relationship with Chicago-based tech-giant Motorola Mobility, a Lenovo company, making it the Official Jersey Patch Partner of the Chicago Bulls.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "BigBossRabbit"
+          },
+          "note": "Announced 20 September 2022 for the 2022-23 preseason; the release does not restate the 2026-27 season."
         }
       }
     ],
@@ -6419,9 +6708,40 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
-    "sponsorsComplete": false,
-    "summary": null,
+    "sponsors": [
+      {
+        "sponsorId": "temporal",
+        "placement": "front",
+        "source": {
+          "name": "Crystal Palace FC: Temporal expands Crystal Palace partnership to become front-of-shirt partner of Palace Women",
+          "date": "2026-09-09",
+          "url": "https://www.cpfc.co.uk/news/announcement/temporal-expands-crystal-palace-partnership-to-become-front-of-shirt-partner-of-palace-women",
+          "quote": "Crystal Palace Football Club are delighted to announce that Temporal will expand its partnership with the Club to become the new front-of-shirt partner of Crystal Palace Women.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "The same announcement says: 'Temporal’s logo will now also feature prominently on the front of Palace Women’s matchday shirts'."
+        }
+      },
+      {
+        "sponsorId": "ten-ltd",
+        "placement": "sleeve",
+        "source": {
+          "name": "Crystal Palace FC: Crystal Palace Women announce TEN Ltd as new shirt sleeve sponsor",
+          "date": "2026-09-16",
+          "url": "https://www.cpfc.co.uk/news/partner-news/crystal-palace-women-announce-ten-ltd-as-new-shirt-sleeve-sponsor",
+          "quote": "TST Foundation and its affiliated NYSE-listed energy transport company TEN Ltd will continue their partnership with the Club, with TEN becoming the team’s official shirt sleeve sponsor.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "The same announcement says the logo will 'feature on the sleeve of the home, away and third kits'. The club's photos of the home match against Tottenham on 20 Sept 2026 (https://www.cpfc.co.uk/news/match-reports/report-palace-women-defeated-at-selhurst) show the white home shirt with Temporal on the front and TEN on both sleeves, and no sponsor on the back of the shirt or on the shorts."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Temporal is on the front of the white 2026/27 home shirt and TEN is on both sleeves (club announcements of 9 and 16 Sept 2026). The club's photos of the home match against Tottenham on 20 Sept 2026 show no sponsor on the back of the shirt or on the shorts.",
     "change": null
   },
   {
@@ -6514,6 +6834,80 @@
     ],
     "sponsorsComplete": false,
     "summary": null,
+    "change": null
+  },
+  {
+    "id": "curacao-2026-home",
+    "clubId": "curacao",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026–28",
+    "periodFrom": "2026",
+    "periodTo": "2028",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "Football Shirt Culture: Curaçao 2026 Home Kit by Adidas Released",
+          "date": "2026-05-22",
+          "url": "https://www.footballshirtculture.com/new-kits/curacao-jersey-2026-home-adidas.html",
+          "quote": "The Curaçao Football Federation and adidas have revealed the Curaçao 2026 Home Kit, which will be worn by the national team throughout the 2026-2028 international cycle",
+          "note": "Kit supplier, listed as partner per the convention. Football Shirt Culture's launch description lists every mark on the shirt: 'a yellow adidas logo on the right chest' next to the Federashon Futbòl Kòrsou crest, 'Yellow adidas Three Stripes run across the shoulders', and 'A “Curaçao” wordmark is placed beneath the rear collar'; no commercial sponsor logos are mentioned or visible on shirt, shorts or socks.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Nothing on the shirt but the crest: adidas' 2026 home shirt carries no commercial sponsors, only a yellow adidas logo, the FFK crest and a 'Curaçao' wordmark below the back collar; shorts and socks likewise carry only adidas striping, the federation crest and Curaçao wording (Football Shirt Culture's launch description). Worn for the 2026-2028 international cycle, including the 2026 World Cup.",
+    "change": null,
+    "shortLine": "No sponsors on the shirt"
+  },
+  {
+    "id": "dalian-yingbo-2026-27-home",
+    "clubId": "dalian-yingbo",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "x1-xi-wang",
+        "placement": "front",
+        "source": {
+          "name": "Tencent News (九五体育): 三大行业，成为中超球队胸前广告的赞助商",
+          "date": "2026-03-17",
+          "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+          "quote": "大连英博足球俱乐部的胸前广告是“犀旺蛋白肽运动饮料、统顺地产”",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "tongshun-real-estate",
+        "placement": "front",
+        "source": {
+          "name": "Tencent News (九五体育): 三大行业，成为中超球队胸前广告的赞助商",
+          "date": "2026-03-17",
+          "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+          "quote": "大连英博足球俱乐部的另一个胸前广告赞助商是统顺地产（即“大连统顺房地产开发有限公司”）",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 home kit (the calendar-year CSL season, filed as 2026-27 in this dataset). Front of shirt documented by named press: X1 Xi Wang (犀旺) sports drink and Tongshun Real Estate (统顺地产). The club's December 2025 sponsorship brochure offered two back-of-shirt slots and one sleeve-ad slot for the 2026 season; who holds those in 2026 was not confirmed from any source that could be opened, so the sponsor list is not complete. The team plays in 2026 as 大连英博海发 (Dalian Yingbo Haifa) under a naming-rights deal; naming rights are not a shirt placement.",
     "change": null
   },
   {
@@ -6884,7 +7278,13 @@
         "source": {
           "name": "StockX Newsroom",
           "date": "2024-09-25",
-          "url": "https://stockx.com/about/detroit-pistons-and-stockx-announce-jersey-partnership"
+          "url": "https://stockx.com/about/detroit-pistons-and-stockx-announce-jersey-partnership",
+          "quote": "StockX will have its logo prominently featured on the front left chest of official Detroit Pistons team jerseys beginning with the start of the 2024-25 NBA season.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "BigBossRabbit"
+          },
+          "note": "Announced 25 September 2024 for the 2024-25 season; the release does not restate the 2026-27 season."
         }
       }
     ],
@@ -6998,14 +7398,184 @@
         "sponsorId": "ds-automobiles",
         "placement": "front",
         "source": {
-          "name": "FIA Formula E - DS Penske team page (DS in team name)",
-          "date": "2026-09-25",
-          "url": "https://www.fiaformulae.com/en/teams/ds-penske"
+          "name": "ABB FIA Formula E World Championship: DS PENSKE (team page)",
+          "date": "2026",
+          "url": "https://www.fiaformulae.com/en/teams/ds-penske",
+          "quote": "DS Automobiles, one of Formula E’s most successful marques, began a new chapter as a partner of PENSKE AUTOSPORT, with the newly christened DS PENSKE",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "totalenergies",
+        "placement": "partner",
+        "source": {
+          "name": "DS PENSKE: team website, Partners section",
+          "date": "2026",
+          "url": "https://dspenske.com/",
+          "quote": "TotalEnergies is a global multi-energy company that produces and markets energies",
+          "note": "Partner profile in the Partners section of the team site.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "penske-media-corporation",
+        "placement": "partner",
+        "source": {
+          "name": "DS PENSKE: team website, Partners section",
+          "date": "2026",
+          "url": "https://dspenske.com/",
+          "quote": "Penske Media Corporation (PMC) is a leading global media and information services company whose award-winning content attracts a passionate audience",
+          "note": "Partner profile in the Partners section of the team site; PMC lists the DS Penske team among its own brands.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "mouser-electronics",
+        "placement": "partner",
+        "source": {
+          "name": "DS PENSKE: team website, Partners section",
+          "date": "2026",
+          "url": "https://dspenske.com/",
+          "quote": "Mouser Electronics, a Berkshire Hathaway company, is an authorized semiconductor and electronic component distributor",
+          "note": "Partner profile in the Partners section of the team site.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "molex",
+        "placement": "partner",
+        "source": {
+          "name": "DS PENSKE: team website, Partners section",
+          "date": "2026",
+          "url": "https://dspenske.com/",
+          "quote": "Molex Inc. is a manufacturer of electronic, electrical and fiber optic interconnection systems",
+          "note": "Partner profile in the Partners section of the team site.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "kyocera-avx",
+        "placement": "partner",
+        "source": {
+          "name": "DS PENSKE: team website, Partners section",
+          "date": "2026",
+          "url": "https://dspenske.com/",
+          "quote": "KYOCERA AVX Corporation is an American technology leader in the manufacture of passive electronic components",
+          "note": "Partner profile in the Partners section of the team site. KYOCERA AVX's own Formula E page (kyocera-avx.com/formula-e) confirms the DS Penske partnership with the 2025/26 drivers.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "tti-inc",
+        "placement": "partner",
+        "source": {
+          "name": "DS PENSKE: team website, Partners section",
+          "date": "2026",
+          "url": "https://dspenske.com/",
+          "quote": "TTI, Inc., a Berkshire Hathaway company based in Fort Worth, Texas, USA, is an authorized, specialty distributor",
+          "note": "Partner profile in the Partners section of the team site.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "syensqo",
+        "placement": "partner",
+        "source": {
+          "name": "DS PENSKE: team website, Partners section",
+          "date": "2026",
+          "url": "https://dspenske.com/",
+          "quote": "Syensqo is a science company developing groundbreaking solutions",
+          "note": "Partner profile in the Partners section of the team site; Syensqo also lists the partnership on its own site (syensqo.com, 'Partnership in Formula E').",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "yahoo",
+        "placement": "partner",
+        "source": {
+          "name": "DS PENSKE: team website, Partners section",
+          "date": "2026",
+          "url": "https://dspenske.com/",
+          "quote": "Our media, technology and business platforms connect hundreds of millions of people around the world",
+          "note": "'YAHOO!' partner profile in the Partners section of the team site.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "neom",
+        "placement": "partner",
+        "source": {
+          "name": "DS PENSKE: team website, Partners section ('NEOM-SRMG' partner block)",
+          "date": "2026",
+          "url": "https://dspenske.com/",
+          "quote": "Since Season 4, the continued partnership with our racing team underscores NEOM’s commitment to innovation, teamwork and sustainability.",
+          "note": "Team site presents a joint 'NEOM-SRMG' partner block; the NEOM paragraph is quoted. Season 12 press kit (dspenske.com, Dec 2025) names the partner as SRMG.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "srmg",
+        "placement": "partner",
+        "source": {
+          "name": "DS PENSKE: team website, Partners section ('NEOM-SRMG' partner block)",
+          "date": "2026",
+          "url": "https://dspenske.com/",
+          "quote": "SRMG aims to be at the forefront of a new media landscape.",
+          "note": "Team site presents a joint 'NEOM-SRMG' partner block. Season 12 global press kit (dspenske.com, 'S12-GLOBAL-PRESS-KIT-PARTNERS-ONLY.pdf', Dec 2025) lists SRMG as the partner.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "lockton",
+        "placement": "partner",
+        "source": {
+          "name": "DS PENSKE: team website, Partners section",
+          "date": "2026",
+          "url": "https://dspenske.com/",
+          "quote": "Lockton is the world’s largest privately held insurance brokerage firm",
+          "note": "Partner profile in the Partners section of the team site.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": null,
+    "sponsorsComplete": true,
+    "summary": "Stellantis marque DS Automobiles is the title partner (team name). Ten further partners per the club's own Season 12 partner roster on dspenske.com (cross-checked against its Season 12 partners press kit, Dec 2025): TotalEnergies, PMC, Mouser, Molex, KYOCERA AVX, TTI, Syensqo, Yahoo, NEOM-SRMG, Lockton.",
     "change": null
   },
   {
@@ -7019,28 +7589,83 @@
     "photos": {},
     "sponsors": [
       {
-        "sponsorId": "det-dubai",
-        "placement": "back",
-        "source": {
-          "name": "Dubai Media Office, Dubai Department of Economy and Tourism partners with Dubai Basketball",
-          "date": "2025-01-31",
-          "url": "https://mediaoffice.ae/en/news/2025/january/31-01/dubai-department-of-economy-and-tourism-partners-with-dubai-basketball",
-          "note": "Dubai logo and visitdubai.com on the back of the shirts"
-        }
-      },
-      {
         "sponsorId": "dnata",
         "placement": "front",
         "source": {
           "name": "dnata media centre, dnata nets three-year deal with Dubai Basketball as Founding Partner",
           "date": "2025-09-18",
           "url": "https://www.dnata.com/media-centre/dnata-nets-three-year-deal-with-dubai-basketball-as-founding-partner/",
-          "note": "dnata branding on official jerseys (3-year Founding Partner)"
+          "quote": "dnata's branding will appear on Dubai Basketball's official jerseys, across the Coca-Cola Arena home court",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "Three-year Founding Partner (2025-26 to 2027-28). The club store's photo of the 2026/27 home jersey (https://store.dubaibasketball.com/products/jersey-players-version-white-home, https://cdn.shopify.com/s/files/1/0765/6806/8250/files/DSC05782.jpg) shows the dnata wordmark across the front, under the number."
+        }
+      },
+      {
+        "sponsorId": "mr-eight",
+        "placement": "patch",
+        "source": {
+          "name": "Dubai Basketball: Dubai Basketball and Mr. Eight Development Announce Three-Year Exclusive Partnership",
+          "date": "2026-09-11",
+          "url": "https://www.dubaibasketball.com/media-article/dubai-basketball-and-mr-eight-development-announce-three-year-exclusive-partnership",
+          "quote": "the Mr. Eight brand will feature on Dubai Basketball's game jerseys throughout the club's EuroLeague and ABA League campaigns",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "The club store's photo of the 2026/27 home jersey (https://cdn.shopify.com/s/files/1/0765/6806/8250/files/DSC05782.jpg) shows 'MR.EIGHT' on the chest, under the adidas logo."
+        }
+      },
+      {
+        "sponsorId": "equiti",
+        "placement": "back",
+        "source": {
+          "name": "Equiti: Equiti signs as founding partner of Dubai Basketball ahead of EuroLeague debut",
+          "date": "2025-09-24",
+          "url": "https://www.equiti.com/sc-en/media-room/media-releases/equiti-signs-as-founding-partner-of-dubai-basketball-ahead-of-euroleague-debut",
+          "quote": "Equiti will feature prominently on official jerseys and courtside at the Coca-Cola Arena",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "Founding Partner and Official Digital Wealth Partner for three seasons from 2025-26. The club store's photo of the back of the 2026/27 home jersey (https://cdn.shopify.com/s/files/1/0765/6806/8250/files/DSC05168.jpg) shows the Equiti logo between the player's name and the number. equiti.com blocks scripts; read in the Wayback Machine copy of 22 January 2026 (https://web.archive.org/web/20260122005347/https://www.equiti.com/sc-en/media-room/media-releases/equiti-signs-as-founding-partner-of-dubai-basketball-ahead-of-euroleague-debut/)."
+        }
+      },
+      {
+        "sponsorId": "audi-al-nabooda",
+        "placement": "shorts",
+        "source": {
+          "name": "Dubai Basketball: Audi, Al Nabooda Automobiles Powers Dubai Basketball's Season with Strategic Partnership",
+          "date": "2025-09-01",
+          "url": "https://www.dubaibasketball.com/media-article/audi-al-nabooda-automobiles-powers-dubai-basketballs-season-with-strategic-partnership",
+          "quote": "Audi, Al Nabooda Automobiles proudly announces its strategic partnership with Dubai Basketball as the teams' Official Automotive Partner",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "Three-season deal from 2025-26. The club store's side photo of the 2026/27 home kit (https://cdn.shopify.com/s/files/1/0765/6806/8250/files/DSC06843.jpg) and the photo in the club's kit launch article (https://www.dubaibasketball.com/media-article/dubai-basketball-unveils-2026-27-kit-dedicated-to-city-of-dubai) show the Audi rings on the leg of the shorts, beside the adidas logo."
+        }
+      },
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "Dubai Basketball: Dubai Basketball Unveils 2026/27 Kit Dedicated to City of Dubai",
+          "date": "2026-09-12",
+          "url": "https://www.dubaibasketball.com/media-article/dubai-basketball-unveils-2026-27-kit-dedicated-to-city-of-dubai",
+          "quote": "Created in partnership with adidas, the new jerseys reflect Dubai Basketball’s unique connection to the city it represents.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "Kit maker, recorded as partner per existing convention. The adidas logo is on the chest and on the shorts (https://cdn.shopify.com/s/files/1/0765/6806/8250/files/DSC05782.jpg, https://cdn.shopify.com/s/files/1/0765/6806/8250/files/DSC06843.jpg)."
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": null,
+    "sponsorsComplete": true,
+    "summary": "2026/27 adidas home kit ('Made to Belong', unveiled 12 September 2026): dnata across the front, Mr. Eight on the chest under the adidas logo, Equiti on the back between the name and the number, and the Audi rings (Al Nabooda Automobiles) on the shorts. Marked complete: the club store's photos of the home jersey and shorts, front, side and back (https://store.dubaibasketball.com/products/jersey-players-version-white-home), and the launch article's photo show no other sponsor. The patch on the other side of the chest is the EuroLeague's own mark with its partner Etihad (see the euroleague-etihad deal), not a club sponsor. The Dubai logo and visitdubai.com of the 2025 DET deal aren't on the back of this shirt; the word 'DUBAI' under the number is.",
     "change": null
   },
   {
@@ -7057,14 +7682,725 @@
         "sponsorId": "lenovo",
         "placement": "front",
         "source": {
-          "name": "MotoGP.com - Revealed: Ducati celebrate 100 with stunning new livery",
-          "date": "2026-01-19",
-          "url": "https://www.motogp.com/en/news/2026/01/19/revealed-ducati-celebrate-100-with-stunning-new-livery/825628"
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "Ducati's partner page names Lenovo as Title Partner, above the Main Partners. The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Title Partner Lenovo Lenovo is a US$70 billion revenue global technology powerhouse",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "monster-energy",
+        "placement": "partner",
+        "source": {
+          "name": "SPEEDWEEK.com: New and existing partnerships for 2027: The title sponsors of the MotoGP manufacturers",
+          "date": "2026-07-23",
+          "url": "https://www.speedweek.com/en/a/motogp/new-and-existing-partnerships-for-2027-the-title-sponsors-of-the-motogp-manufacturers",
+          "quote": "IT giant Lenovo remains on board as the main financial backer, as does Monster Energy",
+          "note": "SPEEDWEEK interview with Ducati Corse's Mauro Grassilli. On Ducati's partner page the Monster Energy logo stands first under \"Main Partners\" with the line \"Beverage company\" (Wayback Machine captures of 23 May and 18 Sep 2026).",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "shell",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati Asia Pacific: Ducati and Shell extend partnership as MotoGP enters new era of more sustainable fuels",
+          "date": "2023-03-21",
+          "url": "https://ducatiasiapacific.com/ducati-and-shell-extend-partnership-as-motogp-enters-new-era-of-more-sustainable-fuels",
+          "quote": "Ducati and Shell today announce a multi-year extension of their Technical Partnership with the Ducati Corse factory racing teams, up to 2027.",
+          "note": "The partnership runs to 2027, so it covers the 2026 season. On Ducati's partner page the Shell logo stands under \"Main Partners\" with the line \"Lubes and Fuel Technical Partner\" (Wayback Machine captures of 23 May and 18 Sep 2026).",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "audi",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Main Partners\", the logo that links to audi.com/en/audisport.html carries the line \"Automotive / Performance cars\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Automotive / Performance cars",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "tim",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Main Partners\", the logo that links to tim.it carries the line \"Telecommunications operator\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Telecommunications operator",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "akrapovic",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Sponsors\", the logo that links to akrapovic.com carries the line \"Exhaust systems\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Exhaust systems",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "netapp",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Sponsors\", the logo that links to netapp.com carries the line \"Data Management Solutions\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Data Management Solutions",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "riello-ups",
+        "placement": "partner",
+        "source": {
+          "name": "Riello UPS: Riello UPS - Ducati: The power of continuity",
+          "date": "2026",
+          "url": "https://www.riello-ups.com/pages/240-riello-ups-ducati-the-power-of-continuity",
+          "quote": "It is there that Riello UPS has been alongside Ducati Corse for over twenty years.",
+          "note": "Riello UPS's own page on its partnership with Ducati Corse. On Ducati's partner page the Riello UPS logo stands under \"Official Sponsors\" with the line \"Power Supply\" (Wayback Machine captures of 23 May and 18 Sep 2026).",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "unipolsai",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Sponsors\", the logo that links to unipolsai.com carries the line \"Insurance\". The quote joins this line to the one next to it on the page, because the line alone is too short to check. The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Power Supply Insurance",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "aruba",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to aruba.it carries the line \"Hosting, Domains, PEC, Digital Signatures, Data Center and Cloud\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Hosting, Domains, PEC, Digital Signatures, Data Center and Cloud",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "autogrill",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to autogrill.it carries the line \"Food and Beverage services for people on the move\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Food and Beverage services for people on the move",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "bosch",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to bosch-pt.co.uk/professional carries the line \"Professional power tools\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Professional power tools",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "carlo-barbera",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to carlobarbera.it carries the line \"Carlo Barbera\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Carlo Barbera",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "carrera-eyewear",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to carreraworld.com carries the line \"Sunglasses and optical frames since 1956\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Sunglasses and optical frames since 1956",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "contadi-castaldi",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to contadicastaldi.it carries the line \"Franciacorta wines\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Franciacorta wines",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "diadora",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to diadora.com carries the line \"Sportswear & Sport Performance\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Sportswear & Sport Performance",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "eataly",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to eataly.co.uk carries the line \"Italian food retail and catering in the world\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Italian food retail and catering in the world",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "estrella-galicia",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to estrellagalicia.com carries the line \"Independent Brewers\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Independent Brewers",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "eternoo",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to eternoo.it carries the line \"Building Materials\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Building Materials",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "flex-box",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to flex-box.com carries the line \"Shipping container development and manufacturing\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Shipping container development and manufacturing",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "frecciarossa",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to trenitalia.com carries the line \"High speed travel\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "High speed travel",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "givi",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to givimoto.com carries the line \"Motorbike accessories\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Motorbike accessories",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "isokinetic",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to isokinetic.com carries the line \"Sports Medicine and Orthopedic Rehabilitation\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Sports Medicine and Orthopedic Rehabilitation",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "ita-airways",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to ita-airways.com carries the line \"Flag carrier airline\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Flag carrier airline",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "limolane",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to limolane.com carries the line \"Digital platform redefining the premium luxury Chauffeur Drive Service\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Digital platform redefining the premium luxury Chauffeur Drive Service",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "madonna-di-campiglio",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to campigliodolomiti.it carries the line \"Madonna di Campiglio\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Madonna di Campiglio",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "motorola-mobility",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to motorola.com carries the line \"Mobile phones\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Mobile phones",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "new-era",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to neweracap.co.uk carries the line \"Caps and Sportswear\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Caps and Sportswear",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "parmacotto",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to parmacottogroup.com carries the line \"Producer of cured meats\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Producer of cured meats",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "philip-morris-international",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to pmi.com/markets/italy carries the line \"Phillip Morris International\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Phillip Morris International",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "randstad",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to randstad.it carries the line \"HR Services\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "HR Services",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "sap",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to sap.com/italy carries the line \"Enterprise application software\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Enterprise application software",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "silence",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Official Partners\", the logo that links to silence.eco carries the line \"Electric Motorcycles\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Electric Motorcycles",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "beta-tools",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to beta-tools.com carries the line \"Tools\". The quote joins this line to the one next to it on the page, because the line alone is too short to check. The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Technical partners Tools",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "did",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to didchain.com carries the line \"Chains\". The quote joins this line to the one next to it on the page, because the line alone is too short to check. The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Chains Motorcycle throttle controls",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "domino-group",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to domino-group.com carries the line \"Motorcycle throttle controls\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Motorcycle throttle controls",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "mahle",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to mahle.com carries the line \"Engine components\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Engine components",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "marelli",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to magnetimarelli.com carries the line \"Data acquisition systems\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Data acquisition systems",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "ngk",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to ngk.de carries the line \"Spark Plugs\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Spark Plugs",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "reflexallen",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to reflexallen.com carries the line \"Carbon structural components\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Carbon structural components",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "siemens",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to siemens.com carries the line \"Engineering project software\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Engineering project software",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "skf",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to skf.com carries the line \"Bearings and mechanical engineering solutions\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Bearings and mechanical engineering solutions",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "streparava",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to streparava.com carries the line \"Powertrain and chassis components\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Powertrain and chassis components",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "tecnoelettra",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to tecnoelettra.net carries the line \"Development of technical projects\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Development of technical projects",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "thermal-technology",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to thermaltechrace.com carries the line \"Tyrewarmers\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Tyrewarmers",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "var-group",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to linktr.ee/vargroup carries the line \"Digital Soul: Business digital solutions\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Digital Soul: Business digital solutions",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "wd-40",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to wd40.com carries the line \"Lubricants, Degreasers and Cleaners\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Lubricants, Degreasers and Cleaners",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "wrs",
+        "placement": "partner",
+        "source": {
+          "name": "Ducati: Ducati Lenovo Team Partners and Sponsors (Wayback Machine capture of 23 May 2026)",
+          "date": "2026-05-23",
+          "url": "https://web.archive.org/web/20260523163858/https://www.ducati.com/ww/en/racing/motogp/ducati-lenovo-team-partners-sponsors",
+          "note": "The page shows each partner as a logo with a link and a one-line description. Under \"Technical partners\", the logo that links to wrs.it carries the line \"Motorcycle Windscreens and Accessories\". The live ducati.com page blocks scripts; the capture of 18 Sep 2026 shows the same partners.",
+          "quote": "Motorcycle Windscreens and Accessories",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": null,
+    "sponsorsComplete": true,
+    "summary": "2026 Ducati Lenovo Team (Marc Marquez, Francesco Bagnaia). Lenovo is the title partner (front). Ducati's own partner page, as archived on 23 May and 18 Sep 2026, lists 47 more partners, all recorded here: Monster Energy, Shell, Audi and TIM as Main Partners; Akrapovič, NetApp, Riello UPS and Unipol as Official Sponsors; Aruba, Autogrill, Bosch, Carlo Barbera, Carrera, Contadi Castaldi, Diadora, Eataly, Estrella Galicia, Eternoo, Flex-Box, Frecciarossa, Givi, Isokinetic, ITA Airways, Limolane, Madonna di Campiglio, Motorola, New Era, Parmacotto, Philip Morris International, Randstad, SAP and Silence as Official Partners; and Beta, DID, Domino, Mahle, Marelli, NGK, Reflexallen, Siemens, SKF, Streparava, Tecnoelettra, Thermal Technology, Var Group, WD-40 and WRS as technical partners. The page shows most partners as a logo with a link, not by name in its text. Elica, Daiko, Melinda, Amaro Montenegro, Vmoto, Brembo and Cobo, on Ducati's US partner page in December 2025, are not on the 2026 list.",
     "change": null
   },
   {
@@ -7192,6 +8528,37 @@
     "sponsorsComplete": false,
     "summary": "2026-27 home kit. VTB shown as the club's general sponsor on the official site; front-of-shirt sponsor not yet sourced.",
     "change": null
+  },
+  {
+    "id": "ecuador-2026-home",
+    "clubId": "ecuador",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "marathon-sports",
+        "placement": "partner",
+        "source": {
+          "name": "Football Shirt Culture: Ecuador 2026 World Cup Home Kit",
+          "date": "2026-02-26",
+          "url": "https://footballshirtculture.com/new-kits/ecuador-2026-world-cup-home-jersey.html",
+          "quote": "The Ecuador 2026 World Cup Home Kit, made by Marathon, has been officially revealed.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Kit maker, listed as partner per the convention for kit suppliers. The same article lists every mark on the yellow home shirt: 'The FEF crest sits on the left chest, while the Marathon logo is positioned on the right', and 'Below the rear collar, the phrase “Soñar Trascender y Hacer Historia” appears'; 'HIDROTEC' branding along the hem is Marathon's own fabric mark. No commercial sponsor named anywhere on the shirt. Launch also covered by Extra (2026-02-25): 'Marathon, empresa que viste a la selección nacional, presentó oficialmente la indumentaria mundialista'. The FEF's federation-level sponsors (e.g. Banco Pichincha, Supermaxi) appear in activations and training wear, not on the match shirt."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Marathon's yellow 2026 home shirt carries no commercial sponsors — only the FEF crest, the Marathon logo, the motto 'Soñar Trascender y Hacer Historia' below the back collar and Marathon's HIDROTEC fabric mark on the hem (Football Shirt Culture's launch description).",
+    "change": null,
+    "shortLine": "No sponsors on the shirt"
   },
   {
     "id": "ef-education-easypost-2026-home",
@@ -7380,43 +8747,69 @@
           "name": "Emirates media centre - Emirates signs on as global partner and exclusive airline partner of SailGP",
           "date": "2024-11-14",
           "url": "https://www.emirates.com/media-centre/emirates-signs-on-as-global-partner-and-exclusive-airline-partner-of-sailgp/",
-          "note": "Five-season global sponsorship from Nov 2024; Emirates is Title Partner of the Emirates Great Britain SailGP Team and its Portsmouth home event."
+          "note": "Five-season global sponsorship from Nov 2024; Emirates is Title Partner of the Emirates Great Britain SailGP Team and its Portsmouth home event. The club's 'Title Partner' listing and the team name were re-confirmed on the club site and sailgp.com team page on 2026-09-30.",
+          "quote": "Emirates is also a proud sponsor of Emirates Great Britain SailGP Team, one of the league’s most successful sailing teams.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       },
       {
         "sponsorId": "howden",
         "placement": "partner",
         "source": {
-          "name": "SailGP team page - Emirates Great Britain (Global Partners)",
-          "date": "2026-09-25",
-          "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+          "name": "Howden: Howden strengthens partnership with Emirates GBR SailGP Team as Tier 2 Global Partner",
+          "date": "2026-02-25",
+          "url": "https://www.howdengroupholdings.com/news/howden-strengthens-partnership-with-emirates-gbr-sailgp-team-as-tier-2-global-partner",
+          "quote": "Howden today announces the elevation of its partnership with the Emirates Great Britain SailGP Team (“Emirates GBR”) to Tier 2 Global Partner",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       },
       {
         "sponsorId": "jpmorgan-chase",
         "placement": "partner",
         "source": {
-          "name": "SailGP team page - Emirates Great Britain (Global Partners)",
-          "date": "2026-09-25",
-          "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+          "name": "J.P. Morgan Private Bank: Emirates GBR partnership page (undated, read 30 September 2026)",
+          "date": "2026-09",
+          "url": "https://privatebank.jpmorgan.com/eur/en/about-us/emiratesgbr",
+          "note": "J.P. Morgan's own page on its global partnership with the team; the sailgp.com team page also lists 'JP Morgan' among the Emirates GBR Global Partners (checked 2026-09-30).",
+          "quote": "A proud partnership with the 2025 SailGP champions - Emirates Great Britain Team",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       },
       {
         "sponsorId": "jumeirah",
         "placement": "partner",
         "source": {
-          "name": "SailGP team page - Emirates Great Britain (Global Partners)",
-          "date": "2026-09-25",
-          "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+          "name": "Jumeirah media hub: Jumeirah Joins Emirates Great Britain SailGP Team As Global Partner",
+          "date": "2026-02-12",
+          "url": "https://mediahub.jumeirah.com/jumeirah-joins-emirates-great-britain-sailgp-team-as-global-partner/?lang=eng",
+          "quote": "Jumeirah, a global leader in luxury hospitality and a member of Dubai Holding, is proud to announce a three-season global partnership with the Emirates Great Britan SailGP Team",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       },
       {
         "sponsorId": "eqt",
         "placement": "partner",
         "source": {
-          "name": "SailGP team page - Emirates Great Britain (Global Partners)",
-          "date": "2026-09-25",
-          "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+          "name": "EQT: EQT enters global partnership with Emirates Great Britain SailGP Team",
+          "date": "2026-07-22",
+          "url": "https://eqtgroup.com/news/eqt-enters-global-partnership-with-emirates-great-britain-sailgp-team",
+          "quote": "As part of the partnership with the Emirates GBR, EQT becomes the sailing team’s official private markets partner across all global SailGP championship events through 2030.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       }
     ],
@@ -8967,6 +10360,37 @@
     "summary": null
   },
   {
+    "id": "germany-2026-home",
+    "clubId": "germany",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "Football Shirt Culture: Germany 2026 Adidas Home Kit",
+          "date": "2025-11-05",
+          "url": "https://www.footballshirtculture.com/new-kits/germany-2026-adidas-home-kit.html",
+          "quote": "Adidas has unveiled the Germany national team Home kit for the 2026 World Cup cycle, marking the final Home design released under the current long-standing partnership",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Kit maker, listed as partner per the convention for kit suppliers. FSC's launch description covers every mark on the shirt: the black/red/gold diamond chest graphic, three black shoulder stripes, black collar with red trim, and 'a woven label near the hem reads “adidas Germany – Seit 1954”'. The six launch photos (worn and flat shirt, front, sleeves, shorts, socks) show only the adidas performance logo, the DFB crest, the sleeve-cuff trim and a Climacool+ authenticity mark: no commercial sponsor on any placement."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "No sponsors on the shirt: adidas's white 2026 home shirt (the final home design under its current partnership with the DFB) carries only the adidas logo, the DFB crest and the black-red-gold diamond graphic; the launch photos show plain sleeves and black adidas-striped shorts (Football Shirt Culture's launch description and images).",
+    "change": null,
+    "shortLine": "No sponsors on the shirt"
+  },
+  {
     "id": "germany-sailgp-2026-home",
     "clubId": "germany-sailgp",
     "season": "2026",
@@ -10311,6 +11735,65 @@
     "change": null
   },
   {
+    "id": "iran-2026-home",
+    "clubId": "iran",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "majid",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: Iran 2026 World Cup Home & Away Kits Released",
+          "date": "2026-05-15",
+          "url": "https://www.footyheadlines.com/2026/05/new-iran-2026-world-cup-home-kit_01728064430.html",
+          "quote": "The Iran 2026 World Cup home kit, made by Majid, is similar to the 2022 jersey",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Majid kit (unveiled at an Iranian Football Federation event, May 2026). No commercial shirt sponsor: Footy Headlines' launch photos and description of the home shirt show only the Majid logo and the federation crest, with the back carrying name and number only and no other logo mentioned; SportsLogos.Net likewise names Majid as the sole manufacturer.",
+    "change": null
+  },
+  {
+    "id": "iraq-2026-home",
+    "clubId": "iraq",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "jako",
+        "placement": "partner",
+        "source": {
+          "name": "JAKO AG Newsblog: 'JAKO präsentiert WM-Trikots der irakischen Nationalmannschaft'",
+          "date": "2026",
+          "url": "https://www.jako.com/de-de/ueber-jako/newsblog/jako-praesentiert-wm-trikots-der-irakischen-nationalmannschaft-3688/",
+          "note": "Kit maker (JAKO AG launch announcement for the Iraq 2026 World Cup home, away and third kits; German article with an English section on the same page, hence the date shown only as 2026). JAKO's announcement is corroborated by the kit-launch coverage in the named press: Football Fashion and Footy Headlines (both 2026-05-22) and Iraqi News/INA (2026-05-23), which report the Iraqi Football Association unveiling the JAKO-made tournament kits. No commercial shirt sponsor: the launch reports describe only the Iraq FA badge, the Iraqi-flag collar and cuffs and JAKO's trademark shoulder logos on the white home shirt, with matching white shorts and socks (Football Fashion: 'Jako's signature dot detailing runs along the top of both sleeves, and the Iraqi Football Association badge sits on the right chest.'); no front, back, sleeve, shorts or patch sponsor appears in the JAKO launch photography. The JAKO article's title is 'JAKO präsentiert WM-Trikots der irakischen Nationalmannschaft'.",
+          "quote": "The Iraqi national team will take to the pitch at the 2026 FIFA World Cup in new kits from JAKO.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "JAKO home kit for the 2026 World Cup (Iraq's first since 1986), released May 2026. No commercial shirt sponsors: JAKO's launch announcement and the kit-launch coverage (Football Fashion, Footy Headlines, 22 May 2026; Iraqi News/INA, 23 May 2026) describe only the Iraq FA badge, an Iraqi-flag collar and cuffs and JAKO's shoulder logos on the white home shirt, with matching white shorts and socks.",
+    "change": null
+  },
+  {
     "id": "jacksonville-jaguars-2026-27-home",
     "clubId": "jacksonville-jaguars",
     "season": "2026-27",
@@ -10363,9 +11846,9 @@
     "clubId": "japan",
     "season": "2026",
     "kitType": "home",
-    "periodLabel": "2026 (launched November 2025)",
-    "periodFrom": "2025-11",
-    "periodTo": null,
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
     "photos": {},
     "sponsors": [
       {
@@ -11640,9 +13123,80 @@
     "periodFrom": "2025-26",
     "periodTo": "2025-26",
     "photos": {},
-    "sponsors": [],
-    "sponsorsComplete": false,
-    "summary": null,
+    "sponsors": [
+      {
+        "sponsorId": "lola",
+        "placement": "front",
+        "source": {
+          "name": "ABB FIA Formula E World Championship: LOLA YAMAHA ABT FORMULA E TEAM (team page; brand in team name)",
+          "date": "2026",
+          "url": "https://www.fiaformulae.com/en/teams/lola-yamaha-abt-formula-e-team",
+          "quote": "LOLA YAMAHA ABT FORMULA E TEAM",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "yamaha-motor",
+        "placement": "front",
+        "source": {
+          "name": "ABB FIA Formula E World Championship: LOLA YAMAHA ABT FORMULA E TEAM (team page; brand in team name)",
+          "date": "2026",
+          "url": "https://www.fiaformulae.com/en/teams/lola-yamaha-abt-formula-e-team",
+          "quote": "LOLA YAMAHA ABT FORMULA E TEAM",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "abt-sportsline",
+        "placement": "front",
+        "source": {
+          "name": "ABB FIA Formula E World Championship: LOLA YAMAHA ABT FORMULA E TEAM (team page; brand in team name)",
+          "date": "2026",
+          "url": "https://www.fiaformulae.com/en/teams/lola-yamaha-abt-formula-e-team",
+          "quote": "LOLA YAMAHA ABT FORMULA E TEAM",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "paceteq",
+        "placement": "partner",
+        "source": {
+          "name": "Lola Yamaha ABT: Partners (team website, 'Our partners')",
+          "date": "2026",
+          "url": "https://lola-fe.com/partners",
+          "quote": "PACETEQ is the go-to expert for motorsport software and data solutions",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "takasago",
+        "placement": "partner",
+        "source": {
+          "name": "Lola Yamaha ABT: Partners (team website, 'Our partners')",
+          "date": "2026",
+          "url": "https://lola-fe.com/partners",
+          "quote": "Takasago, Ltd. a group company of Anritsu is a cutting-edge industrial power supply manufacturer",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Team-name partners Lola, Yamaha and ABT on the front (the repo's Formula E convention: brands in the team name). The team's partners page lists four partners: PACETEQ, ABT, Yamaha Motor Company and Takasago.",
     "change": null
   },
   {
@@ -11661,12 +13215,48 @@
         "source": {
           "name": "London City Lionesses, official announcement",
           "date": "2026-09-03",
-          "url": "https://www.londoncitylionesses.com/post/london-city-lionesses-and-nike-announce-landmark-multi-year-deal"
+          "url": "https://www.londoncitylionesses.com/post/london-city-lionesses-and-nike-announce-landmark-multi-year-deal",
+          "note": "The club's own announcement of the front-of-shirt deal. No sleeve, back or shorts sponsor is announced anywhere by the club or named press.",
+          "quote": "today announce a landmark multi-year front-of-shirt partnership with Nike",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "London City Lionesses, official announcement",
+          "date": "2026-09-03",
+          "url": "https://www.londoncitylionesses.com/post/london-city-lionesses-and-nike-announce-landmark-multi-year-deal",
+          "note": "Nike is the club's kit supplier; the announcement confirms an existing technical partnership, extended by four years from 2027-28.",
+          "quote": "London City and Nike have also agreed to a four-year extension of their existing technical partnership",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "mastercard",
+        "placement": "partner",
+        "source": {
+          "name": "London City Lionesses, official announcement",
+          "date": "2025-12-05",
+          "url": "https://www.londoncitylionesses.com/post/mastercard-named-new-london-city-lionesses-partner",
+          "note": "Official club partner and naming partner of the Sister Clubs programme; no shirt placement is stated in the announcement.",
+          "quote": "As an official partner of our club, Mastercard will offer cardholders and our supporters a range of Priceless Experiences",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "Nike put its swoosh on the front of the London City Lionesses shirt in what owner Michele Kang calls a record women's shirt deal.",
+    "sponsorsComplete": true,
+    "summary": "Nike put its swoosh on the front of the London City Lionesses shirt in what owner Michele Kang calls a record women's shirt deal. Mastercard is an official club partner, off the shirt.",
     "change": {
       "kind": "better",
       "text": "New to the WSL: promoted as WSL2 champions with Nike on the front",
@@ -11920,9 +13510,55 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
+    "sponsors": [
+      {
+        "sponsorId": "rapyd",
+        "placement": "front",
+        "source": {
+          "name": "Rapyd: A New Era in Israeli Basketball: Maccabi Tel Aviv and Rapyd Sign Groundbreaking 7-Year Sponsorship Agreement",
+          "date": "2025-07-15",
+          "url": "https://www.rapyd.net/company/news/press-releases/rapyd-maccabi-sponsorship",
+          "quote": "and Rapyd’s logo will proudly appear on the front of the players’ jerseys",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Title/main sponsor since July 2025: the team plays as Maccabi Rapyd Tel Aviv. The Rapyd wordmark sits under the chest number on the 2026/27 home jersey in the club's launch photos (23 Sep 2026) and EuroLeague/cup game photos (24 and 27 Sep 2026)."
+        }
+      },
+      {
+        "sponsorId": "rapyd",
+        "placement": "shorts",
+        "source": {
+          "name": "Maccabi Tel Aviv B.C.: משחקים בשביל הסמל: המדים הצהובים החדשים",
+          "date": "2026-09-23",
+          "url": "https://maccabi.co.il/%d7%9e%d7%a9%d7%97%d7%a7%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%99%d7%9c-%d7%94%d7%a1%d7%9e%d7%9c-%d7%94%d7%9e%d7%93%d7%99%d7%9d-%d7%94%d7%a6%d7%94%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%97%d7%93%d7%a9%d7%99/",
+          "quote": "מכבי Rapyd תל אביב חושפת עם adidas את סט המדים המוביל",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "The Rapyd wordmark sits on the lower front of one leg of the shorts, next to the adidas mark, in the club's launch photos for this kit on this page (23 Sep 2026)."
+        }
+      },
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "Maccabi Tel Aviv B.C.: משחקים בשביל הסמל: המדים הצהובים החדשים",
+          "date": "2026-09-23",
+          "url": "https://maccabi.co.il/%d7%9e%d7%a9%d7%97%d7%a7%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%99%d7%9c-%d7%94%d7%a1%d7%9e%d7%9c-%d7%94%d7%9e%d7%93%d7%99%d7%9d-%d7%94%d7%a6%d7%94%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%97%d7%93%d7%a9%d7%99/",
+          "quote": "מכבי Rapyd תל אביב חושפת עם adidas את סט המדים המוביל",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Kit maker: adidas mark on the chest of the jersey and on the shorts, three stripes down the sides of both. The same article says: 'שלושת הפסים המפורסמים של adidas מעטרים את צדי הגוף'."
+        }
+      }
+    ],
     "sponsorsComplete": false,
-    "summary": null,
+    "summary": "Rapyd is on the front of the 2026/27 home jersey (under the chest number) and on the front of the shorts; adidas is the kit maker. Not marked complete: no cited source shows the back of the jersey (the club's launch photos and the game photos consulted show fronts only), so a back sponsor can't be ruled out. The EuroLeague/Etihad patch (EuroLeague games) and the 'ליגת Winner' patch (domestic games) are competition marks, not club sponsors.",
     "change": null
   },
   {
@@ -13313,7 +14949,13 @@
         "source": {
           "name": "Minnesota Timberwolves (nba.com)",
           "date": "2024-08-12",
-          "url": "https://www.nba.com/timberwolves/news/timberwolves-name-sezzle-official-jersey-patch-partner"
+          "url": "https://www.nba.com/timberwolves/news/timberwolves-name-sezzle-official-jersey-patch-partner",
+          "quote": "We are thrilled to announce Sezzle as the official jersey patch partner for the Minnesota Timberwolves.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "BigBossRabbit"
+          },
+          "note": "Announced 12 August 2024, a multi-year partnership; the release does not restate the 2026-27 season."
         }
       }
     ],
@@ -13397,14 +15039,48 @@
         "sponsorId": "monster-energy",
         "placement": "front",
         "source": {
-          "name": "Yamaha Motor - Monster Energy Yamaha MotoGP Enter V4 Era and Unveil 2026 Livery at Indonesia Launch Event",
+          "name": "Yamaha Motor: Monster Energy Yamaha MotoGP Enter V4 Era and Unveil 2026 Livery at Indonesia Launch Event",
           "date": "2026-01-22",
-          "url": "https://global.yamaha-motor.com/race/release/2026/003/"
+          "url": "https://global.yamaha-motor.com/race/release/2026/003/",
+          "quote": "the Monster Energy Yamaha MotoGP Team can once again rely on team Title Sponsor Monster Energy Company’s full support",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "dp-world",
+        "placement": "partner",
+        "source": {
+          "name": "DP World: DP World Looks to Power Yamaha's Global Racing Operations",
+          "date": "2026-01-26",
+          "url": "https://www.dpworld.com/en/news/dp-world-looks-to-power-yamahas-global-racing-operations",
+          "quote": "appointed DP World as its Official Logistics Partner for its MotoGP, WorldSBK, and WorldSSP racing teams",
+          "note": "Yamaha's 2026 launch release says the DP World logo appears on the 2026 M1 bike.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "eneos",
+        "placement": "partner",
+        "source": {
+          "name": "ENEOS USA: MotoGP",
+          "date": "2026",
+          "url": "https://www.eneos.us/team-eneos/motogp",
+          "quote": "ENEOS proudly sponsors Yamaha Factory Racing, working with the Monster Energy Yamaha MotoGP team worldwide",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": null,
+    "summary": "Monster Energy is the title sponsor (front); DP World and ENEOS are sponsors named in Yamaha's, DP World's and ENEOS's own pages. The list isn't complete: the team's other sponsors and partners aren't sourced yet.",
     "change": null
   },
   {
@@ -13557,23 +15233,65 @@
         "sponsorId": "mubadala",
         "placement": "front",
         "source": {
-          "name": "SailGP team page - Mubadala Brazil (Title Partner)",
-          "date": "2026-09-25",
-          "url": "https://www.sailgp.com/teams/mubadala-brazil/"
+          "name": "SailGP team page - Mubadala Brazil (Title Partner group)",
+          "date": "2026-09-30",
+          "url": "https://www.sailgp.com/teams/mubadala-brazil/",
+          "note": "Team page partner groups are rendered by script; contents confirmed on 2026-09-30 from the page's embedded data (Title Partner: Mubadala)."
         }
       },
       {
         "sponsorId": "enel",
         "placement": "partner",
         "source": {
-          "name": "SailGP team page - Mubadala Brazil (Official Partner)",
-          "date": "2026-09-25",
-          "url": "https://www.sailgp.com/teams/mubadala-brazil/"
+          "name": "SailGP team page - Mubadala Brazil (Official Partner group)",
+          "date": "2026-09-30",
+          "url": "https://www.sailgp.com/teams/mubadala-brazil/",
+          "note": "Team page partner groups are rendered by script; contents confirmed on 2026-09-30 from the page's embedded data (Official Partners: Enel, Oakberry, Ballena, Atvos, Mattos Filho)."
+        }
+      },
+      {
+        "sponsorId": "atvos",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - Mubadala Brazil (Official Partner group)",
+          "date": "2026-09-30",
+          "url": "https://www.sailgp.com/teams/mubadala-brazil/",
+          "note": "Team page partner groups are rendered by script; contents confirmed on 2026-09-30 from the page's embedded data (Official Partners: Enel, Oakberry, Ballena, Atvos, Mattos Filho)."
+        }
+      },
+      {
+        "sponsorId": "oakberry",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - Mubadala Brazil (Official Partner group)",
+          "date": "2026-09-30",
+          "url": "https://www.sailgp.com/teams/mubadala-brazil/",
+          "note": "Team page partner groups are rendered by script; contents confirmed on 2026-09-30 from the page's embedded data (Official Partners: Enel, Oakberry, Ballena, Atvos, Mattos Filho)."
+        }
+      },
+      {
+        "sponsorId": "ballena",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - Mubadala Brazil (Official Partner group)",
+          "date": "2026-09-30",
+          "url": "https://www.sailgp.com/teams/mubadala-brazil/",
+          "note": "Team page partner groups are rendered by script; contents confirmed on 2026-09-30 from the page's embedded data (Official Partners: Enel, Oakberry, Ballena, Atvos, Mattos Filho)."
+        }
+      },
+      {
+        "sponsorId": "mattos-filho",
+        "placement": "partner",
+        "source": {
+          "name": "SailGP team page - Mubadala Brazil (Official Partner group)",
+          "date": "2026-09-30",
+          "url": "https://www.sailgp.com/teams/mubadala-brazil/",
+          "note": "Team page partner groups are rendered by script; contents confirmed on 2026-09-30 from the page's embedded data (Official Partners: Enel, Oakberry, Ballena, Atvos, Mattos Filho)."
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "Abu Dhabi's sovereign fund pays for the name on Brazil's F50: Mubadala Capital owns the team and Mubadala is its Title Partner.",
+    "sponsorsComplete": true,
+    "summary": "Abu Dhabi's sovereign fund pays for the name on Brazil's F50: Mubadala Capital owns the team and Mubadala is its Title Partner, and biofuel sponsor Atvos is also controlled by Mubadala Capital.",
     "change": null
   },
   {
@@ -13769,9 +15487,9 @@
     "clubId": "netherlands",
     "season": "2026",
     "kitType": "home",
-    "periodLabel": "2026-2028",
+    "periodLabel": "2026",
     "periodFrom": "2026",
-    "periodTo": "2026-28",
+    "periodTo": "2026",
     "photos": {},
     "sponsors": [
       {
@@ -14029,16 +15747,50 @@
         "sponsorId": "red-bull",
         "placement": "front",
         "source": {
-          "name": "newyorkredbulls.com",
+          "name": "FOR SOCCER",
           "date": "2026-02-17",
-          "url": null,
-          "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.newyorkredbulls.com/club/partners"
+          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+          "quote": "New York Red Bulls Red Bull Consumer Products",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Front-of-jersey table of For Soccer's 2026 MLS jersey sponsor survey. The club is owned by Red Bull GmbH and named after it. Earlier club partners-page link 404s (removed 2026-09-25)."
+        }
+      },
+      {
+        "sponsorId": "oanda",
+        "placement": "sleeve",
+        "source": {
+          "name": "OANDA press release – 'New York Red Bulls And OANDA Extend Partnership'",
+          "date": "2025-02-17",
+          "url": "https://www.oanda.com/group/press-release/new-york-red-bulls-and-oanda-extend-partnership/",
+          "quote": "the partnership will continue to see OANDA’s logo proudly displayed on RBNY’s first team apparel including the jersey sleeve patch",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Right sleeve; extended 'for years to come'. For Soccer's 2026 MLS jersey sponsor survey confirms OANDA on NYRB's right sleeve for the 2026 season: https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "FOR SOCCER",
+          "date": "2026-02-17",
+          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+          "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit. Red Bull fronts the jersey — the club is owned by Red Bull — with OANDA on the right sleeve."
   },
   {
     "id": "new-york-yankees-2026-27-home",
@@ -15014,9 +16766,55 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
+    "sponsors": [
+      {
+        "sponsorId": "pame-stoixima",
+        "placement": "front",
+        "source": {
+          "name": "gazzetta.gr: Η adidas και ο Παναθηναϊκός AKTOR παρουσιάζουν τη νέα εντός έδρας εμφάνιση για τη σεζόν 2026/27",
+          "date": "2026-09-15",
+          "url": "https://www.gazzetta.gr/plus/2569336/i-adidas-kai-o-panathinaikos-aktor-paroysiazoyn-ti-nea-entos-edras-emfanisi-gia-ti",
+          "quote": "Η adidas και η ΚΑΕ Παναθηναϊκός AKTOR παρουσιάζουν τη νέα εντός έδρας εμφάνιση της ομάδας για τη σεζόν 2026/27",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "The club's kit-launch press release as published by gazzetta.gr, with the launch photo: the pame stoixima logo sits large on the front of the 2026/27 home jersey, below the number. OPAP's sponsorship page (corporate.opap.gr/en/company/sponsorships, archived 17 Apr 2026) names Pame Stoixima as the Grand Sponsor of Panathinaikos BC."
+        }
+      },
+      {
+        "sponsorId": "bp",
+        "placement": "shorts",
+        "source": {
+          "name": "gazzetta.gr: Η adidas και ο Παναθηναϊκός AKTOR παρουσιάζουν τη νέα εντός έδρας εμφάνιση για τη σεζόν 2026/27",
+          "date": "2026-09-15",
+          "url": "https://www.gazzetta.gr/plus/2569336/i-adidas-kai-o-panathinaikos-aktor-paroysiazoyn-ti-nea-entos-edras-emfanisi-gia-ti",
+          "quote": "Η adidas και η ΚΑΕ Παναθηναϊκός AKTOR παρουσιάζουν τη νέα εντός έδρας εμφάνιση της ομάδας για τη σεζόν 2026/27",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "The club's kit-launch press release as published by gazzetta.gr, with the launch photo: the bp Helios logo is on the lower front of one leg of the shorts. The club's own launch page (paobc.gr, 13 Sep 2026) carries the same photo but can't be opened by a script."
+        }
+      },
+      {
+        "sponsorId": "aktor",
+        "placement": "partner",
+        "source": {
+          "name": "newmoney.gr: O Όμιλος AKTOR επεκτείνει την συνεργασία του με την ΚΑΕ Παναθηναϊκός – AKTOR",
+          "date": "2024-11-05",
+          "url": "https://www.newmoney.gr/roh/palmos-oikonomias/epixeiriseis/o-omilos-aktor-epektini-tin-sinergasia-tou-me-tin-kae-panathinaikos-aktor/",
+          "quote": "ανανέωσε τη χορηγία ονοματοδοσίας και, ταυτόχρονα, παρέδωσε στην ομάδα ένα γήπεδο",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "AKTOR Group's press release of 5 Nov 2024 as published by newmoney.gr: the naming sponsorship was extended for three more seasons, to 2028-29, so the team plays as Panathinaikos AKTOR. Naming partner only: the AKTOR wordmark is not on the front of the 2026/27 home jersey or on the shorts in the launch photo; no photo of the back was found."
+        }
+      }
+    ],
     "sponsorsComplete": false,
-    "summary": null,
+    "summary": "Pame Stoixima (OPAP's betting brand) is on the front of the jersey below the number; bp is on the lower front of one leg of the shorts; AKTOR is the naming partner (the team plays as Panathinaikos AKTOR). The EuroLeague badge with the Etihad wordmark on the chest and the shorts is the competition's own badge, not counted as a sponsor, as on other EuroLeague kits. adidas is the kit maker. Not marked complete: no cited source shows the back of the 2026/27 home jersey, so a sponsor above or below the back number can't be ruled out.",
     "change": null
   },
   {
@@ -15433,9 +17231,122 @@
     "periodFrom": "2025-26",
     "periodTo": "2025-26",
     "photos": {},
-    "sponsors": [],
-    "sponsorsComplete": false,
-    "summary": null,
+    "sponsors": [
+      {
+        "sponsorId": "mobil-1",
+        "placement": "partner",
+        "source": {
+          "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+          "date": "2025-10-08",
+          "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+          "quote": "In addition to TAG Heuer, other partners will remain part of the team: Mobil 1, LOCTITE, PUMA, NetApp and Cato Networks, while ANSYS is now known as Synopsys.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "tdk",
+        "placement": "partner",
+        "source": {
+          "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+          "date": "2025-10-08",
+          "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+          "quote": "The Japanese company TDK Corporation is joining as a new on-car partner.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "loctite",
+        "placement": "partner",
+        "source": {
+          "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+          "date": "2025-10-08",
+          "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+          "quote": "In addition to TAG Heuer, other partners will remain part of the team: Mobil 1, LOCTITE, PUMA, NetApp and Cato Networks, while ANSYS is now known as Synopsys.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "tag-heuer",
+        "placement": "partner",
+        "source": {
+          "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+          "date": "2025-10-08",
+          "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+          "quote": "The previous title and timing partner will continue to support the Formula E factory team but with a reduced presence",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "puma",
+        "placement": "partner",
+        "source": {
+          "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+          "date": "2025-10-08",
+          "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+          "quote": "In addition to TAG Heuer, other partners will remain part of the team: Mobil 1, LOCTITE, PUMA, NetApp and Cato Networks, while ANSYS is now known as Synopsys.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "synopsys",
+        "placement": "partner",
+        "source": {
+          "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+          "date": "2025-10-08",
+          "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+          "quote": "In addition to TAG Heuer, other partners will remain part of the team: Mobil 1, LOCTITE, PUMA, NetApp and Cato Networks, while ANSYS is now known as Synopsys.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "netapp",
+        "placement": "partner",
+        "source": {
+          "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+          "date": "2025-10-08",
+          "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+          "quote": "In addition to TAG Heuer, other partners will remain part of the team: Mobil 1, LOCTITE, PUMA, NetApp and Cato Networks, while ANSYS is now known as Synopsys.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "cato-networks",
+        "placement": "partner",
+        "source": {
+          "name": "Porsche Newsroom: New name, new partner for Porsche in Formula E",
+          "date": "2025-10-08",
+          "url": "https://newsroom.porsche.com/en/2025/motorsports/porsche-formula-e-factory-team-partner-40748.html",
+          "quote": "In addition to TAG Heuer, other partners will remain part of the team: Mobil 1, LOCTITE, PUMA, NetApp and Cato Networks, while ANSYS is now known as Synopsys.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Season 12 (2025/26) Porsche 99X Electric, team renamed Porsche Formula E Team: TAG Heuer stepped back from title partner to timing partner, so no front sponsor. Porsche lists eight partners - Mobil 1, TDK, LOCTITE, TAG Heuer, PUMA (teamwear), Synopsys (formerly Ansys), NetApp, Cato Networks - all recorded as partner.",
     "change": null
   },
   {
@@ -15677,6 +17588,66 @@
     ],
     "sponsorsComplete": true,
     "summary": "adidas home kit for the 2026 World Cup cycle. No commercial shirt sponsors: kit-press write-ups describe only the QFA crest, adidas branding and 'Qatar' in Arabic on the upper back.",
+    "change": null
+  },
+  {
+    "id": "qingdao-hainiu-2026-home",
+    "clubId": "qingdao-hainiu",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "laoshan-cola",
+        "placement": "front",
+        "source": {
+          "name": "青岛日报社/观海新闻 (Qingdao Daily / dailyqd.com): 百年匠心致敬绿茵，崂山可乐携手青岛海牛足球俱乐部共启2026新赛季",
+          "date": "2026-03-05",
+          "url": "https://www.dailyqd.com/guanhai/439032_1.html",
+          "quote": "青岛崂山矿泉水有限公司与俱乐部正式签署赞助协议，旗下“崂山”品牌将成为球队新赛季官方赞助商，“崂山可乐”将出现在海牛队新赛季主客场球衣胸前",
+          "note": "Translation: 'Qingdao Laoshan Mineral Water Co., Ltd. formally signed the sponsorship agreement; its Laoshan brand will be the team's official sponsor, and Laoshan Cola will appear on the front of the team's home and away shirts this season.'",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "laoshan-beer",
+        "placement": "sleeve",
+        "source": {
+          "name": "网易 (NetEase, 易瞰青岛): 青岛信仰·青春力量 青岛海牛足球俱乐部2026赛季出征仪式圆满举行",
+          "date": "2026-03-04",
+          "url": "https://c.m.163.com/news/a/KN73SLM105148U2B.html",
+          "quote": "青岛啤酒股份有限公司的崂山啤酒将继续为球队球衣的臂章广告",
+          "note": "Translation: 'Tsingtao Brewery Co., Ltd.'s Laoshan Beer will continue as the team's shirt sleeve-badge (臂章) advertisement.' Same arrangement reported by Sohu and by Dongqiudi's reprint of the club's own announcement.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "Nike Inc. China (nikeinc.com.cn): 城市即主场，耐克发布中超俱乐部新赛季全新装备 (Nike releases CSL clubs' new-season kits)",
+          "date": "2026-01-27",
+          "url": "https://www.nikeinc.com.cn/html/page-4276.html",
+          "quote": "新赛季青岛海牛主场球衣通过由队徽向外延展的光影纹样呈现球队的速度与活力。亮橙色辅以深蓝色点缀相互呼应",
+          "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. The Qingdao Hainiu home-kit description sits inside Nike's own release of the CSL clubs' new-season kits. The club's own launch text (via Dongqiudi, 2026-01-28, https://m.dongqiudi.com/article/5635999.html) also says the club will sell the Nike fan version of the home shirt.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Nike home kit (orange with deep blue, launched 28 Jan 2026). Laoshan Cola (Qingdao Beverage Group) debuted as front sponsor and Laoshan Beer (Tsingtao Brewery) continues as sleeve badge, per the club's 4 March 2026 season-launch ceremony. Back of shirt and shorts sponsors not documented in the available sources, so the list is not marked complete. Qingdao Bank and Qingdao Rural Commercial Bank are club strategic partners with no stated shirt placement.",
     "change": null
   },
   {
@@ -16507,32 +18478,125 @@
         "sponsorId": "red-bull",
         "placement": "front",
         "source": {
-          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
-          "date": "2026-07-14",
-          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          "name": "Specialized: Red Bull - BORA - hansgrohe Short Sleeve Race Jersey",
+          "date": "2026",
+          "url": "https://www.specialized.com/us/en/red-bull-bora-hansgrohe-short-sleeve-race-jersey/p/1000277927",
+          "quote": "Red Bull - BORA - hansgrohe team graphics",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "Title sponsor. Specialized's photos of the 2026 race jersey (https://resources.specialized.com/image/65726-140_APP_RBH-RACE-JERSEY-SS-LTD-WHT-RB-BLU_HERO-PDP, https://resources.specialized.com/image/65726-140_APP_RBH-RACE-JERSEY-SS-LTD-WHT-RB-BLU_BACK) show the Red Bull bulls and wordmark across the chest and the upper back, and the bulls on the legs of the shorts."
         }
       },
       {
         "sponsorId": "bora",
         "placement": "front",
         "source": {
-          "name": "The Inner Ring — Pro Team Sponsors Explained",
-          "date": "2026-07-10",
-          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+          "name": "Specialized: Red Bull - BORA - hansgrohe Short Sleeve Race Jersey",
+          "date": "2026",
+          "url": "https://www.specialized.com/us/en/red-bull-bora-hansgrohe-short-sleeve-race-jersey/p/1000277927",
+          "quote": "Red Bull - BORA - hansgrohe team graphics",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "Title sponsor. Specialized's photos of the 2026 race jersey (https://resources.specialized.com/image/65726-140_APP_RBH-RACE-JERSEY-SS-LTD-WHT-RB-BLU_HERO-PDP, https://resources.specialized.com/image/65726-140_APP_RBH-RACE-JERSEY-SS-LTD-WHT-RB-BLU_BACK) show 'BORA' under Red Bull on the chest and the upper back, on the blue shoulders and on both legs of the shorts."
         }
       },
       {
         "sponsorId": "hansgrohe",
         "placement": "front",
         "source": {
-          "name": "The Inner Ring — Pro Team Sponsors Explained",
-          "date": "2026-07-10",
-          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+          "name": "Specialized: Red Bull - BORA - hansgrohe Short Sleeve Race Jersey",
+          "date": "2026",
+          "url": "https://www.specialized.com/us/en/red-bull-bora-hansgrohe-short-sleeve-race-jersey/p/1000277927",
+          "quote": "Red Bull - BORA - hansgrohe team graphics",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "Title sponsor. Specialized's photos of the 2026 race jersey (https://resources.specialized.com/image/65726-140_APP_RBH-RACE-JERSEY-SS-LTD-WHT-RB-BLU_HERO-PDP, https://resources.specialized.com/image/65726-140_APP_RBH-RACE-JERSEY-SS-LTD-WHT-RB-BLU_BACK) show 'hansgrohe' under BORA on the chest and the upper back, on the blue shoulders, down the green side panels and on the back of the shorts."
+        }
+      },
+      {
+        "sponsorId": "grenke",
+        "placement": "front",
+        "source": {
+          "name": "Red Bull – BORA – hansgrohe: Flying Look: Red Bull – BORA – hansgrohe takes off with a style update",
+          "date": "2025-12-15",
+          "url": "https://www.redbullborahansgrohe.com/en/news/flying-look-red-bull-bora-hansgrohe-takes-off-with-a-style-update",
+          "quote": "Red Bull – BORA – hansgrohe enters the 2026 season together with Specialized with a new look – while staying true to its own history.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "The article's photo of Florian Lipowitz in the 2026 jersey (https://img.redbull.com/images/q_auto,f_auto/redbullcom/2025/12/14/qphmsaesmd9j0ripzdd8/florian-lipowitz-2026-jersey) shows 'grenke' on both sides of the chest at collar height. The article doesn't name grenke as a sponsor of the WorldTeam; it names the junior team grenke – Auto Eder."
+        }
+      },
+      {
+        "sponsorId": "boss",
+        "placement": "sleeve",
+        "source": {
+          "name": "HUGO BOSS press release: BOSS announces sponsorship of Red Bull-BORA-hansgrohe cycling team",
+          "date": "2024-06-26",
+          "url": "https://group.hugoboss.com/en/newsroom/news/news-detail/boss-announces-sponsorship-of-red-bull-bora-hansgrohe-cycling-team",
+          "quote": "during competitions, the BOSS logo will be prominently featured along both sleeves and across the center of the jerseys",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "On the 2026 jersey 'BOSS' runs down both sleeves and sits on the right chest (photo of Florian Lipowitz in the team's launch article of 15 December 2025: https://img.redbull.com/images/q_auto,f_auto/redbullcom/2025/12/14/qphmsaesmd9j0ripzdd8/florian-lipowitz-2026-jersey)."
+        }
+      },
+      {
+        "sponsorId": "mewa",
+        "placement": "sleeve",
+        "source": {
+          "name": "Red Bull – BORA – hansgrohe: Mewa extends its partnership with Red Bull - BORA - hansgrohe",
+          "date": "2024-12-18",
+          "url": "https://www.redbullborahansgrohe.com/en/news/mewa-extends",
+          "quote": "Mewa extends its partnership with Red Bull - BORA - hansgrohe for another two years. The new contract provides for greater visibility of the textile service provider. This includes logo placement on jerseys and team vehicles.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "'Mewa' is on the red cuffs of both sleeves of the 2026 jersey (photo of Florian Lipowitz in the team's launch article of 15 December 2025: https://img.redbull.com/images/q_auto,f_auto/redbullcom/2025/12/14/qphmsaesmd9j0ripzdd8/florian-lipowitz-2026-jersey)."
+        }
+      },
+      {
+        "sponsorId": "auto-eder",
+        "placement": "back",
+        "source": {
+          "name": "Specialized: Red Bull - BORA - hansgrohe Short Sleeve Race Jersey",
+          "date": "2026",
+          "url": "https://www.specialized.com/us/en/red-bull-bora-hansgrohe-short-sleeve-race-jersey/p/1000277927",
+          "quote": "Red Bull - BORA - hansgrohe Short Sleeve Race Jersey",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "Schnitzel"
+          },
+          "note": "Specialized's back photo of the 2026 race jersey (https://resources.specialized.com/image/65726-140_APP_RBH-RACE-JERSEY-SS-LTD-WHT-RB-BLU_BACK) shows 'AUTO EDER' in small type at the top of the back, below the collar. The page's text doesn't name Auto Eder."
+        }
+      },
+      {
+        "sponsorId": "specialized",
+        "placement": "partner",
+        "source": {
+          "name": "Red Bull – BORA – hansgrohe: Ready for takeoff: Our new collection is now available",
+          "date": "2026-01-06",
+          "url": "https://www.redbullborahansgrohe.com/en/news/260106-rbh-collection-2026",
+          "quote": "The collection follows the design approach developed together with Specialized",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Kit maker, recorded as partner per existing convention. Specialized's own photos of the race jersey (https://resources.specialized.com/image/65726-140_APP_RBH-RACE-JERSEY-SS-LTD-WHT-RB-BLU_HERO-PDP, https://resources.specialized.com/image/65726-140_APP_RBH-RACE-JERSEY-SS-LTD-WHT-RB-BLU_BACK) show its S logo on the chest and both rear shoulders, 'SPECIALIZED' on the lower back, and the S logo on the shorts."
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "2026 UCI WorldTeam. Red Bull-Bora-Hansgrohe's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "sponsorsComplete": true,
+    "summary": "Title sponsors Red Bull, BORA and hansgrohe fill the chest and the upper back; grenke sits on the chest at collar height, BOSS on the chest and down both sleeves, Mewa on the sleeve cuffs and Auto Eder at the top of the back. Specialized makes the kit. Marked complete: Specialized's photos of the 2026 race jersey and shorts, front and back (https://www.specialized.com/us/en/red-bull-bora-hansgrohe-short-sleeve-race-jersey/p/1000277927), and the team's launch photos of 15 December 2025 show no other sponsor.",
     "change": null
   },
   {
@@ -16558,14 +18622,20 @@
         "sponsorId": "azimut",
         "placement": "partner",
         "source": {
-          "name": "SailGP team page - Red Bull Italy (Global Partners)",
-          "date": "2026-09-25",
-          "url": "https://www.sailgp.com/teams/red-bull-italy/"
+          "name": "Pressmare: Red Bull Italy SailGP welcomes Azimut as Global Partner",
+          "date": "2026-01-15",
+          "url": "https://www.pressmare.it/en/team/red-bull-ita-sailgp-team/2026-01-15/red-bull-italy-sailgp-welcomes-azimut-as-global-partner-87770",
+          "quote": "joins the team as Global Partner for the upcoming 2026 Rolex SailGP Championship",
+          "note": "The team's own announcement ('By Red Bull Ita SailGP Team'). SailGP's team page (sailgp.com/teams/red-bull-italy/) lists Azimut as the team's only Global Partner.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "claude-maint-871 (Claude Code, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Red Bull is in the team's name itself rather than a bought placement; Azimut is the team's Global Partner. Red Bull also became a SailGP league global partner in January 2026. Azimut has no sponsor entry yet.",
+    "summary": "Red Bull is in the team's name itself rather than a bought placement; Azimut, the asset and wealth management group, is the team's Global Partner, with the Azimut Investments logo on the hull of the F50. Red Bull also became a SailGP league global partner in January 2026. Not marked complete: only the title sponsor and the Global Partner were checked.",
     "change": null
   },
   {
@@ -17001,6 +19071,96 @@
     "sponsorsComplete": false,
     "summary": "Kazanorgsintez general sponsor; shirt placement not confirmed against a kit launch.",
     "change": null
+  },
+  {
+    "id": "rugby-australia-2026-27-home",
+    "clubId": "rugby-australia",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "cadbury",
+        "placement": "front",
+        "source": {
+          "name": "Sportcal: 'Cadbury extends Wallabies partnership through 2029'",
+          "date": "2024-07-05",
+          "url": "https://www.sportcal.com/sponsorship/cadbury-extends-wallabies-partnership-through-2029/",
+          "quote": "the partnership through 2029, sees Cadbury continue as the principal partner of the team, with its branding remaining on the front of Wallabies shirts",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "castore",
+        "placement": "partner",
+        "source": {
+          "name": "Rugby Australia: 'Rugby Australia and Castore announce new landmark partnership'",
+          "date": "2026-01-23",
+          "url": "https://www.rugby.com.au/news/rugby-australia-and-castore-announce-new-landmark-partnership-2026123",
+          "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers.",
+          "quote": "the Wallabies, Wallaroos, Australian Men’s and Women’s Sevens teams and Australian Pathways teams proudly wearing Castore-issued sportswear from January 2026",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Cadbury (owned by US-listed Mondelez International) on the front; Castore makes the kit. Nothing found on either.",
+    "change": null
+  },
+  {
+    "id": "rugby-england-2026-27-home",
+    "clubId": "rugby-england",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "o2",
+        "placement": "front",
+        "source": {
+          "name": "Rugby Football Union: England Rugby and O2 announce renewed five-year partnership",
+          "date": "2025-11-20",
+          "url": "https://www.englandrugby.com/follow/news-and-media/england-rugby-and-o2-announce-renewed-five-year-partnership",
+          "quote": "Our customers and colleagues love seeing the O2 logo on the front of the players’ kit, an iconic sponsorship that goes from strength to strength.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "RFU announcement of the five-year renewal (to at least 2031), quoting Virgin Media O2's sponsorship director on the O2 logo on the front of the players' kit. Sportcal (20 Nov 2025) spells it out: 'the main front-of-shirt sponsor for the men's and women's England national rugby union teams'. The large centre-chest O2 logo is visible on the official 2026/27 product photos."
+        }
+      },
+      {
+        "sponsorId": "castore",
+        "placement": "partner",
+        "source": {
+          "name": "Sports News Blitz: Castore and England Rugby Unveil New Home, Training and Travel Collections for 2026/27 Season",
+          "date": "2026-05-25",
+          "url": "https://www.thesportsnewsblitz.com/news/castore-and-england-rugby-unveil-new-home-training-and-travel-collections-for-202627-season",
+          "quote": "Castore and England Rugby today unveil the new Home, Training and Travel collections for the 2026/27 season",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Kit maker, listed as partner per the convention for kit suppliers. The RFU's own launch page ('England Rugby kit revealed for 2026/27 season') carries no readable article text. Official Castore product imagery of the 2026/27 men's home replica, pro and classic shirts, and of the home shorts (via authorised retailer Rugbystuff.com), shows the O2 front logo, the Castore wings on the right chest and an 'authentic product' hem label, plain sleeves, a plain back (St George's cross at the collar) and shorts with only the rose crest and Castore wings: no other commercial marks on any placement."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "O2 returns to the front of the white 2026/27 home shirt under its November 2025 five-year renewal with the RFU; Castore is the kit maker. Launch coverage and the official product photos show plain sleeves, a plain back and shorts carrying only the England rose and Castore wings - no other sponsors on any placement.",
+    "change": null,
+    "shortLine": "O2 on the front"
   },
   {
     "id": "sabah-2026-27-home",
@@ -17711,6 +19871,66 @@
     "sponsors": [],
     "sponsorsComplete": false,
     "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+    "change": null
+  },
+  {
+    "id": "shanghai-shenhua-2026-27-home",
+    "clubId": "shanghai-shenhua",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "bank-of-communications",
+        "placement": "front",
+        "source": {
+          "name": "腾讯新闻·九五体育：三大行业，成为中超球队胸前广告的赞助商 (Tencent News: the three industries behind CSL clubs' chest sponsors)",
+          "date": "2026-03-17",
+          "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+          "note": "Named press reports the '交通银行' (Bank of Communications) wordmark is Shanghai Shenhua's front-of-shirt sponsor for the 2026 CSL season, after the bank's Shanghai branch ran a publicity-services tender with the club as intended supplier.",
+          "quote": "“交通银行”4个大字已经成为上海申花足球俱乐部的胸前广告",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "china-eastern-airlines",
+        "placement": "sleeve",
+        "source": {
+          "name": "中国日报网：中国东方航空与上海申花足球俱乐部达成新一轮合作 (China Daily: China Eastern reaches new round of cooperation with Shanghai Shenhua FC)",
+          "date": "2024-10-21",
+          "url": "https://gd.chinadaily.com.cn/a/202410/21/WS6715fedba310b59111d9efef.html",
+          "note": "China Eastern announced as a 'CSL Shanghai Shenhua FC senior partner' whose brand logo appears on Shenhua's CSL jersey; the logo sits on the sleeve (left arm) of the match shirt. Chinese Wikipedia lists it as the first-half-of-season sleeve sponsor.",
+          "quote": "东航的品牌标识也将出现在申花主场比赛的球场内外和申花的中超球衣上",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: 2026 Chinese Super League Kits - All Releases So Far",
+          "date": "2026-01-28",
+          "url": "https://www.footyheadlines.com/2026/01/2026-csl-kits.html",
+          "note": "Kit supplier for all 16 CSL clubs in 2026, including Shanghai Shenhua (bespoke home design).",
+          "quote": "Nike has officially unveiled the 2026 Home Kits for all 16 teams competing in the Chinese Super League (CSL).",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 CSL home kit by Nike. Match-worn shirt carries Bank of Communications on the front and China Eastern Airlines on the sleeve. Not complete: the official launch render shows no printed sponsors; the back, shorts, league sleeve badge, and any mid-season or AFC Champions League Two variant (reported 'Shanghai Pass' front and 'Modu Brothers' sleeve branding) could not be verified from openable sources.",
     "change": null
   },
   {
@@ -18587,9 +20807,14 @@
         "sponsorId": "fifth-third-bank",
         "placement": "training-kit",
         "source": {
-          "name": "Tampa Bay Buccaneers / GlobeNewswire",
+          "name": "Tampa Bay Buccaneers – Buccaneers and Fifth Third Bank Introduce First-Ever Practice Jersey Patch (club site)",
           "date": "2026-08-03",
-          "url": "https://globenewswire.com/news-release/2026/08/03/3337463/0/en/Buccaneers-and-Fifth-Third-Bank-Elevate-Pewter-Partnership-with-Introduction-of-First-Ever-Practice-Jersey-Patch.html"
+          "url": "https://www.buccaneers.com/longform/buccaneers-fifth-third-bank-introduce-first-ever-practice-jersey-patch",
+          "quote": "The Tampa Bay Buccaneers today announced the team’s first-ever jersey patch as part of their elevated partnership renewal with Fifth Third Bank.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "BigBossRabbit"
+          }
         }
       }
     ],
@@ -18613,7 +20838,12 @@
         "source": {
           "name": "MLB.com (Tampa Bay Rays)",
           "date": "2026-03-19",
-          "url": "https://www.mlb.com/news/rays-announce-webull-will-be-corporate-jersey-patch-sponsor-2026"
+          "url": "https://www.mlb.com/news/rays-announce-webull-will-be-corporate-jersey-patch-sponsor-2026",
+          "quote": "The Rays announced on Thursday that Webull, an online investment platform, will serve as their first-ever corporate jersey patch partner.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "BigBossRabbit"
+          }
         }
       }
     ],
@@ -18853,7 +21083,12 @@
         "source": {
           "name": "Zoomph (2026 NFL jersey patch guide)",
           "date": "2026-09-01",
-          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors",
+          "quote": "Tennessee Titans: Kroger",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "BigBossRabbit"
+          }
         }
       }
     ],
@@ -18877,7 +21112,12 @@
         "source": {
           "name": "Texas Rangers / MLB.com press release",
           "date": "2024-03-27",
-          "url": "https://www.mlb.com/press-release/press-release-texas-rangers-announcement-multi-year-agreement-with-energy-transfer-to-become-team-s-official-jersey-patch-partner"
+          "url": "https://www.mlb.com/press-release/press-release-texas-rangers-announcement-multi-year-agreement-with-energy-transfer-to-become-team-s-official-jersey-patch-partner",
+          "quote": "The Texas Rangers and Energy Transfer today announced an expansion of their partnership to include a multi-year deal in which the energy company will become the official jersey patch partner",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "BigBossRabbit"
+          }
         }
       }
     ],
@@ -18925,7 +21165,13 @@
         "source": {
           "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
           "date": "2026-04-20",
-          "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+          "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball",
+          "note": "List of every 2026 MLB jersey patch pairing.",
+          "quote": "Toronto Blue Jays – TD Bank",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "BigBossRabbit"
+          }
         }
       }
     ],
@@ -18973,7 +21219,12 @@
         "source": {
           "name": "Toronto Raptors / NBA.com",
           "date": "2017-07-06",
-          "url": "https://www.nba.com/raptors/raptors-sunlife-announce-partnership"
+          "url": "https://www.nba.com/raptors/raptors-sunlife-announce-partnership",
+          "quote": "The Sun Life patch will appear on the front left shoulder of Raptors game jerseys starting next season.",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "BigBossRabbit"
+          }
         }
       }
     ],
@@ -19119,25 +21370,65 @@
         "sponsorId": "aia",
         "placement": "front",
         "source": {
-          "name": "Tottenham Hotspur, Kraken partnership announcement (AIA front carried over)",
-          "date": "2024-07-16",
-          "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken",
-          "note": "The Kraken article names AIA only implicitly via the existing shirt deal; AIA as front sponsor across the club is carried from the men's 2026/27 kit in normalized. Women's-specific front confirmation not restated."
+          "name": "Footy Headlines: Tottenham & AIA End of Front-of-Shirt Era",
+          "date": "2025-11-04",
+          "url": "https://www.footyheadlines.com/2025/11/tottenham-aia-end-of-front-of-shirt-era.html",
+          "note": "Club-wide front-of-shirt deal runs through 2026/27 (also reported by Sportcal, 4 Nov 2025, which blocks scripts). The club's Women's Team Partners page (checked 2026-09-30) lists AIA as Global Principal Partner, and the club's 19 Jun 2026 kit gallery describes 'the home shirt our teams will wear for the 2026/27 season'.",
+          "quote": "this means that AIA's front-of-shirt sponsorship will end after the 2026-27 season",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       },
       {
         "sponsorId": "kraken",
         "placement": "sleeve",
         "source": {
-          "name": "Tottenham Hotspur, official announcement",
+          "name": "Tottenham Hotspur – 'Tottenham Hotspur partners with Crypto Platform Kraken'",
           "date": "2024-07-16",
           "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken",
-          "note": "Kraken became the club's first Official Crypto and Web3 Partner and the Official Sleeve Partner for the club's Men's and Women's teams from 2024/25."
+          "note": "Club-wide sleeve deal from 2024/25; the club's Women's Team Partners page (checked 2026-09-30) still lists Kraken as Official Sleeve Partner.",
+          "quote": "the Official Sleeve Partner for our Men's and Women's teams",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "elf-cosmetics",
+        "placement": "back",
+        "source": {
+          "name": "Tottenham Hotspur – 'Tottenham Hotspur Women Announces Partnership with e.l.f. Cosmetics'",
+          "date": "2025-09-04",
+          "url": "https://www.tottenhamhotspur.com/news/984446/tottenham-hotspur-women-announces-partnership-with-elf-cosmetics",
+          "note": "Announced ahead of the 2025/26 WSL season; the club's Women's Team Partners page (checked 2026-09-30) still lists e.l.f. ('Eyes. Lips. Face') as Official Back of Shirt Partner, confirming it continues in 2026/27.",
+          "quote": "sees the brand become the new Official Back of Shirt Partner of Tottenham Hotspur Women",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "Tottenham Hotspur – 'Gallery: New Nike 2026/27 Home Kit up close'",
+          "date": "2026-06-19",
+          "url": "https://www.tottenhamhotspur.com/news/1074148/gallery-new-nike-202627-home-kit-up-close",
+          "note": "Club kit launch for 2026/27 covering both teams ('our teams'); the Women's Team Partners page lists Nike as Official Kit Provider.",
+          "quote": "Here's a closer look at the home shirt our teams will wear for the 2026/27 season. Classic Lilywhite, our Nike Home shirt is our nod to our heritage",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "AIA fronts the Tottenham Women shirt with crypto platform Kraken on the sleeve.",
+    "sponsorsComplete": true,
+    "summary": "2026/27 home shirt: Nike kit (partner), AIA front-of-shirt, Kraken sleeve, e.l.f. Cosmetics back-of-shirt. No shorts sponsor documented (Wikipedia's 2026–27 WSL kits table lists none).",
     "change": null
   },
   {
@@ -19315,41 +21606,185 @@
         "sponsorId": "emirates",
         "placement": "front",
         "source": {
-          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
-          "date": "2026-07-14",
-          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          "name": "UAE Team Emirates: UAE Team Emirates-XRG and PISSEI unveil 2026 team kit",
+          "date": "2025-12-12",
+          "url": "https://www.uaeteamemirates.com/uae-team-emirates-xrg-pissei-unveil-2026-team-kit",
+          "quote": "PISSEI and UAE Team Emirates-XRG unveil to the media the new 2026 UAE Team Emirates-XRG team kit",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "The article's photo of the jersey (https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Jersey-alone-landscape.jpg) and the back view in the article's media pack (https://drive.google.com/drive/folders/1N1Xhpz9CgF42JQir-flhBF-1LbeF_E-_, FOTO / STILL LIFE / UAE26_JERSEY_BACK.jpg) show 'UAE / Emirates / XRG' across the chest and the back, an Emirates tab on the collar and red Emirates blocks on the sleeve cuffs; the photo of João Almeida (https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Almeida-2026-kit.jpg) shows Emirates on the hems of the shorts."
         }
       },
       {
         "sponsorId": "xrg",
         "placement": "front",
         "source": {
-          "name": "UAE Team Emirates — XRG Named as Co-title Partner and Official Energy Partner",
+          "name": "UAE Team Emirates: XRG Named as Co-title Partner and Official Energy Partner of UAE Team Emirates",
           "date": "2024-12-17",
-          "url": "https://www.uaeteamemirates.com/xrg-named-co-title-partner-official-energy-partner-uae-team-emirates/"
+          "url": "https://www.uaeteamemirates.com/xrg-named-co-title-partner-official-energy-partner-uae-team-emirates/",
+          "quote": "with XRG confirmed as Team Emirates’ Co-Title Partner and Official Energy Partner",
+          "note": "The page adds: 'UAE Team Emirates XRG will debut its refreshed branding at the start of the 2025 season, prominently featured on team jerseys and equipment.' XRG sits under Emirates on the chest and the back of the 2026 jersey (https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Jersey-alone-landscape.jpg).",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          }
+        }
+      },
+      {
+        "sponsorId": "first-abu-dhabi-bank",
+        "placement": "front",
+        "source": {
+          "name": "UAE Team Emirates: UAE Team Emirates-XRG and PISSEI unveil 2026 team kit",
+          "date": "2025-12-12",
+          "url": "https://www.uaeteamemirates.com/uae-team-emirates-xrg-pissei-unveil-2026-team-kit",
+          "quote": "PISSEI and UAE Team Emirates-XRG unveil to the media the new 2026 UAE Team Emirates-XRG team kit",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "The article's photo of the jersey (https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Jersey-alone-landscape.jpg) shows the FAB logo on the chest, above e&, and FAB above ADQ on the sleeves; the photo of João Almeida (https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Almeida-2026-kit.jpg) shows FAB on the side panel."
+        }
+      },
+      {
+        "sponsorId": "e-and",
+        "placement": "front",
+        "source": {
+          "name": "UAE Team Emirates: UAE Team Emirates-XRG and PISSEI unveil 2026 team kit",
+          "date": "2025-12-12",
+          "url": "https://www.uaeteamemirates.com/uae-team-emirates-xrg-pissei-unveil-2026-team-kit",
+          "quote": "PISSEI and UAE Team Emirates-XRG unveil to the media the new 2026 UAE Team Emirates-XRG team kit",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "The article's photo of the jersey (https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Jersey-alone-landscape.jpg) shows 'e& etisalat and' on the chest, below FAB, and the e& mark inside the collar; the back view in the article's media pack (https://drive.google.com/drive/folders/1N1Xhpz9CgF42JQir-flhBF-1LbeF_E-_, FOTO / STILL LIFE / UAE26_JERSEY_BACK.jpg) shows 'e& etisalat and' on the upper back."
+        }
+      },
+      {
+        "sponsorId": "analog",
+        "placement": "front",
+        "source": {
+          "name": "UAE Team Emirates: UAE Team Emirates-XRG and PISSEI unveil 2026 team kit",
+          "date": "2025-12-12",
+          "url": "https://www.uaeteamemirates.com/uae-team-emirates-xrg-pissei-unveil-2026-team-kit",
+          "quote": "PISSEI and UAE Team Emirates-XRG unveil to the media the new 2026 UAE Team Emirates-XRG team kit",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "The article's photo of the jersey (https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Jersey-alone-landscape.jpg) shows the Analog logo across both shoulders."
+        }
+      },
+      {
+        "sponsorId": "richard-mille",
+        "placement": "front",
+        "source": {
+          "name": "UAE Team Emirates: UAE Team Emirates-XRG and PISSEI unveil 2026 team kit",
+          "date": "2025-12-12",
+          "url": "https://www.uaeteamemirates.com/uae-team-emirates-xrg-pissei-unveil-2026-team-kit",
+          "quote": "PISSEI and UAE Team Emirates-XRG unveil to the media the new 2026 UAE Team Emirates-XRG team kit",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "The article's photo of the jersey (https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Jersey-alone-landscape.jpg) shows 'RICHARD MILLE' along the collar."
+        }
+      },
+      {
+        "sponsorId": "adq",
+        "placement": "sleeve",
+        "source": {
+          "name": "UAE Team Emirates: UAE Team Emirates-XRG and PISSEI unveil 2026 team kit",
+          "date": "2025-12-12",
+          "url": "https://www.uaeteamemirates.com/uae-team-emirates-xrg-pissei-unveil-2026-team-kit",
+          "quote": "PISSEI and UAE Team Emirates-XRG unveil to the media the new 2026 UAE Team Emirates-XRG team kit",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "The back view in the article's media pack (https://drive.google.com/drive/folders/1N1Xhpz9CgF42JQir-flhBF-1LbeF_E-_, FOTO / STILL LIFE / UAE26_JERSEY_BACK.jpg) shows 'ADQ' under FAB on both sleeves; the article's photos (https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Jersey-alone-landscape.jpg, https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Almeida-2026-kit.jpg) show the same stack from the front."
+        }
+      },
+      {
+        "sponsorId": "mywhoosh",
+        "placement": "back",
+        "source": {
+          "name": "UAE Team Emirates: UAE Team Emirates-XRG and PISSEI unveil 2026 team kit",
+          "date": "2025-12-12",
+          "url": "https://www.uaeteamemirates.com/uae-team-emirates-xrg-pissei-unveil-2026-team-kit",
+          "quote": "PISSEI and UAE Team Emirates-XRG unveil to the media the new 2026 UAE Team Emirates-XRG team kit",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "The back view in the article's media pack (https://drive.google.com/drive/folders/1N1Xhpz9CgF42JQir-flhBF-1LbeF_E-_, FOTO / STILL LIFE / UAE26_JERSEY_BACK.jpg) shows the MyWhoosh mark on both back shoulders."
         }
       },
       {
         "sponsorId": "g42",
-        "placement": "partner",
+        "placement": "shorts",
         "source": {
-          "name": "The Inner Ring — Pro Team Sponsors Explained",
+          "name": "The Inner Ring: Pro Team Sponsors Explained",
           "date": "2026-07-10",
-          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/",
+          "quote": "A lot of the other sponsors on the kit like G42 and Colnago have links to Sheikh Tahnoun bin Zayed Al Nahyan",
+          "note": "The team's photo of João Almeida in the 2026 kit (https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Almeida-2026-kit.jpg) shows G42 on the thigh of the shorts.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          }
         }
       },
       {
         "sponsorId": "colnago",
+        "placement": "shorts",
+        "source": {
+          "name": "The Inner Ring: Pro Team Sponsors Explained",
+          "date": "2026-07-10",
+          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/",
+          "quote": "A lot of the other sponsors on the kit like G42 and Colnago have links to Sheikh Tahnoun bin Zayed Al Nahyan",
+          "note": "The team's photos of the 2026 kit (https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Almeida-2026-kit.jpg, https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Jersey-alone-landscape.jpg) show the Colnago clover on the leg of the shorts and on the jersey shoulders, beside Analog.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          }
+        }
+      },
+      {
+        "sponsorId": "ihc",
+        "placement": "shorts",
+        "source": {
+          "name": "UAE Team Emirates: UAE Team Emirates-XRG and PISSEI unveil 2026 team kit",
+          "date": "2025-12-12",
+          "url": "https://www.uaeteamemirates.com/uae-team-emirates-xrg-pissei-unveil-2026-team-kit",
+          "quote": "PISSEI and UAE Team Emirates-XRG unveil to the media the new 2026 UAE Team Emirates-XRG team kit",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "The shorts' back view in the article's media pack (https://drive.google.com/drive/folders/1N1Xhpz9CgF42JQir-flhBF-1LbeF_E-_, FOTO / STILL LIFE / UAE26_BIBS_BACK.jpg) shows a large IHC logo on the seat."
+        }
+      },
+      {
+        "sponsorId": "pissei",
         "placement": "partner",
         "source": {
-          "name": "The Inner Ring — Pro Team Sponsors Explained",
-          "date": "2026-07-10",
-          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+          "name": "UAE Team Emirates: UAE Team Emirates-XRG and PISSEI unveil 2026 team kit",
+          "date": "2025-12-12",
+          "url": "https://www.uaeteamemirates.com/uae-team-emirates-xrg-pissei-unveil-2026-team-kit",
+          "quote": "PISSEI and UAE Team Emirates-XRG unveil to the media the new 2026 UAE Team Emirates-XRG team kit",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "Schnitzel"
+          },
+          "note": "Kit maker, recorded as partner per existing convention. The article's photos (https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Jersey-alone-landscape.jpg, https://www.uaeteamemirates.com/wp-content/uploads/2025/12/Almeida-2026-kit.jpg) show the PISSEI logo on the chest and on the shorts; the back view in the article's media pack (https://drive.google.com/drive/folders/1N1Xhpz9CgF42JQir-flhBF-1LbeF_E-_, FOTO / STILL LIFE / UAE26_JERSEY_BACK.jpg) shows it on the collar and the back shoulders."
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "2026 UCI WorldTeam. UAE Team Emirates XRG's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "sponsorsComplete": true,
+    "summary": "2026 UCI WorldTeam kit by Pissei, launched 12 December 2025. 'UAE / Emirates / XRG' fills the chest and the back (Emirates is the title sponsor, XRG co-title since 2025). FAB and e& are on the chest, e& also on the collar and the upper back, Analog across the shoulders, Richard Mille along the collar, FAB above ADQ on the sleeves, MyWhoosh on the back shoulders, G42 and the Colnago clover on the shorts, IHC on the seat of the shorts. Marked complete: the team's launch photos and the front and back views in the launch article's media pack show no other sponsor. 'UAE' is the country's name in the team name, the UCI 'WorldTour Best Team 2025' badge is an award and '#WeAreUAE' is a slogan; none has a sponsor record.",
     "change": null
   },
   {
@@ -19573,14 +22008,187 @@
         "sponsorId": "tommy-hilfiger",
         "placement": "partner",
         "source": {
-          "name": "SailGP - Tommy Hilfiger and United States SailGP Team milestone partnership",
-          "date": "2024-06-21",
-          "url": "https://www.sailgp.com/news/24/tommy-hilfiger-united-states-sailgp-team-mileston-partnership/"
+          "name": "U.S. SailGP Team: Tommy Hilfiger x U.S. SailGP Capsule Collection Launched",
+          "date": "2025-08-14",
+          "url": "https://www.ussailgpteam.com/articles/8976eb67-6f51-4923-90be-80dc80fac211/tommy-hilfiger-us-sailgp-team-capsule-collection-press-release",
+          "quote": "In 2024, Tommy Hilfiger announced its multi-year agreement as Official Lifestyle Apparel Partner of the U.S. SailGP Team.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "crypto-com",
+        "placement": "partner",
+        "source": {
+          "name": "U.S. SailGP Team: Crypto.com And OG Prediction Markets Named Global Partners Of The United States SailGP Team",
+          "date": "2026-05-29",
+          "url": "https://www.ussailgpteam.com/articles/7a3b112e-3150-42cf-8c02-6a83adf551cd/crypto-com-og-prediction-markets-named-global-partners-us-sailgp-team",
+          "quote": "The multi-year agreement designates Crypto.com and OG as the Official Crypto Exchange and Official Prediction Market Partners of the U.S. SailGP Team",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "luxury-group-marriott",
+        "placement": "partner",
+        "source": {
+          "name": "Marriott: Discover the Luxury Group by Marriott Bonvoy",
+          "date": "2026",
+          "url": "https://www.marriott.com/luxury/about-us",
+          "quote": "Luxury Group, Marriott International joins the U.S. SailGP Team as global hotel partner across the international race circuit.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "ag1",
+        "placement": "partner",
+        "source": {
+          "name": "U.S. SailGP Team: AG1 and U.S. SailGP Team Announce New Partnership",
+          "date": "2025-03-14",
+          "url": "https://www.ussailgpteam.com/articles/755a963c-9c8d-4f88-8f90-ef09c85209e1/ag1-and-u-s-sailgp-team-announce-new-partnership",
+          "quote": "announced today a new multi-year partnership that names AG1 as the Official Foundational Nutrition Partner for the team",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "amazon",
+        "placement": "partner",
+        "source": {
+          "name": "U.S. SailGP Team: Amazon To Become An Official Retail Partner Of The U.S. SailGP Team",
+          "date": "2025-06-02",
+          "url": "https://www.ussailgpteam.com/articles/9aa4d982-0df1-422c-86af-9eb96e856e59/amazon-official-retail-partner-us-sailgp-team",
+          "quote": "The United States SailGP Team is pleased to announce Amazon as an official sponsor and retail partner",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "ciroc",
+        "placement": "partner",
+        "source": {
+          "name": "U.S. SailGP Team: CÎROC Named Official Vodka Partner Of The United States SailGP Team Ahead Of Landmark New York City Race",
+          "date": "2026-05-26",
+          "url": "https://www.ussailgpteam.com/articles/c17045b4-3a82-4959-b8f0-0b78a5389236/ciroc-official-vodka-partner-us-sailgp-team",
+          "quote": "announced an exciting new multi-year partnership, naming CÎROC the Official Vodka Partner of the U.S. SailGP Team",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "apex-group",
+        "placement": "partner",
+        "source": {
+          "name": "U.S. SailGP Team: U.S. SailGP Team Announces Partnership with Apex",
+          "date": "2024-10-24",
+          "url": "https://www.ussailgpteam.com/articles/ade8fa49-df9c-4a31-a288-423a92b94baf/u-s-sailgp-team-announces-partnership-with-apex",
+          "quote": "The United States SailGP Team today announced Apex Group , the leading global financial solutions company, as an Official Partner.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "leyton",
+        "placement": "partner",
+        "source": {
+          "name": "Leyton: Leyton Named Official Partner of the U.S. SailGP Team",
+          "date": "2026-02-03",
+          "url": "https://leyton.com/us/news/leyton-named-official-partner-of-the-u-s-sailgp-team/",
+          "quote": "The U.S. SailGP Team today announced a multi-year partnership with Leyton , naming the global advisory firm its Official Tax Efficiency Partner",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "bermuda",
+        "placement": "partner",
+        "source": {
+          "name": "U.S. SailGP Team: U.S. SailGP Team Names Bermuda Tourism Authority Official Tourism Partner for 2026 Season",
+          "date": "2026-03-30",
+          "url": "https://www.ussailgpteam.com/articles/a700950d-9811-4981-bb31-940b5437e68d/us-sailgp-team-bermuda-tourism-authority-official-tourism-partner",
+          "quote": "The U.S. SailGP Team today announced a partnership with the Bermuda Tourism Authority (BTA), naming the organization their Official Tourism Partner",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "beatbot",
+        "placement": "partner",
+        "source": {
+          "name": "U.S. SailGP Team: U.S. SailGP Team Announces Partnership with Beatbot",
+          "date": "2025-02-10",
+          "url": "https://www.ussailgpteam.com/articles/5845021c-fd4c-4b75-b8c3-25b9fcaef43b/u-s-sailgp-team-announces-partnership-with-beatbot",
+          "quote": "the United States SailGP Team announced its latest partnership with the world's number one, high-end robotic pool cleaning brand, Beatbot",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "barton-and-gray",
+        "placement": "partner",
+        "source": {
+          "name": "U.S. SailGP Team: U.S. SailGP Team Partners Barton & Gray As Official Team Supplier To The Team",
+          "date": "2025-06-16",
+          "url": "https://www.ussailgpteam.com/articles/6287609b-91ef-4423-9c1c-db10fe62fe49/us-sailgp-team-partners-barton-and-gray-official-team-supplier",
+          "quote": "The U.S. SailGP Team is excited to officially announce a partnership with Barton & Gray Mariners Club",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "zhik",
+        "placement": "partner",
+        "source": {
+          "name": "U.S. SailGP Team: U.S. SailGP Team partnership with Zhik",
+          "date": "2024-10-30",
+          "url": "https://www.ussailgpteam.com/articles/9a2c2109-c239-481a-9b74-d45a455b0679/u-s-sailgp-team-partnership-with-zhik",
+          "quote": "announced today a partnership extension with Zhik , a cutting-edge clothing brand with innovative sailing gear, to continue providing apparel as the Official Technical Partner",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "nomadix",
+        "placement": "partner",
+        "source": {
+          "name": "U.S. SailGP Team: U.S. SailGP Team Teams Up With Nomadix On Custom Sustainable Towels And Ponchos",
+          "date": "2026-05-21",
+          "url": "https://www.ussailgpteam.com/articles/43171f80-ff7a-4ef9-9b81-2fa4a6cf4c74/us-sailgp-team-nomadix-official-supplier-2026",
+          "quote": "announced a new collaboration with Nomadix, who will serve as an official supplier of custom-designed sustainable towels and ponchos for the 2026 season",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "The US team has no title partner; Tommy Hilfiger (PVH) leads the global-partner block with Marriott Luxury Group and Crypto/OG.",
+    "summary": "The US team has no title partner. The partner block on its website (ussailgpteam.com, opened 2026-09-30) lists Tommy Hilfiger (PVH), Crypto.com | OG, Luxury Group Marriott International, AG1, Amazon, CîROC (Diageo), Apex, Leyton, Bermuda, Beatbot, Barton & Gray, Zhik and Nomadix, each documented here by a team or company announcement. Not marked complete: the same block lists three more names, Hudson River Community Sailing, Protect Where We Play and Spectrum Sailing, which are community programmes and aren't recorded as sponsors.",
     "change": null
   },
   {
@@ -19599,7 +22207,12 @@
         "source": {
           "name": "Utah Jazz",
           "date": "2026-06-17",
-          "url": "https://utahjazz.com/news/healthequity-becomes-official-jersey-patch-partner-of-the-utah-jazz-1"
+          "url": "https://www.nba.com/jazz/news/healthequity-becomes-official-jersey-patch-partner-of-the-utah-jazz-1",
+          "quote": "Beginning with the 2026-27 NBA season, HealthEquity will become the official jersey patch partner of the Utah Jazz and the Salt Lake City Stars",
+          "checked": {
+            "on": "2026-09-29",
+            "by": "BigBossRabbit"
+          }
         }
       }
     ],
@@ -20063,7 +22676,12 @@
         "source": {
           "name": "Northwest Federal Credit Union",
           "date": "2024-08-27",
-          "url": "https://nwfcu.org/news/washington-commanders-and-northwest-federal-credit-union-announce-stadium-naming-rights-deal-2024"
+          "url": "https://nwfcu.org/news/washington-commanders-and-northwest-federal-credit-union-announce-stadium-naming-rights-deal-2024",
+          "quote": "as well as Northwest serving as the team’s jersey patch partner for off-season and in-season practices",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "BigBossRabbit"
+          }
         }
       }
     ],
@@ -20087,7 +22705,12 @@
         "source": {
           "name": "AARP press release",
           "date": "2025-06-30",
-          "url": "https://www.aarp.org/press/releases/2025-06-30-aarp-becomes-washington-nationals-inaugural-jersey-patch-sponsor-and-an-official-community-impact-partner.html"
+          "url": "https://www.aarp.org/press/releases/2025-06-30-aarp-becomes-washington-nationals-inaugural-jersey-patch-sponsor-and-an-official-community-impact-partner.html",
+          "quote": "The Washington Nationals and AARP today announced a multi-year agreement that makes AARP the Club’s inaugural jersey patch sponsor and an official Community Impact Partner.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "BigBossRabbit"
+          }
         }
       }
     ],
@@ -20111,7 +22734,13 @@
         "source": {
           "name": "Washington Wizards (nba.com)",
           "date": "2023-10-23",
-          "url": "https://www.nba.com/wizards/news/washington-wizards-announce-robinhood-as-official-brokerage-and-jersey-patch-partner"
+          "url": "https://www.nba.com/wizards/news/washington-wizards-announce-robinhood-as-official-brokerage-and-jersey-patch-partner",
+          "quote": "The Washington Wizards today announced that Robinhood, a financial services platform that pioneered commission-free stock trading, becomes the NBA franchise’s official brokerage and jersey patch partner.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "BigBossRabbit"
+          },
+          "note": "The club announced the patch on 23 October 2023 for the 2023-24 season; the release does not restate the 2026-27 season."
         }
       }
     ],
@@ -20583,6 +23212,35 @@
     "sponsorsComplete": true,
     "change": null,
     "summary": "2026 car. Full partner list from the team’s partners page: Atlassian (title) fronts the car; Barclays on the sleeve; the rest are team partners."
+  },
+  {
+    "id": "wuhan-three-towns-2026-home",
+    "clubId": "wuhan-three-towns",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "huayuan-securities",
+        "placement": "front",
+        "source": {
+          "name": "腾讯新闻·九五体育 (Tencent News): 三大行业，成为中超球队胸前广告的赞助商",
+          "date": "2026-03-17",
+          "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+          "quote": "武汉三镇足球俱乐部的胸前广告是华源证券",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 home kit (Nike). Front sponsor Huayuan Securities per Tencent News, March 2026. Back, sleeve and shorts placements could not be verified for 2026 from a source we could open: the club's 2025 announcement of its main-sponsor deal with Wuhan Financial Holdings Group gave subsidiaries Huayuan Securities and Hubei Financial Leasing chest and back advertising rights, but no 2026 source naming the back sponsor was found.",
+    "change": null
   },
   {
     "id": "xds-astana-team-2026-home",
