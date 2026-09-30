@@ -1,90 +1,92 @@
 # data/live
 
-Release `data-2026-09-30-63d49562` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `63d49562`, data updated 2026-09-30. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
+Release `data-2026-09-30-b89214af` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `b89214af`, data updated 2026-09-30. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
 
-Compared with the data it replaces (`6328f99e`, updated 2026-09-30):
+Compared with the data it replaces (`63d49562`, updated 2026-09-30):
 
 | | clubs | kits | sponsors | owners | claims | deals | contacts |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| before | 579 | 479 | 1380 | 1023 | 906 | 1056 | 213 |
-| after | 577 | 483 | 1392 | 1034 | 924 | 1056 | 213 |
+| before | 577 | 483 | 1392 | 1034 | 924 | 1056 | 213 |
+| after | 577 | 486 | 1412 | 1052 | 942 | 1056 | 213 |
 
-## Club levels that change (3)
+## Club levels that change (1)
 
-- [Paris FC](https://behind-the-jersey.org/clubs/paris-fc/) (Ligue 1): Not rated yet → **Stained**
-- [Scotland](https://behind-the-jersey.org/clubs/rugby-scotland/) (World Rugby events (Men's Rugby World Cup 2027 + HSBC SVNS 2026-27)): Not rated yet → **Clean**
-- [Tonga](https://behind-the-jersey.org/clubs/rugby-tonga/) (World Rugby events (Men's Rugby World Cup 2027 + HSBC SVNS 2026-27)): Not rated yet → **Clean**
+- [Los Angeles Rams](https://behind-the-jersey.org/clubs/la-rams/) (NFL): Clean → **Not rated yet**
 
-## Sponsor ratings that change (4)
+## Sponsor ratings that change (1)
 
-- Bahrain Victorious: unrated (unrated) → **serious** (rated)
-- Google Pixel: unrated (unrated) → **none** (rated)
-- Renault: unrated (unrated) → **none** (rated)
-- Vinci: unrated (unrated) → **none** (rated)
+- Hyundai (Hyundai Motor America): none (rated) → **unrated** (being-rated)
 
-## Clubs removed (2)
+## Sponsors added (20)
 
-- RC Lens (lens)
-- Lille OSC (lille)
+- CNCITY Energy: unrated
+- 일류경제도시 대전 (Daejeon city promotion slogan): none
+- Goalstudio: none
+- Hana Bank: none
+- Hana Capital: none
+- Hana Card: none
+- Hana Insurance: none
+- Hana Life Insurance: none
+- Hana Savings Bank: none
+- Hana Securities: none
+- HTWO (Hyundai Motor Group hydrogen brand): unrated
+- Hyundai Motor Securities: unrated
+- NEXO (Hyundai Motor hydrogen car brand): unrated
+- Jeonbuk State (전북특별자치도): none
+- Kumho Tire: unrated
+- Kyeryong Construction: none
+- MobED (Hyundai Motor Group Robotics Lab): unrated
+- CHZZK (Naver): unrated
+- Sinobo Group: none
+- World Food Programme (WFP): unrated
 
-## Sponsors added (12)
+## Owners added (18)
 
-- Aflac Japan: none
-- Arnold Clark: none
-- Go.Compare: unrated
-- Halo Service Solutions: none
-- Hitachi, Ltd.: unrated
-- Hitachi Building Systems Co., Ltd.: unrated
-- Hitachi High-Tech Corporation: unrated
-- Hitachi Plant Services Co., Ltd.: unrated
-- Hitachi Systems, Ltd.: unrated
-- Lawson: unrated
-- Sankyo Frontier: none
-- Yonex Co., Ltd.: none
-
-## Owners added (11)
-
-- Aflac Incorporated (aflac-inc)
-- Arnold Clark Automobiles Limited (arnold-clark-automobiles)
-- Future plc (future-plc)
-- Hitachi, Ltd. (hitachi-ltd)
-- KDDI Corporation (kddi-corporation)
-- Lawson, Inc. (lawson-inc)
-- Mitsubishi Corporation (mitsubishi-corporation)
-- Sankyo Frontier Co., Ltd. (sankyo-frontier-co)
-- Vinci SA (vinci-sa)
-- Wako Kosan Co., Ltd. (有限会社和幸興産) (wako-kosan)
-- Yonex Co., Ltd. (yonex-co)
+- CNCITY Energy Co., Ltd. (씨엔씨티에너지(주)) (cncity-energy-co)
+- Daejeon Metropolitan City (대전광역시) (daejeon-metropolitan-city)
+- Doublestar Group Co., Ltd. (双星集团有限责任公司) (doublestar-group)
+- KEB Hana Bank Co., Ltd. (하나은행) (hana-bank-co)
+- Hana Capital Co., Ltd. (하나캐피탈) (hana-capital-co)
+- Hana Card Co., Ltd. (하나카드) (hana-card-co)
+- Hana Financial Group Inc. (하나금융지주) (hana-financial-group)
+- Hana Insurance Co., Ltd. (하나손해보험) (hana-insurance-co)
+- Hana Life Insurance Co., Ltd. (하나생명) (hana-life-co)
+- Hana Savings Bank Co., Ltd. (하나저축은행) (hana-savings-bank-co)
+- Hana Securities Co., Ltd. (하나증권) (hana-securities-co)
+- Hyundai Motor Securities Co., Ltd. (현대차증권) (hyundai-motor-securities)
+- Jeonbuk State (전북특별자치도, Jeonbuk Special Self-Governing Province) (jeonbuk-state)
+- Kumho Tire Co., Inc. (금호타이어) (kumho-tire)
+- Kyeryong Construction Industrial Co., Ltd. (계룡건설산업(주)) (kyeryong-construction-co)
+- Qingdao Doublestar Co., Ltd. (青岛双星股份有限公司) (qingdao-doublestar)
+- Sinobo Group Co., Ltd. (中赫集团有限公司) (sinobo-group-co)
+- Wakti Co., Ltd. ((주)왁티) (wakti-co)
 
 ## Claims added (18)
 
-- aflac-inc-shareholders: Aflac Incorporated's 2026 proxy statement lists the holders of more than 5% of its common stock as of 24 February 2026: The Vanguard Group (11.1% of the shares, 4.4% of the votes), J&A Alliance Holdings Corporation as trustee of J&A Alliance Trust (10.2% of the shares, 20.0% of the votes) and BlackRock, Inc. (8.2% of the shares, 3.3% of the votes). Japan Post Holdings is the trust's sole settlor and beneficiary; the shareholders agreement limits the trustee's voting rights to no more than 20%, and the proxy says Japan Post Holdings will have no board seat and no rights to control, manage or intervene in the management of the company.
-- aflac-japan-aflac-inc: Aflac Incorporated's Form 10-K for 2025 names Aflac Life Insurance Japan Ltd. (ALIJ) as the primary insurance subsidiary of its Aflac Japan segment, and says Aflac Incorporated's common stock is registered on the New York Stock Exchange (symbol AFL). Exhibit 21 of the 10-K lists Aflac Life Insurance Japan Ltd. as a subsidiary of Aflac Holdings LLC (Nebraska), which is a subsidiary of Aflac Incorporated.
-- arnold-clark-automobiles-ownership: Arnold Clark, Scotland men's rugby front-of-shirt partner, is Arnold Clark Automobiles Limited (Companies House SC036386). Its active persons with significant control are Clark family members - John Arnold Clark and Lady Philomena Butler Clark each with 75% or more of shares and voting rights with control over the trustees of a trust, Adam Hugh Wallace Clark with 25-50% via trustees - and Jagc Holdings with 25-50%.
-- bahrain-victorious-ownership: The Daily Tribune reports that Paris FC competes under the banner of 'Victorious Bahrain', the brand fronted by Shaikh Nasser bin Hamad Al Khalifa, Representative of the King for Humanitarian Work and Youth Affairs, and says the partnership enhances Bahrain's global visibility and promotes the Kingdom's investment and tourism sectors.
-- gocompare-future-ownership: Go.Compare, the WRU's back-of-shirt sponsor, is a brand of Future plc, which completed its acquisition of GoCo Group (the GoCompare owner) in February 2021.
-- halo-service-solutions-ownership: Halo, Scotland men's rugby back-of-shorts partner (usehalo.com), is Halo Service Solutions Ltd (Companies House SC216980, renamed from Net Help Desk Limited in July 2020), a Scottish IT services company. Its only active person with significant control is Paul Hamilton, with more than 25% but not more than 50% of the shares.
-- hitachi-building-systems-hitachi: Hitachi, Ltd.'s annual securities report for the fiscal year ended 31 March 2026 lists Hitachi Building Systems Co., Ltd. among its principal subsidiaries, with 100.0% of the voting rights.
-- hitachi-hightech-hitachi: Hitachi, Ltd.'s annual securities report for the fiscal year ended 31 March 2026 lists Hitachi High-Tech Corporation among its principal subsidiaries, with 100.0% of the voting rights.
-- hitachi-ltd-shareholders: Hitachi, Ltd. is listed on the Tokyo and Nagoya stock exchanges. Its 10 largest shareholders as of 30 June 2026 were led by The Master Trust Bank of Japan, Ltd. (Trust Account, 16.21%) and Custody Bank of Japan, Ltd. (Trust Account, 5.22%); GOVERNMENT OF NORWAY held 1.69% and the Hitachi Employees' Shareholding Association 1.61%. In its shareholders composition, 'Government and municipality' holders own 0.00% of the shares.
-- hitachi-plant-services-hitachi: Hitachi, Ltd.'s annual securities report for the fiscal year ended 31 March 2026 lists Hitachi Plant Services Co., Ltd. among its principal subsidiaries, with 100.0% of the voting rights.
-- hitachi-systems-hitachi: Hitachi, Ltd.'s annual securities report for the fiscal year ended 31 March 2026 lists Hitachi Systems, Ltd. among its principal subsidiaries, with 100.0% of the voting rights.
-- kddi-corporation-shareholders: KDDI Corporation (TSE code 9433) lists its major shareholders as of 31 March 2026 as The Master Trust Bank of Japan, Ltd. (Trust Account, 15.77%), KYOCERA Corporation (14.75%), TOYOTA MOTOR CORPORATION (9.54%) and Custody Bank of Japan, Ltd. (Trust Account, 6.63%), with no other holder above 2%; in its breakdown by investor type, national and local governments hold 0.00%.
-- lawson-kddi-mitsubishi: Mitsubishi Corporation, KDDI Corporation and Lawson, Inc. announced a capital and business alliance on 6 February 2024: KDDI would make a tender offer to take Lawson private, after which Mitsubishi Corporation and KDDI would each hold 50% of Lawson's voting rights. KDDI said on 20 August 2024 that the squeeze-out was complete and that KDDI and Mitsubishi Corporation had each obtained a 50% share of Lawson's voting rights.
-- mitsubishi-corporation-shareholders: Mitsubishi Corporation is listed in Tokyo (securities code 8058). Its principal shareholders as of 31 March 2026 were led by The Master Trust Bank of Japan, Ltd. (Trust Account, 16.65%), STATE STREET BANK AND TRUST COMPANY 505104 (10.91%), Custody Bank of Japan, Ltd. (Trust Account, 5.28%) and Meiji Yasuda Life Insurance Company (3.41%); none of the other six listed holds more than 3%.
-- renault-french-state-stake: At 31 December 2025 the French State held 15.01% of Renault's share capital, corresponding to 21.92% of theoretical voting rights.
-- sankyo-frontier-wako-kosan: Sankyo Frontier Co., Ltd.'s securities report for the year ended 31 March 2026 (57th term) names the unlisted 有限会社和幸興産 (Wako Kosan Co., Ltd.), a real-estate management company in Kashiwa, Chiba, as its parent company and largest shareholder with 50.54% of the shares, and says that 和幸興産's voting rights are 100% owned by 長妻和男, 長妻貴嗣 (Sankyo Frontier's president) and their close relatives. The next largest holders are 長妻貴嗣 (14.93%) and 長妻和男 (2.92%); governments and local public bodies hold no shares.
-- vinci-sa-ownership: Vinci SA's shareholder page states that at 31 December 2025 individual shareholders held 11.6% of its capital, and that more than 176,000 Group employees and former employees and about 1,000 institutional investors are shareholders.
-- yonex-co-shareholders: Yonex Co., Ltd.'s securities report for the year ended 31 March 2026 lists its largest shareholders as the foundation 公益財団法人ヨネックススポーツ振興財団 (11.06%), NATIONAL FINANCIAL SERVICES LLC (6.77%), 米山修一 (4.93%) and the foundation 公益財団法人新潟県スポーツ振興米山稔財団 (4.66%); the ten largest hold 44.88% together, and governments and local public bodies hold no shares. Its shares are listed on the Tokyo Stock Exchange Standard Market.
+- cncity-energy-mkif-shareholding: Macquarie Korea Infrastructure Fund (MKIF, a listed Korean infrastructure fund) says it agreed on 2 June 2023 to acquire a 48% stake in CNCITY Energy Co., Ltd. (씨엔씨티에너지), a Daejeon city-gas retailer founded in 1985, and after financial close 'MKIF는 씨엔씨티에너지(주)의 48% 주주이고' — MKIF is a 48% shareholder of CNCITY Energy, with a total investment of about 183.2 billion won.
+- daejeon-city-slogan: '일류경제도시 대전' (first-class economic city Daejeon) is a promotion slogan of Daejeon Metropolitan City: the city government's own press office headlines its own releases with it (e.g. '일류경제도시 대전, 경제성장률 껑충', 25 December 2024).
+- goalstudio-wakti: GOALSTUDIO's own website names the company behind the brand as (주)왁티 (Wakti Co., Ltd.), with 'Owner: Junghoon Kang', an address in Gangnam-gu, Seoul, and company registration number 240-88-00299.
+- hana-bank-hana-financial-group: Hana Financial Group's 'Hana Network' affiliate map lists 하나은행 (KEB Hana Bank) as '하나은행(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.
+- hana-capital-hana-financial-group: Hana Financial Group's 'Hana Network' affiliate map lists 하나캐피탈 (Hana Capital) as '하나캐피탈(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.
+- hana-card-hana-financial-group: Hana Financial Group's 'Hana Network' affiliate map lists 하나카드 (Hana Card) as '하나카드(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.
+- hana-financial-group-shareholders: Hana Financial Group's governance page lists its shareholders holding 1% or more of the common stock as of 31 March 2026. The largest is Korea's National Pension Service (국민연금공단) with 8.69%, then BlackRock Fund Advisors (7.11%) and Capital Research and Management Company (5.55%); all other listed holders are below 4%.
+- hana-insurance-hana-financial-group: Hana Financial Group's 'Hana Network' affiliate map lists 하나손해보험 (Hana Insurance) as '하나손해보험(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.
+- hana-life-hana-financial-group: Hana Financial Group's 'Hana Network' affiliate map lists 하나생명 (Hana Life) as '하나생명(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.
+- hana-savings-bank-hana-financial-group: Hana Financial Group's 'Hana Network' affiliate map lists 하나저축은행 (Hana Savings Bank) as '하나저축은행(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.
+- hana-securities-hana-financial-group: Hana Financial Group's 'Hana Network' affiliate map lists 하나증권 (Hana Securities) as '하나증권(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.
+- hmg-jbfc-kit-brands: The brands on Jeonbuk Hyundai's 2026 kit are Hyundai Motor Group's own: NEXO is Hyundai Motor's hydrogen electric car and the front sponsor since 2025, HTWO is Hyundai Motor Group's hydrogen business brand, and Mobility robot MobED with the Robotics Lab mark is Hyundai Motor Group Robotics Lab's platform. Hyundai Motor is the club's parent company ('모기업 현대자동차').
+- hyundai-motor-securities-largest-shareholder: Hyundai Motor Company and its related parties (including Hyundai Mobis and Kia) are the largest shareholder of Hyundai Motor Securities (stock code 001500), holding 39.94% (Hyundai Motor 22.17%, Hyundai Mobis 13.70%, Kia 3.95%), per a disclosure reported in August 2026.
+- jeonbuk-state-province: Jeonbuk State (전북특별자치도) is a provincial government in South Korea, led by a governor, with its office in Jeonju; the province is one of Jeonbuk Hyundai's 2026 uniform partners.
+- kumho-tire-doublestar-control: In April 2026 Shenzhen-listed Qingdao Doublestar completed the consolidation of South Korean tyre maker Kumho Tire: it now indirectly owns 45% of Kumho Tire, which became a controlled subsidiary of the Chinese company.
+- kyeryong-largest-shareholder: Kyeryong Construction Industrial Co., Ltd. (계룡건설산업) is listed on the KOSPI market. Its large-shareholding report of 5 June 2026 (published by DigitalToday) names chairman Lee Seung-chan (이승찬) as the largest shareholder with 2,069,144 shares (23.17%), or 38.49% including related parties (relatives and the Kyeryong Scholarship Foundation).
+- qingdao-doublestar-sasac: Qingdao Doublestar's controlling shareholder is Doublestar Group Co., Ltd. and its actual controller is the Qingdao Municipal State-owned Assets Supervision and Administration Commission (Qingdao SASAC), both before and after the Kumho Tire consolidation, which Qingdao SASAC approved. Korean financial press describes Kumho Tire's chain as de facto state ownership tracing up to China's state asset management body.
+- sinobo-group-ownership: Sinobo Group Co., Ltd. (中赫集团有限公司), founded in September 2005 with a business scope covering mining and real-estate investment and asset management, has Zhou Jinhui (周金辉) as its legal representative and is jointly held by Zhou Jinhui and Li Caixia (李彩霞), per company registration data.
 
-## Clubs whose kits change (6)
+## Clubs whose kits change (3)
 
-- [Kashiwa Reysol](https://behind-the-jersey.org/clubs/kashiwa-reysol/)
-- [Scotland](https://behind-the-jersey.org/clubs/rugby-scotland/)
-- [Tonga](https://behind-the-jersey.org/clubs/rugby-tonga/)
-- [Wales](https://behind-the-jersey.org/clubs/rugby-wales/)
-- [FC Bayern Munich Basketball](https://behind-the-jersey.org/clubs/bayern-munich-basketball/)
-- [Paris FC](https://behind-the-jersey.org/clubs/paris-fc/)
+- [Beijing Guoan FC](https://behind-the-jersey.org/clubs/beijing-guoan/)
+- [Daejeon Hana Citizen](https://behind-the-jersey.org/clubs/daejeon-hana-citizen/)
+- [Jeonbuk Hyundai Motors](https://behind-the-jersey.org/clubs/jeonbuk-hyundai-motors/)
 
 ## Warnings (43)
 

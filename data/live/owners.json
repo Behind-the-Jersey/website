@@ -1546,6 +1546,14 @@
     "country": "US"
   },
   {
+    "id": "cncity-energy-co",
+    "name": "CNCITY Energy Co., Ltd. (씨엔씨티에너지(주))",
+    "type": "private-company",
+    "parentId": null,
+    "country": "South Korea",
+    "note": "Unlisted Daejeon city-gas and district-energy company. Macquarie Korea Infrastructure Fund (MKIF), a listed Korean infrastructure fund, holds 48% (MKIF's own asset page); the remaining ownership is not publicly documented."
+  },
+  {
     "id": "coca-cola-company",
     "name": "The Coca-Cola Company",
     "type": "listed-company",
@@ -1780,6 +1788,14 @@
     "type": "state-fund",
     "country": "United Arab Emirates",
     "parentId": "mclaren-group"
+  },
+  {
+    "id": "daejeon-metropolitan-city",
+    "name": "Daejeon Metropolitan City (대전광역시)",
+    "type": "state",
+    "parentId": null,
+    "country": "South Korea",
+    "note": "Municipal government of Daejeon, South Korea; its press office uses the slogan '일류경제도시 대전' (first-class economic city Daejeon) in its own releases."
   },
   {
     "id": "daikin-comfort-technologies-owner",
@@ -2032,6 +2048,15 @@
     "type": "private-company",
     "country": "United States",
     "parentId": null
+  },
+  {
+    "id": "doublestar-group",
+    "name": "Doublestar Group Co., Ltd. (双星集团有限责任公司)",
+    "type": "state",
+    "country": "China",
+    "parentId": "qingdao-municipal-government",
+    "via": "actual controller is the Qingdao Municipal State-owned Assets Supervision and Administration Commission (Qingdao SASAC), per Qingdao Doublestar's June 2026 listing announcement",
+    "note": "Controlling shareholder of Shenzhen-listed Qingdao Doublestar Co., Ltd. thebell (2026-09-07) describes the chain as Qingdao SASAC -> Doublestar Group -> Doublestar Tire -> Xingwei Korea (SPC) -> Kumho Tire; the 2026 consolidation moved the Kumho stake into the listed company."
   },
   {
     "id": "dp-world-limited",
@@ -3223,6 +3248,70 @@
     "country": "United Kingdom"
   },
   {
+    "id": "hana-bank-co",
+    "name": "KEB Hana Bank Co., Ltd. (하나은행)",
+    "type": "private-company",
+    "parentId": "hana-financial-group",
+    "country": "South Korea",
+    "note": "Wholly owned subsidiary of Hana Financial Group (100%, per the group's Hana Network affiliate map, percentages as of 30 June 2026)."
+  },
+  {
+    "id": "hana-capital-co",
+    "name": "Hana Capital Co., Ltd. (하나캐피탈)",
+    "type": "private-company",
+    "parentId": "hana-financial-group",
+    "country": "South Korea",
+    "note": "Wholly owned subsidiary of Hana Financial Group (100%, per the group's Hana Network affiliate map, percentages as of 30 June 2026)."
+  },
+  {
+    "id": "hana-card-co",
+    "name": "Hana Card Co., Ltd. (하나카드)",
+    "type": "private-company",
+    "parentId": "hana-financial-group",
+    "country": "South Korea",
+    "note": "Wholly owned subsidiary of Hana Financial Group (100%, per the group's Hana Network affiliate map, percentages as of 30 June 2026)."
+  },
+  {
+    "id": "hana-financial-group",
+    "name": "Hana Financial Group Inc. (하나금융지주)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "South Korea",
+    "note": "Financial holding company listed on the Korea Exchange. Its governance page's list of shareholders holding 1% or more (as of 31 March 2026) is topped by Korea's National Pension Service (8.69%), BlackRock Fund Advisors (7.11%) and Capital Research and Management Company (5.55%)."
+  },
+  {
+    "id": "hana-insurance-co",
+    "name": "Hana Insurance Co., Ltd. (하나손해보험)",
+    "type": "private-company",
+    "parentId": "hana-financial-group",
+    "country": "South Korea",
+    "note": "Wholly owned subsidiary of Hana Financial Group (100%, per the group's Hana Network affiliate map, percentages as of 30 June 2026)."
+  },
+  {
+    "id": "hana-life-co",
+    "name": "Hana Life Insurance Co., Ltd. (하나생명)",
+    "type": "private-company",
+    "parentId": "hana-financial-group",
+    "country": "South Korea",
+    "note": "Wholly owned subsidiary of Hana Financial Group (100%, per the group's Hana Network affiliate map, percentages as of 30 June 2026)."
+  },
+  {
+    "id": "hana-savings-bank-co",
+    "name": "Hana Savings Bank Co., Ltd. (하나저축은행)",
+    "type": "private-company",
+    "parentId": "hana-financial-group",
+    "country": "South Korea",
+    "note": "Wholly owned subsidiary of Hana Financial Group (100%, per the group's Hana Network affiliate map, percentages as of 30 June 2026)."
+  },
+  {
+    "id": "hana-securities-co",
+    "name": "Hana Securities Co., Ltd. (하나증권)",
+    "type": "private-company",
+    "parentId": "hana-financial-group",
+    "country": "South Korea",
+    "note": "Wholly owned subsidiary of Hana Financial Group (100%, per the group's Hana Network affiliate map, percentages as of 30 June 2026)."
+  },
+  {
     "id": "hansemerkur",
     "name": "HanseMerkur Versicherungsgruppe",
     "type": "private-company",
@@ -3483,6 +3572,15 @@
     "note": "Kia Corporation is a Hyundai Motor Group affiliate, so Hyundai and Kia act together under one group."
   },
   {
+    "id": "hyundai-motor-securities",
+    "name": "Hyundai Motor Securities Co., Ltd. (현대차증권)",
+    "type": "listed-company",
+    "country": "South Korea",
+    "parentId": "hyundai-motor-group",
+    "via": "largest shareholder is the Hyundai Motor side (Hyundai Motor plus related parties including Hyundai Mobis and Kia), holding 39.94% (DigitalToday, 2026-08-06)",
+    "note": "Stock code 001500 (DigitalToday, 2026-08-06)."
+  },
+  {
     "id": "ibm-corp",
     "name": "International Business Machines Corporation",
     "type": "listed-company",
@@ -3689,6 +3787,14 @@
     "parentId": null,
     "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
     "country": "US"
+  },
+  {
+    "id": "jeonbuk-state",
+    "name": "Jeonbuk State (전북특별자치도, Jeonbuk Special Self-Governing Province)",
+    "type": "state",
+    "country": "South Korea",
+    "parentId": null,
+    "note": "Provincial government in South Korea, with its office in Jeonju (jeonbuk.go.kr). The province is a Jeonbuk Hyundai uniform partner; 'Jeonbuk State' is its English name."
   },
   {
     "id": "jockey-club-of-saudi-arabia",
@@ -3958,6 +4064,15 @@
     "country": "US"
   },
   {
+    "id": "kumho-tire",
+    "name": "Kumho Tire Co., Inc. (금호타이어)",
+    "type": "listed-company",
+    "country": "South Korea",
+    "parentId": "qingdao-doublestar",
+    "via": "controlled subsidiary of Qingdao Doublestar, which indirectly holds 45% (consolidation completed April 2026, per Tyrepress and European Rubber Journal)",
+    "note": "Korean creditor banks held about 14% combined as of August 2026: Woori Bank 3.95%, Korea Development Bank 7.43%, Kookmin Bank 0.38% and the Export-Import Bank of Korea 0.58% (thebell, 2026-09-07)."
+  },
+  {
     "id": "kutxabank",
     "name": "Kutxabank",
     "type": "private-company",
@@ -3978,6 +4093,14 @@
     "parentId": null,
     "country": "Kuwait",
     "note": "Private applied college in Kuwait, established 2014; governed by a five-member Board of Trustees chaired by Meshari Ayman Boodai."
+  },
+  {
+    "id": "kyeryong-construction-co",
+    "name": "Kyeryong Construction Industrial Co., Ltd. (계룡건설산업(주))",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "South Korea",
+    "note": "KOSPI-listed builder headquartered in Daejeon. Largest shareholder: chairman Lee Seung-chan (이승찬), 23.17% personally and 38.49% including related parties (relatives and the Kyeryong Scholarship Foundation), per the large-holding report of 5 June 2026."
   },
   {
     "id": "kyocera-corporation",
@@ -5724,6 +5847,15 @@
     "note": "Qingdao municipal state-owned enterprise formed in 2006; owner/operator of the Laoshan Cola (崂山可乐) brand through its subsidiary Qingdao Laoshan Mineral Water Co., Ltd. In March 2025 Qingdao SASAC confirmed a strategic merger placing the group under Tsingtao Brewery Group (also wholly owned by Qingdao SASAC); by March 2026 the beverage group's chairman and party secretary was simultaneously a Tsingtao Brewery Group deputy party secretary and vice-president. Both groups remain Qingdao municipal state enterprises."
   },
   {
+    "id": "qingdao-doublestar",
+    "name": "Qingdao Doublestar Co., Ltd. (青岛双星股份有限公司)",
+    "type": "listed-company",
+    "country": "China",
+    "parentId": "doublestar-group",
+    "via": "controlling shareholder is Doublestar Group Co., Ltd.; the company's actual controller is the Qingdao Municipal SASAC, per its own listing announcement (June 2026)",
+    "note": "SZSE: 000599. After the June 2026 share issue its listing announcement lists Doublestar Group (33.37%), Qingdao Guoxin Capital Investment (21.56%) and Qingdao Chengtou Venture Capital (16.98%) as the three largest shareholders."
+  },
+  {
     "id": "qingdao-municipal-government",
     "name": "Qingdao Municipal People's Government (Qingdao SASAC)",
     "type": "state",
@@ -6527,6 +6659,14 @@
     "country": "France",
     "via": "Yoni Dayan (born 1985), founder and listed company leader",
     "note": "French corporate registry entry; founded in 2011 by Yoni Dayan per AS Monaco's partners page."
+  },
+  {
+    "id": "sinobo-group-co",
+    "name": "Sinobo Group Co., Ltd. (中赫集团有限公司)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "China",
+    "note": "Beijing conglomerate (real-estate and mining investment, asset management, sports), sponsor website sinobo.com. Held jointly by Zhou Jinhui (周金辉), its legal representative, and Li Caixia (李彩霞) per company-registration data reported by Sohu/ITBEAR (2025-06-20). Lead, not a checked source: sinobo.com/ga lists Beijing Guoan FC under the group's businesses (集团业务)."
   },
   {
     "id": "sinochem-holdings",
@@ -7691,6 +7831,14 @@
     "parentId": null,
     "country": "Japan",
     "note": "Unlisted real-estate management company in Kashiwa, Chiba; parent of Sankyo Frontier. Sankyo Frontier's securities report for the year ended March 2026 says its voting rights are 100% held by 長妻和男, 長妻貴嗣 and their close relatives. English name from its own EDINET filing (2021-05-12: 'Wako Kosan Co,.Ltd.')."
+  },
+  {
+    "id": "wakti-co",
+    "name": "Wakti Co., Ltd. ((주)왁티)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "South Korea",
+    "note": "Seoul company that runs the GOALSTUDIO sports brand; its own about page names (주)왁티 as the company and Junghoon Kang as the owner (company registration 240-88-00299)."
   },
   {
     "id": "walt-disney-world-owner",
