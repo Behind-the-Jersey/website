@@ -4539,7 +4539,7 @@
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Siegmund (Bernd Siegmund GmbH, a family-run welding-table maker) is the main sponsor of FC Bayern's basketball team and has been its jersey sponsor, with the logo on the chest, since 2022/23 (Siegmund's sponsoring page). Not marked complete: no cited source shows the 2026/27 home kit itself, so the back and the shorts aren't recorded yet.",
+    "summary": "Siegmund (Bernd Siegmund GmbH, a family-run welding-table maker) is on the chest of the 2026-27 jersey (EuroLeague's launch article, 12 June 2026); it has been the team's main sponsor since 2022/23. Not marked complete: the back and the shorts aren't recorded yet.",
     "change": null
   },
   {
@@ -12135,6 +12135,160 @@
     "change": null
   },
   {
+    "id": "kashiwa-reysol-2026-27-home",
+    "clubId": "kashiwa-reysol",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "hitachi",
+        "placement": "front",
+        "source": {
+          "name": "柏レイソル: 『2026/27シーズン ユニフォームデザイン決定』のお知らせ",
+          "date": "2026-07-04",
+          "url": "https://www.reysol.co.jp/news/goods/202627-4.html",
+          "note": "Front (chest): Hitachi, Ltd. The page's sponsor image is captioned 株式会社日立製作所, 掲出場所：正面 / 胸, and its field-player design shows HITACHI across the chest. The quoted sentence introduces the sponsor images; the placement is in the image, not in the page's text.",
+          "quote": "2026/27シーズン明治安田J1リーグを共に闘っていただくユニフォームスポンサーの皆様をご紹介いたします。",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "sankyo-frontier",
+        "placement": "front",
+        "side": "front",
+        "source": {
+          "name": "柏レイソル: 『2026/27シーズン ユニフォームデザイン決定』のお知らせ",
+          "date": "2026-07-04",
+          "url": "https://www.reysol.co.jp/news/goods/202627-4.html",
+          "note": "Front (right collarbone): Sankyo Frontier Co., Ltd. The page's sponsor image is captioned 三協フロンテア株式会社, 掲出場所：右鎖骨, and its field-player design shows the mark there. The quoted sentence introduces the sponsor images; the placement is in the image, not in the page's text.",
+          "quote": "2026/27シーズン明治安田J1リーグを共に闘っていただくユニフォームスポンサーの皆様をご紹介いたします。",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "hitachi-systems",
+        "placement": "front",
+        "side": "front",
+        "source": {
+          "name": "柏レイソル: 『2026/27シーズン ユニフォームデザイン決定』のお知らせ",
+          "date": "2026-07-04",
+          "url": "https://www.reysol.co.jp/news/goods/202627-4.html",
+          "note": "Front (left collarbone): Hitachi Systems, Ltd. The page's sponsor image is captioned 株式会社日立システムズ, 掲出場所：左鎖骨, and its field-player design shows the mark there. The quoted sentence introduces the sponsor images; the placement is in the image, not in the page's text.",
+          "quote": "2026/27シーズン明治安田J1リーグを共に闘っていただくユニフォームスポンサーの皆様をご紹介いたします。",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "aflac-japan",
+        "placement": "back",
+        "source": {
+          "name": "柏レイソル: 『2026/27シーズン ユニフォームデザイン決定』のお知らせ",
+          "date": "2026-07-04",
+          "url": "https://www.reysol.co.jp/news/goods/202627-4.html",
+          "note": "Back (top, above the number): Aflac Life Insurance Japan Ltd. The page's sponsor image is captioned アフラック生命保険株式会社, 掲出場所：背面上部, and its field-player design shows Aflac above the number. The quoted sentence introduces the sponsor images; the placement is in the image, not in the page's text.",
+          "quote": "2026/27シーズン明治安田J1リーグを共に闘っていただくユニフォームスポンサーの皆様をご紹介いたします。",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "hitachi-building-systems",
+        "placement": "back",
+        "source": {
+          "name": "柏レイソル: 『2026/27シーズン ユニフォームデザイン決定』のお知らせ",
+          "date": "2026-07-04",
+          "url": "https://www.reysol.co.jp/news/goods/202627-4.html",
+          "note": "Back (hem, below the name): Hitachi Building Systems Co., Ltd. The page's sponsor image is captioned 株式会社日立ビルシステム, 掲出場所：背面裾, and its field-player design shows the mark there. The quoted sentence introduces the sponsor images; the placement is in the image, not in the page's text.",
+          "quote": "2026/27シーズン明治安田J1リーグを共に闘っていただくユニフォームスポンサーの皆様をご紹介いたします。",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "hitachi-plant-services",
+        "placement": "sleeve",
+        "source": {
+          "name": "柏レイソル: 『2026/27シーズン ユニフォームデザイン決定』のお知らせ",
+          "date": "2026-07-04",
+          "url": "https://www.reysol.co.jp/news/goods/202627-4.html",
+          "note": "Left sleeve: Hitachi Plant Services Co., Ltd. The page's sponsor image is captioned 株式会社日立プラントサービス, 掲出場所：左裾 (the caption's word is 'hem'); the photo under the caption and the field-player design both show the mark on the left sleeve. The quoted sentence introduces the sponsor images; the placement is in the image, not in the page's text.",
+          "quote": "2026/27シーズン明治安田J1リーグを共に闘っていただくユニフォームスポンサーの皆様をご紹介いたします。",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "lawson",
+        "placement": "shorts",
+        "source": {
+          "name": "柏レイソル: 『2026/27シーズン ユニフォームデザイン決定』のお知らせ",
+          "date": "2026-07-04",
+          "url": "https://www.reysol.co.jp/news/goods/202627-4.html",
+          "note": "Shorts (front, left hem): Lawson, Inc. The page's sponsor image is captioned 株式会社ローソン, 掲出場所：パンツ前面 / 左裾, and shows the LAWSON TICKET / ローチケ mark on the shorts. The quoted sentence introduces the sponsor images; the placement is in the image, not in the page's text.",
+          "quote": "2026/27シーズン明治安田J1リーグを共に闘っていただくユニフォームスポンサーの皆様をご紹介いたします。",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "hitachi-hightech",
+        "placement": "shorts",
+        "source": {
+          "name": "柏レイソル: 『2026/27シーズン ユニフォームデザイン決定』のお知らせ",
+          "date": "2026-07-04",
+          "url": "https://www.reysol.co.jp/news/goods/202627-4.html",
+          "note": "Shorts (back, right hem): Hitachi High-Tech Corporation. The page's sponsor image is captioned 株式会社日立ハイテク, 掲出場所：パンツ後面 / 右裾, and its field-player design shows the mark there. The quoted sentence introduces the sponsor images; the placement is in the image, not in the page's text.",
+          "quote": "2026/27シーズン明治安田J1リーグを共に闘っていただくユニフォームスポンサーの皆様をご紹介いたします。",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "yonex",
+        "placement": "partner",
+        "source": {
+          "name": "柏レイソル: 『2026/27シーズン ユニフォームデザイン決定』のお知らせ",
+          "date": "2026-07-04",
+          "url": "https://www.reysol.co.jp/news/goods/202627-4.html",
+          "note": "Uniform supplier: Yonex Co., Ltd., named under 【ユニフォームサプライヤー】.",
+          "quote": "【ユニフォームサプライヤー】 ヨネックス株式会社",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "change": null,
+    "summary": "Kashiwa Reysol 2026/27 home shirt (Yonex): Hitachi on the chest, Sankyo Frontier (right collarbone) and Hitachi Systems (left collarbone) on the front, Aflac above the back number, Hitachi Building Systems at the back hem, Hitachi Plant Services on the left sleeve, Lawson (Lawson Ticket mark) on the front of the shorts and Hitachi High-Tech on the back of the shorts. The list is complete: the club's 2026/27 uniform design announcement (2026-07-04) shows each sponsor with its placement, and its field-player design shows no other mark.",
+    "headline": "Hitachi pays for the front of Kashiwa Reysol's shirt",
+    "shortLine": "Hitachi front, Aflac back, Yonex supplier"
+  },
+  {
     "id": "korean-golf-club-2026-home",
     "clubId": "korean-golf-club",
     "season": "2026",
@@ -16997,50 +17151,95 @@
         "sponsorId": "bahrain-victorious",
         "placement": "front",
         "source": {
-          "name": "The Daily Tribune (Bahrain), 'Victorious Bahrain goes European: Shaikh Nasser visits Paris FC'",
+          "name": "The Daily Tribune: Victorious Bahrain goes European: Shaikh Nasser visits Paris FC",
           "date": "2026-02-08",
-          "url": "https://www.newsofbahrain.com/sports/126544.html"
+          "url": "https://www.newsofbahrain.com/sports/126544.html",
+          "quote": "visited the headquarters of French club Paris FC, which competes under the banner of “Victorious Bahrain”",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The club's official partners page lists Team Bahrain Victorious first under 'Partenaires principaux' (main partners); the shirt photo on the club's shop shows BAHRAIN VICTORIOUS printed across the centre chest."
         }
       },
       {
         "sponsorId": "google-pixel",
         "placement": "front",
         "source": {
-          "name": "Paris FC — site officiel",
-          "date": "2026",
-          "url": "https://parisfc.fr/"
+          "name": "Paris FC: Paris FC enters a new era with Google Pixel",
+          "date": "2025-08-14",
+          "url": "https://parisfc.fr/en/club-en/le-paris-fc-entre-dans-une-nouvelle-ere-avec-google-pixel/",
+          "quote": "le logo Google Pixel figurera sur les maillots de l’équipe masculine et au bord du terrain dès la saison 2025-2026. Ce partenariat, conclu jusqu’en juin 2028",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The deal runs to June 2028, so it covers 2026-27; the article doesn't say where on the shirt the logo sits."
         }
       },
       {
         "sponsorId": "vinci",
         "placement": "back",
         "source": {
-          "name": "Paris FC — site officiel",
+          "name": "Paris FC: Nos partenaires",
           "date": "2026",
-          "url": "https://parisfc.fr/"
+          "url": "https://parisfc.fr/nos-partenaires-2/",
+          "quote": "Partenaires principaux Partenaires majeurs Partenaires officiels et institutionnels Fournisseurs Officiels",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "The partner names on that page are images: Vinci's logo (alt 'Vinci') sits under 'Partenaires majeurs'. No source found that states Vinci's place on the 2026-27 shirt."
         }
       },
       {
         "sponsorId": "renault",
         "placement": "sleeve",
         "source": {
-          "name": "Paris FC — site officiel",
-          "date": "2026",
-          "url": "https://parisfc.fr/"
+          "name": "Renault Group: Renault renouvelle et renforce son partenariat avec le Paris FC jusqu'en 2027",
+          "date": "2025-06-30",
+          "url": "https://media.renault.com/renault-renouvelle-et-renforce-son-partenariat-avec-le-paris-fc-jusquen-2027/?lang=fra",
+          "quote": "La marque sera présente sur la manche gauche des maillots de match des Equipes féminines et masculines",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Renault is a major partner for the two seasons 2025-26 and 2026-27."
         }
       },
       {
         "sponsorId": "bwin",
         "placement": "shorts",
         "source": {
-          "name": "Paris FC — site officiel",
-          "date": "2026",
-          "url": "https://parisfc.fr/"
+          "name": "Sport Business Club: Football. Une marque internationale partenaire du Paris FC",
+          "date": "2025-02-20",
+          "url": "https://www.sportbusiness.club/football-un-sponsor-international-pour-le-paris-fc/",
+          "quote": "Le logo de l’opérateur international de paris sportifs sera visible sur le short des joueurs du Paris FC",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Announced in February 2025, when the club was in Ligue 2; no source found that restates the shorts for 2026-27. The club's partners page still lists bwin under 'Partenaires majeurs'."
+        }
+      },
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "Paris FC: adidas et le Paris FC dévoilent le maillot domicile pour la saison 26-27",
+          "date": "2026-08-05",
+          "url": "https://parisfc.fr/equipe-pro/adidas-et-le-paris-fc-devoilent-le-maillot-domicile-pour-la-saison-26-27/",
+          "quote": "adidas et le Paris FC présentent aujourd’hui le nouveau maillot domicile pour la saison 2026/27.",
+          "checked": {
+            "on": "2026-09-28",
+            "by": "Schnitzel"
+          },
+          "note": "Kit maker, named by the club in the kit launch; not a shirt sponsor in the front/back/sleeve sense."
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Adidas kit. Bahrain Victorious (Bahrain state brand) front.",
+    "summary": "Adidas kit. Bahrain Victorious (Bahrain state brand) on the front, with Google Pixel; Vinci on the back; Renault on the left sleeve; Bwin on the shorts. Vinci's back placement and the exact Google Pixel spot aren't stated by a source, bwin's shorts deal was announced in 2025, and Red Bull, listed among the club's major partners, isn't placed on the shirt by any source, so the list isn't marked complete.",
     "change": null
   },
   {
@@ -19587,6 +19786,175 @@
     "summary": "Santander (Banco Santander's Portuguese bank) across the front, Cartrack (Karooooo's vehicle-tracking brand) across the upper back and Honda on the sleeve of the Macron red home shirt, with family-owned pharma group Hovione on the shorts. Placements checked against Rugby Europe's official photos (Portugal v Romania, 22 Feb 2026; REC semi-final v Spain, 8 Mar 2026) and the federation's Nations Cup graphics (July 2026). Nothing found on any of them.",
     "change": null,
     "shortLine": "Santander on the front"
+  },
+  {
+    "id": "rugby-scotland-2026-27-home",
+    "clubId": "rugby-scotland",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "arnold-clark",
+        "placement": "front",
+        "source": {
+          "name": "Scottish Rugby: Sponsors & Partners",
+          "date": "2026",
+          "url": "https://scottishrugby.org/about/sponsors-and-partners/",
+          "quote": "Arnold Clark are proud to be the Official Principal Partner and Men’s Front of Shirt Partner.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "The union's own sponsors page, undated, checked for the 2026/27 season. The Arnold Clark lettering on the centre chest is visible on the official 2026/27 home replica product photos (authorised retailer Rugbystuff.com)."
+        }
+      },
+      {
+        "sponsorId": "vodafone",
+        "placement": "back",
+        "source": {
+          "name": "Scottish Rugby: Sponsors & Partners",
+          "date": "2026",
+          "url": "https://scottishrugby.org/about/sponsors-and-partners/",
+          "quote": "Vodafone are proud to be the Official Principal Partner of Scottish Rugby, as well as being the Men’s and Women’s Back of Shirt Partner.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "The union's own sponsors page, undated, checked for the 2026/27 season. The Vodafone mark on the upper back is visible on the official 2026/27 home replica product photos (authorised retailer Rugbystuff.com)."
+        }
+      },
+      {
+        "sponsorId": "halo-service-solutions",
+        "placement": "shorts",
+        "side": "back",
+        "source": {
+          "name": "Scottish Rugby: Sponsors & Partners",
+          "date": "2026",
+          "url": "https://scottishrugby.org/about/sponsors-and-partners/",
+          "quote": "Official Enterprise Software Partner of Scottish Rugby and Men’s Back of Shorts Partner.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "The union's own sponsors page, undated, checked for the 2026/27 season; the entry links to usehalo.com (Halo Service Solutions). The same page states Elior UK holds a separate back-of-shorts deal for Scotland Women from April 2026."
+        }
+      },
+      {
+        "sponsorId": "macron",
+        "placement": "partner",
+        "source": {
+          "name": "Scottish Rugby: Scottish Rugby and Macron launch new 2026/27 international kits",
+          "date": "2026-07-08",
+          "url": "https://scottishrugby.org/news-and-features/scottish-rugby-and-macron-launch-new-2026-27-international-kits/",
+          "quote": "Scottish Rugby, in partnership with Macron, have unveiled the international home kit to be worn on the world’s stage during season 2026/27",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Kit maker, listed as partner per the convention for kit suppliers. Official 2026/27 home replica product photos (authorised retailer Rugbystuff.com) show the Macron Hero logo on the right chest, the Scotland crest on the left, the Arnold Clark front wordmark, the Vodafone mark on the upper back, a Saltire flag patch on the left sleeve (national flag, not a commercial sponsor) and no other commercial marks on the sleeves."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Arnold Clark is on the front of the 2026/27 navy home shirt, Vodafone on the back, Halo (Halo Service Solutions) on the back of the shorts, and Macron is the kit maker. Scottish Rugby's sponsors page documents front, back and shorts; the official product photos show the national flag as the only sleeve mark and no other sponsors.",
+    "change": null,
+    "shortLine": "Arnold Clark on the front"
+  },
+  {
+    "id": "rugby-tonga-2026-27-home",
+    "clubId": "rugby-tonga",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "macron",
+        "placement": "partner",
+        "source": {
+          "name": "Matangi Tonga: Ikale Tahi squad named for Nations Cup 2026",
+          "date": "2026-06-11",
+          "url": "https://matangitonga.to/2026/06/11/ikale-tahi-squad-named-nations-cup-2026",
+          "quote": "Macron will become the official supplier of match kits and apparel for Tonga's men's and women's national teams.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Kit maker, listed as partner per the convention for kit suppliers. The deal was announced in Bologna on 10 June 2026; Tonga Rugby Union's own LinkedIn post calls it a five-year partnership making Macron the official kit supplier of the Tonga national rugby team. The white Macron hero logo sits on the right chest of the red home shirt and on the white match shorts in Nations Cup match photos (Tonga v Zimbabwe, Denver, 4 July 2026, in the high-resolution Tonga Rugby Union photo used by talanoaotonga.to and in Matangi Tonga's 9 July match-report photo; Tonga v Portugal, Winnipeg, 18 July 2026, Canadian Press photo via Alamy). Those photos show no other logo anywhere on the shirt or shorts. The Matangi Tonga page blocks scripted access (403 to the source checker, WebDriver fingerprint), but it opened normally and the quote was confirmed on 2026-09-30."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Nothing on the shirt but the maker's mark: the red Macron home shirt of the 'Ikale Tahi carries no commercial sponsor on the front, sleeves, upper back or match shorts. Every placement checked against Nations Cup 2026 match photos: Tonga v Zimbabwe (Denver, 4 July 2026, hi-res Tonga Rugby Union photo via talanoaotonga.to; Matangi Tonga's 9 July report photo) and Tonga v Portugal (Winnipeg, 18 July 2026, Canadian Press/Alamy). Sanitarium Weet-Bix became an official sponsor of Tonga Rugby Union in September 2025 (Matangi Tonga), but the deal is described as player-nutrition and grassroots support and no Weet-Bix logo is visible on the playing kit in those photos.",
+    "change": null,
+    "shortLine": "No sponsors on the shirt"
+  },
+  {
+    "id": "rugby-wales-2026-27-home",
+    "clubId": "rugby-wales",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "vodafone",
+        "placement": "front",
+        "source": {
+          "name": "Vodafone UK: Rugby Sponsorships & Partnerships",
+          "date": "2026-09-30",
+          "url": "https://www.vodafone.co.uk/mobile/partnerships/rugby",
+          "quote": "Vodafone is the Principal Partner of men’s, women’s, and pathway (U20s and U18s) rugby in Wales, alongside front-of-shirt and back-of-shorts sponsorship.",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Undated live partnerships page, opened 2026-09-30; confirms the current deal (WRU/Vodafone announced the multi-year extension in June 2023). The Vodafone wordmark and swoosh fill the centre chest of the official 2026/27 replica home front product photos (WRU store / rugby-heaven.com). The page also claims back-of-shorts rights, but the official 2026/27 replica home shorts product photos (rugby-heaven.com, all five views) show only the WRU crest and Macron branding — no Vodafone mark on the replica shorts; match-worn shorts not verified."
+        }
+      },
+      {
+        "sponsorId": "go-compare",
+        "placement": "back",
+        "source": {
+          "name": "Welsh Rugby Union: Go.Compare backs Wales teams",
+          "date": "2023-07",
+          "url": "https://www.wru.wales/2023/07/go-compare-backs-wales-teams",
+          "quote": "which will see its logo feature on the back of all of the WRU’s senior international and pathway teams in both the men’s and the women’s game with immediate effect",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "WRU announcement of the multi-year deal (page undated; July 2023 from the URL and the 'debut August 5th' sentence). Still current: the GO.COMPARE wordmark sits across the upper back in the official 2026/27 replica home back product photos (WRU store / rugby-heaven.com), and Go Compare remains in the 'Principal Partners' footer of the WRU's August 2026 kit-launch page."
+        }
+      },
+      {
+        "sponsorId": "macron",
+        "placement": "partner",
+        "source": {
+          "name": "Welsh Rugby Union: WRU unveils new home and alternate kits inspired by the land and legend of Wales",
+          "date": "2026-08",
+          "url": "https://www.wru.wales/2026/08/wru-unveils-new-home-and-alternate-kits-inspired-by-the-land-and-legend-of-wales/",
+          "quote": "The Welsh Rugby Union (WRU) and official kit supplier Macron have today unveiled the new home and alternate kits for the senior national teams",
+          "checked": {
+            "on": "2026-09-30",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          },
+          "note": "Kit maker, listed as partner per the convention for kit suppliers. Page undated; August 2026 from the URL and its launch-day wording (kits on sale 6 August)."
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Vodafone across the front and Go.Compare across the upper back of the red Macron home shirt, both under multi-year deals from 2023 confirmed as current by Vodafone's live partnerships page and the official 2026/27 replica product photos. Sleeves, lower back and the white shorts carry only tonal dragon artwork, the WRU crest and Macron branding — checked against all eleven official replica product photos of the shirt and shorts.",
+    "change": null,
+    "shortLine": "Vodafone on the front"
   },
   {
     "id": "sabah-2026-27-home",

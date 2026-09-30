@@ -466,6 +466,26 @@
     }
   },
   {
+    "id": "aflac-japan",
+    "name": "Aflac Japan",
+    "ownerId": "aflac-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Aflac Life Insurance Japan Ltd., a subsidiary of NYSE-listed Aflac Incorporated. Nothing found.",
+    "claimIds": [
+      "aflac-japan-aflac-inc",
+      "aflac-inc-shareholders"
+    ],
+    "aliases": [
+      "Aflac",
+      "アフラック",
+      "アフラック生命保険株式会社",
+      "Aflac Life Insurance Japan Ltd."
+    ],
+    "note": "Kit sponsor (back, above the number) of Kashiwa Reysol 2026-27 per https://www.reysol.co.jp/news/goods/202627-4.html . Rating note: Aflac Incorporated's 5% holders are Vanguard (11.1%), BlackRock (8.2%) and the J&A Alliance Trust (10.2% of the shares, votes limited to 20%), whose sole beneficiary is Japan Post Holdings; the 2026 proxy says Japan Post Holdings has no board seat and no control rights. Japan's Minister of Finance holds 36.43% of Japan Post Holdings (as of 30 June 2026, https://www.japanpost.jp/en/ir/stock/index10.html), so the Japanese state's indirect stake is about 3.7%; Japan has no record in this data, so it is not a link either way. Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding against Aflac found."
+  },
+  {
     "id": "afrasia-bank",
     "name": "AfrAsia Bank",
     "ownerId": null,
@@ -1539,6 +1559,20 @@
     ]
   },
   {
+    "id": "arnold-clark",
+    "name": "Arnold Clark",
+    "ownerId": "arnold-clark-automobiles",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "The Clark family's car retail group (Arnold Clark Automobiles Ltd, Scotland; PSCs are Clark family members and family holding company Jagc Holdings). Nothing found.",
+    "claimIds": [
+      "arnold-clark-automobiles-ownership"
+    ],
+    "aliases": [],
+    "note": "Front-of-shirt partner of Scotland men's rugby (Scottish Rugby sponsors page, checked 2026-09-30)."
+  },
+  {
     "id": "aroya-cruises",
     "name": "AROYA Cruises",
     "ownerId": "cruise-saudi",
@@ -2224,13 +2258,27 @@
     "name": "Bahrain Victorious",
     "ownerId": "government-of-bahrain",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "Victorious Bahrain is the Kingdom of Bahrain's own brand, fronted by the King's representative, Shaikh Nasser bin Hamad Al Khalifa.",
+    "claimIds": [
+      "wec-bapco-bahrain-record",
+      "bahrain-victorious-ownership"
+    ],
     "aliases": [
       "victorious bahrain"
-    ]
+    ],
+    "why": {
+      "text": "'Victorious Bahrain' is the Kingdom of Bahrain's brand, fronted by Shaikh Nasser bin Hamad Al Khalifa, the King's representative, and Paris FC compete under it to promote the Kingdom's visibility, investment and tourism. Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people, that a detainee died in custody after being disappeared, and that twelve death row inmates remain at imminent risk of execution. A famous shirt makes the country look good to millions of fans while that goes on. That's called sportswashing.",
+      "claimIds": [
+        "wec-bapco-bahrain-record",
+        "bahrain-victorious-ownership"
+      ],
+      "messageLine": "Human Rights Watch reports that Bahraini authorities arbitrarily arrested dozens of people in 2026 and that a detainee died in custody after being disappeared.",
+      "status": "draft"
+    },
+    "note": "Rated Serious by the maintainers on 30 September 2026: a brand of a state with a record, like Visit Saudi, Visit Qatar and Experience Abu Dhabi.",
+    "ownerVerb": "paid for by"
   },
   {
     "id": "bahri",
@@ -4372,7 +4420,7 @@
       "clickhouse-inc-record"
     ],
     "aliases": [],
-    "note": "Rating note: Private owner → none. GIC (Singapore) is a minority investor only; Singapore's record is clean, so no abuse link. Arguable concern if any SWF minority counts; recorded here."
+    "note": "Rating note: a private, venture-backed company. GIC, Singapore's sovereign wealth fund, is one of its investors (clickhouse-inc-record); its stake isn't published and no board seat is sourced, so the link isn't shown to reach 5% or a board seat. A published GIC stake of 5% or more, or a GIC board seat, would make this Concern (Singapore counts as a state with a record)."
   },
   {
     "id": "cma-cgm",
@@ -7688,6 +7736,23 @@
     "note": "Rating note: Listed Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
   },
   {
+    "id": "go-compare",
+    "name": "Go.Compare",
+    "ownerId": "future-plc",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "gocompare-future-ownership"
+    ],
+    "aliases": [
+      "GoCompare",
+      "GoCompare.com"
+    ],
+    "note": "Ownership is sourced (gocompare-future-ownership): a brand of London-listed media company Future plc. Proposed tier: none (see PR)."
+  },
+  {
     "id": "golden-1-credit-union",
     "name": "Golden 1 Credit Union",
     "ownerId": "golden-1-credit-union-owner",
@@ -7808,13 +7873,16 @@
   {
     "id": "google-pixel",
     "name": "Google Pixel",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "alphabet-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Alphabet Inc. Nothing found.",
+    "claimIds": [
+      "alphabet-inc-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Google Pixel is a Google (Alphabet) product line; reuses the checked Alphabet ownership claim."
   },
   {
     "id": "government-of-kuwait",
@@ -8218,6 +8286,23 @@
     "note": "Rating note: Not to be confused with HALO Water Systems or Halo Sports. Small US private brand, no parent group."
   },
   {
+    "id": "halo-service-solutions",
+    "name": "Halo Service Solutions",
+    "ownerId": "halo-service-management",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Scottish enterprise-software company (formerly Net Help Desk Ltd); its only person with significant control is founder Paul Hamilton (25-50% of shares). Nothing found.",
+    "claimIds": [
+      "halo-service-solutions-ownership"
+    ],
+    "aliases": [
+      "Halo",
+      "usehalo.com"
+    ],
+    "note": "Not the US hydration brand HALO already in the dataset at data/sponsors/halo.json. Scotland men's rugby back-of-shorts partner and Official Enterprise Software Partner of Scottish Rugby (Scottish Rugby sponsors page, checked 2026-09-30)."
+  },
+  {
     "id": "hansemerkur",
     "name": "HanseMerkur",
     "ownerId": "hansemerkur-krankenversicherung-ag",
@@ -8540,6 +8625,95 @@
     "claimIds": [],
     "aliases": [],
     "note": "Chinese TV/appliance brand; sponsor of World Cup 26 and first partner of the FIFA Club World Cup 2025."
+  },
+  {
+    "id": "hitachi",
+    "name": "Hitachi, Ltd.",
+    "ownerId": "hitachi-ltd",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "hitachi-ltd-shareholders"
+    ],
+    "aliases": [
+      "株式会社日立製作所",
+      "HITACHI"
+    ],
+    "note": "Kit sponsor (front, chest) of Kashiwa Reysol 2026-27 per https://www.reysol.co.jp/news/goods/202627-4.html . Left unrated for a maintainer: the owner is sourced (hitachi-ltd-shareholders: listed in Tokyo and Nagoya; the largest holders are trust-bank accounts, GOVERNMENT OF NORWAY holds 1.69%, and government and municipality holders 0.00%), but the company test isn't settled. On 6 September 2019 Japan's Immigration Services Agency issued Hitachi, Ltd. an improvement order under the Technical Intern Training Act for making foreign technical interns at its Kasado works (Kudamatsu, Yamaguchi) do work outside their training plan; after the July 2018 inspection no new training plans were approved there, and many interns who could not renew their residence status were dismissed (Nikkei, 2019-09-06, https://www.nikkei.com/article/DGXMZO49509660W9A900C1CR8000/). Hitachi and 10 group companies (12 sites) had already received improvement recommendations or guidance from the Organization for Technical Intern Training for breaches of the same act between April and September 2018 (Nikkei, 2019-03-05, https://www.nikkei.com/article/DGXMZO42034490V00C19A3CC0000/; the article names Hitachi's Omika works and Hitachi Metals, not the other companies). The Takaoka Labour Standards Inspection Office recognised in January 2018 that a Hitachi employee seconded to Hitachi Plant Services developed a mental illness because of a supervisor's conduct and more than 100 hours of overtime a month in 2015-16 (Nikkei, 2018-11-06, https://www.nikkei.com/article/DGXMZO37435230W8A101C1CR8000/). A maintainer decides whether a regulator's order over the treatment of technical interns, or a labour office's recognition of a work-related illness, is a human-rights finding under METHOD.md. The agency's own release of 2019-09-06 could not be opened (its address no longer answers), so the order rests on the Nikkei report. No record claim is written yet."
+  },
+  {
+    "id": "hitachi-building-systems",
+    "name": "Hitachi Building Systems Co., Ltd.",
+    "ownerId": "hitachi-ltd",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "hitachi-building-systems-hitachi",
+      "hitachi-ltd-shareholders"
+    ],
+    "aliases": [
+      "株式会社日立ビルシステム",
+      "日立ビルシステム"
+    ],
+    "note": "Kit sponsor (back, at the hem) of Kashiwa Reysol 2026-27 per https://www.reysol.co.jp/news/goods/202627-4.html . Left unrated for a maintainer, together with `hitachi`: the owner is sourced (hitachi-building-systems-hitachi: Hitachi, Ltd. holds 100.0% of the voting rights; hitachi-ltd-shareholders: no state holder), but the company test on that owner isn't settled. On 6 September 2019 Japan's Immigration Services Agency issued Hitachi, Ltd. an improvement order under the Technical Intern Training Act for making foreign technical interns at its Kasado works (Kudamatsu, Yamaguchi) do work outside their training plan; after the July 2018 inspection no new training plans were approved there, and many interns who could not renew their residence status were dismissed (Nikkei, 2019-09-06, https://www.nikkei.com/article/DGXMZO49509660W9A900C1CR8000/). Hitachi and 10 group companies (12 sites) had already received improvement recommendations or guidance from the Organization for Technical Intern Training for breaches of the same act between April and September 2018 (Nikkei, 2019-03-05, https://www.nikkei.com/article/DGXMZO42034490V00C19A3CC0000/; the article names Hitachi's Omika works and Hitachi Metals, not the other companies). If a maintainer counts this as a human-rights finding against Hitachi, Ltd., it reaches this sponsor through its owner (METHOD.md: a record about an owner in the sponsor's chain); if not, this sponsor is `none`. No record claim is written yet."
+  },
+  {
+    "id": "hitachi-hightech",
+    "name": "Hitachi High-Tech Corporation",
+    "ownerId": "hitachi-ltd",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "hitachi-hightech-hitachi",
+      "hitachi-ltd-shareholders"
+    ],
+    "aliases": [
+      "株式会社日立ハイテク",
+      "日立ハイテク"
+    ],
+    "note": "Kit sponsor (back of the shorts) of Kashiwa Reysol 2026-27 per https://www.reysol.co.jp/news/goods/202627-4.html . Left unrated for a maintainer, together with `hitachi`: the owner is sourced (hitachi-hightech-hitachi: Hitachi, Ltd. holds 100.0% of the voting rights; hitachi-ltd-shareholders: no state holder), but the company test on that owner isn't settled. On 6 September 2019 Japan's Immigration Services Agency issued Hitachi, Ltd. an improvement order under the Technical Intern Training Act for making foreign technical interns at its Kasado works (Kudamatsu, Yamaguchi) do work outside their training plan; after the July 2018 inspection no new training plans were approved there, and many interns who could not renew their residence status were dismissed (Nikkei, 2019-09-06, https://www.nikkei.com/article/DGXMZO49509660W9A900C1CR8000/). Hitachi and 10 group companies (12 sites) had already received improvement recommendations or guidance from the Organization for Technical Intern Training for breaches of the same act between April and September 2018 (Nikkei, 2019-03-05, https://www.nikkei.com/article/DGXMZO42034490V00C19A3CC0000/; the article names Hitachi's Omika works and Hitachi Metals, not the other companies). If a maintainer counts this as a human-rights finding against Hitachi, Ltd., it reaches this sponsor through its owner (METHOD.md: a record about an owner in the sponsor's chain); if not, this sponsor is `none`. No record claim is written yet."
+  },
+  {
+    "id": "hitachi-plant-services",
+    "name": "Hitachi Plant Services Co., Ltd.",
+    "ownerId": "hitachi-ltd",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "hitachi-plant-services-hitachi",
+      "hitachi-ltd-shareholders"
+    ],
+    "aliases": [
+      "株式会社日立プラントサービス",
+      "日立プラントサービス"
+    ],
+    "note": "Kit sponsor (left sleeve) of Kashiwa Reysol 2026-27 per https://www.reysol.co.jp/news/goods/202627-4.html . Left unrated for a maintainer, together with `hitachi`: the owner is sourced (hitachi-plant-services-hitachi: Hitachi, Ltd. holds 100.0% of the voting rights; hitachi-ltd-shareholders: no state holder), but the company test on that owner isn't settled. The Takaoka Labour Standards Inspection Office recognised in January 2018 that a Hitachi employee seconded to Hitachi Plant Services developed a mental illness because of a supervisor's conduct and more than 100 hours of overtime a month in 2015-16 (Nikkei, 2018-11-06, https://www.nikkei.com/article/DGXMZO37435230W8A101C1CR8000/). On 6 September 2019 Japan's Immigration Services Agency issued Hitachi, Ltd. an improvement order under the Technical Intern Training Act for making foreign technical interns at its Kasado works (Kudamatsu, Yamaguchi) do work outside their training plan; after the July 2018 inspection no new training plans were approved there, and many interns who could not renew their residence status were dismissed (Nikkei, 2019-09-06, https://www.nikkei.com/article/DGXMZO49509660W9A900C1CR8000/). Hitachi and 10 group companies (12 sites) had already received improvement recommendations or guidance from the Organization for Technical Intern Training for breaches of the same act between April and September 2018 (Nikkei, 2019-03-05, https://www.nikkei.com/article/DGXMZO42034490V00C19A3CC0000/; the article names Hitachi's Omika works and Hitachi Metals, not the other companies). If a maintainer counts this as a human-rights finding against Hitachi, Ltd., it reaches this sponsor through its owner (METHOD.md: a record about an owner in the sponsor's chain); if not, this sponsor is `none`. No record claim is written yet."
+  },
+  {
+    "id": "hitachi-systems",
+    "name": "Hitachi Systems, Ltd.",
+    "ownerId": "hitachi-ltd",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "hitachi-systems-hitachi",
+      "hitachi-ltd-shareholders"
+    ],
+    "aliases": [
+      "株式会社日立システムズ",
+      "日立システムズ"
+    ],
+    "note": "Kit sponsor (front, left collarbone) of Kashiwa Reysol 2026-27 per https://www.reysol.co.jp/news/goods/202627-4.html . Left unrated for a maintainer, together with `hitachi`: the owner is sourced (hitachi-systems-hitachi: Hitachi, Ltd. holds 100.0% of the voting rights; hitachi-ltd-shareholders: no state holder), but the company test on that owner isn't settled. On 6 September 2019 Japan's Immigration Services Agency issued Hitachi, Ltd. an improvement order under the Technical Intern Training Act for making foreign technical interns at its Kasado works (Kudamatsu, Yamaguchi) do work outside their training plan; after the July 2018 inspection no new training plans were approved there, and many interns who could not renew their residence status were dismissed (Nikkei, 2019-09-06, https://www.nikkei.com/article/DGXMZO49509660W9A900C1CR8000/). Hitachi and 10 group companies (12 sites) had already received improvement recommendations or guidance from the Organization for Technical Intern Training for breaches of the same act between April and September 2018 (Nikkei, 2019-03-05, https://www.nikkei.com/article/DGXMZO42034490V00C19A3CC0000/; the article names Hitachi's Omika works and Hitachi Metals, not the other companies). If a maintainer counts this as a human-rights finding against Hitachi, Ltd., it reaches this sponsor through its owner (METHOD.md: a record about an owner in the sponsor's chain); if not, this sponsor is `none`. No record claim is written yet."
   },
   {
     "id": "hologic",
@@ -10280,6 +10454,29 @@
       "Lavoropiù S.p.A."
     ],
     "note": "Italian employment agency (agenzia per il lavoro) based in Bologna; under the direction and coordination of Lavoropiù Holding S.r.l., a private holding. No state or fund involvement found."
+  },
+  {
+    "id": "lawson",
+    "name": "Lawson",
+    "ownerId": "lawson-inc",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "lawson-kddi-mitsubishi",
+      "kddi-corporation-shareholders",
+      "mitsubishi-corporation-shareholders"
+    ],
+    "aliases": [
+      "株式会社ローソン",
+      "Lawson, Inc.",
+      "ローチケ",
+      "L-tike",
+      "株式会社ローソンエンタテインメント",
+      "Lawson Entertainment"
+    ],
+    "note": "Kit sponsor (front of the shorts, Lawson Ticket / ローチケ mark) of Kashiwa Reysol 2026-27 per https://www.reysol.co.jp/news/goods/202627-4.html , whose sponsor image names 株式会社ローソン. Left unrated for a maintainer: the owners are sourced (lawson-kddi-mitsubishi: Mitsubishi Corporation and KDDI hold 50% each; both are Tokyo-listed, with trust banks, Kyocera and Toyota as the largest holders and national and local governments at 0.00% of KDDI), but one point about the 50% owner KDDI is open. Norway's Council on Ethics recommended on 29 June 2023 that the Government Pension Fund Global exclude KDDI for 'an unacceptable risk that the company is contributing to serious violation of the rights of individuals in situations of war and conflict', through its joint operation with Myanmar's state telecom operator MPT; Norges Bank placed KDDI under observation on 18 December 2023 (https://etikkradet.no/kddi-corp-2/). The Council says KDDI 'plays no direct role in the surveillance'. This is a state fund's risk assessment of one of two owners, not a court, regulator, UN or NGO finding of abuse, so on a strict reading of METHOD.md Lawson is `none`; a maintainer decides. No finding against Lawson or Mitsubishi Corporation themselves was found in a quick check (2026-09-30). No record claim is written yet."
   },
   {
     "id": "lbbw",
@@ -14942,13 +15139,16 @@
   {
     "id": "renault",
     "name": "Renault",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "renault-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Renault Group, a listed company in which the French State holds 15.01%. Nothing found.",
+    "claimIds": [
+      "renault-french-state-stake"
+    ],
+    "aliases": [],
+    "note": "The French State holds 15.01% of Renault's capital and 21.92% of theoretical voting rights (renault-french-state-stake). France doesn't count as a state with a record of serious abuses under METHOD.md (the maintainers' decision, 30 September 2026), so the stake isn't a link."
   },
   {
     "id": "reuter",
@@ -15606,6 +15806,23 @@
     "claimIds": [],
     "aliases": [],
     "note": "Official Partner of Artemis SailGP Team (Sweden) (sailgp.com team page, fetched 2026-09-25)."
+  },
+  {
+    "id": "sankyo-frontier",
+    "name": "Sankyo Frontier",
+    "ownerId": "sankyo-frontier-co",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Sankyo Frontier Co., Ltd., a Tokyo-listed unit-house maker majority-held by the Nagatsuma family's unlisted company Wako Kosan. Nothing found.",
+    "claimIds": [
+      "sankyo-frontier-wako-kosan"
+    ],
+    "aliases": [
+      "三協フロンテア株式会社",
+      "Sankyo Frontier Co., Ltd."
+    ],
+    "note": "Kit sponsor (front, right collarbone) of Kashiwa Reysol 2026-27 per https://www.reysol.co.jp/news/goods/202627-4.html . Rating note: Wako Kosan (50.54%) is 100% owned by the Nagatsuma family per the securities report, which lists no government holder. Quick company check (2026-09-30): the group has subsidiaries in Myanmar (unit-house rental and drawing work, per the same report); no court, regulator, UN or major-NGO human-rights finding against the company found."
   },
   {
     "id": "santander",
@@ -18908,13 +19125,16 @@
   {
     "id": "vinci",
     "name": "Vinci",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "vinci-sa",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Vinci SA. Nothing found.",
+    "claimIds": [
+      "vinci-sa-ownership"
+    ],
+    "aliases": [],
+    "note": "Rating note: Vinci SA is the listed French concession and construction group itself; its shareholder page lists individual shareholders (11.6%), employees and about 1,000 institutional investors, and no state or state fund appears among its disclosed shareholders, so proposed none."
   },
   {
     "id": "visa",
@@ -19780,6 +20000,23 @@
     "claimIds": [],
     "aliases": [],
     "note": "Rating note: shorts sponsor of Fenerbahçe Beko in all 2025/26 games (deal fenerbahce-basketball-ykt-filo-2025-26); no source yet for 2026/27. Owners not found, so it can't be rated yet."
+  },
+  {
+    "id": "yonex",
+    "name": "Yonex Co., Ltd.",
+    "ownerId": "yonex-co",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Yonex Co., Ltd., a Tokyo-listed sporting-goods maker whose largest shareholder is its own sports foundation. Nothing found.",
+    "claimIds": [
+      "yonex-co-shareholders"
+    ],
+    "aliases": [
+      "ヨネックス株式会社",
+      "YONEX"
+    ],
+    "note": "Uniform supplier of Kashiwa Reysol 2026-27 per https://www.reysol.co.jp/news/goods/202627-4.html (【ユニフォームサプライヤー】ヨネックス株式会社). Rating note: the largest holders are the Yonex sports foundation (11.06%), NATIONAL FINANCIAL SERVICES LLC (6.77%), individuals named 米山 (Yoneyama) and a second Yoneyama foundation (4.66%); governments and local public bodies hold no shares. Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding against Yonex found."
   },
   {
     "id": "york-space-systems",

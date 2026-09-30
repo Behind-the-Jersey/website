@@ -566,6 +566,59 @@
     "reviewed": false
   },
   {
+    "id": "aflac-inc-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "aflac-inc"
+    ],
+    "text": "Aflac Incorporated's 2026 proxy statement lists the holders of more than 5% of its common stock as of 24 February 2026: The Vanguard Group (11.1% of the shares, 4.4% of the votes), J&A Alliance Holdings Corporation as trustee of J&A Alliance Trust (10.2% of the shares, 20.0% of the votes) and BlackRock, Inc. (8.2% of the shares, 3.3% of the votes). Japan Post Holdings is the trust's sole settlor and beneficiary; the shareholders agreement limits the trustee's voting rights to no more than 20%, and the proxy says Japan Post Holdings will have no board seat and no rights to control, manage or intervene in the management of the company.",
+    "short": "Aflac Incorporated's 5% holders are Vanguard (11.1%), a trust for Japan Post Holdings (10.2%, no board seat) and BlackRock (8.2%).",
+    "source": {
+      "name": "Aflac Incorporated: 2026 Proxy Statement (DEF 14A, SEC EDGAR)",
+      "date": "2026-03-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026019621/afl-20260319.htm",
+      "quote": "Japan Post Holdings will not have a Board seat on the Company's Board of Directors and will not have rights to control, manage or intervene in the management of the Company",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "aflac-japan-aflac-inc",
+    "kind": "ownership",
+    "ownerIds": [
+      "aflac-inc"
+    ],
+    "text": "Aflac Incorporated's Form 10-K for 2025 names Aflac Life Insurance Japan Ltd. (ALIJ) as the primary insurance subsidiary of its Aflac Japan segment, and says Aflac Incorporated's common stock is registered on the New York Stock Exchange (symbol AFL). Exhibit 21 of the 10-K lists Aflac Life Insurance Japan Ltd. as a subsidiary of Aflac Holdings LLC (Nebraska), which is a subsidiary of Aflac Incorporated.",
+    "short": "Aflac Life Insurance Japan Ltd. is a subsidiary of NYSE-listed Aflac Incorporated (through Aflac Holdings LLC).",
+    "source": {
+      "name": "Aflac Incorporated: Form 10-K for the fiscal year ended December 31, 2025 (SEC EDGAR)",
+      "date": "2026-02-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026011402/afl-20251231.htm",
+      "quote": "The primary insurance subsidiary in the Aflac Japan segment is Aflac Life Insurance Japan Ltd. (ALIJ)",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Aflac Incorporated: 2025 Form 10-K, Exhibit 21 'Subsidiaries' (SEC EDGAR)",
+        "date": "2026-02-25",
+        "url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026011402/afl123125ex21.htm",
+        "note": "Footnote (4) on Aflac Life Insurance Japan Ltd. reads 'Subsidiary of Aflac Holdings LLC'. Same filing as the main source.",
+        "quote": "Aflac Holdings LLC Nebraska Aflac Life Insurance Japan Ltd. (4) Japan",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-902 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
     "id": "ag1-athletic-greens-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -1659,6 +1712,27 @@
     "reviewed": false
   },
   {
+    "id": "arnold-clark-automobiles-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "arnold-clark-automobiles"
+    ],
+    "text": "Arnold Clark, Scotland men's rugby front-of-shirt partner, is Arnold Clark Automobiles Limited (Companies House SC036386). Its active persons with significant control are Clark family members - John Arnold Clark and Lady Philomena Butler Clark each with 75% or more of shares and voting rights with control over the trustees of a trust, Adam Hugh Wallace Clark with 25-50% via trustees - and Jagc Holdings with 25-50%.",
+    "short": "Arnold Clark is the Clark family's company (Arnold Clark Automobiles Ltd, SC036386).",
+    "source": {
+      "name": "Companies House: ARNOLD CLARK AUTOMOBILES LIMITED persons with significant control",
+      "date": "2026",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/SC036386/persons-with-significant-control",
+      "quote": "Ownership of shares – 75% or more with control over the trustees of a trust",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Live register page, undated. Lists four active PSCs: Adam Hugh Wallace Clark (25-50% via trustees), John Arnold Clark (75%+ via trustees), Jagc Holdings (25-50%) and Lady Philomena Butler Clark (75%+ via trustees)."
+    },
+    "reviewed": false
+  },
+  {
     "id": "arrow-electronics-inc-record",
     "ownerIds": [
       "arrow-electronics-inc"
@@ -2455,6 +2529,38 @@
         "checked": {
           "on": "2026-09-29",
           "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "bahrain-victorious-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "government-of-bahrain"
+    ],
+    "text": "The Daily Tribune reports that Paris FC competes under the banner of 'Victorious Bahrain', the brand fronted by Shaikh Nasser bin Hamad Al Khalifa, Representative of the King for Humanitarian Work and Youth Affairs, and says the partnership enhances Bahrain's global visibility and promotes the Kingdom's investment and tourism sectors.",
+    "short": "Paris FC compete under the Kingdom's 'Victorious Bahrain' banner, fronted by the King's representative.",
+    "source": {
+      "name": "The Daily Tribune (Bahrain), 'Victorious Bahrain goes European: Shaikh Nasser visits Paris FC'",
+      "date": "2026-02-08",
+      "url": "https://www.newsofbahrain.com/sports/126544.html",
+      "quote": "visited the headquarters of French club Paris FC, which competes under the banner of “Victorious Bahrain”",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Sport Stratégies — Football : Le Bahreïn, nouvel actionnaire du Paris FC (the Kingdom became main sponsor, name on the front of the shirts)",
+        "date": "2020-07-28",
+        "url": "https://www.sportstrategies.com/football-le-bahrein-nouvel-actionnaire-du-paris-fc/",
+        "quote": "Le Royaume du Bhareïn devient désormais sponsor principal du club et la mention « Explore Bahrain » sera ainsi visible sur la face avant des maillots",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
         }
       }
     ],
@@ -9041,6 +9147,40 @@
     "reviewed": false
   },
   {
+    "id": "gocompare-future-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "future-plc"
+    ],
+    "text": "Go.Compare, the WRU's back-of-shirt sponsor, is a brand of Future plc, which completed its acquisition of GoCo Group (the GoCompare owner) in February 2021.",
+    "short": "Go.Compare is a Future plc brand",
+    "source": {
+      "name": "Future plc: Our Brands",
+      "date": "2026-09-30",
+      "url": "https://futureplc.com/our-brands/",
+      "quote": "Go.Compare is the particularly picky comparison site. Helping you compare the cost and features of insurance policies, financial products, energy tariffs and more.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Undated page; date is the day it was opened. Go.Compare appears in Future plc's 'Our Brands' portfolio list."
+    },
+    "additionalSources": [
+      {
+        "name": "Future plc: Future plc acquires GoCo Group plc",
+        "date": "2021-02-22",
+        "url": "https://futureplc.com/news/future-plc-acquires-goco-group-plc/",
+        "quote": "announces completion of the acquisition of GoCo Group plc (“GoCo”), a data-enabled and tech-led business focused on innovation",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "Completion announcement; the same release names 'Lee Griffin (CEO of GoCompare)' among the GoCo team welcomed to Future."
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "golden-1-credit-union-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -9723,6 +9863,27 @@
     "reviewed": false
   },
   {
+    "id": "halo-service-solutions-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "halo-service-management"
+    ],
+    "text": "Halo, Scotland men's rugby back-of-shorts partner (usehalo.com), is Halo Service Solutions Ltd (Companies House SC216980, renamed from Net Help Desk Limited in July 2020), a Scottish IT services company. Its only active person with significant control is Paul Hamilton, with more than 25% but not more than 50% of the shares.",
+    "short": "Halo (usehalo.com) is Halo Service Solutions Ltd; its only PSC is Paul Hamilton (25-50%).",
+    "source": {
+      "name": "Companies House: HALO SERVICE SOLUTIONS LTD persons with significant control",
+      "date": "2026",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/SC216980/persons-with-significant-control",
+      "quote": "Persons with significant control: 1 active person with significant control / 0 active statements Mr Paul Hamilton Active",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Live register page, undated. Paul Hamilton's nature of control: 'Ownership of shares – More than 25% but not more than 50%'. Company overview (same register) shows the previous names Net Help Desk Limited and CNET Information Systems Limited, SIC 62090."
+    },
+    "reviewed": false
+  },
+  {
     "id": "hansemerkur-krankenversicherung-ag-record",
     "kind": "ownership",
     "ownerIds": [
@@ -10253,6 +10414,162 @@
       }
     },
     "reviewed": false
+  },
+  {
+    "id": "hitachi-building-systems-hitachi",
+    "kind": "ownership",
+    "ownerIds": [
+      "hitachi-ltd"
+    ],
+    "text": "Hitachi, Ltd.'s annual securities report for the fiscal year ended 31 March 2026 lists Hitachi Building Systems Co., Ltd. among its principal subsidiaries, with 100.0% of the voting rights.",
+    "short": "Hitachi Building Systems Co., Ltd. is a wholly owned subsidiary of Hitachi, Ltd.",
+    "source": {
+      "name": "Hitachi, Ltd.: Annual Securities Report (The 157th Business Term), April 1, 2025 to March 31, 2026, Note 27 'Principal Subsidiaries'",
+      "date": "2026-06-22",
+      "url": "https://www.hitachi.com/content/dam/hitachi/global/en/ir/media/library/stock/hit_sr_fy2025_2_en.pdf",
+      "quote": "Hitachi Building Systems Co., Ltd. Chiyoda-ku, Tokyo 100.0",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "English translation of the report filed on June 22, 2026; a 51 MB PDF, so the source check can't read it. Note 27 starts on page F-71."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Hitachi, Ltd.: List of Group Companies (the data file behind hitachi.com/en/about/group/)",
+        "date": "2026-07-29",
+        "url": "https://www.hitachi.com/content/dam/hitachi/global/en/corporate/js/group/group_global_en.json",
+        "note": "The directory marks Hitachi Building Systems Co., Ltd. as a consolidated subsidiary; the file says 'Updated: July 29, 2026'.",
+        "quote": "\"allocation\":\"consolidated\",\"name\":\"Hitachi Building Systems Co., Ltd.\",\"url\":\"https://www.hbs.co.jp/\"",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "hitachi-hightech-hitachi",
+    "kind": "ownership",
+    "ownerIds": [
+      "hitachi-ltd"
+    ],
+    "text": "Hitachi, Ltd.'s annual securities report for the fiscal year ended 31 March 2026 lists Hitachi High-Tech Corporation among its principal subsidiaries, with 100.0% of the voting rights.",
+    "short": "Hitachi High-Tech Corporation is a wholly owned subsidiary of Hitachi, Ltd.",
+    "source": {
+      "name": "Hitachi, Ltd.: Annual Securities Report (The 157th Business Term), April 1, 2025 to March 31, 2026, Note 27 'Principal Subsidiaries'",
+      "date": "2026-06-22",
+      "url": "https://www.hitachi.com/content/dam/hitachi/global/en/ir/media/library/stock/hit_sr_fy2025_2_en.pdf",
+      "quote": "Hitachi High-Tech Corporation Minato-ku, Tokyo 100.0",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "English translation of the report filed on June 22, 2026; a 51 MB PDF, so the source check can't read it. Note 27 starts on page F-71."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Hitachi, Ltd.: List of Group Companies (the data file behind hitachi.com/en/about/group/)",
+        "date": "2026-07-29",
+        "url": "https://www.hitachi.com/content/dam/hitachi/global/en/corporate/js/group/group_global_en.json",
+        "note": "The directory marks Hitachi High-Tech Corporation as a consolidated subsidiary; the file says 'Updated: July 29, 2026'.",
+        "quote": "\"allocation\":\"consolidated\",\"name\":\"HITACHI HIGH-TECH CORPORATION\",\"url\":\"https://www.hitachi-hightech.com/global/en/\"",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "hitachi-ltd-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "hitachi-ltd"
+    ],
+    "text": "Hitachi, Ltd. is listed on the Tokyo and Nagoya stock exchanges. Its 10 largest shareholders as of 30 June 2026 were led by The Master Trust Bank of Japan, Ltd. (Trust Account, 16.21%) and Custody Bank of Japan, Ltd. (Trust Account, 5.22%); GOVERNMENT OF NORWAY held 1.69% and the Hitachi Employees' Shareholding Association 1.61%. In its shareholders composition, 'Government and municipality' holders own 0.00% of the shares.",
+    "short": "Hitachi is listed in Tokyo and Nagoya; its largest holders are trust-bank accounts (Master Trust 16.21%, Custody Bank 5.22%).",
+    "source": {
+      "name": "Hitachi, Ltd.: Stock Information (as of June 30, 2026)",
+      "date": "2026-06-30",
+      "url": "https://www.hitachi.com/en/ir/stock/information/",
+      "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) 727,058,500 shares 16.21%",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "hitachi-plant-services-hitachi",
+    "kind": "ownership",
+    "ownerIds": [
+      "hitachi-ltd"
+    ],
+    "text": "Hitachi, Ltd.'s annual securities report for the fiscal year ended 31 March 2026 lists Hitachi Plant Services Co., Ltd. among its principal subsidiaries, with 100.0% of the voting rights.",
+    "short": "Hitachi Plant Services Co., Ltd. is a wholly owned subsidiary of Hitachi, Ltd.",
+    "source": {
+      "name": "Hitachi, Ltd.: Annual Securities Report (The 157th Business Term), April 1, 2025 to March 31, 2026, Note 27 'Principal Subsidiaries'",
+      "date": "2026-06-22",
+      "url": "https://www.hitachi.com/content/dam/hitachi/global/en/ir/media/library/stock/hit_sr_fy2025_2_en.pdf",
+      "quote": "Hitachi Plant Services Co., Ltd. Taito-ku, Tokyo 100.0",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "English translation of the report filed on June 22, 2026; a 51 MB PDF, so the source check can't read it. Note 27 starts on page F-71."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Hitachi, Ltd.: List of Group Companies (the data file behind hitachi.com/en/about/group/)",
+        "date": "2026-07-29",
+        "url": "https://www.hitachi.com/content/dam/hitachi/global/en/corporate/js/group/group_global_en.json",
+        "note": "The directory marks Hitachi Plant Services Co., Ltd. as a consolidated subsidiary; the file says 'Updated: July 29, 2026'.",
+        "quote": "\"allocation\":\"consolidated\",\"name\":\"HITACHI PLANT SERVICES CO., LTD.\",\"url\":\"https://www.hitachi-hps.co.jp/en/\"",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "hitachi-systems-hitachi",
+    "kind": "ownership",
+    "ownerIds": [
+      "hitachi-ltd"
+    ],
+    "text": "Hitachi, Ltd.'s annual securities report for the fiscal year ended 31 March 2026 lists Hitachi Systems, Ltd. among its principal subsidiaries, with 100.0% of the voting rights.",
+    "short": "Hitachi Systems, Ltd. is a wholly owned subsidiary of Hitachi, Ltd.",
+    "source": {
+      "name": "Hitachi, Ltd.: Annual Securities Report (The 157th Business Term), April 1, 2025 to March 31, 2026, Note 27 'Principal Subsidiaries'",
+      "date": "2026-06-22",
+      "url": "https://www.hitachi.com/content/dam/hitachi/global/en/ir/media/library/stock/hit_sr_fy2025_2_en.pdf",
+      "quote": "Hitachi Systems, Ltd. Shinagawa-ku, Tokyo 100.0",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "English translation of the report filed on June 22, 2026; a 51 MB PDF, so the source check can't read it. Note 27 starts on page F-71."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Hitachi, Ltd.: List of Group Companies (the data file behind hitachi.com/en/about/group/)",
+        "date": "2026-07-29",
+        "url": "https://www.hitachi.com/content/dam/hitachi/global/en/corporate/js/group/group_global_en.json",
+        "note": "The directory marks Hitachi Systems, Ltd. as a consolidated subsidiary; the file says 'Updated: July 29, 2026'.",
+        "quote": "\"allocation\":\"consolidated\",\"name\":\"HITACHI SYSTEMS,LTD.\",\"url\":\"https://www.hitachi-systems.com/\"",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ]
   },
   {
     "id": "honda-motor-co-ltd-record",
@@ -11475,6 +11792,26 @@
     "reviewed": false
   },
   {
+    "id": "kddi-corporation-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "kddi-corporation"
+    ],
+    "text": "KDDI Corporation (TSE code 9433) lists its major shareholders as of 31 March 2026 as The Master Trust Bank of Japan, Ltd. (Trust Account, 15.77%), KYOCERA Corporation (14.75%), TOYOTA MOTOR CORPORATION (9.54%) and Custody Bank of Japan, Ltd. (Trust Account, 6.63%), with no other holder above 2%; in its breakdown by investor type, national and local governments hold 0.00%.",
+    "short": "KDDI is Tokyo-listed; its largest holders are Master Trust (15.77%), Kyocera (14.75%), Toyota (9.54%) and Custody Bank (6.63%).",
+    "source": {
+      "name": "KDDI Corporation: Stock Information (as of March 31, 2026)",
+      "date": "2026-03-31",
+      "url": "https://www.kddi.com/english/corporate/ir/stock-rating/stock/",
+      "quote": "KYOCERA Corporation 562,133,600 14.75",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "kermi-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -11991,6 +12328,39 @@
       }
     },
     "reviewed": false
+  },
+  {
+    "id": "lawson-kddi-mitsubishi",
+    "kind": "ownership",
+    "ownerIds": [
+      "kddi-corporation",
+      "mitsubishi-corporation"
+    ],
+    "text": "Mitsubishi Corporation, KDDI Corporation and Lawson, Inc. announced a capital and business alliance on 6 February 2024: KDDI would make a tender offer to take Lawson private, after which Mitsubishi Corporation and KDDI would each hold 50% of Lawson's voting rights. KDDI said on 20 August 2024 that the squeeze-out was complete and that KDDI and Mitsubishi Corporation had each obtained a 50% share of Lawson's voting rights.",
+    "short": "Lawson is held 50/50 by Mitsubishi Corporation and KDDI Corporation.",
+    "source": {
+      "name": "ローソン: 三菱商事・KDDI・ローソン、資本業務提携契約を締結",
+      "date": "2024-02-06",
+      "url": "https://www.lawson.co.jp/company/news/detail/1480843_2504.html",
+      "quote": "本取引の完了後、三菱商事とKDDIは、ローソンの議決権を50%ずつ保有し",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "KDDI Corporation: (Progress of matters for disclosure) Notice Regarding the Squeeze-Out Procedure of Lawson, Inc.",
+        "date": "2024-08-20",
+        "url": "https://news.kddi.com/kddi/corporate/english/ir-news/2024/08/20/pdf/press_20240820.pdf",
+        "quote": "Then KDDI and MC each have obtained a 50% share of Lawson's voting rights.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-902 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ]
   },
   {
     "id": "lcr-ownership",
@@ -13775,6 +14145,27 @@
         "note": "Same article: \"Hazar Büyüka’nın sahibi olduğu misli.com’u satın alırsa bahis oynatma yetkisine sahip olacak\"."
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "mitsubishi-corporation-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "mitsubishi-corporation"
+    ],
+    "text": "Mitsubishi Corporation is listed in Tokyo (securities code 8058). Its principal shareholders as of 31 March 2026 were led by The Master Trust Bank of Japan, Ltd. (Trust Account, 16.65%), STATE STREET BANK AND TRUST COMPANY 505104 (10.91%), Custody Bank of Japan, Ltd. (Trust Account, 5.28%) and Meiji Yasuda Life Insurance Company (3.41%); none of the other six listed holds more than 3%.",
+    "short": "Mitsubishi Corporation is Tokyo-listed; its largest holders are Master Trust (16.65%), a State Street account (10.91%) and Custody Bank (5.28%).",
+    "source": {
+      "name": "Mitsubishi Corporation: Stock Information, 'Principal Shareholders' (as of March 31, 2026; archived copy)",
+      "date": "2026-03-31",
+      "url": "https://web.archive.org/web/20260612113750/https://www.mitsubishicorp.com/jp/en/ir/shareholder/stock/",
+      "note": "Live mitsubishicorp.com blocks scripted access (HTTP 403); Wayback snapshot of 2026-06-12 opened instead.",
+      "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) 614,262 16.65",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -17200,6 +17591,38 @@
     "reviewed": false
   },
   {
+    "id": "renault-french-state-stake",
+    "kind": "ownership",
+    "ownerIds": [
+      "french-state"
+    ],
+    "text": "At 31 December 2025 the French State held 15.01% of Renault's share capital, corresponding to 21.92% of theoretical voting rights.",
+    "short": "The French State holds 15.01% of Renault.",
+    "source": {
+      "name": "Renault Group: 2025 Universal Registration Document",
+      "date": "2026-03-31",
+      "url": "https://assets.renaultgroup.com/uploads/2026/03/URD_2025_Comp_202603310753.pdf",
+      "quote": "the French State held 15.01% of the share capital, corresponding to 21.92% of theoretical voting rights and 22.24% of exercisable voting rights in Renault",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Agence des participations de l'État, Rapport relatif à l'État actionnaire (annex to the 2026 budget bill), Renault page",
+        "date": "2025-10-21",
+        "url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2026/10-Jaune2026_Etat_actionnaire.pdf",
+        "quote": "L’État détient 15,01 % du capital, correspondant à 22,14 % des droits de vote de Renault.",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "reuter-gruppe-record",
     "kind": "ownership",
     "ownerIds": [
@@ -17951,6 +18374,41 @@
       }
     ],
     "reviewed": false
+  },
+  {
+    "id": "sankyo-frontier-wako-kosan",
+    "kind": "ownership",
+    "ownerIds": [
+      "sankyo-frontier-co",
+      "wako-kosan"
+    ],
+    "text": "Sankyo Frontier Co., Ltd.'s securities report for the year ended 31 March 2026 (57th term) names the unlisted 有限会社和幸興産 (Wako Kosan Co., Ltd.), a real-estate management company in Kashiwa, Chiba, as its parent company and largest shareholder with 50.54% of the shares, and says that 和幸興産's voting rights are 100% owned by 長妻和男, 長妻貴嗣 (Sankyo Frontier's president) and their close relatives. The next largest holders are 長妻貴嗣 (14.93%) and 長妻和男 (2.92%); governments and local public bodies hold no shares.",
+    "short": "Sankyo Frontier's parent is the unlisted Wako Kosan (50.54%), which is wholly owned by the Nagatsuma family.",
+    "source": {
+      "name": "三協フロンテア株式会社: 有価証券報告書 第57期 (2025年4月1日〜2026年3月31日)",
+      "date": "2026-06-18",
+      "url": "https://www.sankyofrontier.com/ir/material/pdf/yuka_shoken/26_q4.pdf",
+      "quote": "㈲和幸興産 千葉県柏市北柏１丁目１ 11,233 50.54",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "The PDF is encrypted, so the source check can't read it. The quote is in （６）【大株主の状況】; the 100% family ownership of 和幸興産 is in the 関連当事者情報 note."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "有限会社和幸興産: 親会社等状況報告書 第39期 (EDINET)",
+        "date": "2021-05-12",
+        "url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100LAZ6.pdf",
+        "note": "The parent's own filing gives its English name and names 三協フロンテア株式会社 as its subsidiary; its three shareholders are all individuals.",
+        "quote": "【英訳名】 Wako Kosan Co,.Ltd.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-902 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ]
   },
   {
     "id": "santa-casa-state-games",
@@ -21800,6 +22258,25 @@
     "reviewed": false
   },
   {
+    "id": "vinci-sa-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "vinci-sa"
+    ],
+    "text": "Vinci SA's shareholder page states that at 31 December 2025 individual shareholders held 11.6% of its capital, and that more than 176,000 Group employees and former employees and about 1,000 institutional investors are shareholders.",
+    "source": {
+      "name": "VINCI: Becoming a shareholder",
+      "date": "2026",
+      "url": "https://www.vinci.com/en/finance/shareholders/becoming-shareholder",
+      "quote": "At 31 December 2025, individual shareholders represented 11.6% of VINCI’s capital.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "virgin-media-o2-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -22729,6 +23206,27 @@
       "checked": {
         "on": "2026-09-27",
         "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "yonex-co-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "yonex-co"
+    ],
+    "text": "Yonex Co., Ltd.'s securities report for the year ended 31 March 2026 lists its largest shareholders as the foundation 公益財団法人ヨネックススポーツ振興財団 (11.06%), NATIONAL FINANCIAL SERVICES LLC (6.77%), 米山修一 (4.93%) and the foundation 公益財団法人新潟県スポーツ振興米山稔財団 (4.66%); the ten largest hold 44.88% together, and governments and local public bodies hold no shares. Its shares are listed on the Tokyo Stock Exchange Standard Market.",
+    "short": "Yonex is Tokyo-listed; its largest shareholder is the Yonex sports foundation (11.06%), and no holder has more than 12%.",
+    "source": {
+      "name": "ヨネックス株式会社: 有価証券報告書 第69期 (2025年4月1日〜2026年3月31日)",
+      "date": "2026-06-17",
+      "url": "https://ssl4.eir-parts.net/doc/7906/yuho_pdf/S100YCTQ/00.pdf",
+      "note": "Linked from yonex.co.jp/ir/library/yuho/ as 2026年3月期 有価証券報告書. The quote is in （６）【大株主の状況】 on page 28.",
+      "quote": "公益財団法人ヨネックススポーツ振興財団 東京都文京区湯島三丁目23番13号 9,486 11.06",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-902 (Claude Code, run by @Schnitzel)"
       }
     },
     "reviewed": false
