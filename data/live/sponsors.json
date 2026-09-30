@@ -4468,6 +4468,23 @@
     "note": "Rating note: CME Group is a publicly traded financial exchange company; no state stake or serious conduct record identified."
   },
   {
+    "id": "cncity-energy",
+    "name": "CNCITY Energy",
+    "ownerId": "cncity-energy-co",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "cncity-energy-mkif-shareholding"
+    ],
+    "aliases": [
+      "씨엔씨티에너지",
+      "CNCITY에너지"
+    ],
+    "note": "Sleeve sponsor (sponsor patch) of Daejeon Hana Citizen 2026 home kit, per the club store's '2026 스폰서패치' product image. Left unrated: the only sourced shareholding is Macquarie Korea Infrastructure Fund's 48% (cncity-energy-mkif-shareholding); who holds the other 52%, and so who controls the company, isn't sourced. Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding against the company found."
+  },
+  {
     "id": "coca-cola",
     "name": "Coca-Cola",
     "ownerId": "coca-cola-company",
@@ -4964,6 +4981,24 @@
     ],
     "aliases": [],
     "note": "Rating note: Campari's own website renders client-side, so the annual report PDF was used to establish Cynar as a Campari brand. The sponsor name 'Cynar Spritz' is a brand, not an entity."
+  },
+  {
+    "id": "daejeon-city-promotion",
+    "name": "일류경제도시 대전 (Daejeon city promotion slogan)",
+    "ownerId": "daejeon-metropolitan-city",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A promotion slogan of Daejeon Metropolitan City, the club's host-city government, on the sleeve sponsor patch. Nothing found.",
+    "claimIds": [
+      "daejeon-city-slogan"
+    ],
+    "aliases": [
+      "대한민국 과학수도 일류경제도시 대전",
+      "일류경제도시 대전",
+      "First-class economic city Daejeon"
+    ],
+    "note": "Sleeve sponsor (sponsor patch) of Daejeon Hana Citizen 2026 home kit, per the club store's '2026 스폰서패치' product image. Rating note: a municipal government of South Korea; state ownership alone is not a tier (METHOD.md), and no sourced record against Daejeon Metropolitan City found."
   },
   {
     "id": "daikin-comfort-technologies",
@@ -7753,6 +7788,24 @@
     "note": "Ownership is sourced (gocompare-future-ownership): a brand of London-listed media company Future plc. Proposed tier: none (see PR)."
   },
   {
+    "id": "goalstudio",
+    "name": "Goalstudio",
+    "ownerId": "wakti-co",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Goalstudio, a Seoul sportswear brand of the privately owned Wakti Co., Ltd. (owner Junghoon Kang). Nothing found.",
+    "claimIds": [
+      "goalstudio-wakti"
+    ],
+    "aliases": [
+      "골스튜디오",
+      "Goal Studio",
+      "GOALSTUDIO"
+    ],
+    "note": "Official kit partner and manufacturer of Daejeon Hana Citizen's 2026 kits, per the club's 2026-01-02 kit launch announcement. Rating note: ownership documented from the brand's own about page (see claim). Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding against the company found."
+  },
+  {
     "id": "golden-1-credit-union",
     "name": "Golden 1 Credit Union",
     "ownerId": "golden-1-credit-union-owner",
@@ -8303,6 +8356,127 @@
     "note": "Not the US hydration brand HALO already in the dataset at data/sponsors/halo.json. Scotland men's rugby back-of-shorts partner and Official Enterprise Software Partner of Scottish Rugby (Scottish Rugby sponsors page, checked 2026-09-30)."
   },
   {
+    "id": "hana-bank",
+    "name": "Hana Bank",
+    "ownerId": "hana-bank-co",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "KEB Hana Bank, a wholly owned subsidiary of Korea Exchange-listed Hana Financial Group, whose largest shareholder is South Korea's National Pension Service (8.69%). Nothing found.",
+    "claimIds": [
+      "hana-bank-hana-financial-group",
+      "hana-financial-group-shareholders"
+    ],
+    "aliases": [
+      "하나은행",
+      "KEB Hana Bank",
+      "하나은행 K리그"
+    ],
+    "note": "Main front (chest) sponsor of Daejeon Hana Citizen 2026 home kit, per the club's 2026-01-02 kit launch and the club store's '2026 필드 홈 유니폼' product render. Rating note: ownership chain documented (see claims); METHOD.md names South Korea's pension fund as an example of a public holder that is not a link to abuse. Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding against Hana Bank or Hana Financial Group found."
+  },
+  {
+    "id": "hana-capital",
+    "name": "Hana Capital",
+    "ownerId": "hana-capital-co",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Hana Capital, a wholly owned subsidiary of Korea Exchange-listed Hana Financial Group, whose largest shareholder is South Korea's National Pension Service (8.69%). Nothing found.",
+    "claimIds": [
+      "hana-capital-hana-financial-group",
+      "hana-financial-group-shareholders"
+    ],
+    "aliases": [
+      "하나캐피탈"
+    ],
+    "note": "Front sponsor (left collarbone) of Daejeon Hana Citizen 2026 home kit, per the club's 2026-01-02 kit launch and the club store's '2026 필드 홈 유니폼' product render. Rating note: ownership chain documented (see claims); METHOD.md names South Korea's pension fund as an example of a public holder that is not a link to abuse. Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding found."
+  },
+  {
+    "id": "hana-card",
+    "name": "Hana Card",
+    "ownerId": "hana-card-co",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Hana Card, a wholly owned subsidiary of Korea Exchange-listed Hana Financial Group, whose largest shareholder is South Korea's National Pension Service (8.69%). Nothing found.",
+    "claimIds": [
+      "hana-card-hana-financial-group",
+      "hana-financial-group-shareholders"
+    ],
+    "aliases": [
+      "하나카드"
+    ],
+    "note": "Front sponsor (right collarbone) of Daejeon Hana Citizen 2026 home kit, per the club's 2026-01-02 kit launch and the club store's '2026 필드 홈 유니폼' product render. Rating note: ownership chain documented (see claims); METHOD.md names South Korea's pension fund as an example of a public holder that is not a link to abuse. Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding found."
+  },
+  {
+    "id": "hana-insurance",
+    "name": "Hana Insurance",
+    "ownerId": "hana-insurance-co",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Hana Insurance (non-life), a wholly owned subsidiary of Korea Exchange-listed Hana Financial Group, whose largest shareholder is South Korea's National Pension Service (8.69%). Nothing found.",
+    "claimIds": [
+      "hana-insurance-hana-financial-group",
+      "hana-financial-group-shareholders"
+    ],
+    "aliases": [
+      "하나손해보험"
+    ],
+    "note": "Sleeve sponsor (sponsor patch) of Daejeon Hana Citizen 2026 home kit, per the club store's '2026 스폰서패치' product image. Rating note: ownership chain documented (see claims); METHOD.md names South Korea's pension fund as an example of a public holder that is not a link to abuse. Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding found."
+  },
+  {
+    "id": "hana-life",
+    "name": "Hana Life Insurance",
+    "ownerId": "hana-life-co",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Hana Life Insurance, a wholly owned subsidiary of Korea Exchange-listed Hana Financial Group, whose largest shareholder is South Korea's National Pension Service (8.69%). Nothing found.",
+    "claimIds": [
+      "hana-life-hana-financial-group",
+      "hana-financial-group-shareholders"
+    ],
+    "aliases": [
+      "하나생명"
+    ],
+    "note": "Sleeve sponsor (sponsor patch) of Daejeon Hana Citizen 2026 home kit, per the club store's '2026 스폰서패치' product image. Rating note: ownership chain documented (see claims); METHOD.md names South Korea's pension fund as an example of a public holder that is not a link to abuse. Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding found."
+  },
+  {
+    "id": "hana-savings-bank",
+    "name": "Hana Savings Bank",
+    "ownerId": "hana-savings-bank-co",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Hana Savings Bank, a wholly owned subsidiary of Korea Exchange-listed Hana Financial Group, whose largest shareholder is South Korea's National Pension Service (8.69%). Nothing found.",
+    "claimIds": [
+      "hana-savings-bank-hana-financial-group",
+      "hana-financial-group-shareholders"
+    ],
+    "aliases": [
+      "하나저축은행"
+    ],
+    "note": "Sleeve sponsor (sponsor patch) of Daejeon Hana Citizen 2026 home kit, per the club store's '2026 스폰서패치' product image. Rating note: ownership chain documented (see claims); METHOD.md names South Korea's pension fund as an example of a public holder that is not a link to abuse. Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding found."
+  },
+  {
+    "id": "hana-securities",
+    "name": "Hana Securities",
+    "ownerId": "hana-securities-co",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Hana Securities, a wholly owned subsidiary of Korea Exchange-listed Hana Financial Group, whose largest shareholder is South Korea's National Pension Service (8.69%). Nothing found.",
+    "claimIds": [
+      "hana-securities-hana-financial-group",
+      "hana-financial-group-shareholders"
+    ],
+    "aliases": [
+      "하나증권"
+    ],
+    "note": "Back sponsor (above the number) of Daejeon Hana Citizen 2026 home kit, per the club store's '2026 필드 홈 유니폼' product render. Rating note: ownership chain documented (see claims); METHOD.md names South Korea's pension fund as an example of a public holder that is not a link to abuse. Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding found."
+  },
+  {
     "id": "hansemerkur",
     "name": "HanseMerkur",
     "ownerId": "hansemerkur-krankenversicherung-ag",
@@ -8842,6 +9016,24 @@
     "note": "LIV Golf 'Global Pillar Partner' (livgolf.com/partners); also a partner of Crushers GC and Majesticks GC."
   },
   {
+    "id": "htwo",
+    "name": "HTWO (Hyundai Motor Group hydrogen brand)",
+    "ownerId": "hyundai-motor-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": null,
+    "claimIds": [
+      "hmg-jbfc-kit-brands",
+      "hyundai-owner-record"
+    ],
+    "aliases": [
+      "htwo",
+      "현대차그룹 수소 사업 브랜드"
+    ],
+    "note": "Continuing Jeonbuk Hyundai uniform partner (sleeve). Rating note: on hold, with the other Hyundai Motor Group marks on this shirt: the owner is sourced (hmg-jbfc-kit-brands: HTWO is Hyundai Motor Group's hydrogen business brand), and the state link doesn't count (South Korea's National Pension Service holds about 7.8% of Hyundai Motor, hyundai-owner-record, and South Korea has no record in this data), but the company test on Hyundai Motor isn't settled. A US Department of Labor Wage and Hour Division investigation found that a 13-year-old worked 50 to 60 hours a week on an assembly line at SMART Alabama, a Hyundai subsidiary, in 2021-22; on 30 May 2024 the department sued Hyundai Motor Manufacturing Alabama, SMART Alabama and a staffing firm in the US District Court for the Middle District of Alabama (AP in Alabama Daily News, 2024-05-31, https://aldailynews.com/us-labor-department-sues-hyundai-suppliers-over-alleged-child-employment/; CBS News, 2024-05-30, https://www.cbsnews.com/news/hyundai-alabama-child-labor-act-labor-deparment/). Korea Daily reported on 2025-11-14 that the court had found Hyundai Motor Manufacturing Alabama 'could be held liable as a joint employer' (https://en.koreadaily.com/hyundai-kia-labor-lawsuit/); no final judgment was found. Held as not rated yet until that case ends (maintainer decision, 2026-09-30), like `hyundai`: a finding against Hyundai Motor would reach this sponsor through its owner (METHOD.md: a record about an owner in the sponsor's chain); if the case ends without one, this sponsor is `none`. No record claim is written yet."
+  },
+  {
     "id": "huayuan-securities",
     "name": "Huayuan Securities",
     "ownerId": "wuhan-financial-holdings",
@@ -8972,14 +9164,14 @@
     "name": "Hyundai (Hyundai Motor America)",
     "ownerId": "hyundai-motor-group",
     "ownership": "owned",
-    "tier": "none",
-    "status": "rated",
+    "tier": "unrated",
+    "status": "being-rated",
     "verdict": "Hyundai Motor Company is listed and family-controlled; South Korea's National Pension Service holds about 7.8%.",
     "claimIds": [
       "hyundai-owner-record"
     ],
     "aliases": [],
-    "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. South Korea's pension fund holds 7.8%, but no claim ties South Korea to serious abuses."
+    "note": "Rating note: on hold. The state link doesn't count: South Korea's National Pension Service holds about 7.8% of Hyundai Motor (hyundai-owner-record), and South Korea has no record in this data (re-rated from concern on 2026-09-27, docs/rating-review-2026-09-27.md). The company test isn't settled. A US Department of Labor Wage and Hour Division investigation found that a 13-year-old worked 50 to 60 hours a week on an assembly line at SMART Alabama, a Hyundai subsidiary, in 2021-22; on 30 May 2024 the department sued Hyundai Motor Manufacturing Alabama, SMART Alabama and a staffing firm in the US District Court for the Middle District of Alabama (AP in Alabama Daily News, 2024-05-31, https://aldailynews.com/us-labor-department-sues-hyundai-suppliers-over-alleged-child-employment/; CBS News, 2024-05-30, https://www.cbsnews.com/news/hyundai-alabama-child-labor-act-labor-deparment/). Korea Daily reported on 2025-11-14 that the court had found Hyundai Motor Manufacturing Alabama 'could be held liable as a joint employer' (https://en.koreadaily.com/hyundai-kia-labor-lawsuit/); no final judgment was found. Held as not rated yet until that case ends (maintainer decision, 2026-09-30): if it ends with a finding against Hyundai, the rating is set from it and a record claim is written; if not, this sponsor is `none`. No record claim is written yet."
   },
   {
     "id": "hyundai-kia",
@@ -8992,6 +9184,44 @@
     "claimIds": [],
     "aliases": [],
     "note": "Official automotive/mobility partner via Hyundai Motor Company and Kia Corporation."
+  },
+  {
+    "id": "hyundai-motor-securities",
+    "name": "Hyundai Motor Securities",
+    "ownerId": "hyundai-motor-securities",
+    "ownership": "part-owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": null,
+    "claimIds": [
+      "hyundai-motor-securities-largest-shareholder",
+      "hyundai-owner-record"
+    ],
+    "aliases": [
+      "현대차증권",
+      "HMS",
+      "Hyundai Securities"
+    ],
+    "note": "New Jeonbuk Hyundai uniform partner for 2026 (club announcement, 2026-02-09). Rating note: on hold, with the other Hyundai Motor Group marks on this shirt: the owner is sourced (hyundai-motor-securities-largest-shareholder: Hyundai Motor and its related parties hold 39.94%, the largest shareholder), and the state link doesn't count (South Korea's National Pension Service holds about 7.8% of Hyundai Motor, hyundai-owner-record, and South Korea has no record in this data), but the company test on Hyundai Motor isn't settled. A US Department of Labor Wage and Hour Division investigation found that a 13-year-old worked 50 to 60 hours a week on an assembly line at SMART Alabama, a Hyundai subsidiary, in 2021-22; on 30 May 2024 the department sued Hyundai Motor Manufacturing Alabama, SMART Alabama and a staffing firm in the US District Court for the Middle District of Alabama (AP in Alabama Daily News, 2024-05-31, https://aldailynews.com/us-labor-department-sues-hyundai-suppliers-over-alleged-child-employment/; CBS News, 2024-05-30, https://www.cbsnews.com/news/hyundai-alabama-child-labor-act-labor-deparment/). Korea Daily reported on 2025-11-14 that the court had found Hyundai Motor Manufacturing Alabama 'could be held liable as a joint employer' (https://en.koreadaily.com/hyundai-kia-labor-lawsuit/); no final judgment was found. Held as not rated yet until that case ends (maintainer decision, 2026-09-30), like `hyundai`: a finding against Hyundai Motor would reach this sponsor through its owner (METHOD.md: a record about an owner in the sponsor's chain); if the case ends without one, this sponsor is `none`. No record claim is written yet."
+  },
+  {
+    "id": "hyundai-nexo",
+    "name": "NEXO (Hyundai Motor hydrogen car brand)",
+    "ownerId": "hyundai-motor-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": null,
+    "claimIds": [
+      "hmg-jbfc-kit-brands",
+      "hyundai-owner-record"
+    ],
+    "aliases": [
+      "NEXO",
+      "hyundai nexo",
+      "넥쏘"
+    ],
+    "note": "Front-of-shirt main sponsor of Jeonbuk Hyundai since the 2025 season (2026 kit: NEXO wordmark over the HYUNDAI mark, in the club's 2026 launch photo). It replaced the N brand, the front sponsor from 2019 to 2024 (Jeonbuk Ilbo, 2025-02-04). Rating note: on hold, with the other Hyundai Motor Group marks on this shirt: the owner is sourced (hmg-jbfc-kit-brands: NEXO is Hyundai Motor's hydrogen car), and the state link doesn't count (South Korea's National Pension Service holds about 7.8% of Hyundai Motor, hyundai-owner-record, and South Korea has no record in this data), but the company test on Hyundai Motor isn't settled. A US Department of Labor Wage and Hour Division investigation found that a 13-year-old worked 50 to 60 hours a week on an assembly line at SMART Alabama, a Hyundai subsidiary, in 2021-22; on 30 May 2024 the department sued Hyundai Motor Manufacturing Alabama, SMART Alabama and a staffing firm in the US District Court for the Middle District of Alabama (AP in Alabama Daily News, 2024-05-31, https://aldailynews.com/us-labor-department-sues-hyundai-suppliers-over-alleged-child-employment/; CBS News, 2024-05-30, https://www.cbsnews.com/news/hyundai-alabama-child-labor-act-labor-deparment/). Korea Daily reported on 2025-11-14 that the court had found Hyundai Motor Manufacturing Alabama 'could be held liable as a joint employer' (https://en.koreadaily.com/hyundai-kia-labor-lawsuit/); no final judgment was found. Held as not rated yet until that case ends (maintainer decision, 2026-09-30), like `hyundai`: a finding against Hyundai Motor would reach this sponsor through its owner (METHOD.md: a record about an owner in the sponsor's chain); if the case ends without one, this sponsor is `none`. No record claim is written yet."
   },
   {
     "id": "ibm",
@@ -9564,6 +9794,25 @@
     "claimIds": [],
     "aliases": [],
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement. Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  },
+  {
+    "id": "jeonbuk-state",
+    "name": "Jeonbuk State (전북특별자치도)",
+    "ownerId": "jeonbuk-state",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "The provincial government of Jeonbuk, South Korea (Jeonbuk State, 전북특별자치도), sponsoring in its own name; a South Korean provincial government with no record of serious abuses found.",
+    "claimIds": [
+      "jeonbuk-state-province"
+    ],
+    "aliases": [
+      "전북특별자치도",
+      "Jeonbuk Special Self-Governing Province",
+      "Jeonbuk Province"
+    ],
+    "ownerVerb": "paid for by",
+    "note": "Continuing Jeonbuk Hyundai uniform partner (province branding on the kit). Rating note: the sponsor is the provincial government itself; state ownership alone is not a tier (METHOD.md), South Korea has no record in this data, and no court, regulator, UN-body or major-NGO human-rights finding against the province was found."
   },
   {
     "id": "jetour",
@@ -10298,6 +10547,24 @@
     "note": "Swiss logistics group; FIBA Global Supplier. Ownership not checked in this pass."
   },
   {
+    "id": "kumho-tire",
+    "name": "Kumho Tire",
+    "ownerId": "kumho-tire",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "Kumho Tire is a controlled subsidiary of Shenzhen-listed Qingdao Doublestar, which indirectly holds 45%; Qingdao Doublestar's controlling shareholder is Doublestar Group and its actual controller is the Qingdao city government's state-assets commission (Qingdao SASAC).",
+    "claimIds": [
+      "kumho-tire-doublestar-control",
+      "qingdao-doublestar-sasac"
+    ],
+    "aliases": [
+      "금호타이어",
+      "kumho"
+    ],
+    "note": "Sleeve partner of Jeonbuk Hyundai for 2026 (CEO Score Daily, 2026-03-03). Rating note: on hold for a maintainer. Proposed 'serious' in the pull request for issue #533: a Chinese state body controls the sponsor (the link, claims kumho-tire-doublestar-control and qingdao-doublestar-sasac, each with a second publisher; owner chain kumho-tire, qingdao-doublestar, doublestar-group, qingdao-municipal-government, government-of-china), and China's record is on main (china-xinjiang-un-assessment). Korean creditor banks, among them Korea Development Bank (7.43%), hold about 14% (thebell, 2026-09-07). No `why` is written yet."
+  },
+  {
     "id": "kutxabank",
     "name": "Kutxabank",
     "ownerId": "kutxabank-sa",
@@ -10324,6 +10591,24 @@
       "KWV Brandy"
     ],
     "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
+  },
+  {
+    "id": "kyeryong-construction",
+    "name": "Kyeryong Construction",
+    "ownerId": "kyeryong-construction-co",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Kyeryong Construction Industrial Co., a KOSPI-listed Daejeon builder whose largest shareholder is chairman Lee Seung-chan (38.49% including related parties, report of 5 June 2026). Nothing found.",
+    "claimIds": [
+      "kyeryong-largest-shareholder"
+    ],
+    "aliases": [
+      "계룡건설",
+      "계룡건설산업",
+      "Kyeryong Construction Industrial"
+    ],
+    "note": "Sleeve sponsor (sponsor patch) of Daejeon Hana Citizen 2026 home kit, per the club store's '2026 스폰서패치' product image. Rating note: ownership documented from the company's own disclosure (see claim). Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding against the company found. Not claim-worthy: the April 2023 Siheung MTV detour-road overpass deformation (Kyeryong was the builder) led to a 6-month business suspension and litigation, but no deaths or injuries and no human-rights finding."
   },
   {
     "id": "kyocera-avx",
@@ -12159,6 +12444,26 @@
     "note": "Platinum Partner of the Emirates Dubai 7s (emiratesdubai7s.com date-announcement page); corporate identity not researched this pass."
   },
   {
+    "id": "mobed",
+    "name": "MobED (Hyundai Motor Group Robotics Lab)",
+    "ownerId": "hyundai-motor-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": null,
+    "claimIds": [
+      "hmg-jbfc-kit-brands",
+      "hyundai-owner-record"
+    ],
+    "aliases": [
+      "MobED Robotics LAB",
+      "모베드",
+      "현대차그룹 로보틱스랩",
+      "Hyundai Motor Group Robotics Lab"
+    ],
+    "note": "New for 2026: Robotics Lab and MobED logos below the shirt's back number (Jeonbuk Ilbo, 2026-02-09). Rating note: on hold, with the other Hyundai Motor Group marks on this shirt: the owner is sourced (hmg-jbfc-kit-brands: MobED is the robot platform of Hyundai Motor Group Robotics Lab), and the state link doesn't count (South Korea's National Pension Service holds about 7.8% of Hyundai Motor, hyundai-owner-record, and South Korea has no record in this data), but the company test on Hyundai Motor isn't settled. A US Department of Labor Wage and Hour Division investigation found that a 13-year-old worked 50 to 60 hours a week on an assembly line at SMART Alabama, a Hyundai subsidiary, in 2021-22; on 30 May 2024 the department sued Hyundai Motor Manufacturing Alabama, SMART Alabama and a staffing firm in the US District Court for the Middle District of Alabama (AP in Alabama Daily News, 2024-05-31, https://aldailynews.com/us-labor-department-sues-hyundai-suppliers-over-alleged-child-employment/; CBS News, 2024-05-30, https://www.cbsnews.com/news/hyundai-alabama-child-labor-act-labor-deparment/). Korea Daily reported on 2025-11-14 that the court had found Hyundai Motor Manufacturing Alabama 'could be held liable as a joint employer' (https://en.koreadaily.com/hyundai-kia-labor-lawsuit/); no final judgment was found. Held as not rated yet until that case ends (maintainer decision, 2026-09-30), like `hyundai`: a finding against Hyundai Motor would reach this sponsor through its owner (METHOD.md: a record about an owner in the sponsor's chain); if the case ends without one, this sponsor is `none`. No record claim is written yet."
+  },
+  {
     "id": "mobil-1",
     "name": "Mobil 1 / Esso",
     "ownerId": "exxon-mobil-corporation",
@@ -12622,6 +12927,22 @@
     "claimIds": [],
     "aliases": [],
     "note": "Listed as a supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French organic/gluten-free food SME (Loire-Atlantique)."
+  },
+  {
+    "id": "naver-chzzk",
+    "name": "CHZZK (Naver)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "네이버 치지직",
+      "chzzk",
+      "Naver CHZZK"
+    ],
+    "note": "Naver's sports streaming platform; new Jeonbuk Hyundai uniform partner for 2026 (club announcement, 2026-02-09). Owner chain to Naver Corporation not yet documented in the dataset."
   },
   {
     "id": "nedbank",
@@ -16514,6 +16835,26 @@
     "note": "Rating note: Majority stake held by the Bhirombhakdi family (Nation Thailand, 2023). Thailand's state holds no equity in Boon Rawd."
   },
   {
+    "id": "sinobo-group",
+    "name": "Sinobo Group",
+    "ownerId": "sinobo-group-co",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Sinobo Group Co., Ltd. (中赫集团), a privately held Beijing property-and-investment conglomerate owned by Zhou Jinhui and Li Caixia. Nothing found.",
+    "claimIds": [
+      "sinobo-group-ownership"
+    ],
+    "aliases": [
+      "中赫",
+      "中赫集团",
+      "Sinobo",
+      "Zhonghe Group",
+      "中赫集团有限公司"
+    ],
+    "note": "Front-of-shirt sponsor of Beijing Guoan's 2026 home kit (Tencent News, 2026-03-17); sinobo.com/ga lists the club under the group's businesses (a lead, not a checked source). Rating note: ownership documented (claim sinobo-group-ownership). Quick company check (2026-09-30): no court, regulator, UN or major-NGO human-rights finding against the company found. Not claim-worthy: Sinobo Group, the club and Zhou Jinhui face RMB-scale debt-enforcement and dishonest-debtor (失信被执行人) listings (Sohu/ITBEAR, 2025-06-20) — financial matters, which METHOD.md says do not count as a record and are not recorded on a 'none' sponsor."
+  },
+  {
     "id": "siriusxm",
     "name": "SiriusXM",
     "ownerId": null,
@@ -19684,6 +20025,22 @@
     ],
     "aliases": [],
     "note": "McLaren Official Partner since 2023; rear-wing branding from 2024."
+  },
+  {
+    "id": "world-food-programme",
+    "name": "World Food Programme (WFP)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "WFP",
+      "유엔세계식량계획",
+      "UN World Food Programme"
+    ],
+    "note": "UN humanitarian agency; its logo has been on the club's shirt since 31 May 2025 as a charity partnership: the club gives up the revenue of the upper-centre chest slot and has pledged an additional donation (K League, 2025-05-28). A UN body, so there is no owner record; left unrated for a maintainer, since `none` needs a sourced ownership claim."
   },
   {
     "id": "world-of-tanks",

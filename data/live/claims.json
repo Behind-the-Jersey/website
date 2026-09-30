@@ -5193,6 +5193,26 @@
     "reviewed": false
   },
   {
+    "id": "cncity-energy-mkif-shareholding",
+    "kind": "ownership",
+    "ownerIds": [
+      "cncity-energy-co"
+    ],
+    "text": "Macquarie Korea Infrastructure Fund (MKIF, a listed Korean infrastructure fund) says it agreed on 2 June 2023 to acquire a 48% stake in CNCITY Energy Co., Ltd. (씨엔씨티에너지), a Daejeon city-gas retailer founded in 1985, and after financial close 'MKIF는 씨엔씨티에너지(주)의 48% 주주이고' — MKIF is a 48% shareholder of CNCITY Energy, with a total investment of about 183.2 billion won.",
+    "short": "Macquarie Korea Infrastructure Fund (MKIF) holds 48% of CNCITY Energy.",
+    "source": {
+      "name": "MKIF (Macquarie Korea Infrastructure Fund): 씨엔씨티에너지(주) asset page",
+      "date": "2026-06-30",
+      "url": "https://www.mkif.com/ko/assets/cncity-energy-co-ltd.html",
+      "quote": "금융 종결 후 MKIF는 씨엔씨티에너지(주)의 48% 주주이고",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "coca-cola-company-record",
     "kind": "ownership",
     "ownerIds": [
@@ -5846,6 +5866,26 @@
       "checked": {
         "on": "2026-09-27",
         "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "daejeon-city-slogan",
+    "kind": "ownership",
+    "ownerIds": [
+      "daejeon-metropolitan-city"
+    ],
+    "text": "'일류경제도시 대전' (first-class economic city Daejeon) is a promotion slogan of Daejeon Metropolitan City: the city government's own press office headlines its own releases with it (e.g. '일류경제도시 대전, 경제성장률 껑충', 25 December 2024).",
+    "short": "'일류경제도시 대전' is a Daejeon Metropolitan City promotion slogan.",
+    "source": {
+      "name": "대전광역시청 (Daejeon Metropolitan City): 일류경제도시 대전, 경제성장률 껑충",
+      "date": "2024-12-25",
+      "url": "https://www.daejeon.go.kr/drh/board/boardNormalView.do?boardId=normal_0189&menuSeq=1632&ntatcSeq=1472168672",
+      "quote": "일류경제도시 대전, 경제성장률 껑충",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -9147,6 +9187,26 @@
     "reviewed": false
   },
   {
+    "id": "goalstudio-wakti",
+    "kind": "ownership",
+    "ownerIds": [
+      "wakti-co"
+    ],
+    "text": "GOALSTUDIO's own website names the company behind the brand as (주)왁티 (Wakti Co., Ltd.), with 'Owner: Junghoon Kang', an address in Gangnam-gu, Seoul, and company registration number 240-88-00299.",
+    "short": "Goalstudio is a brand of Wakti Co., Ltd. of Seoul (owner Junghoon Kang).",
+    "source": {
+      "name": "GOALSTUDIO: About Goalstudio",
+      "date": "2026",
+      "url": "https://www.goalstudio.com/about.html",
+      "quote": "Company:(주)왁티 | Owner: Junghoon Kang | 7, Apgujeong-ro 10-gil, Gangnam-gu, Seoul, Korea, 06028",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "gocompare-future-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -9884,6 +9944,181 @@
     "reviewed": false
   },
   {
+    "id": "hana-bank-hana-financial-group",
+    "kind": "ownership",
+    "ownerIds": [
+      "hana-bank-co",
+      "hana-financial-group"
+    ],
+    "text": "Hana Financial Group's 'Hana Network' affiliate map lists 하나은행 (KEB Hana Bank) as '하나은행(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.",
+    "short": "Hana Financial Group holds 100% of KEB Hana Bank.",
+    "source": {
+      "name": "Hana Financial Group: 하나네트워크 (Hana Network affiliate map)",
+      "date": "2026-06-30",
+      "url": "https://www.hanafn.com/info/network/hanaNetwork.do",
+      "note": "The affiliate map shows '하나금융그룹 하나은행(100%)'; the footnote reads '* 백분율은 모회사가 보유한 해당 자회사의 지분율입니다. (2026년 6월 30일 기준)'.",
+      "quote": "하나은행(100%)",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "hana-capital-hana-financial-group",
+    "kind": "ownership",
+    "ownerIds": [
+      "hana-capital-co",
+      "hana-financial-group"
+    ],
+    "text": "Hana Financial Group's 'Hana Network' affiliate map lists 하나캐피탈 (Hana Capital) as '하나캐피탈(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.",
+    "short": "Hana Financial Group holds 100% of Hana Capital.",
+    "source": {
+      "name": "Hana Financial Group: 하나네트워크 (Hana Network affiliate map)",
+      "date": "2026-06-30",
+      "url": "https://www.hanafn.com/info/network/hanaNetwork.do",
+      "note": "The affiliate map shows '하나금융그룹 하나캐피탈(100%)'; the footnote reads '* 백분율은 모회사가 보유한 해당 자회사의 지분율입니다. (2026년 6월 30일 기준)'.",
+      "quote": "하나캐피탈(100%)",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "hana-card-hana-financial-group",
+    "kind": "ownership",
+    "ownerIds": [
+      "hana-card-co",
+      "hana-financial-group"
+    ],
+    "text": "Hana Financial Group's 'Hana Network' affiliate map lists 하나카드 (Hana Card) as '하나카드(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.",
+    "short": "Hana Financial Group holds 100% of Hana Card.",
+    "source": {
+      "name": "Hana Financial Group: 하나네트워크 (Hana Network affiliate map)",
+      "date": "2026-06-30",
+      "url": "https://www.hanafn.com/info/network/hanaNetwork.do",
+      "note": "The affiliate map shows '하나금융그룹 하나카드(100%)'; the footnote reads '* 백분율은 모회사가 보유한 해당 자회사의 지분율입니다. (2026년 6월 30일 기준)'.",
+      "quote": "하나카드(100%)",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "hana-financial-group-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "hana-financial-group"
+    ],
+    "text": "Hana Financial Group's governance page lists its shareholders holding 1% or more of the common stock as of 31 March 2026. The largest is Korea's National Pension Service (국민연금공단) with 8.69%, then BlackRock Fund Advisors (7.11%) and Capital Research and Management Company (5.55%); all other listed holders are below 4%.",
+    "short": "Hana Financial Group's largest holder is South Korea's National Pension Service at 8.69% (31 March 2026).",
+    "source": {
+      "name": "Hana Financial Group: 주주구성 (Shareholder composition)",
+      "date": "2026-03-31",
+      "url": "https://www.hanafn.com/governance/shareholder/composition.do",
+      "note": "The table heads the section '1%이상 주주 현황 2026년 03월 31일 기준' (shareholders at 1% or more, as of 31 March 2026).",
+      "quote": "국민연금공단 24,195,963 8.69%",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "hana-insurance-hana-financial-group",
+    "kind": "ownership",
+    "ownerIds": [
+      "hana-insurance-co",
+      "hana-financial-group"
+    ],
+    "text": "Hana Financial Group's 'Hana Network' affiliate map lists 하나손해보험 (Hana Insurance) as '하나손해보험(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.",
+    "short": "Hana Financial Group holds 100% of Hana Insurance.",
+    "source": {
+      "name": "Hana Financial Group: 하나네트워크 (Hana Network affiliate map)",
+      "date": "2026-06-30",
+      "url": "https://www.hanafn.com/info/network/hanaNetwork.do",
+      "note": "The affiliate map shows '하나금융그룹 하나손해보험(100%)'; the footnote reads '* 백분율은 모회사가 보유한 해당 자회사의 지분율입니다. (2026년 6월 30일 기준)'.",
+      "quote": "하나손해보험(100%)",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "hana-life-hana-financial-group",
+    "kind": "ownership",
+    "ownerIds": [
+      "hana-life-co",
+      "hana-financial-group"
+    ],
+    "text": "Hana Financial Group's 'Hana Network' affiliate map lists 하나생명 (Hana Life) as '하나생명(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.",
+    "short": "Hana Financial Group holds 100% of Hana Life.",
+    "source": {
+      "name": "Hana Financial Group: 하나네트워크 (Hana Network affiliate map)",
+      "date": "2026-06-30",
+      "url": "https://www.hanafn.com/info/network/hanaNetwork.do",
+      "note": "The affiliate map shows '하나금융그룹 하나생명(100%)'; the footnote reads '* 백분율은 모회사가 보유한 해당 자회사의 지분율입니다. (2026년 6월 30일 기준)'.",
+      "quote": "하나생명(100%)",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "hana-savings-bank-hana-financial-group",
+    "kind": "ownership",
+    "ownerIds": [
+      "hana-savings-bank-co",
+      "hana-financial-group"
+    ],
+    "text": "Hana Financial Group's 'Hana Network' affiliate map lists 하나저축은행 (Hana Savings Bank) as '하나저축은행(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.",
+    "short": "Hana Financial Group holds 100% of Hana Savings Bank.",
+    "source": {
+      "name": "Hana Financial Group: 하나네트워크 (Hana Network affiliate map)",
+      "date": "2026-06-30",
+      "url": "https://www.hanafn.com/info/network/hanaNetwork.do",
+      "note": "The affiliate map shows '하나금융그룹 하나저축은행(100%)'; the footnote reads '* 백분율은 모회사가 보유한 해당 자회사의 지분율입니다. (2026년 6월 30일 기준)'.",
+      "quote": "하나저축은행(100%)",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "hana-securities-hana-financial-group",
+    "kind": "ownership",
+    "ownerIds": [
+      "hana-securities-co",
+      "hana-financial-group"
+    ],
+    "text": "Hana Financial Group's 'Hana Network' affiliate map lists 하나증권 (Hana Securities) as '하나증권(100%)' under 하나금융그룹; the page's note says the percentages are the parent's holdings in each subsidiary as of 30 June 2026.",
+    "short": "Hana Financial Group holds 100% of Hana Securities.",
+    "source": {
+      "name": "Hana Financial Group: 하나네트워크 (Hana Network affiliate map)",
+      "date": "2026-06-30",
+      "url": "https://www.hanafn.com/info/network/hanaNetwork.do",
+      "note": "The affiliate map shows '하나금융그룹 하나증권(100%)'; the footnote reads '* 백분율은 모회사가 보유한 해당 자회사의 지분율입니다. (2026년 6월 30일 기준)'.",
+      "quote": "하나증권(100%)",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "hansemerkur-krankenversicherung-ag-record",
     "kind": "ownership",
     "ownerIds": [
@@ -10572,6 +10807,40 @@
     ]
   },
   {
+    "id": "hmg-jbfc-kit-brands",
+    "kind": "ownership",
+    "ownerIds": [
+      "hyundai-motor-group"
+    ],
+    "text": "The brands on Jeonbuk Hyundai's 2026 kit are Hyundai Motor Group's own: NEXO is Hyundai Motor's hydrogen electric car and the front sponsor since 2025, HTWO is Hyundai Motor Group's hydrogen business brand, and Mobility robot MobED with the Robotics Lab mark is Hyundai Motor Group Robotics Lab's platform. Hyundai Motor is the club's parent company ('모기업 현대자동차').",
+    "short": "The Hyundai brands on Jeonbuk's shirt (NEXO, HTWO, MobED/Robotics Lab) belong to Hyundai Motor Group, the club's parent.",
+    "source": {
+      "name": "전북일보 (Jeonbuk Ilbo): 전북현대, 새 시즌 유니폼 공개…메인 스폰서 ‘NEXO(넥쏘)’로 교체 [Jeonbuk unveils new kit, front sponsor changes to NEXO]",
+      "date": "2025-02-04",
+      "url": "https://www.jjan.kr/article/20250204580228",
+      "quote": "올 시즌 유니폼 전면에는 글로벌 수소전기차 시장을 선도하는 현대자동차의 수소전기차 ’NEXO(넥쏘)’가 자리 잡았다",
+      "note": "The article also names Hyundai Motor as the club's parent company ('모기업 현대자동차') and says HTWO, '현대자동차그룹의 수소 사업 브랜드' Hyundai Motor Group's hydrogen business brand, is on the right sleeve (2025 season).",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-905 (Claude Code, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "전북일보 (Jeonbuk Ilbo): 전북현대 유니폼 ‘빼곡’⋯로보틱스랩 모베드 파트너십 체결 [Jeonbuk signs Robotics Lab/MobED partnership]",
+        "date": "2026-02-09",
+        "url": "https://www.jjan.kr/article/20260209500117",
+        "quote": "모베드는 현대차그룹 로보틱스랩이 개발한 소형 모빌리티 로봇 플랫폼이다",
+        "note": "MobED is a small mobility robot platform developed by Hyundai Motor Group Robotics Lab; the article confirms HTWO continues as a 2026 uniform partner.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "honda-motor-co-ltd-record",
     "kind": "ownership",
     "ownerIds": [
@@ -10849,6 +11118,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "hyundai-motor-securities-largest-shareholder",
+    "kind": "ownership",
+    "ownerIds": [
+      "hyundai-motor-securities"
+    ],
+    "text": "Hyundai Motor Company and its related parties (including Hyundai Mobis and Kia) are the largest shareholder of Hyundai Motor Securities (stock code 001500), holding 39.94% (Hyundai Motor 22.17%, Hyundai Mobis 13.70%, Kia 3.95%), per a disclosure reported in August 2026.",
+    "short": "Hyundai Motor side is Hyundai Motor Securities' largest shareholder with 39.94%.",
+    "source": {
+      "name": "디지털투데이 (DigitalToday): 현대차증권, 최대주주 현대자동차 측 주식등 보유 비율 0.03%p 증가 [Hyundai Motor Securities: largest shareholder Hyundai Motor side raises stake to 39.94%]",
+      "date": "2026-08-06",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690396",
+      "quote": "현대차증권(001500)의 최대주주 현대자동차 측은 주식등 보유 비율이 39.94%로 증가했다고 5일 공시했다",
+      "note": "Article reproduces the bulk-ownership report: Hyundai Motor 22.17%, Hyundai Mobis 13.70%, Kia 3.95%. 'Hyundai Motor side' = Hyundai Motor plus six named related parties.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -11443,6 +11733,51 @@
         "checked": {
           "on": "2026-09-28",
           "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "jeonbuk-state-province",
+    "kind": "ownership",
+    "ownerIds": [
+      "jeonbuk-state"
+    ],
+    "text": "Jeonbuk State (전북특별자치도) is a provincial government in South Korea, led by a governor, with its office in Jeonju; the province is one of Jeonbuk Hyundai's 2026 uniform partners.",
+    "short": "Jeonbuk State (전북특별자치도) is a South Korean provincial government.",
+    "source": {
+      "name": "Jeonbuk State: JEONBUK STATE (official English website, home page)",
+      "date": "2026",
+      "url": "https://www.jeonbuk.go.kr/eng/index.do",
+      "quote": "the Governor of Jeonbuk State, Lee Won-taeg",
+      "note": "The home page's menu has a 'Provincial Government' section (organization, provincial office, governor), and its footer gives the address 225 Hyoja-ro, Wansan-gu, Jeonju-si, Jeonbuk-do and '© 2024 JEONBUK STATE'. The page is undated.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-905 (Claude Code, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "전북일보 (Jeonbuk Ilbo): 전북현대 유니폼 ‘빼곡’⋯로보틱스랩 모베드 파트너십 체결",
+        "date": "2026-02-09",
+        "url": "https://www.jjan.kr/article/20260209500117",
+        "quote": "세계식량계획(WFP), 금호타이어, 현대차 증권, 네이버 치지직, 전북특별자치도에 ‘모베드(MobED)’까지 추가됐다",
+        "note": "Lists Jeonbuk Special Self-Governing Province (전북특별자치도) among the club's 2026 uniform partners.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-905 (Claude Code, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "전북특별자치도 (Jeonbuk State): official Korean website, home page",
+        "date": "2026",
+        "url": "https://www.jeonbuk.go.kr/index.jeonbuk",
+        "quote": "이 누리집은 대한민국 공식 전자정부 누리집입니다",
+        "note": "'This website is an official e-government website of the Republic of Korea.' The same site's Korean home page is titled 전북특별자치도 and its footer reads '전북특별자치도 전주시 완산구 효자로 225' and '© 2024 JEONBUK STATE': Jeonbuk State is the English name of 전북특별자치도. The page is undated.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-905 (Claude Code, run by @Schnitzel)"
         }
       }
     ],
@@ -12097,6 +12432,51 @@
     "reviewed": false
   },
   {
+    "id": "kumho-tire-doublestar-control",
+    "kind": "ownership",
+    "ownerIds": [
+      "kumho-tire",
+      "qingdao-doublestar"
+    ],
+    "text": "In April 2026 Shenzhen-listed Qingdao Doublestar completed the consolidation of South Korean tyre maker Kumho Tire: it now indirectly owns 45% of Kumho Tire, which became a controlled subsidiary of the Chinese company.",
+    "short": "Qingdao Doublestar controls Kumho Tire with 45%.",
+    "source": {
+      "name": "Tyrepress: Share listing completes Doublestar's Kumho Tire consolidation",
+      "date": "2026-04-13",
+      "url": "https://www.tyrepress.com/2026/04/share-listing-completes-doublestars-kumho-tire-consolidation/",
+      "quote": "Qingdao Doublestar has formally completed its long-running transaction to consolidate control of South Korean tyre manufacturer Kumho Tire",
+      "note": "The article's picture caption adds: 'Doublestar now indirectly owns 45% of equity in Kumho Tire.'",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "European Rubber Journal: Doublestar completes acquisition of Kumho Tire",
+        "date": "2026-04-17",
+        "url": "https://www.european-rubber-journal.com/article/2099072/doublestar-completes-acquisition-of-kumho-tire",
+        "quote": "With the completion of the acquisition, Doublestar said it now indirectly holds 45% of the shares of Korean tire major",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "FilingReader: Qingdao Doublestar completes CNY 4.9bn acquisition of Kumho Tire (summary of Shenzhen Stock Exchange disclosures)",
+        "date": "2026-04-12",
+        "url": "https://filingreader.com/news-wire/shenzhen/2026-04-12/qingdao-doublestar-completes-cny-49bn-acquisition-of-kumho-tire",
+        "quote": "the company now holds a 45% stake in Kumho Tire, which has officially become a controlled subsidiary",
+        "note": "Wire summary of Qingdao Doublestar's own regulatory filings; AI-generated summary flagged on the page.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "kutxabank-sa-record",
     "kind": "ownership",
     "ownerIds": [
@@ -12177,6 +12557,27 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "kyeryong-largest-shareholder",
+    "kind": "ownership",
+    "ownerIds": [
+      "kyeryong-construction-co"
+    ],
+    "text": "Kyeryong Construction Industrial Co., Ltd. (계룡건설산업) is listed on the KOSPI market. Its large-shareholding report of 5 June 2026 (published by DigitalToday) names chairman Lee Seung-chan (이승찬) as the largest shareholder with 2,069,144 shares (23.17%), or 38.49% including related parties (relatives and the Kyeryong Scholarship Foundation).",
+    "short": "KOSPI-listed; chairman Lee Seung-chan is the largest shareholder (38.49% with related parties).",
+    "source": {
+      "name": "디지털투데이 (DigitalToday): 계룡건설산업 최대주주 이승찬, 계룡건설산업 주식등의 수 1만8600주 감소…총 지분율 38.49%",
+      "date": "2026-06-05",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=672418",
+      "note": "The article reproduces the company's large-shareholding report (주식등의대량보유상황보고서) filed to the Financial Services Commission and the Korea Exchange, including the related-party list.",
+      "quote": "이승찬 회장은 계룡건설산업의 최대주주로, 이번 보고서에서 주식등의 수를 1만8600주 줄였다고 보고했다. 보유 비율은 38.49%로 나타났다.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -16880,6 +17281,42 @@
     "reviewed": false
   },
   {
+    "id": "qingdao-doublestar-sasac",
+    "kind": "ownership",
+    "ownerIds": [
+      "qingdao-doublestar",
+      "doublestar-group",
+      "qingdao-municipal-government"
+    ],
+    "text": "Qingdao Doublestar's controlling shareholder is Doublestar Group Co., Ltd. and its actual controller is the Qingdao Municipal State-owned Assets Supervision and Administration Commission (Qingdao SASAC), both before and after the Kumho Tire consolidation, which Qingdao SASAC approved. Korean financial press describes Kumho Tire's chain as de facto state ownership tracing up to China's state asset management body.",
+    "short": "Qingdao Doublestar's controlling shareholder is Doublestar Group; its actual controller is the Qingdao SASAC.",
+    "source": {
+      "name": "Qingdao Doublestar Co., Ltd.: Listing announcement, issuance of shares and cash payment for asset acquisition and raising of supporting funds (cninfo filing, SZSE: 000599), pp. 34-35",
+      "date": "2026-06-17",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-06-17/1225373619.PDF",
+      "quote": "本次交易前，上市公司控股股东为双星集团，实际控制人为青岛市国资委。本次交易后，上市公司控股股东仍为双星集团，实际控制人仍为青岛市国资委",
+      "note": "Translation: 'Before this transaction, the listed company's controlling shareholder was Doublestar Group and its actual controller was the Qingdao Municipal SASAC. After this transaction, the controlling shareholder remains Doublestar Group and the actual controller remains the Qingdao Municipal SASAC.' The document also states the transaction was approved by the Qingdao SASAC (本次交易已取得青岛市国资委批准). Quote checked in the full PDF with pypdf.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "thebell: [Peer Match Up | 한국 vs 금호 vs 넥센] 오너vs국유기업, 지배구조 달라도 전문경영인 '중용' [Korea vs Kumho vs Nexen — owner vs state-run governance]",
+        "date": "2026-09-07",
+        "url": "https://www.thebell.co.kr/front/newsview.asp?key=202609071439196000102138",
+        "quote": "지배구조는 칭다오시 국유자산감독관리위원회→칭다오더블스타그룹→더블스타 타이어→싱웨이코리아(SPC)→금호타이어로 이어진다",
+        "note": "Translation: 'The governance chain runs Qingdao Municipal SASAC -> Qingdao Doublestar Group -> Doublestar Tire -> Xingwei Korea (SPC) -> Kumho Tire.' The same paragraph calls Kumho Tire '사실상 국영기업' (de facto state-run) after its 2018 takeover by China's Doublestar Group.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "qsi-braga-stake",
     "kind": "ownership",
     "ownerIds": [
@@ -19311,6 +19748,27 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "sinobo-group-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "sinobo-group-co"
+    ],
+    "text": "Sinobo Group Co., Ltd. (中赫集团有限公司), founded in September 2005 with a business scope covering mining and real-estate investment and asset management, has Zhou Jinhui (周金辉) as its legal representative and is jointly held by Zhou Jinhui and Li Caixia (李彩霞), per company registration data.",
+    "short": "Sinobo Group (中赫集团) is held jointly by Zhou Jinhui and Li Caixia.",
+    "source": {
+      "name": "Sohu (ITBEAR): 中赫集团、国安俱乐部及周金辉等被恢复执行36.8亿",
+      "date": "2025-06-20",
+      "url": "https://www.sohu.com/a/906152776_362225",
+      "quote": "中赫集团有限公司成立于2005年9月，法定代表人为周金辉，注册资本1.17亿人民币，经营范围含矿业投资、房地产投资、资产管理、矿业投资管理、房地产投资管理、体育运动项目经营等，由周金辉、李彩霞共同持股。",
+      "note": "Translation: 'Sinobo Group Co., Ltd. was founded in September 2005, legal representative Zhou Jinhui, registered capital RMB 117 million, with a business scope including mining investment, real-estate investment and asset management; it is jointly held by Zhou Jinhui and Li Caixia.' The article attributes the company details to Tianyancha (天眼查) registration data.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
