@@ -163,6 +163,11 @@ export const TEAM_COPY = {
     drivenNoOwner: 'The shirt {is} {level}: the {placement} sponsor is {sponsor}.',
     notRated: 'We haven’t rated this shirt yet: {n} sponsors still need checking.',
     notRatedOne: 'We haven’t rated this shirt yet: one sponsor still needs checking.',
+    /** Not in the design: every sponsor we know of is rated Nothing found, but the shirt's sponsor list isn't complete. */
+    incomplete: 'We haven’t rated this shirt yet: we found nothing behind the {n} sponsors we know of, but we don’t know every sponsor on it yet.',
+    incompleteOne: 'We haven’t rated this shirt yet: we found nothing behind {sponsor}, but we don’t know every sponsor on it yet.',
+    /** Not in the design: a shirt on file with no sponsors recorded. */
+    noSponsors: 'We haven’t recorded the sponsors on this shirt yet.',
     clean: 'The shirt {is} {level}: we checked every sponsor and found nothing.',
     /** Not in the design: a club with no shirt on file yet. */
     noKit: 'We haven’t recorded the sponsors on {club}’s shirt yet.',

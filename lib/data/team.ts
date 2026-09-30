@@ -276,8 +276,18 @@ export function headlineFor(ds: Dataset, kit: Kit, rows: SponsorRowView[], isPas
     return splitLevel(ds, kit.headline, level);
   const is = isPast ? 'was' : 'is';
   if (level === 'not-rated') {
+    // Every row rated but still not rated: the sponsor list isn't complete (Clean needs every sponsor).
     const n = rows.filter((r) => !r.rated).length;
-    const text = n === 1 ? C.headline.notRatedOne : fill(C.headline.notRated, { n });
+    const text =
+      n === 1
+        ? C.headline.notRatedOne
+        : n > 1
+          ? fill(C.headline.notRated, { n })
+          : rows.length === 0
+            ? C.headline.noSponsors
+            : rows.length === 1
+              ? fill(C.headline.incompleteOne, { sponsor: rows[0].name })
+              : fill(C.headline.incomplete, { n: rows.length });
     return { before: text, level: null, after: '', text };
   }
   if (level === 'clean') return splitLevel(ds, fill(C.headline.clean, { is }), level);
@@ -481,6 +491,11 @@ export interface RaiseItem {
 }
 
 export interface ActView {
+  /**
+   * False when today's shirt gives a fan nothing to raise or check: every sponsor is rated Nothing found
+   * (a Clean shirt, or one whose list isn't complete). The page leaves "What you can do" out then.
+   */
+  show: boolean;
   examples: string | null;
   raise: RaiseItem[];
   contact: ClubContactView;
@@ -645,6 +660,11 @@ export function teamPage(ds: Dataset, clubId: string): TeamPageView | null {
     });
   // "Help check" is for sponsors nobody has traced yet, not for ones whose rating is on hold.
   const unrated = today.rows.find((r) => !r.rated && !r.payer);
+  const check: ActView['check'] = unrated
+    ? { kind: 'sponsor', name: unrated.name, href: sponsorCheckHref(unrated.name) }
+    : today.hasKit
+      ? null
+      : { kind: 'club', name: club.shortName, href: claimClubHref(club.name) };
   const league = club.leagueId ? ds.byId.league.get(club.leagueId) : undefined;
   const sport = ds.byId.sport.get(club.sportId);
   return {
@@ -669,14 +689,11 @@ export function teamPage(ds: Dataset, clubId: string): TeamPageView | null {
       }),
     ) as Record<ScaleLevel, string>,
     act: {
+      show: raise.length > 0 || check !== null,
       examples: actionIntroExamples(ds, club),
       raise,
       contact: contactFor(ds, club),
-      check: unrated
-        ? { kind: 'sponsor', name: unrated.name, href: sponsorCheckHref(unrated.name) }
-        : today.hasKit
-          ? null
-          : { kind: 'club', name: club.shortName, href: claimClubHref(club.name) },
+      check,
       share: {
         title: fill(C.act.shareTitle, {
           club: club.shortName,
