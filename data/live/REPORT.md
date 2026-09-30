@@ -1,223 +1,133 @@
 # data/live
 
-Release `data-2026-09-30-36aefc0f` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `36aefc0f`, data updated 2026-09-30. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
+Release `data-2026-09-30-6328f99e` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `6328f99e`, data updated 2026-09-30. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
 
-Compared with the data it replaces (`4513f2e8`, updated 2026-09-29):
+Compared with the data it replaces (`36aefc0f`, updated 2026-09-30):
 
 | | clubs | kits | sponsors | owners | claims | deals | contacts |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| before | 579 | 458 | 1260 | 913 | 766 | 1049 | 213 |
-| after | 579 | 470 | 1363 | 994 | 875 | 1056 | 213 |
+| before | 579 | 470 | 1363 | 994 | 875 | 1056 | 213 |
+| after | 579 | 479 | 1380 | 1023 | 906 | 1056 | 213 |
 
-## Club levels that change (10)
+## Club levels that change (7)
 
-- [Brighton & Hove Albion Women](https://behind-the-jersey.org/clubs/brighton-and-hove-albion-w/) (Women's Super League): Not rated yet → **Clean**
-- [Cape Verde](https://behind-the-jersey.org/clubs/cape-verde/) (FIFA World Cups): Not rated yet → **Clean**
-- [Crystal Palace Women](https://behind-the-jersey.org/clubs/crystal-palace-w/) (Women's Super League): Not rated yet → **Clean**
-- [Curacao](https://behind-the-jersey.org/clubs/curacao/) (FIFA World Cups): Not rated yet → **Clean**
-- [Ecuador](https://behind-the-jersey.org/clubs/ecuador/) (FIFA World Cups): Not rated yet → **Clean**
-- [Germany](https://behind-the-jersey.org/clubs/germany/) (FIFA World Cups): Not rated yet → **Clean**
-- [Iraq](https://behind-the-jersey.org/clubs/iraq/) (FIFA World Cups): Not rated yet → **Clean**
-- [London City Lionesses](https://behind-the-jersey.org/clubs/london-city-lionesses/) (Women's Super League): Not rated yet → **Clean**
-- [Panathinaikos B.C.](https://behind-the-jersey.org/clubs/panathinaikos/) (EuroLeague): Not rated yet → **Spotted**
-- [Tottenham Hotspur Women](https://behind-the-jersey.org/clubs/tottenham-hotspur-w/) (Women's Super League): Not rated yet → **Clean**
+- [Australia](https://behind-the-jersey.org/clubs/australia/) (FIFA World Cups): Not rated yet → **Clean**
+- [Belgium](https://behind-the-jersey.org/clubs/belgium/) (FIFA World Cups): Not rated yet → **Clean**
+- [Fiji](https://behind-the-jersey.org/clubs/rugby-fiji/) (World Rugby events (Men's Rugby World Cup 2027 + HSBC SVNS 2026-27)): Not rated yet → **Clean**
+- [Georgia](https://behind-the-jersey.org/clubs/rugby-georgia/) (World Rugby events (Men's Rugby World Cup 2027 + HSBC SVNS 2026-27)): Not rated yet → **Clean**
+- [Italy](https://behind-the-jersey.org/clubs/rugby-italy/) (World Rugby events (Men's Rugby World Cup 2027 + HSBC SVNS 2026-27)): Not rated yet → **Clean**
+- [Portugal](https://behind-the-jersey.org/clubs/rugby-portugal/) (World Rugby events (Men's Rugby World Cup 2027 + HSBC SVNS 2026-27)): Not rated yet → **Clean**
+- [Vissel Kobe](https://behind-the-jersey.org/clubs/vissel-kobe/) (AFC competitions (ACL Elite 2026/27; AFC Asian Cup Saudi Arabia 2027)): Not rated yet → **Clean**
 
-## Sponsor ratings that change (18)
+## Sponsor ratings that change (8)
 
-- Analog: unrated (unrated) → **unrated** (being-rated)
-- Azimut: unrated (unrated) → **none** (rated)
-- BORA: unrated (unrated) → **none** (rated)
-- Bosch: unrated (unrated) → **none** (rated)
-- Colnago: unrated (unrated) → **unrated** (being-rated)
-- dnata: unrated (unrated) → **unrated** (being-rated)
-- EQT: unrated (unrated) → **none** (rated)
-- hansgrohe: unrated (unrated) → **none** (rated)
-- Howden: unrated (unrated) → **none** (rated)
-- IHC (International Holding Company): unrated (unrated) → **unrated** (being-rated)
-- ITM: unrated (unrated) → **none** (rated)
-- Monster Energy: unrated (unrated) → **none** (rated)
-- Mubadala Investment Company: unrated (unrated) → **unrated** (being-rated)
-- NEOM: unrated (unrated) → **unrated** (being-rated)
-- O2: unrated (unrated) → **unrated** (being-rated)
-- Specialized: unrated (unrated) → **none** (rated)
-- TDK: unrated (unrated) → **none** (rated)
-- XRG: unrated (unrated) → **unrated** (being-rated)
+- Bishop (BSHOP): unrated (unrated) → **none** (rated)
+- Debs: unrated (unrated) → **none** (rated)
+- Frecciarossa: unrated (unrated) → **none** (rated)
+- Kawasaki Heavy Industries: unrated (unrated) → **none** (rated)
+- Noevir: unrated (unrated) → **none** (rated)
+- Rakuten Group, Inc.: unrated (unrated) → **none** (rated)
+- Santander: unrated (unrated) → **none** (rated)
+- Suzette Holdings: unrated (unrated) → **none** (rated)
 
-## Sponsors added (103)
+## Sponsors added (17)
 
-- ABT Sportsline: none
-- ADQ: unrated
-- AG1: unrated
-- AGP: none
-- Akrapovič: unrated
-- AKTOR: none
-- Aruba: unrated
-- Atvos: unrated
-- Audi: unrated
-- Audi Al Nabooda (Al Nabooda Automobiles): unrated
-- Auto Eder: none
-- Autogrill: none
-- Ballena (tequila-based liqueur): unrated
-- Bank of Communications: unrated
-- Barton & Gray Mariners Club: none
-- Beatbot: unrated
-- Bermuda: none
-- Beta: unrated
-- Cadbury: unrated
-- Capelli Sport: none
-- Carlo Barbera: unrated
-- Carrera (eyewear): none
-- Cato Networks: unrated
-- China Eastern Airlines: unrated
-- CÎROC: none
-- Contadi Castaldi: unrated
-- Crowe UK: none
-- DID: unrated
-- Domino: unrated
-- e& (formerly Etisalat): unrated
-- Eataly: none
-- e.l.f. Cosmetics: none
-- ENEOS: none
-- Equiti: unrated
-- Eternoo: unrated
-- FAB (First Abu Dhabi Bank): unrated
-- Flex-Box: unrated
-- Frecciarossa: unrated
-- Givi: unrated
-- grenke: none
-- … and 63 more
+- Asics Japan: none
+- Binghatti: none
+- Cartrack: none
+- DIEZ: unrated
+- Digiara Holdings: none
+- Farg'ona Invest: unrated
+- Fergana Region Administration: unrated
+- Fiji Airways: none
+- FIJI Water: none
+- FNQIZ (Fergana Oil Refinery): unrated
+- Hovione: none
+- Mai Dubai: unrated
+- Sun & Sand Sports: none
+- Tappoo: none
+- TBC Bank: none
+- Vision Motors: none
+- Vittoria Assicurazioni: none
 
-## Owners added (81)
+## Owners added (29)
 
-- ABT Sportsline GmbH (abt-sportsline-gmbh)
-- ADNOC (Abu Dhabi National Oil Company) (adnoc)
-- AKTOR Group (aktor-group)
-- Anritsu Corporation (anritsu)
-- AG1 (Athletic Greens) (athletic-greens)
-- Auto Eder GmbH (auto-eder)
-- Avolta AG (avolta-ag)
-- Azimut Holding S.p.A. (azimut-holding-spa)
-- Bank of Communications Co., Ltd. (bank-of-communications)
-- Barton & Gray Mariners Club (barton-and-gray-mariners-club)
-- Bermuda Tourism Authority (bermuda-tourism-authority)
-- Bora Lüftungstechnik GmbH (bora-lueftungstechnik)
-- Cato Networks Ltd. (cato-networks)
-- Chimera Investments LLC (chimera-investments)
-- China Eastern Air Holding Co., Ltd. (中国东方航空集团有限公司) (china-eastern-air-holding)
-- China Eastern Airlines Co., Ltd. (china-eastern-airlines)
-- Crowe U.K. LLP (crowe-uk-owner)
-- Dubai Holding (dubai-holding)
-- Eataly S.p.A. (eataly-spa)
-- e.l.f. Beauty, Inc. (NYSE: ELF) (elf-beauty-inc)
-- Emirates Investment Authority (EIA, UAE federal sovereign fund) (emirates-investment-authority)
-- ENEOS Corporation (eneos-corporation)
-- ENEOS Holdings, Inc. (eneos-holdings)
-- EQT AB (eqt-ab)
-- FTMO group (ftmo)
-- G42 (Group 42 Holding Ltd, Abu Dhabi AI group) (g42)
-- Genstar Capital (genstar-capital)
-- GMA Accessories Inc. (gma-accessories)
-- grenke AG (grenke-ag)
-- Henkel AG & Co. KGaA (henkel)
-- Howden Group Holdings Limited (howden-group-holdings)
-- HRX S.r.l. (hrx-srl)
-- Independent Timber Merchants Co-operative Limited (independent-timber-merchants-cooperative)
-- Innovasport (innovasport)
-- Investindustrial (investindustrial)
-- Ministry of Economy and Finance (Italian state) (italian-ministry-of-economy-finance)
-- Koch, Inc. (formerly Koch Industries) (koch-inc)
-- Kyocera Corporation (kyocera-corporation)
-- L'Auxiliaire (l-auxiliaire)
-- Lockton Companies (Lockton family, private) (lockton-companies)
-- … and 41 more
+- ASICS Corporation (asics-corporation)
+- Banco Santander, S.A. (banco-santander-sa)
+- Binghatti Holding (binghatti-holding)
+- Bishop Inc. (BSHOP INC.) (bishop-inc)
+- Carlo Acutis (and family) (carlo-acutis)
+- Debs Co., Ltd. (Debs Corporation) (debs-co)
+- Dubai Electricity and Water Authority (DEWA) (dewa)
+- Digiara Holdings Co., Ltd. (DIGITAL ALLIANCE Holdings CO.,LTD) (digiara-holdings)
+- Farg'ona Invest Kompaniyasi AJ (fargona-invest)
+- Fergana Region Administration (Farg'ona viloyati hokimligi) (fergana-region-administration)
+- Ferrovie dello Stato Italiane S.p.A. (FS, FS Italiane Group) (ferrovie-dello-stato-italiane)
+- Farg'ona neftni qayta ishlash zavodi LLC (FNQIZ, Fergana Oil Refinery) (fnqiz)
+- GMG (Gulf Marketing Group) (gmg)
+- Government of Fiji (government-of-fiji)
+- Government of Uzbekistan (government-of-uzbekistan)
+- Hovione Holding AG (hovione-holding-ag)
+- Karooooo Ltd (karooooo-ltd)
+- Kawasaki Heavy Industries, Ltd. (kawasaki-heavy-industries-ltd)
+- Noevir Holdings Co., Ltd. (noevir-holdings)
+- Rakuten Group, Inc. (rakuten-group-inc)
+- Suzette Holdings Co., Ltd. (suzette-holdings)
+- Tappoos Group of Companies (Tappoo Pte Limited) (tappoo-group)
+- TBC Bank Group PLC (tbc-bank-group)
+- The Wonderful Company LLC (the-wonderful-company)
+- Trenitalia S.p.A. (trenitalia)
+- Vision Investments Limited (vision-investments-ltd)
+- Vittoria Assicurazioni S.p.A. (vittoria-assicurazioni-spa)
+- Yafa Holding S.p.A. (yafa-holding-spa)
+- Yafa S.p.A. (Vittoria Assicurazioni group parent) (yafa-spa)
 
-## Claims added (109)
+## Claims added (31)
 
-- abt-sportsline-gmbh-family: ABT Sportsline describes itself as an owner-managed company in its fifth generation, with family cohesion anchored in its corporate DNA.
-- adnoc-abu-dhabi-ownership: ADNOC is a diversified energy group wholly owned by the Abu Dhabi Government.
-- ag1-athletic-greens-ownership: AG1 was created by Athletic Greens, a New York-based company founded in 2010 by Chris Ashenden.
-- agp-ownership: AGP (Architectural Glass Products) says it is part of the Profile Group, New Zealand's window-and-door systems group. The New Zealand Companies Register lists Profile Group Limited with 2,250,000 of Architectural Glass Products Limited's 3,000,000 shares (75%).
-- aktor-group-blue-silk-stake: ot.gr reported on 15 July 2026 that Blue Silk (CY) Ltd, the third main shareholder of AKTOR, belongs to the businessman Konstantinos Angelou and held about 15.9% of AKTOR's common shares before the July 2026 capital increase, in which it said it would invest up to 50 million euros.
-- aktor-group-castellano-stake: According to AKTOR's market announcement reported by powergame.gr on 3 August 2026, Castellano Properties Limited holds 20.31% of AKTOR's common shares and voting rights after the July 2026 capital increase, up from 19.53%. The announcement names Ilias Gotsis, Evgenia Gotsi, Rodamanthi Gotsi and Michail Gotsis as Castellano's beneficial owners, with 25% each.
-- aktor-group-listed: AKTOR Group's shares trade on the Athens Stock Exchange: a July 2026 capital increase was completed and the new shares were admitted to trading on the Athens Exchange.
-- aktor-group-voting-rights-2026: Euronext Athens' issuer page for AKTOR S.A. Holding Company, Technical and Energy Projects lists three holders of 5% or more of its voting rights: Winex Investments Limited (33.41%), Castellano Properties Limited (20.31%) and Blue Silk (CY) Ltd (11.33%).
-- aktor-group-winex-stake: According to AKTOR's market announcement reported by newmoney.gr on 31 July 2026, WINEX INVESTMENTS LIMITED, a legal entity related to AKTOR Group chairman and CEO Alexandros Exarchou, holds 33.41% of AKTOR's common shares and voting rights after the July 2026 capital increase, down from 41.962% previously.
-- amazon-com-inc-listing: Amazon.com, Inc.'s common stock is traded on the Nasdaq Global Select Market under the symbol AMZN.
-- analog-g42-venture: Analog is an edge-computing company launched by G42 in January 2024; G42 announced an investment in it, and Analog's founder said G42 is its biggest investor.
-- anritsu-listed: Anritsu Corporation is listed on the Tokyo Stock Exchange Prime Market (code 6754); at 31 March 2023 its largest shareholders were The Master Trust Bank of Japan (trust account, 15.90%) and Custody Bank of Japan (trust account, 6.90%).
-- apex-group-genstar-ownership: In July 2021, Apex Group Ltd. said that Carlyle and the sovereign investor Mubadala Investment Company had taken minority stakes in the business, investing alongside founder Peter Hughes, majority owner Genstar Capital and TA Associates. Genstar Capital said in June 2021 that Apex was majority-owned by it.
-- atvos-mubadala-capital-ownership: Mubadala Capital, the asset-management subsidiary of Abu Dhabi's Mubadala Investment Company, became the controlling shareholder of Brazilian biofuel producer Atvos through its MC Green Energy investment fund, and lists Atvos as a current Brazil portfolio investment.
-- audi-vw-ownership: AUDI AG is a fully owned subsidiary of Volkswagen AG.
-- auto-eder-family-ownership: Auto Eder GmbH (Kolbermoor, Bavaria) describes itself as a family-led company (familiengeführtes Traditionsunternehmen); its managing partners (geschäftsführende Gesellschafter) are Peter Eder and Josef Eder.
-- autogrill-avolta-ownership: In 2023 Dufry acquired Autogrill: on 1 July 2023 Dufry said it would hold 96.3858% of Autogrill's share capital and could start the squeeze-out, which would leave it holding all of Autogrill's shares, and delist Autogrill. Dufry AG has since been renamed Avolta AG, and Autogrill is one of Avolta's dining brands.
-- azimut-holding-shareholders: Azimut Holding S.p.A., an asset and wealth management group, is listed on the Milan stock exchange. Borsa Italiana's company profile (shareholder data from Azimut Holding, last updated 21 November 2025) lists Timone Fiduciaria S.r.l. with 21.15%, Helikon Investments Limited with 5.82%, treasury shares of 0.77% and a free float of 72.26%. Azimut says about 2,000 of its financial advisors, managers and staff are shareholders under a shareholders' agreement that controls about 21% of the company.
-- barton-gray-ownership: Barton & Gray Mariners Club was founded in 2006 by a crew of marine, software and marketing professionals, helmed by Timothy Barton and Douglas Gray.
-- bermuda-tourism-authority-ownership: The Bermuda Tourism Authority (BTA) is Bermuda's official destination marketing organisation, a quasi-independent tourism enterprise that works with the Bermuda Government.
-- bocom-mof-controlling-shareholder: As at 31 December 2025 the controlling shareholder of Bank of Communications was China's Ministry of Finance, which held 30,942,772,271 A and H shares, 35.02% of the bank, according to the bank's 2025 annual report. The National Council for Social Security Fund, an entity under the management of the Ministry of Finance, held another 13.75%.
-- bora-bruckbauer-ownership: BORA is the brand of Bora Lüftungstechnik GmbH of Raubling, Upper Bavaria, founded in 2007 by Willi Bruckbauer, who remains its CEO. The design magazine md calls Bruckbauer the sole owner (Alleininhaber) of Bora.
-- bosch-stiftung-ownership: The not-for-profit foundation Robert Bosch Stiftung GmbH holds roughly 94 percent of the share capital of Robert Bosch GmbH; about 93 percent of voting rights are held by Robert Bosch Industrietreuhand KG.
-- cadbury-mondelez-ownership: Cadbury, principal partner of the Wallabies, is a brand owned by US-listed snacks company Mondelez International.
-- capelli-sport-gma-accessories-ownership: Capelli Sport operates under the umbrella of GMA Accessories, Inc., a New York fashion and apparel company led by owner and CEO George Altirs, who founded GMA Accessories and launched Capelli Sport in 2011; the company is described as still privately held.
-- cato-networks-ownership: Cato Networks is an Israeli cybersecurity company co-founded in 2015 by Shlomo Kramer and Gur Shatz. It has raised more than $1 billion; its June 2025 Series G round ($359 million at a $4.8 billion valuation) was led by Vitruvian Partners and ION Crossover Partners, with existing backers Lightspeed Venture Partners, Acrew Capital and Adams Street Partners. Its September 2023 round was led by Lightspeed Venture Partners with Adams Street Partners, SoftBank Vision Fund 2, Sixty Degree Capital and Singtel Innov8.
-- cea-state-control: China Eastern Airlines' controlling shareholder is state-owned China Eastern Air Holding, which held 55.80% of the airline after a May 2026 increase, and whose controlling shareholder with 68.42% is the State-owned Assets Supervision and Administration Commission of the State Council (SASAC); the company's own filing names the State Council SASAC as the airline's actual controller.
-- chimera-tahnoon-empire: Chimera Investment LLC is part of a business empire overseen by Abu Dhabi's Sheikh Tahnoon bin Zayed Al Nahyan (Bloomberg, September 2023).
-- ciroc-diageo-ownership: CÎROC is listed among Diageo plc's brands on the drinks group's own website.
-- colnago-chimera-majority: Chimera Investments LLC, an investment fund based in Abu Dhabi, acquired a majority of the shares in Colnago in May 2020.
-- crowe-uk-owner-record: Crowe UK is Crowe U.K. LLP (company number OC307043), a UK limited liability partnership incorporated on 24 February 2004.
-- dnata-icd-ownership: dnata is wholly owned by the Investment Corporation of Dubai (ICD), a Government of Dubai entity.
-- ds-automobiles-stellantis-ownership: DS Automobiles is one of Stellantis N.V.'s brands: Stellantis lists it in its brand portfolio on its own site.
-- dubai-holding-ruler-ownership: Dubai Holding is a global investment holding company owned by Dubai's ruler, Sheikh Mohammed bin Rashid Al Maktoum.
-- e-and-eia-ownership: e& (Emirates Telecommunications Group Company PJSC, formerly Etisalat) is 60% owned by the Emirates Investment Authority (EIA), which a filing signed by both calls an integral part of the UAE's Federal Government. e&'s corporate governance report for 2019 calls EIA the Government Shareholder, with the right to appoint seven of the eleven board members.
-- eataly-investindustrial: In September 2022 an investment company of Investindustrial VII L.P. and Eataly S.p.A. signed an agreement under which, at closing, Investindustrial holds 52% of Eataly and the existing shareholders Eatinvest (Farinetti family), the Baffigo/Miroglio family and Clubitaly (Tamburi Investment Partners) own the remaining 48%.
-- elf-beauty-inc-ownership: e.l.f. Cosmetics is a brand of e.l.f. Beauty (NYSE: ELF), a US-listed company headquartered in Oakland, California.
-- enel-italy-ownership: Enel's shareholder-structure page, with data as of 31 December 2025, lists Italy's Ministry of Economy and Finance holding 23.6% of Enel's shares; institutional investors hold 58.6% and retail investors 17.8%.
-- eneos-holdings-listed: ENEOS Holdings, Inc. is listed on the Tokyo Stock Exchange and the Nagoya Stock Exchange (securities code 5020).
-- eneos-ownership: ENEOS Corporation's Company Overview states that its capital is 30 billion yen, a 100% investment of ENEOS Holdings, Inc., and that it refines and markets petroleum products.
-- … and 69 more
+- asics-corporation-shareholders: ASICS Corporation's principal shareholders as of 30 June 2026 were The Master Trust Bank of Japan, Ltd. (Trust Account, 16.13%), Custody Bank of Japan, Ltd. (Trust Account, 8.57%), THE CHASE MANHATTAN BANK, N.A. LONDON SECS LENDING OMNIBUS ACCOUNT (2.73%) and Nippon Life Insurance Company (2.56%); GOVERNMENT OF NORWAY held 2.13% and GIC PRIVATE LIMITED 1.39% — no state or sovereign shareholder is listed as controlling the company.
+- asics-japan-asics-group: ASICS Corporation's site lists ASICS Japan Corporation (アシックスジャパン株式会社, headquartered at JP Tower, Chiyoda-ku, Tokyo) among its group ('related') companies in Japan.
+- banco-santander-totta-ownership: The 'Santander' name on Portugal's rugby shirt is Santander Portugal, the trading name of Banco Santander Totta, S.A., of which Banco Santander, S.A. owns 1,383,690,177 shares, per Banco Santander's 2025 annual report filed with the SEC.
+- binghatti-holding-ownership: Binghatti Holding is a private, family-owned Dubai property developer founded by Hussain Binghatti Aljbori in 2008 and chaired by Muhammad BinGhatti; Forbes Middle East ranks it 18th on its Top 100 Arab Family Businesses 2026.
+- bishop-inc-private: Bishop Inc. (株式会社ビショップ, 'BSHOP INC.') is a clothing and household-goods retailer established on 15 December 1993 and headquartered in Kobe; its company profile names Takeshi Mori as president and lists group companies BOY'S CO., LTD, Un Fil Inc., BRC CO., LTD and Bshop Korea Inc.
+- cartrack-portugal-karooooo: Cartrack trades in Portugal as Cartrack Portugal S.A., which Karooooo Ltd's FY2026 Form 20-F group-structure table lists as held 100% by Cartrack Ireland Limited; that table chains every layer of the group (Cartrack Ireland, Cartrack Technologies Pte. Ltd., Cartrack Holdings) at 100% up to Karooooo Ltd.
+- debs-co-private: Debs Co., Ltd. (デビス株式会社, 'Debs Corporation') is a Japanese textiles and lifestyle company; its corporate overview describes a family trading history in Kobe going back to 1917 and names Hani Debs as President & CEO.
+- dewa-government-of-dubai-ownership: When Dubai Electricity and Water Authority (DEWA) listed on the Dubai Financial Market in April 2022, selling 18% of its share capital, the Government of Dubai continued to own 82%.
+- diez-icd-ownership: The Dubai Integrated Economic Zones Authority (DIEZ) is wholly owned by the Investment Corporation of Dubai (ICD).
+- digiara-holdings-private: 株式会社デジアラホールディングス (DIGITAL ALLIANCE Holdings CO.,LTD) is a Kobe holding company founded in April 2000 managing group companies in online retail of housing/exterior equipment and exterior works; its company outline names 有本哲也 (Tetsuya Arimoto) as representative director.
+- fargona-invest-hokimlik-founder: 'Farg'ona Invest Kompaniyasi' AJ was founded by the Fergana region administration (hokimlik).
+- fergana-hokimlik-sponsor: Neftchi Fergana's official website lists the 'Fergana Region Administration' (Farg'ona viloyati hokimligi) — Uzbekistan's regional state administration, which issues local government decisions — among the club's main sponsors.
+- fiji-airways-fiji-government-ownership: The Fijian Government holds 51 percent of the shares in Fiji Airways, ahead of the Fiji National Provident Fund, which bought 30.02 percent in July 2022 and became the second largest shareholder.
+- fiji-water-wonderful-ownership: FIJI Water is one of the brands of The Wonderful Company LLC of Los Angeles, which describes itself as a privately held $6 billion company.
+- fnqiz-state-ownership: Uzbekistan's State Assets Management Agency (Davaktiv) is the sole founder of 'Farg'ona neftni qayta ishlash zavodi' LLC (FNQIZ, the Fergana Oil Refinery), which returned to full state control in June 2026.
+- frecciarossa-trenitalia-ownership: Frecciarossa is the high-speed train brand of Trenitalia S.p.A.: the FIR announced a sponsorship agreement with Trenitalia that puts the Frecciarossa brand on the Italian national rugby teams' shirts.
+- hovione-family-owned: Hovione Holding AG is a family-owned pharmaceutical group; its own press room describes Guy Villax as non-executive director and chairman of the family council, speaking for the company's principal shareholder.
+- karooooo-zak-calisto-control: Karooooo Ltd's ordinary shares are listed on the Nasdaq and the JSE, and its founder and chief executive officer Zak Calisto, its controlling shareholder, controls a majority of the combined voting power of its outstanding shares.
+- khi-listed-shareholders: Kawasaki Heavy Industries, Ltd. is listed on the Tokyo Stock Exchange (TSE Prime Market), code 7012. Per the Kawasaki Report 2025 (stock information as of 31 March 2025) its largest shareholders were The Master Trust Bank of Japan, Ltd. (Trust Account, 15.01%), Custody Bank of Japan, Ltd. (Trust Account, 8.09%), Nippon Life Insurance Company (3.42%) and the Kawasaki Heavy Industries Employee Stock Ownership Association (2.84%); no state or sovereign shareholder is listed.
+- mai-dubai-dewa-ownership: Mai Dubai, the bottled-water company, is fully owned by Dubai Electricity and Water Authority (DEWA).
+- noevir-co-noevir-holdings: Noevir Holdings Co., Ltd.'s securities report for the year ended September 2025 lists Noevir Co., Ltd. (㈱ノエビア, Kobe) among its consolidated subsidiaries, with Noevir Holdings holding 100.00% of the voting rights.
+- noevir-holdings-shareholders: Noevir Holdings Co., Ltd. (Tokyo-listed, securities code 4928) reported in its securities report for the year ended September 2025 that its largest shareholders were 株式会社エヌ・アイ・アイ (36.25%), 大倉俊 (10.83%) and 日本マスタートラスト信託銀行株式会社 / The Master Trust Bank of Japan (trust account, 6.14%); no state or sovereign shareholder is listed.
+- rakuten-group-shareholders: Rakuten Group, Inc.'s main shareholders as of 31 December 2025 were The Master Trust Bank of Japan, Ltd. (Trust Account, 10.84%), Crimson Group, LLC. (10.43%), Hiroshi Mikitani (8.14%), JAPAN POST HOLDINGS Co., Ltd. (6.04%) and Haruko Mikitani (5.19%); no state or sovereign shareholder is listed as controlling the company.
+- sun-sand-sports-gmg-ownership: Sun & Sand Sports is a homegrown sports-retail brand of Gulf Marketing Group (GMG), a holding company owned and managed by the Baker family.
+- suzette-holdings-private: 株式会社シュゼット・ホールディングス (Suzette Holdings Co., Ltd.) is a Nishinomiya, Hyogo confectionery holding company whose brands include Henri Charpentier, C3 and Casaneo; its company profile names 蟻田剛毅 (Tsuyoshi Arita) as president and lists its group companies.
+- tappoo-group-ownership: Tappoo, the Fiji Rugby sponsor whose logo appears on the national team's shorts, is part of the Tappoos Group of Companies, a family-owned Fijian company founded in 1941 by Tappoo Kanji.
+- tbc-bank-group-ownership: TBC Bank (JSC TBC Bank) belongs to TBC Bank Group PLC, a United Kingdom-based parent company listed on the London Stock Exchange (TBCG).
+- trenitalia-italian-state-ownership: Trenitalia is a subsidiary of Ferrovie dello Stato Italiane S.p.A. (FS), the holding company of the Italian FS railway group, and the Italian State is FS's sole shareholder via the Ministry of Economy and Finance (MEF): the FS EMTN base prospectus lists the railway undertaking Trenitalia among the subsidiaries FS controls, and describes the Italian State as FS's sole shareholder, appointing its Board of Directors and overseeing its strategy.
+- uzbekistan-karakalpakstan-2022: In July 2022 Uzbek security forces used unjustifiably lethal and other excessive force to disperse mainly peaceful protesters in Karakalpakstan, where at least 18 protesters died; the UN human rights chief called for a prompt, independent investigation into the deaths.
+- vision-motors-vil-ownership: Vision Motors is a trading division of Vision Investments Limited (VIL), which describes itself as a public listed company on the Fiji stock exchange.
+- vittoria-yafa-ownership: Vittoria Assicurazioni S.p.A. is part of the Vittoria Assicurazioni Group and subject to the direction and coordination of its parent Yafa S.p.A. The shareholder chart ('Gli Azionisti') on the same corporate-data page shows 98.34% of Vittoria Assicurazioni S.p.A. held by Yafa Holding S.p.A., 80.43% of Yafa Holding S.p.A. held by Yafa S.p.A. and 99.99% of Yafa S.p.A. held by Carlo Acutis.
 
-## Clubs whose kits change (52)
+## Clubs whose kits change (10)
 
-- [Cape Verde](https://behind-the-jersey.org/clubs/cape-verde/)
-- [Curacao](https://behind-the-jersey.org/clubs/curacao/)
-- [Dalian Yingbo](https://behind-the-jersey.org/clubs/dalian-yingbo/)
-- [Ecuador](https://behind-the-jersey.org/clubs/ecuador/)
-- [Germany](https://behind-the-jersey.org/clubs/germany/)
-- [Iran](https://behind-the-jersey.org/clubs/iran/)
-- [Iraq](https://behind-the-jersey.org/clubs/iraq/)
-- [Qingdao Hainiu](https://behind-the-jersey.org/clubs/qingdao-hainiu/)
-- [Australia](https://behind-the-jersey.org/clubs/rugby-australia/)
-- [England](https://behind-the-jersey.org/clubs/rugby-england/)
-- [Shanghai Shenhua](https://behind-the-jersey.org/clubs/shanghai-shenhua/)
-- [Wuhan Three Towns](https://behind-the-jersey.org/clubs/wuhan-three-towns/)
-- [Andretti Formula E](https://behind-the-jersey.org/clubs/andretti-formula-e/)
-- [Arsenal Women](https://behind-the-jersey.org/clubs/arsenal-w/)
-- [ASVEL Basket](https://behind-the-jersey.org/clubs/asvel/)
-- [FC Bayern Munich Basketball](https://behind-the-jersey.org/clubs/bayern-munich-basketball/)
-- [Black Foils SailGP Team](https://behind-the-jersey.org/clubs/black-foils-nz/)
-- [Brighton & Hove Albion Women](https://behind-the-jersey.org/clubs/brighton-and-hove-albion-w/)
-- [Brooklyn Nets](https://behind-the-jersey.org/clubs/brooklyn-nets/)
-- [Chicago Bulls](https://behind-the-jersey.org/clubs/chicago-bulls/)
-- [Crystal Palace Women](https://behind-the-jersey.org/clubs/crystal-palace-w/)
-- [Detroit Pistons](https://behind-the-jersey.org/clubs/detroit-pistons/)
-- [DS Penske](https://behind-the-jersey.org/clubs/ds-penske/)
-- [Dubai Basketball](https://behind-the-jersey.org/clubs/dubai-basketball/)
-- [Ducati Lenovo Team](https://behind-the-jersey.org/clubs/ducati-lenovo-team/)
-- [Emirates Great Britain SailGP Team](https://behind-the-jersey.org/clubs/emirates-great-britain/)
-- [Japan](https://behind-the-jersey.org/clubs/japan/)
-- [Lola Yamaha ABT Formula E Team](https://behind-the-jersey.org/clubs/lola-yamaha-abt/)
-- [London City Lionesses](https://behind-the-jersey.org/clubs/london-city-lionesses/)
-- [Maccabi Tel Aviv B.C.](https://behind-the-jersey.org/clubs/maccabi-tel-aviv/)
-- [Minnesota Timberwolves](https://behind-the-jersey.org/clubs/minnesota-timberwolves/)
-- [Monster Energy Yamaha MotoGP](https://behind-the-jersey.org/clubs/monster-energy-yamaha-motogp/)
-- [Mubadala Brazil SailGP Team](https://behind-the-jersey.org/clubs/mubadala-brazil/)
-- [Netherlands](https://behind-the-jersey.org/clubs/netherlands/)
-- [New York Red Bulls](https://behind-the-jersey.org/clubs/new-york-red-bulls/)
-- [Panathinaikos B.C.](https://behind-the-jersey.org/clubs/panathinaikos/)
-- [Porsche Formula E Team](https://behind-the-jersey.org/clubs/porsche-formula-e/)
-- [Red Bull-Bora-Hansgrohe](https://behind-the-jersey.org/clubs/red-bull-bora-hansgrohe/)
-- [Red Bull Italy SailGP Team](https://behind-the-jersey.org/clubs/red-bull-italy/)
-- [Tampa Bay Buccaneers](https://behind-the-jersey.org/clubs/tampa-bay-buccaneers/)
-- … and 12 more
+- [Australia](https://behind-the-jersey.org/clubs/australia/)
+- [Belgium](https://behind-the-jersey.org/clubs/belgium/)
+- [Neftchi Fergana](https://behind-the-jersey.org/clubs/neftchi/)
+- [Qatar men's national basketball team](https://behind-the-jersey.org/clubs/qatar-basketball/)
+- [Fiji](https://behind-the-jersey.org/clubs/rugby-fiji/)
+- [Georgia](https://behind-the-jersey.org/clubs/rugby-georgia/)
+- [Italy](https://behind-the-jersey.org/clubs/rugby-italy/)
+- [Portugal](https://behind-the-jersey.org/clubs/rugby-portugal/)
+- [Shabab Al Ahli Club](https://behind-the-jersey.org/clubs/shabab-al-ahli/)
+- [Vissel Kobe](https://behind-the-jersey.org/clubs/vissel-kobe/)
 
 ## Warnings (42)
 
