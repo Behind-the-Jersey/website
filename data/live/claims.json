@@ -240,6 +240,27 @@
     "reviewed": false
   },
   {
+    "id": "abt-sportsline-gmbh-family",
+    "kind": "ownership",
+    "ownerIds": [
+      "abt-sportsline-gmbh"
+    ],
+    "text": "ABT Sportsline describes itself as an owner-managed company in its fifth generation, with family cohesion anchored in its corporate DNA.",
+    "short": "ABT Sportsline is an owner-managed family company.",
+    "source": {
+      "name": "ABT Sportsline: Company",
+      "date": "2026",
+      "url": "https://www.abt-sportsline.com/company",
+      "quote": "As an owner-managed company in the 5th generation, family cohesion is firmly anchored in our corporate DNA.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Page without a date; opened 2026-09-30."
+    },
+    "reviewed": false
+  },
+  {
     "id": "acadomia-domia-group-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -349,6 +370,39 @@
         "checked": {
           "on": "2026-09-27",
           "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "adnoc-abu-dhabi-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "adnoc",
+      "government-of-abu-dhabi"
+    ],
+    "text": "ADNOC is a diversified energy group wholly owned by the Abu Dhabi Government.",
+    "short": "ADNOC is wholly owned by the Abu Dhabi Government",
+    "source": {
+      "name": "ADNOC: Our Heritage",
+      "date": "2026",
+      "url": "https://adnoc.ae/en/our-story/our-heritage",
+      "quote": "Founded in 1971, ADNOC is a leading diversified energy group, wholly owned by the Abu Dhabi Government",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "ch-aviation: Etihad joins Abu Dhabi's consolidated L'imad investment fund",
+        "date": "2026-02-04",
+        "url": "https://www.ch-aviation.com/news/163363-etihad-joins-abu-dhabis-consolidated-limad-investment-fund",
+        "quote": "SCFEA oversees the principal sovereign investment funds of the Abu Dhabi government, namely the Abu Dhabi Investment Authority, Mubadala Investment Company, L'imad Holding Company, and the Abu Dhabi National Oil Company",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
         }
       }
     ],
@@ -512,6 +566,58 @@
     "reviewed": false
   },
   {
+    "id": "ag1-athletic-greens-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "athletic-greens"
+    ],
+    "text": "AG1 was created by Athletic Greens, a New York-based company founded in 2010 by Chris Ashenden.",
+    "short": "AG1 is the brand of the private company Athletic Greens",
+    "source": {
+      "name": "TechCrunch: Athletic Greens valued at $1.2B after bagging $115M to expand nutrition drink footprint",
+      "date": "2022-01-25",
+      "url": "https://techcrunch.com/2022/01/25/athletic-greens-valued-at-1-2b-nutrition-drink/",
+      "quote": "Athletic Greens, which created AG1, a powdered beverage designed to provide daily nutrition",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "agp-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "profile-group"
+    ],
+    "text": "AGP (Architectural Glass Products) says it is part of the Profile Group, New Zealand's window-and-door systems group. The New Zealand Companies Register lists Profile Group Limited with 2,250,000 of Architectural Glass Products Limited's 3,000,000 shares (75%).",
+    "short": "AGP is 75% owned by Profile Group.",
+    "source": {
+      "name": "AGP: NZ's Leading Manufacturer of Double Glazed Glass Products (Wayback Machine capture of 1 May 2026; the live page blocks scripts)",
+      "date": "2026-05-01",
+      "url": "https://web.archive.org/web/20260501182501/https://agpl.co.nz/",
+      "quote": "AGP is part of the Profile Group, the market leader of window and door systems in New Zealand.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "New Zealand Companies Office: ARCHITECTURAL GLASS PRODUCTS LIMITED (6919833), Shareholdings",
+        "date": "2026-03-16",
+        "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/6919833/shareholdings",
+        "quote": "2250000 (75.00%) PROFILE GROUP LIMITED",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "agua-de-monfortinho-leitao-machado-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -664,6 +770,106 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "aktor-group-blue-silk-stake",
+    "kind": "ownership",
+    "ownerIds": [
+      "aktor-group"
+    ],
+    "text": "ot.gr reported on 15 July 2026 that Blue Silk (CY) Ltd, the third main shareholder of AKTOR, belongs to the businessman Konstantinos Angelou and held about 15.9% of AKTOR's common shares before the July 2026 capital increase, in which it said it would invest up to 50 million euros.",
+    "short": "Blue Silk, the businessman Konstantinos Angelou's company, is AKTOR Group's third main shareholder.",
+    "source": {
+      "name": "ot.gr: AKTOR: Στην ΑΜΚ και η Blue Silk του Αγγέλου με 50 εκατ. ευρώ",
+      "date": "2026-07-15",
+      "url": "https://www.ot.gr/2026/07/15/epixeiriseis/aktor-stin-amk-kai-i-blue-silk-tou-aggelou-me-50-ekat-eyro",
+      "quote": "η Blue Silk του επιχειρηματία Κωνσταντίνου Αγγέλου θα συμμετέχει στην αύξηση του μετοχικού κεφαλαίου της AKTOR με 50 εκατ. ευρώ",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "aktor-group-castellano-stake",
+    "kind": "ownership",
+    "ownerIds": [
+      "aktor-group"
+    ],
+    "text": "According to AKTOR's market announcement reported by powergame.gr on 3 August 2026, Castellano Properties Limited holds 20.31% of AKTOR's common shares and voting rights after the July 2026 capital increase, up from 19.53%. The announcement names Ilias Gotsis, Evgenia Gotsi, Rodamanthi Gotsi and Michail Gotsis as Castellano's beneficial owners, with 25% each.",
+    "short": "Castellano Properties, owned by four members of the Gotsis family, holds 20.31% of AKTOR Group.",
+    "source": {
+      "name": "powergame.gr: AKTOR: Στο 20,31% το ποσοστό της Castellano μετά την αύξηση κεφαλαίου",
+      "date": "2026-08-03",
+      "url": "https://www.powergame.gr/epichirisis/1398210/aktor-sto-2031-to-pososto-tis-castellano-meta-tin-afxisi-kefalaiou/",
+      "quote": "πραγματικοί δικαιούχοι της Castellano είναι οι κ.κ. Ηλίας Γκότσης, Ευγενία Γκότση, Ροδαμάνθη Γκότση και Μιχαήλ Γκότσης, με ποσοστά συμμετοχής 25% έκαστος",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "aktor-group-listed",
+    "kind": "ownership",
+    "ownerIds": [
+      "aktor-group"
+    ],
+    "text": "AKTOR Group's shares trade on the Athens Stock Exchange: a July 2026 capital increase was completed and the new shares were admitted to trading on the Athens Exchange.",
+    "short": "AKTOR Group shares trade on the Athens Exchange.",
+    "source": {
+      "name": "newmoney.gr: Aktor: Στο 33,41% το ποσοστό της Winex μετά την ΑΜΚ",
+      "date": "2026-07-31",
+      "url": "https://www.newmoney.gr/roh/palmos-oikonomias/epixeiriseis/aktor-sto-3341-to-pososto-tis-winex-meta-tin-amk",
+      "quote": "εισήχθησαν προς διαπραγμάτευση οι νέες μετοχές στο Χρηματιστήριο Αθηνών",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "aktor-group-voting-rights-2026",
+    "kind": "ownership",
+    "ownerIds": [
+      "aktor-group"
+    ],
+    "text": "Euronext Athens' issuer page for AKTOR S.A. Holding Company, Technical and Energy Projects lists three holders of 5% or more of its voting rights: Winex Investments Limited (33.41%), Castellano Properties Limited (20.31%) and Blue Silk (CY) Ltd (11.33%).",
+    "short": "Three holders have 5% or more of AKTOR Group: Winex Investments (33.41%), Castellano Properties (20.31%) and Blue Silk (11.33%).",
+    "source": {
+      "name": "Euronext Athens: AKTOR S.A. HOLD. CO. TECHNICAL AND ENERGY PROJECTS (issuer information)",
+      "date": "2026",
+      "url": "https://athens.euronext.com/en/market-data/issuers/879",
+      "quote": "Voting Rights (>=5%) WINEX INVESTMENTS LIMITED (33.41%), CASTELLANO PROPERTIES LIMITED (20.31%), BLUE SILK (CY) LTD (11.33%)",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "aktor-group-winex-stake",
+    "kind": "ownership",
+    "ownerIds": [
+      "aktor-group"
+    ],
+    "text": "According to AKTOR's market announcement reported by newmoney.gr on 31 July 2026, WINEX INVESTMENTS LIMITED, a legal entity related to AKTOR Group chairman and CEO Alexandros Exarchou, holds 33.41% of AKTOR's common shares and voting rights after the July 2026 capital increase, down from 41.962% previously.",
+    "short": "Winex Investments, a company related to chairman and CEO Alexandros Exarchou, holds 33.41% of AKTOR Group.",
+    "source": {
+      "name": "newmoney.gr: Aktor: Στο 33,41% το ποσοστό της Winex μετά την ΑΜΚ",
+      "date": "2026-07-31",
+      "url": "https://www.newmoney.gr/roh/palmos-oikonomias/epixeiriseis/aktor-sto-3341-to-pososto-tis-winex-meta-tin-amk",
+      "quote": "το ποσοστό των δικαιωμάτων ψήφου που κατέχει η WINEX στον Όμιλο Aktor υποχώρησε σε 33,41%, από 41,962% που κατείχε προηγουμένως",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -922,6 +1128,26 @@
     "reviewed": false
   },
   {
+    "id": "amazon-com-inc-listing",
+    "kind": "ownership",
+    "ownerIds": [
+      "amazon-com-inc"
+    ],
+    "text": "Amazon.com, Inc.'s common stock is traded on the Nasdaq Global Select Market under the symbol AMZN.",
+    "short": "Amazon.com, Inc. is Nasdaq-listed (AMZN)",
+    "source": {
+      "name": "Amazon.com, Inc. Form 10-K FY2025 (SEC EDGAR)",
+      "date": "2026-02-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+      "quote": "Our common stock is traded on the Nasdaq Global Select Market under the symbol “AMZN.”",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "ambipar-record",
     "kind": "ownership",
     "ownerIds": [
@@ -1098,6 +1324,38 @@
     "reviewed": false
   },
   {
+    "id": "analog-g42-venture",
+    "kind": "ownership",
+    "ownerIds": [
+      "g42"
+    ],
+    "text": "Analog is an edge-computing company launched by G42 in January 2024; G42 announced an investment in it, and Analog's founder said G42 is its biggest investor.",
+    "short": "Analog is a G42 venture; G42 is its biggest investor",
+    "source": {
+      "name": "G42: G42 Launches Analog, a New Venture to Advance AI Capabilities in Edge Computing",
+      "date": "2024-01-18",
+      "url": "https://www.g42.ai/resources/news/g42-launches-analog-new-venture-advance-ai-capabilities-edge-computing",
+      "quote": "G42, the leading UAE-based technology group, today announced its investment in a new edge computing company called Analog",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "The National: Abu Dhabi's G42 invests in edge computing and AI start-up Analog at WEF launch (Alkesh Sharma)",
+        "date": "2024-01-18",
+        "url": "https://www.thenationalnews.com/business/technology/2024/01/18/abu-dhabis-g42-invests-in-edge-computing-and-ai-start-up-analog-at-wef-launch",
+        "quote": "Without disclosing other investors, Mr Kipman said G42 is the biggest investor in the start-up",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "anheuser-busch-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -1150,6 +1408,27 @@
     "reviewed": false
   },
   {
+    "id": "anritsu-listed",
+    "kind": "ownership",
+    "ownerIds": [
+      "anritsu"
+    ],
+    "text": "Anritsu Corporation is listed on the Tokyo Stock Exchange Prime Market (code 6754); at 31 March 2023 its largest shareholders were The Master Trust Bank of Japan (trust account, 15.90%) and Custody Bank of Japan (trust account, 6.90%).",
+    "short": "Anritsu is TSE-Prime listed (code 6754).",
+    "source": {
+      "name": "Anritsu: Stocks, Bonds, and Ratings (stock information as of March 31, 2023; archived copy)",
+      "date": "2023-03-31",
+      "url": "http://web.archive.org/web/20240502192514/https://www.anritsu.com/en-US/about-anritsu/investor-relations/stock-bond-info/stock-information-bond-rating",
+      "note": "Live anritsu.com pages block scripts (HTTP 403); Wayback snapshot of 2024-05-02 opened instead.",
+      "quote": "Stock Listing: TSE Prime Market (TSE code: 6754)",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "anta-sports-products-record",
     "kind": "ownership",
     "ownerIds": [
@@ -1185,6 +1464,39 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "apex-group-genstar-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "genstar-capital",
+      "mubadala"
+    ],
+    "text": "In July 2021, Apex Group Ltd. said that Carlyle and the sovereign investor Mubadala Investment Company had taken minority stakes in the business, investing alongside founder Peter Hughes, majority owner Genstar Capital and TA Associates. Genstar Capital said in June 2021 that Apex was majority-owned by it.",
+    "short": "In 2021 Genstar Capital was Apex Group's majority owner; Mubadala took a minority stake.",
+    "source": {
+      "name": "Apex Group: Apex Group secures additional equity investment from Carlyle and Mubadala",
+      "date": "2021-07-15",
+      "url": "https://www.apexgroup.com/insights/apex-group-secures-additional-equity-investment-from-carlyle-and-mubadala/",
+      "quote": "We are proud to now have the equity backing of three highly reputable institutions, including our majority owner Genstar, and now joined by Mubadala.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Genstar Capital: TA Associates Announces Strategic Growth Investment in Apex Group in Partnership with Genstar Capital and Peter Hughes",
+        "date": "2021-06-17",
+        "url": "https://www.gencap.com/ta-associates-announces-strategic-growth-investment-in-apex-group-in-partnership-with-genstar-capital-and-peter-hughes",
+        "quote": "Apex is majority-owned by Genstar Capital",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -1558,6 +1870,48 @@
     "reviewed": false
   },
   {
+    "id": "atvos-mubadala-capital-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "mubadala-capital"
+    ],
+    "text": "Mubadala Capital, the asset-management subsidiary of Abu Dhabi's Mubadala Investment Company, became the controlling shareholder of Brazilian biofuel producer Atvos through its MC Green Energy investment fund, and lists Atvos as a current Brazil portfolio investment.",
+    "short": "Atvos controlled by Mubadala Capital funds",
+    "source": {
+      "name": "Valor International (O Globo): Mubadala to take over Atvos after agreement with creditors",
+      "date": "2022-12-12",
+      "url": "https://valorinternational.globo.com/business/news/2022/12/12/mubadala-to-take-over-atvos-after-agreement-with-creditors.ghtml",
+      "quote": "Mubadala will become the controlling shareholder through the MC Green Energy fund, and there is another vehicle, Agroenergia FIP Multiestratégia, which will hold a 5% stake.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Mubadala Capital: Special Opportunities – Brazil (portfolio page)",
+        "date": "2026",
+        "url": "https://www.mubadalacapital.ae/brazil",
+        "quote": "We acquired a significant stake in sugarcane-to-ethanol business Atvos, the 2nd largest ethanol player in Brazil, from creditors, combined with a debt restructuring.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "Latin Lawyer: Novonor exits Atvos with Mubadala sale",
+        "date": "2023-11-09",
+        "url": "https://latinlawyer.com/article/novonor-exits-atvos-mubadala-sale",
+        "quote": "Mubadala Capital acquire the remaining 10% stake that Brazilian conglomerate Novonor held in local ethanol producer Atvos",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "auberge-friedkin-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -1606,6 +1960,39 @@
         "checked": {
           "on": "2026-09-28",
           "by": "Schnitzel"
+        }
+      }
+    ]
+  },
+  {
+    "id": "audi-vw-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "audi-ag",
+      "volkswagen-ag"
+    ],
+    "text": "AUDI AG is a fully owned subsidiary of Volkswagen AG.",
+    "short": "AUDI AG is a fully owned subsidiary of Volkswagen AG (Audi's own regulatory statement).",
+    "source": {
+      "name": "AUDI AG Slavery and Human Trafficking Statement (fiscal year 2024)",
+      "date": "2024",
+      "url": "https://media.audi.com/is/content/audi/microsites/audi-com/assets/downloads/reportings/SHTS_AUDI_AG_FY2024_en.pdf",
+      "quote": "AUDI AG is a fully owned subsidiary of Volkswagen AG.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Volkswagen Group: Group (about us page)",
+        "date": "2026",
+        "url": "https://www.volkswagen-group.com/en/group-15765",
+        "quote": "The Group comprises ten brands from five European countries: Volkswagen, Volkswagen Commercial Vehicles, ŠKODA, SEAT, CUPRA, Audi, Lamborghini, Bentley, Porsche and Ducati.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
         }
       }
     ]
@@ -1705,6 +2092,68 @@
       }
     ],
     "reviewed": false
+  },
+  {
+    "id": "auto-eder-family-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "auto-eder"
+    ],
+    "text": "Auto Eder GmbH (Kolbermoor, Bavaria) describes itself as a family-led company (familiengeführtes Traditionsunternehmen); its managing partners (geschäftsführende Gesellschafter) are Peter Eder and Josef Eder.",
+    "short": "Auto Eder is family-led; its managing partners are Peter Eder and Josef Eder.",
+    "source": {
+      "name": "Auto Eder Gruppe: Philosophie und Werte",
+      "date": "2026",
+      "url": "https://auto-eder.de/gruppe/unternehmen/ueber-uns/philosophie-und-werte",
+      "quote": "Peter Eder & Josef Eder - Geschäftsführende Gesellschafter",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "autogrill-avolta-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "avolta-ag"
+    ],
+    "text": "In 2023 Dufry acquired Autogrill: on 1 July 2023 Dufry said it would hold 96.3858% of Autogrill's share capital and could start the squeeze-out, which would leave it holding all of Autogrill's shares, and delist Autogrill. Dufry AG has since been renamed Avolta AG, and Autogrill is one of Avolta's dining brands.",
+    "short": "Autogrill was acquired and delisted by Dufry, now Avolta AG, in 2023.",
+    "source": {
+      "name": "Avolta: Combination between Dufry and Autogrill – Threshold of 95% of Autogrill’s share capital for the purposes of the squeeze-out has been crossed.",
+      "date": "2023-07-01",
+      "url": "https://www.avoltaworld.com/en/press_release/2023-07-01/combination-between-dufry-and-autogrill-threshold-95-autogrills-share",
+      "quote": "which will result in Dufry holding all of Autogrill's shares, and delisting Autogrill",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Club Avolta: Autogrill",
+        "date": "2026",
+        "url": "https://www.clubavolta.com/our-partners/dining/autogrill",
+        "quote": "Autogrill transforms your travel stops into memorable experiences with dozens of unique restaurants and bars in airports, highways, stations and city centers",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "Avolta: Corporate Governance Report 2025",
+        "date": "2026-03-11",
+        "url": "https://www.avoltaworld.com/system/files/2026-03/Corporate%20Governance.pdf",
+        "quote": "Avolta AG (formerly named Dufry AG) and Autogrill S.p.A. (“Autogrill”) combined their businesses in 2023.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ]
   },
   {
     "id": "avery-dennison-corp-record",
@@ -1839,6 +2288,40 @@
         "checked": {
           "on": "2026-09-28",
           "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "azimut-holding-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "azimut-holding-spa"
+    ],
+    "text": "Azimut Holding S.p.A., an asset and wealth management group, is listed on the Milan stock exchange. Borsa Italiana's company profile (shareholder data from Azimut Holding, last updated 21 November 2025) lists Timone Fiduciaria S.r.l. with 21.15%, Helikon Investments Limited with 5.82%, treasury shares of 0.77% and a free float of 72.26%. Azimut says about 2,000 of its financial advisors, managers and staff are shareholders under a shareholders' agreement that controls about 21% of the company.",
+    "short": "Azimut Holding is listed in Milan; Timone Fiduciaria (21.15%) and Helikon Investments (5.82%) are its named shareholders, the rest is free float.",
+    "source": {
+      "name": "Borsa Italiana: Azimut Stocks Quotes: Company Profile",
+      "date": "2025-11-21",
+      "url": "https://www.borsaitaliana.it/borsa/azioni/profilo-societa-dettaglio.html?isin=IT0003261697&lang=en",
+      "quote": "Free float 72.26 % Timone Fiduciaria S.r.l. 21.15 % Treasury shares 0.77 % Helikon Investments Limited (as of 13/11/25) 5.82 %",
+      "note": "The 'Shareholder information' table; the page gives its source as Azimut Holding S.p.A., last update 2025-11-21.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-871 (Claude Code, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Azimut Group: Governance (Shareholders)",
+        "date": "2026-06-30",
+        "url": "https://www.azimut-group.com/governance",
+        "quote": "key shareholders under a shareholders' agreement that controls about 21% of the company",
+        "note": "The page's shareholder chart (drawn by script, footnoted 'Data as of 30 June 2026') shows Timone Fiduciaria, Helikon Investments, J.P. Morgan Asset Mgmt, BNP Paribas Asset Mgmt, treasury shares and free float.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-871 (Claude Code, run by @Schnitzel)"
         }
       }
     ],
@@ -2229,6 +2712,26 @@
     "reviewed": false
   },
   {
+    "id": "barton-gray-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "barton-and-gray-mariners-club"
+    ],
+    "text": "Barton & Gray Mariners Club was founded in 2006 by a crew of marine, software and marketing professionals, helmed by Timothy Barton and Douglas Gray.",
+    "short": "Barton & Gray Mariners Club is founder-led",
+    "source": {
+      "name": "Barton & Gray: B&G About the Club",
+      "date": "2026",
+      "url": "https://www.bartonandgray.com/about",
+      "quote": "Barton & Gray Mariners Club was founded in 2006 by a crew of marine, software and marketing professionals, helmed by Timothy Barton and Douglas Gray.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "basicnet-borsa-italiana-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -2384,6 +2887,26 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "bermuda-tourism-authority-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "bermuda-tourism-authority"
+    ],
+    "text": "The Bermuda Tourism Authority (BTA) is Bermuda's official destination marketing organisation, a quasi-independent tourism enterprise that works with the Bermuda Government.",
+    "short": "BTA is Bermuda's official destination marketing organisation",
+    "source": {
+      "name": "Go To Bermuda: Bermuda Tourism Authority Site",
+      "date": "2026",
+      "url": "https://www.gotobermuda.com/bta",
+      "quote": "The Bermuda Tourism Authority (BTA) is the island's official destination marketing organisation, a dynamic, quasi-independent, and entrepreneurial tourism enterprise",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -2800,6 +3323,41 @@
     "reviewed": false
   },
   {
+    "id": "bocom-mof-controlling-shareholder",
+    "kind": "ownership",
+    "ownerIds": [
+      "bank-of-communications",
+      "government-of-china"
+    ],
+    "text": "As at 31 December 2025 the controlling shareholder of Bank of Communications was China's Ministry of Finance, which held 30,942,772,271 A and H shares, 35.02% of the bank, according to the bank's 2025 annual report. The National Council for Social Security Fund, an entity under the management of the Ministry of Finance, held another 13.75%.",
+    "short": "China's Ministry of Finance is Bank of Communications' controlling shareholder, with 35.02%.",
+    "source": {
+      "name": "Bank of Communications Co., Ltd. — Annual Report 2025 (English, H-share edition), Corporate Governance: Controlling Shareholders",
+      "date": "2026-04-27",
+      "url": "http://www.bankcomm.com/BankCommSite/file/fileDownload.html?fileId=17075f452dbd43eeaf9d02d2f6864ac0",
+      "quote": "As at the end of the Reporting Period, the controlling shareholder of the Bank was Ministry of Finance.",
+      "note": "Same section: 'Ministry of Finance held a total of 30,942,772,271 A shares and H shares of the Bank, representing a shareholding of 35.02% of the Bank'; SSF (the National Council for Social Security Fund) is 'the third largest shareholder of the Bank', 'an independent legal entity under the management of Ministry of Finance', holding 13.75%. Listed on the bank's 'Annual Report' investor page, dated 27 April 2026.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Bank of Communications Co., Ltd. — 2025 Reduced Resolution Plan, Section 165(d) filing with the US Federal Reserve and FDIC",
+        "date": "2025-07-01",
+        "url": "https://www.federalreserve.gov/supervisionreg/resolution-plans/bk-of-communications-3g-20250701.pdf",
+        "quote": "The top three institutional shareholders of BoCom are Ministry of Finance (23.88%)",
+        "note": "Mid-2025 figure, before the Ministry of Finance's 2025 top-up; full sentence also names HSBC (19.03%) and the National Council for Social Security Fund (16.39%).",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "boeing-737-max-court-finding",
     "kind": "record",
     "ownerIds": [
@@ -2906,6 +3464,58 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "bora-bruckbauer-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "bora-lueftungstechnik"
+    ],
+    "text": "BORA is the brand of Bora Lüftungstechnik GmbH of Raubling, Upper Bavaria, founded in 2007 by Willi Bruckbauer, who remains its CEO. The design magazine md calls Bruckbauer the sole owner (Alleininhaber) of Bora.",
+    "short": "BORA is the brand of Bora Lüftungstechnik GmbH, founded, led and solely owned by Willi Bruckbauer.",
+    "source": {
+      "name": "KBBFocus: Bora CEO Willi Bruckbauer on the power of being a niche brand",
+      "date": "2020-12-03",
+      "url": "https://kbbfocus.com/news/236-bora-ceo-willi-bruckbauer-on-the-power-of-being-a-niche-brand-feature",
+      "quote": "Bora Lüftungstechnik GmbH was founded in 2007 in Raubling, Upper Bavaria, by Willi Bruckbauer, 53, who remains the CEO.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "md: Willi Bruckbauer, Gründer des Unternehmens Bora im md-Portrait",
+        "date": "2020-06-15",
+        "url": "https://www.md-mag.com/personen/unternehmer/willi-bruckbauer/",
+        "quote": "Bruckbauer, Alleininhaber von Bora",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "bosch-stiftung-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "robert-bosch-gmbh"
+    ],
+    "text": "The not-for-profit foundation Robert Bosch Stiftung GmbH holds roughly 94 percent of the share capital of Robert Bosch GmbH; about 93 percent of voting rights are held by Robert Bosch Industrietreuhand KG.",
+    "short": "Bosch is 94% owned by the charitable Robert Bosch Stiftung.",
+    "source": {
+      "name": "Bosch Global: Company overview (ownership structure and organization)",
+      "date": "2026",
+      "url": "https://www.bosch.com/company",
+      "quote": "The not-for-profit foundation Robert Bosch Stiftung GmbH holds roughly 94 percent of the share capital of Robert Bosch GmbH",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -3404,6 +4014,39 @@
     "reviewed": false
   },
   {
+    "id": "cadbury-mondelez-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "mondelez-international"
+    ],
+    "text": "Cadbury, principal partner of the Wallabies, is a brand owned by US-listed snacks company Mondelez International.",
+    "short": "Cadbury is owned by Mondelez International",
+    "source": {
+      "name": "Sportcal: 'Cadbury extends Wallabies partnership through 2029'",
+      "date": "2024-07-05",
+      "url": "https://www.sportcal.com/sponsorship/cadbury-extends-wallabies-partnership-through-2029/",
+      "quote": "The brand, owned by USA-based snack company Mondelez International, will additionally collaborate with the Wallabies and Wallaroos",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Rugby Australia: 'Cadbury renews Wallabies major sponsorship until end of 2029' (Wayback Machine capture)",
+        "date": "2024-07-04",
+        "url": "https://web.archive.org/web/20260116185519/https://australia.rugby/news/cadbury-renews-wallabies-major-sponsorship-until-end-of-2029-202474",
+        "quote": "Darren O'Brien, President of Mondelēz International in Australia, New Zealand and Japan and custodians of Cadbury",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "The live page rate-limits scripted access (HTTP 429); this Wayback capture of 16 Jan 2026 was opened."
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "caesars-entertainment-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -3421,6 +4064,38 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "capelli-sport-gma-accessories-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "gma-accessories"
+    ],
+    "text": "Capelli Sport operates under the umbrella of GMA Accessories, Inc., a New York fashion and apparel company led by owner and CEO George Altirs, who founded GMA Accessories and launched Capelli Sport in 2011; the company is described as still privately held.",
+    "short": "Capelli Sport is part of GMA Accessories, the private New York apparel company founded and owned by George Altirs.",
+    "source": {
+      "name": "Capelli Sport+: '+Consulting' (capellisportplus.com)",
+      "date": "2026",
+      "url": "https://capellisportplus.com/consulting/",
+      "quote": "Capelli Sport is unique in that we are an international business consortium under the umbrella of GMA Accessories, Inc., which has over 30 years of expertise in global supply chain management and manufacturing led by owner and CEO, George Altirs.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Sportico: 'An Apparel Brand's Rise From a Single Youth Club to the World Cup'",
+        "date": "2026-06-15",
+        "url": "https://www.sportico.com/leagues/soccer/2026/cape-verde-world-cup-jerseys-capelli-sport-1234909716/",
+        "quote": "He declined to share any financial information about the company, which is still privately held",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -3628,6 +4303,74 @@
     "reviewed": false
   },
   {
+    "id": "cato-networks-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "cato-networks"
+    ],
+    "text": "Cato Networks is an Israeli cybersecurity company co-founded in 2015 by Shlomo Kramer and Gur Shatz. It has raised more than $1 billion; its June 2025 Series G round ($359 million at a $4.8 billion valuation) was led by Vitruvian Partners and ION Crossover Partners, with existing backers Lightspeed Venture Partners, Acrew Capital and Adams Street Partners. Its September 2023 round was led by Lightspeed Venture Partners with Adams Street Partners, SoftBank Vision Fund 2, Sixty Degree Capital and Singtel Innov8.",
+    "short": "Cato Networks is a venture-capital-backed Israeli cybersecurity company; its investors include SoftBank Vision Fund 2 and Singtel Innov8.",
+    "source": {
+      "name": "CTech (Calcalist): Cato Networks raises $359 million at $4.8 billion valuation, keeps IPO on ice",
+      "date": "2025-06-30",
+      "url": "https://www.calcalistech.com/ctechnews/article/pmald8ywg",
+      "quote": "The round was led by new investors, including Vitruvian Partners and ION Crossover Partners, alongside existing backers such as Lightspeed Venture Partners",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Cato Networks: Cato Networks Raises $238M in Equity Investment at Over $3B Valuation",
+        "date": "2023-09-19",
+        "url": "https://www.catonetworks.com/news/cato-networks-raises-238m-in-equity-investment-at-over-3b-valuation/",
+        "quote": "The largest financing round to date was led by LightSpeed Venture Partners with the participation of Adams Street Partners, Softbank Vision Fund 2, Sixty Degree Capital, and Singtel Innov8.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "cea-state-control",
+    "kind": "ownership",
+    "ownerIds": [
+      "china-eastern-airlines",
+      "china-eastern-air-holding",
+      "government-of-china"
+    ],
+    "text": "China Eastern Airlines' controlling shareholder is state-owned China Eastern Air Holding, which held 55.80% of the airline after a May 2026 increase, and whose controlling shareholder with 68.42% is the State-owned Assets Supervision and Administration Commission of the State Council (SASAC); the company's own filing names the State Council SASAC as the airline's actual controller.",
+    "short": "China's State Council SASAC is China Eastern Airlines' actual controller, through China Eastern Air Holding (55.80%; SASAC 68.42%).",
+    "source": {
+      "name": "China Eastern Airlines Co., Ltd. — HKEX overseas regulatory announcement: legal opinion by Commerce & Finance Law Offices on the controlling shareholder's share increase",
+      "date": "2026-05-21",
+      "url": "https://www.ceair.com/global/static/AboutChinaEasternAirlines/intoEasternAirlines/InvestorRelations/announcement/HongKongStockExchange/hkExcReleased2026/202605/P020260522331047038458.pdf",
+      "quote": "中国东航集团为公司的控股股东，国务院国资委为公司的实际控制人",
+      "note": "Translation: 'China Eastern Air Holding is the company's controlling shareholder; the State Council SASAC is the company's actual controller.' The filing states the group held 54.76% before the increase and 55.80% after (as at 21 May 2026), directly and via wholly owned subsidiaries CEA Jin Kong and CEA International Holding (Hong Kong).",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Dagong Global Credit Rating (via Sina Finance): 中国东航 2026年度信用评级报告 (China Eastern 2026 credit rating report)",
+        "date": "2026-06-24",
+        "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-6/2026-06-24/12406790.PDF",
+        "quote": "东航集团为公司控股股东，共计持有公司总股本的54.76%（直接持有40.11%，间接持有14.65%），东航集团控股股东为国务院国有资产监督管理委员会",
+        "note": "Continues: '（以下简称“国务院国资委”），持股68.42%，因此公司实际控制人为国务院国资委' — SASAC holds 68.42% of China Eastern Air Holding, so SASAC is the company's actual controller. Also lists China Eastern Air Holding's minority shareholders (国寿投资 11.21%, 上海久事 10.19%, 中国旅游集团 5.09%, 中国国新 5.09%).",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "celer-lighting-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -3768,6 +4511,26 @@
     "reviewed": false
   },
   {
+    "id": "chimera-tahnoon-empire",
+    "kind": "ownership",
+    "ownerIds": [
+      "chimera-investments"
+    ],
+    "text": "Chimera Investment LLC is part of a business empire overseen by Abu Dhabi's Sheikh Tahnoon bin Zayed Al Nahyan (Bloomberg, September 2023).",
+    "short": "Chimera is part of a business empire overseen by Sheikh Tahnoon bin Zayed",
+    "source": {
+      "name": "Bloomberg Law: Abu Dhabi Royal’s Firm Sets Up $50 Billion Investing Force (2)",
+      "date": "2023-09-15",
+      "url": "https://news.bloomberglaw.com/banking-law/abu-dhabi-royals-firm-sets-up-50-billion-investing-force-1",
+      "quote": "Chimera Investment LLC, part of a business empire overseen by Abu Dhabi's Sheikh Tahnoon bin Zayed Al Nahyan, set up a $50 billion fund",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "china-sports-industry-state-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -3867,6 +4630,26 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "ciroc-diageo-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "diageo-plc"
+    ],
+    "text": "CÎROC is listed among Diageo plc's brands on the drinks group's own website.",
+    "short": "CÎROC is a Diageo brand",
+    "source": {
+      "name": "Diageo: Explore Our 200+ Premium Brands",
+      "date": "2026",
+      "url": "https://www.diageo.com/en/our-brands",
+      "quote": "Ciroc Crafted in 2003 by Master Distiller Jean-Sébastien Robicquet, this modern luxury vodka is distilled five times from fine French grapes.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -4336,6 +5119,26 @@
     "reviewed": false
   },
   {
+    "id": "colnago-chimera-majority",
+    "kind": "ownership",
+    "ownerIds": [
+      "chimera-investments"
+    ],
+    "text": "Chimera Investments LLC, an investment fund based in Abu Dhabi, acquired a majority of the shares in Colnago in May 2020.",
+    "short": "Chimera Investments (Abu Dhabi) bought a majority of Colnago in May 2020",
+    "source": {
+      "name": "Bicycle Retailer and Industry News: Colnago sold to UAE group",
+      "date": "2020-05-04",
+      "url": "https://www.bicycleretailer.com/industry-news/2020/05/04/colnago-sold",
+      "quote": "Chimera Investments LLC, an investment fund based in Abu Dhabi, United Arab Emirates, has acquired a majority of the shares in Colnago, the Italian road bike brand",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "coltan-supply-chain",
     "kind": "record",
     "ownerIds": [
@@ -4700,6 +5503,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "crowe-uk-owner-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "crowe-uk-owner"
+    ],
+    "text": "Crowe UK is Crowe U.K. LLP (company number OC307043), a UK limited liability partnership incorporated on 24 February 2004.",
+    "short": "Crowe UK is Crowe U.K. LLP (OC307043), a UK limited liability partnership.",
+    "source": {
+      "name": "Companies House: CROWE U.K. LLP overview",
+      "date": "2026",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/OC307043",
+      "note": "Register page without a date; opened 2026-09-29.",
+      "quote": "Company type Limited liability partnership Incorporated on 24 February 2004",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -5289,6 +6113,40 @@
     "reviewed": false
   },
   {
+    "id": "dnata-icd-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "investment-corporation-of-dubai",
+      "government-of-dubai"
+    ],
+    "text": "dnata is wholly owned by the Investment Corporation of Dubai (ICD), a Government of Dubai entity.",
+    "short": "dnata is wholly owned by the Investment Corporation of Dubai (Government of Dubai)",
+    "source": {
+      "name": "The Emirates Group: Annual Report 2025-26, dnata consolidated financial statements, note 1 (General information)",
+      "date": "2026-05",
+      "url": "https://c.ekstatic.net/ecl/documents/annual-report/2025-2026.pdf",
+      "quote": "dnata is wholly owned by the Investment Corporation of Dubai",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "Schnitzel"
+      },
+      "note": "Page 107 of the PDF (22 MB, too large for the source checker). The sentence goes on: '(‘the parent company’ / ‘Owner’), a Government of Dubai entity.'"
+    },
+    "additionalSources": [
+      {
+        "name": "AGBI: Dnata News and Company Profile",
+        "date": "2024-12-03",
+        "url": "https://www.agbi.com/companies/dnata",
+        "quote": "Ownership was passed by the government of Dubai to Investment Corporation of Dubai, the emirate's sovereign wealth fund, in 2007.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "dominos-pizza-inc-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -5393,7 +6251,19 @@
         "by": "claude-review-282"
       }
     },
-    "reviewed": false
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Associated Press – Port operator DP World to delist from Dubai stock exchange (Wayback Machine capture)",
+        "date": "2020-02-17",
+        "url": "https://web.archive.org/web/20240815085036/https://apnews.com/general-news-d67ff7dba063157044f7867e8cb6322d",
+        "quote": "Port and Free Zone World, which will fully own DP World, is a wholly-owned subsidiary of Dubai World, a government investment company.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "BigBossRabbit"
+        }
+      }
+    ]
   },
   {
     "id": "dp-world-state-ownership",
@@ -5423,6 +6293,16 @@
         "checked": {
           "on": "2026-09-27",
           "by": "Schnitzel"
+        }
+      },
+      {
+        "name": "Associated Press – Port operator DP World to delist from Dubai stock exchange (Wayback Machine capture)",
+        "date": "2020-02-17",
+        "url": "https://web.archive.org/web/20240815085036/https://apnews.com/general-news-d67ff7dba063157044f7867e8cb6322d",
+        "quote": "Port and Free Zone World, which will fully own DP World, is a wholly-owned subsidiary of Dubai World, a government investment company.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "BigBossRabbit"
         }
       }
     ]
@@ -5538,6 +6418,57 @@
     "reviewed": false
   },
   {
+    "id": "ds-automobiles-stellantis-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "stellantis-nv"
+    ],
+    "text": "DS Automobiles is one of Stellantis N.V.'s brands: Stellantis lists it in its brand portfolio on its own site.",
+    "source": {
+      "name": "Stellantis: Company (archived copy; stellantis.com blocks scripts)",
+      "date": "2026-06-12",
+      "url": "http://web.archive.org/web/20260612113836/https://www.stellantis.com/en/company",
+      "quote": "Its unique portfolio of iconic and innovative brands includes Abarth, Alfa Romeo, Chrysler, Citroën, Dodge, DS Automobiles",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "dubai-holding-ruler-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "dubai-holding",
+      "government-of-dubai"
+    ],
+    "text": "Dubai Holding is a global investment holding company owned by Dubai's ruler, Sheikh Mohammed bin Rashid Al Maktoum.",
+    "source": {
+      "name": "AGBI (Arabian Gulf Business Insight): Dubai Holding becomes Emaar's largest stakeholder",
+      "date": "2026-05-12",
+      "url": "https://www.agbi.com/real-estate/2026/05/dubai-holding-becomes-emaars-largest-stakeholder",
+      "quote": "Dubai Holding is a global investment holding company owned by Dubai ruler Sheikh Mohammed bin Rashid Al Maktoum.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "The Business Times (Bloomberg): Dubai ruler tightens grip on Emaar in US$6.5 billion reshuffle",
+        "date": "2026-05-12",
+        "url": "https://www.businesstimes.com.sg/property/dubai-ruler-tightens-grip-emaar-us6-5-billion-reshuffle",
+        "quote": "Owned by the emirate's ruler, Sheikh Mohammed bin Rashid Al Maktoum, the conglomerate has investments in more than 30 countries",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "dxc-technology-record",
     "ownerIds": [
       "dxc-technology"
@@ -5558,6 +6489,50 @@
     "reviewed": false
   },
   {
+    "id": "e-and-eia-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "emirates-investment-authority"
+    ],
+    "text": "e& (Emirates Telecommunications Group Company PJSC, formerly Etisalat) is 60% owned by the Emirates Investment Authority (EIA), which a filing signed by both calls an integral part of the UAE's Federal Government. e&'s corporate governance report for 2019 calls EIA the Government Shareholder, with the right to appoint seven of the eleven board members.",
+    "short": "e& is 60% owned by the Emirates Investment Authority, part of the UAE's federal government",
+    "source": {
+      "name": "SEC: Schedule 13D/A, Vodafone Group Plc, filed by Atlas 2022 Holdings, Emirates Telecommunications Group Company PJSC and Emirates Investment Authority",
+      "date": "2023-05-11",
+      "url": "https://www.sec.gov/Archives/edgar/data/839923/000120864623000063/c120361.htm",
+      "quote": "Atlas Holdings is a wholly-owned subsidiary of e&, which in turn is 60% owned by EIA",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "Schnitzel"
+      },
+      "note": "The filing also says: 'EIA is an integral part of the Federal Government and was established through Federal Decree Law No. 4 of 2007'. sec.gov blocks the source checker; read with the SEC's requested User-Agent."
+    },
+    "additionalSources": [
+      {
+        "name": "e& (Etisalat Group): Corporate Governance Report 2019",
+        "date": "2019",
+        "url": "https://www.eand.com/content/dam/eand/assets/pdf/governance-report-2019-english.pdf",
+        "quote": "The Government Shareholder (Emirates Investment Authority “EIA” or any other body constituted as government representative in the Company by virtue of a Cabinet Resolution) has the right to appoint 7 Board Members",
+        "note": "Section 15.2 of the same report (shareholders holding 5% and above of Etisalat shares at the end of 2019) lists Emirates Investment Authority (EIA) with 60%, 5,218,052,400 shares.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "Schnitzel"
+        }
+      },
+      {
+        "name": "AGBI: Etisalat / e& News and Company Profile",
+        "date": "2026",
+        "url": "https://www.agbi.com/companies/etisalat-by-e/",
+        "quote": "The ownership structure changed in 1983 when the UAE government held a 60% share. The remainder is publicly traded",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "easygo-record",
     "kind": "ownership",
     "ownerIds": [
@@ -5575,6 +6550,39 @@
       }
     },
     "reviewed": false
+  },
+  {
+    "id": "eataly-investindustrial",
+    "kind": "ownership",
+    "ownerIds": [
+      "eataly-spa",
+      "investindustrial"
+    ],
+    "text": "In September 2022 an investment company of Investindustrial VII L.P. and Eataly S.p.A. signed an agreement under which, at closing, Investindustrial holds 52% of Eataly and the existing shareholders Eatinvest (Farinetti family), the Baffigo/Miroglio family and Clubitaly (Tamburi Investment Partners) own the remaining 48%.",
+    "short": "Investindustrial holds 52% of Eataly under its 2022 investment agreement.",
+    "source": {
+      "name": "Investindustrial: Investindustrial invests in Eataly, a global Italian heritage restaurant and food retail group, to strengthen international expansion",
+      "date": "2022-09-21",
+      "url": "https://www.investindustrial.com/dam/Investindustrial/web/news/Investindustrial-invests-in-Eataly1/Investindustrial%20invests%20in%20Eataly.pdf",
+      "quote": "at closing, Investindustrial will hold 52% of the Company, with the existing shareholders Eatinvest (Farinetti family), the Baffigo / Miroglio family and Clubitaly (Tamburi Investment Partners) owning the remaining 48% of the Company",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Cozen O’Connor: Investindustrial’s Agreement to Purchase Majority Stake of Eataly S.p.A",
+        "date": "2022-10-17",
+        "url": "https://www.cozen.com/news-resources/news/2022/investindustrial-s-agreement-to-purchase-majority-stake-of-eataly-s-p-a-",
+        "quote": "will result in the fund owning 52% of Eataly.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ]
   },
   {
     "id": "eaton-owner-record",
@@ -5805,6 +6813,26 @@
     "reviewed": false
   },
   {
+    "id": "elf-beauty-inc-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "elf-beauty-inc"
+    ],
+    "text": "e.l.f. Cosmetics is a brand of e.l.f. Beauty (NYSE: ELF), a US-listed company headquartered in Oakland, California.",
+    "short": "e.l.f. Cosmetics is a brand of e.l.f. Beauty (NYSE: ELF).",
+    "source": {
+      "name": "e.l.f. Beauty press release: e.l.f. Cosmetics is Back-of-Shirt Sponsor for Women's and Men's Tottenham Hotspur Teams in September 24 Matches",
+      "date": "2025-09-24",
+      "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2025/09-24-2025-201008811",
+      "quote": "e.l.f. Cosmetics, a brand from e.l.f. Beauty (NYSE:ELF)",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "elkem-asa-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -5866,6 +6894,68 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "enel-italy-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "italian-ministry-of-economy-finance"
+    ],
+    "text": "Enel's shareholder-structure page, with data as of 31 December 2025, lists Italy's Ministry of Economy and Finance holding 23.6% of Enel's shares; institutional investors hold 58.6% and retail investors 17.8%.",
+    "short": "Italian Ministry of Economy and Finance holds 23.6% of Enel",
+    "source": {
+      "name": "Enel Group: Shareholders (investor relations)",
+      "date": "2025-12-31",
+      "url": "https://www.enel.com/investors/investing/shareholders",
+      "quote": "Ministry of Economy and Finance 23.60 Institutional Investors 58.60 Retail Investors 17.80",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "eneos-holdings-listed",
+    "kind": "ownership",
+    "ownerIds": [
+      "eneos-holdings"
+    ],
+    "text": "ENEOS Holdings, Inc. is listed on the Tokyo Stock Exchange and the Nagoya Stock Exchange (securities code 5020).",
+    "short": "ENEOS Holdings is listed in Tokyo and Nagoya.",
+    "source": {
+      "name": "ENEOS Holdings: Corporate Data",
+      "date": "2026",
+      "url": "https://www.hd.eneos.co.jp/english/about/corporate_profile.html",
+      "note": "Page without a date; opened 2026-09-30.",
+      "quote": "Listed stock exchanges Tokyo Stock Exchange and Nagoya Stock Exchange",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "eneos-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "eneos-corporation",
+      "eneos-holdings"
+    ],
+    "text": "ENEOS Corporation's Company Overview states that its capital is 30 billion yen, a 100% investment of ENEOS Holdings, Inc., and that it refines and markets petroleum products.",
+    "short": "ENEOS Corporation is 100% owned by ENEOS Holdings, Inc.",
+    "source": {
+      "name": "ENEOS Corporation: Company Overview",
+      "date": "2026",
+      "url": "https://www.eneos.co.jp/english/company/outline.html",
+      "quote": "Capital 30 billion yen(100% investment of ENEOS Holdings, Inc.)",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -6080,6 +7170,25 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "eqt-top-shareholders-2026",
+    "kind": "ownership",
+    "ownerIds": [
+      "eqt-ab"
+    ],
+    "text": "EQT AB's published table of its top 25 largest shareholders (per 30 September 2026) is led by Investor with 183,288,016 shares, 14.0% of share capital and 14.0% of votes; second is Jean Eric Salata with 9.5%.",
+    "source": {
+      "name": "EQT: Shareholder structure (top 25 largest shareholders per 30 Sept 2026; read 30 September 2026)",
+      "date": "2026-09-30",
+      "url": "https://eqtgroup.com/shareholders/shareholder-structure",
+      "quote": "The table sets forth the top 25 largest shareholders per 30 Sept 2026. Source: Monitor, Modular Finance Shareholder Number of shares Share capital % Votes % Investor 183,288,016 14.0%",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -6418,6 +7527,39 @@
         "by": "claude-review-282"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "fab-mubadala-stake",
+    "kind": "ownership",
+    "ownerIds": [
+      "mubadala"
+    ],
+    "text": "Mubadala Investment Company is First Abu Dhabi Bank's largest shareholder, with 37.9% of its shares as of 30 June 2026; FAB's notes describe Mubadala as one of the wholly owned strategic investment companies of the Emirate of Abu Dhabi.",
+    "short": "Mubadala (wholly owned by the Emirate of Abu Dhabi) is FAB's largest shareholder at 37.9%",
+    "source": {
+      "name": "First Abu Dhabi Bank: Share Information Bundle, Ownership Information",
+      "date": "2026-06-30",
+      "url": "https://www.bankfab.com/en-ae/about-fab/investor-relations/shareholder-information/share-information-bundle",
+      "quote": "Mubadala Investment Company (MIC)1 4,184,312,767 37.9%",
+      "note": "Ownership table. The '1' after '(MIC)' is the page's footnote marker; the footnote reads: 'MIC is one of the wholly owned strategic investment companies of the Emirate of Abu Dhabi'.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "BankTrack: First Abu Dhabi Bank (FAB)",
+        "date": "2026-04-09",
+        "url": "https://www.banktrack.org/bank/national_bank_of_abu_dhabi",
+        "quote": "First Abu Dhabi Bank's largest shareholder is the Mubadala Investment Company (37.9%)",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -6925,6 +8067,47 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "ftmo-founders-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "ftmo"
+    ],
+    "text": "FTMO is a Czech company with two owners: its co-founders Otakar Šuffner (co-owner and CEO) and Marek Vašíček (co-owner and CTO). Neither owner is a state or state fund.",
+    "short": "FTMO is co-owned by its Czech founders Šuffner and Vašíček.",
+    "source": {
+      "name": "Forbes (Czech edition), republished by FTMO.com – 'Forbes: The FTMO Cover Story'",
+      "date": "2026-03",
+      "url": "https://ftmo.com/en/blog/forbes-the-ftmo-cover-story",
+      "quote": "FTMO is also one of the 50 largest taxpayers in the Czech Republic, and its two owners are among the most generous young Czech philanthropists",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "The profile names Otakar Šuffner as 'the co-owner and CEO of FTMO' and Marek Vašíček as 'co-owner and CTO' immediately before this passage; they are the two owners referred to."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "ftmo-oanda-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "ftmo"
+    ],
+    "text": "FTMO owns OANDA Global Corporation: it completed the acquisition of OANDA from CVC Asia Fund IV on 1 December 2025, after sign-off from five regulators, and plans to keep the OANDA group as a standalone business.",
+    "short": "FTMO bought OANDA from CVC and closed the deal on 1 December 2025.",
+    "source": {
+      "name": "OANDA press release – 'FTMO Building Global Trading Powerhouse – Completes Acquisition of OANDA from CVC'",
+      "date": "2025-12-02",
+      "url": "https://www.oanda.com/group/press-release/oanda-acquired-by-ftmo",
+      "quote": "FTMO, the global leader in modern prop trading, has completed the acquisition of OANDA Global Corporation",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -7780,6 +8963,26 @@
     "reviewed": false
   },
   {
+    "id": "grenke-ag-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "grenke-ag"
+    ],
+    "text": "grenke is the brand of grenke AG, an SDAX-listed company. Its major shareholder, Grenke Beteiligung GmbH & Co. KG, owned by Anneliese Grenke, company founder Wolfgang Grenke and their three sons, held 40.84 percent of the shares at 31 December 2024; the GRENKE Foundation held 3.03 percent and grenke AG 4.98 percent of its own shares. The other shareholders above 3 percent were ACATIS Investment Kapitalverwaltungsgesellschaft mbH (5.02 percent), GANÉ Investment AG (3.04 percent) and Universal Investment Gesellschaft mbH (5.03 percent). The free float was 59.16 percent.",
+    "short": "grenke AG is SDAX-listed; the founding family's holding company has 40.84%, free float 59.16%.",
+    "source": {
+      "name": "grenke AG: Annual Report 2024 - To our shareholders",
+      "date": "2024",
+      "url": "https://www.grenke.com/en/investor-relations/annual-report-2024/to-our-shareholders",
+      "quote": "As of December 31, 2024, Grenke Beteiligung GmbH & Co. KG held 40.84 percent of the Company’s shares, while the GRENKE Foundation owned 3.03 percent.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "groq-inc-record",
     "ownerIds": [
       "groq-inc"
@@ -8116,6 +9319,49 @@
     "reviewed": false
   },
   {
+    "id": "hansgrohe-masco-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "masco-corporation"
+    ],
+    "text": "hansgrohe is a brand of Hansgrohe SE. Masco Corporation (Livonia, Michigan; NYSE: MAS) owned 68 percent of Hansgrohe SE at 31 December 2025; the Klaus Grohe family of Schiltach holds 32 percent through its holding company Syngroh.",
+    "short": "Hansgrohe SE is 68% owned by US-listed Masco Corporation; 32% is with the Klaus Grohe family.",
+    "source": {
+      "name": "Masco Corporation: Form 10-K for the fiscal year ended December 31, 2025",
+      "date": "2026-02-10",
+      "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299626000005/mas-20251231.htm",
+      "quote": "We owned 68 percent of Hansgrohe SE at both December 31, 2025 and 2024.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Hansgrohe Group: Supervisory and Executive Board",
+        "date": "2026",
+        "url": "https://www.hansgrohe-group.com/en/about-us/group/supervisory-and-executive-board",
+        "quote": "The Klaus Grohe family of Schiltach has 32 percent share of Hansgrohe SE with its administrative and holding GmbH, Syngroh.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        },
+        "note": "The site blocks scripts; read in the Wayback Machine copy of 12 June 2026 (https://web.archive.org/web/20260612140206/https://www.hansgrohe-group.com/en/about-us/group/supervisory-and-executive-board), which also says: 'The majority shareholder is the Masco Corporation, headquartered in Livonia, Michigan. The corporation currently holds a 68 percent share of Hansgrohe SE.'"
+      },
+      {
+        "name": "DutchNews.nl (Business Wire): Masco Corporation Enters Into an Agreement to Acquire Majority Stake in Easy Sanitary Solutions B.V.",
+        "date": "2020-11-10",
+        "url": "https://www.dutchnews.nl/businesswire/masco-corporation-enters-into-an-agreement-to-acquire-majority-stake-in-easy-sanitary-solutions-b-v",
+        "quote": "its majority-owned subsidiary Hansgrohe SE has entered into an agreement to purchase a majority stake in the Dutch company",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "harald-pihl-family-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -8328,6 +9574,27 @@
         "by": "Schnitzel"
       },
       "note": "Same page: '1978 HELM wird in eine private Aktiengesellschaft umgewandelt.' and '1984 Hermann Schnabel übergibt das Unternehmen an seinen Sohn Dieter.'"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "henkel-family-share-pool",
+    "kind": "ownership",
+    "ownerIds": [
+      "henkel"
+    ],
+    "text": "Henkel AG & Co. KGaA's shares are traded on German stock exchanges. Members of the Henkel family share-pooling agreement held 61.85 percent of the ordinary shares as of 19 March 2026; the latest voting-right notifications Henkel lists are BlackRock at 3.03% and Silchester at 3.01%.",
+    "short": "The Henkel family share-pooling agreement holds 61.85% of Henkel's ordinary (voting) shares.",
+    "source": {
+      "name": "Henkel: Shares",
+      "date": "2026",
+      "url": "https://www.henkel.com/investors-and-analysts/shares",
+      "quote": "61.85 percent of our ordinary shares (as of March 19, 2026) are held by members of the Henkel family share-pooling agreement.",
+      "note": "Corporate page, no date shown; opened 2026-09-30.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
     },
     "reviewed": false
   },
@@ -8584,6 +9851,25 @@
     "reviewed": false
   },
   {
+    "id": "howden-employee-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "howden-group-holdings"
+    ],
+    "text": "Howden Group Holdings' largest shareholder group is its employees, 5,300 of whom hold approximately 30% of the group's shares; external minority investors are General Atlantic, La Caisse and Hg, and the Howden Foundation is also a shareholder.",
+    "source": {
+      "name": "Howden Group Holdings: Our shareholders (undated corporate page, read 30 September 2026)",
+      "date": "2026-09",
+      "url": "https://www.howdengroupholdings.com/about-us/our-shareholders",
+      "quote": "The first and largest group comprises our employees. 5,300 of us currently hold approximately 30% of the shares in the group.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "hp-inc-record",
     "kind": "ownership",
     "ownerIds": [
@@ -8601,6 +9887,83 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "hrx-srl-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "hrx-srl"
+    ],
+    "text": "HRX North America (hrxna.com) is a brand of HRX SRL, a company whose about page describes racewear manufactured in its own factories in Turin, Italy, with CEO Ago Alberghino.",
+    "short": "HRX North America (hrxna.com) is a brand of HRX SRL.",
+    "source": {
+      "name": "HRX USA: About us (site footer)",
+      "date": "2026",
+      "url": "https://hrxna.com/pages/about-us",
+      "note": "Page without a date; opened 2026-09-29.",
+      "quote": "hrxna.com is a brand of HRX SRL",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "huayuan-securities-state-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "wuhan-financial-holdings",
+      "wuhan-municipal-government"
+    ],
+    "text": "Huayuan Securities' own website lists Wuhan Financial Holdings (Group) Co., Ltd. as holding 50% of the company and being its actual controller. The group's own site describes it as a wholly state-owned enterprise of Wuhan city and the city's only first-level state financial platform; Chutian Metropolis Daily reported in 2023 that Wuhan state entities together hold 72.5% of Huayuan Securities, with the group as controlling shareholder.",
+    "short": "Wuhan Financial Holdings Group, wholly owned by the Wuhan city government, holds 50% of Huayuan Securities and is its actual controller.",
+    "source": {
+      "name": "华源证券 (Huayuan Securities): 股东介绍 (shareholders page)",
+      "date": "",
+      "url": "https://www.huayuanstock.com/aboutus/aboutus_gudong/index.shtml",
+      "quote": "武汉金融控股（集团）有限公司控股50%，为实际控制人",
+      "note": "Undated corporate shareholder page. Also lists 武汉开发投资有限公司持股50% (the group's wholly-owned vehicle), with other Wuhan state platforms holding the bulk of the rest.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "武汉市商务局 (Wuhan Municipal Bureau of Commerce, from 楚天都市报 / Chutian Metropolis Daily): 华源证券正式揭牌 武汉新增一家券商总部",
+        "date": "2023-10-20",
+        "url": "https://sw.wuhan.gov.cn/xwdt/mtbd/202310/t20231020_2283231.shtml",
+        "quote": "武汉金控集团持股50%，是控股股东和实际控制人",
+        "note": "The same article also states 华源证券实际控制人武汉金融控股集团为武汉市属国有独资企业 (the group is a wholly state-owned enterprise of Wuhan city). The page opened and the quote was verified on 2026-09-30; the checker's plain fetch gets too little text to confirm automatically.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "武汉金融控股（集团）有限公司 (Wuhan Financial Holdings Group): 集团简介 (group profile)",
+        "date": "",
+        "url": "https://www.whfhg.com/list/2.html",
+        "quote": "为武汉市属国有独资企业，是武汉唯一的一级金融国资平台",
+        "note": "Undated corporate profile page.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "腾讯新闻·九五体育 (Tencent News): 三大行业，成为中超球队胸前广告的赞助商",
+        "date": "2026-03-17",
+        "url": "https://view.inews.qq.com/a/20260317A0862Q00",
+        "quote": "华源证券是由武汉金融控股（集团）有限公司实际控制",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -8879,6 +10242,26 @@
     "reviewed": false
   },
   {
+    "id": "ihc-royal-group-control",
+    "kind": "ownership",
+    "ownerIds": [
+      "royal-group"
+    ],
+    "text": "International Holding Company (IHC) is ultimately controlled by the Royal Group, a conglomerate whose president is Sheikh Tahnoon bin Zayed Al Nahyan (International Investor, April 2021).",
+    "short": "IHC is controlled by Sheikh Tahnoon's Royal Group",
+    "source": {
+      "name": "International Investor: Abu Dhabi IHC adds stake in the main constructor in the United Arab Emirates with the latest agreement",
+      "date": "2021-04-13",
+      "url": "https://www.intinvestor.com/news/abu-dhabi-ihc-adds-stake-in-the-main-constructor-i",
+      "quote": "Ultimately, IHC is controlled by the Royal Group, a conglomerate that includes Sheikh Tahnoon Bin Zayed Al Nahyan as president",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "indeed-inc-record",
     "kind": "ownership",
     "ownerIds": [
@@ -8951,6 +10334,38 @@
       }
     },
     "reviewed": false
+  },
+  {
+    "id": "innovasport-acquired-marathon-sports",
+    "kind": "ownership",
+    "ownerIds": [
+      "innovasport"
+    ],
+    "text": "Marathon Sports is owned by Innovasport: the Monterrey-based sportswear retailer announced the purchase of the Ecuadorian Marathon chain in April 2025, price undisclosed. Innovasport is a private family company chaired by Francisco Martín Bringas, operated by his sons Francisco and Juan Carlos Martín, and not listed on the stock exchange.",
+    "short": "Innovasport announced it had bought Marathon Sports (Ecuador).",
+    "source": {
+      "name": "El Financiero: Adquiere Innovasport a ecuatoriana Marathon y rompe fronteras",
+      "date": "2025-04-14",
+      "url": "https://www.elfinanciero.com.mx/monterrey/2025/04/14/adquiere-innovasport-a-ecuatoriana-marathon-y-rompe-fronteras/",
+      "quote": "Innovasport —la tienda de ropa deportiva originaria de Monterrey— anunció la compra de Marathon, un negocio similar con sede en Ecuador y presencia en Sudamérica, por una cifra no revelada.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Vistazo: ¿Quién es Innovasport, la compañía mexicana que compró Marathon Sports?",
+        "date": "2025-05-02",
+        "url": "https://www.vistazo.com/actualidad/nacional/2025-05-02-innovasport-mexicana-compro-empresa-marathon-sports-ecuador-YK9268331",
+        "quote": "Al anunciar la adquisición de Marathon Sports, la cadena ecuatoriana de ropa deportiva fundada en 1981 por Rodrigo Ribadeneira, la compañía mexicana Innovasport rompe las fronteras de su país",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ]
   },
   {
     "id": "intermountain-health-record",
@@ -9080,6 +10495,38 @@
         }
       }
     ]
+  },
+  {
+    "id": "itm-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "independent-timber-merchants-cooperative"
+    ],
+    "text": "ITM's website, published by Independent Timber Merchants Cooperative Ltd, describes ITM as a co-operative of over 90 independently owned stores whose members are shareholders. The New Zealand Companies Register lists Independent Timber Merchants Co-operative Limited's 13,020,315 shares in parcels held by building-supplies companies, the largest 8.20%.",
+    "short": "ITM is a co-operative owned by its member stores.",
+    "source": {
+      "name": "ITM: Join ITM",
+      "date": "2026",
+      "url": "https://www.itm.co.nz/about-us/join-itm/",
+      "quote": "All ITM stores are independently owned and operated but work together for the greater good. From day one, ITM has always been about teamwork and cooperation. ITM members are equal shareholders",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "New Zealand Companies Office: INDEPENDENT TIMBER MERCHANTS CO-OPERATIVE LIMITED (1283902), Shareholdings",
+        "date": "2026-09-18",
+        "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1283902/shareholdings",
+        "quote": "1067052 (8.20%) SOUTHERN LAKES BUILDING LIMITED",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
   },
   {
     "id": "iyi-finans-ownership",
@@ -9411,6 +10858,37 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "jumeirah-dubai-holding-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "dubai-holding"
+    ],
+    "text": "Jumeirah, the luxury hotel group, is a member of Dubai Holding, which trade press describes as the parent company of the Jumeirah luxury hotel brand.",
+    "source": {
+      "name": "Jumeirah: About Jumeirah (undated corporate page, read 30 September 2026)",
+      "date": "2026-09",
+      "url": "https://www.jumeirah.com/en/jumeirah-group/about-jumeirah",
+      "quote": "Jumeirah, a global leader in luxury hospitality and a member of Dubai Holding, operates an exceptional portfolio of 29 properties across 11 countries",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "TOPHOTELNEWS: Dubai Holding Buys Jumeirah Mallorca",
+        "date": "2026-02-12",
+        "url": "https://tophotel.news/dubai-holding-buys-jumeirah-mallorca",
+        "quote": "Dubai Holding, parent company of the Jumeirah luxury hotel brand, has acquired the group's hotel in Mallorca",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -9881,6 +11359,136 @@
     "reviewed": false
   },
   {
+    "id": "kyocera-avx-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "kyocera-corporation"
+    ],
+    "text": "KYOCERA AVX is a wholly owned subsidiary of Kyocera Corporation: KYOCERA AVX's own history records 'AVX becomes wholly-owned subsidiary of Kyocera after merger acquisition' in 2020.",
+    "source": {
+      "name": "KYOCERA AVX: About KYOCERA AVX Components | Explore Our Story",
+      "date": "2026",
+      "url": "https://www.kyocera-avx.com/about",
+      "quote": "AVX becomes wholly-owned subsidiary of Kyocera after merger acquisition",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Page without a date; opened 2026-09-29."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "l-auxiliaire-mutual-insurer",
+    "kind": "ownership",
+    "ownerIds": [
+      "l-auxiliaire"
+    ],
+    "text": "L'Auxiliaire is a mutual insurance company for building and public-works professionals ('mutuelle d'assurance des professionnels du bâtiment et des travaux publics'), with its head office in Lyon. It describes itself as a mutualist firm governed by a board made up only of heads of building and public-works companies, with 15,000 member-clients ('clients-sociétaires').",
+    "short": "L'Auxiliaire is a mutual insurer for building-trade professionals, governed by a board of its members' company heads.",
+    "source": {
+      "name": "L'Auxiliaire: L'Auxiliaire renforce son engagement aux côtés de LDLC ASVEL et affirme son identité lyonnaise (communiqué de presse)",
+      "date": "2026-03-26",
+      "url": "https://www.auxiliaire.fr/static/6e5875f86cb42bb8cec4130e7b8bd07c/CP_26_03_2026_LDLC_ASVEL_Ancrage_Territorial_22fb3f72bf.pdf",
+      "quote": "Acteur mutualiste gouverné par un Conseil d'Administration composé exclusivement de chefs d'entreprises du BTP",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "laoshan-beer-tsingtao-brand",
+    "kind": "ownership",
+    "ownerIds": [
+      "tsingtao-brewery"
+    ],
+    "text": "Laoshan Beer (崂山啤酒) is a brand of Tsingtao Brewery Co., Ltd.; the company describes Laoshan Beer as its 'national second brand' and as one of its own brands, and Tsingtao Brewery's Laoshan Beer is the sleeve-badge sponsor of Qingdao Hainiu's shirt.",
+    "short": "Laoshan Beer is a Tsingtao Brewery brand.",
+    "source": {
+      "name": "Tsingtao Brewery Co., Ltd.: 2025 Annual Report summary (cninfo filing)",
+      "date": "2026-03-27",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-03-27/1225036268.PDF",
+      "quote": "公司坚持“青岛啤酒主品牌+崂山啤酒全国性第二品牌”品牌战略",
+      "note": "Translation: 'The Company adheres to the brand strategy of “Tsingtao Beer main brand + Laoshan Beer national second brand”.' 'The Company' is Tsingtao Brewery Co., Ltd. Quote checked in the PDF with pypdf.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Tsingtao Brewery official website (tsingtao.com.cn): 青岛啤酒品牌价值2803.55亿元，蝉联中国啤酒品牌榜首",
+        "date": "2025-06-19",
+        "url": "https://www.tsingtao.com.cn/MT/news/215c95f2-77f8-4b21-a0c8-9673808e5f95.html",
+        "quote": "青岛啤酒公司旗下的崂山啤酒（品牌价值776.35亿元）",
+        "note": "Translation: 'Tsingtao Brewery Company's own (旗下) Laoshan Beer (brand value RMB 77.635bn)'. From a company news post about the 2025 China 500 Most Valuable Brands list.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "网易 (NetEase, 易瞰青岛): 青岛信仰·青春力量 青岛海牛足球俱乐部2026赛季出征仪式圆满举行",
+        "date": "2026-03-04",
+        "url": "https://c.m.163.com/news/a/KN73SLM105148U2B.html",
+        "quote": "青岛啤酒股份有限公司的崂山啤酒将继续为球队球衣的臂章广告",
+        "note": "Translation: 'Tsingtao Brewery Co., Ltd.'s Laoshan Beer will continue as the sleeve-badge advertisement on the team's shirt.'",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "laoshan-cola-beverage-group-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "qingdao-beverage-group"
+    ],
+    "text": "Laoshan Cola (崂山可乐) is operated by Qingdao Beverage Group Co., Ltd., a Qingdao municipal state-owned enterprise. The group's Laoshan Mineral Water subsidiary produces and markets Laoshan Cola, and the subsidiary's 'Laoshan' brand signed the Qingdao Hainiu shirt sponsorship.",
+    "short": "Laoshan Cola is a brand of state-owned Qingdao Beverage Group.",
+    "source": {
+      "name": "Sohu (九五体育sport95): 三大行业，成为中超球队胸前广告的赞助商 (The three industries sponsoring CSL clubs' shirt fronts)",
+      "date": "2026-03-18",
+      "url": "https://www.sohu.com/a/997759959_120299310",
+      "quote": "崂山可乐由青岛饮料集团有限公司运营，而该集团是青岛市属国有企业",
+      "note": "Translation: 'Laoshan Cola is operated by Qingdao Beverage Group Co., Ltd., and that group is a Qingdao municipal state-owned enterprise.'",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "青岛政务网 (Qingdao Municipal Government portal, source 青岛日报/Qingdao Daily): 青岛饮料集团持续做强品牌影响力 10款产品焕新上市",
+        "date": "2024-10-04",
+        "url": "http://www.qingdao.gov.cn/ywdt/zwyw/202410/t20241004_8356880.shtml",
+        "quote": "青岛饮料集团旗下崂矿公司生产线从2日开始又恢复了往常的忙碌。崂山可乐、崂山白花蛇草水、瓶装水、桶装水等产品有序地从一条条生产线上下线",
+        "note": "Translation: 'Production lines at Qingdao Beverage Group's Laoshan Mineral Water subsidiary resumed on the 2nd. Laoshan Cola, Laoshan Baihua Snake Grass Water, bottled water and other products rolled off the lines' — i.e. the group's subsidiary makes Laoshan Cola.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "青岛日报社/观海新闻 (Qingdao Daily / dailyqd.com): 百年匠心致敬绿茵，崂山可乐携手青岛海牛足球俱乐部共启2026新赛季",
+        "date": "2026-03-05",
+        "url": "https://www.dailyqd.com/guanhai/439032_1.html",
+        "quote": "青岛崂山矿泉水有限公司与俱乐部正式签署赞助协议，旗下“崂山”品牌将成为球队新赛季官方赞助商",
+        "note": "Translation: 'Qingdao Laoshan Mineral Water Co., Ltd. formally signed the sponsorship agreement with the club; its Laoshan brand will become the team's official sponsor for the new season.'",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "lavoropiu-holding-record",
     "kind": "ownership",
     "ownerIds": [
@@ -9918,6 +11526,40 @@
         "by": "Schnitzel"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "ldlc-group-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "ldlc-group"
+    ],
+    "text": "LDLC.com is the website of Groupe LDLC, a French société anonyme (RCS Lyon 403 554 181) whose shares are traded on Euronext Growth. At 31 March 2026 the only shareholders above 5% of the capital or the voting rights were members of the founding de la Clergerie family: Laurent Villemonte de la Clergerie with 17.80% of the capital (21.94% of the voting rights), Olivier with 10.35% (12.05%), Caroline with 9.46% (11.95%) and Suzanne with 0.15% (5.36%). Other shareholders held 61.14% of the capital and the company 1.10% of its own shares.",
+    "short": "LDLC.com belongs to Groupe LDLC, listed on Euronext Growth; the founding de la Clergerie family holds about 38% of the capital and a majority of the votes.",
+    "source": {
+      "name": "Groupe LDLC: Rapport Annuel 2025-2026",
+      "date": "2026-07",
+      "url": "https://www.groupe-ldlc.com/wp-content/uploads/2026/07/GROUPE-LDLC-RA-2025-2026-VDEF.pdf",
+      "quote": "incluant les actionnaires détenant, directement ou indirectement, seul ou de concert, plus de 5 % du capital social ou des droits de vote",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "Schnitzel"
+      },
+      "note": "Management report, section 3.1 (page 105 of the PDF): the table that follows gives the holdings at 31 March 2026. The report says it follows the Euronext Growth market rules."
+    },
+    "additionalSources": [
+      {
+        "name": "LDLC.com: Informations légales",
+        "date": "2026",
+        "url": "https://www.ldlc.com/aide/53-informations-legales/",
+        "quote": "Hébergeur du site : Groupe LDLC",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "Schnitzel"
+        },
+        "note": "The same page gives the company's form, capital and registration: 'société anonyme à Directoire et conseil de surveillance', 'RCS de Lyon : 403 554 181'."
+      }
+    ],
     "reviewed": false
   },
   {
@@ -10252,6 +11894,79 @@
     "reviewed": false
   },
   {
+    "id": "lockton-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "lockton-companies"
+    ],
+    "text": "Lockton describes itself as a family organisation that is not driven by the quarterly pressure of the financial markets, and cites its founder's 'fierce commitment to private ownership'.",
+    "source": {
+      "name": "Lockton: Our Story (page title: About Lockton MENA | Insurance Broker & Advisor)",
+      "date": "2026",
+      "url": "https://global.lockton.com/us/en/our-story",
+      "quote": "Jack Lockton believed that a fierce commitment to private ownership instills every employee with a single-minded focus on delivering results for clients.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Page without a date; opened 2026-09-29."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "loctite-henkel-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "henkel"
+    ],
+    "text": "LOCTITE is a brand of Henkel AG & Co. KGaA: Henkel groups Loctite among the technology cluster brands of its Henkel Adhesive Technologies industrial portfolio.",
+    "short": "LOCTITE is an adhesives brand of Henkel.",
+    "source": {
+      "name": "Henkel: Henkel Adhesive Technologies",
+      "date": "2026",
+      "url": "https://www.henkel.com/our-businesses/adhesive-technologies",
+      "quote": "Our industrial product portfolio is organized into five technology cluster brands - Loctite, Technomelt, Bonderite, Teroson and Aquence.",
+      "note": "Corporate page, no date shown; opened 2026-09-30.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "lola-cars-bechtolsheimer",
+    "kind": "ownership",
+    "ownerIds": [
+      "lola-cars"
+    ],
+    "text": "Lola Cars is owned by UK-native, US-based Till Bechtolsheimer.",
+    "short": "Lola Cars is owned by investor Till Bechtolsheimer.",
+    "source": {
+      "name": "Performance Racing Industry: Lola Cars Under New Ownership",
+      "date": "2022-06-29",
+      "url": "https://www.performanceracing.com/magazine/industry-news/06-29-2022/lola-cars-under-new-ownership",
+      "quote": "Lola Cars is now owned by UK-native and US-based Till Bechtolsheimer.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "The Race: Everything you need to know as Lola splits from Abt in Formula E",
+        "date": "2026-01-27",
+        "url": "https://www.the-race.com/formula-e/lola-to-split-from-abt-formula-e",
+        "quote": "Owner Till Bechtolsheimer has ambitions to launch further Lola projects off the back of the Formula E programme",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "loves-travel-stops-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -10400,6 +12115,26 @@
         "note": "Same page lists institutional investors (IK Partners, MACSF, Bpifrance, Mubadala, Arkéa Capital, Groupe Crédit Agricole, BNPP) and more than 1,200 doctor shareholders."
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "luxury-group-marriott-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "marriott-international"
+    ],
+    "text": "Luxury Group is the luxury brand portfolio of Marriott International, Inc.",
+    "short": "Luxury Group is Marriott International's luxury portfolio",
+    "source": {
+      "name": "Marriott: Discover the Luxury Group by Marriott Bonvoy",
+      "date": "2026",
+      "url": "https://www.marriott.com/luxury/about-us",
+      "quote": "We are the Luxury Group at Marriott International",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -10585,6 +12320,26 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "mahle-foundation-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "mahle-gmbh"
+    ],
+    "text": "In 1964, company founders Hermann and Dr. Ernst Mahle transferred 99.9 percent of their ownership of the company to the MAHLE Foundation and 0.1 percent to MABEG, which holds the voting rights.",
+    "short": "MAHLE has been 99.9% owned by the MAHLE Foundation since 1964.",
+    "source": {
+      "name": "MAHLE Group: MAHLE Foundation",
+      "date": "2026",
+      "url": "https://www.mahle.com/en/sustainability/mahle-foundation",
+      "quote": "transferred 99.9 percent of their ownership of the Company to the MAHLE Foundation",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -10843,6 +12598,47 @@
         "on": "2026-09-27",
         "by": "Schnitzel"
       }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "marriott-international-listing",
+    "kind": "ownership",
+    "ownerIds": [
+      "marriott-international"
+    ],
+    "text": "Marriott International, Inc.'s common stock trades on the Nasdaq Global Select Market under the trading symbol MAR.",
+    "short": "Marriott International is Nasdaq-listed (MAR)",
+    "source": {
+      "name": "Marriott International, Inc. Form 10-K FY2025 (SEC EDGAR)",
+      "date": "2026-02-10",
+      "url": "https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231.htm",
+      "quote": "Our common stock trades on the Nasdaq Global Select Market under the trading symbol MAR.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "masco-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "masco-corporation"
+    ],
+    "text": "Masco Corporation's proxy statement for its 2026 annual meeting lists three beneficial owners of more than five percent of its common stock, as of 31 December 2025: The Vanguard Group (12.8%), BlackRock, Inc. (7.4%) and Harris Associates LP (5.5%).",
+    "short": "Masco's holders above 5% are Vanguard (12.8%), BlackRock (7.4%) and Harris Associates (5.5%).",
+    "source": {
+      "name": "Masco Corporation: Proxy Statement for the 2026 Annual Meeting (DEF 14A)",
+      "date": "2026-04-10",
+      "url": "https://www.sec.gov/Archives/edgar/data/62996/000119312526151241/d44594ddef14a.htm",
+      "quote": "all persons whom we know to be beneficial owners of more than five percent of our common stock",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      },
+      "note": "The table that follows lists BlackRock, Inc. (7.4%), Harris Associates LP (5.5%) and The Vanguard Group (12.8%), as of 31 December 2025."
     },
     "reviewed": false
   },
@@ -11201,6 +12997,38 @@
       "date": "2026-03-31",
       "url": "https://group.mercedes-benz.com/investors/reports-news/voting-rights/voting-rights-announcement-445696.html"
     },
+    "reviewed": false
+  },
+  {
+    "id": "mewa-family-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "mewa-textil-service"
+    ],
+    "text": "MEWA Textil-Service SE & Co. Management OHG (Wiesbaden) names its general partners in its imprint: MEWA Textil-Service SE and the Gabriele Gebauer MEWA Stiftung (a foundation), both in Wiesbaden. Die Deutsche Wirtschaft's register of family businesses names the Gebauer family as the owner.",
+    "short": "MEWA is owned by the Gebauer family.",
+    "source": {
+      "name": "Mewa: Impressum",
+      "date": "2026",
+      "url": "https://www.mewa.de/impressum/",
+      "quote": "Persönlich haftende Gesellschafterin: Gabriele Gebauer MEWA Stiftung, Wiesbaden",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Die Deutsche Wirtschaft: Gebauer, Familie (MEWA Textil-Service AG & Co. Management OHG, Wiesbaden), Inhaber",
+        "date": "2024-01-26",
+        "url": "https://die-deutsche-wirtschaft.de/familienunternehmen/gebauer-familie-mewa-textil-service-ag-co-management-ohg-wiesbaden-inhaber/",
+        "quote": "Eigentümer ist die Unternehmerfamilie Gebauer.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -11574,6 +13402,26 @@
     "reviewed": false
   },
   {
+    "id": "molex-koch-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "koch-inc"
+    ],
+    "text": "Molex is a Koch company: Koch, Inc. presents Molex as one of its companies.",
+    "source": {
+      "name": "Koch: Molex Careers | Jobs in Engineering and Manufacturing",
+      "date": "2026",
+      "url": "https://www.kochinc.com/career-opportunities/molex",
+      "quote": "Molex | A Koch company",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Page without a date; opened 2026-09-29."
+    },
+    "reviewed": false
+  },
+  {
     "id": "molinel-sas-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -11726,6 +13574,25 @@
     "reviewed": false
   },
   {
+    "id": "mouser-tti-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "tti-inc"
+    ],
+    "text": "Mouser Electronics is a subsidiary of TTI, Inc.: Berkshire Hathaway's annual report for 2025 describes TTI's business and refers to 'its Mouser subsidiary'.",
+    "source": {
+      "name": "Berkshire Hathaway Inc.: Form 10-K for the year ended December 31, 2025 (SEC)",
+      "date": "2026-03-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm",
+      "quote": "Its Mouser subsidiary supports a broader base of customers with lower volume purchases through internet-based marketing",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "msc-group-aponte-family-record",
     "kind": "ownership",
     "ownerIds": [
@@ -11743,6 +13610,38 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "mubadala-abu-dhabi-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "mubadala"
+    ],
+    "text": "Mubadala Investment Company is a state-owned enterprise wholly owned by the Government of Abu Dhabi; its own site describes the government of Abu Dhabi as its sole shareholder.",
+    "short": "Wholly owned by the Government of Abu Dhabi",
+    "source": {
+      "name": "Mubadala: Board of Directors (Shareholder Support)",
+      "date": "2026",
+      "url": "https://www.mubadala.com/en/who-we-are/board-of-directors",
+      "quote": "Mubadala benefits from the long-term support of its sole shareholder, the government of Abu Dhabi.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "SEC Schedule 13D filed by Mubadala Investment Company PJSC (Item 2, Recursion Pharmaceuticals)",
+        "date": "2021-04-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/1601830/000138713121004924/mubadala-sc13d_042621.htm",
+        "quote": "which is wholly owned by Mubadala, which is wholly owned by the Government of Abu Dhabi.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -11990,6 +13889,40 @@
     "reviewed": false
   },
   {
+    "id": "neom-pif-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "neom",
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "NEOM is a closed joint-stock company fully owned by the Public Investment Fund (PIF), Saudi Arabia's sovereign wealth fund; Human Rights Watch describes NEOM as a PIF-funded giga-project.",
+    "short": "NEOM is fully owned by Saudi Arabia's sovereign wealth fund, PIF.",
+    "source": {
+      "name": "Saudi Press Agency: NEOM Established as a Closed Joint-Stock Company Owned by Saudi Sovereign Wealth Fund (archived copy)",
+      "date": "2019-01-29",
+      "url": "http://web.archive.org/web/20191108061820/https://www.spa.gov.sa/1879719",
+      "quote": "The newly-established entity is fully owned by the Public Investment Fund, the sovereign wealth fund of Saudi Arabia",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Human Rights Watch, 'Die First, and I'll Pay You Later': Saudi Arabia's 'Giga-Projects' Built on Widespread Labor Abuses",
+        "date": "2024-12-04",
+        "url": "https://www.hrw.org/report/2024/12/04/die-first-and-ill-pay-you-later/saudi-arabias-giga-projects-built-widespread",
+        "quote": "PIF-funded businesses and projects are among those exploiting and abusing migrant workers, including in NEOM, a PIF-funded giga-project",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "nestle-sa-record",
     "kind": "ownership",
     "ownerIds": [
@@ -12177,6 +14110,26 @@
     "reviewed": false
   },
   {
+    "id": "ngk-niterra-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "niterra-co"
+    ],
+    "text": "NGK spark plugs are made by Niterra Co., Ltd., the company founded in 1936 as NGK SPARK PLUG CO., LTD., which has since changed its English name to Niterra. It is listed on both the Tokyo and Nagoya stock exchanges.",
+    "short": "NGK is Niterra Co., Ltd., listed in Tokyo and Nagoya.",
+    "source": {
+      "name": "Niterra Co., Ltd.: A History of Niterra Co., Ltd.",
+      "date": "2026",
+      "url": "https://www.niterragroup.com/english/corporate/history/",
+      "quote": "Listed on both Tokyo and Nagoya stock exchanges",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "ni-ke-spol-sro-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -12310,6 +14263,26 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "nomadix-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "nomadix"
+    ],
+    "text": "Co-founders Zack Helminiak, Chace Petersen and Hunter Robinson launched Nomadix in 2015.",
+    "short": "Nomadix was launched by its three co-founders in 2015",
+    "source": {
+      "name": "Nomadix: Nomadix teams up with Action Sports to lead European distribution efforts",
+      "date": "2021-02-04",
+      "url": "https://www.nomadix.co/blogs/news/nomadix-teams-up-with-action-sports-to-lead-european-distribution-efforts",
+      "quote": "Co-Founders Zack Helminiak, Chace Petersen and Hunter Robinson launched Nomadix in 2015",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -12926,6 +14899,39 @@
     "reviewed": false
   },
   {
+    "id": "paceteq-gmbh-lola-stake",
+    "kind": "ownership",
+    "ownerIds": [
+      "paceteq-gmbh",
+      "lola-cars"
+    ],
+    "text": "Lola Cars became a major stakeholder in PACETEQ, a data technology and software company; Lola announced it on 30 October 2024.",
+    "short": "Lola Cars became a major stakeholder in PACETEQ in 2024.",
+    "source": {
+      "name": "Professional Motorsport World: Lola Cars becomes a major stakeholder in Paceteq",
+      "date": "2024-11-06",
+      "url": "https://www.pmw-magazine.com/news/data-acquisition/lola-cars-becomes-a-major-stakeholder-in-paceteq.html",
+      "quote": "Lola Cars has become a major stakeholder in Paceteq, one of automotive industry’s foremost data technology and software companies.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Lola Cars: Lola Cars becomes major stakeholder in PACETEQ, bolstering data technology and software capabilities through strategic investment",
+        "date": "2024-10-30",
+        "url": "http://lola-cars.co.uk/news/lola-cars-becomes-major-stakeholder-in-paceteq-bolstering-data-technology-and-software-capabilities-through-strategic-investment",
+        "quote": "Lola Cars (Lola) has become a major stakeholder in PACETEQ, one of the automotive industry’s foremost data technology and software companies.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "pamesa-grupo-empresarial-record",
     "kind": "ownership",
     "ownerIds": [
@@ -13318,6 +15324,79 @@
     ]
   },
   {
+    "id": "pinterest-inc-major-holders-2026",
+    "kind": "ownership",
+    "ownerIds": [
+      "pinterest-inc"
+    ],
+    "text": "Pinterest, Inc.'s 2026 proxy statement, which says its board follows New York Stock Exchange listing rules, lists four holders of 5% or more of a class of its shares: co-founder and non-executive chair Benjamin Silbermann (46.32% of Class B shares, 35.33% of total voting power), Paul Sciarra (40.90% of Class B shares, 31.19% of total voting power), BlackRock, Inc. (12.01% of Class A shares, 2.85% of total voting power) and The Vanguard Group (12.12% of Class A shares, 2.88% of total voting power).",
+    "short": "Pinterest's biggest holders are co-founder Benjamin Silbermann and Paul Sciarra, who together have about two thirds of the votes, and the asset managers BlackRock and Vanguard.",
+    "source": {
+      "name": "Pinterest, Inc.: 2026 Proxy Statement (DEF 14A), Security ownership of certain beneficial owners and management",
+      "date": "2026-04-08",
+      "url": "https://www.sec.gov/Archives/edgar/data/1506293/000150629326000058/pins-20260407.htm",
+      "quote": "Other 5% Stockholders Paul Sciarra (9) — — 32,589,537 40.90 31.19 BlackRock, Inc. (10) 59,584,440 12.01 — — 2.85 The Vanguard Group (11) 60,147,395 12.12 — — 2.88",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "Schnitzel"
+      },
+      "note": "Filed with the SEC on 2026-04-08. The same table, under 'Named Executive Officers and Directors', has the row 'Benjamin Silbermann (1) 8,414 * 36,911,603 46.32 35.33'; the columns are Class A shares, % of class, Class B shares, % of class and % of total voting power. sec.gov answers the source check with 403; opened with a declared User-Agent."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "pmc-srmg-investment",
+    "kind": "ownership",
+    "ownerIds": [
+      "penske-media-corporation",
+      "srmg"
+    ],
+    "text": "In February 2018 Penske Media Corporation took a $200 million investment stake from a Saudi government-backed company, which TheWrap identifies as the Saudi Research and Marketing Group (SRMG). PMC called it 'minority funding'.",
+    "source": {
+      "name": "TheWrap, via Yahoo: 'Why Does Jay Penske's Media Company Still Have a $200 Million Saudi Stake 9 Months After Khashoggi's Murder?'",
+      "date": "2019-07-15",
+      "url": "https://www.yahoo.com/entertainment/why-does-jay-penske-media-011203202.html",
+      "quote": "the $200 million investment stake his company, Penske Media Corporation, took from a Saudi government-backed company in February 2018.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "TheWrap: Penske Media Silent on $200 Million Saudi Investment After Jamal Khashoggi’s Disappearance",
+        "date": "2018-10-15",
+        "url": "https://www.thewrap.com/penske-media-saudis-jamal-khashoggis-journalist/",
+        "quote": "After a decade of growth without raising any outside capital, this minority funding will further amplify our investments in existing PMC properties",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "pmi-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "philip-morris-international"
+    ],
+    "text": "Philip Morris International Inc. is listed on the New York Stock Exchange (NYSE: PM). Its 2026 proxy statement lists four beneficial owners of more than 5% of its common stock as of 13 March 2026: The Vanguard Group (8.57%), Capital World Investors (8.17%), Capital International Investors (6.61%) and BlackRock, Inc. (6.22%).",
+    "short": "PMI is NYSE-listed; its holders above 5% are Vanguard, Capital World, Capital International and BlackRock.",
+    "source": {
+      "name": "Philip Morris International Inc., 2026 Proxy Statement (DEF 14A, SEC EDGAR)",
+      "date": "2026-03-26",
+      "url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm",
+      "quote": "The following table sets forth information regarding persons or groups known to the Company to be beneficial owners of more than 5% of the outstanding common stock as of March 13, 2026",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "pnc-bank-pnc-financial-services-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -13489,6 +15568,26 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "profile-group-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "profile-group"
+    ],
+    "text": "The New Zealand Companies Register lists Profile Group Limited's 1,000 shares in four parcels. Mitchell Stephen Plaw is a holder of each one: alone (1 share), and jointly with co-holders, among them Kay-marie Plaw (334, 333 and 332 shares).",
+    "short": "Profile Group's shares are held by Mitchell Plaw and co-holders.",
+    "source": {
+      "name": "New Zealand Companies Office: PROFILE GROUP LIMITED (341647), Shareholdings",
+      "date": "2026-08-11",
+      "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/341647/shareholdings",
+      "quote": "1 (0.10%) Mitchell Stephen PLAW",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -13798,6 +15897,41 @@
     "reviewed": false
   },
   {
+    "id": "qingdao-beverage-group-sasac",
+    "kind": "ownership",
+    "ownerIds": [
+      "qingdao-beverage-group",
+      "qingdao-municipal-government"
+    ],
+    "text": "Qingdao Beverage Group Co., Ltd. is wholly owned by the Qingdao Municipal State-owned Assets Supervision and Administration Commission (Qingdao SASAC); the same applies to Tsingtao Brewery Group, under which the beverage group was being merged in 2025.",
+    "short": "Qingdao Beverage Group is wholly owned by the Qingdao municipal SASAC.",
+    "source": {
+      "name": "山东商报·速豹新闻网 (Shandong Business Journal, Subao News): 青岛饮料集团将被划归青岛啤酒集团",
+      "date": "2025-03-27",
+      "url": "https://sd.subaoxw.com/zj/2025/0327/203840.html",
+      "quote": "青岛饮料集团与青岛啤酒集团均为青岛市国资委全资控股企业",
+      "note": "Translation: 'Both Qingdao Beverage Group and Tsingtao Brewery Group are enterprises wholly owned and controlled by the Qingdao Municipal SASAC.' The article also reports Qingdao SASAC confirmed the two groups' strategic merger (gratis transfer of the beverage group into the brewery group).",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Sohu (九五体育sport95): 三大行业，成为中超球队胸前广告的赞助商 (The three industries sponsoring CSL clubs' shirt fronts)",
+        "date": "2026-03-18",
+        "url": "https://www.sohu.com/a/997759959_120299310",
+        "quote": "崂山可乐由青岛饮料集团有限公司运营，而该集团是青岛市属国有企业",
+        "note": "Translation: 'Laoshan Cola is operated by Qingdao Beverage Group Co., Ltd., and that group is a Qingdao municipal state-owned enterprise.' Written in March 2026, after the 2025 merger announcement.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "qsi-braga-stake",
     "kind": "ownership",
     "ownerIds": [
@@ -13999,6 +16133,81 @@
     "reviewed": false
   },
   {
+    "id": "quest-global-gic-stake",
+    "kind": "ownership",
+    "ownerIds": [
+      "quest-global-owner",
+      "gic"
+    ],
+    "text": "In February 2016 Bain Capital, GIC and Advent International invested about US$350 million in total to buy minority stakes in Quest Global. In August 2021 Business Standard reported that Bain Capital, Advent and GIC remained invested, and in August 2023 DealStreetAsia wrote that Quest Global's investors include GIC, Singapore's sovereign wealth fund.",
+    "short": "GIC, Singapore's state fund, bought a minority stake in Quest Global in 2016; its size is not published.",
+    "source": {
+      "name": "Quest Global: Global Investors Acquire Minority Stake in Quest Global",
+      "date": "2016-02-18",
+      "url": "https://www.questglobal.com/news/press-releases/leading-global-investors-become-minority-stake-holders-in-quest-global/",
+      "quote": "Leading global investors Bain Capital, GIC and Advent International have invested a total of approximately US $350 million to purchase minority stakes in Quest Global",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Business Standard: ChrysCapital, True North Managers and others invest $150 mn in QuEST Global",
+        "date": "2021-08-23",
+        "url": "https://www.business-standard.com/article/companies/chryscapital-true-north-managers-and-others-invest-150-mn-in-quest-global-121082300386_1.html",
+        "quote": "The existing investors - Bain Capital, Advent, and GIC, continue to remain invested.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        }
+      },
+      {
+        "name": "Nikkei Asia (DealStreetAsia): Carlyle buys stake in Singapore's Quest Global as Bain, Advent exit",
+        "date": "2023-08-09",
+        "url": "https://asia.nikkei.com/spotlight/dealstreetasia/carlyle-buys-stake-in-singapore-s-quest-global-as-bain-advent-exit",
+        "quote": "Quest Global's investors include Singapore's sovereign wealth fund GIC and True North.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "quest-global-owner-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "quest-global-owner"
+    ],
+    "text": "Quest Global is an engineering services firm headquartered in Singapore. In August 2023 Carlyle agreed to acquire a 'significant minority stake' in the company, through funds managed and advised by entities affiliated with Carlyle Asia Partners; the investors Bain Capital and Advent International were to exit.",
+    "short": "Quest Global is a Singapore engineering firm; Carlyle agreed to take a significant minority stake in 2023.",
+    "source": {
+      "name": "Quest Global: Carlyle and Quest Global Enter into a Strategic Partnership",
+      "date": "2023-08-08",
+      "url": "https://www.questglobal.com/news/press-releases/carlyle-and-quest-global-enter-into-a-strategic-partnership",
+      "quote": "Carlyle will be acquiring a significant minority stake in the company. Equity for this transaction will come from funds managed and advised by entities affiliated with Carlyle Asia Partners.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Nikkei Asia (DealStreetAsia): Carlyle buys stake in Singapore's Quest Global as Bain, Advent exit",
+        "date": "2023-08-09",
+        "url": "https://asia.nikkei.com/spotlight/dealstreetasia/carlyle-buys-stake-in-singapore-s-quest-global-as-bain-advent-exit",
+        "quote": "Private equity giant Carlyle is acquiring a minority stake in Quest Global, while existing investors Bain Capital and Advent International will exit the Singapore-based engineering company.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "quikrete-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -14107,6 +16316,58 @@
         "by": "Schnitzel"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "randstad-shareholder-base",
+    "kind": "ownership",
+    "ownerIds": [
+      "randstad-nv"
+    ],
+    "text": "Randstad N.V. is listed on Euronext Amsterdam; the largest holder disclosed under Dutch major-holdings rules is Stichting Stad en Lant, a foundation, with a 33% nominal stake and 33% of voting rights.",
+    "short": "Randstad is listed in Amsterdam; largest disclosed holder is a Dutch foundation (33%).",
+    "source": {
+      "name": "Randstad: Shareholder base (investor relations)",
+      "date": "2025-12-31",
+      "url": "https://www.randstad.com/investor-relations/randstad-share/shareholder-base",
+      "quote": "Stichting Stad en Lant 33% 33%",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "rapyd-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "rapyd"
+    ],
+    "text": "Rapyd is a fintech-as-a-service company led by co-founder and CEO Arik Shtilman. In August 2021 it announced a $300 million Series E round led by Target Global, joined by new investors including funds managed by Fidelity Management and Research Company, Altimeter Capital, Whale Rock Capital, BlackRock Funds and Dragoneer, with participation from existing investors General Catalyst, Latitude, Durable Capital Partners, Tal Capital, Avid Ventures and Spark Capital.",
+    "short": "Rapyd is a payments fintech led by co-founder and CEO Arik Shtilman and backed by venture investors.",
+    "source": {
+      "name": "Rapyd: Rapyd Raises $300 Million Series E to Further Enhance Its Fintech as a Service Offering",
+      "date": "2021-08-03",
+      "url": "https://www.rapyd.net/company/news/press-releases/rapyd-raises-300-million-in-series-e-funding",
+      "quote": "announced a $300 million Series E funding round led by Target Global. Joining the round are several new investors including funds managed by Fidelity Management and Research Company",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Sport5: \"אם נצטרך לפתוח עוד את הכיס, נעשה זאת\"",
+        "date": "2025-07-17",
+        "url": "https://www.sport5.co.il/articles.aspx?FolderID=274&docID=512842",
+        "quote": "אריק שטילמן, מנכ״ל ומייסד ראפיד, מספר על שיתוף הפעולה עם מכבי תל אביב",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -14259,6 +16520,40 @@
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "reflo-owner-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "reflo-owner"
+    ],
+    "text": "The Reflo website (reflo.com) is operated by Reflo Sports Ltd. Companies House lists two individuals as the persons with significant control of Reflo Sports Ltd (company number 13131817).",
+    "short": "reflo.com is operated by Reflo Sports Ltd.",
+    "source": {
+      "name": "Reflo: Terms of Use",
+      "date": "2026",
+      "url": "https://reflo.com/pages/terms-of-use",
+      "note": "Page without a date; opened 2026-09-29.",
+      "quote": "This website is operated by Reflo Sports Ltd.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Companies House: REFLO SPORTS LTD persons with significant control",
+        "date": "2026",
+        "url": "https://find-and-update.company-information.service.gov.uk/company/13131817/persons-with-significant-control",
+        "note": "Register page without a date; opened 2026-09-29.",
+        "quote": "Persons with significant control: 2 active persons with significant control / 0 active statements",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -14476,6 +16771,26 @@
     "reviewed": false
   },
   {
+    "id": "riello-elettronica-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "riello-elettronica"
+    ],
+    "text": "Riello UPS is the UPS brand of the Riello Elettronica Group; Riello Elettronica S.p.A. is the group's holding company, founded in 1986 by Pierantonio Riello, who has led the company ever since.",
+    "short": "Riello UPS belongs to the founder-led Riello Elettronica group.",
+    "source": {
+      "name": "Riello Elettronica Group: About Us",
+      "date": "2026",
+      "url": "https://www.riello-elettronica.com/about-us",
+      "quote": "Founded in 1986 by Cav. Lav. Pierantonio Riello, who has successfully led the company ever since",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "riyadh-air-pif-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -14539,6 +16854,38 @@
       },
       "note": "Same beneficial-ownership table: 'Baiju Bhatt (5)(10) 3,579 * 61,076,048 55.7 32.0'. sec.gov needs a declared User-Agent for scripted access."
     },
+    "reviewed": false
+  },
+  {
+    "id": "rodd-and-gunn-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "rodd-and-gunn-new-zealand"
+    ],
+    "text": "The New Zealand Companies Register lists Winona R&G, LLC, of Chicago, with 126,651,805 of Rodd & Gunn New Zealand Limited's 221,017,780 shares (57.30%). BusinessDesk reported in April 2018 that Winona Capital, a Chicago-based private equity firm, had lifted its holding to about 55 percent of the company.",
+    "short": "Winona R&G, LLC holds 57.3% of Rodd & Gunn New Zealand.",
+    "source": {
+      "name": "New Zealand Companies Office: RODD & GUNN NEW ZEALAND LIMITED (1820324), Shareholdings",
+      "date": "2026-03-30",
+      "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1820324/shareholdings",
+      "quote": "126651805 (57.30%) Winona R&G, LLC",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "ShareChat (BusinessDesk): Winona Capital ups Rodd & Gunn investment as retailer targets North America",
+        "date": "2018-04-04",
+        "url": "http://www.sharechat.co.nz/article/5777875f/winona-capital-ups-rodd-gunn-investment-as-retailer-targets-north-america.html",
+        "quote": "Winona bought an additional 16.4 million shares in Rodd & Gunn last July, lifting its holding to about 102.2 million shares, or 55 percent of the company.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -14897,6 +17244,39 @@
       }
     ],
     "reviewed": false
+  },
+  {
+    "id": "safilo-hal-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "safilo-group"
+    ],
+    "text": "Carrera is one of Safilo Group's home brands. Multibrands Italy B.V., a subsidiary of HAL Holding N.V., is the reference shareholder of Safilo Group S.p.A., with 49.8% of the share capital since January 2019.",
+    "short": "Carrera is a Safilo brand; HAL Holding's Multibrands Italy holds 49.8% of Safilo.",
+    "source": {
+      "name": "Safilo Group: Shareholding",
+      "date": "2025-12-31",
+      "url": "https://www.safilogroup.com/en/investors/share-information-coverage/Shareholding",
+      "quote": "Multibrands Italy B.V.'s stake in the share capital of Safilo increased to 49.8%",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Safilo Group: Press Release - Publication of the new Articles of Association",
+        "date": "2026-08-06",
+        "url": "https://assets.ctfassets.net/cmstik7jzbvm/2I7rPXFOxpoOXF6jCLiwIm/373022e8fab74d350212b0e3cef5cb3c/20260806_Publication_of_the_new_Articles_of_Association.pdf",
+        "note": "Linked from the press releases page of safilogroup.com.",
+        "quote": "Safilo Group’s portfolio encompasses home brands - Carrera, Polaroid, Smith, SPY+, Serengeti, Blenders, Privé Revaux and Seventh Street.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-881 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ]
   },
   {
     "id": "saic-group-state-ownership",
@@ -16050,6 +18430,46 @@
     "reviewed": false
   },
   {
+    "id": "skycity-auckland-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "skycity-entertainment-group"
+    ],
+    "text": "SkyCity Auckland is one of the integrated entertainment complexes operated by SkyCity Entertainment Group, which also operates in Hamilton, Queenstown and Adelaide.",
+    "short": "SkyCity Auckland is operated by SkyCity Entertainment Group.",
+    "source": {
+      "name": "SkyCity Entertainment Group: About Us",
+      "date": "2026",
+      "url": "https://www.skycityentertainmentgroup.com/about-us/",
+      "quote": "SkyCity operates integrated entertainment complexes in New Zealand (Auckland, Hamilton and Queenstown) and South Australia (Adelaide)",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "skycity-entertainment-group-holders",
+    "kind": "ownership",
+    "ownerIds": [
+      "skycity-entertainment-group"
+    ],
+    "text": "SkyCity Entertainment Group's shares are quoted on the NZX Main Board and the ASX. Its 2026 annual report lists three substantial product holders as at 30 June 2026: Allan Gray Group (12.55%), Accident Compensation Corporation (11.84%) and AustralianSuper Pty Ltd (8.32%).",
+    "short": "SkyCity is listed; its substantial holders are Allan Gray, ACC and AustralianSuper.",
+    "source": {
+      "name": "SkyCity Entertainment Group: Annual Report 2026 (Substantial product holders)",
+      "date": "2026-08-20",
+      "url": "https://www.skycityentertainmentgroup.com/media/wombx0ml/skycity-annual-report-2026.pdf",
+      "quote": "Allan Gray Group 23 September 2025 138,488,118 12.55% AustralianSuper Pty Ltd 19 June 2026 91,721,751 8.32% Accident Compensation Corporation 28 August 2025 123,087,684 11.84%",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "smoothie-king-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -16337,6 +18757,38 @@
     "reviewed": false
   },
   {
+    "id": "specialized-merida-minority",
+    "kind": "ownership",
+    "ownerIds": [
+      "specialized-bicycle-components"
+    ],
+    "text": "Specialized Bicycle Components was wholly owned by its founder Mike Sinyard until June 2001, when the Taiwanese bicycle maker Merida took a minority stake; Sinyard kept control as the majority shareholder. Merida Industry Co. owned 35% of Specialized in March 2025.",
+    "short": "Specialized is controlled by its founder Mike Sinyard; Taiwan's Merida owns 35%.",
+    "source": {
+      "name": "Bicycle Retailer and Industry News: Merida writes down $105 million impairment related to Specialized investment",
+      "date": "2025-03-14",
+      "url": "https://www.bicycleretailer.com/international/2025/03/14/merida-writes-down-105-million-impairment-related-specialized-investment",
+      "quote": "Taiwanese manufacturer Merida Industry Co., which owns 35% of Specialized Bicycle Company",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "BikeBiz: Merida takes stake in Specialized",
+        "date": "2001-06-19",
+        "url": "https://bikebiz.com/merida-takes-stake-in-specialized/",
+        "quote": "He retains full control over the company as the majority shareholder and president/CEO.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "spectrum-charter-communications-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -16389,6 +18841,40 @@
       }
     },
     "reviewed": false
+  },
+  {
+    "id": "srmg-state-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "srmg",
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "Saudi Research and Media Group (SRMG) is a Tadawul-listed Saudi media group whose controlling ownership runs through state-linked financial institutions to the Public Investment Fund (PIF): press reports describe it as majority-owned by the Saudi government via two al-Ahli funds whose main investor is PIF.",
+    "short": "Media researchers and press place the Saudi state behind SRMG's controlling ownership, via al-Ahli/SNB Capital funds tied to PIF.",
+    "source": {
+      "name": "State Media Monitor (Media and Journalism Research Center): Saudi Research and Media Group (SRMG)",
+      "date": "2026-06-16",
+      "url": "https://statemediamonitor.com/2026/06/saudi-research-and-media-group-srmg",
+      "quote": "It is a listed company, but its controlling ownership runs through state-linked financial institutions to the Public Investment Fund",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "TheWrap, via Yahoo: 'Why Does Jay Penske's Media Company Still Have a $200 Million Saudi Stake 9 Months After Khashoggi's Murder?'",
+        "date": "2019-07-15",
+        "url": "https://www.yahoo.com/entertainment/why-does-jay-penske-media-011203202.html",
+        "quote": "it is majority-owned by the Saudi government via two funds titled al-Ahli. The main investor in al-Ahli, according to its website, is the Saudi Public Investment fund.",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ]
   },
   {
     "id": "staffmatch-vargos-ownership",
@@ -16917,6 +19403,45 @@
     "reviewed": false
   },
   {
+    "id": "syensqo-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "syensqo-sa"
+    ],
+    "text": "Solvac SA held 30.81% of Syensqo SA's share capital and voting rights when it crossed the 30% threshold on December 11, 2023, according to the transparency declaration Syensqo cites on its major-shareholders page.",
+    "source": {
+      "name": "Syensqo: Share information - Major shareholders (archived copy; syensqo.com blocks scripts)",
+      "date": "2026-01-05",
+      "url": "http://web.archive.org/web/20260105075504/https://www.syensqo.com/en/investors/share-information/major-shareholders",
+      "quote": "Solvac SA crossed the threshold of 30% upwards on December 11, 2023, holding 30.81% of Syensqo's share capital and therefore 30.81% of voting rights.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "synopsys-major-holders",
+    "kind": "ownership",
+    "ownerIds": [
+      "synopsys-inc"
+    ],
+    "text": "Synopsys, Inc. is a Delaware corporation listed on the Nasdaq Global Market. Its 2026 proxy statement names two owners of more than 5% of its common stock: entities associated with The Vanguard Group, Inc. (7.1%) and entities associated with BlackRock, Inc. (6.2%).",
+    "short": "Synopsys is Nasdaq-listed; Vanguard (7.1%) and BlackRock (6.2%) are its only disclosed >5% holders.",
+    "source": {
+      "name": "Synopsys, Inc.: 2026 Proxy Statement (DEF 14A), 'Security Ownership of Certain Beneficial Owners and Management' (SEC EDGAR)",
+      "date": "2026-02-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324126000007/snps-20260219.htm",
+      "quote": "Entities associated with The Vanguard Group, Inc. 100 Vanguard Blvd. Malvern, PA 19355 13,551,037 7.1",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "t-rowe-price-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -16933,6 +19458,28 @@
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
       }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "takasago-ltd-anritsu",
+    "kind": "ownership",
+    "ownerIds": [
+      "takasago-ltd",
+      "anritsu"
+    ],
+    "text": "TAKASAGO, LTD. has been a member of the Anritsu Group since January 2022.",
+    "short": "TAKASAGO, LTD. is part of the Anritsu Group.",
+    "source": {
+      "name": "TAKASAGO, LTD.: Company Profile",
+      "date": "2026",
+      "url": "https://www.takasago-ss.co.jp/en/aboutus/company-profile",
+      "quote": "In January 2022, TAKASAGO, LTD. became a member of the Anritsu Group",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Page without a date; opened 2026-09-30."
     },
     "reviewed": false
   },
@@ -17012,6 +19559,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "tdk-major-holders",
+    "kind": "ownership",
+    "ownerIds": [
+      "tdk-corporation"
+    ],
+    "text": "TDK Corporation's shares are traded on the Tokyo Stock Exchange. Its principal shareholders as of 31 March 2026 were The Master Trust Bank of Japan (trust account) with 27.01% and Custody Bank of Japan (trust account) with 11.73%; the Government of Norway held 1.29%.",
+    "short": "TDK is listed in Tokyo; its largest shareholders are trust accounts of Japanese trust banks.",
+    "source": {
+      "name": "TDK: Our Stock Information & Corporate Bonds (principal shareholders as of March 31, 2026; archived copy)",
+      "date": "2026-03-31",
+      "url": "https://web.archive.org/web/20260726123711/https://www.tdk.com/en/ir/stock_and_corporate_bonds/stock/index.html",
+      "quote": "The Master Trust Bank of Japan, Ltd.(Trust account) 512,652 27.01",
+      "note": "Wayback capture of 2026-07-26 (the live tdk.com page answers our requests with 403); shareholder table is dated 31 March 2026 on the page.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -17123,6 +19691,48 @@
         "on": "2026-09-28",
         "by": "Schnitzel"
       }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "telefonica-significant-shareholders-2025",
+    "kind": "ownership",
+    "ownerIds": [
+      "telefonica"
+    ],
+    "text": "At 31 December 2025 the Public Investment Fund of Saudi Arabia held 9.97% of Telefónica's voting rights, indirectly through Green Bridge Investment Company SCS, which is controlled by Saudi Telecom Company (stc), itself controlled by PIF; the same report lists SEPI (Spanish state holding company) at 10.00% and says no person or entity exercises control over Telefónica.",
+    "short": "PIF holds 9.97% of Telefónica indirectly via Green Bridge / stc; SEPI 10%; no controlling shareholder.",
+    "source": {
+      "name": "Telefónica: Annual Report on Corporate Governance 2025 (PDF), section 4.2.2 Significant Shareholders",
+      "date": "2026-02",
+      "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2026/02/Annual-Report-Corporate-Gobernance-2025.pdf",
+      "quote": "The indirect stake is hold through Green Bridge Investment Company SCS (a company controlled by Saudi Telecom Company which in turn is controlled by Public Investment Fund).",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "PDF pp. 12 and 75 (printed)/A.2 table: 'Sociedad Estatal de Participaciones Industriales (SEPI) 10.00' and 'Public Investment Fund 0.00 9.97 0.00 0.00 9.97'; section 4.2.2 states there is no individual or legal entity that exercises or may exercise control over Telefónica."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "telefonica-stc-board-seat",
+    "kind": "ownership",
+    "ownerIds": [
+      "telefonica"
+    ],
+    "text": "Olayan M. Alwetaid, the CEO of stc Group, was appointed to Telefónica's board as a proprietary director on 26 February 2025, on the proposal of significant shareholder Green Bridge Investment Company SCS / Stc Group.",
+    "short": "stc's CEO sits on Telefónica's board as a proprietary director at stc's proposal.",
+    "source": {
+      "name": "Telefónica: Annual Report on Corporate Governance 2025 (PDF), board appointments section and 'positions of Directors with significant shareholders' table",
+      "date": "2026-02",
+      "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2026/02/Annual-Report-Corporate-Gobernance-2025.pdf",
+      "quote": "the appointment by co-optation, on February 26, 2025, of Mr. Olayan M. Alwetaid as Proprietary Director, upon proposal of the significant shareholder Green Bridge Investment Company SCS / Stc Group",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "The same report's related-party table describes Mr. Alwetaid as 'CEO of Saudi Telecom Company (STC)' and his board biography says 'Currently, he is the CEO of the stc Group since 2021'."
     },
     "reviewed": false
   },
@@ -17261,6 +19871,40 @@
     ]
   },
   {
+    "id": "tim-poste-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "tim-spa",
+      "poste-italiane",
+      "italian-ministry-of-economy-finance"
+    ],
+    "text": "Poste Italiane S.p.A. directly holds 66.627% of TIM's ordinary shares. Poste Italiane is in turn about 65% held by Italy's Ministry of the Economy and Finance (29.26%) and Cassa Depositi e Prestiti (35%), a company in turn controlled by the Ministry of Economy and Finance.",
+    "short": "TIM is majority-held (66.6%) by the state-controlled Poste Italiane.",
+    "source": {
+      "name": "TIM Group: Details of the significant shareholdings",
+      "date": "2026-09-24",
+      "url": "https://www.gruppotim.it/en/investors/shares/significant_shareholdings/details-significant-shareholdings.html",
+      "quote": "Poste Italiane S.p.A. Direct 1,422,960,312 66.627%",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Poste Italiane: Company Profile (English)",
+        "date": "2026",
+        "url": "https://www.media.poste.it/16c7df9b-8cd2-4ba2-b120-f519946f7a93/file/company-profile-eng",
+        "quote": "Poste Italiane has a free float of approximately 35% while the remaining 65% of shares are held by the Ministry of the Economy and Finance (29.26%) and Cassa Depositi e Prestiti (35%)",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
     "id": "tm-grupo-inmobiliario-record",
     "kind": "ownership",
     "ownerIds": [
@@ -17276,6 +19920,25 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "totalenergies-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "totalenergies-se"
+    ],
+    "text": "TotalEnergies SE's shares are quoted in Paris, Brussels, London and New York. Euronext determines a 95% free-float factor for it in the CAC 40, and its 2025 Shareholders' Guide puts 76.5% of shares with institutional shareholders, 15.3% with individuals and 8.2% with employees.",
+    "source": {
+      "name": "TotalEnergies: Shareholders' Guide 2025, 'The TotalEnergies share' (shareholding structure as at December 31, 2024)",
+      "date": "2025",
+      "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies-shareholders-guide-2025_2025_en.pdf",
+      "quote": "Free float factor determined by Euronext (CAC 40): 95%",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -17435,6 +20098,95 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "tsakos-energy-navigation-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "tsakos-energy-navigation"
+    ],
+    "text": "TEN Ltd is Tsakos Energy Navigation Limited, a Bermuda company quoted on the New York Stock Exchange. Its 2026 proxy statement lists, as of 30 March 2026, the holders it knows to own 5% or more of its common shares: Tsakos Holdings Foundation (3,223,003 shares, 10.7%), a Liechtenstein foundation that is the sole owner of First Tsakos Investments (2,485,002 shares, 8.2%) and Redmont Trading (738,001 shares, 2.4%), and four companies controlled by chief executive Nikolas Tsakos, alone or with his father Panayotis Tsakos: Sea Consolidation (5.1%), Methoni Shipping (4.8%), Tsakos Energy Management (3.6%) and Intermed Champion (3.0%). It says Nikolas Tsakos beneficially owns 5,023,802 shares and Panayotis Tsakos 2,317,202.",
+    "short": "TEN Ltd is NYSE-listed Tsakos Energy Navigation; its proxy statement lists the Tsakos Holdings Foundation and companies of the Tsakos family as its holders of 5% or more.",
+    "source": {
+      "name": "Tsakos Energy Navigation Limited: 2026 Annual General Meeting, Notice and Proxy Statement (Security Ownership of Certain Beneficial Owners and Management)",
+      "date": "2026-04-17",
+      "url": "https://www.tenn.gr/wp-content/uploads/2026/04/AGM-NOTICE-AND-PROXY-STATEMENT-2026.pdf",
+      "quote": "Sea Consolidation, Intermed, Methoni, TEM, Panayotis Tsakos and Nikolas Tsakos beneficially owned 1,550,000, 893,500, 1,448,702, 1,075,000, 2,317,202 and 5,023,802 common shares, respectively",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Crystal Palace FC: Crystal Palace Women announce TEN Ltd as new shirt sleeve sponsor",
+        "date": "2026-09-16",
+        "url": "https://www.cpfc.co.uk/news/partner-news/crystal-palace-women-announce-ten-ltd-as-new-shirt-sleeve-sponsor",
+        "quote": "TST Foundation and its affiliated NYSE-listed energy transport company TEN Ltd will continue their partnership with the Club",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "The club's own announcement calls TEN Ltd NYSE-listed and affiliated with the TST Foundation."
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "tsingtao-brewery-group-sasac",
+    "kind": "ownership",
+    "ownerIds": [
+      "tsingtao-brewery",
+      "tsingtao-brewery-group",
+      "qingdao-municipal-government"
+    ],
+    "text": "Tsingtao Brewery Co., Ltd.'s controlling shareholder is Tsingtao Brewery Group Co., Ltd. (青啤集团), which holds 32.51% of its shares, and the Qingdao Municipal State-owned Assets Supervision and Administration Commission is the group's sole shareholder and actual controller; the company states its ultimate controller is the Qingdao Municipal SASAC.",
+    "short": "Tsingtao Brewery is controlled by the Qingdao municipal SASAC through Tsingtao Brewery Group (32.51%).",
+    "source": {
+      "name": "Tsingtao Brewery Co., Ltd.: 2025 Annual Report (cninfo filing, SSE: 600600)",
+      "date": "2026-03-27",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-03-27/1225036286.PDF",
+      "quote": "青岛市国资委为青啤集团的唯一股东和实际控制人。",
+      "note": "Translation: 'The Qingdao Municipal SASAC is the sole shareholder and actual controller of Tsingtao Brewery Group.' The report defines 青啤集团 as 青岛啤酒集团有限公司 (Tsingtao Brewery Group Co., Ltd.), names that group in its controlling-shareholder section, and its top-shareholder table gives the group 443,467,655 shares (32.51%, state-owned legal person). Quote checked in the full PDF with pypdf.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Tsingtao Brewery Co., Ltd.: 2025 Semi-annual Report (cninfo filing, SSE: 600600)",
+        "date": "2025-08-27",
+        "url": "http://static.cninfo.com.cn/finalpage/2025-08-27/1224581043.PDF",
+        "quote": "本公司最终控制方系青岛市人民政府国有资产监督管理委员会，主要经营地在青岛。",
+        "note": "Translation: 'The Company's ultimate controller is the Qingdao Municipal People's Government State-owned Assets Supervision and Administration Commission, based in Qingdao.' Same note lists the parent company Tsingtao Brewery Group Co., Ltd. with a 32.51% holding and 32.51% of voting rights. Quote checked in the PDF with pypdf.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "tti-berkshire-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "tti-inc",
+      "berkshire-hathaway"
+    ],
+    "text": "TTI, Inc. is a Berkshire Hathaway company: Berkshire Hathaway's annual report for 2025 counts TTI, a distributor of electronics components, in its service group.",
+    "source": {
+      "name": "Berkshire Hathaway Inc.: Form 10-K for the year ended December 31, 2025 (SEC)",
+      "date": "2026-03-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm",
+      "quote": "Our service group includes NetJets and FlightSafety (aviation services), which offer shared ownership programs for general aviation aircraft and high technology training products and services to operators of aircraft, and TTI, a distributor of electronics components.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "Schnitzel"
       }
     },
     "reviewed": false
@@ -17903,6 +20655,38 @@
     ]
   },
   {
+    "id": "unipolsai-merger-2025",
+    "kind": "ownership",
+    "ownerIds": [
+      "unipol-assicurazioni"
+    ],
+    "text": "Effective 31 December 2024, UnipolSai Assicurazioni S.p.A. was merged by incorporation into Unipol Gruppo S.p.A., which at the same time changed its legal denomination to Unipol Assicurazioni S.p.A. Unipol Assicurazioni's shares are listed on the Milan stock exchange; its main shareholders include companies of the Italian cooperative movement.",
+    "short": "UnipolSai merged into Unipol Assicurazioni S.p.A. (Milan-listed) in December 2024.",
+    "source": {
+      "name": "Morningstar DBRS: Morningstar DBRS Upgrades Issuer Rating of Unipol Assicurazioni S.p.A. (formerly Unipol Gruppo S.p.A.)",
+      "date": "2025-01-15",
+      "url": "https://dbrs.morningstar.com/research/445861/morningstar-dbrs-upgrades-issuer-rating-of-unipol-assicurazioni-spa-formerly-unipol-gruppo-spa-to-a-high-and-removes-it-from-under-review-with-positive-implications-trend-reverts-to-stable",
+      "quote": "Effective 31 December 2024, Unipol completed the merger by incorporation of the insurance operating entity UnipolSai with the former holding company Unipol Gruppo S.p.A.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Gruppo Unipol: Corporate Profile",
+        "date": "2025-12-31",
+        "url": "https://www.unipol.com/en/our-identity/corporate-profile",
+        "quote": "The ordinary shares of the parent company, Unipol Assicurazioni S.p.A., have been listed on the Italian Stock Exchange (Borsa Italiana) since 1990",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
     "id": "uniqlo-cbp-xpcc-detention-2021",
     "kind": "record",
     "ownerIds": [
@@ -18144,6 +20928,26 @@
     "reviewed": false
   },
   {
+    "id": "var-group-sesa-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "sesa-spa"
+    ],
+    "text": "Var Group is part of the Sesa Group; SeSa S.p.A. is listed on the Euronext STAR market in Milan.",
+    "short": "Var Group is part of SeSa S.p.A., listed on Euronext STAR Milan.",
+    "source": {
+      "name": "Var Group: We are",
+      "date": "2026-04-30",
+      "url": "https://www.vargroup.com/We-are",
+      "quote": "Var Group is part of the Sesa Group, Italy's leading provider of technological innovation and IT and digital solutions",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "vbet-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -18241,6 +21045,40 @@
         "by": "Schnitzel"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "virgin-media-o2-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "virgin-media-o2"
+    ],
+    "text": "O2 is the consumer mobile brand of Virgin Media O2 (VMED O2 UK Limited), which describes itself as the corporate brand of the 50:50 joint venture between Liberty Global and Telefónica S.A.",
+    "short": "O2 = Virgin Media O2, a 50:50 Liberty Global / Telefónica joint venture.",
+    "source": {
+      "name": "Virgin Media O2: About us",
+      "date": "2026-09-30",
+      "url": "https://news.virginmediao2.co.uk/about-us",
+      "quote": "We are the corporate brand of the 50:50 joint venture between Liberty Global and Telefónica SA, and are one of the UK’s largest businesses.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      },
+      "note": "Undated corporate page; date is the day it was opened. The footer gives the registered entity: VMED O2 UK Limited, registered in England and Wales, no. 12580944."
+    },
+    "additionalSources": [
+      {
+        "name": "Rugby Football Union: England Rugby and O2 announce renewed five-year partnership",
+        "date": "2025-11-20",
+        "url": "https://www.englandrugby.com/follow/news-and-media/england-rugby-and-o2-announce-renewed-five-year-partnership",
+        "quote": "Gareth Griffiths, Director, Partnerships and Sponsorships at Virgin Media O2, said",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        },
+        "note": "The O2 sponsorship of England Rugby is signed and spoken for by Virgin Media O2 staff, tying the O2 brand to VMED O2 UK Limited."
+      }
+    ],
     "reviewed": false
   },
   {
@@ -18927,6 +21765,48 @@
     "reviewed": false
   },
   {
+    "id": "xrg-adnoc-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "adnoc"
+    ],
+    "text": "XRG, an international energy and chemicals investment company headquartered in Abu Dhabi, is wholly owned by ADNOC, which launched it on 27 November 2024.",
+    "short": "XRG is wholly owned by ADNOC",
+    "source": {
+      "name": "ADNOC: ADNOC Launches XRG: An $80+ Billion Lower-Carbon Energy and Chemicals Investment Powerhouse",
+      "date": "2024-11-27",
+      "url": "https://www.adnoc.ae/en/news-and-media/press-releases/2024/adnoc-launches-xrg",
+      "quote": "ADNOC today announced the launch of XRG, a groundbreaking international lower-carbon energy and chemicals investment company, with an enterprise value of over $80 billion",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "bp: bp and XRG close deal to launch new natural gas platform – Arcius Energy",
+        "date": "2024-12-16",
+        "url": "https://www.bp.com/press-and-publications/press-releases/bp-and-xrg-close-deal-to-launch-new-natural-gas-platform-arcius-energy",
+        "quote": "XRG is a transformative international energy investment company, focused on lower-carbon energy and chemicals, and headquartered in Abu Dhabi. Wholly owned by ADNOC",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "Occidental: Occidental and ADNOC’s XRG Agree to Evaluate Joint Venture to Develop South Texas Direct Air Capture Hub",
+        "date": "2025-05-16",
+        "url": "https://www.oxy.com/news/news-releases/occidental-and-adnocs-xrg-agree-to-evaluate-joint-venture-to-develop-south-texas-direct-air-capture-hub",
+        "quote": "Wholly owned by ADNOC, XRG has an enterprise value of over $80 billion",
+        "checked": {
+          "on": "2026-09-29",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "xtb-sa-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -18957,6 +21837,45 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "yahoo-apollo-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "apollo-global-management"
+    ],
+    "text": "Yahoo operates as a standalone company owned by funds managed by affiliates of Apollo Global Management, which completed its acquisition of Yahoo (formerly Verizon Media) in September 2021; Verizon retained a 10% stake.",
+    "source": {
+      "name": "Apollo Global Management: Apollo Funds Complete Acquisition of Yahoo",
+      "date": "2021-09-01",
+      "url": "https://www.apollo.com/insights-news/pressreleases/2021/09/apollo-funds-complete-acquisition-of-yahoo-161530593",
+      "quote": "funds managed by its affiliates (the “Apollo Funds”) have completed the acquisition of Yahoo - formerly Verizon Media",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "yamaha-motor-co-listed",
+    "kind": "ownership",
+    "ownerIds": [
+      "yamaha-motor-co"
+    ],
+    "text": "Yamaha Motor Co., Ltd. is listed on the Tokyo Stock Exchange Prime Market (code 7272), and its shareholder-by-type table shows national and local governments holding 0.0% of its shares.",
+    "short": "Yamaha Motor is TSE-Prime listed; no government shareholding (0.0%).",
+    "source": {
+      "name": "Yamaha Motor Co., Ltd.: Share Information - Investor Relations (shareholder data as of June 30, 2026)",
+      "date": "2026-06-30",
+      "url": "https://global.yamaha-motor.com/ir/stock/stock-info",
+      "quote": "National and local governments 0 0 0.0",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -19094,6 +22013,38 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "zhik-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "zhik-pty-ltd"
+    ],
+    "text": "Zhik is a Sydney-based sailing-apparel company. Its 2023 equity crowdfunding raise was backed by its existing investors, including long-time backer Nightingale Partners, according to Inside Small Business; Marine Business News describes Nightingale Partners as a Sydney-based private equity group that led the existing shareholders' commitment.",
+    "short": "Zhik is a Sydney company whose shareholders include Nightingale Partners.",
+    "source": {
+      "name": "Inside Small Business: Sailing apparel Zhik launches first crowdfunding campaign",
+      "date": "2023-03-16",
+      "url": "https://insidesmallbusiness.com.au/finance/funding/sailing-apparel-zhik-launches-first-crowdfunding-campaign",
+      "quote": "the Sydney-based company has partnered with crowdfunding platform Equitise and is backed by Zhik’s existing investors",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Marine Business News: Zhik sails strong into 2023 with $4 million Equity Crowdfunding raise backed by Nightingale Partners",
+        "date": "2023-02-15",
+        "url": "https://www.marinebusinessnews.com.au/2023/02/zhik-sails-strong-into-2023-with-4-million-equity-crowdfunding-raise-backed-by-nightingale-partners/",
+        "quote": "Existing shareholders, led by Nightingale Partners a Sydney-based Private Equity group, have committed to investing $800,000 in this round",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {

@@ -2978,7 +2978,13 @@
     "source": {
       "name": "Brooklyn Sports & Entertainment (bkse.com)",
       "date": "2025-07-01",
-      "url": "https://bkse.com/news/brooklyn-nets-name-all-in-won-as-official-jersey-patch-partner"
+      "url": "https://bkse.com/news/brooklyn-nets-name-all-in-won-as-official-jersey-patch-partner",
+      "quote": "The Brooklyn Nets and All In Won, a New York-based premier medical billing company, have formed a new multiyear partnership",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "BigBossRabbit"
+      },
+      "note": "Announced 1 July 2025, ahead of the 2025-26 season; the release does not restate the 2026-27 season."
     },
     "note": "Jersey patch."
   },
@@ -2994,7 +3000,13 @@
     "source": {
       "name": "The New York Times",
       "date": "2007-01-18",
-      "url": "https://www.nytimes.com/2007/01/18/sports/basketball/18arena.html"
+      "url": "https://www.nytimes.com/2007/01/18/sports/basketball/18arena.html",
+      "quote": "Setting a record price for the naming rights to an American indoor sports arena, the British bank Barclays has agreed to pay nearly $400 million over 20 years",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "BigBossRabbit"
+      },
+      "note": "January 2007 announcement of the deal for the arena then being built; the record’s start date is still open."
     },
     "note": "Arena naming rights: Barclays Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2007-01-18."
   },
@@ -3464,7 +3476,13 @@
     "source": {
       "name": "Chicago Bulls (nba.com)",
       "date": "2022-09-20",
-      "url": "https://www.nba.com/bulls/news/chicago-bulls-name-motorola-mobility-as-official-jersey-patch-partner"
+      "url": "https://www.nba.com/bulls/news/chicago-bulls-name-motorola-mobility-as-official-jersey-patch-partner",
+      "quote": "The Chicago Bulls announced a multiyear relationship with Chicago-based tech-giant Motorola Mobility, a Lenovo company, making it the Official Jersey Patch Partner of the Chicago Bulls.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "BigBossRabbit"
+      },
+      "note": "Announced 20 September 2022 for the 2022-23 preseason; the release does not restate the 2026-27 season."
     },
     "note": "Jersey patch."
   },
@@ -3480,7 +3498,13 @@
     "source": {
       "name": "United Center (official)",
       "date": "2013-12-11",
-      "url": "https://www.unitedcenter.com/united-center-naming-rights-agreement/"
+      "url": "https://www.unitedcenter.com/united-center-naming-rights-agreement/",
+      "quote": "announced a new sponsorship agreement that will ensure the naming rights of the United Center for the next 20 years",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "BigBossRabbit"
+      },
+      "note": "Announced 11 December 2013 for 20 years; the release does not give the year the new term starts."
     },
     "note": "Arena naming rights: United Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2013-12-11."
   },
@@ -3831,6 +3855,50 @@
     }
   },
   {
+    "id": "crystal-palace-w-temporal",
+    "clubId": "crystal-palace-w",
+    "orgName": null,
+    "sponsorId": "temporal",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Crystal Palace FC: Temporal expands Crystal Palace partnership to become front-of-shirt partner of Palace Women",
+      "date": "2026-09-09",
+      "url": "https://www.cpfc.co.uk/news/announcement/temporal-expands-crystal-palace-partnership-to-become-front-of-shirt-partner-of-palace-women",
+      "quote": "Crystal Palace Football Club are delighted to announce that Temporal will expand its partnership with the Club to become the new front-of-shirt partner of Crystal Palace Women.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "Schnitzel"
+      },
+      "note": "Temporal expands its men's front-of-shirt deal to Palace Women; no value reported."
+    },
+    "note": "Front-of-shirt partner of Crystal Palace Women, announced on 9 Sept 2026 for the 2026/27 season; no deal value reported."
+  },
+  {
+    "id": "crystal-palace-w-ten-ltd",
+    "clubId": "crystal-palace-w",
+    "orgName": null,
+    "sponsorId": "ten-ltd",
+    "placement": "sleeve",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Crystal Palace FC: Crystal Palace Women announce TEN Ltd as new shirt sleeve sponsor",
+      "date": "2026-09-16",
+      "url": "https://www.cpfc.co.uk/news/partner-news/crystal-palace-women-announce-ten-ltd-as-new-shirt-sleeve-sponsor",
+      "quote": "TST Foundation and its affiliated NYSE-listed energy transport company TEN Ltd will continue their partnership with the Club, with TEN becoming the team’s official shirt sleeve sponsor.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "Schnitzel"
+      },
+      "note": "The same announcement says the deal 'follows TEN’s successful spell as Crystal Palace Women’s front-of-shirt sponsor' and puts the logo 'on the sleeve of the home, away and third kits'; no value reported."
+    },
+    "note": "Sleeve sponsorship of Crystal Palace Women from 2026/27, after a spell as the women's front-of-shirt sponsor; the company calls it its third consecutive season sponsoring Crystal Palace. No deal value reported."
+  },
+  {
     "id": "csl-cctv-sports-media",
     "clubId": null,
     "orgName": "Chinese Football Super League",
@@ -3981,6 +4049,27 @@
       "url": "https://www.fiaformulae.com/en/teams/cupra-kiro",
       "note": "CUPRA is embedded in the team name 'CUPRA KIRO'; the page does not label the tier. Placement front is the site's mapping of team title/name."
     }
+  },
+  {
+    "id": "curacao-adidas",
+    "clubId": "curacao",
+    "orgName": null,
+    "sponsorId": "adidas",
+    "placement": "partner",
+    "from": "2025-11",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Footy Headlines: CONFIRMED: Adidas Levels Up Curaçao for 2026 World Cup Last Minute",
+      "date": "2026-03-20",
+      "url": "https://www.footyheadlines.com/2025/12/new-will-adidas-create-bespoke-curacao-kits-for-2026-world-cup.html",
+      "quote": "Adidas has replaced Kelme as the kit maker for Curaçao just one week before the island nation secured their historic qualification for the 2026 World Cup",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "note": "adidas replaced Kelme as FFK kit maker in November 2025 (the deal was announced with Dutch retailer Voetbalshop rather than as a direct adidas HQ contract, and FFK/adidas social posts said it ran 4.5 years from 10 November 2025; neither detail is in a citable text article). Value not disclosed."
   },
   {
     "id": "dakar-bfgoodrich",
@@ -4445,7 +4534,13 @@
     "source": {
       "name": "PR Newswire (Little Caesars Pizza / Olympia Entertainment)",
       "date": "2016-04-28",
-      "url": "https://www.prnewswire.com/news-releases/little-caesars-arena-announced-as-name-of-detroits-new-multi-use-arena-centerpiece-of-12-billion-district-detroit-development-300259460.html"
+      "url": "https://www.prnewswire.com/news-releases/little-caesars-arena-announced-as-name-of-detroits-new-multi-use-arena-centerpiece-of-12-billion-district-detroit-development-300259460.html",
+      "quote": "Olympia Entertainment and Little Caesars today announced a naming rights partnership establishing Little Caesars Arena as the name of Detroit’s new, 20,000+ seat downtown arena.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "BigBossRabbit"
+      },
+      "note": "Announced 28 April 2016; the release puts the term at 20 years from 2017, when the arena opened."
     },
     "note": "Arena naming rights: Little Caesars Arena. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2016-04-28."
   },
@@ -4461,7 +4556,13 @@
     "source": {
       "name": "StockX Newsroom",
       "date": "2024-09-25",
-      "url": "https://stockx.com/about/detroit-pistons-and-stockx-announce-jersey-partnership"
+      "url": "https://stockx.com/about/detroit-pistons-and-stockx-announce-jersey-partnership",
+      "quote": "StockX will have its logo prominently featured on the front left chest of official Detroit Pistons team jerseys beginning with the start of the 2024-25 NBA season.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "BigBossRabbit"
+      },
+      "note": "Announced 25 September 2024 for the 2024-25 season; the release does not restate the 2026-27 season."
     },
     "note": "Jersey patch."
   },
@@ -5172,6 +5273,27 @@
     }
   },
   {
+    "id": "dubai-basketball-audi-al-nabooda",
+    "clubId": "dubai-basketball",
+    "orgName": null,
+    "sponsorId": "audi-al-nabooda",
+    "placement": "shorts",
+    "from": "2025-26",
+    "to": "2027-28",
+    "value": null,
+    "source": {
+      "name": "Dubai Basketball: Audi, Al Nabooda Automobiles Powers Dubai Basketball's Season with Strategic Partnership",
+      "date": "2025-09-01",
+      "url": "https://www.dubaibasketball.com/media-article/audi-al-nabooda-automobiles-powers-dubai-basketballs-season-with-strategic-partnership",
+      "quote": "Audi, Al Nabooda Automobiles proudly announces its strategic partnership with Dubai Basketball as the teams' Official Automotive Partner",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "note": "Three-season Official Automotive Partner deal from 2025-26; the Audi rings are on the shorts of the 2026/27 kit (https://cdn.shopify.com/s/files/1/0765/6806/8250/files/DSC06843.jpg)."
+  },
+  {
     "id": "dubai-basketball-det",
     "clubId": "dubai-basketball",
     "orgName": null,
@@ -5183,9 +5305,14 @@
     "source": {
       "name": "Dubai Media Office, Dubai Department of Economy and Tourism partners with Dubai Basketball",
       "date": "2025-01-31",
-      "url": "https://mediaoffice.ae/en/news/2025/january/31-01/dubai-department-of-economy-and-tourism-partners-with-dubai-basketball"
+      "url": "https://mediaoffice.ae/en/news/2025/january/31-01/dubai-department-of-economy-and-tourism-partners-with-dubai-basketball",
+      "quote": "The Dubai logo and visitdubai.com website also now features on the back of the team's shirts",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
     },
-    "note": "Founding sponsor; Dubai logo and visitdubai.com on the back of the shirts."
+    "note": "Founding sponsor; Dubai logo and visitdubai.com on the back of the shirts (January 2025). The club store's photo of the back of the 2026/27 home jersey (https://cdn.shopify.com/s/files/1/0765/6806/8250/files/DSC05168.jpg) shows Equiti between the name and the number and the word 'DUBAI' under the number, not the Dubai logo with visitdubai.com. Whether the deal has ended isn't sourced."
   },
   {
     "id": "dubai-basketball-dnata",
@@ -5199,9 +5326,57 @@
     "source": {
       "name": "dnata media centre, dnata nets three-year deal with Dubai Basketball as Founding Partner",
       "date": "2025-09-18",
-      "url": "https://www.dnata.com/media-centre/dnata-nets-three-year-deal-with-dubai-basketball-as-founding-partner/"
+      "url": "https://www.dnata.com/media-centre/dnata-nets-three-year-deal-with-dubai-basketball-as-founding-partner/",
+      "quote": "dnata's branding will appear on Dubai Basketball's official jerseys, across the Coca-Cola Arena home court",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
     },
     "note": "Three-year Founding Partner; dnata branding on official jerseys, court and digital platforms."
+  },
+  {
+    "id": "dubai-basketball-equiti",
+    "clubId": "dubai-basketball",
+    "orgName": null,
+    "sponsorId": "equiti",
+    "placement": "back",
+    "from": "2025-26",
+    "to": "2027-28",
+    "value": null,
+    "source": {
+      "name": "Equiti: Equiti signs as founding partner of Dubai Basketball ahead of EuroLeague debut",
+      "date": "2025-09-24",
+      "url": "https://www.equiti.com/sc-en/media-room/media-releases/equiti-signs-as-founding-partner-of-dubai-basketball-ahead-of-euroleague-debut",
+      "quote": "Equiti will feature prominently on official jerseys and courtside at the Coca-Cola Arena",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "Schnitzel"
+      },
+      "note": "equiti.com blocks scripts; read in the Wayback Machine copy of 22 January 2026 (https://web.archive.org/web/20260122005347/https://www.equiti.com/sc-en/media-room/media-releases/equiti-signs-as-founding-partner-of-dubai-basketball-ahead-of-euroleague-debut/)."
+    },
+    "note": "Founding Partner and Official Digital Wealth Partner 'for the next three seasons' from September 2025; the Equiti logo is on the back of the 2026/27 home jersey (https://cdn.shopify.com/s/files/1/0765/6806/8250/files/DSC05168.jpg)."
+  },
+  {
+    "id": "dubai-basketball-mr-eight",
+    "clubId": "dubai-basketball",
+    "orgName": null,
+    "sponsorId": "mr-eight",
+    "placement": "patch",
+    "from": "2026-27",
+    "to": "2028-29",
+    "value": null,
+    "source": {
+      "name": "Dubai Basketball: Dubai Basketball and Mr. Eight Development Announce Three-Year Exclusive Partnership",
+      "date": "2026-09-11",
+      "url": "https://www.dubaibasketball.com/media-article/dubai-basketball-and-mr-eight-development-announce-three-year-exclusive-partnership",
+      "quote": "the Mr. Eight brand will feature on Dubai Basketball's game jerseys throughout the club's EuroLeague and ABA League campaigns",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "note": "Three-year Exclusive Partner from the 2026/27 season; 'MR.EIGHT' is on the chest of the 2026/27 jerseys, under the adidas logo (https://cdn.shopify.com/s/files/1/0765/6806/8250/files/DSC05782.jpg)."
   },
   {
     "id": "dwc-emirates",
@@ -9419,12 +9594,24 @@
     "placement": "front",
     "from": "2026-27",
     "to": null,
-    "value": null,
+    "value": {
+      "amount": 3,
+      "currency": "GBP",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 4
+    },
     "source": {
-      "name": "London City Lionesses, official announcement",
+      "name": "City AM: Nike becomes London City Lionesses sponsor as well as kit partner in world record deal",
       "date": "2026-09-03",
-      "url": "https://www.londoncitylionesses.com/post/london-city-lionesses-and-nike-announce-landmark-multi-year-deal",
-      "note": "Multi-year front-of-shirt partnership; no value disclosed. Owner Michele Kang separately called it worth more than some Premier League shirt deals."
+      "url": "https://www.cityam.com/nike-becomes-london-city-lionesses-sponsor-as-well-as-kit-partner-for-new-wsl-season",
+      "note": "Reported only as 'over £3m'; City AM does not state whether annual or total. Recorded per year, as owner Michele Kang told the BBC it beats 'some of the men's Premier League front-of-shirt deals' (annual figures). Multi-year deal announced by the club on 3 Sep 2026.",
+      "quote": "club's front-of-shirt sponsor as well as kit maker for a world record fee of over £3m",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
     },
     "note": "Nike's first front-of-shirt sponsorship of a women's team in the UK per coverage."
   },
@@ -9983,6 +10170,34 @@
       "url": "https://www.emirates.com/media-centre/emirates-renews-partnership-with-olympique-lyonnais-until-2030/"
     },
     "note": "Shirt sponsor and Groupama Stadium branding; deal runs to 30 June 2030."
+  },
+  {
+    "id": "maccabi-tel-aviv-rapyd-front",
+    "clubId": "maccabi-tel-aviv",
+    "orgName": null,
+    "sponsorId": "rapyd",
+    "placement": "front",
+    "from": "2025",
+    "to": "2032",
+    "value": {
+      "amount": 3,
+      "currency": "USD",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 3
+    },
+    "source": {
+      "name": "Sport5: \"אם נצטרך לפתוח עוד את הכיס, נעשה זאת\"",
+      "date": "2025-07-17",
+      "url": "https://www.sport5.co.il/articles.aspx?FolderID=274&docID=512842",
+      "quote": "נחתמה עסקה בין הקבוצה לבין החברה בסכום של 3 מיליון דולר לשנה, מה שיכניס לקופה של מכבי תל אביב כ-70 מיליון ש״ח ב-7 השנים הקרובות",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "note": "Seven-year title and main sponsorship signed July 2025 (team renamed Maccabi Rapyd Tel Aviv, Rapyd logo on the front of the jerseys; also on the front of the shorts). Sport5 reports $3m a year, about ₪70m over the term. A follow-on from the 2020 five-year agreement; Sport5's figure is a press report, not a club filing."
   },
   {
     "id": "mainz-05-idm-energiesysteme",
@@ -11290,7 +11505,13 @@
     "source": {
       "name": "Minnesota Timberwolves (nba.com)",
       "date": "2024-08-12",
-      "url": "https://www.nba.com/timberwolves/news/timberwolves-name-sezzle-official-jersey-patch-partner"
+      "url": "https://www.nba.com/timberwolves/news/timberwolves-name-sezzle-official-jersey-patch-partner",
+      "quote": "We are thrilled to announce Sezzle as the official jersey patch partner for the Minnesota Timberwolves.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "BigBossRabbit"
+      },
+      "note": "Announced 12 August 2024, a multi-year partnership; the release does not restate the 2026-27 season."
     },
     "note": "Jersey patch."
   },
@@ -11306,7 +11527,13 @@
     "source": {
       "name": "Target Center (official)",
       "date": "2026-01-01",
-      "url": "https://www.targetcenter.com/about-target-center"
+      "url": "https://www.targetcenter.com/about-target-center",
+      "quote": "Target has been the naming rights partner of the arena since its opening.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "BigBossRabbit"
+      },
+      "note": "The arena's About page also answers at /arena-info/about-target-center; the site returns 406 to script fetches, so CI lists this source as one to open by hand."
     },
     "note": "Arena naming rights: Target Center."
   },
@@ -13283,7 +13510,12 @@
     "source": {
       "name": "Portland Trail Blazers (NBA.com)",
       "date": "2013-08-13",
-      "url": "https://www.nba.com/blazers/rose-garden-renamed-moda-center"
+      "url": "https://www.nba.com/blazers/rose-garden-renamed-moda-center",
+      "quote": "The Portland Trail Blazers and Moda Health have entered into a ten-year naming rights agreement for the Rose Garden Arena",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Arena naming rights: Moda Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2013-08-13."
   },
@@ -15773,9 +16005,14 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Tampa Bay Buccaneers / GlobeNewswire",
+      "name": "Tampa Bay Buccaneers – Buccaneers and Fifth Third Bank Introduce First-Ever Practice Jersey Patch (club site)",
       "date": "2026-08-03",
-      "url": "https://globenewswire.com/news-release/2026/08/03/3337463/0/en/Buccaneers-and-Fifth-Third-Bank-Elevate-Pewter-Partnership-with-Introduction-of-First-Ever-Practice-Jersey-Patch.html"
+      "url": "https://www.buccaneers.com/longform/buccaneers-fifth-third-bank-introduce-first-ever-practice-jersey-patch",
+      "quote": "The Tampa Bay Buccaneers today announced the team’s first-ever jersey patch as part of their elevated partnership renewal with Fifth Third Bank.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Practice-jersey patch."
   },
@@ -15791,7 +16028,12 @@
     "source": {
       "name": "Tampa Bay Buccaneers",
       "date": "2016-05-31",
-      "url": "https://buccaneers.com/news/buccaneers-announce-stadium-naming-rights-extension-17202192"
+      "url": "https://buccaneers.com/news/buccaneers-announce-stadium-naming-rights-extension-17202192",
+      "quote": "The Tampa Bay Buccaneers and Raymond James Financial today announced an extension to their current naming rights partnership that ensures Raymond James Stadium will remain",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Arena naming rights: Raymond James Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2016-05-31."
   },
@@ -15807,7 +16049,12 @@
     "source": {
       "name": "MLB.com ballpark guide",
       "date": "2026-04-09",
-      "url": "https://www.mlb.com/news/featured/tropicana-field-guide-capacity-seating-chart-parking-and-more"
+      "url": "https://www.mlb.com/news/featured/tropicana-field-guide-capacity-seating-chart-parking-and-more",
+      "quote": "The ballpark was officially rebranded as Tropicana Field in October 1996, part of a naming rights agreement between the club and Bradenton’s Tropicana Dole Beverages.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Arena naming rights: Tropicana Field."
   },
@@ -15823,7 +16070,12 @@
     "source": {
       "name": "MLB.com (Tampa Bay Rays)",
       "date": "2026-03-19",
-      "url": "https://www.mlb.com/news/rays-announce-webull-will-be-corporate-jersey-patch-sponsor-2026"
+      "url": "https://www.mlb.com/news/rays-announce-webull-will-be-corporate-jersey-patch-sponsor-2026",
+      "quote": "The Rays announced on Thursday that Webull, an online investment platform, will serve as their first-ever corporate jersey patch partner.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Jersey patch."
   },
@@ -16019,7 +16271,12 @@
     "source": {
       "name": "Zoomph (2026 NFL jersey patch guide)",
       "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors",
+      "quote": "Tennessee Titans: Kroger",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Practice-jersey patch."
   },
@@ -16035,7 +16292,12 @@
     "source": {
       "name": "The Tennessean",
       "date": "2023-11-17",
-      "url": "https://www.tennessean.com/story/money/2023/11/17/titans-stadium-naming-rights-nashville-new-nissan-stadium/71617483007/"
+      "url": "https://www.tennessean.com/story/money/2023/11/17/titans-stadium-naming-rights-nashville-new-nissan-stadium/71617483007/",
+      "quote": "The Tennessee Titans have signed an exclusive, 20-year naming-rights deal for Nashville’s new, under-construction NFL stadium with Franklin-based Nissan North America.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Arena naming rights: Nissan Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-11-17."
   },
@@ -16051,7 +16313,12 @@
     "source": {
       "name": "Texas Rangers / MLB.com press release",
       "date": "2024-03-27",
-      "url": "https://www.mlb.com/press-release/press-release-texas-rangers-announcement-multi-year-agreement-with-energy-transfer-to-become-team-s-official-jersey-patch-partner"
+      "url": "https://www.mlb.com/press-release/press-release-texas-rangers-announcement-multi-year-agreement-with-energy-transfer-to-become-team-s-official-jersey-patch-partner",
+      "quote": "The Texas Rangers and Energy Transfer today announced an expansion of their partnership to include a multi-year deal in which the energy company will become the official jersey patch partner",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Jersey patch."
   },
@@ -16067,7 +16334,12 @@
     "source": {
       "name": "Globe Life Inc. investor newsroom",
       "date": "2017-08-24",
-      "url": "https://investors.globelifeinsurance.com/news-releases/2017/august/globe-life-extends-naming-rights-partnership-to-texas-rangers-new-ballpark"
+      "url": "https://investors.globelifeinsurance.com/news-releases/2017/august/globe-life-extends-naming-rights-partnership-to-texas-rangers-new-ballpark",
+      "quote": "Globe Life And Accident Insurance Company (Globe Life) has extended its partnership with the Texas Rangers through 2048 by signing a new naming rights agreement",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Arena naming rights: Globe Life Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2017-08-24."
   },
@@ -16083,7 +16355,12 @@
     "source": {
       "name": "Sports Business Journal",
       "date": "2005-02-03",
-      "url": "https://sportsbusinessjournal.com/Daily/Issues/2005/02/03/Facilities-Venues/Bye-Bye-Sky-Skydome-Now-Rogers-Centre-Jays-Bump-Up-Payroll/"
+      "url": "https://sportsbusinessjournal.com/Daily/Issues/2005/02/03/Facilities-Venues/Bye-Bye-Sky-Skydome-Now-Rogers-Centre-Jays-Bump-Up-Payroll/",
+      "quote": "SkyDome will be renamed the Rogers Centre — after team owner Rogers Communications — and refurbished with C$10M worth of new Daktronics video boards",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Arena naming rights: Rogers Centre. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2005-02-03."
   },
@@ -16099,7 +16376,13 @@
     "source": {
       "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
       "date": "2026-04-20",
-      "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+      "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball",
+      "note": "List of every 2026 MLB jersey patch pairing.",
+      "quote": "Toronto Blue Jays – TD Bank",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Jersey patch."
   },
@@ -16115,7 +16398,12 @@
     "source": {
       "name": "PR Newswire (Scotiabank / MLSE)",
       "date": "2017-08-29",
-      "url": "https://www.prnewswire.com/news-releases/home-of-the-maple-leafs-and-raptors-to-become-scotiabank-arena-next-summer-642158183.html"
+      "url": "https://www.prnewswire.com/news-releases/home-of-the-maple-leafs-and-raptors-to-become-scotiabank-arena-next-summer-642158183.html",
+      "quote": "Scotiabank and Maple Leafs Sports and Entertainment (MLSE) announced an expanded sponsorship and philanthropic partnership which will see the home of the Toronto Maple Leafs and Toronto Raptors transformed into the Scotiabank Arena",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Arena naming rights: Scotiabank Arena. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2017-08-29."
   },
@@ -16131,7 +16419,12 @@
     "source": {
       "name": "Toronto Raptors / NBA.com",
       "date": "2017-07-06",
-      "url": "https://www.nba.com/raptors/raptors-sunlife-announce-partnership"
+      "url": "https://www.nba.com/raptors/raptors-sunlife-announce-partnership",
+      "quote": "The Sun Life patch will appear on the front left shoulder of Raptors game jerseys starting next season.",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Jersey patch."
   },
@@ -17037,7 +17330,12 @@
     "source": {
       "name": "Utah Jazz / NBA.com",
       "date": "2023-01-14",
-      "url": "https://www.nba.com/jazz/news/the-delta-center-returns-to-utah-under-new-agreement-with-utah-jazz"
+      "url": "https://www.nba.com/jazz/news/the-delta-center-returns-to-utah-under-new-agreement-with-utah-jazz",
+      "quote": "The Delta Center is coming back to Utah. The global airline will assume the naming rights for Utah’s premier sports and entertainment center",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Arena naming rights: Delta Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-01-14."
   },
@@ -17053,7 +17351,12 @@
     "source": {
       "name": "Utah Jazz",
       "date": "2026-06-17",
-      "url": "https://utahjazz.com/news/healthequity-becomes-official-jersey-patch-partner-of-the-utah-jazz-1"
+      "url": "https://www.nba.com/jazz/news/healthequity-becomes-official-jersey-patch-partner-of-the-utah-jazz-1",
+      "quote": "Beginning with the 2026-27 NBA season, HealthEquity will become the official jersey patch partner of the Utah Jazz and the Salt Lake City Stars",
+      "checked": {
+        "on": "2026-09-29",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Jersey patch."
   },
@@ -17304,7 +17607,12 @@
     "source": {
       "name": "Northwest Federal Credit Union",
       "date": "2024-08-27",
-      "url": "https://nwfcu.org/news/washington-commanders-and-northwest-federal-credit-union-announce-stadium-naming-rights-deal-2024"
+      "url": "https://nwfcu.org/news/washington-commanders-and-northwest-federal-credit-union-announce-stadium-naming-rights-deal-2024",
+      "quote": "as well as Northwest serving as the team’s jersey patch partner for off-season and in-season practices",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Practice-jersey patch."
   },
@@ -17320,7 +17628,12 @@
     "source": {
       "name": "Northwest Federal Credit Union",
       "date": "2024-08-27",
-      "url": "https://nwfcu.org/news/washington-commanders-and-northwest-federal-credit-union-announce-stadium-naming-rights-deal-2024"
+      "url": "https://nwfcu.org/news/washington-commanders-and-northwest-federal-credit-union-announce-stadium-naming-rights-deal-2024",
+      "quote": "The Washington Commanders and Northwest Federal Credit Union (NWFCU) today announced a new, multi-year, exclusive naming-rights agreement for the football team’s stadium",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Arena naming rights: Northwest Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2024-08-27."
   },
@@ -17336,7 +17649,12 @@
     "source": {
       "name": "AARP press release",
       "date": "2025-06-30",
-      "url": "https://www.aarp.org/press/releases/2025-06-30-aarp-becomes-washington-nationals-inaugural-jersey-patch-sponsor-and-an-official-community-impact-partner.html"
+      "url": "https://www.aarp.org/press/releases/2025-06-30-aarp-becomes-washington-nationals-inaugural-jersey-patch-sponsor-and-an-official-community-impact-partner.html",
+      "quote": "The Washington Nationals and AARP today announced a multi-year agreement that makes AARP the Club’s inaugural jersey patch sponsor and an official Community Impact Partner.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Jersey patch."
   },
@@ -17352,7 +17670,13 @@
     "source": {
       "name": "Capital One Newsroom",
       "date": "2026-08-11",
-      "url": "https://www.capitalone.com/about/newsroom/a-bold-new-era-for-capital-one-arena-in-our-hometown/"
+      "url": "https://www.capitalone.com/about/newsroom/a-bold-new-era-for-capital-one-arena-in-our-hometown/",
+      "quote": "Today, Capital One and Monumental Sports & Entertainment (MSE) announced the next chapter for Capital One Arena, extending their long-term naming rights partnership",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "BigBossRabbit"
+      },
+      "note": "Announcement of the extension (11 August 2026); the earlier naming rights run back to the arena’s renaming, so the start date in this record is still open."
     },
     "note": "Arena naming rights: Capital One Arena."
   },
@@ -17368,7 +17692,13 @@
     "source": {
       "name": "Washington Wizards (nba.com)",
       "date": "2023-10-23",
-      "url": "https://www.nba.com/wizards/news/washington-wizards-announce-robinhood-as-official-brokerage-and-jersey-patch-partner"
+      "url": "https://www.nba.com/wizards/news/washington-wizards-announce-robinhood-as-official-brokerage-and-jersey-patch-partner",
+      "quote": "The Washington Wizards today announced that Robinhood, a financial services platform that pioneered commission-free stock trading, becomes the NBA franchise’s official brokerage and jersey patch partner.",
+      "checked": {
+        "on": "2026-09-28",
+        "by": "BigBossRabbit"
+      },
+      "note": "The club announced the patch on 23 October 2023 for the 2023-24 season; the release does not restate the 2026-27 season."
     },
     "note": "Jersey patch."
   },
