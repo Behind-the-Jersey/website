@@ -103,6 +103,9 @@ describe('data/live', () => {
     expect([...leagues].sort()).toEqual(['bundesliga', 'la-liga', 'ligue-1', 'premier-league', 'serie-a']);
     expect(pick.every((c) => c.level === 'not-rated')).toBe(true);
     expect(more).toBeGreaterThan(100);
-    expect(notStarted).toContain('2. Bundesliga');
+    // 2. Bundesliga left this list in the 2026-10-02 release (it is 'partial' now), so the guard
+    // is a league that is still untouched rather than the one that happened to be first before.
+    expect(notStarted).toContain('Roshn Saudi League');
+    expect(notStarted.length).toBeGreaterThan(0);
   });
 });
