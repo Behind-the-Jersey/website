@@ -1,5 +1,53 @@
 [
   {
+    "id": "1-fc-heidenheim",
+    "name": "1. FC Heidenheim 1846",
+    "shortName": "Heidenheim",
+    "code": "FCH",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "1-fc-kaiserslautern",
+    "name": "1. FC Kaiserslautern",
+    "shortName": "Kaiserslautern",
+    "code": "FCK",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "1-fc-magdeburg",
+    "name": "1. FC Magdeburg",
+    "shortName": "Magdeburg",
+    "code": "FCM",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "1-fc-nurnberg",
+    "name": "1. FC Nürnberg",
+    "shortName": "Nürnberg",
+    "code": "FCN",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
     "id": "4aces-gc",
     "name": "4Aces GC",
     "shortName": "4Aces",
@@ -669,6 +717,18 @@
     "leagueId": "mlb",
     "country": "USA",
     "crest": "assets/crests/arizona-diamondbacks.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "arminia-bielefeld",
+    "name": "Arminia Bielefeld",
+    "shortName": "Bielefeld",
+    "code": "DSC",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -2141,6 +2201,18 @@
     ]
   },
   {
+    "id": "darmstadt-98",
+    "name": "SV Darmstadt 98",
+    "shortName": "Darmstadt",
+    "code": "D98",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
     "id": "dc-united",
     "name": "D.C. United",
     "shortName": "D.C. United",
@@ -2331,6 +2403,18 @@
     ]
   },
   {
+    "id": "dynamo-dresden",
+    "name": "Dynamo Dresden",
+    "shortName": "Dresden",
+    "code": "SGD",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
     "id": "dynamo-makhachkala",
     "name": "FC Dynamo Makhachkala",
     "shortName": "Dynamo Makhachkala",
@@ -2438,6 +2522,18 @@
     "aliases": []
   },
   {
+    "id": "eintracht-braunschweig",
+    "name": "Eintracht Braunschweig",
+    "shortName": "Braunschweig",
+    "code": "EBS",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
     "id": "eintracht-frankfurt",
     "name": "Eintracht Frankfurt",
     "shortName": "Frankfurt",
@@ -2477,6 +2573,18 @@
       "Emirates GBR",
       "GBR SailGP Team"
     ]
+  },
+  {
+    "id": "energie-cottbus",
+    "name": "FC Energie Cottbus",
+    "shortName": "Cottbus",
+    "code": "FCE",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [],
+    "hasTeamPageDesign": false
   },
   {
     "id": "england",
@@ -2687,6 +2795,18 @@
     "aliases": [
       "lorient"
     ]
+  },
+  {
+    "id": "fc-st-pauli",
+    "name": "FC St. Pauli",
+    "shortName": "St. Pauli",
+    "code": "STP",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [],
+    "hasTeamPageDesign": false
   },
   {
     "id": "fdj-united-suez-women",
@@ -3003,6 +3123,18 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "greuther-furth",
+    "name": "SpVgg Greuther Fürth",
+    "shortName": "Fürth",
+    "code": "SGF",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
     "id": "groupama-fdj-united",
     "name": "Groupama-FDJ United",
     "shortName": "Groupama-FDJ",
@@ -3053,6 +3185,18 @@
     "hasTeamPageDesign": false
   },
   {
+    "id": "hannover-96",
+    "name": "Hannover 96",
+    "shortName": "Hannover",
+    "code": "H96",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
     "id": "hapoel-tel-aviv",
     "name": "Hapoel Tel Aviv B.C.",
     "shortName": "Hapoel Tel Aviv",
@@ -3092,6 +3236,30 @@
       "Henan FC",
       "Henan Songshan Longmen"
     ]
+  },
+  {
+    "id": "hertha-bsc",
+    "name": "Hertha BSC",
+    "shortName": "Hertha",
+    "code": "BSC",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "holstein-kiel",
+    "name": "Holstein Kiel",
+    "shortName": "Kiel",
+    "code": "KIE",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [],
+    "hasTeamPageDesign": false
   },
   {
     "id": "honda-hrc-castrol",
@@ -3461,6 +3629,18 @@
     "leagueId": "mlb",
     "country": "USA",
     "crest": "assets/crests/kansas-city-royals.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "karlsruher-sc",
+    "name": "Karlsruher SC",
+    "shortName": "Karlsruhe",
+    "code": "KSC",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -5029,6 +5209,11 @@
     "country": "USA",
     "crest": "assets/crests/philadelphia-phillies.png",
     "aliases": [],
+    "contact": {
+      "kind": "contact-page",
+      "url": "https://www.mlb.com/phillies/official-information/contact",
+      "source": "Club website contact page (MLB.com), opened 2026-10-01: publishes fanfeedback@phillies.mlb.com and the Guest Feedback form"
+    },
     "hasTeamPageDesign": false
   },
   {
@@ -5985,6 +6170,11 @@
     "country": "USA",
     "crest": "assets/crests/san-diego-padres.png",
     "aliases": [],
+    "contact": {
+      "kind": "contact-page",
+      "url": "https://www.mlb.com/padres/official-information/contact",
+      "source": "San Diego Padres contact page (MLB.com), opened 2026-10-01 via the Wayback Machine: General Comments comments@padres.com and Main Phone Line (619) 795-5000"
+    },
     "hasTeamPageDesign": false
   },
   {
@@ -7161,6 +7351,30 @@
     "leagueId": "bundesliga",
     "country": "Germany",
     "crest": "assets/crests/vfb-stuttgart.png",
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "vfl-bochum",
+    "name": "VfL Bochum",
+    "shortName": "Bochum",
+    "code": "BOC",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [],
+    "hasTeamPageDesign": false
+  },
+  {
+    "id": "vfl-osnabruck",
+    "name": "VfL Osnabrück",
+    "shortName": "Osnabrück",
+    "code": "OSN",
+    "sportId": "soccer",
+    "leagueId": "2-bundesliga",
+    "country": "Germany",
+    "crest": null,
     "aliases": [],
     "hasTeamPageDesign": false
   },

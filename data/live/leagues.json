@@ -204,9 +204,10 @@
     "country": "Germany",
     "clubCount": 18,
     "season": "2026-27",
-    "status": "not-started",
+    "status": "partial",
     "notes": [
-      "VfL Wolfsburg was relegated in 2026 after 29 seasons in the Bundesliga."
+      "VfL Wolfsburg was relegated in 2026 after 29 seasons in the Bundesliga.",
+      "All 18 clubs for 2026-27 are in the data, each with a home kit, a contact route and a sourced front sponsor; the kits list only the front sponsor for now (sponsorsComplete false)."
     ]
   },
   {

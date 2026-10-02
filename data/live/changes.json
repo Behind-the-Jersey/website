@@ -165,6 +165,27 @@
     }
   },
   {
+    "id": "2026-03-17-braves-quikrete",
+    "date": "2026-03-17",
+    "datePrecision": "day",
+    "clubId": "atlanta-braves",
+    "sponsorId": "quikrete",
+    "kind": "renewed",
+    "levelAfter": "clean",
+    "title": "Renews QUIKRETE through 2036",
+    "text": "The jersey patch, on the uniform since 2023, stays through the 2036 season.",
+    "source": {
+      "name": "Battery Power (SB Nation): Atlanta Braves extend partnership with QUIKRETE through 2036 season",
+      "date": "2026-03-17",
+      "url": "https://www.batterypower.com/atlanta-braves-news/127562/atlanta-braves-extend-partnership-with-quikrete-through-2036-season",
+      "quote": "The Braves and QUIKRETE are now locked into a partnership through the 2036 season.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  },
+  {
     "id": "2025-02-02-ac-milan-bitpanda-back",
     "date": "2025-02-02",
     "datePrecision": "day",

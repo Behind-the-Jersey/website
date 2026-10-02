@@ -20,37 +20,6 @@
     "reviewed": false
   },
   {
-    "id": "3m-combat-arms-earplugs",
-    "kind": "record",
-    "ownerIds": [
-      "3m-company"
-    ],
-    "text": "In 2023 3M agreed to pay $6 billion to settle lawsuits by US veterans and service members who say its Combat Arms earplugs, issued to troops from 2003 to 2015, damaged their hearing.",
-    "source": {
-      "name": "NPR (Jay Price, WUNC): 3M agrees to pay $6 billion to service members for faulty earplugs",
-      "date": "2023-09-07",
-      "url": "https://www.npr.org/2023/09/07/1198301845/3m-agrees-to-pay-6-billion-to-service-members-for-faulty-earplugs",
-      "quote": "3M has agreed to pay $6 billion to veterans and service members who say their hearing was damaged while they used faulty earplugs made by a 3M subsidiary.",
-      "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
-      }
-    },
-    "additionalSources": [
-      {
-        "name": "Military.com (Rebecca Kheel): 250,000 Veterans Agree to $6 Billion Settlement with 3M over Earplugs Alleged to Cause Hearing Loss",
-        "date": "2024-03-27",
-        "url": "https://www.military.com/daily-news/2024/03/27/250000-veterans-agree-6-billion-settlement-3m-over-earplugs-alleged-cause-hearing-loss.html",
-        "quote": "250,000 Veterans Agree to $6 Billion Settlement with 3M over Earplugs Alleged to Cause Hearing Loss",
-        "checked": {
-          "on": "2026-09-26",
-          "by": "source-audit-2026-09-26"
-        }
-      }
-    ],
-    "reviewed": false
-  },
-  {
     "id": "3m-company-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -82,37 +51,6 @@
     "reviewed": false
   },
   {
-    "id": "3m-earplug-jury-verdicts",
-    "kind": "record",
-    "ownerIds": [
-      "3m-company"
-    ],
-    "text": "In 2021 and 2022 US federal juries found for the service members in 10 of 16 test (bellwether) trials over 3M's Combat Arms earplugs, which the plaintiffs said damaged their hearing, awarding a total of nearly $300 million; in one of these trials the jury found 3M liable for failing to warn. Juries sided with 3M in the other six trials.",
-    "source": {
-      "name": "3M Company: Form 10-K for fiscal year 2022, Combat Arms Earplugs Litigation (SEC EDGAR)",
-      "date": "2023-02-08",
-      "url": "https://www.sec.gov/Archives/edgar/data/66740/000006674023000014/mmm-20221231.htm",
-      "quote": "In June 2021, 3M received an adverse verdict in the third bellwether trial. The jury found 3M liable for strict liability failure to warn, but found 3M not liable for design defect or fraud.",
-      "checked": {
-        "on": "2026-09-27",
-        "by": "rating-review-2026-09-27"
-      }
-    },
-    "additionalSources": [
-      {
-        "name": "Reuters (Brendan Pierson), via Insurance Journal: 3M Ordered to Pay $77.5 Million to Veteran in Latest Earplug Trial",
-        "date": "2022-05-23",
-        "url": "https://www.insurancejournal.com/news/national/2022/05/23/668705.htm",
-        "quote": "Of those so-called bellwether trials, plaintiffs prevailed in 10, winning a total of nearly $300 million. Juries sided with 3M in the remaining six.",
-        "checked": {
-          "on": "2026-09-27",
-          "by": "rating-review-2026-09-27"
-        }
-      }
-    ],
-    "reviewed": false
-  },
-  {
     "id": "50plus-mobiel-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -128,6 +66,26 @@
       "checked": {
         "on": "2026-09-28",
         "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "7saber-urban-hayot-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "7saber-uz"
+    ],
+    "text": "7SABER is an Uzbek sportswear brand presented in Tashkent in June 2021. The emblem's use rights were licensed to OOO Urban Hayot, a company founded by Ross Connon and Oraz Abdurazakov, in a project backed by Dubai-based Berkeley Square Investments.",
+    "short": "7SABER sportswear brand: private venture founded by Ross Connon and Oraz Abdurazakov, backed by Berkeley Square Investments.",
+    "source": {
+      "name": "Spot.uz: В Ташкенте презентовали новый бренд одежды и экипировки 7SABER",
+      "date": "2021-06-26",
+      "url": "https://www.spot.uz/ru/2021/06/26/7saber/",
+      "quote": "На его основании права на использование эмблемы на 5 лет перешли к ООО Urban Hayot, учредителями которого стали Росс Коннон и Ораз Абдуразаков.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -345,6 +303,38 @@
     "reviewed": false
   },
   {
+    "id": "adecco-adecco-group-brand",
+    "kind": "ownership",
+    "ownerIds": [
+      "adecco-group"
+    ],
+    "text": "Adecco is a brand of The Adecco Group, whose three global businesses are Adecco, Akkodis and LHH. Adecco partners the DECATHLON CMA CGM cycling team from January 1, 2026.",
+    "short": "Adecco is a brand of The Adecco Group",
+    "source": {
+      "name": "Adecco — Adecco to become a Partner of the DECATHLON CMA CGM Team from 2026",
+      "date": "2025-10-01",
+      "url": "https://www.adecco.com/employers/resources/news/2025-pr-decathlon-cma-cgm-sponsorship-decathlon",
+      "quote": "Adecco, a brand of The Adecco Group, will partner with the cycling team DECATHLON CMA CGM starting January 1, 2026, for several years.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "The Adecco Group — Who we are",
+        "date": "2026",
+        "url": "https://www.adeccogroup.com/who-we-are",
+        "quote": "Through our three market-leading global businesses - Adecco, Akkodis and LHH - we deliver end-to-end workforce, skilling and digital engineering solutions.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
     "id": "adidas-ag-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -490,15 +480,15 @@
     "ownerIds": [
       "advocate-health-care-owner"
     ],
-    "text": "Advocate Health Care is a faith-based Illinois/Indiana nonprofit that merged with Aurora Health Care in 2018 to form Advocate Aurora Health, which combined with Atrium Health in 2022 to create Advocate Health, the nonprofit system's ultimate parent. No state ownership or control.",
+    "text": "Advocate Health Care is a faith-based Illinois/Indiana nonprofit that merged with Aurora Health Care in 2018 to form Advocate Aurora Health, which combined with Atrium Health in 2022 to create Advocate Health, the nonprofit system's ultimate parent.",
     "source": {
       "name": "Advocate Health About Us page",
       "date": "2026-09",
       "url": "https://www.advocatehealth.com/about-us",
       "quote": "In 2022, Advocate Aurora Health and Atrium Health combined to create Advocate Health, the third-largest nonprofit integrated health system in the U.S.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-10-01",
+        "by": "btj-scout-review-926"
       }
     },
     "reviewed": false
@@ -792,6 +782,38 @@
     "reviewed": false
   },
   {
+    "id": "akfa-founder-artykkhodzhaev",
+    "kind": "ownership",
+    "ownerIds": [
+      "akfa-group"
+    ],
+    "text": "Jahongir Artykkhodjaev is the founder of the Akfa group of companies; Gazeta.uz and Spot identify him as such, and Gazeta adds that he was hokim (mayor) of Tashkent in 2018-2023.",
+    "short": "Akfa Group was founded by Jahongir Artykkhodjaev (Tashkent hokim 2018-2023).",
+    "source": {
+      "name": "Gazeta.uz: 'Akfa начала строительство завода в США с планируемыми инвестициями на $600 млн — Джахонгир Артыкходжаев'",
+      "date": "2025-11-10",
+      "url": "https://www.gazeta.uz/ru/2025/11/10/us-akfa/",
+      "quote": "Об этом в интервью программе «Менимча» телеканала «Узбекистан 24» сообщил основатель группы компаний Джахонгир Артыкходжаев.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Spot.uz: 'Akfa совместно с турецким партнером построит фабрику в США за $600 млн — Артыкходжаев'",
+        "date": "2025-11-10",
+        "url": "https://www.spot.uz/ru/2025/11/10/akfa-usa/",
+        "quote": "Об этом сообщил основатель Akfa Group Джахонгир Артыкходжаев в интервью телеканалу Oʻzbekiston 24.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "akhmetov-scm-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -823,6 +845,26 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "akrapovic-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "akrapovic-dd"
+    ],
+    "text": "The Akrapovič exhaust brand belongs to Akrapovič d.d. of Ivančna Gorica, Slovenia, per the company's own legal notice; the unlisted company's deeper shareholding is not documented in an accessible primary source.",
+    "short": "Akrapovič brand belongs to Akrapovič d.d. (Slovenia).",
+    "source": {
+      "name": "Akrapovič – Legal notice",
+      "date": "2026",
+      "url": "https://www.akrapovic.com/en/legal-notice",
+      "quote": "This website is the official website of the company Akrapovič d.d., Malo Hudo 8a, 1295 Ivančna Gorica, Slovenia, EU",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -959,6 +1001,37 @@
     ]
   },
   {
+    "id": "alamosa-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "alamosa"
+    ],
+    "text": "Dipart, the Spanish car-parts distribution group, says Alavesa del Motor, S.A. (Alamosa), a family company with over fifty years in car-parts retail, joined Dipart in 2013; Alamosa's own website says it belongs to the DP distribution group.",
+    "source": {
+      "name": "Dipart: 'DP Alamosa amplía sus instalaciones'",
+      "date": "2022-10-21",
+      "url": "https://dipart.es/dp-alamosa-amplia-sus-instalaciones/",
+      "quote": "Se incorporaron a Dipart en el año 2013 con el fin de poder ofrecer a sus clientes más herramientas y servicios para su desarrollo",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Alamosa (Alavesa del Motor, S.A.): Inicio",
+        "date": "2026",
+        "url": "https://alamosa.es/",
+        "quote": "Pertenecientes al grupo de distribución DP, es una empresa consciente de la importancia actual de contar con el soporte técnico",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "alba-mumtalakat-majority",
     "kind": "ownership",
     "ownerIds": [
@@ -1046,6 +1119,26 @@
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
       }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "all-inkl-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "all-inkl-com-neue-medien-muennich"
+    ],
+    "text": "ALL-INKL.COM is run by ALL-INKL.COM - Neue Medien Münnich of Friedersdorf, whose owner (Inhaber) is René Münnich.",
+    "source": {
+      "name": "ALL-INKL.COM: Impressum",
+      "date": "2026",
+      "url": "https://all-inkl.com/impressum",
+      "quote": "ALL-INKL.COM - Neue Medien Münnich Inhaber: René Münnich Hauptstraße 68 | D-02742 Friedersdorf",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Translation: 'ALL-INKL.COM - Neue Medien Münnich, owner: René Münnich, Hauptstraße 68, D-02742 Friedersdorf'."
     },
     "reviewed": false
   },
@@ -1712,6 +1805,27 @@
     "reviewed": false
   },
   {
+    "id": "armand-thiery-deveaux-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "armand-thiery",
+      "groupe-deveaux"
+    ],
+    "text": "BFM Business titles the Deveaux group 'propriétaire d'Armand Thiery' (owner of Armand Thiery) and describes the Deveaux family as operating in ready-to-wear through brands including Armand Thiery, Toscane, Edji and Jacqueline Riu.",
+    "short": "Armand Thiery is owned by the Deveaux group",
+    "source": {
+      "name": "BFM Business — le groupe Deveaux, propriétaire d'Armand Thiery, autorisé à prendre le contrôle de Jacadi (P.L. avec AFP)",
+      "date": "2026-04-28",
+      "url": "https://www.bfmtv.com/economie/entreprises/pas-de-risque-d-atteinte-a-la-concurrence-le-groupe-deveaux-proprietaire-d-armand-thiery-autorise-a-prendre-le-controle-de-l-enseigne-de-mode-pour-enfants-jacadi_AD-202604280657.html",
+      "quote": "La famille Deveaux, opérant dans le prêt-à-porter à travers des marques telles qu'Armand Thiery, Toscane, Edji et Jacqueline Riu",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "arnold-clark-automobiles-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -1812,15 +1926,16 @@
     "ownerIds": [
       "ascension-st-vincent-owner"
     ],
-    "text": "Ascension is a Catholic, nonprofit healthcare system: its own site describes it as 'one of the leading non-profit and Catholic health systems in the U.S.,' sponsored since 2011 by a Vatican-approved public juridic person representing the founding religious congregations, not by a state or shareholders.",
+    "text": "Ascension's own site describes it as 'One of the nation's leading non-profit, faith-based health systems'; since 2011 it has been guided by a single Vatican-approved Ascension Sponsor, a Ministerial Public Juridic Person made up of religious and lay members.",
     "source": {
-      "name": "Ascension: History & Sponsorship",
-      "date": "2026-09",
+      "name": "Ascension: History & Religious Sponsorship",
+      "date": "2026",
       "url": "https://about.ascension.org/about-us/history-sponsorship",
-      "quote": "Ascension, one of the leading non-profit and Catholic health systems in the U.S., operates approximately 2,600 sites of care in 16 states and the District of Columbia.",
+      "quote": "In 2011, the Vatican approved the creation of a single Ascension Sponsor, a Ministerial Public Juridic Person. Today, the Ascension Sponsor is made up of both religious and lay members",
+      "note": "Page updated since the previous check (2026-09-26): it now reads '36 states' and no longer carries the earlier '2,600 sites of care in 16 states' wording. The timeline on the same page reads 'Today: One of the nation's leading non-profit, faith-based health systems, serving communities across 36 states and the District of Columbia.'",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -1884,6 +1999,39 @@
         "by": "Schnitzel"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "ata-airlines-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "daric-investment-group"
+    ],
+    "text": "ATA Airline is one of the companies of the Daric Investment Group, which profiles the airline on its own website. Named press reported ATA's owner as Mohammad Reza Zonouzi-Motlaq, the group's founder and owner.",
+    "short": "ATA Airlines is a Daric Investment Group company; press names its owner as Mohammad Reza Zonouzi-Motlaq.",
+    "source": {
+      "name": "Daric Investment Group: ATA Airline company profile",
+      "date": "2026-09-30",
+      "url": "https://daricgroup.com/en/company/ATA-Airline",
+      "quote": "ATA Airline Company | Daric Investment Group",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Undated corporate page on the group's site listing ATA Airline under its activity fields (Transportation)."
+    },
+    "additionalSources": [
+      {
+        "name": "MEED: Ata Airline launches in Iran",
+        "date": "2010-01-03",
+        "url": "https://www.meed.com/ata-airline-launches-in-iran/",
+        "quote": "Ata's owner, Mohammad-Reza Zonouzi-Motlaq has said the company currently has four 1996-model Boeing MD83 aircraft",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -1970,7 +2118,7 @@
     "ownerIds": [
       "att-inc"
     ],
-    "text": "AT&T Inc. is owned by AT&T Inc.. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "text": "AT&T Inc. is owned by AT&T Inc.. Its largest beneficial owners are institutional investors: The Vanguard Group (8.7%) and BlackRock, Inc. (7.5%).",
     "short": "AT&T Inc.",
     "source": {
       "name": "AT&T INC. DEF 14A 2026 (SEC)",
@@ -2229,6 +2377,38 @@
     "reviewed": false
   },
   {
+    "id": "autogestio-sanitaria-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "autogestio-sanitaria"
+    ],
+    "text": "Autogestió Sanitària, a cooperative founded by the doctors and dentists of the Col·legi de Metges de Barcelona (Barcelona Medical Association), holds 78% of the health insurer Assistència Sanitària.",
+    "source": {
+      "name": "Crónica Global: Assistència Sanitària ingressa 238 milions d'euros i guanya 7,8 milions",
+      "date": "2026-09-09",
+      "url": "https://www.cronicaglobal.cat/business/confident-vip/20260909/assistencia-sanitaria-ingressa-milions-deuros-guanya/1003742792850_0.html",
+      "quote": "El 1978 el gruix del capital va passar a la cooperativa Autogestió Sanitària, fundada pels metges i odontòlegs del Col·legi. Avui aquesta entitat posseeix el 78% d'Assistència Sanitària.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Fundació Espriu: La nostra història",
+        "date": "2026",
+        "url": "https://www.fundacionespriu.coop/ca/qui-som/la-nostra-historia",
+        "quote": "Es crea la cooperativa Autogestió Sanitària, de la qual són socis els metges propietaris d'Assistència Sanitària.",
+        "note": "Page undated; the timeline places Autogestió Sanitària's creation in 1978.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "autogrill-avolta-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -2298,8 +2478,8 @@
       "url": "https://www.sec.gov/Archives/edgar/data/8858/000110465925097498/tm2516396-1_def14a.htm",
       "quote": "This table describes the beneficial ownership of the Company's Common Stock for persons that, to the Company's knowledge, beneficially own more than 5% of the Company's Common Stock",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -2608,6 +2788,72 @@
     "reviewed": false
   },
   {
+    "id": "ball-container-ofccp-hiring-discrimination",
+    "kind": "record",
+    "ownerIds": [
+      "ball-corporation-owner"
+    ],
+    "text": "A routine compliance review by the US Department of Labor's Office of Federal Contract Compliance Programs found that from 1 February 2020 to 31 January 2021 Ball Container LLC, a subsidiary of Ball Corp., discriminated against 192 Black applicants for production technician positions at its beverage plant in Rome, Georgia. The department determined this violated Executive Order 11246; in a conciliation agreement Ball Container agreed to pay $309,000 in back wages and interest.",
+    "short": "The US Labor Department found that a Ball subsidiary discriminated against 192 Black job applicants at a Georgia plant in 2020-21.",
+    "source": {
+      "name": "Ball Corp. subsidiary to pay $309K to settle hiring discrimination of Black applicants at Georgia facility | U.S. Department of Labor",
+      "date": "2024-10-07",
+      "url": "https://www.dol.gov/newsroom/releases/ofccp/ofccp20241007",
+      "quote": "A routine compliance review by the department’s Office of Federal Contract Compliance Programs found that, from Feb. 1, 2020, through Jan. 31, 2021, the employer discriminated against 192 Black applicants for production technician positions at the facility.",
+      "note": "The same release names the employer as 'Ball Container LLC, a subsidiary of Ball Corp.' and says 'The agency determined Ball Container’s actions violated Executive Order 11246'. dol.gov blocks scripts; opened in a browser.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-935 (Claude Code, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Colorado's Ball Corp. subsidiary settles race-based hiring discrimination suit",
+        "date": "2024-10-15",
+        "url": "https://coloradosun.com/2024/10/15/ball-corp-subsidiary-hiring-discrimination-suit-georgia/",
+        "quote": "Ball Container, a subsidiary of the Westminster federal contractor known for making aluminum beverage containers, agreed to settle a case involving 192 Black applicants for a technician job.",
+        "note": "The Colorado Sun (Tamara Chuang). It also quotes the department's finding of 'statistically significant differences in the hiring rates of Black applicants for Production Technician positions when compared to White applicants'.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "claude-maint-935 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "ball-corporation-public-listing",
+    "kind": "ownership",
+    "ownerIds": [
+      "ball-corporation-owner"
+    ],
+    "text": "Ball Corporation's common stock is registered under the trading symbol BALL on the New York Stock Exchange.",
+    "short": "Ball Corporation trades on the NYSE under BALL.",
+    "source": {
+      "name": "Ball Corporation Form 10-K for fiscal year 2025 (SEC EDGAR, filed 2026-02-19)",
+      "date": "2026-02-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/9389/000110465926017410/ball-20251231x10k.htm",
+      "quote": "Common Stock, without par value BALL New York Stock Exchange",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Can giant Ball Corp. saw sales crack $3.6B in first quarter – BizWest",
+        "date": "2026-05-05",
+        "url": "https://bizwest.com/2026/05/05/can-giant-ball-corp-saw-sales-crack-3-6b-in-first-quarter/",
+        "quote": "Can-manufacturing giant Ball Corp. (NYSE: BALL) posted first-quarter 2026 sales that cracked $3.6 billion",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "claude-maint-935 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
     "id": "banca-popolare-del-frusinate-record",
     "kind": "ownership",
     "ownerIds": [
@@ -2733,6 +2979,41 @@
     "reviewed": false
   },
   {
+    "id": "bank-of-kyoto-kyoto-fg",
+    "kind": "ownership",
+    "ownerIds": [
+      "bank-of-kyoto",
+      "kyoto-financial-group"
+    ],
+    "text": "The Bank of Kyoto, Ltd. moved to a holding-company structure on 2 October 2023, and current investor information for the bank is published on the Kyoto Financial Group, Inc. website; Kyoto Financial Group's group-companies page lists the Bank of Kyoto as a group company.",
+    "short": "The Bank of Kyoto is under Kyoto Financial Group, Inc. (holding-company structure since 2 October 2023).",
+    "source": {
+      "name": "株式会社京都銀行: 株主・投資家のみなさま (The Bank of Kyoto: for shareholders and investors)",
+      "date": "2026",
+      "url": "https://www.kyotobank.co.jp/investor/",
+      "quote": "2023年10月2日より、京都銀行は持株会社体制へ移行しました。 最新のIR情報は「京都フィナンシャルグループ」のホームページでご案内しています。",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "持株会社体制 = holding-company structure. Page without a date; the 2 October 2023 transition date is on the page."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "京都フィナンシャルグループ: グループ会社一覧 (Kyoto Financial Group: group companies list)",
+        "date": "2026",
+        "url": "https://www.kyoto-fg.co.jp/company/group/",
+        "quote": "株式会社京都銀行 京都市下京区烏丸通松原上る薬師前町700番地",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "KFG's group companies list includes 株式会社京都銀行 (The Bank of Kyoto, Ltd.), business: banking. Page without a date."
+      }
+    ]
+  },
+  {
     "id": "bank-of-montreal-record",
     "kind": "ownership",
     "ownerIds": [
@@ -2750,6 +3031,42 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "bank-of-shanghai-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "bank-of-shanghai",
+      "shanghai-alliance-investment",
+      "government-of-china"
+    ],
+    "text": "Bank of Shanghai states in its 2025 annual report that it has no controlling shareholder and no actual controller. Its largest shareholder is Shanghai Alliance Investment Co., Ltd., a 'state-owned legal person' (国有法人) with 2,092,800,328 shares (14.73%), rising to 14.98% with affiliates and concert parties. Alliance Investment's controlling shareholder and actual controller is the Shanghai Municipality's State-owned Assets Supervision and Administration Commission (Shanghai SASAC), and it nominated two of the bank's directors (Ye Jun and Ying Xiaoming).",
+    "short": "Shanghai SASAC-controlled Alliance Investment is Bank of Shanghai's largest shareholder with 14.73%; the bank reports no controlling shareholder.",
+    "source": {
+      "name": "Bank of Shanghai Co., Ltd. — 2025 Annual Report (cninfo filing, Chinese), top-10 shareholders table and 'shareholders holding 5%+' notes",
+      "date": "2026-04-24",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-24/1225173739.PDF",
+      "quote": "上海联和投资有限公司 7,700,000 2,092,800,328 14.73% - - 国有法人 人民币普通股",
+      "note": "Top-10 ordinary-shareholder table (report period end = 31 December 2025). The same section states '本公司无控股股东和实际控制人' (the bank has no controlling shareholder and no actual controller), that Shanghai Alliance Investment and its affiliates/concert parties together hold 14.98%, that '上海联和投资有限公司的控股股东及实际控制人为上海市国有资产监督管理委员会' (Alliance Investment's controlling shareholder and actual controller is the Shanghai SASAC), and that Alliance nominated Ye Jun and Ying Xiaoming as bank directors. Second with 8.54% is Shanghai International Port (Group) Co., Ltd.; the report names Shanghai SASAC as its actual controller too.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Bank of Shanghai Co., Ltd. — 2026 Half-year Report abstract (cninfo filing, Chinese), top-10 shareholders table",
+        "date": "2026-08-28",
+        "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520626.PDF",
+        "quote": "上海联和投资有限公司 - 2,092,800,328 14.73% - - 国有法人 人民币普通股",
+        "note": "Top-10 ordinary-shareholder table as at 30 June 2026: Alliance Investment unchanged at 2,092,800,328 shares, 14.73%, 'state-owned legal person'; Shanghai International Port (Group) second with 1,213,781,943 shares, 8.54%, also 'state-owned legal person'.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -2888,6 +3205,26 @@
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
       }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "bartels-langness-famila-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "bartels-langness-gmbh-co-kg"
+    ],
+    "text": "The supermarket chain famila belongs to the Bartels-Langness group, based in Kiel.",
+    "source": {
+      "name": "Deutsches Institut für Marketing: Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (as of 4 August 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+      "quote": "Das Unternehmen gehört zur in Kiel ansässigen Bartels-Langness-Gruppe",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Translation: 'The company belongs to the Kiel-based Bartels-Langness group'."
     },
     "reviewed": false
   },
@@ -3488,6 +3825,26 @@
       "name": "Intercontinental Exchange, 'ICE Announces Strategic Investment in Polymarket'",
       "date": "2025-10-07",
       "url": "https://ir.theice.com/press/news-details/2025/ICE-Announces-Strategic-Investment-in-Polymarket/default.aspx"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "bloom-energy-corp-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "bloom-energy-corp"
+    ],
+    "text": "Bloom Energy Corp registers its Class A Common Stock (symbol BE) on the New York Stock Exchange under Section 12(b) of the Securities Exchange Act.",
+    "short": "Bloom Energy Corp is a listed company (NYSE: BE).",
+    "source": {
+      "name": "Bloom Energy Corp Form 10-K for fiscal year ended December 31, 2025 (SEC cover page)",
+      "date": "2026-02-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/be-20251231.htm",
+      "quote": "Securities registered pursuant to Section 12(b) of the Act: Title of Each Class Trading Symbol(s) Name of each exchange on which registered Class A Common Stock, $0.0001 par value BE New York Stock Exchange",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "reviewed": false
   },
@@ -4714,6 +5071,27 @@
     "reviewed": false
   },
   {
+    "id": "chang-thai-beverage-brand",
+    "kind": "ownership",
+    "ownerIds": [
+      "thai-beverage-pcl"
+    ],
+    "text": "Chang (เบียร์ช้าง) is Thai Beverage Public Company Limited's flagship beer brand: ThaiBev's own site describes 'Chang' as the strong foundation on which its beer business group has grown.",
+    "short": "Chang is Thai Beverage PCL's flagship beer brand.",
+    "source": {
+      "name": "ThaiBev: Beer business group (กลุ่มธุรกิจเบียร์)",
+      "date": "2026-09-30",
+      "url": "https://www.thaibev.com/products/group?cateId=2",
+      "quote": "ด้วยรากฐานอันแข็งแกร่งของ \"ช้าง\" กลุ่มธุรกิจเบียร์สามารถเติบโตและขยายตัวอย่างต่อเนื่อง",
+      "note": "Translation: 'With the strong foundation of \"Chang\", the beer business group has been able to grow and expand continuously.'",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "chery-state-shareholders",
     "kind": "ownership",
     "ownerIds": [
@@ -5072,6 +5450,39 @@
     ]
   },
   {
+    "id": "cleveland-cliffs-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "cleveland-cliffs-owner"
+    ],
+    "text": "Cleveland-Cliffs Inc. is a listed company: its common shares are registered under the symbol CLF on the New York Stock Exchange. Its 2026 proxy statement names BlackRock, Inc., with 44,103,832 common shares (7.73% of the class), in its table of persons known to the company to beneficially own more than five percent of its outstanding common shares.",
+    "source": {
+      "name": "Cleveland-Cliffs Inc. Form 10-K for fiscal year 2025 (SEC EDGAR)",
+      "date": "2026-02-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/764065/000076406526000025/clf-20251231.htm",
+      "note": "Cover page, Securities registered pursuant to Section 12(b) of the Act.",
+      "quote": "Common Shares, par value $0.125 per share CLF New York Stock Exchange",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Cleveland-Cliffs Inc. 2026 Proxy Statement (DEF 14A, SEC EDGAR)",
+        "date": "2026-04-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/764065/000076406526000054/clf-20260402.htm",
+        "note": "Beneficial-ownership table of holders above five percent; BlackRock reported its holding on Amendment No. 5 to Schedule 13G filed April 17, 2025.",
+        "quote": "BlackRock, Inc. (3) 50 Hudson Yards New York, NY 10001 44,103,832 44,103,832 — 43,104,639 — 7.73",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "clickhouse-inc-record",
     "kind": "ownership",
     "ownerIds": [
@@ -5218,12 +5629,37 @@
     "ownerIds": [
       "coca-cola-company"
     ],
-    "text": "The Coca-Cola Company is a US NYSE-listed beverage company with dispersed public shareholders and no state owner.",
-    "short": "The Coca-Cola Company is an NYSE-listed beverage company.",
+    "text": "The Coca-Cola Company registers its Common Stock ($0.25 par value) on the New York Stock Exchange under symbol KO.",
+    "short": "The Coca-Cola Company is a listed company (NYSE: KO).",
     "source": {
-      "name": "The Coca-Cola Company, investor relations",
-      "date": "2026",
-      "url": "https://investors.coca-colacompany.com/"
+      "name": "The Coca-Cola Company Form 10-K for fiscal year ended December 31, 2025 (SEC cover page)",
+      "date": "2026-02-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm",
+      "quote": "Common Stock, $0.25 Par Value KO New York Stock Exchange",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "coca-cola-trademark-owner",
+    "kind": "ownership",
+    "ownerIds": [
+      "coca-cola-company"
+    ],
+    "text": "Coca-Cola is a trademark brand owned or licensed by The Coca-Cola Company, which groups its brands under the heading 'Trademark Coca-Cola'.",
+    "short": "Coca-Cola is The Coca-Cola Company's trademark brand.",
+    "source": {
+      "name": "The Coca-Cola Company Form 10-K for fiscal year ended December 31, 2025 (SEC, Item 1. Business)",
+      "date": "2026-02-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm",
+      "quote": "We own or license and market numerous beverage brands, which we group into the following categories: Trademark Coca-Cola;",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
     },
     "reviewed": false
   },
@@ -5482,6 +5918,40 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "congstar-telekom-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "telekom-deutschland-gmbh",
+      "deutsche-telekom-ag"
+    ],
+    "text": "congstar is a brand of Telekom Deutschland GmbH, Bonn. Deutsche Telekom AG holds 100% of Telekom Deutschland GmbH’s shares and voting rights (as of 31 December 2025).",
+    "source": {
+      "name": "congstar: Impressum",
+      "date": "2026",
+      "url": "https://www.congstar.de/impressum/",
+      "quote": "congstar – eine Marke der Telekom Deutschland GmbH",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Translation: 'congstar – a brand of Telekom Deutschland GmbH'."
+    },
+    "additionalSources": [
+      {
+        "name": "Deutsche Telekom Annual Report 2025: Principal subsidiaries",
+        "date": "2026",
+        "url": "https://report.telekom.com/annual-report-2025/notes/summary-of-accounting-policies/principal-subsidiaries.html",
+        "quote": "Telekom Deutschland GmbH, Bonn, Germany Dec. 31, 2025/2025 100.00 100.00 100.00",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "claude-maint-928 (Claude Code, run by @Schnitzel)"
+        },
+        "note": "A row of the table of the Group's principal subsidiaries. Its first three figures are Deutsche Telekom's share, its share including treasury shares, and the percentage of voting rights it holds, in %."
+      }
+    ],
     "reviewed": false
   },
   {
@@ -5891,6 +6361,26 @@
     "reviewed": false
   },
   {
+    "id": "daicel-corporation-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "daicel-corporation"
+    ],
+    "text": "Daicel Corporation is listed on the Tokyo Stock Exchange (code 4202). Its largest shareholders (as of 2026-03-31) were The Master Trust Bank of Japan (trust account, 13.81%), Custody Bank of Japan (trust account, 10.36%) and Nippon Life Insurance (6.81%); no state or sovereign shareholder appears in the company's top-10 list.",
+    "short": "Daicel is TSE-listed (4202); top holders are trust banks and insurers, no state shareholder.",
+    "source": {
+      "name": "株式会社ダイセル IR: 株式情報 — 大株主（上位10位）の状況",
+      "date": "2026-03-31",
+      "url": "https://www.daicel.com/ir/stock/stocks/",
+      "quote": "日本マスタートラスト信託銀行株式会社（信託口） 35,294 13.81 株式会社日本カストディ銀行（信託口） 26,472 10.36 日本生命保険相互会社 17,402 6.81",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "daikin-comfort-technologies-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -5902,6 +6392,49 @@
       "name": "Daikin Industries Ltd. Shareholder Information",
       "date": "2026-09-24",
       "url": "https://www.daikin.com/investor/stock/stock_info"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "daiwa-securities-co-daiwa-group",
+    "kind": "ownership",
+    "ownerIds": [
+      "daiwa-securities-co",
+      "daiwa-securities-group"
+    ],
+    "text": "Daiwa Securities Co. Ltd. (大和証券株式会社, daiwa.jp) is a group company of Daiwa Securities Group Inc.: it heads the group companies list published by Daiwa Securities Group.",
+    "short": "Daiwa Securities Co. is a group company of Daiwa Securities Group Inc.",
+    "source": {
+      "name": "大和証券グループ本社: グループ会社概要一覧 (Daiwa Securities Group Inc.: group companies list)",
+      "date": "2026",
+      "url": "https://www.daiwa-grp.jp/about/group/",
+      "quote": "大和証券（株） 〒100-6752 東京都千代田区丸の内一丁目9番1号",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "First entry under グループ会社一覧 (group companies list); the listed site's link is https://www.daiwa.jp/. Page without a date."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "daiwa-securities-group-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "daiwa-securities-group"
+    ],
+    "text": "Daiwa Securities Group Inc. (listed in Tokyo and Nagoya, code 8601) lists its top 10 shareholders as of 31 March 2026 as The Master Trust Bank of Japan, Ltd. (trust account, 14.74%), Custody Bank of Japan, Ltd. (trust account, 4.63%), Taiyo Life Insurance Company (2.96%), Nippon Life Insurance Company (2.24%), Japan Post Holdings Co., Ltd. (2.16%), State Street Bank and Trust Company 505001 (1.86%), JP Morgan Chase Bank 385781 (1.40%), Nomura Trust and Banking (investment trust account, 1.36%), the Daiwa shareholding association (1.24%) and Barclays Securities (1.00%).",
+    "short": "Daiwa Securities Group is listed; its largest holder is Master Trust (14.74%); Japan Post Holdings holds 2.16%.",
+    "source": {
+      "name": "大和証券グループ本社: 株式の状況 (Daiwa Securities Group Inc.: status of shares)",
+      "date": "2026-03-31",
+      "url": "https://www.daiwa-grp.jp/ir/shareholders/stock.html",
+      "quote": "日本マスタートラスト信託銀行株式会社（信託口） 204,275千株（14.74％）",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "大株主（上位10名）（2026年3月31日現在）= top-10 major shareholders as of 31 March 2026; ratios net of treasury shares. The by-owner-type chart's 'other' bucket includes government and local public bodies (注3)."
     },
     "reviewed": false
   },
@@ -5923,6 +6456,28 @@
         "on": "2026-09-27",
         "by": "claude-review-282"
       }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "daric-investment-group-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "daric-investment-group",
+      "mohammad-reza-zonouzi"
+    ],
+    "text": "The Daric Investment Group's founder, owner and chairman of the board is Mohammad Reza Zonouzi Motlagh, as stated on the group's own website.",
+    "short": "Mohammad Reza Zonouzi Motlagh is the founder, owner and chairman of the Daric Investment Group.",
+    "source": {
+      "name": "Daric Investment Group: official website (daricgroup.com/en)",
+      "date": "2026-09-30",
+      "url": "https://daricgroup.com/en",
+      "quote": "The Owner and Founder Of The Daric Investment Group. Mohammad Reza Zonouzi Motlagh",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Undated corporate homepage; page text continues: 'is currently the founder, owner, and chairman of the board of directors of the DARIC Development Investment Group'."
     },
     "reviewed": false
   },
@@ -6018,6 +6573,39 @@
       }
     },
     "reviewed": false
+  },
+  {
+    "id": "decathlon-afm-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "decathlon",
+      "association-famille-mulliez"
+    ],
+    "text": "Le Journal des Entreprises lists Decathlon among the companies held by the Association Famille Mulliez, alongside ELO (parent of Auchan Retail) and Adeo (Leroy Merlin).",
+    "short": "Decathlon is held by the Mulliez family association (AFM)",
+    "source": {
+      "name": "Le Journal des Entreprises — Top 20 des entreprises des Hauts-de-France : un classement toujours dominé par l’Association Famille Mulliez",
+      "date": "2026-02-27",
+      "url": "https://www.lejournaldesentreprises.com/article/top-20-des-entreprises-des-hauts-de-france-un-classement-toujours-domine-par-lassociation-famille-2137610",
+      "quote": "En tête du classement figurent trois sociétés détenues par l’Association Famille Mulliez : ELO (maison mère d’Auchan Retail) devance Adeo (Leroy Merlin, Weldom…) et Decathlon.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Le Journal des Entreprises — Top 20 des entreprises des Hauts-de-France (archived copy, 16 April 2026)",
+        "date": "2026-02-27",
+        "url": "http://web.archive.org/web/20260416205859/https://www.lejournaldesentreprises.com/article/top-20-des-entreprises-des-hauts-de-france-un-classement-toujours-domine-par-lassociation-famille-2137610",
+        "quote": "Avec le groupe Decathlon, l’AFM (Association Famille Mulliez) compte une troisième de ses entreprises à la tête de ce top 1 000.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ]
   },
   {
     "id": "deel-inc-record",
@@ -6775,7 +7363,7 @@
     "ownerIds": [
       "dream-finders-homes-owner"
     ],
-    "text": "Dream Finders Homes, Inc. is a NYSE 'controlled company': founder, CEO and Chairman Patrick Zalupski holds more than a majority of voting power through super-voting Class B shares, representing 84.4% of combined voting power. Among its Class A 5%+ holders, Kayne Anderson (13.0%) and BlackRock (12.8%) are the largest; no state shareholder is identified.",
+    "text": "Dream Finders Homes, Inc. is a NYSE 'controlled company': founder, CEO and Chairman Patrick Zalupski holds more than a majority of voting power through super-voting Class B shares, representing 84.4% of combined voting power. Among its Class A 5%+ holders, Kayne Anderson (13.0%) and BlackRock (12.8%) are the largest.",
     "source": {
       "name": "Dream Finders Homes, Inc. DEF 14A 2026 Proxy Statement (SEC EDGAR)",
       "date": "2026-04-16",
@@ -7288,6 +7876,26 @@
     "reviewed": false
   },
   {
+    "id": "emory-healthcare-part-of-emory-university",
+    "kind": "ownership",
+    "ownerIds": [
+      "emory-university"
+    ],
+    "text": "Emory Healthcare is part of Emory University, whose academic health system it is.",
+    "short": "Emory Healthcare is part of Emory University.",
+    "source": {
+      "name": "Emory Healthcare: About Us",
+      "date": "2026",
+      "url": "https://www.emoryhealthcare.org/about-us/index.html",
+      "quote": "As part of Emory University, we are the most comprehensive academic health system in Georgia",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "enel-italy-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -7623,6 +8231,40 @@
     "reviewed": false
   },
   {
+    "id": "esteghlal-pgpic-majority-owner",
+    "kind": "ownership",
+    "ownerIds": [
+      "pgpic"
+    ],
+    "text": "Persian Gulf Petrochemical Industries (PGPIC, 'Khalij Fars') is the majority shareholder of Esteghlal FC. Of the club's ~1,793 billion toman operational revenue in the year ended 30 Tir 1404 (July 2025), ~1,772 billion came from sponsorship and perimeter advertising, of which ~1,735 billion was booked from PGPIC.",
+    "short": "PGPIC is the majority shareholder of Esteghlal FC.",
+    "source": {
+      "name": "Fartak Varzeshi: بررسی قرارداد اسپانسری استقلال با پتروشیمی خلیج فارس (review of Esteghlal's sponsorship contract with PGPIC)",
+      "date": "2026-08-25",
+      "url": "https://fartakvarzeshi.com/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A8%D8%A7-%D9%BE%D8%AA%D8%B1/",
+      "quote": "استقلال در سال مالی منتهی به ۳۰ تیر ۱۴۰۴، حدود ۱۷۹۳ میلیارد تومان درآمد عملیاتی داشته که تقریباً ۱۷۷۲ میلیارد تومان آن مربوط به اسپانسری و تبلیغات محیطی است. از این مقدار، حدود ۱۷۳۵ میلیارد تومان از صنایع پتروشیمی خلیج فارس، سهامدار اصلی استقلال، شناسایی شده است.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Translation of the quote: 'In the financial year to 30 Tir 1404, Esteghlal had about 1,793 billion tomans in operational revenue, almost 1,772 billion of it sponsorship and perimeter advertising; about 1,735 billion tomans was recognised from Persian Gulf Petrochemical Industries, Esteghlal's majority shareholder.' Published 3 Shahrivar 1405 (25 August 2026), analysing the club's filed financial statements."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Khabar Foori (relaying ISNA figures): پشت پرده درآمدهای نجومی استقلال/ لقمه آماده هلدینگ (behind Esteghlal's vast revenues)",
+        "date": "2026-08-25",
+        "url": "https://www.khabarfoori.com/fa/tiny/news-3240258",
+        "quote": "استقلال در شش‌ماهه اخیر درآمد نزدیک به ۲ هزار میلیاردی ثبت کرده، اما بخش عمده آن از قرارداد با سهامدار اصلی باشگاه، صنایع پتروشیمی خلیج فارس، آمده است.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Translation: 'In the last six months Esteghlal has recorded revenue close to 2,000 billion tomans, but the bulk of it comes from a contract with the club's majority shareholder, Persian Gulf Petrochemical Industries.' Published 3 Shahrivar 1405 (25 August 2026)."
+      }
+    ]
+  },
+  {
     "id": "etihad-adq-ownership-2022",
     "kind": "ownership",
     "ownerIds": [
@@ -7747,17 +8389,43 @@
     "reviewed": false
   },
   {
+    "id": "european-food-euro-cake-brand",
+    "kind": "ownership",
+    "ownerIds": [
+      "european-food"
+    ],
+    "text": "Euro Cake (ยูโร่ เค้ก) is a snack-cake brand of European Food Public Company Limited (บริษัท ยูโรเปี้ยนฟู้ด จำกัด (มหาชน)).",
+    "short": "Euro Cake is a brand of European Food PCL.",
+    "source": {
+      "name": "European Food PCL - official site (eurofood.co.th), 'Euro Cake รสใหม่!'",
+      "date": "2026-10-01",
+      "url": "https://www.eurofood.co.th/th",
+      "quote": "ผลิตภัณฑ์พัฟเค้กสอดไส้ครีมมะพร้าว รสชาติใหม่ล่าสุด ภายใต้แบรนด์ ยูโร่ เค้ก",
+      "note": "The company site (footer: 'บริษัท ยูโรเปี้ยนฟู้ด จำกัด (มหาชน)') presents the puff cake under the ยูโร่ เค้ก (Euro Cake) brand; the about-us timeline lists ยูโร่เค้ก among the company's own brands.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "everbank-owner-record",
     "kind": "ownership",
     "ownerIds": [
       "everbank-owner"
     ],
-    "text": "EverBank is a privately held commercial bank owned by private equity investors (Stone Point Capital, Warburg Pincus, Reverence Capital, etc.) with no state ownership.",
-    "short": "EverBank is a privately held commercial bank owned by private equity investors (Stone Point Capital, Warburg Pincus, Reverence Capital, etc.) with no state….",
+    "text": "EverBank is owned by funds managed by Stone Point Capital, Warburg Pincus, Reverence Capital Partners, Sixth Street and Bayview Asset Management, each of which holds a non-controlling interest, alongside TIAA, which retains a non-controlling stake.",
+    "short": "EverBank is owned by funds managed by Stone Point Capital, Warburg Pincus, Reverence Capital Partners, Sixth Street and Bayview Asset Management, each….",
     "source": {
-      "name": "Stone Point Capital EverBank page",
-      "date": "2026-09-24",
-      "url": "https://stonepoint.com/company/everbank"
+      "name": "TIAA press release: TIAA Completes Sale of TIAA Bank to Private Investors (via Stone Point Capital news)",
+      "date": "2023-08-01",
+      "url": "https://www.stonepoint.com/news/tiaa-completes-sale-of-tiaa-bank-to-private-investors-bank-now-doing-business-as-everbank/",
+      "quote": "The new investors that now each own non-controlling interests in EverBank are funds managed by Stone Point Capital, Warburg Pincus, Reverence Capital Partners, Sixth Street and Bayview Asset Management.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "reviewed": false
   },
@@ -8501,6 +9169,38 @@
     "reviewed": false
   },
   {
+    "id": "ford-eeoc-buffalo-harassment",
+    "kind": "record",
+    "ownerIds": [
+      "ford-motor-company"
+    ],
+    "text": "The EEOC's investigation found reasonable cause to believe that Ford personnel at the company's Buffalo Stamping Plant subjected numerous employees to harassment and discrimination based on race and national origin; Ford agreed to pay $2.3 million to settle the 2021 charge, and the conciliation agreement requires anti-discrimination training and three years of reporting to the EEOC.",
+    "short": "EEOC found reasonable cause of race and national origin harassment at Ford's Buffalo Stamping Plant; Ford paid $2.3 million to settle.",
+    "source": {
+      "name": "U.S. Equal Employment Opportunity Commission",
+      "date": "2026-09-01",
+      "url": "https://www.eeoc.gov/newsroom/ford-motor-company-pay-23-million-resolve-eeoc-race-and-national-origin-harassment-charge",
+      "quote": "The EEOC's investigation found reasonable cause to believe that Ford personnel at the facility subjected numerous employees to harassment and discrimination based on race and national origin.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-scout (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Buffalo Toronto Public Media",
+        "date": "2026-09-02",
+        "url": "https://www.btpm.org/local/2026-09-02/ford-to-pay-2-3-million-to-settle-ethnic-harassment-charge-at-hamburg-plant",
+        "quote": "According to the EEOC, an investigation found reasonable cause to believe Ford employees were targeting Black, Native American, Hispanic and other workers of various national or ethnic origins through graffiti left in several areas including break rooms and restrooms.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-scout (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "ford-motor-company-record",
     "kind": "ownership",
     "ownerIds": [
@@ -8558,6 +9258,38 @@
       },
       "note": "Substantial Shareholders section: 'Fosun Holdings ... Fosun International Holdings 5,921,160,734 72.78%'. Fosun's company profile (https://en.fosun.com/about/company.html): 'In 2007, Fosun International Limited was listed on the main board of the Hong Kong Stock Exchange (stock code: 00656.HK).'"
     },
+    "reviewed": false
+  },
+  {
+    "id": "foundation-building-materials-lowes-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "lowes-companies"
+    ],
+    "text": "American Securities and CD&R completed the sale of Foundation Building Materials, Inc. to Lowe's Companies, Inc. (NYSE: LOW) in October 2025, in a transaction valued at approximately $8.8 billion.",
+    "short": "FBM has been owned by Lowe's Companies since October 2025.",
+    "source": {
+      "name": "American Securities LLC: American Securities and CD&R Complete $8.8 Billion Foundation Building Materials Sale",
+      "date": "2025-10-09",
+      "url": "https://www.american-securities.com/news/press-release/american-securities-and-cdr-complete-88b-foundation-building-materials-sale/",
+      "quote": "announced they completed the sale of Foundation Building Materials, Inc. (“FBM” or the “Company”), a leading building materials and construction products distribution company, to Lowe’s Companies, Inc. (“Lowe’s”) (NYSE: LOW), in a transaction valued at approximately $8.8 billion",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Sports Business Journal: Oak View Group set to sell Angels' new jersey patch sponsorship",
+        "date": "2026-03-09",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2026/03/09/oak-view-group-set-to-sell-angels-new-jersey-patch-sponsorship/",
+        "quote": "that 380+ location building materials distributor was acquired by Lowe’s last year for $8.8B",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -9095,6 +9827,38 @@
     "reviewed": false
   },
   {
+    "id": "geico-berkshire-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "berkshire-hathaway"
+    ],
+    "text": "The GEICO group of insurance companies is wholly owned by Berkshire Hathaway Inc.",
+    "source": {
+      "name": "GEICO: Corporate Ownership",
+      "date": "2026-10-01",
+      "url": "https://www.geico.com/about/corporate/corporate-ownership/",
+      "quote": "The GEICO group is wholly owned by Berkshire Hathaway Inc.",
+      "note": "Page shows no publication date; its footer reads ©2026 GEICO. Date is the day the page was opened.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Berkshire Hathaway Inc.: Form 10-K for the year ended December 31, 2025 (SEC)",
+        "date": "2026-03-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm",
+        "quote": "Berkshire's insurance underwriting operations include the following groups: (1) GEICO, (2) Berkshire Hathaway Primary Group and (3) Berkshire Hathaway Reinsurance Group.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "genesys-record",
     "ownerIds": [
       "genesys"
@@ -9415,6 +10179,26 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "government-of-belgium-owns-lotto",
+    "kind": "ownership",
+    "ownerIds": [
+      "government-of-belgium"
+    ],
+    "text": "The Belgian National Lottery, whose brand is Lotto, is a public law limited company that comes under the direct supervision of the Belgian government via the Minister of Finance and the Minister of the Budget.",
+    "short": "The National Lottery (Lotto) is a public-law company under direct Belgian government supervision.",
+    "source": {
+      "name": "FPS Finance (Belgium.be): National Lottery",
+      "date": "2026",
+      "url": "https://finance.belgium.be/en/about_fps/institutions_dependent_upon_fps_finance/national_lottery",
+      "quote": "The National Lottery comes under the direct supervision of the government (via the Minister of Finance and the Minister of the Budget).",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -9803,15 +10587,16 @@
     "ownerIds": [
       "guggenheim-owner"
     ],
-    "text": "The Los Angeles Dodgers were bought in 2012 by the private investor group operating as Guggenheim Baseball Management (including Mark Walter, Todd Boehly, Peter Guber, Magic Johnson and Bobby Patton) -- a privately held ownership group, not a company with public institutional or retail shareholders.",
+    "text": "Guggenheim Baseball Management closed its $2 billion purchase of the Los Angeles Dodgers and Dodger Stadium in May 2012; Mark Walter, CEO of Guggenheim Partners, was the controlling partner, and the investor group included Peter Guber, Todd Boehly and Bobby Patton.",
     "source": {
-      "name": "MLB article on Dodgers sale to Guggenheim",
+      "name": "MLB.com: Dodgers sale to Guggenheim Baseball Management closed",
       "date": "2012-05-01",
       "url": "https://www.mlb.com/news/dodgers-sale-to-guggenheim-baseball-management-closed-c30125872",
-      "quote": "The investor group includes Mandalay Entertainment chairman Peter Guber, Guggenheim Partners president Todd Boehly and Texas energy investor Bobby Patton.",
+      "quote": "The sale of the Los Angeles Dodgers became official on Tuesday as Guggenheim Baseball Management closed its $2 billion purchase of the club and Dodger Stadium from Frank McCourt.",
+      "note": "mlb.com returns 403 to scripts; the page was opened via the Wayback Machine capture of 2026-08-25, where the quote appears verbatim.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -9901,6 +10686,26 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "haix-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "haix-schuhe-gmbh"
+    ],
+    "text": "HAIX Schuhe Produktions und Vertriebs GmbH is a company registered in the commercial register of the Regensburg Local Court (HRB 4528), based in Mainburg.",
+    "source": {
+      "name": "HAIX Schuhe Produktions und Vertriebs GmbH: Impressum",
+      "date": "2026",
+      "url": "https://www.haix.de/impressum",
+      "quote": "eingetragen im Handelsregister des Amtsgerichtes Regensburg Handelsregisternummer HRB 4528",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Translation: 'registered in the commercial register of the Regensburg Local Court, commercial register number HRB 4528'."
+    },
     "reviewed": false
   },
   {
@@ -10310,6 +11115,49 @@
       },
       "note": "Same statement: 'Its shares are listed on the Amsterdam Stock Exchange, Euronext Amsterdam.' It also says FEMSA sold its shares in the Company and Heineken Holding N.V. in February and May 2023."
     },
+    "reviewed": false
+  },
+  {
+    "id": "heise-medien-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "heise-medien-gmbh-co-kg"
+    ],
+    "text": "Heise Medien GmbH & Co. KG is a media limited partnership based in Hannover. Its legal notice calls it “a company of the Heise Gruppe”, and the Heise Gruppe names its shareholders as Ansgar Heise, Christian Heise and, since April 2023, Ansgar Heise’s three daughters, Charlotte, Johanna and Luise Heise.",
+    "source": {
+      "name": "heise online: Impressum",
+      "date": "2026",
+      "url": "https://www.heise.de/impressum.html",
+      "quote": "Heise Medien GmbH & Co. KG Karl-Wiechert-Allee 10 30625 Hannover",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "heise online: Impressum",
+        "date": "2026",
+        "url": "https://www.heise.de/impressum.html",
+        "quote": "Ein Unternehmen der Heise Gruppe",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "claude-maint-928 (Claude Code, run by @Schnitzel)"
+        },
+        "note": "Translation: 'A company of the Heise Gruppe'. The same legal notice names Heise Medien GmbH & Co. KG as responsible for the site."
+      },
+      {
+        "name": "heise group: Über uns",
+        "date": "2026",
+        "url": "https://www.heisegroup.de/ueber-uns.html",
+        "quote": "Seit April 2023 sind die drei Töchter von Ansgar Heise Gesellschafterinnen der Heise Gruppe.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "claude-maint-928 (Claude Code, run by @Schnitzel)"
+        },
+        "note": "Translation: 'Since April 2023, Ansgar Heise's three daughters have been shareholders of the Heise Gruppe.' Under the heading 'Die Gesellschafter' (the shareholders) the page lists Ansgar Heise ('Geschäftsführender Gesellschafter', managing shareholder), Christian Heise ('ist Gesellschafter der Heise Gruppe', is a shareholder of the Heise Gruppe) and Charlotte, Johanna and Luise Heise."
+      }
+    ],
     "reviewed": false
   },
   {
@@ -10860,6 +11708,27 @@
     "reviewed": false
   },
   {
+    "id": "horiba-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "horiba"
+    ],
+    "text": "HORIBA, Ltd. (TSE Prime code 6856) lists its top 10 shareholders as of 30 June 2026 as The Master Trust Bank of Japan, Ltd. (trust account, 12.21%), Custody Bank of Japan, Ltd. (trust account, 7.47%), UBS AG London (3.98%), Atsushi Horiba (2.63%), Stichting Pensioenfonds Zorg en Welzijn (a Dutch sector pension fund, 2.51%), State Street Bank and Trust Company (two accounts, 2.34% and 2.17%), HORIBA Raku-Raku Kai (2.02%), The Bank of Kyoto, Ltd. (1.97%) and its employee stock-ownership association (1.67%).",
+    "short": "HORIBA is Tokyo-listed; its largest holders are trust banks (Master Trust 12.21%, Custody Bank 7.47%).",
+    "source": {
+      "name": "HORIBA: Stock Information",
+      "date": "2026-06-30",
+      "url": "https://www.horiba.com/int/company/investor-relations/stock-information/",
+      "quote": "The Master Trust Bank of Japan, Ltd.(trust account) 5,132 12.21",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Page headed 'Stock Information. As of June 30, 2026' and 'Top 10 Shareholders'."
+    },
+    "reviewed": false
+  },
+  {
     "id": "hovione-family-owned",
     "kind": "ownership",
     "ownerIds": [
@@ -11071,6 +11940,38 @@
     "reviewed": false
   },
   {
+    "id": "humanas-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "humanas-pflege-gmbh-co-kg"
+    ],
+    "text": "Humanas Pflege GmbH & Co. KG is a limited partnership registered in the commercial register of the Stendal Local Court (HRA 5861), based in Colbitz. Humanas names Ina Kadlubietz and Dr. Jörg Biastoch as its two managing shareholders and calls itself a family company.",
+    "source": {
+      "name": "Humanas Pflege GmbH & Co. KG: Impressum",
+      "date": "2026",
+      "url": "https://www.humanas.de/impressum/",
+      "quote": "Humanas Pflege GmbH & Co. KG Südstraße 1 39326 Colbitz",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Humanas Pflege GmbH & Co. KG: Humanas bestellt erstmals Geschäftsführer",
+        "date": "2024-03-01",
+        "url": "https://www.humanas.de/humanas-bestellt-erstmals-geschaeftsfuehrer/",
+        "quote": "erklären die beiden geschäftsführenden Gesellschafter Ina Kadlubietz und Dr. Jörg Biastoch",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "claude-maint-928 (Claude Code, run by @Schnitzel)"
+        },
+        "note": "Translation: '... explain the two managing shareholders Ina Kadlubietz and Dr. Jörg Biastoch'. The post says Fabian Biastoch, appointed managing director from 1 March 2024, is the first managing director from outside the circle of shareholders, and quotes the two shareholders on carrying on 'das Familienunternehmen' (the family company)."
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "hummel-thornico-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -11175,6 +12076,38 @@
     "reviewed": false
   },
   {
+    "id": "i-k-hofmann-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "i-k-hofmann-gmbh"
+    ],
+    "text": "I. K. Hofmann GmbH is a company registered in the commercial register of the Nuremberg Local Court (HRB 6852), based in Nuremberg. Its website calls its founder, Ingrid Hofmann, its sole shareholder.",
+    "source": {
+      "name": "I. K. Hofmann GmbH: Impressum",
+      "date": "2026",
+      "url": "https://www.hofmann.info/impressum/",
+      "quote": "I. K. Hofmann GmbH Lina-Ammon-Str. 19 90471 Nürnberg",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "I. K. Hofmann GmbH: Ingrid Hofmann: Von der Vision zur Erfolgsstory",
+        "date": "2026",
+        "url": "https://www.hofmann.info/hofmann-personal/ingrid-hofmann/",
+        "quote": "Mit dabei sind Ingrid Hofmann und Sonja Heinrich. Mutter und Tochter. Die eine ist Gründerin und Alleingesellschafterin, die andere Unternehmerin der nächsten Generation.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "claude-maint-928 (Claude Code, run by @Schnitzel)"
+        },
+        "note": "Translation: 'Ingrid Hofmann and Sonja Heinrich take part. Mother and daughter. One is the founder and sole shareholder, the other an entrepreneur of the next generation.' The page is the company's portrait of its founder, Ingrid Hofmann."
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "ibm-corp-record",
     "kind": "ownership",
     "ownerIds": [
@@ -11189,6 +12122,26 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "ibotta-public-listing",
+    "kind": "ownership",
+    "ownerIds": [
+      "ibotta-owner"
+    ],
+    "text": "Ibotta, Inc. is a listed company: its stock trades on the New York Stock Exchange under the symbol IBTA.",
+    "short": "Ibotta, Inc. trades on the NYSE under IBTA.",
+    "source": {
+      "name": "Ibotta, Inc. investor relations: FAQ",
+      "date": "2026",
+      "url": "https://investors.ibotta.com/company-information/faq",
+      "quote": "Our stock is traded on the NYSE under the symbol IBTA.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -11419,6 +12372,26 @@
     ]
   },
   {
+    "id": "intermarche-mousquetaires-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "groupement-mousquetaires"
+    ],
+    "text": "Intermarché is one of the seven brands of the Groupement Mousquetaires, an organisation bringing together more than 3,000 independent entrepreneurs.",
+    "short": "Intermarché is a brand of the Groupement Mousquetaires.",
+    "source": {
+      "name": "Lotto-Intermarché: Intermarché (partner page)",
+      "date": "2026",
+      "url": "https://www.lotto-intermarche.be/en/partner/intermarche",
+      "quote": "Intermarché is one of the seven brands of the Groupement Mousquetaires, an organisation bringing together more than 3,000 independent entrepreneurs",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "intermountain-health-record",
     "kind": "ownership",
     "ownerIds": [
@@ -11477,6 +12450,26 @@
     "reviewed": false
   },
   {
+    "id": "interwetten-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "wolfgang-fabian"
+    ],
+    "text": "Interwetten is an online betting operator run via Interwetten Gaming Ltd (Malta). In December 2018, iGaming trade press described Wolfgang Fabian as the founder and majority owner of Interwetten; no change of control since then was found in an accessible secondary source.",
+    "short": "Founder Wolfgang Fabian described as majority owner of Interwetten (2018).",
+    "source": {
+      "name": "5 Star iGaming Media: Dominik Beier becomes CEO of Interwetten",
+      "date": "2018-12-21",
+      "url": "https://5star.media/2018/12/21/dominik-beier-becomes-ceo-of-interwetten",
+      "quote": "the founder and majority owner of Interwetten, Wolfgang Fabian, initiates the generational change",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "intuit-major-holders-2026",
     "kind": "ownership",
     "ownerIds": [
@@ -11496,22 +12489,94 @@
     "reviewed": false
   },
   {
+    "id": "iran-executions-2025-record",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-iran",
+      "oil-industry-pension-fund",
+      "pgpic",
+      "pidmco"
+    ],
+    "text": "Iranian authorities carried out over 2,000 executions in 2025 — the highest number of known executions since the late 1980s — over half of them for drug-related offences (Human Rights Watch, citing the Abdorrahman Boroumand Center); Amnesty International had already recorded over 1,000 executions by September 2025, its highest yearly count for Iran in at least 15 years.",
+    "short": "Iran carried out over 2,000 executions in 2025, the highest in decades.",
+    "source": {
+      "name": "Human Rights Watch, World Report 2026: Iran",
+      "date": "2026-02-04",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/iran",
+      "quote": "By the end of 2025, authorities had carried out over 2,000 executions, according to the Abdorrahman Boroumand Center for Human Rights in Iran, the highest number of known executions since the late 1980s.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Amnesty International: Iran: Over 1,000 people executed as authorities step up horrifying assault on right to life",
+        "date": "2025-09-26",
+        "url": "https://www.amnesty.org/en/latest/news/2025/09/iran-over-1000-people-executed-as-authorities-step-up-horrifying-assault-on-right-to-life/",
+        "quote": "Iranian authorities have executed over 1,000 people thus far in 2025, the highest number of yearly executions in Iran that the organization has recorded in at least 15 years",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "iran-ffmi-crimes-against-humanity-record",
+    "kind": "record",
+    "ownerIds": [
+      "government-of-iran",
+      "oil-industry-pension-fund",
+      "pgpic",
+      "pidmco"
+    ],
+    "text": "The UN Independent International Fact-Finding Mission on Iran found that the government's repression of the 2022 'Woman, Life, Freedom' protests — unlawful killings, torture, rape, enforced disappearances and gender persecution — included serious violations amounting to crimes against humanity; it cited credible figures of up to 551 protesters killed, among them at least 49 women and 68 children.",
+    "short": "UN Fact-Finding Mission: Iran's repression of the 2022 protests included crimes against humanity.",
+    "source": {
+      "name": "OHCHR: Iran: Institutional discrimination against women and girls enabled human rights violations and crimes against humanity in the context of recent protests, UN Fact-Finding Mission says (archived copy)",
+      "date": "2024-03-08",
+      "url": "http://web.archive.org/web/20260919003119/https://www.ohchr.org/en/press-releases/2024/03/iran-institutional-discrimination-against-women-and-girls-enabled-human",
+      "quote": "serious human rights violations by the Government of Iran, many amounting to crimes against humanity",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "ohchr.org returned HTTP 403 to this script on 2026-10-01; the quote was verified on the Wayback Machine copy (capture 2026-09-19). The report details extra-judicial killings, arbitrary detention, torture, rape and enforced disappearances in the repression of the protests that began 16 September 2022."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "The Guardian: UN: Iran committed crimes against humanity during protest crackdown",
+        "date": "2024-03-08",
+        "url": "https://www.theguardian.com/global-development/2024/mar/08/un-iran-committed-crimes-against-humanity-during-protest-crackdown",
+        "quote": "The Iranian regime's human rights violations during its brutal suppression of protests in 2022 amount to crimes against humanity, a UN fact-finding mission (FFM) has said.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
     "id": "iren-owner-record",
     "kind": "ownership",
     "ownerIds": [
       "iren-owner"
     ],
-    "text": "IREN Limited is an ASX- and Nasdaq-listed AI cloud infrastructure company with dispersed institutional ownership and no state shareholder above 5% threshold.",
-    "short": "IREN Limited is an ASX- and Nasdaq-listed AI cloud infrastructure company with dispersed institutional ownership and no state shareholder above 5% threshold.",
+    "text": "IREN Limited's 2025 proxy statement lists no beneficial owner of more than 5% of its ordinary shares as of 31 August 2025.",
+    "short": "IREN Limited has no shareholder above 5%.",
     "source": {
-      "name": "IREN Limited Marketscreener page",
-      "date": "2026-09-24",
-      "url": "https://www.marketscreener.com/quote/stock/IREN-LIMITED-129472358/company-shareholders",
-      "quote": "Governments 0.48%",
+      "name": "IREN Limited: Definitive Proxy Statement (Schedule 14A) for the 2025 Annual Meeting, 'Security Ownership of Certain Beneficial Owners and Management' (SEC EDGAR)",
+      "date": "2025-10-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036125037383/ny20053824x2_def14a.htm",
+      "quote": "Principal Shareholders: None",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
-      }
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The table lists every person or group known to own more than 5% of the ordinary or B Class shares; the only row under 'Principal Shareholders' is 'None'."
     },
     "reviewed": false
   },
@@ -11683,6 +12748,38 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "jcorp-state-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "government-of-johor"
+    ],
+    "text": "Johor Corporation (JCorp) is a statutory body established under Johor Corporation Enactment No. 4 of 1968, whose Board of Directors is chaired ex officio by the Chief Minister of Johor.",
+    "source": {
+      "name": "BIX Malaysia: Principal terms and conditions of Johor Corporation's RM3.5 billion Sukuk Wakalah programme",
+      "date": "2022-03-02",
+      "url": "https://www.bixmalaysia.com/bixapi/search/DownloadDocument?DocID=90020&DocTypeID=3",
+      "quote": "Chairman of the Board of Directors of the Issuer shall be held by a person for the time being holding the office of the Chief Minister of Johor",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "The terms also state JCorp is 'a statutory body incorporated under Johor Corporation Enactment No. 4, 1968 ... as a development agency and public enterprise'."
+    },
+    "additionalSources": [
+      {
+        "name": "Johor Corporation (JCorp): Who We Are",
+        "date": "",
+        "url": "https://www.jcorp.com.my/who-we-are/",
+        "quote": "Johor Corporation (JCorp) is Johor's principal state development institution",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -12303,6 +13400,25 @@
     ]
   },
   {
+    "id": "kingroyal-media-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "kingroyal-media-ltd"
+    ],
+    "text": "The Kingroyal Media website's About Us page says Kingroyal Media is operated by Kingroyal Media Company LTD, based in Cyprus.",
+    "source": {
+      "name": "Kingroyal Media: About Us",
+      "date": "2026",
+      "url": "https://kingroyal.media/about-us/",
+      "quote": "Kingroyal Media is operated by Kingroyal Media Company LTD, based in Cyprus",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "kkcg-record",
     "ownerIds": [
       "kkcg"
@@ -12394,6 +13510,38 @@
     "reviewed": false
   },
   {
+    "id": "kroger-injury-verdict-2025",
+    "kind": "record",
+    "ownerIds": [
+      "kroger-owner"
+    ],
+    "text": "In June 2025 a jury ordered Kroger to pay more than $75 million to an HVAC technician who lost part of both hands after a defective refrigerant exploded while he worked at an Oakland County Kroger store in 2020.",
+    "source": {
+      "name": "FOX 2 Detroit – 'Kroger ordered to pay $75M+ to man who lost part of hands while working at Michigan store'",
+      "date": "2025-06-18",
+      "url": "https://www.fox2detroit.com/news/kroger-ordered-pay-75m-man-who-lost-part-hands-while-working-michigan-store",
+      "quote": "A man who suffered severe injuries when a defective refrigerant exploded while he worked at an Oakland County Kroger store will receive more than $75 million from the company.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "scout-review-929"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "ClickOnDetroit (WDIV Local 4) – 'Oakland County jury awards nearly $77M to man who lost fingers in Kroger chemical explosion'",
+        "date": "2025-06-18",
+        "url": "https://www.clickondetroit.com/news/local/2025/06/18/oakland-county-jury-awards-nearly-77m-to-man-who-lost-fingers-in-kroger-chemical-explosion/",
+        "note": "Different publisher from FOX 2 Detroit, but both reports draw on Marko Law's announcement of the verdict; Bloomberg Law, Law360 and The Detroit News also covered it.",
+        "quote": "an Oakland County jury rendered a record-breaking verdict against the Kroger Company of Michigan",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "scout-review-929"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "kroger-major-holders-2026",
     "kind": "ownership",
     "ownerIds": [
@@ -12410,6 +13558,30 @@
         "by": "rating-review-2026-09-27"
       }
     },
+    "additionalSources": [
+      {
+        "name": "Business Quant: Kroger Co (KR) Institutional Ownership",
+        "date": "2026-06-30",
+        "url": "https://businessquant.com/stocks/kr/institutional-ownership",
+        "note": "Independent aggregator; its 13F figures and dates differ from the proxy's record date, but name the same three holders among Kroger's largest.",
+        "quote": "Kroger's 10 largest shareholders as of June 2026 include BlackRock, Inc. (54.33Mn), Berkshire Hathaway Inc (39.0Mn), VANGUARD CAPITAL MANAGEMENT LLC (35.52Mn), VANGUARD PORTFOLIO MANAGEMENT LLC (30.96Mn), State Street Corp (29.23Mn)",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "MarketBeat: The Kroger Co. (KR) Institutional Ownership",
+        "date": "2026-10-01",
+        "url": "https://www.marketbeat.com/stocks/NYSE/KR/institutional-ownership/",
+        "note": "Live page; its latest 13F table carries a 9/15/2026 position date.",
+        "quote": "The most heavily invested institutionals were Vanguard Group Inc. ($4.82B), BlackRock Inc. ($3.02B), Berkshire Hathaway Inc ($2.17B), State Street Corp ($1.62B)",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -12597,6 +13769,48 @@
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       },
       "note": "Page without a date; opened 2026-09-29."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "kyocera-corporation-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "kyocera-corporation"
+    ],
+    "text": "Kyocera Corporation (TSE Prime code 6971) lists its top 10 shareholders as of 31 March 2026 as The Master Trust Bank of Japan, Ltd. (trust account, 23.23%), Custody Bank of Japan, Ltd. (trust account, 8.56%), The Bank of Kyoto, Ltd. (4.38%), State Street Bank and Trust Company 505001 (4.10%), the Inamori Foundation (2.84%), Kyocera's own share-investment association (1.75%), JP Morgan Chase Bank 385781 (1.44%), MUFG Bank (1.40%), HSBC Hong Kong (1.31%) and Dai-ichi Life Insurance (1.28%).",
+    "short": "Kyocera is Tokyo-listed; its largest holders are trust banks (Master Trust 23.23%, Custody Bank 8.56%), the Bank of Kyoto (4.38%) and State Street (4.10%).",
+    "source": {
+      "name": "京セラ: 株式基本情報 (Kyocera Corporation: Basic Stock Information)",
+      "date": "2026-03-31",
+      "url": "https://www.kyocera.co.jp/ir/s_info/basic.html",
+      "quote": "日本マスタートラスト信託銀行株式会社（信託口） 306,092 23.23 株式会社日本カストディ銀行（信託口） 112,803 8.56",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Page headed 大株主（上位10名）（2026年3月31日現在）, 'top 10 major shareholders (as of 31 March 2026)'."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "kyoto-financial-group-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "kyoto-financial-group"
+    ],
+    "text": "Kyoto Financial Group, Inc. (TSE Prime code 5844) lists its major shareholders as of 31 March 2026 as The Master Trust Bank of Japan, Ltd. (trust account, 12.37%), Nippon Life Insurance Company (3.84%), State Street Bank and Trust Company 505001 (3.54%), Meiji Yasuda Life Insurance Company (3.52%), Custody Bank of Japan, Ltd. (trust account, 3.12%), Northern Trust Co. (2.57%), Kyocera Corporation (2.24%), Sumitomo Life Insurance Company (1.85%) and the group's employee stock-ownership association (1.79%).",
+    "short": "Kyoto Financial Group is Tokyo-listed; its largest holder is Master Trust at 12.37%.",
+    "source": {
+      "name": "京都フィナンシャルグループ: 株式・社債情報 (Kyoto Financial Group: stock and bond information)",
+      "date": "2026-03-31",
+      "url": "https://www.kyoto-fg.co.jp/ir/stock/stock-information/",
+      "quote": "日本マスタートラスト信託銀行株式会社（信託口） 35,153 12.37",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Page headed 大株主の状況（2026年3月31日現在）, 'status of major shareholders (as of 31 March 2026)'. Ratios net of treasury shares."
     },
     "reviewed": false
   },
@@ -12838,6 +14052,26 @@
     "reviewed": false
   },
   {
+    "id": "leag-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "lausitz-energie-bergbau-ag"
+    ],
+    "text": "Lausitz Energie Bergbau AG is a public limited company (Aktiengesellschaft) registered in the commercial register of the Cottbus Local Court (HRB 3326), based in Cottbus.",
+    "source": {
+      "name": "LEAG: Impressum",
+      "date": "2026",
+      "url": "https://www.leag.de/de/service/impressum/",
+      "quote": "Diensteanbieter im Sinne des § 5 Digitale-Dienste-Gesetz ist die Lausitz Energie Bergbau AG Leagplatz 1 03050 Cottbus",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Translation: 'The service provider within the meaning of § 5 of the Digital Services Act (Digitale-Dienste-Gesetz) is Lausitz Energie Bergbau AG, Leagplatz 1, 03050 Cottbus'."
+    },
+    "reviewed": false
+  },
+  {
     "id": "lebull-southern-stingray-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -12900,6 +14134,26 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "ledger-owner-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "ledger-owner"
+    ],
+    "text": "LEDGER is a trademark owned by Ledger SAS, a company registered at 106 Rue du Temple, 75003 Paris, France.",
+    "short": "Ledger SAS owns the LEDGER trademark (Paris).",
+    "source": {
+      "name": "Ledger – trademark notice",
+      "date": "2026",
+      "url": "https://www.ledger.com/legal",
+      "quote": "Ledger, Ledger Stax, Ledger Flex, Ledger Nano, Ledger Nano S, Ledger OS, Ledger Wallet, [LEDGER] (logo), and [L] (logo) are trademarks owned by Ledger SAS",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -13190,6 +14444,25 @@
     "reviewed": false
   },
   {
+    "id": "loewen-entertainment-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "loewen-entertainment-gmbh"
+    ],
+    "text": "LÖWEN ENTERTAINMENT GmbH is a company registered in the commercial register of the Mainz Local Court (HRB 23327), based in Bingen.",
+    "source": {
+      "name": "LÖWEN ENTERTAINMENT GmbH: Impressum",
+      "date": "2026",
+      "url": "https://www.loewen.de/gruppe/impressum/",
+      "quote": "LÖWEN ENTERTAINMENT GmbH Saarlandstraße 240 55411 Bingen",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "lola-cars-bechtolsheimer",
     "kind": "ownership",
     "ownerIds": [
@@ -13219,6 +14492,26 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "lotto-national-lottery-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "government-of-belgium"
+    ],
+    "text": "Lotto is the Belgian National Lottery's own brand: the Lottery's managing director Jannie Haek calls Lotto 'our brand', and the brand has been the cycling team's main partner since 1985.",
+    "short": "Lotto is the Belgian National Lottery's own brand, on the team since 1985.",
+    "source": {
+      "name": "Lotto-Intermarché: Lotto (partner page)",
+      "date": "2026",
+      "url": "https://www.lotto-intermarche.be/en/partner/lotto",
+      "quote": "Cycling holds a special place in Lotto’s history. Since 1985, our brand has been continuously present in the professional peloton.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -13729,6 +15022,40 @@
     "reviewed": false
   },
   {
+    "id": "man-traton-vw-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "man-truck-bus-se",
+      "traton-se",
+      "volkswagen-ag"
+    ],
+    "text": "MAN Truck & Bus is a company of the TRATON GROUP (MAN SE was merged into TRATON SE in 2021). TRATON SE's largest single shareholder is Volkswagen International Luxemburg S.A., a Volkswagen Group company, which held 87.52% of the share capital at 31 December 2025.",
+    "short": "MAN is a TRATON GROUP brand; Volkswagen holds 87.52% of TRATON.",
+    "source": {
+      "name": "MAN Truck & Bus – Strategy (MAN at a glance)",
+      "date": "2026",
+      "url": "https://www.man.eu/corporate/en/about-man/strategy/strategy.html",
+      "quote": "MAN Truck & Bus is a company of TRATON GROUP and employs some 32,000 people worldwide.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "TRATON 2025 Annual Report: Supplemental Information (shareholder structure)",
+        "date": "2026",
+        "url": "https://annualreport.traton.com/2025/en/combined-management-report/supplemental-information-on-fiscal-year-2025/index.html",
+        "quote": "The largest single shareholder of TRATON SE is Volkswagen International Luxemburg S.A., Strassen, Luxembourg, a Volkswagen Group company, which held 87.52% of the share capital",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "mapei-spa-record",
     "kind": "ownership",
     "ownerIds": [
@@ -14224,8 +15551,8 @@
     "ownerIds": [
       "memorial-hermann-owner"
     ],
-    "text": "Memorial Hermann Health System is a nonprofit, locally governed health system based in Houston, Texas, with no state ownership or control.",
-    "short": "Memorial Hermann Health System is a nonprofit, locally governed health system based in Houston, Texas, with no state ownership or control.",
+    "text": "Memorial Hermann Health System is a non-profit, community-owned health system in the Greater Houston area.",
+    "short": "Memorial Hermann Health System is a non-profit, community-owned health system in the Greater Houston area.",
     "source": {
       "name": "Memorial Hermann About Us page",
       "date": "2026-09",
@@ -14420,6 +15747,39 @@
           "on": "2026-09-28",
           "by": "Schnitzel"
         }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "mhp-porsche-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "porsche-ag"
+    ],
+    "text": "MHP is a subsidiary of Dr. Ing. h.c. F. Porsche AG. On 24 August 2026 Porsche signed an agreement to sell MHP to Tata Consultancy Services (TCS).",
+    "source": {
+      "name": "Porsche Newsroom: Porsche verkauft MHP an Tata Consultancy Services",
+      "date": "2026-08-24",
+      "url": "https://newsroom.porsche.com/de/2026/unternehmen/porsche-mhp-verkauf-tata-consultancy-services-43111.html",
+      "quote": "Porsche und Tata Consultancy Services (TCS) haben heute einen Vertrag unterzeichnet, der den Verkauf der Management- und IT-Beratung MHP an TCS vorsieht.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Translation: 'Porsche and Tata Consultancy Services (TCS) today signed an agreement providing for the sale of the management and IT consultancy MHP to TCS.' The release also says the takeover is subject to regulatory and antitrust approvals and is expected to close in the coming months."
+    },
+    "additionalSources": [
+      {
+        "name": "heise online: Porsche verkauft IT-Beratungstochter MHP an Tata Group",
+        "date": "2026-08",
+        "url": "https://www.heise.de/news/Porsche-verkauft-IT-Beratungstochter-MHP-an-Tata-Group-11425003.html",
+        "quote": "Porsche verkauft IT-Beratungstochter MHP an Tata Group",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Translation: 'Porsche sells IT consulting subsidiary MHP to Tata Group' (the headline). The article says MHP 'ist bislang eine 100-prozentige Porsche-Tochter' (has so far been a wholly owned Porsche subsidiary) and that the authorities still have to approve the takeover."
       }
     ],
     "reviewed": false
@@ -14814,6 +16174,27 @@
     ]
   },
   {
+    "id": "montella-navruz-brand",
+    "kind": "ownership",
+    "ownerIds": [
+      "navruz-international"
+    ],
+    "text": "Montella is a bottled drinking-water brand of Navruz International Corp., a joint Uzbek-American LLC founded in March 2003 that produces soft drinks and bottled water in the Tashkent region.",
+    "short": "Montella is a Navruz International Corp. brand.",
+    "source": {
+      "name": "Navruz International Corp.: 'О компании'",
+      "date": "2026-10-01",
+      "url": "https://navruzint.com/%d0%be-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d0%b8/",
+      "quote": "Совместная Узбекско — Американская компания СП ООО «Navruz International Corp.» была основана в марте 2003 года",
+      "note": "The same page says production of the bottled water brand «Montella» was launched in 2009-2010 ('бутилированной воды «Montella»').",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "monzo-bank-limited-record",
     "kind": "ownership",
     "ownerIds": [
@@ -14828,6 +16209,26 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "motorex-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "motorex-bucher-group-ag"
+    ],
+    "text": "The Motorex lubricants brand belongs to the MOTOREX-BUCHER GROUP AG of Langenthal, Switzerland, which describes itself as an independent family business with MOTOREX AG as parent company of its operating subsidiaries.",
+    "short": "Motorex is an independent Swiss family business (MOTOREX-BUCHER GROUP).",
+    "source": {
+      "name": "MOTOREX: Company",
+      "date": "2026",
+      "url": "https://motorex.com/en-us/Company",
+      "quote": "The MOTOREX-BUCHER GROUP AG continues to operate as an independent family business",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -14917,6 +16318,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "muang-thai-life-shareholding",
+    "kind": "ownership",
+    "ownerIds": [
+      "muang-thai-life-assurance"
+    ],
+    "text": "Muang Thai Life Assurance Public Company Limited is held by Muang Thai Group Holding Co., Ltd. (75.00003%) and Ageas Insurance International N.V. (24.99990%), with others holding 0.00007% (MTL IR Fact Sheet, board data as of 31 March 2025).",
+    "short": "MTL is 75.0% held by Muang Thai Group Holding and 25.0% by Ageas Insurance International.",
+    "source": {
+      "name": "Muang Thai Life Assurance PCL: IR Fact Sheet Vol.96 (Q1/2025), shareholding section",
+      "date": "2025-05-27",
+      "url": "https://www.muangthai.co.th/filestorage/media/download-file/20250527%20IR%20Fact%20Sheet_Vol.96_Q1-25_EN.pdf",
+      "quote": "MTL SHAREHOLDING PROPORTION OVERSEAS INVESTMENT Muang Thai Group  Holding Co., Ltd. 75.00003% Ageas Insurance  International NV 24.99990%",
+      "note": "Company-stated shareholder split; double spaces reproduce the PDF text extraction. MTL converted to a public limited company on 1 Oct 2012 but this float of 0.00007% shows it is effectively unlisted.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -15309,6 +16731,27 @@
     "reviewed": false
   },
   {
+    "id": "newage-products-founders",
+    "kind": "ownership",
+    "ownerIds": [
+      "newage-products-owner"
+    ],
+    "text": "Parag Shah is President and Co-Founder of NewAge Products Inc.",
+    "short": "Co-founder-led NewAge Products Inc.",
+    "source": {
+      "name": "NewAge Products newsroom — New Orleans Pelicans forge exclusive jersey patch and community partnership with NewAge Products",
+      "date": "2024-09-30",
+      "url": "https://newageproducts.com/newsroom/",
+      "quote": "said Parag Shah, President and Co-Founder of NewAge Products Inc.",
+      "note": "The same newsroom page names Frank Spano, Co-Founder and Chief Operating Officer at NewAge Products Inc. (Habitat for Humanity item, December 4, 2023).",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "newrest-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -15544,6 +16987,27 @@
     "reviewed": false
   },
   {
+    "id": "nintendo-co-ltd-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "nintendo-co-ltd"
+    ],
+    "text": "Nintendo Co., Ltd. (TSE code 7974) lists its major shareholders as of 31 March 2026 as The Master Trust Bank of Japan, Ltd. (trust account, 16.05%), Custody Bank of Japan, Ltd. (trust account, 5.02%), JP Morgan Chase Bank 380752 (3.75%), The Bank of Kyoto, Ltd. (3.37%), State Street Bank and Trust Company 505001 (2.67%), Chase Manhattan Bank London (2.50%), Citibank as depositary for depositary shares (2.22%) and GIC Private Limited (2.10%).",
+    "short": "Nintendo is Tokyo-listed; its largest holders are trust banks; Singapore's GIC holds 2.10%.",
+    "source": {
+      "name": "Nintendo Co., Ltd.: Status of Shares (IR)",
+      "date": "2026-03-31",
+      "url": "https://www.nintendo.co.jp/ir/en/stock/information/index.html",
+      "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) 1,850,176 16.05",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Page headed 'Status of Shares ( As of March 31, 2026 )' with a Major Shareholders table; treasury shares excluded."
+    },
+    "reviewed": false
+  },
+  {
     "id": "nissan-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -15761,15 +17225,15 @@
     "ownerIds": [
       "northwestern-mutual-owner"
     ],
-    "text": "Northwestern Mutual is a mutual insurance company owned by its policyowners, with no publicly traded stock and no state shareholder; the sponsorship money comes from a policyowner-owned mutual, not from public investor capital.",
+    "text": "Northwestern Mutual is a mutual company that shares its success in the form of dividends with its policyowners.",
     "source": {
       "name": "Northwestern Mutual (via PR Newswire): Northwestern Mutual Announces Historic $9.2 Billion Dividend Payout in 2026",
       "date": "2025-10-28",
       "url": "https://news.northwesternmutual.com/2025-10-28-Northwestern-Mutual-Announces-Historic-9-2-Billion-Dividend-Payout-in-2026-A-Powerful-Demonstration-of-Companys-Enduring-Commitment-to-Policyowners",
       "quote": "As a proud mutual company, we're committed to sharing our success in the form of dividends with our policyowners at such an extraordinary scale.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -15839,6 +17303,46 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "nrg-energy-owner-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "nrg-energy-inc"
+    ],
+    "text": "NRG Energy, Inc. is a publicly traded company; its common stock is registered on the New York Stock Exchange under the ticker NRG.",
+    "short": "NRG Energy, Inc. is publicly traded on the New York Stock Exchange under the ticker NRG.",
+    "source": {
+      "name": "SEC Form 10-K for NRG Energy, Inc. (fiscal year 2025), cover page",
+      "date": "2026-02-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387126000004/nrg-20251231.htm",
+      "quote": "Common Stock, par value $0.01 NRG New York Stock Exchange",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "nrg-energy-reliant-brand-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "nrg-energy-inc"
+    ],
+    "text": "Reliant is one of the brand names under which NRG Energy, Inc. does business.",
+    "short": "Reliant is a brand of NRG Energy, Inc.",
+    "source": {
+      "name": "SEC Form 10-K for NRG Energy, Inc. (fiscal year 2025)",
+      "date": "2026-02-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387126000004/nrg-20251231.htm",
+      "quote": "with energy under brand names such as NRG, Reliant, Direct Energy, Green Mountain Energy, and Vivint",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -16026,6 +17530,52 @@
       }
     },
     "reviewed": false
+  },
+  {
+    "id": "oil-pension-fund-ministry-subsidiary",
+    "kind": "ownership",
+    "ownerIds": [
+      "oil-industry-pension-fund",
+      "government-of-iran"
+    ],
+    "text": "Iran's Oil Industry Pension Fund is tied to the Ministry of Petroleum: its former chairman describes the fund as a Petroleum Ministry subsidiary; Iran's oil minister chairs the fund's board of trustees, and in September 2024 he appointed the fund's chief and the members of its presiding board.",
+    "short": "The Oil Industry Pension Fund sits under Iran's Petroleum Ministry: the minister chairs its trustees and appoints its board.",
+    "source": {
+      "name": "Asr-e Naft (relaying Miz Naft): استعفای اعضای هیئت‌رئیسه صندوق‌های بازنشستگی نفت (resignation of the oil pension funds' presiding board members)",
+      "date": "2026-07-18",
+      "url": "https://www.asrnaft.ir/Post/62758/%D9%86%D9%81%D8%AA/%D8%A7%D8%B3%D8%AA%D8%B9%D9%81%D8%A7%DB%8C-%D8%A7%D8%B9%D8%B6%D8%A7%DB%8C-%D9%87%DB%8C%D8%A6%D8%AA%E2%80%8C%D8%B1%D8%A6%DB%8C%D8%B3%D9%87-%D8%B5%D9%86%D8%AF%D9%88%D9%82%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%D9%86%D8%B4%D8%B3%D8%AA%DA%AF%DB%8C-%D9%86%D9%81%D8%AA",
+      "quote": "اعضای هیئت‌رئیسه صندوق‌های بازنشستگی، پس‌انداز و رفاه کارکنان صنعت نفت با ارسال نامه‌ای به محسن پاک‌نژاد، وزیر نفت و رئیس هیئت امنای صندوق‌ها",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Translation: 'The members of the presiding board of the oil industry employees' pension, savings and welfare funds, by letter to Mohsen Paknezhad — the Minister of Petroleum and chairman of the funds' board of trustees — ...' (the board resigned over the unresolved management situation at the Khalij Fars holding). Published 27 Tir 1405 (18 July 2026)."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "ana.ir (Azad News Agency): Iran's Oil Industry Pension Fund Implementing 19 Projects",
+        "date": "2024-08-14",
+        "url": "https://ana.ir/en/news/6775/irans-oil-industry-pension-fund-implementing-19-projects",
+        "quote": "The Oil Industry Pension Fund is a Petroleum Ministry subsidiary, dependent on neither the government nor the state budget",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Report of then-chairman Abdol Hossein Bayat's speech at the opening of the 15th Iran Petrochemical Forum, Tehran."
+      },
+      {
+        "name": "EnergyPress: با اعضای جدید صندوق بازنشستگی نفت آشنا شوید (meet the oil pension fund's new members)",
+        "date": "2024-09-09",
+        "url": "https://energypress.ir/%D8%A8%D8%A7-%D8%A7%D8%B9%D8%B6%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A8%D8%A7%D8%B2%D9%86%D8%B4%D8%B3%D8%AA%DA%AF%DB%8C-%D9%86%D9%81%D8%AA-%D8%A2%D8%B4%D9%86%D8%A7/",
+        "quote": "محسن پاک‌نژاد، وزیر نفت با عبدالحسین بیات در صندوق بازنشستگی نفت خداحافظی کرد. پاک‌نژاد همچنین در احکامی جداگانه رئیس صندوق و اعضای اصلی و علی‌البدل هیئت‌رئیسه صندوق‌های بازنشستگی صنعت نفت را منصوب کرد.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Translation: 'Mohsen Paknezhad, the Minister of Petroleum, bade farewell to Abdol Hossein Bayat at the Oil Industry Pension Fund. Paknezhad also appointed, in separate orders, the fund's chief and the principal and substitute members of the oil industry pension funds' presiding board.' Published 19 Shahrivar 1403 (9 September 2024), news code 20915."
+      }
+    ]
   },
   {
     "id": "okta-inc-record",
@@ -16301,6 +17851,27 @@
     "reviewed": false
   },
   {
+    "id": "panasonic-holdings-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "panasonic-holdings"
+    ],
+    "text": "Panasonic Holdings Corporation's largest shareholders (FY2025 table, data as of 31 March 2026, republished from the EDINET annual securities report) are The Master Trust Bank of Japan (trust account, 15.06%), Custody Bank of Japan (trust account, 7.53%), State Street trusts and insurance companies; the only government name in the top 10 is 'GOVERNMENT OF NORWAY' with 1.32%. No state or sovereign shareholder is shown controlling the company.",
+    "short": "Panasonic Holdings' top holders are trust banks and institutions; GOVERNMENT OF NORWAY holds 1.32%.",
+    "source": {
+      "name": "ZaimDoc — パナソニック ホールディングス 大株主一覧 ('2025年度' section, reproduced from EDINET filings)",
+      "date": "2026-03-31",
+      "url": "https://zaimdoc.com/companies/detail/panasonic-holdings/major-shareholder",
+      "note": "Panasonic's own IR site (holdings.panasonic) returned HTTP 403 to scripts; this page republishes the 有価証券報告書 '大株主の状況' table from EDINET.",
+      "quote": "日本マスタートラスト信託銀行株式会社（信託口）（注）２ 東京都港区赤坂一丁目８番１号 赤坂インターシティAIR 351,621,000 15.06%",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "pasifik-holding-record",
     "kind": "ownership",
     "ownerIds": [
@@ -16461,23 +18032,108 @@
     "reviewed": false
   },
   {
+    "id": "pepsico-inc-listed",
+    "kind": "ownership",
+    "ownerIds": [
+      "pepsico-inc"
+    ],
+    "text": "PepsiCo, Inc. is listed on the Nasdaq stock market under the ticker PEP.",
+    "short": "PepsiCo, Inc. is Nasdaq-listed (PEP).",
+    "source": {
+      "name": "PepsiCo – 'PepsiCo Completes Acquisition of Siete Foods'",
+      "date": "2025-01-17",
+      "url": "https://www.pepsico.com/newsroom/press-releases/2025/pepsico-completes-acquisition-of-siete-foods",
+      "quote": "PepsiCo, Inc. (NASDAQ: PEP)",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "pepsico-owns-siete-foods",
+    "kind": "ownership",
+    "ownerIds": [
+      "pepsico-inc"
+    ],
+    "text": "PepsiCo, Inc. closed the acquisition of Garza Food Ventures LLC, doing business as Siete Foods, for $1.2 billion in January 2025.",
+    "short": "PepsiCo owns Siete Foods.",
+    "source": {
+      "name": "PepsiCo – 'PepsiCo Completes Acquisition of Siete Foods'",
+      "date": "2025-01-17",
+      "url": "https://www.pepsico.com/newsroom/press-releases/2025/pepsico-completes-acquisition-of-siete-foods",
+      "quote": "closed the acquisition of Garza Food Ventures LLC, dba Siete Foods (\"Siete\"), for $1.2 billion.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "perdue-farms-child-labor-record",
+    "kind": "record",
+    "ownerIds": [
+      "perdue-farms-owner"
+    ],
+    "text": "The US Department of Labor's Wage and Hour Division found that Perdue Farms jointly employed children in hazardous occupations at its Accomac, Virginia poultry processing plant; Perdue agreed to pay $4 million in restitution and a $150,000 civil penalty.",
+    "short": "US Labor Department found child-labor violations at Perdue's Accomac, Va. plant; $4M restitution, $150K penalty.",
+    "source": {
+      "name": "U.S. Department of Labor: US Department of Labor reaches agreement with Perdue Farms, secures judgment against staffing agency to address child labor violations",
+      "date": "2025-01-15",
+      "url": "https://www.dol.gov/newsroom/releases/whd/whd20250115",
+      "quote": "jointly employed children in hazardous occupations at the Accomac facility to debone and process chicken",
+      "note": "dol.gov blocks scripts; quote checked on the Wayback Machine capture of 2026-04-22.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "scout-review-953"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "USA TODAY: Perdue Farms, JBS USA to pay $4M for child labor violations",
+        "date": "2025-01-17",
+        "url": "https://www.usatoday.com/story/news/nation/2025/01/17/meatpacking-companies-child-labor-restitution/77754639007/",
+        "quote": "accused of employing children since 2020 in “hazardous occupations” at a poultry processing plant in Accomac, Virginia",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "scout-review-953"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "perdue-farms-owner-record",
     "kind": "ownership",
     "ownerIds": [
       "perdue-farms-owner"
     ],
-    "text": "Perdue Farms is a privately held, family-owned agriculture company (fourth-generation Perdue family) with no state ownership.",
-    "short": "Perdue Farms is a privately held, family-owned agriculture company (fourth-generation Perdue family) with no state ownership.",
+    "text": "Perdue Farms is a fourth-generation, family-owned, U.S. food and agriculture company.",
+    "short": "Fourth-generation, family-owned U.S. food and agriculture company.",
     "source": {
-      "name": "Legal Clarity Perdue Farms ownership page",
-      "date": "2026-06-13",
-      "url": "https://legalclarity.org/who-owns-perdue-chicken-its-still-family-owned",
-      "quote": "Perdue Farms is owned entirely by the Perdue family, who have held the company privately for four generations since Arthur and Pearl Perdue founded it in 1920.",
+      "name": "Perdue Farms (press release): PERDUE NAMED OFFICIAL CHICKEN OF THE BALTIMORE RAVENS",
+      "date": "2026-07-20",
+      "url": "https://corporate.perduefarms.com/press-releases/perdue-named-official-chicken-baltimore-ravens",
+      "quote": "We're a fourth-generation, family-owned, U.S. food and agriculture company.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
       }
     },
+    "additionalSources": [
+      {
+        "name": "Baltimore Ravens: Perdue Named Official Chicken of the Baltimore Ravens",
+        "date": "2026-07-20",
+        "url": "https://www.baltimoreravens.com/news/perdue-named-official-chicken-of-the-baltimore-ravens",
+        "quote": "We're a fourth-generation, family-owned, U.S. food and agriculture company.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -16569,6 +18225,78 @@
     "reviewed": false
   },
   {
+    "id": "pgpic-oil-pension-fund-board",
+    "kind": "ownership",
+    "ownerIds": [
+      "oil-industry-pension-fund",
+      "pgpic",
+      "government-of-iran"
+    ],
+    "text": "At PGPIC's September 2026 AGM, three of the five board seats went to the Oil Industry Pension Fund group, one to Sahem-e Edalat (the Justice Shares scheme) and one to Tapico; the state-owned National Petrochemical Company (NPC) left the board.",
+    "short": "The Oil Industry Pension Fund group took 3 of the 5 seats on PGPIC's board in September 2026.",
+    "source": {
+      "name": "Petrochemiha: سه کرسی «هلدینگ خلیج فارس» در اختیار صندوق بازنشستگی نفت؛ NPC کنار رفت (three Khalij Fars holding seats go to the Oil Pension Fund; NPC is out)",
+      "date": "2026-09-16",
+      "url": "https://petrochemiha.ir/%D8%B3%D9%87-%DA%A9%D8%B1%D8%B3%DB%8C-%D9%87%D9%84%D8%AF%DB%8C%D9%86%DA%AF-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3-%D8%AF%D8%B1-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D8%B5%D9%86/",
+      "quote": "ترکیب جدید هیأت‌مدیره «فارس» نشان می‌دهد سه کرسی به مجموعه صندوق بازنشستگی نفت، یک کرسی به سهام عدالت و یک کرسی به تاپیکو اختصاص یافته و شرکت ملی صنایع پتروشیمی نیز از ترکیب حقوقی خارج شده است.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Translation: 'The new Fars board shows three seats assigned to the Oil Industry Pension Fund group, one to Justice Shares and one to Tapico, with the National Petrochemical Company dropped from the statutory composition.' Published 25 Shahrivar 1405 (16 September 2026), reporting the composition announced at the AGM (earlier coverage in the same outlet noted five legal-entity members were elected)."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "EnergyPress: سه صندلی هیات مدیره هلدینگ خلیج فارس به صندوق بازنشستگی صندوق نفت رسید (three Khalij Fars holding board seats go to the Oil Pension Fund)",
+        "date": "2026-09-16",
+        "url": "https://energypress.ir/%D8%B3%D9%87-%D8%B5%D9%86%D8%AF%D9%84%DB%8C-%D9%87%DB%8C%D8%A7%D8%AA-%D9%85%D8%AF%DB%8C%D8%B1%D9%87-%D9%87%D9%84%D8%AF%DB%8C%D9%86%DA%AF-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A8%D9%87/",
+        "quote": "سه صندلی هیأت مدیره فارس به مجموعه صندوق بازنشستگی نفت رسید، یک صندلی به سهام عدالت و یک صندلی به تاپیکو.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Translation: 'Three of Fars's board seats went to the Oil Industry Pension Fund group, one seat to Justice Shares and one seat to Tapico.' Published 25 Shahrivar 1405 (16 September 2026), news code 57909."
+      }
+    ]
+  },
+  {
+    "id": "pgpic-oil-pension-fund-stake",
+    "kind": "ownership",
+    "ownerIds": [
+      "oil-industry-pension-fund",
+      "pgpic",
+      "government-of-iran"
+    ],
+    "text": "The Oil Industry Pension Fund group is the main shareholder of PGPIC (the TSE-listed 'Fars' holding): 38% as of September 2026 (Asr-e Iran, relaying Dideban). In March 2024, EcoIran reported that the fund's affiliates Taban Farda Petrochemical Group and Ehdaf Investment jointly held 30% and were its main shareholders.",
+    "short": "Iran's Oil Industry Pension Fund group holds ~38% of PGPIC and is its main shareholder.",
+    "source": {
+      "name": "Asr-e Iran (relaying Dideban): نفتی ها علیه هلدینگ خلیج فارس؛ مجمع فارس به نصاب نرسید (AGM lacks quorum as the fund group stayed away)",
+      "date": "2026-09-05",
+      "url": "https://www.asriran.com/fa/news/1189430/%D9%86%D9%81%D8%AA%DB%8C-%D9%87%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D9%87%D9%84%D8%AF%DB%8C%D9%86%DA%AF-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3-%D9%85%D8%AC%D9%85%D8%B9-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A8%D9%87-%D9%86%D8%B5%D8%A7%D8%A8-%D9%86%D8%B1%D8%B3%DB%8C%D8%AF",
+      "quote": "این مجمع به رغم حضور ۴۲.۸۹ درصد از سهامداران در پژوهشگاه صنعت نفت، به دلیل خودداری مجموعه صندوق بازنشستگی نفت سهامدار ۳۸ درصدی فارس از حضور در این مجمع، به نصاب قانونی نرسید و برگزار نشد.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Translation: 'Even though 42.89% of shareholders attended at the Research Institute of the Petroleum Industry, the AGM failed to reach legal quorum because the Oil Industry Pension Fund group — holder of 38% of Fars — stayed away.' Published 14 Shahrivar 1405 (5 September 2026), credited to Dideban."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "EcoIran: بزرگترین سهامداران «خلیج فارس» (the largest shareholders of Khalij Fars), archived copy",
+        "date": "2024-03-21",
+        "url": "http://web.archive.org/web/20250318132507/https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D9%86%D9%81%D8%AA-%DA%AF%D8%A7%D8%B2-131/60249-%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3",
+        "quote": "سهامداران عمده فارس گروه پتروشیمی تابان فردا و سرمایه گذاری اهداف که وابسته به شرکت صندوق بازنشستگی نفت هستند مجموعا با ۳۰ درصد، سهامدار اصلی فارس به شمار می روند.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Translation: 'The major shareholders of Fars, the Taban Farda Petrochemical Group and Ehdaf Investment — affiliated with the Oil Industry Pension Fund company — together hold 30% and are the main shareholders of Fars.' The article says its data is as of 15 Esfand 1402 (5 March 2024)."
+      }
+    ]
+  },
+  {
     "id": "philip-morris-international-record",
     "kind": "ownership",
     "ownerIds": [
@@ -16587,6 +18315,41 @@
       }
     },
     "reviewed": false
+  },
+  {
+    "id": "pidmco-pgpic-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "pidmco",
+      "pgpic"
+    ],
+    "text": "Petrochemical Industries Development Management Company (PIDMCO) is a wholly owned subsidiary of PGPIC: 100% owned by PGPIC per company information, and the US Treasury's 7 June 2019 action designates PIDMCO among PGPIC's Iran-based subsidiary petrochemical companies for being owned or controlled by PGPIC.",
+    "short": "PIDMCO is a wholly owned PGPIC subsidiary.",
+    "source": {
+      "name": "Hormuz Group: Petrochemical Industries Development Management Company — company profile",
+      "date": "2026-09-26",
+      "url": "https://hormuz.group/companies/petrochemical-industries-development-management-company/",
+      "quote": "100% owned by Persian Gulf Petrochemical Industries Company (PGPIC), according to PGPIC information current as of 2023",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Page 'Updated 26/09/2026' per its header."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "US Department of the Treasury: Treasury Sanctions Iran's Largest Petrochemical Holding Group and Vast Network of Subsidiaries and Sales Agents",
+        "date": "2019-06-07",
+        "url": "https://home.treasury.gov/news/press-releases/sm703",
+        "quote": "The following are Iran-based PGPIC subsidiary petrochemical companies that OFAC is also designating pursuant to E.O. 13382 for being owned or controlled by PGPIC.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "The immediately following list includes 'Petrochemical Industries Development Management Company'."
+      }
+    ]
   },
   {
     "id": "pif-chaired-by-crown-prince",
@@ -16796,6 +18559,26 @@
     "reviewed": false
   },
   {
+    "id": "pohang-city-patch",
+    "kind": "ownership",
+    "ownerIds": [
+      "pohang-city"
+    ],
+    "text": "The Pohang Steelers' 2026 kit carries a Pohang City patch ('포항시 패치', the hometown patch) on the right sleeve, together with the sponsor patch.",
+    "short": "The right sleeve carries Pohang City's hometown patch.",
+    "source": {
+      "name": "K League: [포항] '전통과 정체성 표현'…포항스틸러스 2026시즌 유니폼 공개 [Pohang Steelers unveil 2026 kits]",
+      "date": "2026-02-10",
+      "url": "https://www.kleague.com/news_view.do?seq=94323&orderBy=seq",
+      "quote": "신규 패치와 포항시 패치가 함께 부착된다",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "pokerstarsnews-tsg-operator",
     "kind": "ownership",
     "ownerIds": [
@@ -16839,6 +18622,218 @@
       }
     },
     "reviewed": false
+  },
+  {
+    "id": "porsche-vw-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "porsche-ag",
+      "volkswagen-ag"
+    ],
+    "text": "Volkswagen AG indirectly holds 75.4% of the share capital of Dr. Ing. h.c. F. Porsche AG, via Porsche Holding Stuttgart GmbH. Porsche AG states that its ordinary shares are held indirectly by Volkswagen AG and Porsche SE, and the majority of its preferred shares indirectly by Volkswagen AG. The Volkswagen Group lists Porsche AG among the companies in which Volkswagen AG holds direct or indirect interests.",
+    "short": "Volkswagen AG indirectly holds 75.4% of Porsche AG’s share capital.",
+    "source": {
+      "name": "Dr. Ing. h.c. F. Porsche AG, Investor Relations: Shareholder Structure",
+      "date": "2026",
+      "url": "https://investorrelations.porsche.com/en/the-share/shareholder-structure",
+      "quote": "Volkswagen AG indirectly holds its shares via Porsche Holding Stuttgart GmbH",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Volkswagen Group Annual Report 2025: Structure and Business Activities",
+        "date": "2026-03-10",
+        "url": "https://annualreport2025.volkswagen-group.com/group-management-report/structure-and-business-activities.html",
+        "quote": "Volkswagen AG holds direct or indirect interests in AUDI AG, SEAT S.A., Škoda Auto a.s., Dr. Ing. h.c. F. Porsche AG",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "Fundamental Information about the Porsche Group",
+        "date": "2026",
+        "url": "https://newsroom.porsche.com/en/annual-sustainability-report/combined-management-report/fundamental-information-about-the-group/",
+        "quote": "Volkswagen AG indirectly holds, via Porsche Holding Stuttgart GmbH, 75.4% of Porsche AG’s share capital.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "claude-maint-928 (Claude Code, run by @Schnitzel)"
+        },
+        "note": "Porsche AG's online Annual and Sustainability Report 2025, combined management report."
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "posco-fantasteel",
+    "kind": "ownership",
+    "ownerIds": [
+      "posco-co"
+    ],
+    "text": "FANTASTEEL is POSCO's advertising campaign; Posco produced it with Nexon in celebration of the 50th anniversary of its first steel mill, and it won the Grand Prix at the 2023 Korea Digital Advertising Festival.",
+    "short": "FANTASTEEL is POSCO's brand campaign.",
+    "source": {
+      "name": "The Korea Herald: Posco's 'Fantasteel' ad campaign nabs awards",
+      "date": "2023-12-25",
+      "url": "https://www.koreaherald.com/article/3289670",
+      "quote": "In celebration, the company joined hands with gaming giant Nexon to produce the \"Fantasteel\" campaign",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "POSCO and Nexon Collaboration Video... 1.1 Million Views in Two Days - The Asia Business Daily",
+        "date": "2023-08-16",
+        "url": "https://www.asiae.co.kr/en/article/2023081610074551402",
+        "quote": "POSCO teamed up with game company Nexon to launch an online advertisement video targeting the younger generation.",
+        "note": "The same article: 'The advertisement slogan \"Fantasteel\" is a compound word combining fantasy and steel.'",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "posco-holdings-myanmar-subsidiaries",
+    "kind": "ownership",
+    "ownerIds": [
+      "posco-holdings"
+    ],
+    "text": "POSCO HOLDINGS INC. (formerly POSCO) lists POSCO COATED & COLOR STEEL Co., Ltd. (56.87%) and Myanmar POSCO C&C Company, Limited (70.00%, held through subsidiaries) among its subsidiaries in its 2021 consolidated financial statements. The Korea Herald (April 2021) calls Posco C&C an affiliate of Posco that owns 70% of its joint venture with MEHL, Myanmar Posco C&C, and reports it said it would buy MEHL's 30% to end the partnership.",
+    "short": "POSCO Holdings' group owns 70% of Myanmar POSCO C&C, its joint venture with MEHL.",
+    "source": {
+      "name": "POSCO HOLDINGS INC. (Formerly, POSCO) and Subsidiaries: Consolidated Financial Statements, December 31, 2021 and 2020 (Form 6-K exhibit 99.1, SEC EDGAR)",
+      "date": "2022-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/889132/000119312522076916/d281877dex991.htm",
+      "quote": "Myanmar POSCO C&C Company,Limited. Steel manufacturing and sales",
+      "note": "The subsidiaries table gives Myanmar POSCO C&C 70.00% held through subsidiaries (country Myanmar) and 'POSCO COATED & COLOR STEEL Co., Ltd. Coated steel manufacturing 56.87' (Pohang). sec.gov blocks scripts without a declared User-Agent; opened with one.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "[Newsmaker] Posco C&C severs ties with Myanmar’s military conglomerate MEHL - The Korea Herald",
+        "date": "2021-04-16",
+        "url": "https://www.koreaherald.com/article/2598577",
+        "quote": "The affiliate of South Korea’s steel giant Posco said it will end its partnership with MEHL by purchasing all the stakes MEHL has in their joint venture, Myanmar Posco C&C Co.",
+        "note": "The same article: 'The steel product manufacturer owns a 70 percent of stake in the joint venture, and it will purchase the remaining 30 percent held by MEHL'.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "posco-holdings-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "posco-holdings"
+    ],
+    "text": "South Korea's National Pension Service (국민연금) held 8.30% of POSCO Holdings in June 2026: 6,576,661 shares as of 18 June, per its disclosure reported by Newsis. Financial Consumer News reports the pension service as the largest shareholder, with BlackRock second (5.2% at the end of 2025).",
+    "short": "South Korea's National Pension Service, POSCO Holdings' largest shareholder, held 8.30% in June 2026.",
+    "source": {
+      "name": "뉴시스 (Newsis): 국민연금, 포스코홀딩스 '단순투자→일반투자' 전환, 이유는? [NPS switches POSCO Holdings holding to 'general investment', why?]",
+      "date": "2026-06-24",
+      "url": "https://mobile.newsis.com/view/NISX20260624_0003681586",
+      "quote": "국민연금은 지난 18일 기준 포스코홀딩스 주식 657만6661주(지분율 8.30%)에 대한 보유 목적을 '일반투자'로 변경했다고 공시했다",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "국민연금, 포스코홀딩스-한화오션-CJ제일제당 투자목적 '일반투자'로 변경 - 금융소비자뉴스",
+        "date": "2026-06-24",
+        "url": "https://www.newsfc.co.kr/news/articleView.html?idxno=79490",
+        "quote": "국민연금의 포스코홀딩스 지분율은 작년 말 7.96%에서 지난 3월 말 8.34%로 늘었다가 지난 23일 기준으로는 8.30%로 다시 줄었다.",
+        "note": "Translation: 'The NPS's stake in POSCO Holdings rose from 7.96% at the end of last year to 8.34% at the end of March, then fell back to 8.30% as of the 23rd.' The same article: '포스코그룹 지주사인 포스코홀딩스의 경우 지난 3월 말 기준 국민연금 지분율은 8.34%로 최대주주다. 2대주주는 글로벌 사모펀드인 블랙록(2025년말 기준 5.2%)이고' (the NPS is the largest shareholder; the second is BlackRock, 5.2% at the end of 2025).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "posco-myanmar-mehl-joint-ventures",
+    "kind": "record",
+    "ownerIds": [
+      "posco-holdings"
+    ],
+    "text": "The UN Independent International Fact-Finding Mission on Myanmar (2019) found that any foreign business activity involving the Myanmar military and its conglomerates MEHL and MEC poses a high risk of contributing to, or being linked to, violations of international human rights and humanitarian law, and that at a minimum these foreign companies contribute to supporting the military's financial capacity. It names POSCO companies' 70% stakes in two joint ventures with MEHL, Myanmar Posco Steel and Myanmar Posco C&C. Amnesty International (2020) named POSCO among MEHL's foreign partners.",
+    "short": "A UN fact-finding mission named POSCO's joint ventures with MEHL, the Myanmar military's conglomerate, among foreign business ties that help fund the military.",
+    "source": {
+      "name": "The economic interests of the Myanmar military (A/HRC/42/CRP.3), Independent International Fact-Finding Mission on Myanmar",
+      "date": "2019-09-16",
+      "url": "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/FFM-Myanmar/EconomicInterestsMyanmarMilitary/A_HRC_42_CRP_3.pdf",
+      "quote": "Some joint ventures between foreign companies and Tatmadaw conglomerates are transparent, such as the 70 per cent stake of Posco Steel Co., Ltd., a South Korean steel company, in Myanmar Posco Steel Company Ltd., a MEHL company.",
+      "note": "Paragraph 143. Paragraph 145 (legal and policy findings): 'The Mission finds that any foreign business activity involving the Tatmadaw and its conglomerates MEHL and MEC poses a high risk of contributing to, or being linked to, violations of human rights law and international humanitarian law. At a minimum, these foreign companies are contributing to supporting the Tatmadaw’s financial capacity.' Its annex of joint ventures lists 'Myanmar Posco C&C Company Ltd MEHL 70% by Posco Coated and Color Steel Co, Ltd.' and 'Myanmar Posco Steel Company Ltd MEHL 70% by Posco Steel Co. Ltd.'",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Myanmar: Leaked documents reveal global business ties to military crimes - Amnesty International",
+        "date": "2020-09-10",
+        "url": "https://www.amnesty.org/en/latest/press-release/2020/09/mehl-military-links-to-global-businesses/",
+        "quote": "MEHL has partnerships with a range of local and foreign businesses including Japanese beer multinational Kirin and South Korean steel giant POSCO.",
+        "note": "The same release quotes Amnesty's Mark Dummett: 'The perpetrators of some of the worst human rights violations in Myanmar’s recent history are among those who benefit from MEHL’s business activities', and lists POSCO among eight companies 'who operate jointly with MEHL in Myanmar'.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "posco-posco-holdings",
+    "kind": "ownership",
+    "ownerIds": [
+      "posco-co",
+      "posco-holdings"
+    ],
+    "text": "The steel business company created in POSCO's 2022 group split runs steel production and sales as a non-listed company that is a 100% subsidiary of POSCO Holdings, and keeps the name POSCO.",
+    "short": "POSCO (the steel company) is a 100% subsidiary of POSCO Holdings.",
+    "source": {
+      "name": "POSCO Group Newsroom: POSCO Confirms Conversion to Holding Company Structure",
+      "date": "2022-02-11",
+      "url": "https://newsroom.posco.com/en/posco-confirms-conversion-to-holding-company-structure/",
+      "quote": "a non-listed company that is a 100% subsidiary of the holding company, and retain the company name POSCO",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "POSCO HOLDINGS INC. (Formerly, POSCO) and Subsidiaries: Consolidated Financial Statements, December 31, 2021 and 2020 (Form 6-K exhibit 99.1, SEC EDGAR)",
+        "date": "2022-03",
+        "url": "https://www.sec.gov/Archives/edgar/data/889132/000119312522076916/d281877dex991.htm",
+        "quote": "Upon completion of the spin-off, the surviving company was renamed as POSCO HOLDINGS INC., and a new subsidiary, POSCO, was established.",
+        "note": "Independent auditors' report (emphasis of matter on the spin-off of 1 March 2022).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "claude-maint-919 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ]
   },
   {
     "id": "poules-adsc-2026",
@@ -16903,6 +18898,37 @@
     "reviewed": false
   },
   {
+    "id": "procter-and-gamble-palm-oil-forced-labour-2016",
+    "kind": "record",
+    "ownerIds": [
+      "procter-and-gamble"
+    ],
+    "text": "Amnesty International's 2016 investigation of palm-oil plantations in Indonesia documented child and forced labour, and traced palm oil to nine companies including Procter & Gamble; it said P&G is highly likely to be supplied by the plantations it investigated.",
+    "source": {
+      "name": "Amnesty International USA – The great palm oil scandal: Labor abuses behind big brand names",
+      "date": "2016-11-28",
+      "url": "https://www.amnestyusa.org/reports/the-great-palm-oil-scandal-labor-abuses-behind-big-brand-names/",
+      "quote": "Unilever, Nestlé, Proctor & Gamble among nine household names contributing to labor abuse",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Deutsche Welle – Report: Multinationals profiting from child labor",
+        "date": "2016-11-29",
+        "url": "https://www.dw.com/en/report-multinationals-profiting-from-child-labor/a-36583113",
+        "quote": "An Amnesty report released Wednesday says Unilever, Nestle and Procter & Gamble are among nine household names contributing to abuse including child and forced labor.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "procter-and-gamble-record",
     "kind": "ownership",
     "ownerIds": [
@@ -16919,6 +18945,18 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "additionalSources": [
+      {
+        "name": "Procter & Gamble – Brands",
+        "date": "2026-10-01",
+        "url": "https://us.pg.com/brands/",
+        "quote": "Personal Grooming Gillette Visit Site Razors & Skin Care",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -17612,6 +19650,26 @@
     "reviewed": false
   },
   {
+    "id": "quiktrip-cadieux-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "quiktrip-owner"
+    ],
+    "text": "QuikTrip Corporation is a privately held convenience store and gasoline service station chain headquartered in Tulsa, Oklahoma, majority-owned by the Cadieux family.",
+    "short": "Cadieux family majority owner",
+    "source": {
+      "name": "Forbes: QuikTrip | Company Overview & News",
+      "date": "2026-08-13",
+      "url": "https://www.forbes.com/companies/quiktrip/",
+      "quote": "The company remains majority-owned by the Cadieux family, with about 20% of ownership held through an employee stock ownership plan (ESOP), reflecting its commitment to employee investment and long-term growth.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "quinta-de-lemos-family-estate",
     "kind": "ownership",
     "ownerIds": [
@@ -17681,6 +19739,61 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "rajachoos-brand-owner",
+    "kind": "ownership",
+    "ownerIds": [
+      "rajachoos"
+    ],
+    "text": "Rajachoos (ราชาชูรส) is the MSG brand of Raja Choos Co., Ltd. (Thai Fermentation Industry Co., Ltd.), a private Thai-Taiwan joint venture (51:49) founded in 1967 that sponsors Ratchaburi FC in 2026/27.",
+    "short": "Rajachoos is the MSG brand of Raja Choos Co., Ltd. (Thai Fermentation Industry), a private Thai-Taiwan joint venture.",
+    "source": {
+      "name": "Raja Choos Co., Ltd. / Thai Fermentation Industry Co., Ltd. - About us (ประวัติความเป็นมา)",
+      "date": "2026-06-08",
+      "url": "http://web.archive.org/web/20260608055943/http://www.xn--b3ca7ec9a6bb1d.com/index.php/th/about-th",
+      "quote": "บริษัท ราชาชูรส จำกัด ก่อตั้งเมื่อวันที่ 26 พฤศจิกายน พ.ศ. 2510 ปัจจุบันมีทุนจดทะเบียน 420 ล้านบาท โดยเป็นการร่วมทุนระหว่างไทยและไต้หวันในสัดส่วนร้อยละ 51 : 49",
+      "note": "Company about page (live site 403s from datacenter IPs; archived 8 June 2026). The same company announced its Ratchaburi FC sponsorship: The Business Plus, 'ราชาชูรส เดินหน้าสนับสนุน ราชบุรี เอฟซี ฤดูกาล 2026/27' (1 Sep 2026) — 'บริษัท ราชาชูรส จำกัด เดินหน้าสนับสนุนสโมสรฟุตบอลราชบุรี เอฟซี ในฤดูกาล 2026/27'.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "rakhsh-khodro-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "daric-investment-group"
+    ],
+    "text": "Rakhsh Khodro Diesel is a subsidiary of the Daric Investment Development Group; the company says all of its shares were transferred from the previous shareholders to Daric Investment in 2018 (1397).",
+    "short": "All of Rakhsh Khodro Diesel's shares were transferred to Daric Investment in 2018.",
+    "source": {
+      "name": "Rakhsh Khodro Diesel: About us (archived by the Wayback Machine)",
+      "date": "2026-06-17",
+      "url": "https://web.archive.org/web/20260617191136/https://rakhshkhodro.com/fa/%D8%B5%D9%81%D8%AD%D9%87/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%A7",
+      "quote": "تمام سهام این شرکت در سال ۱۳۹۷ از سهامداران قبلی به شرکت سرمایه گذاری دریک واگذار شده است",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "The live site (rakhshkhodro.com) was unreachable from the research server; the archived capture carries the same About us text. Persian: all shares transferred to Daric Investment in 1397 (2018)."
+    },
+    "additionalSources": [
+      {
+        "name": "Varzesh3: خسارت گسترده به زیرمجموعه‌های مالک تراکتور (Heavy losses for the Tractor owner's subsidiaries)",
+        "date": "2026-04-05",
+        "url": "https://www.varzesh3.com/news/2352480/%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%DA%AF%D8%B3%D8%AA%D8%B1%D8%AF%D9%87-%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DA%A9-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA%D9%88%D8%B1",
+        "quote": "سهامدار و مالک چندین شرکت تولیدی و خدماتی مانند هواپیمایی آتا، شرکت رخش خودرو دیزل",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Varzesh3 describes Mohammad Reza Zonouzi as owner of Tractor club and shareholder/owner of companies including ATA Airlines and Rakhsh Khodro Diesel."
+      }
+    ],
     "reviewed": false
   },
   {
@@ -17811,6 +19924,26 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "rcb-mka-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "mka-group"
+    ],
+    "text": "The RCB motorcycle-parts brand belongs to MKA Group, a Malaysian mobility group; its own site names RCB PERFORMANCE PARTS SDN. BHD., Puchong, Selangor (reg. 202301049691), behind the brand.",
+    "short": "RCB is the brand of MKA Group (Malaysia).",
+    "source": {
+      "name": "RCB: MKA Group invests in Bitubo's next chapter",
+      "date": "2026-09-11",
+      "url": "https://rcb.com/blogs/news/italian-engineering-global-opportunities-mka-group-invests-in-bitubos-next-chapter",
+      "quote": "MKA Group, the Malaysian-based mobility group behind the globally recognised RCB brand",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -18274,6 +20407,26 @@
     "reviewed": false
   },
   {
+    "id": "rk-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "rk-japan"
+    ],
+    "text": "The RK chain brand belongs to RK Japan Co., Ltd. (RK Takasago Chain), a Japanese motorcycle-chain maker; RK Europe SAS of Houplines, France (the site KTM links to) is described as its subsidiary. RK Japan's stockholders are named as RK South Asia Sdn. Bhd. and Takasago Tekko Co., Ltd.",
+    "short": "RK is the brand of RK Japan Co., Ltd. (Takasago chain group).",
+    "source": {
+      "name": "RK Excel America – Corporate",
+      "date": "2026",
+      "url": "https://rkexcelamerica.com/corporate",
+      "quote": "RK Europe is a subsidiary company of the Japanese famous motorcycle drive chain maker: RK Takasago Chain",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "robinhood-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -18337,6 +20490,26 @@
       "name": "SEC 40-F for Rogers Communications Inc.",
       "date": "2026-03-06",
       "url": "https://www.sec.gov/Archives/edgar/data/733099/000073309926000009/rci-20251231.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "rohto-pharmaceutical-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "rohto-pharmaceutical"
+    ],
+    "text": "Rohto Pharmaceutical Co., Ltd.'s largest shareholders (as of 2026-03-31) were The Master Trust Bank of Japan (trust account, 13.46%), State Street Bank and Trust Company (5.44%), Custody Bank of Japan (trust account, 4.92%) and Yamada Kosan LLC (3.72%, a founding Yamada family vehicle); no state or sovereign shareholder appears in the company's top-10 list.",
+    "short": "Rohto's top holders are trust banks, State Street and the founding family's company; no state shareholder.",
+    "source": {
+      "name": "ロート製薬株式会社 IR: 株式状況 — 株主構成（大株主）",
+      "date": "2026-03-31",
+      "url": "https://www.rohto.co.jp/ir/stock/overview/",
+      "quote": "日本マスタートラスト信託銀行株式会社（信託口） 30,437 13.46 STATE STREET BANK AND TRUST COMPANY 505223 12,302 5.44 株式会社日本カストディ銀行（信託口） 11,139 4.92",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
     },
     "reviewed": false
   },
@@ -18683,6 +20856,38 @@
     "reviewed": false
   },
   {
+    "id": "saeta-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "saeta-international-sports-wear"
+    ],
+    "text": "Saeta is the brand of Saeta International Sports Wear S.A.S., a private Colombian sportswear company founded in Bogotá in 1982 by Pedro Aníbal Carrero, who remains its owner, with members of the Carrero family still in strategic roles.",
+    "short": "Saeta is a private Colombian sportswear company founded and owned by Pedro Aníbal Carrero.",
+    "source": {
+      "name": "Las2orillas: 'El boyacense que pasó de vender dulces a vestir la selección de Haití que hace 52 años no iba a un Mundial'",
+      "date": "2026-06-19",
+      "url": "https://www.las2orillas.co/la-historia-de-saeta-la-pequena-marca-colombiana-que-viste-a-la-seleccion-haiti-que-vuelve-al-mundial/",
+      "quote": "Sigue siendo una empresa colombiana privada, bajo la razón social Saeta International Sports Wear S.A.S., con miembros de la familia Carrero aún al frente de cargos estratégicos.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Infobae: 'Dueño de Saeta, la marca colombiana que fabrica las camisetas de Haití en el Mundial 2026, compartió emotivo mensaje tras el partido con Brasil'",
+        "date": "2026-06-20",
+        "url": "https://www.infobae.com/colombia/2026/06/20/dueno-de-saeta-la-marca-colombiana-que-fabrica-las-camisetas-haiti-en-el-mundial-2026-compartio-emotivo-mensaje-tras-el-partido-con-brasil-sonado/",
+        "quote": "Pedro Aníbal Carrero, fundador y propietario de la marca de ropa deportiva Saeta",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "safilo-hal-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -18764,6 +20969,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "samart-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "samart-corporation"
+    ],
+    "text": "Samart Corporation PCL (listed on the Stock Exchange of Thailand) is controlled by the Vilailuck family: its top-ten major shareholders report of 30 December 2025 shows the Vilailuck Group holding 42.176%, with the other top-ten entries individuals and Thai private companies.",
+    "short": "Samart Corp is SET-listed; the Vilailuck family group holds 42.176%.",
+    "source": {
+      "name": "Samart Corporation PCL: Major Shareholders (investor page)",
+      "date": "2025-12-30",
+      "url": "https://www.samartcorp.com/en/major-shareholders-en/",
+      "quote": "Vilailuck Group (1) 424,500,495 42.176",
+      "note": "The page ('Major shareholders' report on December 30, 2025 prepared by Thailand Securities Depository') lists the Vilailuck group and nine other non-state holders.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -19128,6 +21354,25 @@
     "reviewed": false
   },
   {
+    "id": "schueco-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "schueco-international-kg"
+    ],
+    "text": "Schüco International KG is a limited partnership (Kommanditgesellschaft) registered in the commercial register of the Bielefeld Local Court (HRA 8135), based in Bielefeld.",
+    "source": {
+      "name": "Schüco International KG: Impressum",
+      "date": "2026",
+      "url": "https://www.schueco.com/de/allgemein/impressum",
+      "quote": "Schüco International KG Karolinenstraße 1–15 33609 Bielefeld",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "sco-fonds-de-dotation-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -19263,6 +21508,46 @@
     "reviewed": false
   },
   {
+    "id": "securian-financial-marketing-name",
+    "kind": "ownership",
+    "ownerIds": [
+      "securian-financial-group"
+    ],
+    "text": "Securian Financial is the marketing name for Securian Financial Group, Inc., and its subsidiaries.",
+    "source": {
+      "name": "Securian Financial: Minnesota Twins Jersey Patch Partnership (site footer)",
+      "date": "2026-10-01",
+      "url": "https://www.securian.com/about-us/our-company/minnesota-twins-jersey-patch-partnership.html",
+      "quote": "Securian Financial is the marketing name for Securian Financial Group, Inc., and its subsidiaries.",
+      "note": "Page shows no publication date; its footer reads ©2005-2026 Securian Financial Group, Inc. Date is the day the page was opened.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "securian-minnesota-mutual-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "securian-financial-group",
+      "minnesota-mutual-companies"
+    ],
+    "text": "All of the voting stock of Minnesota Life Insurance Company is owned by Securian Financial Group, Inc., which is a wholly-owned subsidiary of Securian Holding Company, whose ultimate parent is Minnesota Mutual Companies, Inc.",
+    "source": {
+      "name": "Securian Funds Trust: Definitive Information Statement (DEF 14C), SEC EDGAR",
+      "date": "2017-12-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/766351/000119312517370260/d484353ddef14c.htm",
+      "quote": "Securian Financial Group, Inc., which in turn is a wholly-owned subsidiary of a first tier intermediate stock holding company named Securian Holding Company, which in turn is a wholly-owned subsidiary of the ultimate parent, Minnesota Mutual Companies, Inc.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "sega-sammy-record",
     "kind": "ownership",
     "ownerIds": [
@@ -19354,12 +21639,13 @@
     "id": "seminole-tribe-of-florida-record",
     "kind": "ownership",
     "ownerIds": [
+      "hard-rock-international-owner",
       "seminole-tribe-of-florida"
     ],
-    "text": "Hard Rock International is owned outright by the Seminole Tribe of Florida (acquired 2007). A federally recognised tribe is not a state in this dataset's sense, and the tribe has no documented rights finding.",
-    "short": "Hard Rock International is owned outright by the Seminole Tribe of Florida (acquired 2007).",
+    "text": "The Seminole Tribe of Florida acquired the Hard Rock brand in 2007.",
+    "short": "The Seminole Tribe of Florida acquired the Hard Rock brand in 2007",
     "source": {
-      "name": "Hard Rock International - corporate (Seminole Hard Rock)",
+      "name": "Hard Rock International: Corporate",
       "date": "2026-09-24",
       "url": "https://www.hardrock.com/corporate",
       "quote": "the Seminole Tribe of Florida acquired the Hard Rock brand in 2007",
@@ -19519,6 +21805,26 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "ship-healthcare-holdings-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "ship-healthcare-holdings"
+    ],
+    "text": "Ship Healthcare Holdings, Inc. is listed on the Tokyo Stock Exchange Prime Market (code 3360). Its largest shareholders (as of 2025-09-30) were The Master Trust Bank of Japan (trust account, 11.24%), Kokko Co., Ltd. (8.65%), State Street Bank and Trust Company (7.97%) and Custody Bank of Japan (trust account, 5.03%); no state or sovereign shareholder appears in the company's top-10 list.",
+    "short": "Ship Healthcare Holdings is TSE-Prime listed (3360); top holders are trust banks and private companies, no state shareholder.",
+    "source": {
+      "name": "シップヘルスケアホールディングス株式会社 IR: 株式の状況 — 大株主の状況",
+      "date": "2025-09-30",
+      "url": "https://www.shiphd.co.jp/ir/stock_bond/zyoukyou/",
+      "quote": "日本マスタートラスト信託銀行株式会社（信託口） 10,358 11.24 株式会社コッコー 7,977 8.65 STATE STREET BANK AND TRUST COMPANY 505001 7,348 7.97",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -19745,6 +22051,40 @@
         "checked": {
           "on": "2026-09-27",
           "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "singtel-ais-stake",
+    "kind": "ownership",
+    "ownerIds": [
+      "advanced-info-service",
+      "singtel"
+    ],
+    "text": "Singtel holds a 24.8% equity interest in Advanced Info Service PCL (AIS): its FY2026 Annual Report says an extra 1.4% bought for S$510 million raised the interest to 24.8%, and AIS's own shareholder table (20 Aug 2026) lists Singtel Strategic Investments Pte Ltd (19.10%) plus a Singtel Strategic nominee account (5.67%).",
+    "short": "Singtel holds 24.8% of AIS.",
+    "source": {
+      "name": "Singtel Annual Report 2026: Financial Highlights - Significant events (Note 3)",
+      "date": "2026-06-30",
+      "url": "https://cdn2.singteldigital.com/content/dam/singtel/investorRelations/annualReports/2026/AR2026.pdf",
+      "quote": "The Group acquired 1.4% equity interest of Advanced Info Service Public Company Limited (\"AIS\") for S$510 million. Following the purchase, the Group's equity interest in AIS increased to 24.8%.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Advanced Info Service PCL: Shareholder Structure (investor.ais.co.th)",
+        "date": "2026-08-20",
+        "url": "https://investor.ais.co.th/en/shareholder-information/shareholder-structure",
+        "quote": "Singtel Strategic Investments Pte Ltd. 568,000,000 19.10",
+        "note": "Major Shareholders table 'As of 20 August 2026'; a further 5.67% (168,492,744 shares) sits in the 'Raffle Nominees (Pte) Ltd S/A Singtel Strategic Investments Pte Ltd.' account, so the Singtel vehicles together hold 24.77% of AIS shares.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
         }
       }
     ],
@@ -20197,6 +22537,26 @@
     "reviewed": false
   },
   {
+    "id": "sparda-bank-berlin-eg-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "sparda-bank-berlin-eg"
+    ],
+    "text": "Sparda-Bank Berlin eG is a registered cooperative (eingetragene Genossenschaft) based in Berlin (Berlin-Charlottenburg Local Court, cooperative register no. 446 B).",
+    "source": {
+      "name": "Sparda-Bank Berlin eG: Impressum",
+      "date": "2026",
+      "url": "https://www.sparda-b.de/bestandskunden/sicherheit_und_rechtliches/impressum.html",
+      "quote": "Registergericht: Amtsgericht Berlin-Charlottenburg Genossenschaftsregister-Nr. 446 B",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Translation: 'Registry court: Berlin-Charlottenburg Local Court, cooperative register no. 446 B'."
+    },
+    "reviewed": false
+  },
+  {
     "id": "sparebank-1-nord-norge-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -20506,13 +22866,31 @@
     "ownerIds": [
       "state-farm-owner"
     ],
-    "text": "State Farm Mutual Automobile Insurance Company is owned by State Farm. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-    "short": "State Farm Mutual Automobile Insurance Company is owned by State Farm.",
+    "text": "State Farm Mutual Automobile Insurance Company is the parent of the State Farm family of companies, and is a mutual company whose annual report is addressed to its policyholders.",
+    "short": "State Farm Mutual, a mutual company, is the parent of the State Farm companies.",
     "source": {
-      "name": "State Farm Company Overview page",
-      "date": "2026-09-24",
-      "url": "https://www.statefarm.com/about-us/company-overview"
+      "name": "State Farm Newsroom – Cardinals Reach Naming Rights Agreement with State Farm; Iconic Arizona Venue to be Known as State Farm Stadium",
+      "date": "2018-09-04",
+      "url": "https://newsroom.statefarm.com/state-farm-stadium-announcement-phoenix/",
+      "quote": "State Farm Mutual Automobile Insurance Company is the parent of the State Farm family of companies.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-scout (PR #923 review)"
+      }
     },
+    "additionalSources": [
+      {
+        "name": "State Farm – 2025 Annual Report (PDF)",
+        "date": "2025",
+        "url": "https://www.statefarm.com/content/dam/sf-library/en-us/secure/legacy/pdf/2025-annual-report.pdf",
+        "note": "State Farm's annual report for 2025, addressed to State Farm Mutual policyholders.",
+        "quote": "2025 ANNUAL REPORT TO STATE FARM® MUTUAL POLICYHOLDERS At State Farm, our mutual structure makes us unique.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-scout (PR #923 review)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -20951,6 +23329,26 @@
     "reviewed": false
   },
   {
+    "id": "sweg-baden-wuerttemberg-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "land-baden-wuerttemberg"
+    ],
+    "text": "Südwestdeutsche Landesverkehrs-GmbH (SWEG) is 95% owned by the State of Baden-Württemberg.",
+    "source": {
+      "name": "Deutsches Institut für Marketing: Die Trikotsponsoren der Fußballbundesliga – erste und zweite Bundesliga (as of 4 August 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/",
+      "quote": "Das Verkehrsunternehmen, das zu 95 Prozent dem Land Baden-Württemberg gehört, löste damit den vorherigen Hauptsponsor CG Elementum ab",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Translation: 'The transport company, 95 per cent of which belongs to the State of Baden-Württemberg, thereby replaced the previous main sponsor CG Elementum'."
+    },
+    "reviewed": false
+  },
+  {
     "id": "syensqo-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -21114,6 +23512,41 @@
     "reviewed": false
   },
   {
+    "id": "tashkent-hokimlik-sponsor",
+    "kind": "ownership",
+    "ownerIds": [
+      "tashkent-city-administration",
+      "government-of-uzbekistan"
+    ],
+    "text": "Pakhtakor's official website lists the Tashkent city administration in its partners section (a logo linking to tashkent.uz); tashkent.uz identifies itself with the words 'Тошкент шаҳар ҳокимияти расмий сайти' (official website of the Tashkent city administration), Uzbekistan's state administration for the capital.",
+    "short": "Pakhtakor lists the Tashkent city administration (hokimiyat) as a partner.",
+    "source": {
+      "name": "«ПАХТАКОР» Футбол клуби — official website, homepage ('Бизнинг ҳамкорлар' partners section; Wayback snapshot 2026-08-31)",
+      "date": "2026-08-31",
+      "url": "https://web.archive.org/web/20260831042631/https://www.pakhtakor.uz/",
+      "quote": "Бизнинг ҳамкорлар",
+      "note": "The partners grid is logo-only; the city-administration logo image (partners/hokim1.png) links to https://tashkent.uz. Same grid content verified on the live homepage https://www.pakhtakor.uz/ on 2026-09-30.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Toshkent shahar hokimiyati rasmiy sayti (tashkent.uz)",
+        "date": "2026-10-01",
+        "url": "https://tashkent.uz/oz",
+        "quote": "Тошкент шаҳар ҳокимияти расмий сайти",
+        "note": "The portal's footer/title identify it as the official website of the Tashkent city administration, with the hokimiyat's address and phone.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "tbc-bank-group-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -21190,6 +23623,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "technics-panasonic-brand",
+    "kind": "ownership",
+    "ownerIds": [
+      "panasonic-holdings"
+    ],
+    "text": "Technics is the Hi-Fi audio brand name and a trademark of Panasonic Co., Ltd. (パナソニック株式会社), part of the Panasonic Group under Panasonic Holdings Corporation.",
+    "short": "Technics is a Panasonic brand and trademark.",
+    "source": {
+      "name": "Technics official site (jp.technics.com): テクニクスについて (About Technics)",
+      "date": "2026",
+      "url": "https://jp.technics.com/aboutus/",
+      "note": "Page undated.",
+      "quote": "テクニクスは、パナソニック株式会社のHi-Fi オーディオ製品のブランド名です。",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -21377,6 +23831,41 @@
     "reviewed": false
   },
   {
+    "id": "temasek-singtel-majority",
+    "kind": "ownership",
+    "ownerIds": [
+      "singtel",
+      "temasek-holdings"
+    ],
+    "text": "Temasek Holdings (Private) Limited is the majority shareholder of Singtel: 50.57% of issued ordinary shares in Singtel's register of members (as at 2 June 2026, FY2026 Annual Report); the Singapore Exchange's company profile for Singtel also states it is majority-owned by Temasek.",
+    "short": "Temasek holds a majority stake (50.57%) in Singtel.",
+    "source": {
+      "name": "Singtel Annual Report 2026: Shareholder Information (as at 2 June 2026), Major Shareholders List - Top 20",
+      "date": "2026-06-30",
+      "url": "https://cdn2.singteldigital.com/content/dam/singtel/investorRelations/annualReports/2026/AR2026.pdf",
+      "quote": "TEMASEK HOLDINGS (PRIVATE) LIMITED 8,304,071,181 50.57",
+      "note": "The register of substantial shareholders on the same page shows Temasek with 8,304,071,181 direct shares plus 234,305,969 deemed.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Singapore Exchange (SGX): corporate information page for Singapore Telecommunications Limited",
+        "date": "2026-09-29",
+        "url": "https://links.sgx.com/1.0.0/corporate-information/2032",
+        "quote": "It is majority-owned (2019: 49.8 percent) by Temasek Holdings (Private) Limited.",
+        "note": "SGX's background text (marked 'information last updated' 2026-09-29) confirms majority ownership by Temasek; the 49.8% figure is the exchange's 2019 number, while Singtel's own register shows 50.57% as at 2 June 2026.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "temporal-technologies-record",
     "kind": "ownership",
     "ownerIds": [
@@ -21391,6 +23880,69 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "thai-beverage-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "thai-beverage-pcl"
+    ],
+    "text": "Thai Beverage PCL's FY2025 Annual Report register of substantial shareholders (as at 11 December 2025) lists Siriwana Co., Ltd. with 45.24% direct interest plus 20.60% deemed, and members of the Sirivadhanabhakdi family with deemed interests of 65.84% of the company.",
+    "short": "ThaiBev is ~65.8% controlled by the Sirivadhanabhakdi family's companies (SGX-listed register).",
+    "source": {
+      "name": "Thai Beverage PCL Annual Report 2025 (SGXNet filing): Statistics of Shareholders, p. 127",
+      "date": "2026-01-09",
+      "url": "https://links.sgx.com/1.0.0/corporate-announcements/XJHFB16NSXYU79R3/871645_THBEV_Annual_Report_2025_EN.pdf",
+      "quote": "Mr. Charoen Sirivadhanabhakdi(2) - - 16,544,687,762 65.84",
+      "note": "From the 'Substantial Shareholders' table: Siriwana Co., Ltd. 11,368,060,000 (45.24%) direct; deemed interests of 65.84% are held via Siriwana/Siriwanan and related family companies. The same page states approximately 27.67% of shares are held by the public.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "thaibev-chang-brand",
+    "kind": "ownership",
+    "ownerIds": [
+      "thai-beverage"
+    ],
+    "text": "Chang (เบียร์ช้าง) is a flagship beer brand of Thai Beverage Public Company Limited.",
+    "short": "Chang beer is a Thai Beverage PCL brand.",
+    "source": {
+      "name": "Thai Beverage Plc - About Us (เกี่ยวกับ บริษัท ไทยเบฟเวอเรจ จำกัด (มหาชน))",
+      "date": "2026-10-01",
+      "url": "https://www.thaibev.com/aboutus",
+      "quote": "นอกจากนี้ เบียร์ช้าง ซึ่งเป็นอีกหนึ่งผลิตภัณฑ์หลัก ยังเป็นหนึ่งในเบียร์ของไทยที่เป็นที่รู้จักอย่างกว้างขวางทั้งในประเทศและต่างประเทศ",
+      "note": "Thai Beverage's own about page names Chang beer as one of the group's key products.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "thaibev-sgx-listed",
+    "kind": "ownership",
+    "ownerIds": [
+      "thai-beverage"
+    ],
+    "text": "Thai Beverage Public Company Limited is listed on the Singapore Exchange (SGX-ST); it listed in 2006.",
+    "short": "Thai Beverage PCL is listed on the Singapore Exchange (SGX-ST).",
+    "source": {
+      "name": "Thai Beverage Plc - About Us (เกี่ยวกับ บริษัท ไทยเบฟเวอเรจ จำกัด (มหาชน))",
+      "date": "2026-10-01",
+      "url": "https://www.thaibev.com/aboutus",
+      "quote": "และในปี 2549 ได้เข้าจดทะเบียนในตลาดหลักทรัพย์สิงคโปร์ (“SGX-ST”)",
+      "note": "Translation: 'and in 2006 (B.E. 2549) listed on the Singapore Exchange (\"SGX-ST\")'.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -21461,6 +24013,26 @@
     ]
   },
   {
+    "id": "thomas-philipps-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "thomas-philipps-gmbh-co-kg"
+    ],
+    "text": "Thomas Philipps GmbH & Co. KG is a limited partnership registered in the commercial register of the Osnabrück Local Court (HRA 5016), based in Bissendorf.",
+    "source": {
+      "name": "Thomas Philipps GmbH & Co. KG: Impressum",
+      "date": "2026",
+      "url": "https://www.thomas-philipps.de/impressum",
+      "quote": "Registergericht: Osnabrück Registernummer: HRA 5016",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Translation: 'Registry court: Osnabrück, register number: HRA 5016'."
+    },
+    "reviewed": false
+  },
+  {
     "id": "tim-poste-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -21515,6 +24087,26 @@
     "reviewed": false
   },
   {
+    "id": "toolcraft-ag-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "toolcraft-ag"
+    ],
+    "text": "toolcraft AG is a public limited company (Aktiengesellschaft) registered in the commercial register of the Nuremberg Local Court (HRB 38176), based in Georgensgmünd.",
+    "source": {
+      "name": "toolcraft AG: Impressum",
+      "date": "2026",
+      "url": "https://www.toolcraft.de/impressum/",
+      "quote": "Handelsregister: AG Nürnberg. HRB 38176",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Translation: 'Commercial register: Nuremberg Local Court (AG Nürnberg), HRB 38176'."
+    },
+    "reviewed": false
+  },
+  {
     "id": "totalenergies-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -21529,6 +24121,26 @@
       "checked": {
         "on": "2026-09-29",
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "toyo-tire-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "toyo-tire-corporation"
+    ],
+    "text": "Toyo Tire Corporation is listed on the Tokyo Stock Exchange Prime Market (code 5105). Its largest shareholders (as of 2026-06-30) were Mitsubishi Corporation (20.01%), The Master Trust Bank of Japan (trust account, 12.56%) and Custody Bank of Japan (trust account, 6.83%); no state or sovereign shareholder appears in the company's top-10 list. Toyo Tire states Mitsubishi Corporation ceased to qualify as a major shareholder on 2026-08-10.",
+    "short": "Toyo Tire is TSE-Prime listed (5105); Mitsubishi Corp and trust banks are the top holders, no state shareholder.",
+    "source": {
+      "name": "TOYO TIRE株式会社 IR: 株式の状況 — 大株主",
+      "date": "2026-06-30",
+      "url": "https://www.toyotires.co.jp/ir/information/stockholder/",
+      "quote": "三菱商事株式会社 30,822 20.01 日本マスタートラスト信託銀行株式会社（信託口） 19,351 12.56 株式会社日本カストディ銀行（信託口） 10,521 6.83",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -21724,6 +24336,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "trustbank-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "trustbank"
+    ],
+    "text": "Trustbank is a private joint-stock bank ('«Trastbank» хususiy aksiyadorlik banki'). Its own disclosure of shareholders holding over 5% lists only private individuals and private companies: Parpiyev D.B. 24.635%, Sharipov T.M. 21.915%, Presystem Universal LLC 17.995% (ultimate beneficiaries Sharipov T.M. and Parpiyev D.B.), Maxmudova D.M. 15.03%, Diminur Group LLC 12.115% and MADI GmbH (Germany) 5.00%.",
+    "short": "Trustbank's own disclosure: all shareholders above 5% are private; largest are Parpiyev (24.6%) and Sharipov (21.9%).",
+    "source": {
+      "name": "Trastbank PJSC: '5 foizdan ortiq Bank aksiyalariga ega aksiyadorlar' (shareholders holding over 5%)",
+      "date": "2026-10-01",
+      "url": "https://trustbank.uz/uz/shareholders/structure/over-5-percent/",
+      "quote": "Parpiyev D.B. 24,635% Oddiy aksiya",
+      "note": "The disclosure table lists six shareholders above 5%, all private: two Uzbek individuals (Parpiyev D.B. 24,635%; Sharipov T.M. 21,915%), three Uzbek LLCs whose named ultimate beneficiaries are individuals, and MADI GmbH of Germany (5,00%).",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -22113,12 +24746,18 @@
     "ownerIds": [
       "ucla-health-owner"
     ],
-    "text": "UCLA Health is ultimately owned by the University of California, a state entity.",
-    "short": "UCLA Health is ultimately owned by the University of California, a state entity.",
+    "text": "UCLA Health is one of the academic health centers of the University of California.",
+    "short": "UCLA Health is one of the University of California's academic health centers.",
     "source": {
-      "name": "UCLA Health About Us",
-      "date": "2026-09-25",
-      "url": "https://www.uclahealth.org/about-us/"
+      "name": "University of California Health — UCLA Health",
+      "date": "2026",
+      "url": "https://health.universityofcalifornia.edu/patient-care/academic-health-centers/ucla-health",
+      "quote": "our physicians and researchers work across the University of California system to exchange knowledge with clinicians at our other academic health centers",
+      "note": "University of California Health's own page on UCLA Health, under its Academic Health Centers listing.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "reviewed": false
   },
@@ -22539,17 +25178,44 @@
     "reviewed": false
   },
   {
+    "id": "uw-health-clinical-enterprise",
+    "kind": "ownership",
+    "ownerIds": [
+      "uw-health-owner"
+    ],
+    "text": "UW Health is the combined clinical enterprise of the University of Wisconsin Hospitals and Clinics Authority (UWHCA), University of Wisconsin Medical Foundation, Inc., and their respective or jointly wholly-owned subsidiaries.",
+    "short": "UW Health is the combined clinical enterprise of UWHCA and UW Medical Foundation",
+    "source": {
+      "name": "UWHCA Board of Directors Policy Manual (UW Health)",
+      "date": "2021-09",
+      "url": "https://web.archive.org/web/20241229051719id_/https://bynder.uwhealth.org/m/2287d10aeb264e5/original/UWHCA-Board-of-Directors-Policy-Manual.pdf",
+      "note": "Live document: https://bynder.uwhealth.org/m/2287d10aeb264e5/original/UWHCA-Board-of-Directors-Policy-Manual.pdf (linked from uwhealth.org/about-us/uw-health-corporate-governance); read via the Wayback Machine.",
+      "quote": "“UW Health” means the combined clinical enterprise of UWHCA, University of Wisconsin Medical Foundation, Inc., and their respective or jointly wholly-owned subsidiaries.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "uw-health-owner-record",
     "kind": "ownership",
     "ownerIds": [
       "uw-health-owner"
     ],
-    "text": "UW Health is a public hospital system organized under Wisconsin state law as the University of Wisconsin Hospitals and Clinics Authority, a state agency.",
-    "short": "UW Health is a public hospital system organized under Wisconsin state law as the University of Wisconsin Hospitals and Clinics Authority, a state agency.",
+    "text": "Wisconsin law creates the University of Wisconsin Hospitals and Clinics Authority as “a public body corporate and politic”.",
+    "short": "The University of Wisconsin Hospitals and Clinics Authority is a Wisconsin public body corporate and politic",
     "source": {
-      "name": "Wisconsin Statutes 233.04(7)(e)",
-      "date": "2019-01-01",
-      "url": "https://docs.legis.wisconsin.gov/document/statutes/2019/233.04(7)(e)"
+      "name": "Wisconsin Statutes §233.02(1) (docs.legis.wisconsin.gov, via Wayback Machine)",
+      "date": "2025",
+      "url": "http://web.archive.org/web/20250207024114/https://docs.legis.wisconsin.gov/statutes/statutes/233/01",
+      "note": "Live page: https://docs.legis.wisconsin.gov/statutes/statutes/233/02 — docs.legis.wisconsin.gov did not answer from the research environment, so the statute was read via the Wayback Machine.",
+      "quote": "There is created a public body corporate and politic to be known as the “University of Wisconsin Hospitals and Clinics Authority”.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "reviewed": false
   },
@@ -22593,6 +25259,27 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "van-rysel-decathlon-brand",
+    "kind": "ownership",
+    "ownerIds": [
+      "van-rysel",
+      "decathlon"
+    ],
+    "text": "Decathlon's bike-guarantee page lists Van Rysel among 'nos vélos' (our bikes), alongside Rockrider and Btwin, and covers them with Decathlon's commercial guarantee.",
+    "short": "Van Rysel bikes are Decathlon's own bikes",
+    "source": {
+      "name": "Decathlon Support — Garantie vélos Decathlon (Van Rysel, Btwin, Rockrider)",
+      "date": "2026",
+      "url": "https://support.decathlon.fr/garantie-velos-decathlon-van-rysel-btwin-rockrider",
+      "quote": "Nos vélos (Van Rysel, Rockrider, Btwin) sont garantis à vie (avec présentation de la facture d’origine, transférable) sur les pièces suivantes",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -23049,6 +25736,59 @@
     "reviewed": false
   },
   {
+    "id": "volksbank-brawo-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "volksbank-brawo-eg"
+    ],
+    "text": "Volksbank BRAWO eG is a cooperative bank based in Wolfsburg. The legal notice of the BRAWO GROUP website names it as the site’s provider.",
+    "source": {
+      "name": "Volksbank BRAWO eG / BRAWO GROUP: Impressum",
+      "date": "2026",
+      "url": "https://www.brawogroup.de/impressum",
+      "quote": "Volksbank BRAWO eG Am Mühlengraben 1 38440 Wolfsburg",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The page is the legal notice (Impressum) of brawogroup.de. It names Volksbank BRAWO eG as the provider ('Anbieter') and gives its legal form as 'Eingetragene Genossenschaft' (registered cooperative)."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "vonovia-se-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "vonovia-se"
+    ],
+    "text": "Vonovia SE is a listed company based in Bochum (Bochum Local Court, HRB 16879). Its half-year presentation of 5 August 2026 names Norges Bank, which manages Norway’s sovereign wealth fund, as its largest shareholder with 14.0%, and shows BlackRock with 8.0%, APG with 3.7% and 74.3% other free float (as of 30 June 2026).",
+    "source": {
+      "name": "Vonovia SE: Impressum",
+      "date": "2026",
+      "url": "https://www.vonovia.com/impressum",
+      "quote": "Sitz der Gesellschaft: Bochum Registergericht: Amtsgericht Bochum Registernummer: HRB 16879",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Translation: 'Registered office: Bochum. Registry court: Bochum Local Court. Register number: HRB 16879'."
+    },
+    "additionalSources": [
+      {
+        "name": "Vonovia SE: Wohnungsmarkt Halbjahresbericht 2026",
+        "date": "2026-08-05",
+        "url": "https://www.vonovia.com/content/download/338852/17347910",
+        "quote": "Die Norges Bank ist mit insgesamt 14,0 % größter Anteilseigner von Vonovia.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "claude-maint-928 (Claude Code, run by @Schnitzel)"
+        },
+        "note": "Translation: 'Norges Bank, with 14.0% in total, is Vonovia's largest shareholder.' The next sentence says it manages the Norwegian sovereign wealth fund. The shareholder-structure chart on the same slide (as of 30 June 2026) shows Norges 14.0%, BlackRock 8.0%, APG 3.7% and other free float 74.3%. A PDF presentation dated Bochum, 5 August 2026."
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "vtb-state-control",
     "kind": "ownership",
     "ownerIds": [
@@ -23065,6 +25805,49 @@
         "on": "2026-09-27",
         "by": "claude-review-282"
       }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "wacoal-corp-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "wacoal-corp",
+      "wacoal-holdings-corp"
+    ],
+    "text": "Wacoal Corp. is a full subsidiary of Wacoal Holdings Corporation: on 1 October 2005 Wacoal moved to a holding-company structure, and the newly established Wacoal Corp. became a full subsidiary of Wacoal Holdings Corporation.",
+    "short": "Wacoal Corp. has been a full subsidiary of Wacoal Holdings Corp. since 2005.",
+    "source": {
+      "name": "Wacoal Holdings: Wacoal Corp. (company profile)",
+      "date": "2026",
+      "url": "https://www.wacoalholdings.jp/en/group/wacoal/",
+      "quote": "the newly established Wacoal Corp. became a full subsidiary of Wacoal Holdings Corporation",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Page without a date; employee figure on it is dated 'As of March 2026'."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "wacoal-holdings-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "wacoal-holdings-corp"
+    ],
+    "text": "Wacoal Holdings Corp. (TSE code 3591) lists its major shareholders as of 31 March 2026 as The Master Trust Bank of Japan, Ltd. (Trust Account) (9.7%), Meiji Yasuda Life Insurance Company (6.17%), The Bank of Kyoto, Ltd. (4.76%), MUFG Bank, Ltd. (4.62%), Goldman Sachs International (3.55%), Nippon Life Insurance Company (3.18%), The Shiga Bank, Ltd. (3.17%), Custody Bank of Japan, Ltd. (trust account, 3.17%) and Mitsubishi UFJ Trust and Banking Corporation (3.08%).",
+    "short": "Wacoal Holdings is Tokyo-listed; largest holders are Master Trust (9.7%) and Meiji Yasuda Life (6.17%).",
+    "source": {
+      "name": "Wacoal Holdings: Stock Information",
+      "date": "2026-03-31",
+      "url": "https://www.wacoalholdings.jp/en/ir/information/",
+      "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) (9.7％) Meiji Yasuda Life Insurance Company (6.17％)",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Page labels the list 'Major shareholders ... (As of March 31,2026)'."
     },
     "reviewed": false
   },
@@ -23233,6 +26016,27 @@
     "reviewed": false
   },
   {
+    "id": "wings-for-life-structure",
+    "kind": "ownership",
+    "ownerIds": [
+      "wings-for-life"
+    ],
+    "text": "Wings for Life is a non-profit spinal-cord research foundation founded in 2004 by Heinz Kinigadner and Dietrich Mateschitz, based in Salzburg, Austria; Red Bull bears its administrative costs.",
+    "short": "Wings for Life is a non-profit research foundation in Salzburg, founded in 2004; Red Bull bears its administrative costs.",
+    "source": {
+      "name": "Our mission - Wings for Life",
+      "date": "2026",
+      "url": "https://www.wingsforlife.com/uk/about-us/",
+      "quote": "In 2004 they founded Wings for Life. A non-profit research foundation with the goal of curing spinal cord injury.",
+      "note": "The same page says 'Red Bull bears the administrative costs of the foundation.' and its footer names 'Wings for Life – International Spinal Cord Research Foundation Fürstenallee 4 5020 Salzburg FN 251592p'. The page renders in a browser; the earlier legal-notice URL now redirects to a Terms of Use page for the US foundation.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "claude-maint-916 (Claude Code, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "wizz-air-holdings-record",
     "kind": "ownership",
     "ownerIds": [
@@ -23248,6 +26052,59 @@
       "checked": {
         "on": "2026-09-27",
         "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "woori-bank-woori-financial-group",
+    "kind": "ownership",
+    "ownerIds": [
+      "woori-bank-co",
+      "woori-financial-group"
+    ],
+    "text": "Woori Bank became a wholly owned subsidiary of Woori Financial Group on 11 January 2019, through a comprehensive stock transfer under the Korean Commercial Code by which Woori Financial Group was established as the bank's financial holding company; the holding company then comprised Woori Bank, Woori FIS, Woori Private Equity Asset Management, Woori Credit, Woori Finance Research Institute and Woori Fund Services.",
+    "short": "Woori Bank is a wholly owned subsidiary of Woori Financial Group.",
+    "source": {
+      "name": "Woori Financial Group Inc., SEC filing: Notes to the consolidated financial statements — General, Summary of the parent company",
+      "date": "2019",
+      "url": "https://www.sec.gov/Archives/edgar/data/1264136/000119312519128772/R6.htm",
+      "quote": "Woori Bank became a wholly-owned subsidiary of Woori Financial Group, pursuant to a",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Pulse (Maeil Business News Korea): Woori officially rebranded as financial holding entity, govt pledges privatization",
+        "date": "2019-01-14",
+        "url": "https://pulse.mk.co.kr/news/english/8652488",
+        "quote": "Woori Financial Holdings is comprised of Woori Bank, Woori FIS, Woori Private Equity Asset Management, Woori Credit, Woori Finance Research Institute and Woori Fund Services",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "woori-financial-group-privatized",
+    "kind": "ownership",
+    "ownerIds": [
+      "woori-financial-group"
+    ],
+    "text": "Woori Financial Group has been fully privatised: the Korea Deposit Insurance Corporation's remaining stake was fully cancelled in 2024, and Maeil Business News reports foreign investors have increased their stakes since.",
+    "short": "Woori Financial Group is fully privatised; KDIC's last stake was cancelled in 2024.",
+    "source": {
+      "name": "매일경제 (Maeil Business News): 정부가 대주주던 우리금융 … 외국인 지분 50% 넘어섰다 [Government-majority Woori Financial: foreign stake now above 50%]",
+      "date": "2026-09-07",
+      "url": "https://www.mk.co.kr/news/economy/12146334",
+      "quote": "외국인투자자들은 2024년 예금보험공사의 잔여 지분이 완전히 소각된 이후 꾸준히 우리금융 지분을 늘려오고 있다",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -23314,6 +26171,61 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "wp-ktm-bajaj-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "wp-suspension-gmbh",
+      "ktm-ag",
+      "bajaj-mobility-ag",
+      "bajaj-auto"
+    ],
+    "text": "WP Suspension is one of the Bajaj Mobility group brands: the group's site says Bajaj Mobility AG is the holding company of KTM AG and that its premium brand range includes the WP components brand. Bajaj Mobility AG (formerly PIERER Mobility AG) is owned to around 74.9% by Bajaj Auto International Holdings AG, an indirect wholly owned subsidiary of Bajaj Auto Ltd, India, with a 25.1% free float.",
+    "short": "WP is a KTM-group brand; the group is 74.9% owned by Bajaj Auto of India.",
+    "source": {
+      "name": "Bajaj Mobility AG – homepage",
+      "date": "2026",
+      "url": "https://www.bajajmobility.com/en/",
+      "quote": "The premium brand range also includes the high-performance components of the WP brand.",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Bajaj Mobility AG – Shareholder structure",
+        "date": "2026",
+        "url": "https://www.bajajmobility.com/en/investor-relations/shares/shareholder-structure",
+        "quote": "Around 74.9 percent of Bajaj Mobility AG (formerly PIERER Mobility AG) is owned by Bajaj Auto International Holdings AG, an indirect wholly owned subsidiary of Bajaj Auto Ltd, India.",
+        "checked": {
+          "on": "2026-09-30",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "wrs-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "wrs-srl"
+    ],
+    "text": "The WRS motorcycle-parts brand belongs to WRS S.r.l. of Cattolica (RN), Italy, per the footer of its own site; no shareholding disclosure found.",
+    "short": "WRS is the brand of WRS S.r.l. (Italy).",
+    "source": {
+      "name": "WRS – wrs.it site footer (company identity)",
+      "date": "2026",
+      "url": "https://www.wrs.it/en/",
+      "quote": "WRS S.r.l. Via O. Respighi, 56 int. 1 - 47841 Cattolica (RN) - Italy",
+      "checked": {
+        "on": "2026-09-30",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {

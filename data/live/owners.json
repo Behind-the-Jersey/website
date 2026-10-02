@@ -23,6 +23,14 @@
     "note": "Dutch telecom provider (MVNO) based in Eindhoven, KvK 80808301. Its GLEIF record (LEI 7245004W85NZYAQJUB33, https://api.gleif.org/api/v1/lei-records/7245004W85NZYAQJUB33) reports no parent (reporting exception: non-consolidating). Its shareholders aren't sourced, so the owner is recorded as unknown; Belsimpel appears on its site only as a reseller."
   },
   {
+    "id": "7saber-uz",
+    "name": "7SABER",
+    "type": "private-company",
+    "country": "Uzbekistan",
+    "parentId": null,
+    "note": "Uzbek sportswear brand presented in Tashkent in June 2021. The emblem was created by Otabek Umarov; brand rights were licensed for five years to OOO Urban Hayot, a company founded by Ross Connon (head of Dubai-based Berkeley Square Investments) and Oraz Abdurazakov (Spot, 2021-06-26; Olympic.uz, 2021-06-26). Uzbek register entries list 7SABER-named limited-liability companies (orginfo.uz). No state ownership found."
+  },
+  {
     "id": "aarp-owner",
     "name": "AARP",
     "type": "private-company",
@@ -95,6 +103,14 @@
     "parentId": "adq"
   },
   {
+    "id": "adecco-group",
+    "name": "The Adecco Group",
+    "type": "listed-company",
+    "country": "Switzerland",
+    "parentId": null,
+    "note": "Workforce-solutions group whose global businesses include Adecco, Akkodis and LHH (adecco-adecco-group-brand)."
+  },
+  {
     "id": "adidas-ag",
     "name": "adidas AG",
     "type": "listed-company",
@@ -132,6 +148,14 @@
     "parentId": null,
     "note": "jersey patch partner of miami-marlins (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "advanced-info-service",
+    "name": "Advanced Info Service Public Company Limited (AIS)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Thailand",
+    "note": "Listed on the Stock Exchange of Thailand (ADVANC). Major shareholders as at 20 Aug 2026 (ais.co.th): Gulf Development PCL 40.44%; Singtel Strategic Investments Pte Ltd 19.10% plus 5.67% in a Singtel Strategic nominee account; Thai NVDR 6.91%; Vayupak Fund 1 3.32%; Social Security Office 1.44%."
   },
   {
     "id": "advenn",
@@ -220,6 +244,14 @@
     "country": "US"
   },
   {
+    "id": "akfa-group",
+    "name": "Akfa Group (AKFA Holding)",
+    "type": "private-company",
+    "country": "Uzbekistan",
+    "note": "Uzbek industrial holding (plastic and aluminium profiles, windows, heating systems, construction materials). Founder identified by Gazeta.uz and Spot as Jahongir Artykkhodjaev (hokim of Tashkent 2018-2023), who per the club is also Pakhtakor's chairman and per Podrobno.uz (Aug 2026, unconfirmed) reportedly ended his financing of the club.",
+    "parentId": null
+  },
+  {
     "id": "akhmat-foundation",
     "name": "Akhmat Foundation (Regional Public Fund named after Akhmat Kadyrov)",
     "type": "state-fund",
@@ -236,6 +268,14 @@
     "note": "Ukraine's wealthiest businessman; founder and sole shareholder of SCM (System Capital Management), president of FC Shakhtar. Personal (family) ownership, treated as a private owner, not a state."
   },
   {
+    "id": "akrapovic-dd",
+    "name": "Akrapovič d.d.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "SI",
+    "note": "Unlisted Slovenian manufacturer, Ivančna Gorica (identity per its own legal notice). Deeper shareholding not documented in accessible sources."
+  },
+  {
     "id": "aktor-group",
     "name": "AKTOR Group",
     "type": "listed-company",
@@ -250,6 +290,14 @@
     "country": "Bahrain",
     "parentId": null,
     "note": "Public bank listed on Bahrain Bourse. Major shareholders at 31 December 2025: Bank Muscat S.A.O.G. 14.74%, Muscat Overseas Company L.L.C. 8.43%, Sayacorp B.S.C. Closed 6.28% (annual report 2025)."
+  },
+  {
+    "id": "alamosa",
+    "name": "Alavesa del Motor, S.A. (Alamosa)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "ES",
+    "note": "Family car-parts retailer with origins and head office in Vitoria-Gasteiz; its website says it belongs to the DP distribution group and Dipart says it joined Dipart in 2013. No source states who owns the company."
   },
   {
     "id": "albaik-food-systems",
@@ -290,6 +338,13 @@
     "parentId": null,
     "note": "jersey patch partner of brooklyn-nets (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "all-inkl-com-neue-medien-muennich",
+    "name": "ALL-INKL.COM - Neue Medien Münnich",
+    "type": "private-company",
+    "country": "DE",
+    "parentId": null
   },
   {
     "id": "allegiant-travel-company-owner",
@@ -509,6 +564,14 @@
     "parentId": "softbank-group",
     "country": "United Kingdom",
     "note": "Semiconductor IP company listed on Nasdaq (ARM); SoftBank Group held a 72.0% equity interest per Arm's FY2026 Form 20-F."
+  },
+  {
+    "id": "armand-thiery",
+    "name": "Armand Thiery",
+    "type": "private-company",
+    "country": "France",
+    "parentId": "groupe-deveaux",
+    "note": "French ready-to-wear brand; BFM Business names the Deveaux group as its owner (armand-thiery-deveaux-ownership)."
   },
   {
     "id": "armani",
@@ -739,6 +802,14 @@
     "parentId": null
   },
   {
+    "id": "autogestio-sanitaria",
+    "name": "Autogestió Sanitària",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain",
+    "note": "Cooperative created in 1978 whose members are the doctors who own Assistència Sanitària (Fundació Espriu, history timeline). Crónica Global reports it holds 78% of Assistència Sanitària. The sources name no state or fund shareholder; the chain ends at a cooperative of medical professionals."
+  },
+  {
     "id": "avery-dennison",
     "name": "Avery Dennison Corporation",
     "type": "listed-company",
@@ -829,6 +900,23 @@
     "country": "US"
   },
   {
+    "id": "bajaj-auto",
+    "name": "Bajaj Auto Ltd",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "IN",
+    "note": "NSE/BSE-listed Indian motorcycle maker; took control of KTM via Bajaj Auto International Holdings (18 November 2025). Chain stops here; no state or state fund identified."
+  },
+  {
+    "id": "bajaj-mobility-ag",
+    "name": "Bajaj Mobility AG (formerly PIERER Mobility AG)",
+    "type": "listed-company",
+    "parentId": "bajaj-auto",
+    "via": "around 74.9% owned by Bajaj Auto International Holdings AG, an indirect wholly owned subsidiary of Bajaj Auto Ltd",
+    "country": "AT",
+    "note": "Renamed from PIERER Mobility AG to Bajaj Mobility AG in January 2026 after Bajaj Auto completed its takeover on 18 November 2025. Shares listed in Vienna and Zurich; 25.1% free float per the company's shareholder-structure page."
+  },
+  {
     "id": "balkrishna-industries",
     "name": "Balkrishna Industries Ltd. (BKT)",
     "type": "listed-company",
@@ -840,7 +928,7 @@
     "name": "Ball Corporation",
     "type": "listed-company",
     "parentId": null,
-    "note": "arena naming-rights holder of denver-nuggets (2026-27).",
+    "note": "Holds the naming rights to the Nuggets' arena (Ball Arena) since the KSE partnership announced 2020-10-22. Its Form 10-K registers its common stock on the NYSE under BALL (claim ball-corporation-public-listing).",
     "country": "US"
   },
   {
@@ -890,11 +978,27 @@
     "note": "Shareholding per the bank's 2025 annual report (English H-share edition, published 27 April 2026). A mid-2025 filing with the US Federal Reserve gave the older figure of 23.88% for the Ministry of Finance; the ministry increased its holding during 2025."
   },
   {
+    "id": "bank-of-kyoto",
+    "name": "The Bank of Kyoto, Ltd.",
+    "type": "private-company",
+    "parentId": "kyoto-financial-group",
+    "country": "Japan",
+    "note": "Regional bank headquartered in Kyoto; moved to a holding-company structure under Kyoto Financial Group, Inc. on 2023-10-02 (the bank's investor page)."
+  },
+  {
     "id": "bank-of-montreal",
     "name": "Bank of Montreal",
     "type": "listed-company",
     "parentId": null,
     "country": "CA"
+  },
+  {
+    "id": "bank-of-shanghai",
+    "name": "Bank of Shanghai Co., Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "China",
+    "note": "Listed on the Shanghai Stock Exchange (SSE 601229). Per its 2025 annual report (published 24 April 2026): no controlling shareholder and no actual controller; largest shareholder Shanghai Alliance Investment Co., Ltd. with 2,092,800,328 shares (14.73%), marked 'state-owned legal person' (国有法人), 14.98% with affiliates and concert parties, plus two nominated directors; Shanghai International Port (Group) Co., Ltd., whose actual controller is also Shanghai SASAC, held 8.54%. The state stake is confirmed unchanged at 30 June 2026 in the bank's 2026 half-year report."
   },
   {
     "id": "bank-respublika",
@@ -942,6 +1046,13 @@
     "parentId": null,
     "country": "DE",
     "note": "German mutual insurer (Versicherungsverein auf Gegenseitigkeit) in Wuppertal; with Gothaer Versicherungsbank VVaG it stands at the top of the BarmeniaGothaer group, steered financially by BarmeniaGothaer AG. Owned by its policyholder members."
+  },
+  {
+    "id": "bartels-langness-gmbh-co-kg",
+    "name": "Bartels-Langness Handelsgesellschaft mbH & Co. KG",
+    "type": "private-company",
+    "country": "DE",
+    "parentId": null
   },
   {
     "id": "barton-and-gray-mariners-club",
@@ -1118,6 +1229,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "bloom-energy-corp",
+    "name": "Bloom Energy Corp",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States",
+    "note": "Registers Class A Common Stock (symbol BE) on the New York Stock Exchange."
   },
   {
     "id": "blot-groupe",
@@ -1509,10 +1628,10 @@
   },
   {
     "id": "cleveland-cliffs-owner",
-    "name": "Cleveland-Cliffs LLC",
+    "name": "Cleveland-Cliffs Inc.",
     "type": "listed-company",
     "parentId": null,
-    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "note": "Registrant name and NYSE listing per its Form 10-K for fiscal year 2025 (SEC EDGAR, filed 2026-02-09); largest holding above five percent named in its 2026 proxy statement is BlackRock, Inc. at 7.73%.",
     "country": "US"
   },
   {
@@ -1798,6 +1917,14 @@
     "note": "Municipal government of Daejeon, South Korea; its press office uses the slogan '일류경제도시 대전' (first-class economic city Daejeon) in its own releases."
   },
   {
+    "id": "daicel-corporation",
+    "name": "Daicel Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Osaka-based chemicals and materials company (DAICEL brand); listed on the Tokyo Stock Exchange (code 4202), per its IR stock-information page (opened 2026-10-01)."
+  },
+  {
     "id": "daikin-comfort-technologies-owner",
     "name": "Daikin Comfort Technologies",
     "type": "listed-company",
@@ -1806,11 +1933,35 @@
     "country": "JP"
   },
   {
+    "id": "daiwa-securities-co",
+    "name": "Daiwa Securities Co. Ltd.",
+    "type": "private-company",
+    "parentId": "daiwa-securities-group",
+    "country": "Japan",
+    "note": "Securities operating company (daiwa.jp); listed as 大和証券（株） in Daiwa Securities Group Inc.'s group companies list."
+  },
+  {
+    "id": "daiwa-securities-group",
+    "name": "Daiwa Securities Group Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Holding company of the Daiwa securities group; listed in Tokyo and Nagoya (code 8601); top-10 shareholders as of 31 March 2026 listed on daiwa-grp.jp."
+  },
+  {
     "id": "dan-towriss",
     "name": "Dan Towriss",
     "type": "private-company",
     "country": "United States",
     "parentId": "twg-global"
+  },
+  {
+    "id": "daric-investment-group",
+    "name": "Daric Investment Group",
+    "type": "private-company",
+    "parentId": "mohammad-reza-zonouzi",
+    "country": "Iran",
+    "note": "Daric Development Investment Group (گروه توسعه سرمایه گذاری دریک), Tabriz. Private holding whose site lists ATA Airlines and Rakhsh Khodro Diesel among its companies; its founder, owner and chairman is Mohammad Reza Zonouzi Motlagh."
   },
   {
     "id": "davide-campari-milano",
@@ -1826,6 +1977,14 @@
     "parentId": null,
     "country": "Japan",
     "note": "Osaka-headquartered textiles and lifestyle company, a Kobe trading business since 1917; private company, president and CEO Hani Debs (debscorp.com overview)."
+  },
+  {
+    "id": "decathlon",
+    "name": "Decathlon (group)",
+    "type": "private-company",
+    "country": "France",
+    "parentId": "association-famille-mulliez",
+    "note": "Sports retailer; Le Journal des Entreprises lists Decathlon among the companies held by the Association Famille Mulliez (decathlon-afm-ownership)."
   },
   {
     "id": "deel-inc",
@@ -2263,6 +2422,14 @@
     "note": "Holds 60% of e& (Emirates Telecommunications Group Company), the UAE telecoms operator formerly Etisalat."
   },
   {
+    "id": "emory-university",
+    "name": "Emory University",
+    "type": "private-company",
+    "country": "US",
+    "parentId": null,
+    "note": "Private research university in Atlanta, Georgia; Emory Healthcare is its academic health system."
+  },
+  {
     "id": "empower-owner",
     "name": "Empower LLC",
     "type": "listed-company",
@@ -2378,6 +2545,14 @@
     "country": "Netherlands",
     "parentId": null,
     "note": "Buying group of independent electrical retailers."
+  },
+  {
+    "id": "european-food",
+    "name": "European Food Public Company Limited",
+    "type": "private-company",
+    "country": "Thailand",
+    "note": "Thai snack maker (DBD juristic person 0107538000789), owner of the EURO / Euro Cake brands. Registered Thai public company limited (มหาชน); no stock-exchange listing found on SET (the SET ticker EURO belongs to a different company, Euro Creations).",
+    "parentId": null
   },
   {
     "id": "everbank-owner",
@@ -2611,10 +2786,10 @@
   },
   {
     "id": "foundation-building-materials-owner",
-    "name": "Foundation Building Materials (FBM) LLC",
+    "name": "Foundation Building Materials, Inc.",
     "type": "private-company",
-    "parentId": null,
-    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "parentId": "lowes-companies",
+    "note": "Wholly owned by Lowe's Companies, Inc. since October 2025 (claim: foundation-building-materials-lowes-ownership); previously owned by American Securities and CD&R.",
     "country": "US"
   },
   {
@@ -2957,6 +3132,21 @@
     "country": "Indonesia"
   },
   {
+    "id": "government-of-iran",
+    "name": "Government of Iran",
+    "type": "state",
+    "country": "Iran",
+    "parentId": null
+  },
+  {
+    "id": "government-of-johor",
+    "name": "Government of Johor",
+    "type": "state",
+    "parentId": "gov-malaysia",
+    "country": "Malaysia",
+    "via": "state government of Johor, Malaysia"
+  },
+  {
     "id": "government-of-kazakhstan",
     "name": "Government of Kazakhstan",
     "type": "state",
@@ -3093,6 +3283,14 @@
     "note": "A mutual insurer owned by its members, not by shareholders; no state or fund owner. Parent-group structure (Groupama Assurances Mutuelles) not traced to a state."
   },
   {
+    "id": "groupe-deveaux",
+    "name": "Groupe Deveaux",
+    "type": "private-company",
+    "country": "France",
+    "parentId": null,
+    "note": "Family group (Deveaux family) active in ready-to-wear through Armand Thiery, Toscane, Edji and Jacqueline Riu, per BFM Business (armand-thiery-deveaux-ownership)."
+  },
+  {
     "id": "groupe-ej",
     "name": "Groupe EJ (Groupe Éric Jouvet)",
     "type": "private-company",
@@ -3156,6 +3354,14 @@
     "parentId": null,
     "country": "FR",
     "note": "Family property group founded in 1970 that develops property and hotel projects in France and internationally; owner of the Casadora brand (Toulouse FC announcement, 30 June 2026)."
+  },
+  {
+    "id": "groupement-mousquetaires",
+    "name": "Groupement Mousquetaires (Les Mousquetaires)",
+    "type": "private-company",
+    "country": "France",
+    "parentId": null,
+    "note": "French retail group of independent entrepreneurs; owns the Intermarché, Netto, Bricomarché and Roady brands among others."
   },
   {
     "id": "grupo-bimbo",
@@ -3232,6 +3438,13 @@
     "type": "listed-company",
     "parentId": null,
     "country": "China"
+  },
+  {
+    "id": "haix-schuhe-gmbh",
+    "name": "HAIX Schuhe Produktions und Vertriebs GmbH",
+    "type": "private-company",
+    "country": "DE",
+    "parentId": null
   },
   {
     "id": "halo-lifestyle-llc",
@@ -3345,7 +3558,7 @@
     "id": "hard-rock-international-owner",
     "name": "Hard Rock International LLC",
     "type": "private-company",
-    "parentId": null,
+    "parentId": "seminole-tribe-of-florida",
     "note": "arena naming-rights holder of miami-dolphins (2026-27).",
     "country": "US"
   },
@@ -3376,6 +3589,13 @@
     "name": "Heineken N.V.",
     "type": "listed-company",
     "country": "Netherlands",
+    "parentId": null
+  },
+  {
+    "id": "heise-medien-gmbh-co-kg",
+    "name": "Heise Medien GmbH & Co. KG",
+    "type": "private-company",
+    "country": "DE",
     "parentId": null
   },
   {
@@ -3493,6 +3713,14 @@
     "country": "JP"
   },
   {
+    "id": "horiba",
+    "name": "HORIBA, Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Measurement-instruments maker headquartered in Kyoto; listed on the Tokyo Stock Exchange Prime market (code 6856); top-10 shareholders as of 30 June 2026 listed on horiba.com."
+  },
+  {
     "id": "hovione-holding-ag",
     "name": "Hovione Holding AG",
     "type": "private-company",
@@ -3548,6 +3776,13 @@
     "parentId": "saudi-pif"
   },
   {
+    "id": "humanas-pflege-gmbh-co-kg",
+    "name": "Humanas Pflege GmbH & Co. KG",
+    "type": "private-company",
+    "country": "DE",
+    "parentId": null
+  },
+  {
     "id": "hummel-international-as",
     "name": "hummel International Sport & Leisure A/S",
     "type": "private-company",
@@ -3581,6 +3816,13 @@
     "note": "Stock code 001500 (DigitalToday, 2026-08-06)."
   },
   {
+    "id": "i-k-hofmann-gmbh",
+    "name": "I. K. Hofmann GmbH",
+    "type": "private-company",
+    "country": "DE",
+    "parentId": null
+  },
+  {
     "id": "ibm-corp",
     "name": "International Business Machines Corporation",
     "type": "listed-company",
@@ -3589,10 +3831,10 @@
   },
   {
     "id": "ibotta-owner",
-    "name": "Ibotta LLC",
+    "name": "Ibotta, Inc.",
     "type": "listed-company",
     "parentId": null,
-    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "note": "The sponsor's own corporate entity. Its investor-relations FAQ says its stock trades on the NYSE under IBTA (claim ibotta-public-listing); the same FAQ says it became a public company on April 18, 2024.",
     "country": "US"
   },
   {
@@ -4004,6 +4246,14 @@
     "parentId": null
   },
   {
+    "id": "kingroyal-media-ltd",
+    "name": "Kingroyal Media Company LTD",
+    "type": "private-company",
+    "parentId": null,
+    "country": "CY",
+    "note": "Company behind the Kingroyal Media sports-news website, per the site's own About Us and Terms and Conditions pages; based in Cyprus. No source states who owns it."
+  },
+  {
     "id": "kkcg",
     "name": "KKCG AG",
     "type": "private-company",
@@ -4064,6 +4314,14 @@
     "country": "US"
   },
   {
+    "id": "ktm-ag",
+    "name": "KTM AG",
+    "type": "private-company",
+    "parentId": "bajaj-mobility-ag",
+    "via": "Bajaj Mobility AG is the holding company of KTM AG",
+    "country": "AT"
+  },
+  {
     "id": "kumho-tire",
     "name": "Kumho Tire Co., Inc. (금호타이어)",
     "type": "listed-company",
@@ -4110,6 +4368,14 @@
     "country": "JP"
   },
   {
+    "id": "kyoto-financial-group",
+    "name": "Kyoto Financial Group, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Holding company of the Bank of Kyoto; listed on the Tokyo Stock Exchange Prime market (code 5844); major shareholders as of 31 March 2026 listed on kyoto-fg.co.jp."
+  },
+  {
     "id": "l-auxiliaire",
     "name": "L'Auxiliaire",
     "type": "private-company",
@@ -4124,6 +4390,20 @@
     "parentId": "sill-entreprises",
     "country": "FR",
     "note": "SAS (SIREN 895780377, 9 rue du Clos du Noyer, Saint-Malo, the address the club gives for its partner Malo). The company register lists SILL ENTREPRISES as its Président de SAS and Henri León as Directeur Général; malo.fr is published by SILL ENTREPRISES."
+  },
+  {
+    "id": "land-baden-wuerttemberg",
+    "name": "Land Baden-Württemberg",
+    "type": "state",
+    "country": "DE",
+    "parentId": null
+  },
+  {
+    "id": "lausitz-energie-bergbau-ag",
+    "name": "Lausitz Energie Bergbau AG",
+    "type": "private-company",
+    "country": "DE",
+    "parentId": null
   },
   {
     "id": "lavoropiu",
@@ -4182,11 +4462,11 @@
   },
   {
     "id": "ledger-owner",
-    "name": "Ledger LLC",
+    "name": "Ledger SAS",
     "type": "private-company",
     "parentId": null,
-    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
-    "country": "US"
+    "note": "Ledger's own trademark notice says the LEDGER trademark is owned by Ledger SAS and gives 106 Rue du Temple, 75003 Paris, France (claim ledger-owner-ownership).",
+    "country": "France"
   },
   {
     "id": "legend-holdings",
@@ -4336,6 +4616,13 @@
     "type": "private-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "loewen-entertainment-gmbh",
+    "name": "LÖWEN ENTERTAINMENT GmbH",
+    "type": "private-company",
+    "country": "DE",
+    "parentId": null
   },
   {
     "id": "lola-cars",
@@ -4516,6 +4803,14 @@
     "type": "state",
     "parentId": "ayuntamiento-de-malaga",
     "country": "Spain"
+  },
+  {
+    "id": "man-truck-bus-se",
+    "name": "MAN Truck & Bus SE",
+    "type": "private-company",
+    "parentId": "traton-se",
+    "via": "MAN SE was merged into TRATON SE in August 2021; MAN Truck & Bus is a company of the TRATON GROUP",
+    "country": "DE"
   },
   {
     "id": "mapei-spa",
@@ -4807,6 +5102,14 @@
     "parentId": "government-of-saudi-arabia"
   },
   {
+    "id": "minnesota-mutual-companies",
+    "name": "Minnesota Mutual Companies, Inc.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US",
+    "note": "Ultimate parent of Securian Financial Group, Inc. per a 2017 SEC information statement (Securian Funds Trust DEF 14C)."
+  },
+  {
     "id": "misli-elektronik",
     "name": "Misli Elektronik Şans Oyunları ve Yayıncılık A.Ş.",
     "type": "private-company",
@@ -4845,6 +5148,14 @@
     "country": "China"
   },
   {
+    "id": "mka-group",
+    "name": "MKA Group (RCB Performance Parts Sdn. Bhd.)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "MY",
+    "note": "Malaysian motorcycle-parts group (Puchong, Selangor; RCB Performance Parts Sdn. Bhd. reg. 202301049691) behind the RCB brand, per rcb.com."
+  },
+  {
     "id": "moda-health-owner",
     "name": "Moda Health",
     "type": "private-company",
@@ -4858,6 +5169,14 @@
     "type": "private-company",
     "parentId": "mubadala",
     "country": "Spain"
+  },
+  {
+    "id": "mohammad-reza-zonouzi",
+    "name": "Mohammad Reza Zonouzi Motlagh",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Iran",
+    "note": "Tabriz-based Iranian businessman; founder, owner and chairman of the Daric Investment Group (per the group's own website) and owner of Tractor SC (per Varzesh3 and Tractor's club site). Personal ownership, treated as a private owner, not a state."
   },
   {
     "id": "molinel-sas",
@@ -4914,6 +5233,14 @@
     "country": "GB"
   },
   {
+    "id": "motorex-bucher-group-ag",
+    "name": "MOTOREX-BUCHER GROUP AG",
+    "type": "private-company",
+    "parentId": null,
+    "country": "CH",
+    "note": "Independent Swiss family business (Bucher family), per the group's own company page."
+  },
+  {
     "id": "motorola-owner",
     "name": "Motorola Solutions",
     "type": "listed-company",
@@ -4957,6 +5284,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "CH"
+  },
+  {
+    "id": "muang-thai-life-assurance",
+    "name": "Muang Thai Life Assurance Public Co., Ltd. (MTL)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Thailand",
+    "note": "A Thai public limited company (converted 1 Oct 2012) but not exchange-listed: its IR Fact Sheet Vol.96 (Q1/2025) shows Muang Thai Group Holding Co., Ltd. holding 75.00003%, Ageas Insurance International N.V. 24.99990% and others 0.00007%."
   },
   {
     "id": "mubadala",
@@ -5020,6 +5355,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "CW"
+  },
+  {
+    "id": "navruz-international",
+    "name": "Navruz International Corp.",
+    "type": "private-company",
+    "country": "Uzbekistan",
+    "note": "Tashkent-region (Kibray district) producer of soft drinks and bottled water; describes itself as a joint Uzbek-American LLC founded in March 2003. Shareholders not disclosed.",
+    "parentId": null
   },
   {
     "id": "nb-renaissance",
@@ -5098,7 +5441,7 @@
     "name": "NewAge Products",
     "type": "private-company",
     "parentId": null,
-    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "note": "Led by its co-founders: Parag Shah (President) and Frank Spano (Chief Operating Officer) — NewAge newsroom and BNN Bloomberg profile (2025-01-09), opened 2026-10-01. No parent company or state owner found in the sources opened.",
     "country": "CAN"
   },
   {
@@ -5182,6 +5525,14 @@
     "parentId": null,
     "country": "Japan",
     "note": "Japanese business-news group; parent of the Financial Times per the Aston Martin Aramco partner page."
+  },
+  {
+    "id": "nintendo-co-ltd",
+    "name": "Nintendo Co., Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Videogame company headquartered in Kyoto; listed on the Tokyo Stock Exchange Prime market (code 7974); major shareholders as of 31 March 2026 listed on nintendo.co.jp's IR pages. Distinct from the placeholder 'nintendo-owner' record, which concerns the US subsidiary."
   },
   {
     "id": "nintendo-owner",
@@ -5296,12 +5647,12 @@
     "note": "Independent Danish enterprise foundation (novonordiskfonden.dk, CVR 10 58 29 89) supporting scientific, humanitarian and social causes; Novo Holdings is its fully owned investment subsidiary."
   },
   {
-    "id": "nrg-energy-reliant-brand-owner",
-    "name": "NRG Energy (Reliant brand) LLC",
+    "id": "nrg-energy-inc",
+    "name": "NRG Energy, Inc.",
     "type": "listed-company",
+    "country": "US",
     "parentId": null,
-    "note": "arena naming-rights holder of houston-texans (2026-27).",
-    "country": "US"
+    "note": "Parent of the Reliant brand, the stadium naming-rights holder at houston-texans (Reliant Stadium, from August 2026)."
   },
   {
     "id": "nsn-never-say-never",
@@ -5347,6 +5698,15 @@
     "name": "ODTY News",
     "type": "private-company",
     "parentId": null
+  },
+  {
+    "id": "oil-industry-pension-fund",
+    "name": "Oil Industry Pension Fund (Iran)",
+    "type": "state-fund",
+    "country": "Iran",
+    "via": "Ministry of Petroleum",
+    "note": "Covering fund of the Iranian oil industry ('صندوق بازنشستگی صنعت نفت'); its then-chairman described it in August 2024 as 'a Petroleum Ministry subsidiary' (ANA), the oil minister chairs its board of trustees (Asr-e Naft, July 2026) and appoints its presiding board (EnergyPress, September 2024). Its investment affiliates include Ehdaf Investment and the Taban Farda Petrochemical group (EcoIran, March 2024). The fund group is the largest shareholder of listed PGPIC (38% per Asr-e Iran, September 2026) and took three of five PGPIC board seats at the September 2026 AGM (Petrochemiha, EnergyPress).",
+    "parentId": "government-of-iran"
   },
   {
     "id": "okta-inc",
@@ -5484,6 +5844,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "ES"
+  },
+  {
+    "id": "panasonic-holdings",
+    "name": "Panasonic Holdings Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Holding company of the Panasonic Group (formerly Matsushita Electric), Kadoma, Osaka; listed on the Tokyo Stock Exchange Prime Market (code 6752). Its own IR site returned HTTP 403 to scripts (checked 2026-10-01), so the shareholder snapshot is cited from ZaimDoc's reproduction of the EDINET securities-report shareholder table."
   },
   {
     "id": "panini-group",
@@ -5626,12 +5994,30 @@
     "country": "US"
   },
   {
+    "id": "pgpic",
+    "name": "Persian Gulf Petrochemical Industries Company (PGPIC)",
+    "type": "listed-company",
+    "country": "Iran",
+    "via": "Oil Industry Pension Fund group: 38% and 3 of 5 board seats (Sept 2026)",
+    "note": "Tehran Stock Exchange listed holding, symbol فارس. Majority shareholder and main shirt sponsor of Esteghlal FC. Designated by US OFAC on 7 June 2019 (E.O. 13382) for providing financial support to the IRGC's Khatam al-Anbiya; sanctions/financial support records are not human-rights records under METHOD.md.",
+    "parentId": "oil-industry-pension-fund"
+  },
+  {
     "id": "philip-morris-international",
     "name": "Philip Morris International Inc.",
     "type": "listed-company",
     "parentId": null,
     "country": "United States",
     "note": "NYSE: PM. Owner of the ZYN nicotine-pouch brand."
+  },
+  {
+    "id": "pidmco",
+    "name": "Petrochemical Industries Development Management Company (PIDMCO)",
+    "type": "private-company",
+    "country": "Iran",
+    "via": "PGPIC",
+    "note": "Unlisted engineering and development-management firm; actions list of the US Treasury (7 June 2019) identifies it among PGPIC subsidiaries 'owned or controlled by PGPIC'; hormuz.group company profile (citing PGPIC information, current as of 2023) says 100% owned by PGPIC.",
+    "parentId": "pgpic"
   },
   {
     "id": "piero-ferrari",
@@ -5679,6 +6065,14 @@
     "country": "US"
   },
   {
+    "id": "pohang-city",
+    "name": "Pohang City (포항시)",
+    "type": "state",
+    "parentId": null,
+    "country": "South Korea",
+    "note": "Municipal government of Pohang, North Gyeongsang Province; the Pohang Steelers 2026 kit carries the city's hometown patch ('포항시 패치') on the right sleeve (K League, 2026-02-10)."
+  },
+  {
     "id": "polestar-automotive",
     "name": "Polestar Automotive Holding UK PLC",
     "type": "listed-company",
@@ -5695,12 +6089,35 @@
     "note": "Financial and industrial holding of the Bosatelli family; controls GEWISS, COSTIM and CHORUS LIFE."
   },
   {
+    "id": "porsche-ag",
+    "name": "Dr. Ing. h.c. F. Porsche AG",
+    "type": "listed-company",
+    "country": "DE",
+    "parentId": "volkswagen-ag"
+  },
+  {
     "id": "port-free-zone-world",
     "name": "Port & Free Zone World FZE",
     "type": "private-company",
     "country": "UAE",
     "via": "wholly owned subsidiary of Dubai World Corporation",
     "parentId": "dubai-world-corporation"
+  },
+  {
+    "id": "posco-co",
+    "name": "POSCO (주식회사 포스코)",
+    "type": "private-company",
+    "parentId": "posco-holdings",
+    "country": "South Korea",
+    "note": "The steel business company that kept the POSCO name in the 2022 group split; a non-listed 100% subsidiary of POSCO Holdings (POSCO Group Newsroom, 2022-02-11)."
+  },
+  {
+    "id": "posco-holdings",
+    "name": "POSCO Holdings Inc. (포스코홀딩스)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "South Korea",
+    "note": "Holding company of the POSCO group, listed on the Korea Exchange (005490). South Korea's National Pension Service held 8.30% as of 18 June 2026 (Newsis, 2026-06-24, reporting the DART filing)."
   },
   {
     "id": "poste-italiane",
@@ -5924,10 +6341,10 @@
   },
   {
     "id": "quiktrip-owner",
-    "name": "QuikTrip LLC",
+    "name": "QuikTrip Corporation",
     "type": "private-company",
     "parentId": null,
-    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "note": "Named per Forbes company profile (opened 2026-10-01): privately held, headquartered in Tulsa, Oklahoma; no state or state fund in the ownership chain.",
     "country": "US"
   },
   {
@@ -5976,6 +6393,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "rajachoos",
+    "name": "Raja Choos Co., Ltd. (Thai Fermentation Industry Co., Ltd.)",
+    "type": "private-company",
+    "country": "Thailand",
+    "note": "Thai MSG maker of the ราชาชูรส (Rajachoos) brand, factory in Ban Pong, Ratchaburi. Company about page (archived June 2026): founded 26 Nov 1967, Thai-Taiwan joint venture 51:49.",
+    "parentId": null
   },
   {
     "id": "rakuten-group-inc",
@@ -6162,6 +6587,14 @@
     "note": "Founder-led group holding behind the Riello UPS brand (riello-elettronica.com/about-us)."
   },
   {
+    "id": "rk-japan",
+    "name": "RK Japan Co., Ltd. (RK Takasago Chain)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "JP",
+    "note": "Per rkexcelamerica.com's corporate page, RK Japan's registered name is RK JAPAN Co., Ltd., with stockholders RK South Asia Sdn. Bhd. and Takasago Tekko Co., Ltd. RK Europe SAS (Houplines, France) is its European subsidiary."
+  },
+  {
     "id": "robert-bosch-gmbh",
     "name": "Robert Bosch GmbH",
     "type": "private-company",
@@ -6201,6 +6634,14 @@
     "parentId": null,
     "note": "arena naming-rights holder of toronto-blue-jays (2026-27).",
     "country": "CA"
+  },
+  {
+    "id": "rohto-pharmaceutical",
+    "name": "Rohto Pharmaceutical Co., Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Osaka-based pharmaceutical and skincare company (ROHTO brand); listed on the Tokyo Stock Exchange (code 4527), per its IR pages (opened 2026-10-01)."
   },
   {
     "id": "rolex-sa",
@@ -6330,6 +6771,14 @@
     "note": "Portuguese insurance broker (Lisbon, NIF 500 906 181) of Grupo SABSEG, which says it was founded in late 1999 by four entrepreneurs and that its capital is 100% Portuguese. Its shareholders aren't named on its pages."
   },
   {
+    "id": "saeta-international-sports-wear",
+    "name": "Saeta International Sports Wear S.A.S.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "CO",
+    "note": "Private Colombian sportswear manufacturer founded in Bogotá in 1982 by Pedro Aníbal Carrero (saetasport.com: 'Saeta Sport nació en 1982'; las2orillas.co, 19 June 2026: still a private Colombian company with the legal name Saeta International Sports Wear S.A.S. and Carrero family members in strategic roles; Infobae, 20 June 2026: Carrero is 'fundador y propietario' of the Saeta brand)."
+  },
+  {
     "id": "safilo-group",
     "name": "Safilo Group S.p.A.",
     "type": "listed-company",
@@ -6360,6 +6809,14 @@
     "type": "listed-company",
     "parentId": null,
     "country": "United States"
+  },
+  {
+    "id": "samart-corporation",
+    "name": "Samart Corporation Public Company Limited",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Thailand",
+    "note": "Listed on the Stock Exchange of Thailand (SAMART). Top-ten major shareholders report (30 Dec 2025): Vilailuck family group 42.176%; remaining top-ten entries are individuals and Thai private companies."
   },
   {
     "id": "samf",
@@ -6483,6 +6940,13 @@
     "parentId": "softbank-group"
   },
   {
+    "id": "schueco-international-kg",
+    "name": "Schüco International KG",
+    "type": "private-company",
+    "country": "DE",
+    "parentId": null
+  },
+  {
     "id": "schwarz-group",
     "name": "Schwarz Group",
     "type": "private-company",
@@ -6531,6 +6995,15 @@
     "parentId": null
   },
   {
+    "id": "securian-financial-group",
+    "name": "Securian Financial Group, Inc.",
+    "type": "private-company",
+    "parentId": "minnesota-mutual-companies",
+    "country": "US",
+    "via": "Securian Holding Company",
+    "note": "Intermediate holding company; its subsidiaries include Minnesota Life Insurance Company and Securian Life Insurance Company. 'Securian Financial' is the group's marketing name."
+  },
+  {
     "id": "securian-financial-owner",
     "name": "Securian Financial Corporation",
     "type": "listed-company",
@@ -6547,10 +7020,12 @@
   },
   {
     "id": "seminole-tribe-of-florida",
-    "name": "Seminole Tribe of Florida (Hard Rock International)",
-    "type": "private-company",
-    "parentId": null,
-    "country": "United States"
+    "name": "Seminole Tribe of Florida",
+    "type": "state",
+    "country": "United States",
+    "via": "Hard Rock says it acquired the Hard Rock brand in 2007 (claim seminole-tribe-of-florida-record)",
+    "note": "Federally recognized tribal government (semtribe.com: \"We are a Federally Recognized Indian Tribe\"); classified as 'state' because the owner type enum has no 'tribe' value.",
+    "parentId": null
   },
   {
     "id": "sesa-spa",
@@ -6591,6 +7066,14 @@
     "parentId": "government-of-bahrain"
   },
   {
+    "id": "shanghai-alliance-investment",
+    "name": "Shanghai Alliance Investment Co., Ltd. (上海联和投资有限公司)",
+    "type": "state",
+    "parentId": "government-of-china",
+    "country": "China",
+    "note": "Shanghai municipal state-owned investment holding company, established 1994. Per Bank of Shanghai's 2025 annual report (cninfo, 2026-04-24), its controlling shareholder and actual controller is the Shanghai Municipal State-owned Assets Supervision and Administration Commission (Shanghai SASAC, 上海市国有资产监督管理委员会). It is Bank of Shanghai's largest shareholder with 14.73% (14.98% with affiliates and concert parties)."
+  },
+  {
     "id": "sheetz-owner",
     "name": "Sheetz",
     "type": "private-company",
@@ -6604,6 +7087,14 @@
     "type": "listed-company",
     "parentId": null,
     "country": "United Kingdom"
+  },
+  {
+    "id": "ship-healthcare-holdings",
+    "name": "Ship Healthcare Holdings, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Osaka healthcare, nursing-care and medical-supply group (SHIP HEALTHCARE brand); listed on the Tokyo Stock Exchange Prime Market (code 3360), per its IR stock-information page (opened 2026-10-01)."
   },
   {
     "id": "shs-stahl-holding-saar",
@@ -6659,6 +7150,14 @@
     "country": "France",
     "via": "Yoni Dayan (born 1985), founder and listed company leader",
     "note": "French corporate registry entry; founded in 2011 by Yoni Dayan per AS Monaco's partners page."
+  },
+  {
+    "id": "singtel",
+    "name": "Singapore Telecommunications Limited (Singtel)",
+    "type": "listed-company",
+    "parentId": "temasek-holdings",
+    "country": "Singapore",
+    "note": "Listed on the SGX Mainboard. Register of substantial shareholders and top-20 list (as at 2 Jun 2026, FY2026 Annual Report): Temasek Holdings (Private) Limited 50.57% direct."
   },
   {
     "id": "sinobo-group-co",
@@ -6851,6 +7350,13 @@
     "type": "private-company",
     "country": "Portugal",
     "note": "SRIJ-licensed Portuguese operating entity of the Lebull online betting brand (licences 027/028, Lisbon, NIF 515539988). Ownership not disclosed in the sources checked.",
+    "parentId": null
+  },
+  {
+    "id": "sparda-bank-berlin-eg",
+    "name": "Sparda-Bank Berlin eG",
+    "type": "private-company",
+    "country": "DE",
     "parentId": null
   },
   {
@@ -7199,6 +7705,14 @@
     "country": "US"
   },
   {
+    "id": "tashkent-city-administration",
+    "name": "Tashkent City Administration (Toshkent shahar hokimiyati)",
+    "type": "state",
+    "country": "Uzbekistan",
+    "note": "Uzbekistan's city state administration for Tashkent; tashkent.uz is its official portal ('Тошкент шаҳар ҳокимияти расмий сайти'). Listed in Pakhtakor's homepage partners section.",
+    "parentId": "government-of-uzbekistan"
+  },
+  {
     "id": "tbc-bank-group",
     "name": "TBC Bank Group PLC",
     "type": "listed-company",
@@ -7276,6 +7790,13 @@
     "note": "Madrid-listed telecom (BME: TEF). Its 2025 Annual Report on Corporate Governance says no person or entity exercises control over Telefónica; significant shareholders at 31 December 2025: SEPI 10.00%, Criteria Caixa 9.99%, Public Investment Fund 9.97% (indirect, via Green Bridge Investment Company SCS / stc), BBVA 5.01%, BlackRock 5.01%. 50% shareholder of Virgin Media O2."
   },
   {
+    "id": "telekom-deutschland-gmbh",
+    "name": "Telekom Deutschland GmbH",
+    "type": "private-company",
+    "country": "DE",
+    "parentId": "deutsche-telekom-ag"
+  },
+  {
     "id": "telus-corporation",
     "name": "TELUS Corporation",
     "type": "listed-company",
@@ -7295,6 +7816,22 @@
     "type": "private-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "thai-beverage",
+    "name": "Thai Beverage Public Company Limited",
+    "type": "listed-company",
+    "country": "Thailand",
+    "note": "Listed on the Singapore Exchange (SGX-ST) since 2006 (company about page). Controls the Chang beer brand among its beer business.",
+    "parentId": null
+  },
+  {
+    "id": "thai-beverage-pcl",
+    "name": "Thai Beverage Public Company Limited (ThaiBev)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Thailand",
+    "note": "Listed on the Singapore Exchange Mainboard (Y92). FY2025 Annual Report register of substantial shareholders (as at 11 Dec 2025): Siriwana Co., Ltd. 45.24% direct (plus 20.60% deemed via Siriwanan Co., Ltd.) and members of the Sirivadhanabhakdi family holding deemed interests of 65.84% in total; public float approx. 27.67%."
   },
   {
     "id": "the-friedkin-group",
@@ -7336,6 +7873,13 @@
     "country": "United States"
   },
   {
+    "id": "thomas-philipps-gmbh-co-kg",
+    "name": "Thomas Philipps GmbH & Co. KG",
+    "type": "private-company",
+    "country": "DE",
+    "parentId": null
+  },
+  {
     "id": "thornico-as",
     "name": "THORNICO A/S",
     "type": "private-company",
@@ -7366,6 +7910,13 @@
     "country": "Spain"
   },
   {
+    "id": "toolcraft-ag",
+    "name": "toolcraft AG",
+    "type": "private-company",
+    "country": "DE",
+    "parentId": null
+  },
+  {
     "id": "totalenergies-se",
     "name": "TotalEnergies SE",
     "type": "listed-company",
@@ -7378,6 +7929,14 @@
     "type": "private-company",
     "country": "Austria",
     "parentId": "motorsport-invest"
+  },
+  {
+    "id": "toyo-tire-corporation",
+    "name": "Toyo Tire Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Itami, Hyogo-based tyre maker (TOYO TIRES brand); listed on the Tokyo Stock Exchange Prime Market (code 5105). Per its IR shareholder page (opened 2026-10-01), Mitsubishi Corporation was the largest holder (20.01% as of 2026-06-30) and ceased to qualify as a major shareholder on 2026-08-10."
   },
   {
     "id": "toyota-motor-corporation",
@@ -7409,6 +7968,14 @@
     "note": "Shenzhen-headquartered; TECNO's parent. Listed on the SSE Star Market in 2019 (transsion.com/en/about)."
   },
   {
+    "id": "traton-se",
+    "name": "TRATON SE (Scania, MAN, International)",
+    "type": "listed-company",
+    "parentId": "volkswagen-ag",
+    "via": "Volkswagen International Luxemburg S.A. (Volkswagen Group) held 87.52% of TRATON SE's share capital at 31 December 2025",
+    "country": "DE"
+  },
+  {
     "id": "trenitalia",
     "name": "Trenitalia S.p.A.",
     "type": "private-company",
@@ -7431,6 +7998,14 @@
     "parentId": null,
     "note": "arena naming-rights holder of atlanta-braves (2026-27).",
     "country": "USA"
+  },
+  {
+    "id": "trustbank",
+    "name": "Trastbank PJSC (Trustbank)",
+    "type": "private-company",
+    "country": "Uzbekistan",
+    "note": "'«Trastbank» хususiy aksiyadorlik banki' per its own footer. Its 'shareholders holding over 5 per cent' disclosure lists only private individuals/companies: Parpiyev D.B. 24.635%, Sharipov T.M. 21.915%, Presystem Universal 17.995% (beneficiaries Sharipov T.M., Parpiyev D.B.), Maxmudova D.M. 15.03%, Diminur Group 12.115%, MADI GmbH 5.00%.",
+    "parentId": null
   },
   {
     "id": "tsakos-energy-navigation",
@@ -7671,11 +8246,11 @@
   },
   {
     "id": "uw-health-owner",
-    "name": "UW Health",
+    "name": "University of Wisconsin Hospitals and Clinics Authority",
     "type": "state",
     "parentId": null,
-    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
-    "country": "USA"
+    "country": "USA",
+    "note": "A Wisconsin public body corporate and politic created by Wis. Stat. §233.02(1) (ch. 233); UW Health is its combined clinical enterprise with University of Wisconsin Medical Foundation, Inc. The live statute page (docs.legis.wisconsin.gov) did not answer from the research environment; the statute was read via the Wayback Machine."
   },
   {
     "id": "valeanse",
@@ -7684,6 +8259,15 @@
     "parentId": null,
     "country": "FR",
     "note": "SAS (SIREN 798816682, created 2013, 490 rue Augustin Jacq, Brest) trading as GROUPE SOFT; the company register lists Fabrice Paul Lucien Boudinet as Président de SAS. Its shareholders are not in the cited sources."
+  },
+  {
+    "id": "van-rysel",
+    "name": "Van Rysel",
+    "type": "private-company",
+    "country": "France",
+    "parentId": "decathlon",
+    "via": "brand sold and guaranteed by Decathlon",
+    "note": "Road-cycling brand; Decathlon's bike-guarantee page lists Van Rysel among 'nos vélos' (van-rysel-decathlon-brand)."
   },
   {
     "id": "vargos",
@@ -7793,6 +8377,13 @@
     "country": "GB"
   },
   {
+    "id": "volksbank-brawo-eg",
+    "name": "Volksbank BRAWO eG",
+    "type": "private-company",
+    "country": "DE",
+    "parentId": null
+  },
+  {
     "id": "volkswagen-ag",
     "name": "Volkswagen Group AG",
     "type": "listed-company",
@@ -7816,6 +8407,13 @@
     "note": "Swedish car maker, listed on Nasdaq Stockholm. Per Polestar's 20-F 2025, Geely owns a controlling number of equity interests in Volvo Cars (approximately 78.7% per the same filing). Holds approximately 19.9% of Polestar through Snita Holding B.V."
   },
   {
+    "id": "vonovia-se",
+    "name": "Vonovia SE",
+    "type": "listed-company",
+    "country": "DE",
+    "parentId": null
+  },
+  {
     "id": "vtb",
     "name": "Bank VTB (PJSC)",
     "type": "listed-company",
@@ -7823,6 +8421,22 @@
     "parentId": "russian-federation",
     "via": "Rosimushchestvo holds 60.93% of ordinary shares; Minfin holds 32.88% of preference shares",
     "note": "Majority state-controlled per VTB's own IR shareholder-structure page."
+  },
+  {
+    "id": "wacoal-corp",
+    "name": "Wacoal Corp.",
+    "type": "private-company",
+    "parentId": "wacoal-holdings-corp",
+    "country": "Japan",
+    "note": "Intimate-apparel maker; a full subsidiary of Wacoal Holdings Corp. since 1 October 2005 (Wacoal Holdings company profile)."
+  },
+  {
+    "id": "wacoal-holdings-corp",
+    "name": "Wacoal Holdings Corp.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan",
+    "note": "Holding company of the Wacoal group; listed on the Tokyo Stock Exchange Prime market (code 3591); major shareholders as of 31 March 2026 listed on wacoalholdings.jp."
   },
   {
     "id": "wako-kosan",
@@ -7904,6 +8518,14 @@
     "note": "French online betting and poker operator (RCS Paris 492 155 932); its shareholders and founders are Alexandre Roos and Christophe Schaming."
   },
   {
+    "id": "wings-for-life",
+    "name": "Wings for Life – International Spinal Cord Research Foundation",
+    "type": "private-company",
+    "parentId": null,
+    "country": "AT",
+    "note": "Non-profit spinal-cord research foundation founded in 2004 by Heinz Kinigadner and Dietrich Mateschitz; Fürstenallee 4, 5020 Salzburg, Austria (FN 251592p). Red Bull bears its administrative costs (its own 'Our mission' page)."
+  },
+  {
     "id": "winline",
     "name": "Winline",
     "type": "private-company",
@@ -7920,6 +8542,30 @@
     "parentId": null
   },
   {
+    "id": "wolfgang-fabian",
+    "name": "Wolfgang Fabian (founder and majority owner of Interwetten, per 2018 report)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "AT",
+    "note": "Interwetten Gaming Ltd is based in Malta. The only sourced owner statement found is a December 2018 report; no later change of control was found."
+  },
+  {
+    "id": "woori-bank-co",
+    "name": "Woori Bank Co., Ltd. (우리은행)",
+    "type": "private-company",
+    "parentId": "woori-financial-group",
+    "country": "South Korea",
+    "note": "Woori Bank became a wholly owned subsidiary of Woori Financial Group in the 2019 comprehensive stock transfer (Woori Financial Group's SEC-filed financial-statement notes)."
+  },
+  {
+    "id": "woori-financial-group",
+    "name": "Woori Financial Group Inc. (우리금융지주)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "South Korea",
+    "note": "Financial holding company listed on the Korea Exchange (316140). Fully privatised: the Korea Deposit Insurance Corporation's remaining stake was fully cancelled in 2024 (Maeil Business News, 2026-09-07)."
+  },
+  {
     "id": "workday-inc",
     "name": "Workday, Inc.",
     "type": "listed-company",
@@ -7933,6 +8579,22 @@
     "parentId": null,
     "country": "Belgium",
     "note": "Belgian holding company started in 2018 as SD Worx's investment arm; parent of SD Worx (Cyclist, 2026-07-14)."
+  },
+  {
+    "id": "wp-suspension-gmbh",
+    "name": "WP Suspension (WP brand, Mattighofen)",
+    "type": "private-company",
+    "parentId": "ktm-ag",
+    "via": "WP is one of the Bajaj Mobility / KTM group brands per the group's own site",
+    "country": "AT"
+  },
+  {
+    "id": "wrs-srl",
+    "name": "WRS S.r.l.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "IT",
+    "note": "Cattolica (RN), Italy; VAT P.Iva 02590120412 per the footer of its own site. No public shareholding disclosure found."
   },
   {
     "id": "wuhan-financial-holdings",

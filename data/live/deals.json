@@ -487,6 +487,132 @@
     "note": "Club owner (or part-owner)."
   },
   {
+    "id": "alpine-3d-systems",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "3d-systems",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – 3D Systems partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-3d-systems",
+      "quote": "More than 35 years ago, 3D Systems brought the innovation of 3D printing to the manufacturing industry. Today, as the leading Additive Manufacturing solutions partner, we bring innovation, performance, and",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team 3D Systems on the 2026 car."
+  },
+  {
+    "id": "alpine-alpinestars",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "alpinestars",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Alpinestars partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-alpine-stars",
+      "quote": "Alpinestars, the world’s premier motorsports performance protection manufacturer, has been racing at the highest levels of motorsports for more than 60 years.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Alpinestars on the 2026 car."
+  },
+  {
+    "id": "alpine-arctic-wolf",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "arctic-wolf",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Arctic Wolf partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-arctic-wolf",
+      "quote": "Arctic Wolf® is a global security operations leader, delivering a premier cloud-native security operations platform designed to end cyber risk.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Arctic Wolf on the 2026 car."
+  },
+  {
+    "id": "alpine-atkinsrealis",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "atkinsrealis",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – AtkinsRéalis partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-atkinsrealis",
+      "quote": "Created by the integration of long-standing organisations dating back to 1911, AtkinsRéalis is a world-class engineering services and nuclear company dedicated to engineering a better future for our planet and",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team AtkinsRéalis on the 2026 car."
+  },
+  {
+    "id": "alpine-avature",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "avature",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Avature partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-avature",
+      "quote": "Avature is a global leader in enterprise human capital management, delivering a powerful AI-driven platform designed to help organisations attract, develop and retain top talent as well as manage and",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Avature on the 2026 car."
+  },
+  {
+    "id": "alpine-beforeyouspeak-coffee",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "beforeyouspeak-coffee",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Beforeyouspeak Coffee partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-beforeyouspeak-coffee",
+      "quote": "Leading performance coffee brand, Beforeyouspeak Coffee has joined forces with BWT Alpine Formula One Team as Exclusive Coffee Provider.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Beforeyouspeak Coffee on the 2026 car."
+  },
+  {
     "id": "alpine-boeing",
     "clubId": "alpine",
     "orgName": null,
@@ -503,6 +629,48 @@
     "note": "BWT Alpine F1 Team other partner on the 2026 car."
   },
   {
+    "id": "alpine-built-for-athletes",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "built-for-athletes",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Built For Athletes partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-built-for-athletes",
+      "quote": "As BWT Alpine Formula One Team continues to push the boundaries of performance on the track, Built For Athletes is proud to support their journey with gear designed to enhance",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Built For Athletes on the 2026 car."
+  },
+  {
+    "id": "alpine-businessolver",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "businessolver",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Businessolver partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-businessolver",
+      "quote": "At Businessolver, we are dedicated to delivering delight through our benefits technology and services. For over 25 years, our innovative benefits administration platform has addressed unique challenges faced by Human",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Businessolver on the 2026 car."
+  },
+  {
     "id": "alpine-bwt",
     "clubId": "alpine",
     "orgName": null,
@@ -517,6 +685,111 @@
       "url": "https://www.alpinef1.com/partners"
     },
     "note": "BWT Alpine F1 Team title partner on the 2026 car."
+  },
+  {
+    "id": "alpine-castore",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "castore",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Castore partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-castore",
+      "quote": "Castore is a performance sportswear brand and end-to-end digital retailing platform for global sports teams.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Castore on the 2026 car."
+  },
+  {
+    "id": "alpine-cato-networks",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "cato-networks",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Cato Networks partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-cato-networks",
+      "quote": "Cato Networks delivers enterprise security and networking in a single cloud platform. The SASE leader creates a seamless and elegant customer experience that effortlessly enables threat prevention, data protection, and",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Cato Networks on the 2026 car."
+  },
+  {
+    "id": "alpine-d3o",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "d3o",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – D3O partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-d3o",
+      "quote": "D3O® is the world's leading protection company, keeping you and your things safe from harm caused by impact, vibration and fatigue. During the 2026 FIA Formula One World Championship™ season,",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team D3O on the 2026 car."
+  },
+  {
+    "id": "alpine-delphi",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "delphi",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Delphi partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-partner-delphi",
+      "quote": "Delphi, a brand of PHINIA Inc., is a global Aftermarket leader championing next-generation talent, first-to-market innovations, market leading products and smart service solutions, for a better and more connected today",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Delphi on the 2026 car."
+  },
+  {
+    "id": "alpine-endstate",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "endstate",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Endstate partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-licensee-endstate",
+      "quote": "Endstate announce a licensing partnership with BWT Alpine Formula One Team, unveiling a contemporary luxury travel sneaker designed specifically for the team. The collaboration marks a significant milestone in merging",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Endstate on the 2026 car."
   },
   {
     "id": "alpine-eni",
@@ -551,11 +824,263 @@
     "note": "BWT Alpine F1 Team other partner on the 2026 car."
   },
   {
+    "id": "alpine-eurodatacar",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "eurodatacar",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Eurodatacar partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-eurodatacar",
+      "quote": "Eurodatacar is the leader in the field of antitheft marking, approved by insurance companies for theft protection since 1978. Eurodatacar is distributed by the biggest car brands and car dealers",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Eurodatacar on the 2026 car."
+  },
+  {
+    "id": "alpine-h-moser-cie",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "h-moser-cie",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – H. Moser & Cie. partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/premium-partner-moser",
+      "quote": "H. Moser & Cie. was created by Heinrich Moser in 1828. Based in Neuhausen am Rheinfall, it currently employs 120 people globally, has developed 18 in-house calibres to date and",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team H. Moser & Cie. on the 2026 car."
+  },
+  {
+    "id": "alpine-hmn24",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "hmn24",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – HMN24 partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-hmn24",
+      "quote": "HMN24 was created to address the enormous physiological impacts of circadian misalignment, jet lag, and modern stressors on cellular, cardiovascular, metabolic, and mental.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team HMN24 on the 2026 car."
+  },
+  {
+    "id": "alpine-indramind",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "indramind",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – IndraMind partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-indra",
+      "quote": "IndraMind is Indra Group's technological initiative that develops sovereign artificial intelligence within a cyber-resilient environment",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team IndraMind on the 2026 car."
+  },
+  {
+    "id": "alpine-jaaq",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "jaaq",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – JAAQ partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-jaaq",
+      "quote": "On a mission to improve the mental health of one billion people, British entrepreneur Danny Gray, fuelled by his life-long battle with Body Dysmorphic Disorder, launched JAAQ - Just Ask",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team JAAQ on the 2026 car."
+  },
+  {
+    "id": "alpine-lumi",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "lumi",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – LUMI partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-lumi",
+      "quote": "Established in 2020, Lumi Therapy has quickly emerged as an innovative and forward-thinking online company in the sports therapy and wellness industry. The company was founded by two fitness enthusiasts,",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team LUMI on the 2026 car."
+  },
+  {
+    "id": "alpine-m-experiment",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "m-experiment",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – M-Experiment partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-m-experiment",
+      "quote": "Progress has never belonged to the comfortable. It belongs to the engineers, the drivers, the builders—the ones willing to test limits, challenge convention, and push beyond what’s already been proven.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team M-Experiment on the 2026 car."
+  },
+  {
+    "id": "alpine-matrix",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "matrix",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Matrix partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-matrix",
+      "quote": "Matrix Fitness – A total solutions partner - is the commercial division of Johnson Health Tech. Matrix is comprised of a complete range of premium, commercial-grade cardiovascular and strength-training equipment",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Matrix on the 2026 car."
+  },
+  {
+    "id": "alpine-mercado-libre",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "mercado-libre",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Mercado Libre partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-mercado-libre",
+      "quote": "Founded in 1999, Mercado Libre, Inc (NASDAQ: MELI) is the leading company in e-commerce and financial technology in Latin America, with operations in 18 countries.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Mercado Libre on the 2026 car."
+  },
+  {
+    "id": "alpine-mission",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "mission",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – MISSION partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-mission",
+      "quote": "MISSION is a performance tea brand dedicated to tackling the caffeine crisis with slow-release energy.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team MISSION on the 2026 car."
+  },
+  {
+    "id": "alpine-mobilize-financial-services",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "mobilize-financial-services",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Mobilize Financial Services partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-mobilize-financial-services",
+      "quote": "Attentive to the needs of all its customers, Mobilize Financial Services, a subsidiary of Renault Group, creates innovative financial services to build sustainable mobility for all.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Mobilize Financial Services on the 2026 car."
+  },
+  {
+    "id": "alpine-modo-casino",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "modo-casino",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – MODO Casino partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-modo-casino",
+      "quote": "MODO Casino has hundreds of Free To Play Social Casino-Style Games. Enjoy an immersive social gaming experience with a wide variety of thrilling casino games. Spin the reels, place your",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team MODO Casino on the 2026 car."
+  },
+  {
     "id": "alpine-msc-cruises",
     "clubId": "alpine",
     "orgName": null,
     "sponsorId": "msc-cruises",
-    "placement": "partner",
+    "placement": "sleeve",
     "from": "2026",
     "to": null,
     "value": null,
@@ -564,7 +1089,91 @@
       "date": "2026-09-24",
       "url": "https://www.alpinef1.com/partners"
     },
-    "note": "BWT Alpine F1 Team other partner on the 2026 car."
+    "note": "BWT Alpine F1 Team premium partner on the 2026 car."
+  },
+  {
+    "id": "alpine-new-era",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "new-era",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – New Era partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-new-era",
+      "quote": "Together with BWT Alpine Formula One Team, New Era unites the forefront of boundary-pushing motorsport with the pinnacle of performance and lifestyle headwear.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team New Era on the 2026 car."
+  },
+  {
+    "id": "alpine-oakberry",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "oakberry",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Oakberry partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-oakberry",
+      "quote": "OAKBERRY was founded in Brazil in 2016 by Georgios Frangulis and Renato Haidar following a dream to create a quick-service superfood brand that is delicious, easy and fun to eat,",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Oakberry on the 2026 car."
+  },
+  {
+    "id": "alpine-perfect-moment",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "perfect-moment",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Perfect Moment partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-licensee-perfect-moment",
+      "quote": "BWT Alpine Formula One Team and Luxury skiwear and lifestyle brand Perfect Moment (NYSE American; PMNT) will come together to reveal a special-edition, capsule collection that effortlessly fuses Perfect Moment’s",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Perfect Moment on the 2026 car."
+  },
+  {
+    "id": "alpine-pirelli",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "pirelli",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Pirelli partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-pirelli",
+      "quote": "Established in 1872, Pirelli is among the world’s leading tyre producers. It is the only pure consumer tyre company that includes car, motorbike, and bicycle tyres as well as associated",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Pirelli on the 2026 car."
   },
   {
     "id": "alpine-qatar-airways",
@@ -581,6 +1190,237 @@
       "url": "https://www.qatarairways.com/press-releases/en-WW/258365-qatar-airways-and-bwt-alpine-formula-one-team-unite-with-carmen-jorda-to-champion-female-empowerment-in-motorsport-and-aviation/"
     },
     "note": "BWT Alpine F1 Team other partner on the 2026 car."
+  },
+  {
+    "id": "alpine-r5-turbo-3e",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "r5-turbo-3e",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – R5 Turbo 3E partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/premium-partner-R5TURBO3E",
+      "quote": "R5 TURBO 3E",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team R5 Turbo 3E on the 2026 car."
+  },
+  {
+    "id": "alpine-roland-dg",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "roland-dg",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Roland DG partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-roland",
+      "quote": "Japanese manufacturer, Roland DG, have pioneered development of digital printing and CNC technology over the past 45 years. Today, they are the leading name in the field of print and",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Roland DG on the 2026 car."
+  },
+  {
+    "id": "alpine-sealsq",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "sealsq",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – SEALSQ partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-sealsq",
+      "quote": "SEALSQ (NASDAQ: LAES) is a leading company in semiconductor, cybersecurity, and digital identity technologies, pioneering the transition toward quantum-ready security. From connected devices to cloud infrastructures and mobility systems, SEALSQ",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team SEALSQ on the 2026 car."
+  },
+  {
+    "id": "alpine-shamir",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "shamir",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Shamir partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-shamir",
+      "quote": "Shamir is a world-leading developer, producer and marketer of personalized high-performance ophthalmic lenses and innovative optical solutions. Eyecare professionals the world over recommend Shamir’s lenses thanks to uncompromising quality, cutting-edge",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Shamir on the 2026 car."
+  },
+  {
+    "id": "alpine-skip",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "skip",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Skip partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/regional-partner-skip",
+      "quote": "The regional partnership will promote Skip across Argentina and Uruguay through “Ready for the Next Lap” campaign",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Skip on the 2026 car."
+  },
+  {
+    "id": "alpine-the-james-brand",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "the-james-brand",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – The James Brand partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-licensee-the-james-brand",
+      "quote": "Based on the adage that if you can’t find what you want, you might have to make it yourself, we decided to put pen to paper and design something new:",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team The James Brand on the 2026 car."
+  },
+  {
+    "id": "alpine-the-venetian-resort",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "the-venetian-resort",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – The Venetian Resort partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-the-venetian-resort",
+      "quote": "The Venetian Resort Las Vegas marries the warmth of Venice with the thrill of Vegas to create a dazzling all-suite destination with over 7,000 suites that are nearly double the",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team The Venetian Resort on the 2026 car."
+  },
+  {
+    "id": "alpine-trak-racer",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "trak-racer",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Trak Racer partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-trak-racer",
+      "quote": "Since 2008, Trak Racer has been designing high-end gaming accessories. Trak Racer products are made from high-quality materials and with a durable construction that gives Trak Racer the confidence to",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Trak Racer on the 2026 car."
+  },
+  {
+    "id": "alpine-united-machining",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "united-machining",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – United Machining partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-supplier-united-machining",
+      "quote": "United Machining is one of the world's leading providers of complete solutions for precision components and tools manufacturers and the mold-making industry.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team United Machining on the 2026 car."
+  },
+  {
+    "id": "alpine-valvoline",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "valvoline",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – Valvoline partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-valvoline",
+      "quote": "Valvoline™ Global, being America’s first branded motor oil, is powering the next generation of mobility through innovation for customers in 140+ countries and at more than 80,000 points of distribution.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team Valvoline on the 2026 car."
+  },
+  {
+    "id": "alpine-viagogo",
+    "clubId": "alpine",
+    "orgName": null,
+    "sponsorId": "viagogo",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BWT Alpine Formula One Team – viagogo partner page",
+      "date": "2026-10-01",
+      "url": "https://www.alpinef1.com/partners/team-partner-viagogo",
+      "quote": "viagogo is the world’s leading marketplace to buy and sell tickets to any live event, anywhere. Through viagogo internationally and StubHub, their platform in North America, they service customers in",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "BWT Alpine F1 Team viagogo on the 2026 car."
   },
   {
     "id": "altrad-rugby-new-zealand",
@@ -688,15 +1528,20 @@
     "orgName": "Desert Financial Credit Union",
     "sponsorId": "desert-financial-credit-union",
     "placement": "training-kit",
-    "from": "2025",
+    "from": "2024",
     "to": null,
     "value": null,
     "source": {
-      "name": "Zoomph (2026 NFL practice jersey patch guide)",
-      "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "name": "Arizona Cardinals – Cardinals, Desert Financial Announce Details Of New Partnership",
+      "date": "2024-09-10",
+      "url": "https://www.azcardinals.com/news/cardinals-desert-financial-announce-details-of-new-partnership",
+      "quote": "the Desert Financial Credit Union logo will now be prominently displayed on Cardinals practice jerseys worn throughout the year.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch. Announced 2024-09-10 as part of a multi-year partnership."
   },
   {
     "id": "arizona-cardinals-state-farm-stadium",
@@ -704,15 +1549,20 @@
     "orgName": "State Farm",
     "sponsorId": "state-farm",
     "placement": "stadium",
-    "from": null,
+    "from": "2018",
     "to": null,
     "value": null,
     "source": {
-      "name": "State Farm Newsroom",
+      "name": "State Farm Newsroom – Cardinals Reach Naming Rights Agreement with State Farm; Iconic Arizona Venue to be Known as State Farm Stadium",
       "date": "2018-09-04",
-      "url": "https://newsroom.statefarm.com/state-farm-stadium-announcement-phoenix/"
+      "url": "https://newsroom.statefarm.com/state-farm-stadium-announcement-phoenix/",
+      "quote": "reached agreement on an 18-year naming rights commitment that results in the team’s home venue becoming State Farm Stadium.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: State Farm Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2018-09-04."
+    "note": "Arena naming rights: State Farm Stadium, announced 2018-09-04 (18-year commitment)."
   },
   {
     "id": "arizona-diamondbacks-avnet-patch",
@@ -724,11 +1574,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "MLB.com / Arizona Diamondbacks",
+      "name": "MLB.com / Arizona Diamondbacks: Arizona Diamondbacks and Avnet announce new partnership to include first ever jersey patch",
       "date": "2023-02-02",
-      "url": "https://www.mlb.com/press-release/press-release-arizona-diamondbacks-and-avnet-announce-new-partnership-to-include"
+      "url": "https://www.mlb.com/press-release/press-release-arizona-diamondbacks-and-avnet-announce-new-partnership-to-include",
+      "quote": "The Arizona Diamondbacks have entered a multi-year partnership with Avnet that will include the company's \"A\" and name on the sleeve of the D-backs' jerseys beginning with the 2023 season",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch (sleeve). Multi-year partnership announced 2023-02-02; no figure disclosed."
   },
   {
     "id": "arizona-diamondbacks-jpmorgan-chase-stadium",
@@ -736,15 +1591,20 @@
     "orgName": "JPMorgan Chase (Chase)",
     "sponsorId": "jpmorgan-chase",
     "placement": "stadium",
-    "from": "2026",
+    "from": "2005",
     "to": null,
     "value": null,
     "source": {
-      "name": "Ballparks of Baseball",
-      "date": "2025-01-01",
-      "url": "https://www.ballparksofbaseball.com/ballparks/chase-field/"
+      "name": "East Valley Tribune: Bank One Ballpark renamed Chase Field",
+      "date": "2005-09-23",
+      "url": "https://www.eastvalleytribune.com/news/article_ce5c2161-c002-5744-b4c7-63fcb29d02cb.html",
+      "quote": "Chase assumed Bank One's 30-year, $100 million commitment to the Diamondbacks in the merger.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Chase Field."
+    "note": "Arena naming rights: Chase Field. Chase assumed Bank One's naming-rights commitment when the banks merged; the ballpark was renamed in September 2005. The same article reports Chase commits about $3 million a year, escalating; Ballparks of Baseball reports $2.2 million a year through 2028 (the two disagree)."
   },
   {
     "id": "arouca-bwin-front",
@@ -1704,14 +2564,19 @@
     "sponsorId": "quikrete",
     "placement": "patch",
     "from": "2023",
-    "to": null,
+    "to": "2036",
     "value": null,
     "source": {
-      "name": "MLB.com press release (Atlanta Braves)",
+      "name": "QUIKRETE press release (PDF): Atlanta Braves Name QUIKRETE® as the Team's First Official Jersey Patch Partner",
       "date": "2023-05-18",
-      "url": "https://www.mlb.com/press-release/press-release-atlanta-braves-name-quikrete-as-the-team-s-first-official-jersey-p"
+      "url": "https://www.quikrete.com/media/news-releases/quikrete-jersey-patch-press.pdf",
+      "quote": "the Atlanta Braves announced Atlanta-headquartered concrete and cementitious products manufacturer QUIKRETE® as the team’s official jersey patch partner for the next five seasons",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch, first signed 2023-05-18 for five seasons; extended in March 2026 through the 2036 season (see change 2026-03-17-braves-quikrete)."
   },
   {
     "id": "atlanta-braves-truist-stadium",
@@ -1723,9 +2588,14 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Truist media release",
+      "name": "Truist media release: Truist and the Atlanta Braves Announce Truist Park as New Name of SunTrust Park",
       "date": "2020-01-14",
-      "url": "https://media.truist.com/2020-01-14-Truist-and-the-Atlanta-Braves-Announce-Truist-Park-as-New-Name-of-SunTrust-Park"
+      "url": "https://media.truist.com/2020-01-14-Truist-and-the-Atlanta-Braves-Announce-Truist-Park-as-New-Name-of-SunTrust-Park",
+      "quote": "Truist Financial Corporation (NYSE: TFC) and the Atlanta Braves today announced that SunTrust Park will be renamed Truist Park as a continuation of its naming rights partnership",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Arena naming rights: Truist Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2020-01-14."
   },
@@ -1735,15 +2605,20 @@
     "orgName": "AT&T",
     "sponsorId": "att",
     "placement": "training-kit",
-    "from": "2016",
+    "from": null,
     "to": null,
     "value": null,
     "source": {
       "name": "Zoomph (NFL practice-jersey sponsor tracker)",
-      "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "date": "2026",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+      "quote": "With the Falcons adding AT&T to their practice jerseys, they are now one of just two brands with two NFL partners",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch. Start year unknown: the record previously said 2016 without a source; its source lists AT&T as the Falcons' 2026 practice-jersey sponsor but gives no start date."
   },
   {
     "id": "atlanta-falcons-mercedes-benz-stadium",
@@ -1751,15 +2626,20 @@
     "orgName": "Mercedes-Benz",
     "sponsorId": "mercedes-benz",
     "placement": "stadium",
-    "from": null,
-    "to": null,
+    "from": "2015",
+    "to": "2042",
     "value": null,
     "source": {
       "name": "PR Newswire / Mercedes-Benz USA",
       "date": "2015-08-24",
-      "url": "https://prnewswire.com/news-releases/its-official-mercedes-benz-signs-naming-rights-agreement-for-iconic-new-venue-in-atlanta-300132208.html"
+      "url": "https://prnewswire.com/news-releases/its-official-mercedes-benz-signs-naming-rights-agreement-for-iconic-new-venue-in-atlanta-300132208.html",
+      "quote": "Mercedes-Benz USA (MBUSA) will be the naming partner of the new Atlanta stadium, now officially named Mercedes-Benz Stadium. The agreement, which continues through 2042",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Mercedes-Benz Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2015-08-24."
+    "note": "Arena naming rights: Mercedes-Benz Stadium, announced 24 Aug 2015; the release says the agreement runs through 2042."
   },
   {
     "id": "atlanta-hawks-paze-patch",
@@ -1771,11 +2651,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Sports Business Journal",
+      "name": "PR Newswire: Paze from Early Warning and the Atlanta Hawks announce multi-year jersey patch partnership",
       "date": "2025-09-29",
-      "url": "https://www.sportsbusinessjournal.com/Articles/2025/09/29/hawks-select-digital-wallet-paze-as-jersey-patch-sponsor"
+      "url": "https://www.prnewswire.com/news-releases/paze-from-early-warning-and-the-atlanta-hawks-announce-multi-year-jersey-patch-partnership-302569055.html",
+      "quote": "a multi-year partnership in which Paze, an online checkout solution developed by Early Warning Services and offered by participating banks and credit unions, will become the Official Jersey Patch Partner",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. Multi-year partnership; financial terms not disclosed (American Banker, 2025-10-01, reported a five-year term)."
   },
   {
     "id": "atlanta-hawks-state-farm-stadium",
@@ -1792,6 +2677,48 @@
       "url": "https://www.peachtreehoops.com/2018/8/29/17795914/atlanta-hawks-state-farm-arena-philips-naming-rights-announcement"
     },
     "note": "Arena naming rights: State Farm Arena. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2018-08-29."
+  },
+  {
+    "id": "atlanta-united-american-family-insurance-front",
+    "clubId": "atlanta-united",
+    "orgName": null,
+    "sponsorId": "american-family-insurance",
+    "placement": "front",
+    "from": "2017",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "American Family Insurance newsroom: 'Atlanta United releases \"The Connector\" as new Club Kit'",
+      "date": "2025-02-14",
+      "url": "https://newsroom.amfam.com/atlanta-united-releases-the-connector-as-new-club-kit/",
+      "quote": "American Family Insurance has been pleased to partner with Atlanta United as the kit sponsor since 2017",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The 2026 release counts this as the 10th consecutive season as front ('centerpiece') partner. End date and value were not disclosed."
+    }
+  },
+  {
+    "id": "atlanta-united-emory-healthcare-sleeve",
+    "clubId": "atlanta-united",
+    "orgName": null,
+    "sponsorId": "emory-healthcare",
+    "placement": "sleeve",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Atlanta United: 'Emory Healthcare Named Founding Partner of AMB Sports and Entertainment'",
+      "date": "2025-02-14",
+      "url": "https://www.atlutd.com/news/emory-healthcare-named-founding-partner-amb-sports-and-entertainment",
+      "quote": "Emory Healthcare’s logo will be featured on the sleeve of Atlanta United’s kits",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Announced as the club's 'Kit Patch Partner' debuting in the 2025 season; the 2026 release says Emory returns for a second year. End date and value were not disclosed."
+    }
   },
   {
     "id": "atletico-de-madrid-riyadh-air",
@@ -2020,6 +2947,49 @@
       "url": "https://www.audi.com/en/press-releases/visit-qatar-welcomed-by-the-future-audi-f1-team-as-a-new-principal-partner-16923"
     },
     "note": "Audi Revolut F1 Team other partner on the 2026 car."
+  },
+  {
+    "id": "austin-fc-siete-foods",
+    "clubId": "austin-fc",
+    "orgName": null,
+    "sponsorId": "siete-foods",
+    "placement": "sleeve",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Sports Business Journal – 'Siete Foods seizes Austin FC sleeve space following PepsiCo acquisition'",
+      "date": "2025-01-28",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2025/01/28/austin-fc-siete-foods-pepsico/",
+      "short": "SBJ",
+      "quote": "Financial terms of the partnership were not disclosed, but industry sources pegged the value of MLS sleeve sponsorships at $1M-$2M per season.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Siete's logo went on the right sleeve from 2025. Terms not disclosed; SBJ reports industry sources peg MLS sleeve deals at $1M-$2M per season (league-wide estimate, not Siete's terms)."
+  },
+  {
+    "id": "austin-fc-yeti",
+    "clubId": "austin-fc",
+    "orgName": null,
+    "sponsorId": "yeti",
+    "placement": "front",
+    "from": "2021",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Austin FC – 'Austin FC Announces Multi-Year Extension with Founding Partner YETI'",
+      "date": "2025",
+      "url": "https://www.austinfc.com/news/austin-fc-announces-multi-year-extension-with-founding-partner-yeti",
+      "quote": "will continue as Austin FC's front-of-jersey sponsor, which it has been since the Club's inaugural season in 2021",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "YETI has fronted the shirt since the club's first 2021 season; a multi-year extension was announced in February 2025. No value disclosed."
   },
   {
     "id": "bal-afreximbank",
@@ -2469,11 +3439,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Sports Business Journal",
+      "name": "Baltimore Ravens (club announcement)",
       "date": "2026-07-20",
-      "url": "https://sportsbusinessjournal.com/Articles/2026/07/20/ravens-sign-perdue-farms-as-official-chicken-in-multiyear-sponsorship-deal"
+      "url": "https://www.baltimoreravens.com/news/ravens-perdue-partnership-team-up-official-chicken-jersey-patch-maryland-food-bank",
+      "quote": "The debut of the Perdue logo patch on Ravens practice jerseys, beginning this season.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch. Multi-year deal announced 2026-07-20; deal length and value not disclosed by either party."
   },
   {
     "id": "bapco-energies-bahrain-championship-bapco",
@@ -2491,6 +3466,27 @@
     },
     "note": "Bapco Energies is the title partner - the event carries its name; the event's own sponsors page lists it under 'Title Partner' (bapcoenergies.com).",
     "leagueId": "dp-world-tour"
+  },
+  {
+    "id": "barcelona-basquet-assistencia-sanitaria",
+    "clubId": "barcelona-basquet",
+    "orgName": null,
+    "sponsorId": "assistencia-sanitaria",
+    "placement": "front",
+    "from": "2019-20",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Crónica Global (Culemanía): Laporta diversifica els patrocinadors de les seccions — Assistència Sanitària perd pes mentre el Barça busca soci per al nou Palau",
+      "date": "2026-08-30",
+      "url": "https://www.cronicaglobal.cat/culemania/llotja/20260830/laporta-diversifica-patrocinadors-assistencia-sanitaria-barca-palau/1003742790315_0.html",
+      "quote": "El vincle amb Assistència Sanitària caducava el 2024, però l'asseguradora mèdica va renovar el contracte per dues campanyes, fins al juny de 2026, sense comunicar públicament l'acord.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Assistència Sanitària took over from Lassa Tyres in 2019 as main sponsor of the club's professional indoor sections (basketball, handball, futsal, roller hockey) for five seasons; Culemanía reported the deal at around 4.5 million euros per season for the four sections together, with no basketball-specific figure, so value is left null. The renewal ran to June 2026; Crónica Global reports the basketball team keeps the insurer's logo in 2026-27, so to is left open."
   },
   {
     "id": "barcelona-midea",
@@ -2544,20 +3540,69 @@
     "note": "Reported EUR65m a year for the shirt plus training wear and naming rights."
   },
   {
+    "id": "baskonia-alamosa",
+    "clubId": "baskonia",
+    "orgName": null,
+    "sponsorId": "alamosa",
+    "placement": "shorts",
+    "from": "2026-27",
+    "to": "2029-30",
+    "value": null,
+    "source": {
+      "name": "2Playbook: Kosner Baskonia firma a Alamosa para la trasera del pantalón hasta la temporada 2029-2030",
+      "date": "2026-09-25",
+      "url": "https://www.2playbook.com/patrocinio/kosner-baskonia-firma-alamosa-trasera-pantalon-hasta-temporada-2029-2030_23791_102.html",
+      "quote": "la compañía alavesa lucirá su marca en la parte trasera del pantalón de juego del primer equipo durante los partidos de la Liga Endesa",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Official sponsor for four seasons (to 2029-30); brand on the back of the game shorts in Liga Endesa games. Value not disclosed; the source doesn't state when within 2026-27 the deal starts beyond the announcement date."
+  },
+  {
+    "id": "baskonia-kingroyal-media",
+    "clubId": "baskonia",
+    "orgName": null,
+    "sponsorId": "kingroyal-media",
+    "placement": "front",
+    "from": "2025-26",
+    "to": "2026-27",
+    "value": null,
+    "source": {
+      "name": "2Playbook: Baskonia ficha al portal KingRoyal Media como patrocinador principal hasta 2026-2027",
+      "date": "2025-11-13",
+      "url": "https://www.2playbook.com/patrocinio/baskonia-ficha-portal-kingroyalmedia-como-patrocinador-principal-hasta-2026-2027_20645_102.html",
+      "quote": "su logo aparecerá en el frontal de la camiseta y otra serie de activos publicitarios hasta 2026-2027",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Deal for the rest of 2025-26 plus 2026-27; value not disclosed. Mundo Deportivo (EFE): alone on the front in EuroLeague games, shared with Kosner in ACB."
+    },
+    "note": "Main shirt sponsor from November 2025 through 2026-27."
+  },
+  {
     "id": "baskonia-kosner",
     "clubId": "baskonia",
     "orgName": null,
     "sponsorId": "kosner",
     "placement": "front",
     "from": "2025-26",
-    "to": null,
+    "to": "2027-28",
     "value": null,
     "source": {
-      "name": "Baskonia, Kosner Baskonia naming announcement",
-      "date": "2025-11-20",
-      "url": "https://www.baskonia.com/kosner-baskonia/"
+      "name": "2Playbook: Saski Baskonia renueva a Kosner como ‘title sponsor’ hasta la temporada 2027-2028",
+      "date": "2026-09-09",
+      "url": "https://www.2playbook.com/patrocinio/saski-baskonia-renueva-kosner-como-title-sponsor-hasta-temporada-2027-2028_23583_102.html",
+      "quote": "seguirá siendo title sponsor del club hasta el final de la temporada 2027-2028",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Naming sponsor ('Kosner Baskonia') since November 2025, first as title sponsor to the end of 2025-26, renewed on 9 September 2026 to 2027-28 with front-of-shirt presence; the collaboration also includes front-of-shirt presence per Kosner's own announcement (kosner.es, 9 Sep 2026). Value not disclosed."
     },
-    "note": "Naming sponsor since November 2025 (Kosner Baskonia)."
+    "note": "Naming sponsor since November 2025 (Kosner Baskonia); renewed to 2027-28 in September 2026."
   },
   {
     "id": "bayer-leverkusen-barmenia",
@@ -2847,11 +3892,17 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "NBC Sports Boston",
-      "date": "2024-07-09",
-      "url": "https://www.nbcsportsboston.com/nba/boston-celtics/wyc-grousbeck-celtics-jersey-patch-sponsor-amica/627910"
+      "name": "Amica Mutual Insurance: Amica, Boston Celtics Treat Special Olympics Rhode Island Athlete to VIP Experience at TD Garden",
+      "date": "2026-02-01",
+      "url": "https://www.amica.com/en/about-us/media-center/news-release-archive/2026/amica-celtics-beyond-the-patch.html",
+      "quote": "Amica serves as the Exclusive Auto, Home and Life Insurance Partner of the Boston Celtics and became the team’s official jersey patch sponsor beginning with the 2024–25 season.",
+      "note": "Amica's own 2026 press release confirming the ongoing jersey-patch partnership. The previous source (NBC Sports Boston) blocks automated access.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. Multi-year deal announced 2024-07-09; length and value not disclosed."
   },
   {
     "id": "boston-celtics-td-bank-stadium",
@@ -2859,15 +3910,20 @@
     "orgName": "TD Bank",
     "sponsorId": "td-bank",
     "placement": "stadium",
-    "from": null,
-    "to": null,
+    "from": "2005-07",
+    "to": "2045",
     "value": null,
     "source": {
-      "name": "TD Bank / Delaware North (stories.td.com)",
+      "name": "TD Bank / Delaware North (stories.td.com): TD Bank and Delaware North Extend TD Garden Naming Rights Through 2045",
       "date": "2023-01-12",
-      "url": "https://stories.td.com/us/en/article/td-bank-and-delaware-north-extend-td-garden-naming-rights-through-2045"
+      "url": "https://stories.td.com/us/en/article/td-bank-and-delaware-north-extend-td-garden-naming-rights-through-2045",
+      "quote": "today announced a historic 20-year naming rights extension that keeps the beloved landmark and arena name as \"TD Garden” through 2045",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: TD Garden. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-01-12."
+    "note": "Arena naming rights: TD Garden. The source states TD Bank has been the exclusive naming rights partner of the arena since July 1, 2005; financial terms not disclosed."
   },
   {
     "id": "boston-red-sox-massmutual-patch",
@@ -2877,13 +3933,27 @@
     "placement": "patch",
     "from": "2023",
     "to": null,
-    "value": null,
-    "source": {
-      "name": "MLB.com",
-      "date": "2022-11-30",
-      "url": "https://www.mlb.com/news/red-sox-jersey-patch-massmutual"
+    "value": {
+      "amount": 170,
+      "currency": "USD",
+      "unit": "m",
+      "per": "total",
+      "upTo": false,
+      "usdApprox": 170
     },
-    "note": "Jersey patch."
+    "source": {
+      "name": "SportsPro - Report: Boston Red Sox bag US$170m MassMutual jersey patch deal",
+      "date": "2022-07-26",
+      "url": "https://www.sportspro.com/news/boston-red-sox-massmutual-jeresy-patch-sponsor-mlb/",
+      "short": "SportsPro",
+      "note": "Value as reported by Sports Business Journal, cited here before the official announcement; SportsPro adds the pact 'could reportedly rise to as much as US$20 million per season' with performance bonuses, so no up-to figure is recorded. The club confirmed the ten-year partnership on 2022-11-30 (MLB.com: https://www.mlb.com/news/red-sox-jersey-patch-massmutual), so 'to' is left null rather than derived from the term.",
+      "quote": "have agreed a ten-year, US$170 million jersey patch sponsorship with insurance company MassMutual, according to Sports Business Journal (SBJ)",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Jersey patch, worn on the sleeve."
   },
   {
     "id": "boxing-paramount-zuffa-media-rights",
@@ -3242,13 +4312,18 @@
     "orgName": "Atrium Health",
     "sponsorId": "atrium-health",
     "placement": "training-kit",
-    "from": "2019",
+    "from": null,
     "to": null,
     "value": null,
     "source": {
       "name": "Zoomph - NFL Practice Jersey Sponsor Guide (updated 2026-09-01)",
       "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+      "quote": "Carolina Panthers: Atrium Health",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
     },
     "note": "Practice-jersey patch."
   },
@@ -3264,7 +4339,12 @@
     "source": {
       "name": "Bank of America newsroom",
       "date": "2026-07-23",
-      "url": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/07/bank-of-america-and-carolina-panthers-extend-naming-rights-for-b.html"
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/07/bank-of-america-and-carolina-panthers-extend-naming-rights-for-b.html",
+      "quote": "The Carolina Panthers and Bank of America today announced long-term extension of their naming rights agreement for Bank of America Stadium.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
     },
     "note": "Arena naming rights: Bank of America Stadium."
   },
@@ -3454,15 +4534,20 @@
     "orgName": "Advocate Health Care",
     "sponsorId": "advocate-health-care",
     "placement": "training-kit",
-    "from": "2026",
+    "from": null,
     "to": null,
     "value": null,
     "source": {
-      "name": "Zoomph (2026 NFL jersey patch guide)",
-      "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+      "name": "Zoomph (2026 NFL practice jersey patch guide)",
+      "date": "2026",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors",
+      "quote": "Chicago Bears: Advocate Health Care",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-scout-review-926"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch. Advocate patches have appeared on Bears practice jerseys since at least 2018 (chicagobears.com, Oct 17, 2018); the start of the current deal is unknown, so from is null."
   },
   {
     "id": "chicago-bulls-motorola-mobility-patch",
@@ -3536,9 +4621,14 @@
     "source": {
       "name": "Sports Business Journal",
       "date": "2026-01-28",
-      "url": "https://www.sportsbusinessjournal.com/Articles/2026/01/28/white-sox-add-cme-group-as-jersey-patch-sponsor"
+      "url": "https://www.sportsbusinessjournal.com/Articles/2026/01/28/white-sox-add-cme-group-as-jersey-patch-sponsor",
+      "quote": "The White Sox have added CME Group, the longtime Chicago-based financial institution, as their jersey patch sponsor in a multiyear deal.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. Terms not disclosed: SBJ reported \"Exact term and financials were not disclosed\" (2026-01-28)."
   },
   {
     "id": "chicago-white-sox-rate-stadium",
@@ -3595,14 +4685,26 @@
     "sponsorId": "great-american-insurance",
     "placement": "stadium",
     "from": null,
-    "to": null,
-    "value": null,
-    "source": {
-      "name": "Ballparks of Baseball",
-      "date": "2023-01-01",
-      "url": "https://ballparksofbaseball.com/ballparks/great-american-ball-park"
+    "to": "2033",
+    "value": {
+      "amount": 75,
+      "currency": "USD",
+      "unit": "m",
+      "per": "30 years",
+      "upTo": false,
+      "usdApprox": 75
     },
-    "note": "Arena naming rights: Great American Ball Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-01-01."
+    "source": {
+      "name": "Ballparks of Baseball – 'Great American Ball Park'",
+      "date": "2023-01-01",
+      "url": "https://ballparksofbaseball.com/ballparks/great-american-ball-park",
+      "quote": "Great American Insurance purchased the naming rights to the new stadium for $75 million over 30 years, giving it the name Great American Ball Park.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Arena naming rights: Great American Ball Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-01-01. The same page's facts panel gives the current terms: 'Naming Rights: Great American Insurance, $2.5 million/year through 2033'."
   },
   {
     "id": "cincinnati-reds-kroger-patch",
@@ -3612,13 +4714,25 @@
     "placement": "patch",
     "from": "2023",
     "to": null,
-    "value": null,
-    "source": {
-      "name": "Front Office Sports",
-      "date": "2023-02-02",
-      "url": "https://frontofficesports.com/mlb-jersey-patch-market-warming-up-reds-ink-deal"
+    "value": {
+      "amount": 5,
+      "currency": "USD",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 5
     },
-    "note": "Jersey patch."
+    "source": {
+      "name": "Front Office Sports – 'MLB Jersey Patch Market Warming Up As Season Approaches'",
+      "date": "2023-02-02",
+      "url": "https://frontofficesports.com/mlb-jersey-patch-market-warming-up-reds-ink-deal",
+      "quote": "The Cincinnati Reds inked a deal with Kroger worth $5 million annually, according to Sports Business Journal, to put the grocery store chain's logo on the team's uniforms.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Jersey patch. The $5m-a-year figure is a press report: Front Office Sports, citing Sports Business Journal."
   },
   {
     "id": "city-etihad",
@@ -3671,11 +4785,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Zoomph (NFL practice-jersey sponsor tracker)",
-      "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "name": "tEDmag: Eaton Teams Up With the Cleveland Browns",
+      "date": "2026-09-03",
+      "url": "https://tedmag.com/eaton-teams-up-with-the-cleveland-browns/",
+      "quote": "Eaton's logo will also appear on Browns practice jerseys.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch. Multi-year collaboration announced 2026-09-03; eaton.com press release timed out for the checking script, so the trade-press report is cited."
   },
   {
     "id": "cleveland-browns-huntington-national-bank-stadium",
@@ -3687,9 +4806,14 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Cleveland Browns",
+      "name": "Cleveland Browns: Browns' stadium to be called Huntington Bank Field with announcement of 20-year partnership",
       "date": "2024-09-03",
-      "url": "https://www.clevelandbrowns.com/news/browns-and-huntington-bank-announce-20-year-partnership-that-includes-stadium-naming-rights"
+      "url": "https://www.clevelandbrowns.com/news/browns-and-huntington-bank-announce-20-year-partnership-that-includes-stadium-naming-rights",
+      "quote": "The Cleveland Browns and The Huntington National Bank today announced a 20-year partnership that includes the naming rights to the Browns' stadium",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Arena naming rights: Huntington Bank Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2024-09-03."
   },
@@ -3705,7 +4829,13 @@
     "source": {
       "name": "Cleveland Cavaliers (NBA.com)",
       "date": "2022-03-29",
-      "url": "https://www.nba.com/cavaliers/releases/cliffs-release-220329"
+      "url": "http://web.archive.org/web/20240207232908/https://www.nba.com/cavaliers/releases/cliffs-release-220329",
+      "note": "Archived capture of the club's release at https://www.nba.com/cavaliers/releases/cliffs-release-220329 (the live page renders its text only with JavaScript).",
+      "quote": "announced an expansion of their existing multi-year marketing agreement to put the Cliffs logo on the Cavs player uniforms beginning with the 2022-23 season",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Jersey patch."
   },
@@ -3801,11 +4931,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Ballpark Digest",
-      "date": "2018-05-01",
-      "url": "https://ballparkdigest.com/2018/05/coors-field-naming-rights-run-in-perpetuity/"
+      "name": "Ballpark Digest: Coors Field Naming Rights Run in Perpetuity",
+      "date": "2019-10-31",
+      "url": "https://ballparkdigest.com/2018/05/coors-field-naming-rights-run-in-perpetuity/",
+      "quote": "Naming rights to the ballpark are to be in perpetuity, a benefit that Coors and its successors was granted as part a $30 million investment made before the facility opened",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Coors Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2018-05-01."
+    "note": "Stadium naming rights: Coors Field. Start date unknown: the naming benefit was granted before the ballpark opened in 1995; the article (31 Oct 2019) says the agreement runs in perpetuity."
   },
   {
     "id": "colorado-rockies-york-space-systems-patch",
@@ -3813,15 +4948,21 @@
     "orgName": "York Space Systems",
     "sponsorId": "york-space-systems",
     "placement": "patch",
-    "from": "2025",
-    "to": null,
+    "from": "2025-07",
+    "to": "2030",
     "value": null,
     "source": {
       "name": "Colorado Rockies / MLB.com press release",
       "date": "2025-07-01",
-      "url": "https://www.mlb.com/press-release/colorado-rockies-and-york-space-systems-launch-historic-jersey-patch-partnership"
+      "url": "http://web.archive.org/web/20251121205047/https://www.mlb.com/press-release/colorado-rockies-and-york-space-systems-launch-historic-jersey-patch-partnership",
+      "note": "Internet Archive capture (21 Nov 2025) of the MLB.com press release; the live mlb.com page blocks scripts.",
+      "quote": "a historic jersey patch partnership beginning July 1, 2025, and continuing through the 2030 MLB season",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch on all Rockies jerseys; 5.5-year partnership brokered by Playfly Sports."
   },
   {
     "id": "coventry-city-monzo",
@@ -4378,11 +5519,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Denver Broncos",
+      "name": "Denver Broncos: Broncos renew and expand partnership with Children's Hospital Colorado",
       "date": "2024-07-24",
-      "url": "https://www.denverbroncos.com/news/broncos-renew-and-expand-partnership-with-children-s-hospital-colorado"
+      "url": "https://www.denverbroncos.com/news/broncos-renew-and-expand-partnership-with-children-s-hospital-colorado",
+      "quote": "As part of this expanded agreement, Children's Colorado will become the only pediatric hospital to be featured on a practice jersey in the NFL, NHL, NBA or MLB.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch. Renewed and expanded agreement announced 2024-07-24; the patch debuted that training camp."
   },
   {
     "id": "denver-broncos-empower-stadium",
@@ -4390,15 +5536,27 @@
     "orgName": "Empower",
     "sponsorId": "empower",
     "placement": "stadium",
-    "from": null,
-    "to": null,
-    "value": null,
-    "source": {
-      "name": "Metropolitan Football Stadium District (mfsd.com)",
-      "date": "2019-09-06",
-      "url": "https://mfsd.com/empower-field-at-mile-high-name-change"
+    "from": "2019",
+    "to": "2040",
+    "value": {
+      "amount": 3,
+      "currency": "USD",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 3
     },
-    "note": "Arena naming rights: Empower Field at Mile High. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2019-09-06."
+    "source": {
+      "name": "Metropolitan Football Stadium District: \"Empower Field at Mile High\" Name Change",
+      "date": "2019-09-06",
+      "url": "https://mfsd.com/empower-field-at-mile-high-name-change",
+      "quote": "Today the Metropolitan Football Stadium District (MFSD) entered into a twenty-one year Naming Rights Agreement with Empower Retirement to name the home of the Denver Broncos",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Arena naming rights: Empower Field at Mile High. Announced 2019-09-06, a twenty-one year agreement; the release says Empower Retirement will pay an average of $3 million annually, so the value is the reported annual average."
   },
   {
     "id": "denver-nuggets-ball-corporation-stadium",
@@ -4406,15 +5564,20 @@
     "orgName": "Ball Corporation",
     "sponsorId": "ball-corporation",
     "placement": "stadium",
-    "from": null,
+    "from": "2020-10",
     "to": null,
     "value": null,
     "source": {
-      "name": "Denver Nuggets (nba.com, KSE/Ball release)",
+      "name": "Denver Nuggets will now play in Ball Arena as part of KSE, Ball Corporation Global Partnership (nba.com, via Wayback Machine)",
       "date": "2020-10-22",
-      "url": "https://www.nba.com/nuggets/news/kse-ballcorp-globalpartnership-20201022"
+      "url": "http://web.archive.org/web/20201024115408/https://www.nba.com/nuggets/news/kse-ballcorp-globalpartnership-20201022",
+      "quote": "The partnership includes naming rights for Ball and KSE's hometown arena in Denver, Colorado, home to the NBA's Denver Nuggets",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Ball Arena. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2020-10-22."
+    "note": "Arena naming rights: Ball Arena, announced 2020-10-22. The live nba.com page now returns 404; the source is the Wayback Machine capture of 2020-10-24."
   },
   {
     "id": "denver-nuggets-ibotta-patch",
@@ -4422,15 +5585,20 @@
     "orgName": "Ibotta",
     "sponsorId": "ibotta",
     "placement": "patch",
-    "from": "2023",
+    "from": "2023-10",
     "to": null,
     "value": null,
     "source": {
-      "name": "Sportcal",
+      "name": "Sportcal - Ibotta extends as Nuggets' jersey patch partner",
       "date": "2026-04-17",
-      "url": "https://sportcal.com/news/ibotta-extends-as-nuggets-jersey-patch-partner"
+      "url": "https://sportcal.com/news/ibotta-extends-as-nuggets-jersey-patch-partner",
+      "quote": "The original multi-year tie-up between the Nuggets and Ibotta – headquartered in Denver – dates back to October 2023",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. Original deal announced 2023-10-24 (Ibotta press release); extended on a multi-year deal in April 2026."
   },
   {
     "id": "deportivo-alaves-mk-tiyu-news",
@@ -4496,15 +5664,20 @@
     "orgName": "Ford Motor Company",
     "sponsorId": "ford-motor-company",
     "placement": "stadium",
-    "from": "2026",
-    "to": null,
+    "from": "2002",
+    "to": "2036",
     "value": null,
     "source": {
       "name": "Detroit Lions",
       "date": "2025-03-28",
-      "url": "https://www.detroitlions.com/news/detroit-tradition-continues-lions-and-ford-announce-extension-of-ford-field-partnership-through-2036-season"
+      "url": "https://www.detroitlions.com/news/detroit-tradition-continues-lions-and-ford-announce-extension-of-ford-field-partnership-through-2036-season",
+      "quote": "The Detroit Lions and Ford Motor Company today announced they are extending the stadium naming rights agreement",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Ford Field."
+    "note": "Arena naming rights: Ford Field. The announcement says Ford Field has been the Lions' home since 2002 and the extension runs through the 2036 season."
   },
   {
     "id": "detroit-lions-meijer-patch",
@@ -4518,9 +5691,14 @@
     "source": {
       "name": "Detroit Lions",
       "date": "2024-07-23",
-      "url": "https://www.detroitlions.com/news/detroit-lions-expand-and-extend-partnership-with-meijer"
+      "url": "https://www.detroitlions.com/news/detroit-lions-expand-and-extend-partnership-with-meijer",
+      "quote": "as well as branding on the team's practice uniforms during the regular season",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch. Zoomph's 2026 NFL practice-jersey guide (checked 2026-10-01, https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/) again lists Meijer as the Lions' patch partner for the 2026 season."
   },
   {
     "id": "detroit-pistons-little-caesars-stadium",
@@ -4576,11 +5754,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "MLB.com",
+      "name": "Ilitch Companies News Hub: Fifth Third and Detroit Tigers Introduce Fifth Third Park",
       "date": "2026-09-21",
-      "url": "https://www.mlb.com/redsox/news/tigers-ballpark-name-changed-to-fifth-third-park"
+      "url": "https://www.ilitchnewshub.com/post/fifth-third-and-detroit-tigers-introduce-fifth-third-park-new-name-for-the-home-of-the-tigers",
+      "quote": "today announced that Comerica Park will become Fifth Third Park",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Fifth Third Park."
+    "note": "Ballpark naming rights: Comerica Park becomes Fifth Third Park; marquee signage ahead of the 2027 season."
   },
   {
     "id": "detroit-tigers-meijer-patch",
@@ -4592,11 +5775,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
-      "date": "2026-04-20",
-      "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+      "name": "Ilitch Companies News Hub: Detroit Tigers and Meijer Announce Expanded Partnership",
+      "date": "2023-06-01",
+      "url": "https://www.ilitchnewshub.com/post/detroit-tigers-and-meijer-announce-expanded-partnership-deepening-ties-between-two-iconic-michigan-brands",
+      "quote": "the Michigan-based grocer will serve as the club’s first Jersey Patch Partner",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. Announced 2023-05-25; brand marks on the sleeves of the home and away jerseys."
   },
   {
     "id": "diriyah-dgda",
@@ -5515,6 +6703,27 @@
       }
     },
     "note": "Kit supply renewal for 2026-27; Kelme has supplied Espanyol since 2018-19 (La Grada). End date not settled in the sources: La Grada calls the renewal 'de momento por una temporada adicional', while Kelme's own Espanyol page (kelme.com/en/collections/rcd-espanyol) says the partnership that began in 2018 runs 'until 2030'. Value not disclosed."
+  },
+  {
+    "id": "esteghlal-pgpic",
+    "clubId": "esteghlal",
+    "orgName": "Esteghlal FC",
+    "sponsorId": "pgpic",
+    "placement": "front",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Fartak Varzeshi: بررسی قرارداد اسپانسری استقلال با پتروشیمی خلیج فارس (review of Esteghlal's sponsorship contract with PGPIC)",
+      "date": "2026-08-25",
+      "url": "https://fartakvarzeshi.com/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%D8%B3%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A8%D8%A7-%D9%BE%D8%AA%D8%B1/",
+      "quote": "استقلال در سال مالی منتهی به ۳۰ تیر ۱۴۰۴، حدود ۱۷۹۳ میلیارد تومان درآمد عملیاتی داشته که تقریباً ۱۷۷۲ میلیارد تومان آن مربوط به اسپانسری و تبلیغات محیطی است. از این مقدار، حدود ۱۷۳۵ میلیارد تومان از صنایع پتروشیمی خلیج فارس، سهامدار اصلی استقلال، شناسایی شده است.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "note": "Value in IRR (not recordable in this schema's GBP/EUR/USD): Fartak Varzeshi's analysis of Esteghlal's filed accounts (25 August 2026) says ~1,735 billion Iranian tomans (~97% of the club's operational revenue) in the year ended 30 Tir 1404 (22 July 2025) was recognised from PGPIC, the club's majority shareholder, under the sponsorship contract; the auditor questioned the related-party process (Article 129 of Iran's Commercial Code). Deal start and end dates are not stated in public coverage; the shirt carries PGPIC's logo in the 2026-27 season as well."
   },
   {
     "id": "euroleague-adidas",
@@ -7829,13 +9038,25 @@
     "placement": "patch",
     "from": "2026",
     "to": null,
-    "value": null,
-    "source": {
-      "name": "Silicon Valley / Bay Area News Group",
-      "date": "2026-06-27",
-      "url": "https://siliconvalley.com/2026/06/27/warriors-announce-ai-data-center-company-as-jersey-sponsor"
+    "value": {
+      "amount": 50,
+      "currency": "USD",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 50
     },
-    "note": "Jersey patch."
+    "source": {
+      "name": "Silicon Valley / Bay Area News Group – 'Warriors announce AI data center company as jersey sponsor'",
+      "date": "2026-06-27",
+      "url": "https://siliconvalley.com/2026/06/27/warriors-announce-ai-data-center-company-as-jersey-sponsor",
+      "quote": "Sportico reported that the sponsorship is worth $50 million per year.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Jersey patch. Terms were not made public; the $50m-a-year figure is a press report (the article cites Sportico)."
   },
   {
     "id": "golden-state-warriors-jpmorgan-chase-stadium",
@@ -7847,11 +9068,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "SFBayCA",
+      "name": "SFBay (Bay City News) – 'Warriors announce \"Chase Arena\" as future home'",
       "date": "2016-01-28",
-      "url": "https://sfbayca.com/2016/01/28/warriors-announce-chase-arena-as-future-home"
+      "url": "https://sfbayca.com/2016/01/28/warriors-announce-chase-arena-as-future-home",
+      "quote": "The financial services firm JPMorgan Chase paid for naming rights for 20 years at the 18,000-seat arena",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Chase Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2016-01-28."
+    "note": "Arena naming rights: Chase Center (the arena opened in 2019; the naming-rights deal was announced in January 2016, for 20 years). Start date and value unknown from this source."
   },
   {
     "id": "goodwood-visit-qatar",
@@ -7883,7 +9109,12 @@
     "source": {
       "name": "Green Bay Packers (packers.com)",
       "date": "2026-04-16",
-      "url": "https://www.packers.com/news/packers-name-uw-health-official-health-care-partner-of-the-green-bay-packers-2026"
+      "url": "https://www.packers.com/news/packers-name-uw-health-official-health-care-partner-of-the-green-bay-packers-2026",
+      "quote": "The Green Bay Packers and UW Health today announced an extensive multi-year agreement for the health system to serve as the Official Health Care Partner of the Green Bay Packers.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Practice-jersey patch."
   },
@@ -8143,11 +9374,17 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Sports Business Journal",
-      "date": "2023-02-10",
-      "url": "https://www.sportsbusinessjournal.com/Daily/Morning-Buzz/2023/02/10/houston-astros-sign-jersey-patch-deal"
+      "name": "Houston Astros press release: Oxy Named the Official Jersey Partner of the Houston Astros",
+      "date": "2023-02-09",
+      "url": "https://web.archive.org/web/20260412121221/https://www.mlb.com/press-release/press-release-oxy-named-the-official-jersey-partner-of-the-houston-astros",
+      "note": "Club announcement, read via the Wayback Machine capture of 2026-04-12 because the live mlb.com page blocks scripts.",
+      "quote": "Oxy will become the team’s official jersey partner for the next seven seasons. The Oxy logo will be featured on the Astros jersey sleeve",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. Seven-season jersey-partnership deal announced 2023-02-09; no value disclosed in the announcement."
   },
   {
     "id": "houston-rockets-memorial-hermann-patch",
@@ -8161,7 +9398,12 @@
     "source": {
       "name": "Sports Business Journal",
       "date": "2024-10-10",
-      "url": "https://www.sportsbusinessjournal.com/Articles/2024/10/10/houston-rockets-jersey-patch/"
+      "url": "https://www.sportsbusinessjournal.com/Articles/2024/10/10/houston-rockets-jersey-patch/",
+      "quote": "Memorial Hermann follows Credit Karma as the patch sponsor.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Jersey patch."
   },
@@ -8171,15 +9413,48 @@
     "orgName": "Toyota",
     "sponsorId": "toyota",
     "placement": "stadium",
+    "from": "2003",
+    "to": null,
+    "value": {
+      "amount": 7,
+      "currency": "USD",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 7
+    },
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2025-05-12",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2025/05/12/report-rockets-toyota-sign-five-year-arena-naming-rights-extension/",
+      "quote": "The Rockets and Toyota signed a five-year “extension of their naming rights deal for the team’s downtown Houston arena”",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Arena naming rights: Toyota Center. Original 20-year, $100M deal signed 2003; five-year extension reported May 2025, estimated at $7M or more annually."
+  },
+  {
+    "id": "houston-texans-methodist-patch",
+    "clubId": "houston-texans",
+    "orgName": "Houston Methodist",
+    "sponsorId": "houston-methodist",
+    "placement": "training-kit",
     "from": "2026",
     "to": null,
     "value": null,
     "source": {
-      "name": "Sports Business Journal",
-      "date": "2025-05-12",
-      "url": "https://www.sportsbusinessjournal.com/Articles/2025/05/12/report-rockets-toyota-sign-five-year-arena-naming-rights-extension/"
+      "name": "Zoomph (2026 NFL practice jersey patch guide)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+      "quote": "The Houston Texans have multiple patches: their training center sponsor Houston Methodist and longtime telecommunications partner Xfinity.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Toyota Center."
+    "note": "Practice-jersey patch (Houston Methodist is the team's training-center sponsor)."
   },
   {
     "id": "houston-texans-nrg-energy-stadium",
@@ -8191,16 +9466,21 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Reliant / NRG Energy press release",
+      "name": "Reliant press release: Reliant Stadium Returns in August 2026",
       "date": "2026-04-15",
-      "url": "https://news.reliant.com/press-releases/press-release-details/2026/Reliant-Stadium-Returns-in-August-2026"
+      "url": "https://news.reliant.com/press-releases/press-release-details/2026/Reliant-Stadium-Returns-in-August-2026",
+      "quote": "NRG Stadium and surrounding facilities at NRG Park will be renamed to Reliant Stadium and Reliant Park in August 2026, following approval by the Harris County Sports & Convention Corporation",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Reliant Stadium."
+    "note": "Stadium naming rights: NRG Stadium renamed Reliant Stadium from August 2026; Reliant also named the stadium 2002-2014 before NRG's 2014 rebrand."
   },
   {
     "id": "houston-texans-xfinity-patch",
     "clubId": "houston-texans",
-    "orgName": "Xfinity (also Houston Methodist on some jerseys)",
+    "orgName": "Xfinity",
     "sponsorId": "xfinity",
     "placement": "training-kit",
     "from": "2026",
@@ -8209,7 +9489,12 @@
     "source": {
       "name": "Zoomph (2026 NFL practice jersey patch guide)",
       "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+      "quote": "The Houston Texans have multiple patches: their training center sponsor Houston Methodist and longtime telecommunications partner Xfinity.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Practice-jersey patch."
   },
@@ -8485,15 +9770,20 @@
     "orgName": "Ascension St. Vincent's",
     "sponsorId": "ascension-st-vincent",
     "placement": "training-kit",
-    "from": "2026",
+    "from": null,
     "to": null,
     "value": null,
     "source": {
-      "name": "Zoomph (NFL practice-jersey sponsor tracker)",
-      "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "name": "Zoomph: The Ultimate Guide To NFL Practice Jersey Sponsors",
+      "date": "2025-11-03",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+      "quote": "Indianapolis Colts: Ascension St. Vincent’s",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch. Start year unknown: the page lists Ascension St. Vincent's as the Colts' practice-jersey patch sponsor for the 2026 season; no source found for when the patch deal began."
   },
   {
     "id": "indianapolis-colts-lucas-oil-products-stadium",
@@ -8501,15 +9791,27 @@
     "orgName": "Lucas Oil Products",
     "sponsorId": "lucas-oil-products",
     "placement": "stadium",
-    "from": null,
+    "from": "2006-02",
     "to": null,
-    "value": null,
-    "source": {
-      "name": "Encyclopedia of Indianapolis",
-      "date": "2006-02-28",
-      "url": "https://indyencyclopedia.org/lucas-oil-stadium/"
+    "value": {
+      "amount": 122,
+      "currency": "USD",
+      "unit": "m",
+      "per": "total",
+      "upTo": false,
+      "usdApprox": 122
     },
-    "note": "Arena naming rights: Lucas Oil Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2006-02-28."
+    "source": {
+      "name": "Encyclopedia of Indianapolis: Lucas Oil Stadium",
+      "date": "2021-07",
+      "url": "https://indyencyclopedia.org/lucas-oil-stadium/",
+      "quote": "Naming rights were announced on February 28, 2006. Lucas Oil Products, a California-based manufacturer and distributor of automotive oil, additives, and lubricants, secured the sponsorship for $122 million over 20 years.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Stadium naming rights: Lucas Oil Stadium. A 20-year term from February 2006 would run to 2026; no source for an extension or the deal's end, so 'to' is left null."
   },
   {
     "id": "inter-miami-lowes",
@@ -8747,13 +10049,19 @@
     "orgName": "Dream Finders Homes",
     "sponsorId": "dream-finders-homes",
     "placement": "training-kit",
-    "from": "2025",
+    "from": null,
     "to": null,
     "value": null,
     "source": {
-      "name": "Zoomph",
-      "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "name": "Zoomph: The Ultimate Guide to NFL Practice Jersey Sponsors",
+      "date": "2026",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+      "note": "Page shows no publication date (posted '03 Nov', year not shown). Start date unknown: the page shows a @Jaguars photo with Dream Finders tagged, dated 2025-08-13, but no deal dates.",
+      "quote": "Jacksonville Jaguars: Dream Finders Homes",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Practice-jersey patch."
   },
@@ -8763,15 +10071,21 @@
     "orgName": "EverBank",
     "sponsorId": "everbank",
     "placement": "stadium",
-    "from": null,
-    "to": null,
+    "from": "2010",
+    "to": "2027",
     "value": null,
     "source": {
-      "name": "EverBank (news release)",
+      "name": "EverBank (news release): EverBank and the Jacksonville Jaguars Reach Pending Agreement for Stadium Naming-Rights Extension",
       "date": "2024-05-17",
-      "url": "https://www.everbank.com/about/news/05-17-2024/everbank-stadium-naming-rights"
+      "url": "https://www.everbank.com/about/news/05-17-2024/everbank-stadium-naming-rights",
+      "quote": "The home field of the Jacksonville Jaguars will remain EverBank Stadium through the end of the 2027 NFL season under a three-year naming-rights contract extension",
+      "note": "from 2010: the release says 'EverBank first acquired the naming rights to the Jaguars' stadium in 2010 and signed a 10-year extension in 2014'.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: EverBank Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2024-05-17."
+    "note": "Stadium naming rights: EverBank Stadium, through the 2027 NFL season (extension pending City of Jacksonville approval as of the 2024-05-17 release)."
   },
   {
     "id": "jaguar-tcs-tcs",
@@ -8880,9 +10194,35 @@
     "source": {
       "name": "Kansas City Chiefs",
       "date": "2025-08-25",
-      "url": "https://www.chiefs.com/news/chiefs-and-burns-mcdonnell-announce-significant-partnership-agreement-for-practice-jersey-patch"
+      "url": "https://www.chiefs.com/news/chiefs-and-burns-mcdonnell-announce-significant-partnership-agreement-for-practice-jersey-patch",
+      "quote": "the Chiefs and Kansas City-based Burns & McDonnell announced a multi-year partnership that makes the engineering and construction firm the Official Engineering & Construction Partner",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Practice-jersey patch."
+  },
+  {
+    "id": "kansas-city-chiefs-mosaic-life-care-training-kit",
+    "clubId": "kansas-city-chiefs",
+    "orgName": "Mosaic Life Care",
+    "sponsorId": "mosaic-life-care",
+    "placement": "training-kit",
+    "from": "2010",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Sports Business Journal (Health care providers, financial companies dominate NFL jersey patches)",
+      "date": "2026-09-10",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2026/09/10/health-care-providers-financial-companies-dominate-nfl-jersey-patches/",
+      "quote": "The company was called Heartland Health when it signed with the team in 2010, so the relationship is now in its 17th season.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Training-camp practice-jersey sponsor; the club's 2026 training camp at Missouri Western State University is presented by Mosaic Life Care (chiefs.com, 2026-06-15). Deal value not reported."
   },
   {
     "id": "kansas-city-royals-quiktrip-patch",
@@ -8894,11 +10234,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "MLB.com / Kansas City Royals",
+      "name": "MLB.com / Kansas City Royals: Royals announce jersey patch deal with QuikTrip (archived copy of mlb.com news page)",
       "date": "2024-02-21",
-      "url": "https://www.mlb.com/news/royals-announce-jersey-patch-sponsor-with-quiktrip"
+      "url": "https://web.archive.org/web/20250723224835/https://www.mlb.com/news/royals-announce-jersey-patch-sponsor-with-quiktrip",
+      "quote": "QuikTrip is now the official jersey patch partner of the Royals, the company and team announced on Wednesday",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. Multi-year deal; the cited article gives no deal terms."
   },
   {
     "id": "khl-avtovaz",
@@ -9957,11 +11302,17 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Blinkfire Analytics",
-      "date": "2026-04-20",
-      "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball/"
+      "name": "MLB.com: Angels partnering with FBM on jersey patch (via Wayback Machine)",
+      "date": "2023-02-04",
+      "url": "https://web.archive.org/web/20240405132123/https://www.mlb.com/news/angels-announce-new-jersey-patch-sponsor",
+      "quote": "the Angels announced Saturday that they entered a three-year agreement with Foundation Building Materials as their official jersey patch partner",
+      "note": "Live page blocks scripts; checked via the Wayback capture of 5 April 2024. FBM was still the Angels' patch sponsor in 2026 (Blinkfire Analytics, 2026-04-20).",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. Three-year agreement announced 2023-02-04, beginning with the 2023 season."
   },
   {
     "id": "los-angeles-chargers-sofi-stadium",
@@ -9985,15 +11336,20 @@
     "orgName": "UCLA Health",
     "sponsorId": "ucla-health",
     "placement": "training-kit",
-    "from": "2025",
+    "from": "2024",
     "to": null,
     "value": null,
     "source": {
-      "name": "Zoomph (2026 NFL jersey patch guide)",
-      "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+      "name": "Los Angeles Chargers — UCLA Health Named Official Medical Partner of the Los Angeles Chargers & Presenting Partner of Chargers Training Camp",
+      "date": "2024-08-08",
+      "url": "https://www.chargers.com/news/ucla-health-named-official-medical-partner-of-the-los-angeles-chargers-presenting-partner-of-chargers-training-camp",
+      "quote": "The Los Angeles Chargers and UCLA Health have entered a multi-year partnership designating UCLA Health as the team's Official Medical Partner and Presenting Partner of Chargers Training Camp.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Partnership began August 2024. The club's announcement does not mention the practice-jersey patch; the UCLA Health patch on practice jerseys is documented from training camp 2025 (Zoomph's NFL practice-jersey guide, quoting the Chargers' 2025-08-05 post, and its 2026-season list)."
   },
   {
     "id": "los-angeles-dodgers-guggenheim-patch",
@@ -10005,11 +11361,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "DodgerBlue",
-      "date": "2026-03-25",
-      "url": "https://dodgerblue.com/dodgers-partnership-with-uniqlo-field-name-dodger-stadium/2026/03/25/"
+      "name": "DodgerBlue: Dodgers Uniform Will Have Guggenheim Jersey Patch For 2024 Season",
+      "date": "2024-02-14",
+      "url": "https://dodgerblue.com/dodgers-uniform-will-have-guggenheim-jersey-patch-for-2024-season/2024/02/14/",
+      "quote": "The jerseys will feature a Guggenheim patch on the sleeve for at least the 2024 season",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. Worn since 2024; still on the shirt in 2026 per the 2026-03-25 DodgerBlue article cited on the kit."
   },
   {
     "id": "los-angeles-dodgers-uniqlo-stadium",
@@ -10021,9 +11382,14 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "DodgerBlue",
+      "name": "DodgerBlue: Dodgers Announce Partnership With UNIQLO And New Dodger Stadium Field Name",
       "date": "2026-03-25",
-      "url": "https://dodgerblue.com/dodgers-partnership-with-uniqlo-field-name-dodger-stadium/2026/03/25/"
+      "url": "https://dodgerblue.com/dodgers-partnership-with-uniqlo-field-name-dodger-stadium/2026/03/25/",
+      "quote": "The Los Angeles Dodgers officially announced their partnership with Japanese designer and retailer UNIQLO, which also includes the naming rights to the field.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Arena naming rights: UNIQLO Field at Dodger Stadium."
   },
@@ -11389,13 +12755,25 @@
     "placement": "patch",
     "from": "2023",
     "to": null,
-    "value": null,
+    "value": {
+      "amount": 5,
+      "currency": "USD",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 5000000
+    },
     "source": {
       "name": "Sports Business Journal",
       "date": "2025-05-13",
-      "url": "https://sportsbusinessjournal.com/Articles/2025/05/13/marlins-jersey-patch-sponsor-adt-renew-deal"
+      "url": "https://sportsbusinessjournal.com/Articles/2025/05/13/marlins-jersey-patch-sponsor-adt-renew-deal",
+      "quote": "worth $5M annually for ADT to be the franchise’s first-ever jersey patch sponsor",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. Value is the reported $5M/year of the original 2023 three-year deal; the May 2025 multiyear renewal's terms were not disclosed."
   },
   {
     "id": "miami-marlins-loandepot-stadium",
@@ -11451,15 +12829,20 @@
     "orgName": "Northwestern Mutual",
     "sponsorId": "northwestern-mutual",
     "placement": "patch",
-    "from": "2024",
+    "from": "2023",
     "to": null,
     "value": null,
     "source": {
-      "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
-      "date": "2026-04-20",
-      "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+      "name": "Northwestern Mutual news release: Northwestern Mutual Becomes Official Financial Planning Partner of the Milwaukee Brewers",
+      "date": "2023-09-15",
+      "url": "https://news.northwesternmutual.com/2023-09-15-Northwestern-Mutual-Becomes-Official-Financial-Planning-Partner-of-the-Milwaukee-Brewers-TM",
+      "quote": "Fans will see the custom Northwestern Mutual branded patch debut on the sleeve of authentic Brewers player jerseys during tonight's home game",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch; announced 2023-09-15, debuted that night. No deal value publicly reported."
   },
   {
     "id": "milwaukee-bucks-fiserv-stadium",
@@ -11547,11 +12930,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Sports Business Journal",
-      "date": "2025-07-17",
-      "url": "https://www.sportsbusinessjournal.com/Articles/2025/07/17/securian-financial-becomes-twins-first-ever-jersey-patch-sponsor"
+      "name": "Twins Daily: Twins Join the Jersey Patch Era with Securian Financial Sponsorship",
+      "date": "2025-07-19",
+      "url": "https://twinsdaily.com/news-rumors/minnesota-twins/twins-join-the-jersey-patch-era-with-securian-financial-sponsorship-r18763/",
+      "quote": "the team announced a new multi-year partnership with Securian Financial, which includes the addition of a jersey patch featuring the St. Paul-based financial services firm",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. The patch debuted after the 2025 All-Star break; Sports Business Journal reported the deal on 2025-07-17 (https://www.sportsbusinessjournal.com/Articles/2025/07/17/securian-financial-becomes-twins-first-ever-jersey-patch-sponsor, paywalled, not opened by script)."
   },
   {
     "id": "minnesota-twins-target-stadium",
@@ -11568,6 +12956,27 @@
       "url": "https://chiefmarketer.com/target-scores-naming-rights-for-minnesota-twins-ballpark"
     },
     "note": "Arena naming rights: Target Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2008-09-15."
+  },
+  {
+    "id": "minnesota-vikings-pepsi-patch",
+    "clubId": "minnesota-vikings",
+    "orgName": "Pepsi",
+    "sponsorId": "pepsi",
+    "placement": "training-kit",
+    "from": null,
+    "to": "2025",
+    "value": null,
+    "source": {
+      "name": "Sports Business Journal, 'Health care providers, financial companies dominate NFL jersey patches'",
+      "date": "2026-09-10",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2026/09/10/health-care-providers-financial-companies-dominate-nfl-jersey-patches/",
+      "quote": "As of Sept. 9, the Raiders and Steelers again had yet to sign a jersey sponsor for this season, and the Vikings had not replaced Pepsi's previous five-year partnership.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Practice-jersey patch (the only on-uniform sponsor placement the NFL allows). Start unknown, so 'from' is null. The patch was on Vikings practice jerseys at 2024 training camp (vikings.com, 2024-07-30, https://www.vikings.com/news/cam-bynum-interception-training-camp-full-pads-practice: 'The Pepsi patch sewn on Darrisaw's purple No. 71 practice jersey had some of the stitching ripped during the day's action'), and Zoomph's 2025-season guide listed 'Minnesota Vikings: Pepsi' as jersey patch partner (Wayback capture 2026-06-09, http://web.archive.org/web/20260609122038/https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/). Zoomph's live 2026 guide lists 'Minnesota Vikings: No Partner This Season' (https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/). PepsiCo separately extended its broader Vikings partnership through the 2031 NFL season (vikings.com, 2025-03-31, https://www.vikings.com/news/pepsi-2025-partnership-extension), but SBJ reports the jersey-patch element as a previous, five-year partnership that had not been replaced in 2026. Star Tribune (2022-01-08, via Wayback capture 2025-08-10, http://web.archive.org/web/20250810043508/https://www.startribune.com/minnesotas-pro-teams-find-new-source-of-revenue-with-ad-placement-on-uniforms/600133835) says 'Training Haus ... became the team's practice jersey partner in 2021' — the start of the Pepsi patch is unclear, and the two accounts disagree."
   },
   {
     "id": "minnesota-vikings-u-s-bank-stadium",
@@ -12627,11 +14036,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Zoomph",
+      "name": "Zoomph – The Ultimate Guide To NFL Practice Jersey Sponsors",
       "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+      "quote": "New England Patriots: Gillette",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch; the Zoomph guide lists Gillette as the Patriots' 2026 practice-jersey partner."
   },
   {
     "id": "new-england-patriots-gillette-stadium",
@@ -12643,11 +14057,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "New England Patriots (patriots.com)",
+      "name": "New England Patriots (patriots.com) – P&G extends naming rights for Gillette Stadium through the 2031 season",
       "date": "2010-09-22",
-      "url": "https://www.patriots.com/news/p-g-extends-naming-rights-for-gillette-stadium-through-the-2031-season-114846"
+      "url": "https://www.patriots.com/news/p-g-extends-naming-rights-for-gillette-stadium-through-the-2031-season-114846",
+      "quote": "includes exclusive naming and sponsorship rights of Gillette Stadium through the 2031 football season.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Gillette Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2010-09-22."
+    "note": "Arena naming rights: Gillette Stadium, named since August 2002; this 2010-09-22 release extended the naming and sponsorship rights through the 2031 season."
   },
   {
     "id": "new-orleans-pelicans-newage-products-patch",
@@ -12659,9 +14078,14 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Sports Business Journal",
+      "name": "Sports Business Journal — Pelicans sign NewAge Products as patch partner",
       "date": "2024-09-30",
-      "url": "https://sportsbusinessjournal.com/Articles/2024/09/30/new-orleans-pelicans-patch-newage-products"
+      "url": "https://sportsbusinessjournal.com/Articles/2024/09/30/new-orleans-pelicans-patch-newage-products",
+      "quote": "NewAge Products, a Toronto-based DTC seller of modular storage systems and outdoor kitchens, is the Pelicans new ad patch sponsor.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Jersey patch."
   },
@@ -12703,15 +14127,20 @@
     "orgName": "Rouses Markets",
     "sponsorId": "rouses-markets",
     "placement": "training-kit",
-    "from": "2026",
+    "from": null,
     "to": null,
     "value": null,
     "source": {
       "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
       "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+      "quote": "A proudly local Louisiana brand, Rouses Markets keeps its roots close to home as the official patch sponsor of the Saints.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-scout (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch. Deal start unknown: Zoomph lists Rouses Markets as the Saints' official patch sponsor for the 2026 season, but no announcement of when the deal began was found (2026-10-01)."
   },
   {
     "id": "new-york-giants-metlife-stadium",
@@ -12751,15 +14180,20 @@
     "orgName": "Atlantic Health",
     "sponsorId": "atlantic-health",
     "placement": "training-kit",
-    "from": "2025",
+    "from": "2009",
     "to": null,
     "value": null,
     "source": {
-      "name": "Zoomph (2026 NFL jersey patch guide)",
-      "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+      "name": "Sports Business Journal: Jets Will Wear Atlantic Health Patch On Practice Jerseys",
+      "date": "2009-06-18",
+      "url": "https://www.sportsbusinessjournal.com/Daily/Issues/2009/06/19/Sponsorships-Advertising-Marketing/Jets-Will-Wear-Atlantic-Health-Patch-On-Practice-Jerseys/",
+      "quote": "Jets Will Wear Atlantic Health Patch On Practice Jerseys",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch, reported since 2009; still the Jets' 2026-patch partner per Zoomph's 2026 NFL patch guide (kit record)."
   },
   {
     "id": "new-york-jets-metlife-stadium",
@@ -12806,11 +14240,23 @@
     "placement": "stadium",
     "from": null,
     "to": null,
-    "value": null,
+    "value": {
+      "amount": 400,
+      "currency": "USD",
+      "unit": "m",
+      "per": "20 years",
+      "upTo": false,
+      "usdApprox": 400
+    },
     "source": {
-      "name": "Chief Marketer",
+      "name": "Chief Marketer: Citigroup Gets Shea Naming Rights for $400 million",
       "date": "2006-11-14",
-      "url": "https://www.chiefmarketer.com/citigroup-gets-shea-naming-rights-for-400-million/"
+      "url": "https://www.chiefmarketer.com/citigroup-gets-shea-naming-rights-for-400-million/",
+      "quote": "a $400 million deal between Citigroup and the National League team. The 20-year naming agreement, said to be the largest of its kind, was announced yesterday.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Arena naming rights: Citi Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2006-11-14."
   },
@@ -12824,11 +14270,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "MLB.com press release",
+      "name": "NewYork-Presbyterian newsroom: New York Mets Announce Multi-Year Partnership with NewYork-Presbyterian",
       "date": "2023-04-06",
-      "url": "https://www.mlb.com/press-release/press-release-new-york-mets-announce-multiyear-partnership-with-newyork-presbyte"
+      "url": "https://www.nyp.org/news/new-york-mets-announce-multi-year-partnership-with-newyork-presbyterian",
+      "quote": "As a symbol of the integrated partnership, a NewYork-Presbyterian patch will be featured on the Mets uniforms, the first jersey patch partnership in the team’s 61-year history.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch, worn on the sleeve; deal length not stated in the announcement."
   },
   {
     "id": "new-york-yankees-starr-insurance-patch",
@@ -13256,20 +14707,46 @@
     }
   },
   {
+    "id": "philadelphia-76ers-bloom-energy-patch",
+    "clubId": "philadelphia-76ers",
+    "orgName": "Bloom Energy",
+    "sponsorId": "bloom-energy",
+    "placement": "patch",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Philadelphia 76ers - Philadelphia 76ers and Bloom Energy Announce Multi-Year Partnership and Patch Deal",
+      "date": "2026-09-28",
+      "url": "https://www.nba.com/sixers/news/philadelphia-76ers-and-bloom-energy-announce-partnership-and-patch-deal",
+      "quote": "Bloom Energy will become the Official Jersey Patch Partner on the team’s uniforms",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Jersey patch. Multi-year; the club and Bloom declined to comment on financial terms."
+  },
+  {
     "id": "philadelphia-76ers-crypto-com-patch",
     "clubId": "philadelphia-76ers",
     "orgName": "Crypto.com",
     "sponsorId": "crypto-com",
     "placement": "patch",
     "from": "2021",
-    "to": null,
+    "to": "2026",
     "value": null,
     "source": {
-      "name": "Front Office Sports",
-      "date": "2026-07-30",
-      "url": "https://frontofficesports.com/lebron-james-sixers-expiring-jersey-patch"
+      "name": "Sportico - Thanks LeBron: 76ers Sign One of NBA's Richest Jersey Patch Deals",
+      "date": "2026-09-28",
+      "url": "https://www.sportico.com/business/sponsorship/2026/76ers-lebron-james-jersey-patch-bloom-1234945823/",
+      "quote": "Crypto.com was the team’s patch partner for the previous five years, and the team and firm mutually agreed to end it a year early.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch, ended a year early when Bloom Energy took over for 2026-27. Front Office Sports reported in 2026 that it was a six-year deal announced in 2021 worth more than $10 million a year (frontofficesports.com, 2026-07-30)."
   },
   {
     "id": "philadelphia-76ers-xfinity-mobile-stadium",
@@ -13277,15 +14754,20 @@
     "orgName": "Xfinity Mobile (Comcast)",
     "sponsorId": "xfinity-mobile",
     "placement": "stadium",
-    "from": "2026",
-    "to": null,
+    "from": "2025",
+    "to": "2030-31",
     "value": null,
     "source": {
       "name": "ESPN / Associated Press",
       "date": "2025-05-06",
-      "url": "https://www.espn.com/nhl/story/_/id/45025071/76ers-flyers-arena-lands-naming-rights-deal-xfinity-mobile"
+      "url": "https://www.espn.com/nhl/story/_/id/45025071/76ers-flyers-arena-lands-naming-rights-deal-xfinity-mobile",
+      "quote": "The arena will be renamed Xfinity Mobile Arena, effective Sept. 1 and running through the 2030-2031 season.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Xfinity Mobile Arena."
+    "note": "Arena naming rights: Xfinity Mobile Arena. Deal start is the rename date in the source (Sept. 1, 2025); the record previously said 2026."
   },
   {
     "id": "philadelphia-eagles-jefferson-health-patch",
@@ -13327,13 +14809,25 @@
     "placement": "stadium",
     "from": null,
     "to": null,
-    "value": null,
+    "value": {
+      "amount": 95,
+      "currency": "USD",
+      "unit": "m",
+      "per": "total",
+      "upTo": false,
+      "usdApprox": 95
+    },
     "source": {
       "name": "Sports Business Journal",
-      "date": "2003-06-17",
-      "url": "https://sportsbusinessjournal.com/Daily/Issues/2003/06/17/Facilities-Venues/Citizens-Bank-Inks-25-Year-$95M-Phillies-Naming-Rights-Deal.aspx"
+      "date": "2003-06-16",
+      "url": "https://sportsbusinessjournal.com/Daily/Issues/2003/06/17/Facilities-Venues/Citizens-Bank-Inks-25-Year-$95M-Phillies-Naming-Rights-Deal.aspx",
+      "quote": "Citizens Bank has scheduled a press conference for noon ET today in Philadelphia to take the wraps off a 25-year, $95M naming rights deal",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Citizens Bank Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2003-06-17."
+    "note": "Arena naming rights: Citizens Bank Park. Reported as a 25-year, $95M package; the article says $57.5M is for the naming rights and the rest for media, tickets and hospitality. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2003."
   },
   {
     "id": "philadelphia-phillies-independence-blue-cross-patch",
@@ -13347,7 +14841,12 @@
     "source": {
       "name": "MLB.com (Philadelphia Phillies)",
       "date": "2024-07-31",
-      "url": "https://www.mlb.com/news/phillies-name-independence-blue-cross-as-first-official-jersey-patch-partner"
+      "url": "https://www.mlb.com/news/phillies-name-independence-blue-cross-as-first-official-jersey-patch-partner",
+      "quote": "the iconic IBX blue logo will adorn the sleeve of each of the Phillies’ team jerseys (home, away and City Connect)",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Jersey patch."
   },
@@ -14993,9 +16492,15 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "San Antonio Spurs (spurs.com)",
-      "date": "2025-06-24",
-      "url": "https://spurs.com/news/san-antonio-spurs-partner-with-digital-asset-security-leader-ledger-in-new-global-jersey-patch-deal"
+      "name": "Ledger – 'Ledger & San Antonio Spurs Announce Global Partnership'",
+      "date": "2025-06-25",
+      "url": "https://www.ledger.com/ledger-and-san-antonio-spurs-partnership",
+      "quote": "Ledger is proud to announce that it has become the official jersey patch sponsor of the San Antonio Spurs in a multi-year global partnership.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Jersey patch. The club announced the same multi-year deal on 2025-06-24 (nba.com/spurs)."
     },
     "note": "Jersey patch."
   },
@@ -15005,15 +16510,28 @@
     "orgName": "Motorola",
     "sponsorId": "motorola",
     "placement": "patch",
-    "from": "2023",
+    "from": "2022",
     "to": null,
-    "value": null,
-    "source": {
-      "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
-      "date": "2026-04-20",
-      "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+    "value": {
+      "amount": 10,
+      "currency": "USD",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 10
     },
-    "note": "Jersey patch."
+    "source": {
+      "name": "SportsPro: San Diego Padres team up with Motorola for first MLB jersey patch deal",
+      "date": "2022-04-20",
+      "url": "https://www.sportspro.com/news/sponsorship-marketing/san-diego-padres-motorola-jersey-patch-sponsorship-mlb/",
+      "note": "Reports the agreement at US$10 million a year, attributed to SportBusiness. The club's own release (MLB.com, 2022-04-19) dates the patch from the 2023 season; the wider sponsorship and the official smartphone partnership began in 2022.",
+      "quote": "The agreement, reported by SportBusiness to be worth US$10 million a year, also sees Motorola named as the franchise’s official smartphone partner.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Jersey patch (shoulder/sleeve). Announced 19 April 2022, from the 2023 season."
   },
   {
     "id": "san-diego-padres-petco-stadium",
@@ -15025,11 +16543,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Ballpark Digest",
+      "name": "Ballpark Digest: Petco, Padres extend Petco Park naming-rights deal through 2027",
       "date": "2021-03-08",
-      "url": "https://ballparkdigest.com/2021/03/08/petco-padres-extend-petco-park-naming-rights-deal-through-2027"
+      "url": "https://ballparkdigest.com/2021/03/08/petco-padres-extend-petco-park-naming-rights-deal-through-2027/",
+      "quote": "Petco Health and Wellness and the San Diego Padres are extending the Petco Park naming-rights deal for two additional years, through the 2027 MLB season.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Petco Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2021-03-08."
+    "note": "Ballpark naming rights: Petco Park. The 2021 extension runs through the 2027 season; the original start of the naming-rights deal is not given, so from stays null. Value not disclosed."
   },
   {
     "id": "san-francisco-49ers-levi-strauss-and-co-stadium",
