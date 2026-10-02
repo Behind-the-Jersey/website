@@ -310,7 +310,10 @@ export const contactChannel = z
       .min(3)
       .refine((v) => !PLACEHOLDER.test(v), 'placeholder values are not allowed'),
     label: z.string().optional(),
-    source: z.object({ name: z.string(), url: z.string().regex(/^https?:\/\//), date: z.string() }).strict(),
+    /** Same shape as every other source in the dataset: name/date/url plus the optional
+     *  note/short/quote/checked the data repo's CI writes. A contact channel is a checked,
+     *  sourced address, so its source carries the same quote + checked pair as the rest. */
+    source: source.nullable(),
   })
   .strict()
   .refine((c) => c.type !== 'email' || EMAIL.test(c.value), 'not a valid ASCII email address');
