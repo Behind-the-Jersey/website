@@ -10,4 +10,6 @@ mv out out-demo
 
 BTJ_DATA_SOURCE="${BTJ_DATA_SOURCE:-live}" npm run build
 mv out-demo out/demo
+# The team-only film (public/film/) is served once, at /film/, not again under /demo/.
+rm -rf out/demo/film
 echo "Built out/ (live, data: ${BTJ_DATA_SOURCE:-live}) and out/demo/ (seed)."
