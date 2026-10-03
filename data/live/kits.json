@@ -1878,23 +1878,305 @@
         "sponsorId": "alpecin",
         "placement": "front",
         "source": {
-          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
-          "date": "2026-07-14",
-          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          "name": "Alpecin-Premier Tech (team site): Premier Tech joins Alpecin-Deceuninck as co-title partner",
+          "date": "2025-12-05",
+          "url": "https://www.alpecin-premiertech.com/news/premier-tech",
+          "quote": "and will stand alongside Alpecin, title sponsor since 2020, and Canyon, bike partner since 2018.",
+          "note": "The title sponsor fills the chest of the 2026 jersey: kit maker Kalas's replica front view (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008251/1770114182/9707-321x-1-1770111912-1770114182.png) and the Tour de France 2026 race photo of Mathieu van der Poel (https://domestique-cycling.b-cdn.net/production/CORVOS_00039149-254.jpg, Cor Vos) show the red 'Alpecin DMG SHAMPOO' logo across the chest.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
         }
       },
       {
         "sponsorId": "premier-tech",
         "placement": "front",
         "source": {
-          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
-          "date": "2026-07-14",
-          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+          "name": "Domestique: 2026 WorldTour kits unveiled: Picnic PostNL maintain orange stripes (2026 jersey overview)",
+          "date": "2026-01-09",
+          "url": "https://www.domestiquecycling.com/en/features/2026-worldtour-jerseys-full-overview/",
+          "quote": "now featuring new co-title sponsor Premier Tech on the chest",
+          "note": "Kalas's replica front view (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008251/1770114182/9707-321x-1-1770111912-1770114182.png) shows 'PREMIER TECH' under the Alpecin chest logo.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "zwift",
+        "placement": "front",
+        "source": {
+          "name": "Kalas: ALPECIN-PREMIER TECH | Jersey (2026 replica)",
+          "date": "2026",
+          "url": "https://www.kalas.cc/alpecin-premier-tech-jersey/",
+          "quote": "Fan replica of UCI WorldTeam Alpecin–Premier Tech‘s 2026 season jersey with a modern blue design.",
+          "note": "The product photo (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008251/1770114182/9707-321x-1-1770111912-1770114182.png) shows 'ZWIFT' at the top of the viewer's-right chest stack, beside the UCI WorldTeam badge; also visible in the Cor Vos race photo listed under the Alpecin entry.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "canyon",
+        "placement": "front",
+        "source": {
+          "name": "Alpecin-Premier Tech (team site): Premier Tech joins Alpecin-Deceuninck as co-title partner",
+          "date": "2025-12-05",
+          "url": "https://www.alpecin-premiertech.com/news/premier-tech",
+          "quote": "and will stand alongside Alpecin, title sponsor since 2020, and Canyon, bike partner since 2018.",
+          "note": "Kalas's replica front view (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008251/1770114182/9707-321x-1-1770111912-1770114182.png) shows 'CANYON' in the viewer's-right chest stack below Zwift.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "skoda",
+        "placement": "front",
+        "source": {
+          "name": "Kalas: ALPECIN-PREMIER TECH | Jersey (2026 replica)",
+          "date": "2026",
+          "url": "https://www.kalas.cc/alpecin-premier-tech-jersey/",
+          "quote": "Fan replica of UCI WorldTeam Alpecin–Premier Tech‘s 2026 season jersey with a modern blue design.",
+          "note": "The product photo (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008251/1770114182/9707-321x-1-1770111912-1770114182.png) shows 'ŠKODA' in the viewer's-right chest stack below Canyon; also visible in the Cor Vos race photo listed under the Alpecin entry. The team announced the Škoda partnership extension on 22 December 2025 (https://www.alpecin-premiertech.com/news/skoda-extension).",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "iko",
+        "placement": "front",
+        "source": {
+          "name": "Kalas: ALPECIN-PREMIER TECH | Jersey (2026 replica)",
+          "date": "2026",
+          "url": "https://www.kalas.cc/alpecin-premier-tech-jersey/",
+          "quote": "Fan replica of UCI WorldTeam Alpecin–Premier Tech‘s 2026 season jersey with a modern blue design.",
+          "note": "The product photo (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008251/1770114182/9707-321x-1-1770111912-1770114182.png) shows 'IKO' at the top of the viewer's-left chest stack; also visible in the Cor Vos race photo listed under the Alpecin entry.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "abus",
+        "placement": "front",
+        "source": {
+          "name": "Kalas: ALPECIN-PREMIER TECH | Jersey (2026 replica)",
+          "date": "2026",
+          "url": "https://www.kalas.cc/alpecin-premier-tech-jersey/",
+          "quote": "Fan replica of UCI WorldTeam Alpecin–Premier Tech‘s 2026 season jersey with a modern blue design.",
+          "note": "The product photo (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008251/1770114182/9707-321x-1-1770111912-1770114182.png) shows 'ABUS' below IKO in the viewer's-left chest stack; also visible in the Cor Vos race photo listed under the Alpecin entry.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "brustor",
+        "placement": "front",
+        "source": {
+          "name": "Kalas: ALPECIN-PREMIER TECH | Jersey (2026 replica)",
+          "date": "2026",
+          "url": "https://www.kalas.cc/alpecin-premier-tech-jersey/",
+          "quote": "Fan replica of UCI WorldTeam Alpecin–Premier Tech‘s 2026 season jersey with a modern blue design.",
+          "note": "The product photo (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008251/1770114182/9707-321x-1-1770111912-1770114182.png) shows 'BRUSTOR' on the left side of the collar.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "deceuninck",
+        "placement": "front",
+        "source": {
+          "name": "Alpecin-Premier Tech (team site): Premier Tech joins Alpecin-Deceuninck as co-title partner",
+          "date": "2025-12-05",
+          "url": "https://www.alpecin-premiertech.com/news/premier-tech",
+          "quote": "With Deceuninck staying onboard, we hope to live more memorable moments together.",
+          "note": "The team confirms Deceuninck remains a partner. Kalas's replica front view (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008251/1770114182/9707-321x-1-1770111912-1770114182.png) shows 'deceuninck' on the right side of the collar.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "premier-tech",
+        "placement": "sleeve",
+        "source": {
+          "name": "Domestique: 2026 WorldTour kits unveiled: Picnic PostNL maintain orange stripes (2026 jersey overview)",
+          "date": "2026-01-09",
+          "url": "https://www.domestiquecycling.com/en/features/2026-worldtour-jerseys-full-overview/",
+          "quote": "now featuring new co-title sponsor Premier Tech on the chest",
+          "note": "Co-title sponsor branding: Kalas's replica front view (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008251/1770114182/9707-321x-1-1770111912-1770114182.png) shows 'PREMIER TECH' down the upper left sleeve.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "alpecin",
+        "placement": "sleeve",
+        "source": {
+          "name": "Alpecin-Premier Tech (team site): Premier Tech joins Alpecin-Deceuninck as co-title partner",
+          "date": "2025-12-05",
+          "url": "https://www.alpecin-premiertech.com/news/premier-tech",
+          "quote": "and will stand alongside Alpecin, title sponsor since 2020, and Canyon, bike partner since 2018.",
+          "note": "Title sponsor branding: Kalas's replica front view (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008251/1770114182/9707-321x-1-1770111912-1770114182.png) shows 'Alpecin DMG SHAMPOO' down the upper right sleeve and a small red Alpecin patch on the left sleeve; the Cor Vos race photo listed above shows the same.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "canyon",
+        "placement": "sleeve",
+        "source": {
+          "name": "Kalas: ALPECIN-PREMIER TECH | Jersey (2026 replica)",
+          "date": "2026",
+          "url": "https://www.kalas.cc/alpecin-premier-tech-jersey/",
+          "quote": "Fan replica of UCI WorldTeam Alpecin–Premier Tech‘s 2026 season jersey with a modern blue design.",
+          "note": "The product photo (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008251/1770114182/9707-321x-1-1770111912-1770114182.png) shows the Canyon wordmark looping above both sleeve cuffs.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "alpecin",
+        "placement": "back",
+        "source": {
+          "name": "Kalas: ALPECIN-PREMIER TECH | Long Sleeve Jersey (2026 replica)",
+          "date": "2026",
+          "url": "https://www.kalas.cc/alpecin-premier-tech-long-sleeve-jersey/",
+          "quote": "Fan replica of UCI WorldTeam Alpecin–Premier Tech‘s 2026 season long sleeve jersey with a modern blue design.",
+          "note": "The back-view product photo (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008254/1770114182/9707-351x-2-1770111947-1770114182.png) shows 'Alpecin DMG SHAMPOO' centre back.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "premier-tech",
+        "placement": "back",
+        "source": {
+          "name": "Kalas: ALPECIN-PREMIER TECH | Long Sleeve Jersey (2026 replica)",
+          "date": "2026",
+          "url": "https://www.kalas.cc/alpecin-premier-tech-long-sleeve-jersey/",
+          "quote": "Fan replica of UCI WorldTeam Alpecin–Premier Tech‘s 2026 season long sleeve jersey with a modern blue design.",
+          "note": "The back-view product photo (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008254/1770114182/9707-351x-2-1770111947-1770114182.png) shows 'PREMIER TECH' under Alpecin on the back.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "crelan",
+        "placement": "back",
+        "source": {
+          "name": "Kalas: ALPECIN-PREMIER TECH | Long Sleeve Jersey (2026 replica)",
+          "date": "2026",
+          "url": "https://www.kalas.cc/alpecin-premier-tech-long-sleeve-jersey/",
+          "quote": "Fan replica of UCI WorldTeam Alpecin–Premier Tech‘s 2026 season long sleeve jersey with a modern blue design.",
+          "note": "The back-view product photo (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008254/1770114182/9707-351x-2-1770111947-1770114182.png) shows 'crelan' on the upper back.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "fenix",
+        "placement": "back",
+        "source": {
+          "name": "Kalas: ALPECIN-PREMIER TECH | Long Sleeve Jersey (2026 replica)",
+          "date": "2026",
+          "url": "https://www.kalas.cc/alpecin-premier-tech-long-sleeve-jersey/",
+          "quote": "Fan replica of UCI WorldTeam Alpecin–Premier Tech‘s 2026 season long sleeve jersey with a modern blue design.",
+          "note": "The back-view product photo (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008254/1770114182/9707-351x-2-1770111947-1770114182.png) shows 'FENIX' on the lower back, the brand also naming the women's team.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "zwift",
+        "placement": "shorts",
+        "source": {
+          "name": "Kalas: ALPECIN-PREMIER TECH | Bib Shorts (2026 replica)",
+          "date": "2026",
+          "url": "https://www.kalas.cc/alpecin-premier-tech-bib-shorts/",
+          "quote": "Fan replica of UCI WorldTeam Alpecin–Premier Tech‘s 2026 season bib shorts.",
+          "note": "The product photo (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008258/1770114182/9707-391x-1-1770112026-1770114182.png) shows the Zwift logo on the front of both legs; the training photo on the kit maker's North America store (https://cdn.shopify.com/s/files/1/0600/5224/2494/files/alpmodel2026.jpg) shows the same on the race kit.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "canyon",
+        "placement": "shorts",
+        "source": {
+          "name": "Kalas: ALPECIN-PREMIER TECH | Bib Shorts (2026 replica)",
+          "date": "2026",
+          "url": "https://www.kalas.cc/alpecin-premier-tech-bib-shorts/",
+          "quote": "Fan replica of UCI WorldTeam Alpecin–Premier Tech‘s 2026 season bib shorts.",
+          "note": "The product photos (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008258/1770114182/9707-391x-1-1770112026-1770114182.png and .../9707-391x-2-1770112026-1770114182.png) show the Canyon wordmark looping above both leg hems.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "brustor",
+        "placement": "shorts",
+        "source": {
+          "name": "Kalas: ALPECIN-PREMIER TECH | Bib Shorts (2026 replica)",
+          "date": "2026",
+          "url": "https://www.kalas.cc/alpecin-premier-tech-bib-shorts/",
+          "quote": "Fan replica of UCI WorldTeam Alpecin–Premier Tech‘s 2026 season bib shorts.",
+          "note": "The back-view product photo (https://www.kalas.cc/data/cache/thumb_1920-1600-0/products/30008258/1770114182/9707-391x-2-1770112026-1770114182.png) shows 'BRUSTOR sun shade shelter' across the seat of the bib shorts.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "kalas",
+        "placement": "partner",
+        "source": {
+          "name": "Cyclingflash: Mathieu van der Poel races in blue jersey for Alpecin-Premier Tech again in 2026",
+          "date": "2026-01-01",
+          "url": "https://cyclingflash.com/news/mathieu-van-der-poel-races-in-blue-jersey-for-alpecin-premier-tech-again-in-2026",
+          "quote": "The men's team’s apparel is supplied by Kalas.",
+          "note": "Kit maker, recorded as partner per existing convention. The Kalas 'K' logo also sits at the top of the jersey's left chest stack and on the thighs of the bib shorts (replica photos cited above).",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "2026 UCI WorldTeam. Alpecin-Premier Tech's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "sponsorsComplete": true,
+    "summary": "2026 UCI WorldTeam kit by Kalas, revealed 1 January 2026: a return to blue, with 'Alpecin DMG SHAMPOO' above 'PREMIER TECH' across the chest and the back (Alpecin title sponsor since 2020, Premier Tech co-title partner from 2026). The right chest stack has the UCI WorldTeam badge (a UCI label, not a sponsor), Zwift, Canyon and Škoda; the left stack IKO, the Kalas logo (kit maker, listed as partner) and ABUS. Brustor and Deceuninck are on the collar, Premier Tech on the left sleeve, Alpecin DMG Shampoo on the right sleeve plus a small Alpecin patch on the left sleeve, and Canyon above the sleeve cuffs. Crelan sits on the upper back, Fenix (the brand that also names the women's team) on the lower back. The bib shorts carry Brustor across the seat, the Kalas logo on the thighs, Zwift on the front of the legs and Canyon above the hems. Marked complete: garment photos for front, back and bibs (Kalas replica pages) and 2026 race photos (Cor Vos via Domestique, kit maker's store) were all checked and match.",
     "change": null
   },
   {
@@ -2664,9 +2946,70 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
+    "sponsors": [
+      {
+        "sponsorId": "corendon",
+        "placement": "front",
+        "source": {
+          "name": "Türkiye Basket: Anadolu Efes'in 2026-27 Sezonu Formaları Görücüye Çıktı",
+          "date": "2026-09-05",
+          "url": "https://www.turkiyebasket.com/anadolu-efes-2026-27-formalari/",
+          "quote": "Anadolu Efes, 2026-27 sezonu öncesinde yeni formalarını taraftarların beğenisine sundu.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "The article's 2026-27 kit-launch photos (players in the new white home and blue away jerseys) show the Corendon logo on the front of the jersey, below the ANADOLU EFES wordmark and the number. Corendon's logo on the team's chest is also stated in the sponsorship-renewal press release of September 2024 (TSA): 'Corendon'un logosu Anadolu Efes takımının göğsünde yer almaya devam ederken'."
+        }
+      },
+      {
+        "sponsorId": "corendon",
+        "placement": "shorts",
+        "source": {
+          "name": "Türkiye Basket: Anadolu Efes'in 2026-27 Sezonu Formaları Görücüye Çıktı",
+          "date": "2026-09-05",
+          "url": "https://www.turkiyebasket.com/anadolu-efes-2026-27-formalari/",
+          "quote": "Anadolu Efes, 2026-27 sezonu öncesinde yeni formalarını taraftarların beğenisine sundu.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "The article's 2026-27 launch photo shows the Corendon logo on the front of the shorts on both the white home and the blue away kit."
+        }
+      },
+      {
+        "sponsorId": "gsa-sport",
+        "placement": "partner",
+        "source": {
+          "name": "Türkiye Basket: Anadolu Efes'in 2026-27 Sezonu Formaları Görücüye Çıktı",
+          "date": "2026-09-05",
+          "url": "https://www.turkiyebasket.com/anadolu-efes-2026-27-formalari/",
+          "quote": "Pablo Laso yönetiminde yenilenmiş kadrosuyla yeni sezona giren lacivert-beyazlılar, giyim partneri GSA Sport iş birliğiyle hazırlanan koleksiyonu duyurdu.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Kit maker. The club's own announcement of 10 September 2025 says GSA Sport is Anadolu Efes' official jersey and sportswear partner from the 2025-2026 season onward; the 2026-27 launch photo shows the GSA logo on the chest of the new jerseys."
+        }
+      },
+      {
+        "sponsorId": "bilyoner",
+        "placement": "back",
+        "source": {
+          "name": "Anadolu Efes Official Store (GSA Sport) – '25/26 Beyaz Maç Forması' product page",
+          "date": "2025",
+          "url": "https://gsasport.com.tr/product/25-26-beyaz-mac-formasi",
+          "note": "Placement evidence: the product photo shows the Bilyoner logo above the number on the back of the white game jersey. The 2026-27 continuation is in the source moved to this note — Türk Spor Ajansı, 2026-09-29 (https://turksporajansi.com/2026/09/29/bilyoner-ile-anadolu-efeste-is-birligi-8-yilinda/): \"Bilyoner ile Anadolu Efes Spor Kulübü arasındaki sponsorluk anlaşması 2026-2027 sezonunda da devam edecek.\" No 2026-27 photo of the jersey back was found, so the back placement rests on this image — the review-agent objection on PR 1004.",
+          "quote": "25/26 Beyaz Maç Forması SKU: GT42507",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "BigBossRabbit"
+          }
+        }
+      }
+    ],
     "sponsorsComplete": false,
-    "summary": null,
+    "summary": "Corendon Airlines is on the front of the jersey, below the ANADOLU EFES wordmark and the number, and on the shorts; Bilyoner, the club's official sponsor for an eighth season in 2026-27, sits above the number on the back (placement shown on the official 25/26 jersey image); GSA Sport is the kit maker. Not complete: no 2026-27 source shows the back of the jersey or names sleeve or other placements.",
     "change": null
   },
   {
@@ -6618,7 +6961,12 @@
         "source": {
           "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
           "date": "2026-09-01",
-          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+          "quote": "making them the naming rights partner of their training center and adding the Western New York healthcare company to their practice jerseys",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
@@ -6757,90 +7105,174 @@
     "photos": {},
     "sponsors": [
       {
-        "sponsorId": "twg-ai",
-        "placement": "partner",
+        "sponsorId": "tommy-hilfiger",
+        "placement": "front",
         "source": {
-          "name": "Cadillac Formula 1 Team – Official Partners",
-          "date": "2026-09-24",
-          "url": "https://www.cadillacf1team.com/partners"
+          "name": "Motorsport.com - Cadillac reveals two-sided 2026 F1 livery",
+          "date": "2026-02-09",
+          "url": "https://www.motorsport.com/f1/news/cadillac-reveals-two-sided-2026-livery-for-its-maiden-f1-season/10796105/",
+          "quote": "Clothing brand Tommy Hilfiger is among several logos featuring on the nosecone.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Tommy Hilfiger logo on the nosecone."
         }
       },
       {
-        "sponsorId": "s-3m",
-        "placement": "partner",
+        "sponsorId": "gainbridge",
+        "placement": "front",
         "source": {
-          "name": "Cadillac Formula 1 Team – Official Partners",
-          "date": "2026-09-24",
-          "url": "https://www.cadillacf1team.com/partners"
+          "name": "GM Authority - Cadillac F1 Livery: All The Names And Sponsors (And What They Do)",
+          "date": "2026-02-15",
+          "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-livery-all-the-names-and-sponsors-and-what-they-do/",
+          "quote": "The logo for Gainbridge is positioned right below the tricolor Tommy Hilfiger crest.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Logo below the Tommy Hilfiger crest on the nose; not on the team's own partners page."
+        }
+      },
+      {
+        "sponsorId": "pirelli",
+        "placement": "front",
+        "source": {
+          "name": "GM Authority - Cadillac F1 Livery: All The Names And Sponsors (And What They Do)",
+          "date": "2026-02-15",
+          "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-livery-all-the-names-and-sponsors-and-what-they-do/",
+          "quote": "Pirelli also appears on the nose of the Cadillac F1 race car",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "On the nose; also the team's Official Tyre Supplier."
+        }
+      },
+      {
+        "sponsorId": "jim-beam",
+        "placement": "front",
+        "source": {
+          "name": "GM Authority - Cadillac F1 Team Makes Its Statement With 2026 Livery: Video",
+          "date": "2026-02-08",
+          "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-team-makes-its-statement-with-2026-livery-video/",
+          "quote": "The rest of the Cadillac F1 race car’s nose is populated by sponsor logos, showcasing whiskey distiller Jim Beam, emissions control system manufacturer Tenneco, and clothing brand Tommy Hilfiger.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "On the nose per GM Authority; Motorsport.com puts Jim Beam on the bargeboards (conflict)."
+        }
+      },
+      {
+        "sponsorId": "tenneco",
+        "placement": "front",
+        "source": {
+          "name": "GM Authority - Cadillac F1 Team Makes Its Statement With 2026 Livery: Video",
+          "date": "2026-02-08",
+          "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-team-makes-its-statement-with-2026-livery-video/",
+          "quote": "The rest of the Cadillac F1 race car’s nose is populated by sponsor logos, showcasing whiskey distiller Jim Beam, emissions control system manufacturer Tenneco, and clothing brand Tommy Hilfiger.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "On the nose."
+        }
+      },
+      {
+        "sponsorId": "twg-ai",
+        "placement": "sleeve",
+        "source": {
+          "name": "GM Authority - Cadillac F1 Livery: All The Names And Sponsors (And What They Do)",
+          "date": "2026-02-15",
+          "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-livery-all-the-names-and-sponsors-and-what-they-do/",
+          "quote": "Its artificial intelligence arm, TWG AI, appears on the side of the race car, dominating the black-and-white paint scheme.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "TWG AI on the side of the car; 'sleeve' used for the side."
+        }
+      },
+      {
+        "sponsorId": "ifs",
+        "placement": "back",
+        "source": {
+          "name": "Motorsport.com - Cadillac reveals two-sided 2026 F1 livery",
+          "date": "2026-02-09",
+          "url": "https://www.motorsport.com/f1/news/cadillac-reveals-two-sided-2026-livery-for-its-maiden-f1-season/10796105/",
+          "quote": "the IFS logo on the rear wing endplates refers to a Swedish software company.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "IFS logo on the rear wing endplates."
         }
       },
       {
         "sponsorId": "claro",
         "placement": "partner",
         "source": {
-          "name": "Cadillac Formula 1 Team – Official Partners",
-          "date": "2026-09-24",
-          "url": "https://www.cadillacf1team.com/partners"
+          "name": "Cadillac Formula 1 Team - Official Partners: Claro / America Movil (Wayback Machine snapshot)",
+          "date": "2026-08-12",
+          "url": "https://web.archive.org/web/20260812141502/https://www.cadillacf1team.com/partners",
+          "quote": "As the leading telecommunications provider in Latin America",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Live site blocks scripts; snapshot of the official partners page checked."
         }
       },
       {
         "sponsorId": "core-scientific",
         "placement": "partner",
         "source": {
-          "name": "Cadillac Formula 1 Team – Official Partners",
-          "date": "2026-09-24",
-          "url": "https://www.cadillacf1team.com/partners"
+          "name": "Cadillac Formula 1 Team - Official Partners: Core Scientific (Wayback Machine snapshot)",
+          "date": "2026-08-12",
+          "url": "https://web.archive.org/web/20260812141502/https://www.cadillacf1team.com/partners",
+          "quote": "Core Scientific is a leader in high-density digital infrastructure and data center solutions",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Live site blocks scripts; snapshot of the official partners page checked."
         }
       },
       {
-        "sponsorId": "ifs",
+        "sponsorId": "s-3m",
         "placement": "partner",
         "source": {
-          "name": "Cadillac Formula 1 Team – Official Partners",
-          "date": "2026-09-24",
-          "url": "https://www.cadillacf1team.com/partners"
-        }
-      },
-      {
-        "sponsorId": "jim-beam",
-        "placement": "partner",
-        "source": {
-          "name": "Cadillac Formula 1 Team – Official Partners",
-          "date": "2026-09-24",
-          "url": "https://www.cadillacf1team.com/partners"
-        }
-      },
-      {
-        "sponsorId": "tenneco",
-        "placement": "partner",
-        "source": {
-          "name": "Cadillac Formula 1 Team – Official Partners",
-          "date": "2026-09-24",
-          "url": "https://www.cadillacf1team.com/partners"
-        }
-      },
-      {
-        "sponsorId": "tommy-hilfiger",
-        "placement": "partner",
-        "source": {
-          "name": "Cadillac Formula 1 Team – Official Partners",
-          "date": "2026-09-24",
-          "url": "https://www.cadillacf1team.com/partners"
+          "name": "Cadillac Formula 1 Team - Official Partners: 3M (Wayback Machine snapshot)",
+          "date": "2026-08-12",
+          "url": "https://web.archive.org/web/20260812141502/https://www.cadillacf1team.com/partners",
+          "quote": "3M is a global leader in material science",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Live site blocks scripts; snapshot of the official partners page checked."
         }
       },
       {
         "sponsorId": "alpinestars-c",
         "placement": "partner",
         "source": {
-          "name": "Cadillac Formula 1 Team – Official Partners",
-          "date": "2026-09-24",
-          "url": "https://www.cadillacf1team.com/partners"
+          "name": "Cadillac Formula 1 Team - Official Partners: Alpinestars (Wayback Machine snapshot)",
+          "date": "2026-08-12",
+          "url": "https://web.archive.org/web/20260812141502/https://www.cadillacf1team.com/partners",
+          "quote": "Alpinestars is a global leader in motorsport safety and performance apparel",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Live site blocks scripts; snapshot of the official partners page checked."
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "2026 car. N"
+    "summary": "2026 car. Partner list and positions from the team’s partner page and the livery-reveal press: Tommy Hilfiger, Gainbridge, Pirelli, Jim Beam and Tenneco on the nose; TWG AI on the side; IFS on the rear wing; the rest are team partners."
   },
   {
     "id": "cagliari-2026-27-home",
@@ -7188,15 +7620,66 @@
         "sponsorId": "ally",
         "placement": "front",
         "source": {
-          "name": "FOR SOCCER",
-          "date": "2026-02-17",
-          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          "name": "Charlotte FC: 'Charlotte FC Reveals New Primary Kit Ahead of 2026 Season'",
+          "date": "2026-02-10",
+          "url": "https://www.charlottefootballclub.com/news/charlotte-fc-reveals-new-primary-kit-ahead-of-2026-season",
+          "quote": "Ally Financial, Charlotte FC’s lead and founding partner, is represented as the front-of-kit sponsor as it has for each kit in the Club’s history.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Club announcement of the 2026 primary kit, the Carolina Kit: Crowns Up by adidas. For Soccer's 2026 MLS jersey-sponsor review (2026-02-17) lists the same front partner: 'Charlotte FC | Ally | Financial Services'."
+        }
+      },
+      {
+        "sponsorId": "rugs-com",
+        "placement": "sleeve",
+        "source": {
+          "name": "Charlotte FC: 'Charlotte FC Reveals New Primary Kit Ahead of 2026 Season'",
+          "date": "2026-02-10",
+          "url": "https://www.charlottefootballclub.com/news/charlotte-fc-reveals-new-primary-kit-ahead-of-2026-season",
+          "quote": "Rugs.com will also be the sleeve sponsor for the third season and can be found on the right sleeve of the kit.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Rugs.com became the club's official sleeve partner in July 2024 (club announcement of 2024-07-02); the 2026 kit release confirms the third season on the right sleeve."
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "Sportico: 'MLS to Allow Teams to Sell Ads on Lower Back of Jerseys'",
+          "date": "2026-02-26",
+          "url": "https://www.sportico.com/business/sponsorship/2026/mls-jersey-patch-lower-back-ads-1234885704/",
+          "quote": "A second sleeve patch was sold to Apple, the league’s media partner, for all 30 teams.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "League-wide left-sleeve patch; For Soccer's 2026 review lists Apple TV on the left sleeve of every MLS club, including Charlotte FC."
+        }
+      },
+      {
+        "sponsorId": "frigidaire",
+        "placement": "back",
+        "source": {
+          "name": "Charlotte FC: 'Charlotte FC Names Frigidaire as First-Ever Back-of-Kit Partner'",
+          "date": "2026-08-13",
+          "url": "https://www.charlottefootballclub.com/news/charlotte-fc-names-frigidaire-as-first-ever-back-of-kit-partner",
+          "quote": "logo will appear below player numbers on the back of all Charlotte FC kits",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Full sentence on the page: 'Beginning with this weekend's match against the Columbus Crew, the Frigidaire® logo will appear below player numbers on the back of all Charlotte FC kits.' MLS opened the lower-back ad space after the 2026 All-Star break."
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "The Carolina Kit: Crowns Up, the club's 2026 primary kit by adidas. Ally Financial is on the front for the fifth season; Rugs.com is on the right sleeve for a third season; the league-wide Apple TV+ patch sits on the left sleeve; from August 2026 Frigidaire's logo appears below the numbers on the back under a new MLS back-of-kit asset."
   },
   {
     "id": "charlotte-hornets-2026-27-home",
@@ -7214,7 +7697,12 @@
         "source": {
           "name": "Charlotte Hornets / NBA.com",
           "date": "2025-09-24",
-          "url": "https://www.nba.com/hornets/news/charlotte-hornets-and-judi-health-launch-multi-year-partnership-highlighted-by-jersey-patch-designation"
+          "url": "https://www.nba.com/hornets/news/charlotte-hornets-and-judi-health-launch-multi-year-partnership-highlighted-by-jersey-patch-designation",
+          "quote": "As the team’s jersey patch partner, the Judi Health logo will be featured on the official Charlotte Hornets team jerseys",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
@@ -7425,7 +7913,12 @@
         "source": {
           "name": "MLB.com press release (Chicago Cubs)",
           "date": "2024-08-01",
-          "url": "https://www.mlb.com/press-release/press-release-chicago-cubs-announce-motorola-as-official-jersey-patch-partner"
+          "url": "https://www.mlb.com/press-release/press-release-chicago-cubs-announce-motorola-as-official-jersey-patch-partner",
+          "quote": "The Chicago Cubs today announced a multiyear agreement with Motorola Mobility as the club’s “Official Jersey Patch Partner,” placing the iconic Motorola “batwing” logo on all home, road and alternate jerseys",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
@@ -7447,15 +7940,50 @@
         "sponsorId": "carvana",
         "placement": "front",
         "source": {
-          "name": "chicagofirefc.com",
-          "date": "2026-02-14",
-          "url": "https://www.chicagofirefc.com/news/chicago-fire-fc-unveils-new-forever-red-kit-to-heat-up-2026-season"
+          "name": "chicagofirefc.com – 'Chicago Fire FC Unveils New \"Forever Red\" Kit to Heat Up 2026 Season'",
+          "date": "2026-02-10",
+          "url": "https://www.chicagofirefc.com/news/chicago-fire-fc-unveils-new-forever-red-kit-to-heat-up-2026-season",
+          "quote": "Chicago's soccer Club drops newest jersey – featuring front-of-kit partner Carvana – with Valentine's Day launch event",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "FOR SOCCER – '2026 MLS Jersey Sponsors'",
+          "date": "2026-02-17",
+          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+          "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "League-wide left-sleeve patch; Apple pays MLS, not the club (see deal mls-apple-tv)."
+        }
+      },
+      {
+        "sponsorId": "magellan-corporation",
+        "placement": "sleeve",
+        "source": {
+          "name": "FOR SOCCER – '2026 MLS Jersey Sponsors'",
+          "date": "2026-02-17",
+          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+          "quote": "Chicago Fire FC Apple TV Media Magellan Corporation Distribution / Supply Chain",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Right sleeve for 2026, from the sleeves table's Chicago Fire FC row. The club announced Magellan as Official Jersey Sleeve Sponsor on 2024-05-03: https://www.chicagofirefc.com/news/chicago-fire-fc-announces-magellan-corporation-as-official-jersey-sleeve-sponsor"
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit. Carvana fronts the jersey and Magellan Corporation is on the right sleeve."
   },
   {
     "id": "chicago-white-sox-2026-27-home",
@@ -7502,7 +8030,12 @@
         "source": {
           "name": "Zoomph (2026 NFL practice jersey patch guide)",
           "date": "2026-09-01",
-          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+          "quote": "The long-term relationship between Fifth Third Bank and the Bengals extends onto the field — blending local economic roots with national visibility.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
@@ -7660,9 +8193,14 @@
         "sponsorId": "marathon",
         "placement": "patch",
         "source": {
-          "name": "Crain's Cleveland Business",
-          "date": "2026-09-10",
-          "url": "https://www.crainscleveland.com/sports-recreation/ccl-guardians-marathon-20260910/"
+          "name": "106.3 The Fox: Marathon stays on Guardians jerseys as sponsorship grows beyond the ballpark",
+          "date": "2026-09-25",
+          "url": "https://1063thefox.com/local-news/marathon-stays-on-guardians-jerseys-as-sponsorship-grows-beyond-the-ballpark/",
+          "quote": "Marathon, the retail brand of Marathon Petroleum Corp. (MPC) and the Official Fuel of the Cleveland Guardians, is extending its jersey patch sponsorship with the team through a new multiyear agreement.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
@@ -7785,15 +8323,51 @@
         "sponsorId": "uchealth",
         "placement": "front",
         "source": {
-          "name": "FOR SOCCER",
+          "name": "Colorado Rapids: 'Colorado Rapids and UCHealth launch health-focused initiative as part of multi-year jersey rights deal'",
+          "date": "2022-11-14",
+          "url": "https://www.coloradorapids.com/news/colorado-rapids-and-uchealth-launch-health-focused-initiative-as-part-of-multi-y",
+          "quote": "UCHealth’s logo will be displayed prominently on the front of all Rapids First Team match jerseys and training tops",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "The UCHealth jersey deal was announced 14 November 2022 and runs through the 2029 MLS season, so it covers this kit. For Soccer's 2026 MLS jersey-sponsor list (17 February 2026, https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/) confirms UCHealth as the Rapids' front-of-jersey partner for 2026."
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "FOR SOCCER: '2026 MLS Jersey Sponsors'",
           "date": "2026-02-17",
-          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+          "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "2026-season sleeve table: the left sleeve of every MLS kit, Colorado Rapids included, shows Apple TV. League deal record: mls-apple-tv."
+        }
+      },
+      {
+        "sponsorId": "kiewit",
+        "placement": "sleeve",
+        "source": {
+          "name": "FOR SOCCER: '2026 MLS Jersey Sponsors'",
+          "date": "2026-02-17",
+          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+          "quote": "Colorado Rapids Apple TV Media Kiewit Corporation Construction",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "2026-season sleeve table: for Colorado Rapids the right sleeve shows Kiewit Corporation. The club announced Kiewit as Official Jersey Sleeve Partner on 4 July 2025, with the logo on the right sleeve of all primary and secondary jerseys (deal record colorado-rapids-kiewit-sleeve)."
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "The Colorful Colorado Kit, the Rapids' black 2026 primary with burgundy shoulders, marking 30 years as an MLS Original. UCHealth is the front-of-shirt partner through 2029; Kiewit Corporation is the right-sleeve partner; the league-wide Apple TV patch is on the left sleeve."
   },
   {
     "id": "colorado-rockies-2026-27-home",
@@ -7839,15 +8413,53 @@
         "sponsorId": "nationwide",
         "placement": "front",
         "source": {
-          "name": "FOR SOCCER",
-          "date": "2026-02-17",
-          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          "name": "Columbus Crew – 'Columbus Crew launch \"The Crafted for Excellence Kit\" ahead of 2026 season'",
+          "date": "2026-02-10",
+          "url": "https://www.columbuscrew.com/news/columbus-crew-launch-the-crafted-for-excellence-kit-ahead-of-2026-season",
+          "quote": "The front and center of the kit proudly feature the Club’s official jersey sponsor, Nationwide. DHL Supply Chain returns in 2026 as the Club’s official right sleeve partner.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Club's own kit-launch announcement. For Soccer's 2026 MLS jersey-sponsor roundup (https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/) lists the same placements: Nationwide front, DHL right sleeve, Apple TV left sleeve."
+        }
+      },
+      {
+        "sponsorId": "dhl",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "Columbus Crew – 'Columbus Crew launch \"The Crafted for Excellence Kit\" ahead of 2026 season'",
+          "date": "2026-02-10",
+          "url": "https://www.columbuscrew.com/news/columbus-crew-launch-the-crafted-for-excellence-kit-ahead-of-2026-season",
+          "quote": "The front and center of the kit proudly feature the Club’s official jersey sponsor, Nationwide. DHL Supply Chain returns in 2026 as the Club’s official right sleeve partner.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "DHL Supply Chain is the right-sleeve partner; the Apple TV league patch is on the left sleeve."
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "SportsLogos.Net: 'MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break'",
+          "date": "2026-03-02",
+          "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
+          "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "League-wide patch; For Soccer's 2026 roundup also lists Apple TV on the Columbus Crew left sleeve."
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "The Crafted for Excellence Kit, the adidas home jersey launched 10 February 2026 with a collar and coral and teal accents. Nationwide is on the front; DHL Supply Chain returns as the right-sleeve partner; the league-wide Apple TV+ patch is on the left sleeve of every MLS kit. MLS only opens back-of-jersey ad space after the 2026 All-Star Break, and no Crew back sponsor has been announced."
   },
   {
     "id": "como-2026-27-home",
@@ -8643,9 +9255,14 @@
         "sponsorId": "jpmorganchase",
         "placement": "patch",
         "source": {
-          "name": "JPMorgan Chase Newsroom",
+          "name": "JPMorgan Chase Newsroom: Dallas Mavericks and JPMorganChase announce multi-year strategic partnership",
           "date": "2026-07-08",
-          "url": "https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs"
+          "url": "https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs",
+          "quote": "the Mavericks will feature the Chase logo on the upper left side of all four official Dallas Mavericks player jerseys",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
@@ -8722,15 +9339,51 @@
         "sponsorId": "guidehouse",
         "placement": "front",
         "source": {
-          "name": "FOR SOCCER",
-          "date": "2026-02-17",
-          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          "name": "The District Press – 'DC United reveals 2026 Home Kit'",
+          "date": "2026-02-11",
+          "url": "https://thedistrictpress.com/2026/02/11/dc-united-reveals-2026-home-kit/",
+          "quote": "The Guidehouse sponsor along with the Fruitist and Apple TV sleeve sponsors are in white, along with the Adidas logo on the right chest.",
+          "note": "Guidehouse has been the front-of-kit partner since 2024 (reported by Sportico on Feb 15, 2024; deal dc-united-guidehouse-front).",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "fruitist",
+        "placement": "sleeve",
+        "source": {
+          "name": "The District Press – 'DC United reveals 2026 Home Kit'",
+          "date": "2026-02-11",
+          "url": "https://thedistrictpress.com/2026/02/11/dc-united-reveals-2026-home-kit/",
+          "quote": "The Guidehouse sponsor along with the Fruitist and Apple TV sleeve sponsors are in white, along with the Adidas logo on the right chest.",
+          "note": "Sleeve-patch partner since 2024; the club's announcement of Feb 23, 2024 places The Fruitist logo on the right sleeve. For Soccer's 2026 MLS jersey review also lists The Fruitist on D.C. United's right sleeve.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "The District Press – 'DC United reveals 2026 Home Kit'",
+          "date": "2026-02-11",
+          "url": "https://thedistrictpress.com/2026/02/11/dc-united-reveals-2026-home-kit/",
+          "quote": "The Guidehouse sponsor along with the Fruitist and Apple TV sleeve sponsors are in white, along with the Adidas logo on the right chest.",
+          "note": "League-wide Apple TV patch on the left sleeve of every MLS kit (see deal mls-apple-tv); For Soccer's 2026 MLS jersey review lists Apple TV on D.C. United's left sleeve.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "Black-and-red adidas home kit. Guidehouse fronts the jersey; The Fruitist patch is on the right sleeve and the Apple TV league patch on the left."
   },
   {
     "id": "decathlon-cma-cgm-2026-home",
@@ -11342,15 +11995,94 @@
         "sponsorId": "mercy-health",
         "placement": "front",
         "source": {
-          "name": "FOR SOCCER",
+          "name": "FC Cincinnati: 'FC Cincinnati unveil The Orange and Blue Legacy Kit'",
+          "date": "2025-02-12",
+          "url": "https://www.fccincinnati.com/news/fc-cincinnati-unveil-the-orange-and-blue-legacy-kit",
+          "quote": "The primary sponsor, Mercy Health, is featured at the center of the jersey",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "The Orange and Blue Legacy Kit, launched February 2025, is the club's primary jersey; the club's Kit Vault still lists it among the current kits in 2026. FOR SOCCER's 2026 MLS jersey-sponsor list (https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/, 2026-02-17) confirms Mercy Health as FC Cincinnati's front-of-jersey partner for 2026."
+        }
+      },
+      {
+        "sponsorId": "kroger",
+        "placement": "sleeve",
+        "source": {
+          "name": "FC Cincinnati: 'FC Cincinnati unveil The Orange and Blue Legacy Kit'",
+          "date": "2025-02-12",
+          "url": "https://www.fccincinnati.com/news/fc-cincinnati-unveil-the-orange-and-blue-legacy-kit",
+          "quote": "complemented by the secondary sponsor, Kroger, located on the wearer's right sleeve",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Right sleeve. Kroger has been the club's sleeve partner since at least the 2023 River Kit (club Kit Vault: 'Kroger returned as FC Cincinnati's sleeve partner'); FOR SOCCER's 2026 list again names Kroger on the right sleeve."
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "FOR SOCCER: '2026 MLS Jersey Sponsors'",
           "date": "2026-02-17",
-          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+          "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "League-wide Apple TV patch on the left sleeve; the same page's sleeve table lists 'Apple TV' on FC Cincinnati's left sleeve and Kroger on the right. Apple pays MLS, not the club (see the mls-apple-tv deal)."
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "The Orange and Blue Legacy Kit, the club's primary jersey since February 2025, worn again in 2026. Mercy Health is on the front; Kroger is the secondary sponsor on the right sleeve; the league-wide Apple TV+ patch is on the left sleeve of every MLS kit. All MLS clubs wear Adidas."
+  },
+  {
+    "id": "fc-dallas-2026-27-away",
+    "clubId": "fc-dallas",
+    "season": "2026-27",
+    "kitType": "away",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "childrens-health",
+        "placement": "front",
+        "source": {
+          "name": "FC Dallas – 'FC Dallas Unveils New \"DNA Kit\" Ahead of 2026 Season'",
+          "date": "2026-02-11",
+          "url": "https://www.fcdallas.com/news/fc-dallas-unveils-new-dna-kit-ahead-of-2026-season",
+          "quote": "UT Southwestern Medical Center remains the front-of-jersey partner for the Inferno Kit.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "FC Dallas – 'FC Dallas Unveils New \"DNA Kit\" Ahead of 2026 Season'",
+          "date": "2026-02-11",
+          "url": "https://www.fcdallas.com/news/fc-dallas-unveils-new-dna-kit-ahead-of-2026-season",
+          "quote": "Returning for 2026, the Apple TV sleeve patch appears on the left sleeve of both FC Dallas jerseys.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "change": null,
+    "summary": "The Inferno Kit continues as the club's secondary jersey for 2026-27. The club's 2026 kit announcement names UT Southwestern Medical Center as its front-of-jersey partner and the Apple TV patch on the left sleeve of both jerseys; no other sponsor placement is named for the Inferno Kit."
   },
   {
     "id": "fc-dallas-2026-27-home",
@@ -11366,15 +12098,34 @@
         "sponsorId": "childrens-health",
         "placement": "front",
         "source": {
-          "name": "FOR SOCCER",
-          "date": "2026-02-17",
-          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          "name": "FC Dallas – 'FC Dallas Unveils New \"DNA Kit\" Ahead of 2026 Season'",
+          "date": "2026-02-11",
+          "url": "https://www.fcdallas.com/news/fc-dallas-unveils-new-dna-kit-ahead-of-2026-season",
+          "quote": "Children’s Health is the front-of-jersey partner. UT Southwestern Medical Center remains the front-of-jersey partner for the Inferno Kit.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "FC Dallas – 'FC Dallas Unveils New \"DNA Kit\" Ahead of 2026 Season'",
+          "date": "2026-02-11",
+          "url": "https://www.fcdallas.com/news/fc-dallas-unveils-new-dna-kit-ahead-of-2026-season",
+          "quote": "Returning for 2026, the Apple TV sleeve patch appears on the left sleeve of both FC Dallas jerseys.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "Red hoops DNA kit, new for 2026-27. Children's Health on the front and the Apple TV league patch on the left sleeve; the club's launch announcement names no other sponsor placement on the kit, and no right-sleeve sponsor."
   },
   {
     "id": "fc-koln-2026-27-home",
@@ -12290,13 +13041,64 @@
         "source": {
           "name": "Footy Headlines",
           "date": "2026-08-10",
-          "url": "https://www.footyheadlines.com/5057587566/frosinone-calcio-26-27-home-away-third-kits-released.html"
+          "url": "https://www.footyheadlines.com/5057587566/frosinone-calcio-26-27-home-away-third-kits-released.html",
+          "quote": "All three kits feature long-standing main partner Banca Popolare Frusinate across the chest.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Also visible across the chest of the club's own product photos of the 2026-27 home shirt (https://store.frosinonecalcio.com/product/maglia-gara-home-26-27-gialla/)."
+        }
+      },
+      {
+        "sponsorId": "dem-supermercati",
+        "placement": "back",
+        "source": {
+          "name": "Ciociaria Oggi: Dem Supermercati porta i bambini di \"Peter Pan OdV\" allo stadio",
+          "date": "2026-04-26",
+          "url": "https://www.ciociariaoggi.it/gallery/frosinone-calcio/315522/dem-supermercati-porta-i-bambini-di-peter-pan-odv-allo-stadio.html",
+          "quote": "La collaborazione con il Frosinone Calcio, essendo Dem Supermercati Back Sponsor del club, ha reso possibile trasformare una semplice partita in un’esperienza indimenticabile.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Dem's own sponsor page (https://www.supermercatidem.com/chi-siamo/valori/territorio/sponsorizzazioni/) calls Dem 'Back Sponsor Ufficiale' and says its brand is 'visibile sul retro delle maglie ufficiali'; the club's official store photo of the 2026-27 home shirt shows the Dem logo on the lower back (https://store.frosinonecalcio.com/product/maglia-gara-home-26-27-gialla/)."
+        }
+      },
+      {
+        "sponsorId": "enilive",
+        "placement": "patch",
+        "source": {
+          "name": "Eni press release: Enilive becomes Serie A Title sponsor with sponsorship agreement up until 2027",
+          "date": "2024-02-05",
+          "url": "https://www.eni.com/en-IT/media/press-release/2024/02/enilive-becomes-serie-a-title-sponsor.html",
+          "quote": "Enilive, Eni's company dedicated to mobility products and services, will be the Title sponsor of Serie A starting from the 2024/25 championship and covering three seasons.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "League title sponsor whose branding is on the official Serie A sleeve patch (same treatment as Bologna's 2026-27 kit); a sleeve patch is visible on the left sleeve of the launch photos in the Footy Headlines gallery. Not a direct club deal: see data/deals/serie-a-enilive.json."
+        }
+      },
+      {
+        "sponsorId": "zeus",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines",
+          "date": "2026-08-10",
+          "url": "https://www.footyheadlines.com/5057587566/frosinone-calcio-26-27-home-away-third-kits-released.html",
+          "quote": "Italian side Frosinone Calcio and technical partner Zeus have officially unveiled the club's new home, away, and third kits for the 26-27 season.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Kit maker. Zeus's own company page (https://www.zeusport.it/en/azienda.html) lists Frosinone Calcio among the teams it dresses, and the Zeus logo is on the right chest of the club's official product photos."
         }
       }
     ],
-    "sponsorsComplete": false,
-    "change": null,
-    "summary": "All three 26-27 kits carry 'long-standing main partner Banca Popolare Frusinate across the chest'."
+    "sponsorsComplete": true,
+    "summary": "Zeus-made home shirt: Banca Popolare del Frusinate across the chest, Dem Supermercati on the lower back and the Serie A (Enilive) patch on the sleeve. No sleeve or shorts sponsor.",
+    "change": null
   },
   {
     "id": "fulham-2026-27-home",
@@ -12555,15 +13357,52 @@
         "sponsorId": "pulsee-luce-e-gas",
         "placement": "front",
         "source": {
-          "name": "Pulsee",
+          "name": "Genoa CFC, 'Pulsee Luce e Gas e Genoa CFC: con l'energia di casa, uno sconto fino al 100% per la maglia ufficiale KOMBAT™'",
+          "date": "2026-10-02",
+          "url": "https://genoacfc.it/2026/10/02/pulsee-luce-e-gas-e-genoa-cfc-sconto-fino-al-100-per-la-maglia-ufficiale-kombat/",
+          "quote": "Pulsee Luce e Gas – Front Jersey Sponsor del Genoa– lancia una speciale operazione",
+          "note": "The club's own press release, restating Pulsee's role for the 2026/27 season. The club's partner page lists Pulsee as 'Front Jersey Sponsor' (genoacfc.it/partner/), and the club-shop product photo of the 2026/27 home shirt shows Pulsee Luce e Gas across the chest.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "bet365-scores",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "Genoa CFC, 'bet365 Scores è lo Sleeve Sponsor'",
+          "date": "2026-07-13",
+          "url": "https://genoacfc.it/2026/07/13/bet365-scores-e-sleeve-sponsor-del-genoa-cfc",
+          "quote": "bet365 Scores è il nuovo Sleeve Sponsor per le stagioni sportive 2026/27 e 2027/28 in relazione alla prima squadra maschile",
+          "note": "The club's announcement: the bet365 Scores logo goes on the left sleeve ('maniche sinistre') of the first-team shirts, with the deal brokered by Infront Sports. The club-shop product photo of the 2026/27 home shirt shows the bet365 Scores logo on the sleeve.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "kappa",
+        "placement": "partner",
+        "source": {
+          "name": "Genoa CFC, 'Genoa Home Kit 2026/27: You'll never run alone'",
           "date": "2026-07-14",
-          "url": "https://pulsee.it/chi-siamo/sponsorship/genoa-cfc"
+          "url": "https://genoacfc.it/2026/07/14/genoa-home-kit-2026-27-youll-never-run-alone",
+          "note": "Kit maker (technical sponsor), not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. The club's kit launch describes the KOMBAT™ Pro shirt 'ideata da Genoa e Kappa'; the club's partner page lists Kappa as 'Technical Sponsor'.",
+          "quote": "ideata da Genoa e Kappa con la partecipazione di No Panic Agency",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": null
+    "summary": "Kappa home shirt with a 1990s-style red-and-blue split: Pulsee Luce e Gas on the front, bet365 Scores on the left sleeve (new from July 2026, running through 2027/28). The club's launch photos and shop product photos show no back or shorts sponsor. Pulsee is the domestic retail brand of Axpo Italia, part of Switzerland's state-owned Axpo Group; bet365 Scores is bet365's live-scores app, controlled by the Coates family; Kappa is a BasicNet brand."
   },
   {
     "id": "germany-2026-home",
@@ -13725,15 +14564,35 @@
         "sponsorId": "md-anderson-cancer-center",
         "placement": "front",
         "source": {
-          "name": "FOR SOCCER",
+          "name": "FOR SOCCER – 2026 MLS Jersey Sponsors",
           "date": "2026-02-17",
-          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+          "quote": "Houston Dynamo FC MD Anderson Cancer Center Healthcare",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Table row (quote spans the team / jersey partner / category cells). The club's own releases name MD Anderson as front-of-kit sponsor on the primary Season 20 kit (Feb 13, 2025, https://www.houstondynamofc.com/news/houston-dynamo-fc-launch-season-20-kit) and on the 2026 Mission Control alternate (Feb 11, 2026, https://www.houstondynamofc.com/news/houston-dynamo-fc-launch-mission-control-kit-inspired-by-houston-s-pioneering-spirit-in-space-exploration)."
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "SportsLogos.Net – 'MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break'",
+          "date": "2026-03-02",
+          "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
+          "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "The orange Season 20 primary kit, worn since 2025, with the club's new Mission Control alternate joining it for 2026-27. MD Anderson Cancer Center is on the front of both; the league-wide Apple TV patch is on the left sleeve and the club has no right-sleeve sponsor in 2026."
   },
   {
     "id": "houston-rockets-2026-27-home",
@@ -13934,7 +14793,13 @@
         "source": {
           "name": "Indiana Pacers (NBA.com)",
           "date": "2025-07-09",
-          "url": "https://nba.com/pacers/news/indiana-pacers-and-lucas-oil-announce-multi-year-jersey-patch-partnership"
+          "url": "https://nba.com/pacers/news/indiana-pacers-and-lucas-oil-announce-multi-year-jersey-patch-partnership",
+          "quote": "As the official jersey patch partner of the Indiana Pacers, Lucas Oil’s logo will be prominently featured on Pacers uniforms on the front left shoulder",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Article body is rendered by script on nba.com; quote read in the page's embedded article text on 2026-10-01."
         }
       }
     ],
@@ -15636,15 +16501,81 @@
         "sponsorId": "deghi",
         "placement": "front",
         "source": {
-          "name": "Corriere Salentino",
-          "date": "2025-11-01",
-          "url": "https://www.corrieresalentino.it/2025/11/deghi-s-p-a-e-u-s-lecce-rinnovano-laccordo-di-main-sponsorship-per-il-quinquennio-2026-2031/"
+          "name": "Corriere Salentino, 'Deghi S.p.A. e U.S. Lecce rinnovano l'accordo di Main Sponsorship per il quinquennio 2026–2031'",
+          "date": "2025-11-21",
+          "url": "https://www.corrieresalentino.it/2025/11/deghi-s-p-a-e-u-s-lecce-rinnovano-laccordo-di-main-sponsorship-per-il-quinquennio-2026-2031/",
+          "quote": "annunciano congiuntamente il rinnovo della partnership di Main Sponsor per il periodo 2026–2031, confermando un rapporto iniziato nel 2021",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "DEGHI renewed as Main Sponsor for 2026-2031; the deal covers the first team and the Primavera."
+        }
+      },
+      {
+        "sponsorId": "betitaly-pay",
+        "placement": "front",
+        "source": {
+          "name": "LecceSette, 'Lecce e BetitalyPay ancora insieme: rinnovata partnership per la prossima stagione'",
+          "date": "2026-08-01",
+          "url": "https://www.leccesette.it/news/45323030022/lecce-e-betitalypay-rinnovata-partnership-per-stagione-26-27",
+          "quote": "sarà ancora sponsor ufficiale e co-sponsor di maglia del Lecce nella stagione 2026/27, confermando la presenza sulle nuove divise Adidas",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "The club's sponsor page (uslecce.it/sponsors, opened 2026-10-03) lists Betitaly as 'Second Sponsor'; the club's official 2026-27 home-kit photos show the BetItalyPay logo on the front of the shirt, above the Deghi logo."
+        }
+      },
+      {
+        "sponsorId": "dr-automobiles",
+        "placement": "back",
+        "source": {
+          "name": "US Lecce, 'DR Automobiles Groupe è back sponsor di maglia'",
+          "date": "2023-07-25",
+          "url": "https://uslecce.it/dr-automobiles-groupe-e-back-sponsor-di-maglia",
+          "quote": "DR è infatti il nuovo back sponsor di maglia dell’U.S. Lecce.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Back sponsor since 2023-24. The club's current sponsor page (uslecce.it/sponsors, opened 2026-10-03) still lists DR as 'Back Sponsor', and the official store's 2026-27 home-shirt product photos (usleccestore.it, 'Maglia Home U.S. Lecce 2026/27') show the dr logo on the lower back."
+        }
+      },
+      {
+        "sponsorId": "banca-popolare-pugliese",
+        "placement": "sleeve",
+        "source": {
+          "name": "Banca Popolare Pugliese, 'Banca Popolare Pugliese finanzia la passione giallorossa' (Campagna Abbonamenti U.S. Lecce 2026/2027)",
+          "date": "2026-08-03",
+          "url": "https://www.bpp.it/news-notizie-utili/bacheca-avvisi-bpp/2026/08/03/campagna-abbonamenti-us-lecce-2026-2027",
+          "quote": "presenza di Banca Popolare Pugliese come sleeve sponsor dell’U.S. Lecce",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "BPP's own site confirms it is sleeve sponsor for 2026/2027; the club's sponsor page (uslecce.it/sponsors, opened 2026-10-03) lists Banca Popolare Pugliese as 'Sleeve sponsor', and the official kit photos show the BPP logo on the sleeve."
+        }
+      },
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "US Lecce, 'U.S. Lecce e adidas presentano il nuovo Home Kit'",
+          "date": "2026-07-30",
+          "url": "https://uslecce.it/u-s-lecce-e-adidas-presentano-il-nuovo-home-kit",
+          "quote": "Sulle spalle spiccano le iconiche tre strisce di adidas, di colore rosso, mentre sul petto lo stemma del Club si affianca al logo del brand tedesco.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. adidas became technical sponsor from 2026-27, replacing the in-house brand M908."
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "DEGHI renewed as Main Sponsor for 2026-2031; BetItalyPay also on the front."
+    "summary": "Deghi on the front (main sponsor, renewed to 2031), BetItalyPay above it on the front (second sponsor, renewed for 2026-27), DR Automobiles on the back, Banca Popolare Pugliese on the sleeve; kit made by adidas (technical sponsor from 2026-27)."
   },
   {
     "id": "leeds-united-2026-27-home",
@@ -17687,9 +18618,15 @@
         "sponsorId": "robinhood",
         "placement": "patch",
         "source": {
-          "name": "Sports Business Journal",
+          "name": "Memphis Grizzlies announce partnership with Robinhood (NBA.com/Grizzlies)",
           "date": "2024-09-19",
-          "url": "https://www.sportsbusinessjournal.com/Articles/2024/09/19/memphis-grizzlies-jersey-patch-robinhood"
+          "url": "https://www.nba.com/grizzlies/news/memphis-grizzlies-announce-partnership-with-robinhood",
+          "quote": "announced a multi-year partnership with financial services company Robinhood Markets, Inc. as the official investing and jersey patch partner of the Grizzlies",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "The release continues: 'The Robinhood logo will be featured on the upper left chest of all Grizzlies uniforms beginning with the 2024-25 season.' The page renders its body with JavaScript; the quoted words sit in the page's embedded article data and description meta tag."
         }
       }
     ],
@@ -17929,7 +18866,13 @@
         "source": {
           "name": "Miami HEAT (nba.com/heat)",
           "date": "2024-09-24",
-          "url": "https://www.nba.com/heat/news/heat-and-robinhood-announce-jersey-patch-partnership"
+          "url": "https://www.nba.com/heat/news/heat-and-robinhood-announce-jersey-patch-partnership",
+          "quote": "Robinhood will showcase its logo on the franchise’s jerseys beginning with the 2024-25 NBA season and the Robinhood patch will be featured on all Sioux Falls Skyforce jerseys",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "nba.com serves a client-rendered page and blocked scripted access (Akamai 403); the text was read from the Wayback Machine capture of 2026-09-28 of this URL."
         }
       }
     ],
@@ -18012,7 +18955,12 @@
         "source": {
           "name": "Milwaukee Bucks / NBA.com",
           "date": "2026-09-21",
-          "url": "https://www.nba.com/bucks/news/milwaukee-bucks-name-wisconsin-based-uline-as-official-jersey-patch-partner"
+          "url": "https://www.nba.com/bucks/news/milwaukee-bucks-name-wisconsin-based-uline-as-official-jersey-patch-partner",
+          "quote": "The Milwaukee Bucks and ULINE have formed a multi-year partnership that will place the ULINE logo on the front left shoulder of Bucks jerseys beginning in the 2026-27 NBA season.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
@@ -18094,15 +19042,51 @@
         "sponsorId": "target",
         "placement": "front",
         "source": {
-          "name": "FOR SOCCER",
+          "name": "Minnesota United: 'Minnesota United Presents 2026 \"Decade Kit\"'",
+          "date": "2026-02-10",
+          "url": "https://www.mnufc.com/news/minnesota-united-presents-2026-decade-kit",
+          "quote": "Target returns as the primary kit partner and will continue to be featured on the front of the jersey as they have been since the club’s inaugural MLS season",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "The page's publication date (2026-02-10) is from its datePublished metadata; the page body shows no date line. FOR SOCCER's 2026 MLS jersey-sponsor survey (Feb 17, 2026) lists Target as Minnesota United's front-of-jersey partner, agreeing."
+        }
+      },
+      {
+        "sponsorId": "nutrisource",
+        "placement": "sleeve",
+        "source": {
+          "name": "Minnesota United: 'Minnesota United Presents 2026 \"Decade Kit\"'",
+          "date": "2026-02-10",
+          "url": "https://www.mnufc.com/news/minnesota-united-presents-2026-decade-kit",
+          "quote": "For a second consecutive season, Minnesota United’s jerseys will feature NutriSource Pet Foods and Finley’s Pet Treats as the club’s exclusive sleeve sponsors.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "One joint patch on the right sleeve carries both brands; FOR SOCCER's 2026 survey lists the right sleeve as 'NutriSource / Finley's', agreeing."
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "FOR SOCCER: '2026 MLS Jersey Sponsors'",
           "date": "2026-02-17",
-          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+          "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "League-wide Apple TV patch on the left sleeve; the survey's per-club table lists 'Apple TV' on Minnesota United's left sleeve. The league deal is recorded in data/deals/mls-apple-tv.json (clubId null)."
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "The 'Decade Kit', Minnesota United's 2026 primary jersey marking ten MLS seasons: Target on the front as it has been since the club's 2017 MLS debut, NutriSource Pet Foods and Finley's Pet Treats together on the right sleeve for a second season, and the league-wide Apple TV patch on the left sleeve of every MLS kit. No back-of-jersey or shorts sponsor exists: the club's kit launch names no others, and MLS only opens back-of-jersey ad space after the 2026 All-Star Break (SportsLogos.Net, Mar 2, 2026)."
   },
   {
     "id": "minnesota-vikings-2026-27-home",
@@ -18190,16 +19174,54 @@
         "sponsorId": "dazn-bet-club",
         "placement": "front",
         "source": {
-          "name": "AC Monza",
-          "date": "2026-07-01",
-          "url": null,
-          "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.acmonza.com/en/news/DAZN-Bet-Club-Official-Sponsor-Jersey"
+          "name": "AC Monza - DAZN BET CLUB È IL NUOVO OFFICIAL SPONSOR (Internet Archive capture of the club announcement)",
+          "date": "2026-08-13",
+          "url": "https://web.archive.org/web/20260814050012/https://www.acmonza.com/it/news/DAZN-BET-Club-official-sponsor/",
+          "short": "AC Monza",
+          "quote": "essere Official Sponsor con la presenza sul petto della maglia del club significa condividere questi valori",
+          "note": "Words of Donato Nigro, General Manager of DAZN Bet Club, in the club's announcement of 13-08-2026: 'Official Sponsor with the presence on the chest of the club's shirt'. The same announcement opens: 'AC Monza e DAZN Bet Club annunciano una nuova partnership che vedrà il brand diventare Official Sponsor sulla maglia del Club'. The live club URL (https://www.acmonza.com/it/news/DAZN-BET-Club-official-sponsor) returned 404 on 2026-10-03, so the Internet Archive capture is cited. The club shop's product photo of the home shirt shows the DAZN Bet Club logo on the chest (https://shop.acmonza.com/maglia-uomo-nike-ac-monza-home-20262027).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "AC Monza - I nostri sponsors / Partners page (Internet Archive capture)",
+          "date": "2026-09-21",
+          "url": "https://web.archive.org/web/20260921113034/https://www.acmonza.com/it/partners/",
+          "short": "AC Monza",
+          "quote": "TECHNICAL SPONSOR",
+          "note": "Kit supplier, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. On the club's partners page the logo under the 'TECHNICAL SPONSOR' heading links to nike.com/it/calcio; Calcio e Finanza (2026-08-13, https://www.calcioefinanza.it/2026/08/13/sponsor-maglia-monza-dazn-bet-club) reports Nike replacing Lotto from this season.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-scout (GLM 5.3 Flash, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "zeroplayer",
+        "placement": "sleeve",
+        "source": {
+          "name": "AC Monza - I nostri sponsors / Partners page (Internet Archive capture)",
+          "date": "2026-09-21",
+          "url": "https://web.archive.org/web/20260921113034/https://www.acmonza.com/it/partners/",
+          "short": "AC Monza",
+          "quote": "SLEEVE SPONSOR",
+          "note": "The club's partners page lists one logo under the 'SLEEVE SPONSOR' heading, linking to zeroplayer.it (AC Monza shop page). The club shop's product photo of the 2026/27 home shirt shows the 'ZeroPlayer by 3R Sport' wordmark on the sleeve (https://shop.acmonza.com/maglia-uomo-nike-ac-monza-home-20262027).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": null
+    "summary": "Nike home shirt in the first season back in Serie A: DAZN Bet Club on the front, ZeroPlayer by 3R Sport on the sleeve. The club's partners page lists no other shirt placement, and the club shop's product photos of the shirt and shorts show no back or shorts sponsor. Nike replaced Lotto as technical sponsor."
   },
   {
     "id": "moreirense-2026-27-home",
@@ -18516,15 +19538,50 @@
         "sponsorId": "renasant-bank",
         "placement": "front",
         "source": {
-          "name": "FOR SOCCER",
-          "date": "2026-02-17",
-          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          "name": "Nashville SC: 'Nashville Soccer Club Introduces ‘Reverb’ Primary Jersey for 2026 and 2027 Seasons'",
+          "date": "2026-02-10",
+          "url": "https://www.nashvillesc.com/news/nashville-sc-introduces-reverb-primary-jersey",
+          "quote": "Renasant, remains the club’s official jersey sponsor with its wordmark proudly displayed across the chest",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "The club's kit-launch release for the 'Reverb' primary jersey, worn from the 2026 season opener on 21 February 2026."
+        }
+      },
+      {
+        "sponsorId": "hyundai",
+        "placement": "sleeve",
+        "source": {
+          "name": "Nashville SC: 'Nashville Soccer Club Introduces ‘Reverb’ Primary Jersey for 2026 and 2027 Seasons'",
+          "date": "2026-02-10",
+          "url": "https://www.nashvillesc.com/news/nashville-sc-introduces-reverb-primary-jersey",
+          "quote": "the Hyundai Motor Company returns as the team’s primary sleeve partner",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "SportsLogos.Net: 'MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break'",
+          "date": "2026-03-02",
+          "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
+          "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "The live page returns 403 to automated requests from datacenter IPs; quote verified against the Wayback Machine capture of 2026-08-15 (https://web.archive.org/web/20260815091059/https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/), and re-verified on 2026-10-03 during review."
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "The 'Reverb' kit, the club's gold primary jersey for 2026 and 2027, with a center crest for the first time in club history. Renasant stays on the front; Hyundai returns as the primary sleeve partner; the league-wide Apple TV+ patch is on the left sleeve of every MLS kit."
   },
   {
     "id": "neftchi-2026-home",
@@ -18817,7 +19874,12 @@
         "source": {
           "name": "Zoomph - NFL Practice Jersey Sponsor Guide (updated 2026-09-01)",
           "date": "2026-09-01",
-          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+          "quote": "Quest Diagnostics continues its partnership with the Giants, emphasizing data-driven health and wellness across the organization.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
@@ -18987,8 +20049,13 @@
         "placement": "patch",
         "source": {
           "name": "NJ.com",
-          "date": "2026-04-02",
-          "url": "https://nj.com/yankees/2026/04/yankees-say-alterative-uniforms-wont-kill-tradition-weve-got-a-patch-on-our-sleeves.html"
+          "date": "2026-04-22",
+          "url": "https://nj.com/yankees/2026/04/yankees-say-alterative-uniforms-wont-kill-tradition-weve-got-a-patch-on-our-sleeves.html",
+          "quote": "Since July 21, 2023, Yankees’ home and away game jerseys have included a Starr Insurance logo patch on the left sleeve.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
@@ -19604,12 +20671,32 @@
           "name": "Sport24, 'Superbet kai Olympiakos mazi mechri to 2032' (Superbet and Olympiacos together until 2032)",
           "date": "2026-07-03",
           "url": "https://www.sport24.gr/basket/superbet-kai-olimpiakos-mazi-mexri-to-2032/",
-          "note": "Superbet is the 'Great Sponsor' until 2032; deal reportedly worth EUR 55m including bonuses"
+          "quote": "η οποία θα αποτελέσει τον Μεγάλο Χορηγό της ομάδας έως το 2032",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Sport24 publishes the club's announcement: Superbet will be the 'Great Sponsor' (Μεγάλο Χορηγό) until 2032; deal reportedly worth EUR 55m including bonuses. News24/7 (8 July 2026, https://www.news247.gr/athlitika/olimpiakos-i-nea-fanela-ton-erithrolefkon-me-xorigo-ti-superbet) says the new 2026-27 kit carries the Superbet logo on the front of the jersey; the club store's photos of the 26/27 home jersey (https://www.olympiacosbc.shop/el/product/olympiakos-andriki-nike-entos-edras-emfanisi-2627) show SUPERBET across the chest."
+        }
+      },
+      {
+        "sponsorId": "arrena",
+        "placement": "patch",
+        "source": {
+          "name": "Gazzetta: Το ιδιαίτερο σημείο που μπήκε η χορηγία του ΑρρένΑ στην φανέλα του Ολυμπιακού (The particular spot where ArrenA's sponsorship goes on Olympiacos' jersey)",
+          "date": "2025-07-09",
+          "url": "https://www.gazzetta.gr/basketball/basket-league/2457731/idiaitero-simeio-poy-mpike-i-horigia-toy-arrena-stin-fanela-toy",
+          "quote": "το λογότυπο της εταιρίας σας, της ΑρρένΑ θα βρίσκεται στην φανέλα της αγαπημένης σας ομάδας, κάτω από τον δαφνοστεφανομένο έφηβο",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Translation: 'your company's logo, ArrenA, will be on your favourite team's jersey, under the laurelled youth (the club crest).' Three-year deal presented 9 July 2025, so covering 2026-27. The club store's home-jersey photos (olympiacosbc.shop, August 2026) show the small 'ArrènA Natural Mineral Water' logo on the upper right chest, next to the crest."
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "Superbet front-of-shirt from 2026, deal to 2032.",
+    "sponsorsComplete": true,
+    "summary": "Superbet across the front (first season, deal to 2032) and Tsakos-family water brand Arrena as a small chest logo. Marked complete: the official club store's photos of the 26/27 home jersey, front, back and shorts (https://www.olympiacosbc.shop/el/product/olympiakos-andriki-nike-entos-edras-emfanisi-2627), show no other sponsor - the back prints 'PIRAEUS' (a design element, the club's city) and the shorts carry only the club crest.",
     "change": null
   },
   {
@@ -19798,15 +20885,35 @@
         "sponsorId": "orlando-health",
         "placement": "front",
         "source": {
-          "name": "orlandocitysc.com",
+          "name": "Orlando City SC – 'Orlando City SC unveils 2026 Sunken Treasure kit presented by Orlando Health'",
+          "date": "2026-02-10",
+          "url": "https://www.orlandocitysc.com/news/orlando-city-sc-unveils-2026-sunken-treasure-kit-presented-by-orlando-health",
+          "quote": "Orlando City SC today unveiled the Sunken Treasure Kit, presented by Orlando Health, the Club’s new community kit through the 2027-28 Major League Soccer season.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "FOR SOCCER – '2026 MLS Jersey Sponsors'",
           "date": "2026-02-17",
-          "url": "https://www.orlandocitysc.com/news/orlando-city-sc-unveils-2026-sunken-treasure-kit-presented-by-orlando-health"
+          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+          "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "The same page's sleeve table lists Orlando City SC with Apple TV on the left sleeve and no right-sleeve partner; its front-of-jersey table lists Orlando Health for Orlando City SC. The page's roundup covers only the jersey front and sleeves, not MLS's new back-of-kit placement."
         }
       }
     ],
     "sponsorsComplete": false,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "Gold adidas Sunken Treasure kit, presented by Orlando Health on the front through the 2027-28 season. Apple TV sits on the left sleeve of every MLS kit and Orlando City has no right-sleeve partner for 2026, but the cited sources don't cover MLS's new back-of-kit placement (in use since August 2026), so the sponsor list is left incomplete."
   },
   {
     "id": "orlando-magic-2026-27-home",
@@ -20110,9 +21217,40 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
+    "sponsors": [
+      {
+        "sponsorId": "adidas",
+        "placement": "partner",
+        "source": {
+          "name": "Paris Basketball: Paris Basketball unveils its 2026–2027 home and away kits",
+          "date": "2026-09-12",
+          "url": "https://parisbasketball.com/en/2026/09/paris-basketball-unveils-its-2026-2027-home-and-away-kits/",
+          "note": "Kit maker; the 2026-27 home and away kits are designed in collaboration with adidas. No front-of-shirt sponsor for 2026-27 was announced at the last check (2026-10-01): the launch article names no shirt sponsor, and the 24 September Winamax announcement gives Winamax the back of the EuroLeague shirt only.",
+          "quote": "With the start of the 2026–2027 season fast approaching, Paris Basketball unveils its home and away kits, designed in collaboration with adidas.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "winamax",
+        "placement": "back",
+        "source": {
+          "name": "Paris Basketball: Winamax becomes an official partner of Paris Basketball",
+          "date": "2026-09-24",
+          "url": "https://parisbasketball.com/en/2026/09/winamax-becomes-an-official-partner-of-paris-basketball/",
+          "note": "Three-season deal from 2026-27; on the back of the shirt in EuroLeague matches only (home and away), with on-court branding in the domestic Betclic Élite.",
+          "quote": "From this season onwards, Winamax will feature on the back of the Parisian team’s shirts during EuroLeague matches, both home and away.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
     "sponsorsComplete": false,
-    "summary": null,
+    "summary": "adidas-made home kit (launched 12 September 2026); Winamax on the back of the EuroLeague shirt. No front-of-shirt sponsor announced for 2026-27 as of 1 October 2026; sleeve and shorts placements not checked, so the sponsor list may be incomplete.",
     "change": null
   },
   {
@@ -20310,9 +21448,80 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
-    "sponsorsComplete": false,
-    "summary": null,
+    "sponsors": [
+      {
+        "sponsorId": "mozzart",
+        "placement": "front",
+        "source": {
+          "name": "RTS: Kompanija \"Mozzart\" novi generalni sponzor KK Partizan",
+          "date": "2022-10-01",
+          "url": "https://www.rts.rs/lat/sport/kosarka/4970238/kompanija-mozzart-novi-generalni-sponzor-kk-partizan.html",
+          "quote": "Kompanija \"Mozzart\" novi je generalni i naslovni sponzor Košarkaškog kluba Partizan, pa će klub iz Humske od danas zvanično nositi ime \"Partizan Mozzart Bet\".",
+          "note": "General and title sponsor since October 2022 (the club has played as Partizan Mozzart Bet since). The MOZZART wordmark sits mid-front on the 2026/27 home jersey, under the club name (official club store product photos, kkpartizanshop.com).",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "nis",
+        "placement": "front",
+        "source": {
+          "name": "NIS: Nastavak saradnje NIS-a i Košarkaškog kluba „Partizan“",
+          "date": "2022-10-26",
+          "url": "https://www.nis.rs/news/nastavak-saradnje-nis-a-i-kosarkaskog-kluba-partizan/",
+          "quote": "Kompanija NIS i Košarkaški klub „Partizan“ nastavili su danas višegodišnje partnerstvo potpisivanjem novog ugovora o sponzorstvu.",
+          "note": "Multi-year sponsorship contract, renewed in October 2022. The NIS logo sits on the front of the 2026/27 home jersey, under Mozzart (official club store product photos, kkpartizanshop.com).",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "aikbank",
+        "placement": "front",
+        "source": {
+          "name": "KK Partizan official store: Dres \"KK Partizan 2026/27\", beli (product photos)",
+          "date": "2026",
+          "url": "https://kkpartizanshop.com/products/dres-kk-partizan-2026-27-beli",
+          "note": "Image-only evidence: the club store's 2026/27 home-jersey product photos show the AikBank logo on the right chest, under the Nike swoosh (photos served with the page's product data; product published 21 September 2026). Opened and viewed by scout-review-987 on 2026-10-01 (no `checked` block because the page has no text to quote). No text announcement of the placement found."
+        }
+      },
+      {
+        "sponsorId": "changan",
+        "placement": "back",
+        "source": {
+          "name": "RTS: Црно-бело вече под Авалским торњем (Partizan kit launch, back sponsor Changan)",
+          "date": "2025-08-28",
+          "url": "https://www.rts.rs/sport/kosarka/evroliga/5778693/evroliga-aba-liga-kk-partizan-2025.html",
+          "quote": "Нови дресови долазе у две класичне варијанте - белој и црној, без превише детаља, а на полеђини се налази и нови спонзор - кинеска аутомобилска компанија Чанган.",
+          "note": "RTS at the 2025/26 kit launch: the new sponsor Changan is on the back ('na poleđini se nalazi i novi sponzor'). The 2026/27 jersey keeps the same layout — CHANGAN above the back number — visible in the club store's product photos (kkpartizanshop.com).",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "MaxBet Sport (max-sport.rs): Da li ste primetili? Novi dres Partizan krije poruku",
+          "date": "2026-09-10",
+          "url": "https://www.max-sport.rs/da-li-ste-primetili-novi-dres-partizana-krije-poruku-resena-je-misterija-sa-drustvenih-mreza-751020/",
+          "quote": "Partizan je predstavio i nove dresove u proizvodnji prestižne sportske opreme „Najk“.",
+          "note": "Nike manufactures the 2026/27 playing kit (swoosh on the right chest). RTS (28 August 2025, rts.rs/sport/kosarka/evroliga/5778693) reported a six-year Nike contract signed until 2031.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Partizan's 2026/27 home jersey (Nike) carries the club name in script across the chest, with the AikBank logo on the right chest and MOZZART above NIS mid-front; CHANGAN sits above the number on the back, above the BELGRADE lettering. The hem patch quotes the fan anthem 'Nek' ne igra ko se lomi' (kit design, not a sponsor). Every placement on the jersey is checked against the official club store's 2026/27 product photos (kkpartizanshop.com); no other sponsor appears on it.",
     "change": null
   },
   {
@@ -20407,9 +21616,14 @@
         "sponsorId": "jefferson-health",
         "placement": "training-kit",
         "source": {
-          "name": "Zoomph (2026 NFL practice jersey patch guide)",
-          "date": "2026-09-01",
-          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+          "name": "Philadelphia Eagles (philadelphiaeagles.com) – Eagles announce expanded healthcare partnerships with Jefferson Health and Select Medical's NovaCare Rehabilitation",
+          "date": "2026-02-17",
+          "url": "https://www.philadelphiaeagles.com/news/eagles-announce-expanded-healthcare-partnerships-jefferson-health-novacare-rehabilitation",
+          "quote": "will continue to serve as the patch sponsor of the team's practice jerseys",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
@@ -20460,15 +21674,51 @@
         "sponsorId": "bimbo",
         "placement": "front",
         "source": {
+          "name": "Philadelphia Union, 'Philadelphia Union Unveil New 2026 Primary “1776 Kit”'",
+          "date": "2026-02-10",
+          "url": "https://www.philadelphiaunion.com/news/philadelphia-union-unveil-new-2026-primary-1776-kit",
+          "quote": "Bimbo once again returns to the jersey as the front-of-kit sponsor.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Bimbo Bakeries USA brand Bimbo on the primary kit; Thomas' (same company) on the secondary kit. For Soccer's 2026 MLS jersey sponsor survey confirms the split: https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "independence-blue-cross",
+        "placement": "sleeve",
+        "source": {
+          "name": "Philadelphia Union, 'Philadelphia Union Unveil New 2026 Primary “1776 Kit”'",
+          "date": "2026-02-10",
+          "url": "https://www.philadelphiaunion.com/news/philadelphia-union-unveil-new-2026-primary-1776-kit",
+          "quote": "Independence Blue Cross’ (IBX) logo returns to the right sleeve of the Union’s primary, secondary, and specialty jersey’s worn during league competition",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Right sleeve; on the shirt since 2024 (club sleeve-patch announcement: https://www.philadelphiaunion.com/news/philadelphia-union-independence-blue-cross-renew-partnership-sleeve-patch). For Soccer's 2026 survey confirms IBX on the right sleeve: https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
           "name": "FOR SOCCER",
           "date": "2026-02-17",
-          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+          "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Left sleeve, league-wide MLS patch; the survey's Philadelphia Union row confirms Apple TV left, Independence Blue Cross right."
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit. Bimbo fronts the jersey, with Independence Blue Cross (IBX) on the right sleeve."
   },
   {
     "id": "phoenix-suns-2026-27-home",
@@ -20481,17 +21731,22 @@
     "photos": {},
     "sponsors": [
       {
-        "sponsorId": "paypal",
+        "sponsorId": "paze",
         "placement": "patch",
         "source": {
-          "name": "Zoomph (2026/27 NBA jersey patch guide)",
-          "date": "2026-09-01",
-          "url": "https://zoomph.com/blog/nba-jersey-patch-sponsors-this-season/"
+          "name": "PR Newswire / Early Warning Services, LLC: Phoenix Suns and Arizona-based Early Warning Services announce multi-year agreement to feature Paze on all Suns jerseys",
+          "date": "2026-09-28",
+          "url": "https://www.prnewswire.com/news-releases/phoenix-suns-and-arizona-based-early-warning-services-announce-multi-year-agreement-to-feature-paze-on-all-suns-jerseys-succeeding-paypal-as-the-teams-official-jersey-partner-302890739.html",
+          "quote": "Paze will succeed PayPal as the team's Official Jersey Patch Partner. Beginning with the 2026-27 NBA season, the multi-year partnership will bring the Paze logo to the upper left side of all Suns uniforms.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": true,
-    "summary": "Jersey patch: PayPal.",
+    "summary": "Jersey patch: Paze (Early Warning Services), succeeding PayPal from 2026-27.",
     "change": null
   },
   {
@@ -20508,14 +21763,20 @@
         "sponsorId": "sheetz",
         "placement": "patch",
         "source": {
-          "name": "Pittsburgh Pirates / MLB.com press release",
-          "date": "2024-06-21",
-          "url": "https://www.mlb.com/press-release/press-release-pittsburgh-pirates-and-sheetz-announce-jersey-patch-partnership"
+          "name": "Pittsburgh Pirates: Jersey Patch (read via the Wayback Machine)",
+          "date": "2026-04-12",
+          "url": "http://web.archive.org/web/20260412120246/https://www.mlb.com/pirates/fans/jersey-patch",
+          "note": "Club jersey-patch page, read via the Wayback Machine capture of 2026-04-12 because the live mlb.com page blocks scripts. Undated page; the capture date is given. The page still names Sheetz as the club's jersey patch partner on the sleeves of the home and away jerseys; the club calls Sheetz its first jersey patch partner.",
+          "quote": "the Pennsylvania-based retailer will have its logo featured on the sleeves of Pittsburgh Pirates home and away jerseys",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": true,
-    "summary": "Jersey patch: Sheetz.",
+    "summary": "Jersey patch: Sheetz (sleeves).",
     "change": null
   },
   {
@@ -20528,8 +21789,8 @@
     "periodTo": "2026-27",
     "photos": {},
     "sponsors": [],
-    "sponsorsComplete": false,
-    "summary": "No patch partner for 2026-27.",
+    "sponsorsComplete": true,
+    "summary": "No patch partner for 2026-27: the NFL's practice-jersey patch is the only sponsor placement on NFL shirts, and Zoomph's guide to every NFL team's 2026 season patch sponsor lists the Steelers with 'No Partner This Season'.",
     "change": null
   },
   {
@@ -21883,18 +23144,39 @@
     "photos": {},
     "sponsors": [
       {
-        "sponsorId": "select-health",
+        "sponsorId": "intermountain-health",
         "placement": "front",
         "source": {
-          "name": "rsl.com",
-          "date": "2026-02-14",
-          "url": "https://www.rsl.com/news/real-salt-lake-unveils-2026-27-primary-jersey"
+          "name": "For Soccer – '2026 MLS Jersey Sponsors'",
+          "date": "2026-02-17",
+          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors",
+          "quote": "Real Salt Lake Intermountain Health",
+          "note": "Quote is the team | jersey-partner row for Real Salt Lake in For Soccer's audit of the front and both sleeves of all 30 MLS clubs for the 2026 season (table row, cell separators omitted). KSL Sports says the same in prose: the front-of-kit sponsor on the home jersey 'remains Intermountain Health, which donned the RSL home kit for the first time in 2025' (sports.ksl.com/mls/real-salt-lake/rsl-switchback-kit-2026/571799, 2026-02-11) — that site blocks scripts (403), so the checkable source is cited here.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "For Soccer – '2026 MLS Jersey Sponsors'",
+          "date": "2026-02-17",
+          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors",
+          "quote": "Real Salt Lake Apple TV",
+          "note": "Row for Real Salt Lake in For Soccer's audit of all 30 MLS clubs' sleeves for the 2026 season (table: Team | Left Sleeve | Category | Right Sleeve | Category; cell separators omitted; Apple TV is the left sleeve, and RSL's right-sleeve cell is empty). League-wide patch under the Apple–MLS deal.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "Adidas 'Switchback' home kit. Intermountain Health fronts the shirt (Select Health had the front in 2024); Apple TV's league-wide patch is on the left sleeve. No right-sleeve sponsor (For Soccer's Feb 2026 audit of all 30 MLS clubs lists none for RSL) and no back-of-jersey sponsor found."
   },
   {
     "id": "real-sociedad-2026-27-home",
@@ -23423,15 +24705,51 @@
         "sponsorId": "directv",
         "placement": "front",
         "source": {
-          "name": "sandiegofc.com",
-          "date": "2026-02-17",
-          "url": "https://www.sandiegofc.com/news/san-diego-fc-announces-directv-as-the-club-s-official-jersey-partner"
+          "name": "San Diego FC – 'San Diego FC Unveils the 2026 Unprecedented Unity Kit'",
+          "date": "2026-02-10",
+          "url": "https://www.sandiegofc.com/news/san-diego-fc-unveils-the-2026-unprecedented-unity-kit",
+          "quote": "DIRECTV, SDFC’s Official Jersey Partner, will be prominently featured on the front of the Unprecedented Unity Kit.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Multi-year front-of-kit deal announced July 2024 (deal: san-diego-fc-directv); the club's 2026 kit launch confirms it continues through the 2026 MLS season."
+        }
+      },
+      {
+        "sponsorId": "adrianas-insurance",
+        "placement": "sleeve",
+        "source": {
+          "name": "San Diego FC – 'Adriana’s Insurance Joins San Diego FC as Official Jersey Sleeve Partner and Founding Partner'",
+          "date": "2025-11-09",
+          "url": "https://www.sandiegofc.com/news/adriana-s-insurance-joins-san-diego-fc-as-official-jersey-sleeve-partner-and-founding-partner",
+          "quote": "the Adriana’s Insurance logo will be featured on the right sleeve of all SDFC’s MLS primary and secondary jerseys worn during all club competitions",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Multi-year right-sleeve deal (deal: san-diego-fc-adrianas-insurance-sleeve); the club's 2026 kit launch (2026-02-10) repeats the placement for the 2026 kit."
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "SportsLogos.Net – 'MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break'",
+          "date": "2026-03-02",
+          "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
+          "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "League-wide sleeve patch (league deal: mls-apple-tv); Apple pays MLS, not the club. SportsLogos 403s script fetches from datacenter IPs; the page was opened and the quote verified on 2026-10-03. Same placement documented by For Soccer's 2026 MLS jersey sponsors list (2026-02-17)."
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "2026 'Unprecedented Unity' home kit, made by Adidas. DIRECTV fronts the jersey; Adriana's Insurance has the right sleeve; the league-wide Apple TV patch is on the left sleeve of every MLS kit. MLS opened a lower-back ad slot after the 2026 All-Star break; San Diego FC has announced no back sponsor."
   },
   {
     "id": "san-diego-padres-2026-27-home",
@@ -23501,9 +24819,15 @@
         "sponsorId": "airwallex",
         "placement": "patch",
         "source": {
-          "name": "MLB.com press release (San Francisco Giants)",
+          "name": "Airwallex Newsroom: Airwallex Becomes the Giants' Official Jersey Patch Partner",
           "date": "2026-02-18",
-          "url": "https://www.mlb.com/press-release/press-release-airwallex-becomes-the-giants-official-jersey-patch-partner"
+          "url": "https://www.airwallex.com/global/newsroom/airwallex-becomes-the-giants-official-jersey-patch",
+          "quote": "Airwallex will become the Giants' official jersey patch partner, debuting across Giants uniforms this season.",
+          "note": "The club's own release is on mlb.com, which returns 403 to scripts and has no Wayback capture; the sponsor's own newsroom announcement was read instead. The patch is the only sponsor mark on an MLB uniform.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
@@ -23582,15 +24906,36 @@
         "sponsorId": "mapei",
         "placement": "front",
         "source": {
-          "name": "Calcio e Finanza",
-          "date": "2026-07-07",
-          "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/"
+          "name": "U.S. Sassuolo Calcio: Puma e US Sassuolo Calcio presentano il nuovo Home Kit 26/27",
+          "date": "2026-07-17",
+          "url": "https://www.sassuolocalcio.it/club/puma-e-us-sassuolo-calcio-presentano-il-nuovo-home-kit-26-27",
+          "quote": "Il look è completato dal logo del Sassuolo nella sua versione full color con bordo grigio e dai loghi PUMA e MAPEI in Puma White a contrasto.",
+          "note": "Translation: 'The look is completed by the Sassuolo crest in its full-colour version with a grey border and by the PUMA and MAPEI logos in contrasting Puma White.' The launch text lists only the crest and the PUMA and MAPEI logos as completing the shirt's look; Calcio e Finanza (see deal sassuolo-mapei-front) reports Mapei as the main shirt sponsor.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "puma",
+        "placement": "partner",
+        "source": {
+          "name": "U.S. Sassuolo Calcio: Puma e US Sassuolo Calcio presentano il nuovo Home Kit 26/27",
+          "date": "2026-07-17",
+          "url": "https://www.sassuolocalcio.it/club/puma-e-us-sassuolo-calcio-presentano-il-nuovo-home-kit-26-27",
+          "quote": "PUMA e U.S. Sassuolo Calcio presentano oggi il nuovo Home Kit che accompagnerà le squadre maschili, femminili e giovanili nella stagione sportiva 2026/2027.",
+          "note": "Translation: 'PUMA and U.S. Sassuolo Calcio today unveil the new Home Kit that the men's, women's and youth teams will wear in the 2026/2027 season.' The page describes the kit's PUMA dryCELL technology and RE:FIBRE construction, i.e. PUMA is the kit manufacturer.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": null
+    "summary": "Mapei on the front; Puma is the kit manufacturer. The club's launch text lists only the crest and the PUMA and MAPEI logos on the shirt."
   },
   {
     "id": "sc-freiburg-2026-27-home",
@@ -23785,14 +25130,20 @@
         "sponsorId": "nintendo",
         "placement": "patch",
         "source": {
-          "name": "Seattle Mariners (MLB.com)",
-          "date": "2026-03-27",
-          "url": "https://mariners.com/Nintendo"
+          "name": "MLB.com press release (archived): Seattle Mariners expand relationship with Nintendo with team's first-ever jersey sleeve partnership",
+          "date": "2025-03-20",
+          "url": "http://web.archive.org/web/20260312015727/https://www.mlb.com/press-release/press-release-seattle-mariners-expand-relationship-with-nintendo-with-team-s-first-ever-jersey-sleeve-partnership",
+          "quote": "Nintendo of America Inc. has expanded upon their long-standing relationship with the club, becoming the team's first-ever official jersey sleeve partner.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "The club's own fan page (archived 2026-04-10, https://web.archive.org/web/20260410154045/https://www.mlb.com/mariners/fans/nintendo) says the racetrack logo is on home jerseys and the Switch 2 logo on away jerseys. Blinkfire's 2026 MLB jersey patch list (2026-04-20) names 'Seattle Mariners – Nintendo'; no other patch sponsor is listed for the club."
         }
       }
     ],
     "sponsorsComplete": true,
-    "summary": "Jersey patch: Nintendo (Nintendo of America).",
+    "summary": "Jersey sleeve patch: Nintendo (Nintendo of America). The home jersey carries the Nintendo racetrack logo, the road jersey the Nintendo Switch 2 logo.",
     "change": null
   },
   {
@@ -23809,9 +25160,14 @@
         "sponsorId": "aws",
         "placement": "training-kit",
         "source": {
-          "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
-          "date": "2026-09-01",
-          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+          "name": "Zoomph: The Ultimate Guide To NFL Practice Jersey Sponsors",
+          "date": "2025-11-03",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+          "quote": "Seattle Seahawks: AWS",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
@@ -24652,9 +26008,15 @@
         "sponsorId": "stifel",
         "placement": "patch",
         "source": {
-          "name": "MLB.com press release",
+          "name": "MLB.com press release – Cardinals announce Stifel as club's first jersey patch sponsor",
           "date": "2023-05-02",
-          "url": "https://mlb.com/press-release/press-release-cardinals-announce-stifel-as-club-s-first-jersey-patch-sponsor"
+          "url": "https://mlb.com/press-release/press-release-cardinals-announce-stifel-as-club-s-first-jersey-patch-sponsor",
+          "note": "The club's own announcement of a seven-year agreement starting with the 2023 season, so it covers this season. The patch is worn on the jersey sleeve. The live page blocks scripted access (403); the quote was verified on the Wayback Machine capture of 7 March 2026.",
+          "quote": "As part of the new seven-year agreement starting this season, Stifel's logo will appear on the jersey sleeve of each of the Cardinals' four different on-field game uniforms.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
@@ -24972,13 +26334,36 @@
         "source": {
           "name": "Sunderland AFC – 'Sunderland AFC and Shuffle join forces in new global sleeve partnership'",
           "date": "2026-09-11",
-          "url": "https://www.safc.com/news/2026/september/11/sunderland-afc-and-shuffle-join-forces-in-new-global-sleeve-partnership/"
+          "url": "https://www.safc.com/news/2026/september/11/sunderland-afc-and-shuffle-join-forces-in-new-global-sleeve-partnership/",
+          "quote": "Sunderland AFC is delighted to announce Shuffle as the Club’s new Official Sleeve Partner in a multi-year partnership.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "hummel",
+        "placement": "partner",
+        "source": {
+          "name": "Sunderland AFC – 'Sunderland 2026-27 home shirt on sale now!'",
+          "date": "2026-07-28",
+          "url": "https://www.safc.com/news/2026/july/28/sunderland-afc-launches-triumph-of--37-home-kit-/",
+          "quote": "with red hummel chevrons proudly sitting on the shoulders",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "No front-of-shirt sponsor at the start of the season (SportsPro).",
-    "change": null
+    "sponsorsComplete": true,
+    "summary": "Sunderland start 2026-27 with a blank front: the Premier League's new ban on front-of-shirt gambling sponsors ended W88's deal, and a proposed Visit Ghana deal collapsed in September 2026. Shuffle is the sleeve sponsor and hummel makes the kit. Every placement checked: nothing on the front, Shuffle on the sleeve.",
+    "change": {
+      "kind": "worse",
+      "text": "Worse than last season: W88 left the front and no replacement was signed before the season began",
+      "badge": "W88 gone"
+    }
   },
   {
     "id": "superfile-trackhouse-motogp-team-2026-home",
@@ -25934,6 +27319,38 @@
     "change": null
   },
   {
+    "id": "tunisia-2026-home",
+    "clubId": "tunisia",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "kappa",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: Tunisia 2026 World Cup Home, Away & Third Kits Released",
+          "date": "2026-05-28",
+          "url": "https://www.footyheadlines.com/2026/05/tunisia-2026-kits.html",
+          "note": "Kit maker. The launch write-up and its product photos (front and back) show only the Kappa Omini and the Tunisia crest on the white home shirt, with no commercial logo on the front, sleeves or back (a small Tunisian-flag tab sits at the nape); the shorts carry only the federation crest and a Kappa Omini, with no commercial logo (product photos on Kappa's official page, kappa.com/en-us/pages/kappa-x-tunisia-official-kit, which names Kappa the official technical sponsor of the Tunisia men's national football team). No other sponsor could be found on any placement.",
+          "quote": "The central Kappa Omini logo and the traditional Tunisia national team crest are rendered in bold red.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-scout"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Kappa home kit for the 2026 World Cup. No commercial shirt sponsor: the Kappa Omini and the Tunisia crest are the shirt's only marks, on front, sleeves and back; the shorts carry only the federation crest and a Kappa Omini.",
+    "change": null,
+    "headline": "The shirt is {level}: it carries no commercial sponsors. Kappa makes the kit.",
+    "shortLine": "No shirt sponsors. Kappa made."
+  },
+  {
     "id": "uae-team-emirates-xrg-2026-home",
     "clubId": "uae-team-emirates-xrg",
     "season": "2026",
@@ -26255,6 +27672,52 @@
     "sponsorsComplete": true,
     "summary": "Raisin (Hauptsponsor) on the front and Kermi (Ärmelsponsor) on the right sleeve, with adidas as kit maker: the sponsor logos the club names in its 2026/27 home-kit announcement.",
     "change": null
+  },
+  {
+    "id": "united-states-2026-home",
+    "clubId": "united-states",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 World Cup",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "U.S. Soccer: U.S. Soccer And Nike Unveil New National Team Kits Ahead Of 2026 FIFA Men’s World Cup In The U.S.",
+          "date": "2026-03-16",
+          "url": "https://ussoccer.com/stories/2026/03/nike-unveils-new-national-team-stars-stripes-jerseys-kits-fifa-world-cup",
+          "note": "Kit maker, recorded as partner per the convention for kit suppliers. The federation launch covers all 27 national teams; Football Shirt Culture's launch write-up (2026-03-16, footballshirtculture.com/new-kits/united-states-2026-home-jersey.html) describes every mark on the shirt — white base, red wavy stripes across front and sleeves, plain white back, navy collar and cuffs, 'the navy Nike Swoosh and the USA shield crest' on the chest, navy shorts with a white Nike logo, white socks with a black Swoosh — so no commercial sponsor sits on the match shirt.",
+          "quote": "U.S. Soccer and Nike today unveiled the new 2026 U.S. Soccer National Team kits, which will be worn across all 27 U.S. Soccer National Teams.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "volkswagen",
+        "placement": "training-kit",
+        "source": {
+          "name": "Volkswagen DriverGear: Official 2026 U.S. Soccer Pre-Match Top - Men",
+          "date": "2026",
+          "url": "https://drivergear.vw.com/vw-retail/Official_2026_US_Soccer_PreMatch_Top_Men/p-DRG3652",
+          "note": "Volkswagen is U.S. Soccer's presenting partner since 2019 (vw.com/en/about-vw/mission-and-values/ussf-partnership.html). VW's own retail page for the 'authentic pre-match top' says it bears the logo of the 'U.S. Soccer's Presenting Partner; Volkswagen!', so the VW mark sits on the pre-match/training top, not on the match shirt (training-kit placement).",
+          "quote": "the authentic pre-match top bearing the logo of the U.S. Soccer's Presenting Partner; Volkswagen!",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "No commercial sponsor on the match shirt: Nike's white 2026 World Cup home shirt (red wavy stripes, plain white back, navy collar and cuffs) carries only the navy Nike Swoosh and the USA crest, with navy Nike-logo shorts and white Nike-swoosh socks. Volkswagen, U.S. Soccer's presenting partner, is on the team's 2026 pre-match/training top.",
+    "change": null,
+    "shortLine": "Nike only on the match shirt; VW on the training top"
   },
   {
     "id": "uno-x-mobility-2026-home",
@@ -27816,9 +29279,122 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
+    "sponsors": [
+      {
+        "sponsorId": "go3",
+        "placement": "front",
+        "side": "front",
+        "source": {
+          "name": "Žalgiris (club site): „Go3“ ir Kauno „Žalgiris“ pratęsė partnerystę – sirgaliams žadama netikėtų naujų patirčių",
+          "date": "2026-09-16",
+          "url": "https://zalgiris.lt/naujienos/go3-ir-kauno-zalgiris-pratese-partneryste-sirgaliams-zadama-netiketu-nauju-patirciu",
+          "quote": "Vaizdo turinio platforma „Go3“ ir Kauno „Žalgiris“ pratęsė strateginę partnerystę 2026–2027 m. sezonui",
+          "note": "Lithuanian. Translation: 'Video content platform Go3 and Kauno Žalgiris extended their strategic partnership for the 2026-2027 season'. Placement photo-verified: Go3 logo under the front number in EuroLeague (vs Olympiacos, 2026-09-29, Z. Ovčarenko/BNS photos) and LKL (vs Šiauliai, 2026-09-27, zalgiris.lt gallery) game photos.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "payabl",
+        "placement": "front",
+        "side": "front",
+        "source": {
+          "name": "Žalgiris (club site): „payabl.“ pradeda naują partnerystę su „Žalgiriu“",
+          "date": "2025-09-26",
+          "url": "https://zalgiris.lt/naujienos/payabl-pradeda-nauja-partneryste-su-zalgiriu",
+          "quote": "prekės ženklas arenoje ir ant komandos marškinėlių bus matomas visą 2025–2026 m. sezoną",
+          "note": "Lithuanian. Translation: 'the brand will be visible in the arena and on team jerseys for the whole 2025-2026 season'. Still worn in 2026-27: the payabl. logo sits under the club crest on the front of EuroLeague jerseys in the 2026-09-29 home game photos (Z. Ovčarenko/BNS via kauno.diena.lt).",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "topsport",
+        "placement": "front",
+        "side": "front",
+        "source": {
+          "name": "Žalgiris (club site): TOPsport ir Kauno „Žalgiris“ toliau tęsia partnerystę",
+          "date": "2025-09-28",
+          "url": "https://zalgiris.lt/naujienos/topsport-ir-kauno-zalgiris-toliau-tesia-partneryste",
+          "quote": "Artėjantį Eurolygos sezoną Kauno „Žalgiris“ pasitinka pratęsdamas bendradarbiavimą su ilgamečiu partneriu TOPsport",
+          "note": "Lithuanian. Translation: 'Kauno Žalgiris meets the coming EuroLeague season having extended its cooperation with long-time partner TOPsport'. Placement photo-verified: TOPsport logo on the upper front of the jersey in the 2026-09-27 LKL game (zalgiris.lt gallery); not worn in EuroLeague games.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "paypal",
+        "placement": "front",
+        "side": "front",
+        "source": {
+          "name": "Žalgiris (club site): Kauno „Žalgiris“ pradeda ilgalaikę partnerystę su „PayPal“",
+          "date": "2026-09-19",
+          "url": "https://zalgiris.lt/naujienos/kauno-zalgiris-pradeda-partneryste-su-pasaulinio-lygio-skaitmeniniu-mokejimu-platforma-paypal",
+          "quote": "„PayPal“ logotipas bus matomas ant komandos aprangų Lietuvos krepšinio lygos rungtynėse",
+          "note": "Lithuanian. Translation: 'The PayPal logo will be visible on team apparel in Lithuanian Basketball League games'; deal runs to the end of 2027-28. In photos of the 2026-09-27 LKL game the PayPal wordmark sits on the front, left of the number; not worn in EuroLeague games.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "volkswagen",
+        "placement": "front",
+        "side": "front",
+        "source": {
+          "name": "Žalgiris (club site): Geriausio „Žalgirio“ vairuotojo titulas ir žaliasis „Volkswagen Tiguan“ iš „Autojutos“",
+          "date": "2025-09-28",
+          "url": "https://zalgiris.lt/naujienos/geriausio-zalgirio-vairuotojo-titulas-ir-zaliasis-volkswagen-tiguan-is-autojutos",
+          "quote": "Tai jau devintieji „Žalgirio“ ir „Autojutos“ bendradarbiavimo metai",
+          "note": "Lithuanian. Translation: 'This is already the ninth year of cooperation between Žalgiris and Autojuta'; Autojuta is Volkswagen's official Lithuanian dealer. Placement photo-verified: the VW roundel sits on the front, right of the number, in the 2026-09-27 LKL game (zalgiris.lt gallery); not worn in EuroLeague games.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "pigu-lt",
+        "placement": "shorts",
+        "side": "front",
+        "source": {
+          "name": "Žalgiris (club site): Kauno „Žalgirio“ partnerių gretas papildė vienas žinomiausių šalies prekės ženklų",
+          "date": "2026-08-27",
+          "url": "https://zalgiris.lt/naujienos/kauno-zalgirio-partneriu-gretas-papilde-vienas-zinomiausiu-salies-prekes-zenklu",
+          "quote": "šalies gyventojams puikiai pažįstamas e. prekybos centro logotipas papuoš „Žalgirio“ krepšininkų aprangas",
+          "note": "Lithuanian. Translation: 'the well-known e-commerce centre's logo will adorn Žalgiris players' apparel'. Placement photo-verified: pigu.lt on the front of the shorts' left leg in the 2026-09-27 LKL game (zalgiris.lt gallery).",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "samsonas",
+        "placement": "shorts",
+        "side": "front",
+        "source": {
+          "name": "Žalgiris (club site): „Samsonas“ ir „Žalgiris“ tęsia bendradarbiavimą",
+          "date": "2025-11-16",
+          "url": "https://zalgiris.lt/naujienos/samsonas-ir-zalgiris-tesia-bendradarbiavima",
+          "quote": "„Samsonas“ jau aštuntus metus iš eilės prisijungia prie Kauno „Žalgirio“ komandos partnerių",
+          "note": "Lithuanian. Translation: 'Samsonas is in its eighth consecutive season among Kauno Žalgiris team partners'. Placement photo-verified: Samsonas logo on the front of the shorts' right leg in the 2026-09-27 LKL game (zalgiris.lt gallery).",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
     "sponsorsComplete": false,
-    "summary": null,
+    "summary": "Green 2026-27 Puma home jersey. Front: payabl. under the crest in EuroLeague games; TOPsport, PayPal, Volkswagen around the number in LKL games; Go3 under the number in both. Shorts carry pigu.lt and Samsonas (LKL). Not complete: game photos show further unreadable marks — a second mark under pigu.lt and one reading like \"Avia\" above Samsonas on the LKL shorts, and a small teal badge on the EuroLeague-game shorts — that could not be identified from photos or textual sources.",
     "change": null
   },
   {

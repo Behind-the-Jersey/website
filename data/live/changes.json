@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026-09-28-phoenix-suns-paze",
+    "date": "2026-09-28",
+    "datePrecision": "day",
+    "clubId": "phoenix-suns",
+    "sponsorId": "paze",
+    "kind": "new",
+    "levelAfter": "clean",
+    "title": "Paze replaces PayPal on the Suns patch",
+    "text": "Early Warning Services' Paze takes the jersey patch from the 2026-27 season, succeeding PayPal, whose logo had been on the jerseys every season since 2018.",
+    "source": {
+      "name": "Arizona Sports (KTAR): Phoenix Suns partner with Paze as team's new jersey sponsor",
+      "date": "2026-09-28",
+      "url": "https://arizonasports.com/nba/phoenix-suns/phoenix-suns-paze-jersey-sponsor",
+      "quote": "The Suns’ previous jersey patch sponsor was PayPal, whose logo had been stitched on the team’s jerseys every season since 2018.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  },
+  {
     "id": "2026-09-17-chelsea-circle-usdc",
     "date": "2026-09-17",
     "datePrecision": "day",

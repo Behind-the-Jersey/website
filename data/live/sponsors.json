@@ -234,6 +234,23 @@
     "note": "Existing entry. This target adds: owner and organiser of the UAE Tour and UAE Tour Women; 'Established in 2006 by His Highness Sheikh Mohamed bin Zayed Al Nahyan' and 'aligned to the emirate's leadership vision' (adsc.gov.ae/about-us, opened)."
   },
   {
+    "id": "abus",
+    "name": "ABUS",
+    "ownerId": "abus",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "ABUS is a lock and helmet maker 100% owned by the founding Bremicker family (Wetter, Germany). Nothing found.",
+    "claimIds": [
+      "abus-bremicker-ownership"
+    ],
+    "aliases": [
+      "August Bremicker Söhne KG",
+      "ABUS Security Tech Germany"
+    ],
+    "note": "German security and bike-lock/helmet maker. Rating note: 100% Bremicker family (claim abus-bremicker-ownership); no relevant record found."
+  },
+  {
     "id": "acadomia",
     "name": "Acadomia",
     "ownerId": "domia-group",
@@ -425,6 +442,20 @@
       "abu dhabi developmental holding company"
     ],
     "note": "Abu Dhabi Developmental Holding Company; its mark is on the sleeves of the 2026 UAE Team Emirates XRG jersey (kit launched 12 December 2025). Rating note: on hold for a maintainer. The sponsor is an Abu Dhabi state holding company, now under L'IMAD, a sovereign fund of the Government of Abu Dhabi. The UAE's record is on main (uae-mass-trial-2024, mubadala-uae-convictions-upheld)."
+  },
+  {
+    "id": "adrianas-insurance",
+    "name": "Adriana's Insurance",
+    "ownerId": "agi-business-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "agi-adrianas-insurance-owner"
+    ],
+    "aliases": [],
+    "note": "Southern California insurance agency (adrianasinsurance.com), part of AGI Business Group, owned by Adriana Gallardo (claim agi-adrianas-insurance-owner: ownership per her biography, her founding of the agency per the club's 2025-11-09 announcement). No state stake; nothing else found. Proposed tier: none (see PR)."
   },
   {
     "id": "adt",
@@ -647,6 +678,25 @@
     ],
     "aliases": [],
     "note": "Rating note: Listed Hong Kong company → none. Historical note: AIA was spun out of AIG; the US government's AIG bailout stake was long ago exited."
+  },
+  {
+    "id": "aikbank",
+    "name": "AikBank",
+    "ownerId": "bdd-mv-investments",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "aikbank-mv-investments-owner",
+      "bdd-mv-nordagri-nv-owner"
+    ],
+    "aliases": [
+      "AIK Banka",
+      "AIK Banka a.d. Beograd",
+      "Agroindustrijska komercijalna banka"
+    ],
+    "note": "Serbian bank (AikBank a.d. Beograd, former AIK Banka; per the 2024 Bankar/Forbes analysis it then owned Eurobank Direktna a.d. Beograd 100%). Logo on the right chest of the 2026/27 Partizan home shirt (official club store product photos). Owned 100% by BDD M&V Investments, itself under NORDAGRI N.V. and Agri Europe Cyprus (AEC Group, the Kostić family holding per Bankar/Forbes Montenegro). Propose: none (register and press show only private owners; no record found). Await maintainer."
   },
   {
     "id": "air-europa",
@@ -1171,14 +1221,19 @@
   {
     "id": "alpecin",
     "name": "Alpecin",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "German caffeine shampoo brand (Dr. Wolff Group)."
+    "ownerId": "dr-wolff-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Alpecin is a shampoo brand of Dr. Wolff Group, a Bielefeld family business in its fourth generation. Nothing found.",
+    "claimIds": [
+      "alpecin-dr-wolff-ownership"
+    ],
+    "aliases": [
+      "Alpecin DMG Shampoo",
+      "Alpecin DMG"
+    ],
+    "note": "German caffeine shampoo brand (Dr. Wolff Group). Rating note: family-owned German consumer group (claim alpecin-dr-wolff-ownership); no state capital, no relevant record found."
   },
   {
     "id": "alpinestars",
@@ -1727,6 +1782,24 @@
     "claimIds": [],
     "aliases": [],
     "note": "Al-Nassr sleeve sponsor (a Cruise Saudi brand)."
+  },
+  {
+    "id": "arrena",
+    "name": "Arrena Natural Mineral Water",
+    "ownerId": "arrena",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Arrena is a Greek mineral-water company of the Tsakos shipping family. Nothing found.",
+    "claimIds": [
+      "arrena-ownership"
+    ],
+    "aliases": [
+      "Arrena",
+      "Arrèna",
+      "ΑρρένΑ"
+    ],
+    "note": "Rating note: on Olympiacos BC's 2026-27 jersey as a small chest logo (Gazzetta, 9 July 2025; club store photos). Owned by the Tsakos family's interests - a Greek shipping family (Panagiotis and Nikolaos Tsakos), no state or fund in the chain, and no sourced human-rights finding against the company or family found (checked 2026-10-01)."
   },
   {
     "id": "arrow-electronics",
@@ -2298,16 +2371,26 @@
   {
     "id": "aws",
     "name": "Amazon Web Services (AWS)",
-    "ownerId": "aws-owner",
+    "ownerId": "amazon-com-inc",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Amazon Web Services (AWS). Nothing found.",
+    "verdict": "Amazon Web Services (AWS) is an Amazon.com company; Amnesty International documented serious abuses of Nepali migrant workers contracted to Amazon's warehouses in Saudi Arabia.",
     "claimIds": [
-      "aws-owner-record"
+      "aws-amazon-ownership",
+      "amazon-migrant-worker-record"
     ],
     "aliases": [],
-    "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+    "note": "Re-rated concern (proposed 2026-10-01): the link is aws-amazon-ownership (AWS is an Amazon.com company; Amazon.com, Inc.'s Form 10-K lists AWS as one of its three segments) and the record is amazon-migrant-worker-record (Amnesty International's 2023 report on Nepali migrant workers contracted to Amazon's warehouses in Saudi Arabia). Company test, so the rating rests on the company's own record; a maintainer decides.",
+    "why": {
+      "text": "Amazon Web Services is an Amazon.com company. Amnesty International's report documents serious human rights abuses of Nepali migrant workers contracted to Amazon's warehouses in Saudi Arabia, and says many are highly likely to be victims of human trafficking.",
+      "claimIds": [
+        "amazon-migrant-worker-record",
+        "aws-amazon-ownership"
+      ],
+      "messageLine": "Amnesty International documented serious abuses of Nepali migrant workers at Amazon's warehouses in Saudi Arabia.",
+      "status": "draft"
+    }
   },
   {
     "id": "axi",
@@ -2594,6 +2677,23 @@
       "banca-popolare-del-frusinate-record"
     ],
     "aliases": []
+  },
+  {
+    "id": "banca-popolare-pugliese",
+    "name": "Banca Popolare Pugliese",
+    "ownerId": "banca-popolare-pugliese",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "banca-popolare-pugliese-ownership"
+    ],
+    "aliases": [
+      "BPP",
+      "Banca Popolare Pugliese S.C.p.A."
+    ],
+    "note": "Cooperative credit bank based in the province of Lecce (Parabita/Matino). Lecce's sleeve sponsor; its own site confirms the role for 2026/2027, and the club's 2023 release said the BPP mark appears on the sleeves of the match shirts."
   },
   {
     "id": "bang-and-olufsen",
@@ -3073,6 +3173,24 @@
     "note": "Title/naming sponsor of Liga Portugal since 2023-24 ('Liga Portugal Betclic'); league-partner deal recorded separately. Operator per SRIJ register: BEM OPERATIONS LIMITED."
   },
   {
+    "id": "betitaly-pay",
+    "name": "BetItalyPay",
+    "ownerId": "gi-lu-pi-srl",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "betitaly-pay-ownership"
+    ],
+    "aliases": [
+      "BetItalyPAY",
+      "BetitalyPay",
+      "Betitaly"
+    ],
+    "note": "Payments and top-up services brand (game-account top-ups, bill payments, betting-point services) run by GI.LU.PI. S.r.l. a S.U. of Tricase (Lecce). Lecce's co-sponsor/second sponsor since 2022; renewed for 2026-27 and, per PianetaLecce (5 Aug 2026), for three more years. Founder Giuseppe Pandinelli is named in press coverage (PianetaLecce, 5 Aug 2026), but the company's shareholder isn't published, so ownership rests on the brand's own site footer."
+  },
+  {
     "id": "betmgm",
     "name": "BetMGM",
     "ownerId": null,
@@ -3217,6 +3335,23 @@
     "claimIds": [],
     "aliases": [],
     "note": "Listed as an official supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French wheelbuilding-machinery maker."
+  },
+  {
+    "id": "bilyoner",
+    "name": "Bilyoner",
+    "ownerId": "hitay-holding",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Turkish online sports-betting platform under Hitay Holding (with Intralot as partner). Private owners, no state stake found, no human-rights finding against the company. Nothing found.",
+    "claimIds": [
+      "bilyoner-hitay-holding-ownership"
+    ],
+    "aliases": [
+      "bilyoner.com",
+      "Bilyoner.com"
+    ],
+    "note": "Rating note: official sponsor of Anadolu Efes S.K. since 2019-20, renewed for 2026-27 (eighth season). Owned via Hitay Holding (bilyoner-hitay-holding-ownership); Bilyoner's About page also names Intralot as a partner in its partnership structure, but no equity split is given. Gambling brand, so the owner chain was checked for state links: Hitay Holding is private, and no state or state fund is named."
   },
   {
     "id": "bimbo",
@@ -3788,6 +3923,22 @@
     "note": "Energy supplier owned by Centrica; official energy partner of the WSL and WSL2 from 2025/26."
   },
   {
+    "id": "brustor",
+    "name": "Brustor",
+    "ownerId": "brustor",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Brustor is a Belgian family business making solar shading and pergolas. Nothing found.",
+    "claimIds": [
+      "brustor-family-ownership"
+    ],
+    "aliases": [
+      "BRUSTOR sun shade shelter"
+    ],
+    "note": "West Flanders outdoor-living company. Rating note: family business since 1965 (claim brustor-family-ownership); no relevant record found."
+  },
+  {
     "id": "buala",
     "name": "Buala",
     "ownerId": "energy-plus-iberia",
@@ -4054,14 +4205,19 @@
   {
     "id": "canyon",
     "name": "Canyon",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "German bike brand; title sponsor of Canyon//SRAM (Cyclist, 2026-07-14)."
+    "ownerId": "groupe-bruxelles-lambert",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Canyon is controlled by Groupe Bruxelles Lambert, a Brussels-listed investment holding (52.6% of the share capital). Nothing found.",
+    "claimIds": [
+      "canyon-gbl-ownership"
+    ],
+    "aliases": [
+      "Canyon Bicycles",
+      "Canyon Bicycles GmbH"
+    ],
+    "note": "German premium bike brand; title sponsor of Canyon//SRAM and bike partner of Alpecin-Premier Tech. Rating note: majority owner GBL is a listed Belgian holding; founder Roman Arnold remains a significant shareholder (claim canyon-gbl-ownership); no state capital found."
   },
   {
     "id": "capelli-sport",
@@ -4482,6 +4638,25 @@
     "note": "Title sponsor of Buriram United, on the chest of the 2026-27 domestic home shirt. Rating note: ownership documented (claims chang-thai-beverage-brand, thai-beverage-shareholders). Quick company check (2026-09-30): no court, regulator, UN body or major-NGO human-rights finding against ThaiBev identified."
   },
   {
+    "id": "changan",
+    "name": "Changan",
+    "ownerId": "china-changan-automobile-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "changan-central-soe",
+      "china-xinjiang-un-assessment"
+    ],
+    "aliases": [
+      "Changan Automobile",
+      "China Changan Automobile Group",
+      "长安汽车"
+    ],
+    "note": "CHANGAN lettering above the number on the back of the 2026/27 jerseys (official club store product photos; RTS reported the back placement at the 2025/26 kit launch). Rating note: Changan is a Chinese central SOE under SASAC (inaugurated 29 July 2025, No. 73 of the central SOE directory), so the Chinese state controls the brand, and China's record on Xinjiang is documented (UN OHCHR 2022, HRW 2026). Propose serious. Await maintainer."
+  },
+  {
     "id": "chestny-znak",
     "name": "Chestny Znak",
     "ownerId": null,
@@ -4530,10 +4705,11 @@
     "status": "being-rated",
     "verdict": "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit - Children's Health System of Texas, EIN 75-0800628 - while UT….",
     "claimIds": [
-      "ut-southwestern-medical-center-record"
+      "ut-southwestern-medical-center-record",
+      "childrens-health-system-of-texas-ownership"
     ],
     "aliases": [],
-    "note": "Rating note: Judgement call: the sponsor entry covers two owners. Scored on the state half (UT Southwestern) because state ownership is the tier-driving fact; Children's Health's non-profit status is evidenced by ProPublica Nonprofit Explorer (EIN 75-0800628). 'serious' reflects state rather than state-fund ownership. ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs; the sponsor also covers a private non-profit (Children's Health)."
+    "note": "Rating note: Judgement call: the sponsor entry covers two owners. Scored on the state half (UT Southwestern) because state ownership is the tier-driving fact; Children's Health's non-profit status is evidenced by ProPublica Nonprofit Explorer (EIN 75-0800628, claim childrens-health-system-of-texas-ownership, owner childrens-health-system-of-texas). 'serious' reflects state rather than state-fund ownership. ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs; the sponsor also covers a private non-profit (Children's Health). Tier proposed in PR #1060: none (US state university plus independent 501(c)(3) nonprofit; nothing passes the METHOD.md test) - a maintainer sets the tier."
   },
   {
     "id": "childrens-hospital-colorado",
@@ -5244,6 +5420,22 @@
     "note": "Japanese card issuer; a top-tier Official Global Partner of the AFC (per Sportcal, 2026-05-06). The AFC-Credit Saison renewal announcement was not opened this run - the relationship is sourced only via the Sportcal tier listing."
   },
   {
+    "id": "crelan",
+    "name": "Crelan",
+    "ownerId": "crelan",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Crelan is a 100% cooperative Belgian bank, owned by its cooperative fund CrelanCo CV. Nothing found.",
+    "claimIds": [
+      "crelan-cooperative-ownership"
+    ],
+    "aliases": [
+      "CrelanCo"
+    ],
+    "note": "Belgian cooperative retail bank. Rating note: wholly owned by cooperative CrelanCo CV with more than 291,000 customer cooperative shareholders (claim crelan-cooperative-ownership); no relevant record found."
+  },
+  {
     "id": "cristaline",
     "name": "Cristaline",
     "ownerId": null,
@@ -5577,6 +5769,22 @@
     "note": "Family-held (Association Famille Mulliez). France doesn't count as a record state under METHOD.md (decided September 2026 for Renault), so the link leads to a state without a qualifying record: Nothing found."
   },
   {
+    "id": "deceuninck",
+    "name": "Deceuninck",
+    "ownerId": "deceuninck",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Deceuninck is a listed Belgian window-systems maker whose largest disclosed shareholder is Gramo BV (31.19%). Nothing found.",
+    "claimIds": [
+      "deceuninck-shareholder-structure"
+    ],
+    "aliases": [
+      "Deceuninck NV"
+    ],
+    "note": "Rating note: Euronext-listed company; own shareholder table shows 55.68% widely held and no state capital (claim deceuninck-shareholder-structure); no relevant record found."
+  },
+  {
     "id": "deel",
     "name": "Deel",
     "ownerId": "deel-inc",
@@ -5653,6 +5861,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  },
+  {
+    "id": "dem-supermercati",
+    "name": "Dem Supermercati",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Dem"
+    ],
+    "note": "Supermarket chain (own site's home page: 29 stores across Lazio and Abruzzo; its history page says 27 — the two pages disagree) and Frosinone Calcio's back sponsor (own sponsor page; Ciociaria Oggi, 2026-04-26). The supermercatidem.com footer reads 'Copyright © DSG HOLDING srl – Sede legale: Viale Kennedy 70 00043 Ciampino, (RM), IT – P.IVA: 09325141001', and the chain's history page says its roots go back to the 1980s 'grazie alla famiglia De Sanctis'; neither page states who owns DSG Holding srl, so no ownership claim could be written and the sponsor stays unrated."
   },
   {
     "id": "dental-clinics",
@@ -6139,6 +6361,24 @@
       "DP World Logistics"
     ],
     "note": "Dubai state-owned ports group; McLaren partnership began 2023, expanded 2024-02-20. ICC Premier Partner (top tier) since May 2024, original partnership June 2023; also runs the Beyond Boundaries grassroots programme. Ultimate owner is the Government of Dubai per DP World's FY2025 Annual Report."
+  },
+  {
+    "id": "dr-automobiles",
+    "name": "DR Automobiles",
+    "ownerId": "dr-automobiles-groupe",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "dr-automobiles-ownership"
+    ],
+    "aliases": [
+      "DR",
+      "DR Automobiles Groupe",
+      "DR Automobiles S.r.l."
+    ],
+    "note": "Italian carmaker (brand of DR Automobiles Groupe, Macchia d'Isernia) that imports and finishes vehicles with Asian industrial partners. Lecce's back sponsor since July 2023; the club's sponsor page still lists DR as Back Sponsor and the 2026-27 official-store product photos show the dr logo on the back of the adidas home shirt."
   },
   {
     "id": "dr-tooth-clinics",
@@ -7321,16 +7561,20 @@
   {
     "id": "fenix",
     "name": "Fenix",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [
-      "fenix 2025"
+    "ownerId": "arpa-industriale",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Fenix is an interior-materials brand of the Italian manufacturer Arpa Industriale, part of Broadview Holding and controlled by HAL Holding N.V. (listed in Amsterdam via HAL Trust). Nothing found.",
+    "claimIds": [
+      "fenix-arpa-ownership",
+      "arpa-broadview-hal-ownership"
     ],
-    "note": "Official apparel partner of the International Series, labelled 'Fenix 2025' on the partners page (fetched 2026-09-25). The brand entity behind Fenix and its ownership are unconfirmed - see unsourced."
+    "aliases": [
+      "fenix 2025",
+      "FENIX"
+    ],
+    "note": "The FENIX interior-materials brand of Arpa Industriale (Bra, Italy); namesake of the women's team Fenix-Premier Tech and on the lower back of the 2026 Alpecin-Premier Tech jersey. Rating note: brand link confirmed via fenixforinteriors.com (claim fenix-arpa-ownership); Arpa Industriale is part of Broadview Holding, controlled by HAL Holding N.V., Amsterdam-listed via HAL Trust (claim arpa-broadview-hal-ownership); no state or state fund in the chain, no relevant record found. Open question kept from previous research: a 'Fenix 2025' apparel partner of golf's International Series (deal international-series-fenix) may be a different brand, and the deal record may need splitting."
   },
   {
     "id": "fergana-region-administration",
@@ -7813,6 +8057,21 @@
     "note": "Official Partner from July 2025; branding on both race cars and the team kit."
   },
   {
+    "id": "frigidaire",
+    "name": "Frigidaire",
+    "ownerId": "electrolux-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "frigidaire-electrolux-brand",
+      "electrolux-group-ownership"
+    ],
+    "aliases": [],
+    "note": "Home appliance brand; first-ever back-of-kit partner of Charlotte FC from August 2026. Frigidaire's North American headquarters is in Charlotte, per the club's announcement."
+  },
+  {
     "id": "frito-lay",
     "name": "Frito-Lay",
     "ownerId": null,
@@ -7837,6 +8096,24 @@
     ],
     "aliases": [],
     "note": "Rating note: Cullen/Frost Bankers, Inc. is a publicly traded bank; no state stake or serious conduct record identified."
+  },
+  {
+    "id": "fruitist",
+    "name": "The Fruitist",
+    "ownerId": "agrovision-corp",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "fruitist-brand-of-agrovision",
+      "agrovision-founder-led"
+    ],
+    "aliases": [
+      "Fruitist",
+      "Agrovision"
+    ],
+    "note": "Official sleeve-patch partner of D.C. United since 2024 (club announcement, Feb 23, 2024). Owner Agrovision Corp. renamed itself Fruitist in 2025. Founder-led, investor-backed US company; Aliment Capital led a 2024 growth investment and Blue Book Services (Apr 2025) reports the Dalio Family Office joined as a backer. No owner is named with a controlling stake, so the sponsor stays unrated."
   },
   {
     "id": "fuchsia-bakery",
@@ -8339,6 +8616,21 @@
     "note": "Ownership is sourced (gocompare-future-ownership): a brand of London-listed media company Future plc. Proposed tier: none (see PR)."
   },
   {
+    "id": "go3",
+    "name": "Go3",
+    "ownerId": "tv3-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Streaming service of TV3 Group, a portfolio company of Bitė Group and Providence Equity Partners. Nothing found.",
+    "claimIds": [
+      "go3-tv3-group"
+    ],
+    "aliases": [
+      "GO3"
+    ]
+  },
+  {
     "id": "goalstudio",
     "name": "Goalstudio",
     "ownerId": "wakti-co",
@@ -8724,6 +9016,23 @@
     "claimIds": [],
     "aliases": [],
     "note": "North American regional supporter."
+  },
+  {
+    "id": "gsa-sport",
+    "name": "GSA Sport",
+    "ownerId": "gepaworld-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Sportswear brand of GEPAWORLD Group. Private owner, no state stake found, no human-rights finding against the company. Nothing found.",
+    "claimIds": [
+      "gsa-sport-gepaworld-ownership"
+    ],
+    "aliases": [
+      "GSA",
+      "GSA Spor"
+    ],
+    "note": "Rating note: official jersey and sportswear partner of Anadolu Efes S.K. from the 2025-2026 season onward, kit maker of the 2026-27 jerseys. Owned via GEPAWORLD Group (gsa-sport-gepaworld-ownership); the club's announcement is the only source naming the parent, and no state stake is named anywhere in the chain."
   },
   {
     "id": "guggenheim",
@@ -10000,6 +10309,22 @@
     "note": "RWC 2027 Official Partner and Official Hotel Partner of Men's Rugby World Cup 2027 (announced 22 Sep 2026); also a Platinum Partner of the Emirates Dubai 7s."
   },
   {
+    "id": "iko",
+    "name": "IKO",
+    "ownerId": "iko-industries",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "IKO is the family-owned roofing and insulation manufacturer. Nothing found.",
+    "claimIds": [
+      "iko-family-ownership"
+    ],
+    "aliases": [
+      "IKO Industries"
+    ],
+    "note": "Toronto-headquartered roofing/waterproofing/insulation group with plants in North America and Europe. Rating note: family-owned since 1951 (claim iko-family-ownership); no relevant record found."
+  },
+  {
     "id": "indeed",
     "name": "Indeed",
     "ownerId": "recruit-holdings",
@@ -10103,6 +10428,22 @@
       "les mousquetaires"
     ],
     "note": "Rating note: Intermarché is a Groupement Mousquetaires brand (intermarche-mousquetaires-ownership); a privately held retailer with no state owner and no human-rights finding in the dataset, so 'nothing found'."
+  },
+  {
+    "id": "intermountain-health",
+    "name": "Intermountain Health",
+    "ownerId": "intermountain-health",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "intermountain-health-ownership"
+    ],
+    "aliases": [
+      "Intermountain Healthcare"
+    ],
+    "note": "Front-of-shirt sponsor of Real Salt Lake since the 2025 home kit (its insurance arm Select Health carried the front in 2024). Intermountain Health is a non-profit health system; proposed tier 'none' (nothing found beyond ordinary US healthcare-sector conduct). For the maintainer: The National Trial Lawyers reports that a Utah jury returned a USD 1.6m wrongful-death and medical-malpractice verdict against Intermountain Healthcare for fatally overdosing a patient with prescribed medications (Krambule v. Intermountain Healthcare, Second District Court, Ogden, Utah; death 2008, suit filed 2010, thenationaltriallawyers.org/article/patient-overdose) — whether an ordinary-course malpractice verdict counts as a company record under METHOD.md is a maintainer call."
   },
   {
     "id": "internxt",
@@ -10308,16 +10649,16 @@
     "name": "İyi Finans",
     "ownerId": "iyi-finans",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "being-rated",
-    "verdict": "The savings-finance (tasarruf finansmanı) brand of Adil Tasarruf Finansman A.Ş.",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "İyi Finans, the savings-finance brand of Adil Tasarruf Finansman A.Ş., is wholly owned by its board chair Ali Emre Ballı. Nothing found.",
     "claimIds": [
       "iyi-finans-ownership"
     ],
     "aliases": [
       "Adil Tasarruf Finansman A.Ş."
     ],
-    "note": "Rating note: below the back number on Fenerbahçe Tarfin's league shirts in 2026/27 (FenerMedia, 18 September 2026). Brand of Adil Tasarruf Finansman A.Ş. (iyi-finans-ownership); who owns that company was not found. ON HOLD: proposed 'none', waiting on an ownership source."
+    "note": "Rated none 2026-10-01. Below the back number on Fenerbahçe Tarfin's league shirts in 2026/27 (FenerMedia, 18 September 2026). Brand of Adil Tasarruf Finansman A.Ş.; its 2025 annual-report ownership information shows Ali Emre Ballı holding 100% and chairing the board (Milli Gazete, 17 September 2026; iyi-finans-ownership). A private individual owner, no state in the chain, and no record claim passes the METHOD.md test. Ballı also chairs Tarfin's board (tarfin-ownership), but no stake of his in Tarfin is documented there."
   },
   {
     "id": "iz",
@@ -10493,14 +10834,16 @@
   {
     "id": "jefferson-health",
     "name": "Jefferson Health",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "jefferson-health-owner",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Jefferson Health is a nonprofit health system. Nothing found.",
+    "claimIds": [
+      "jefferson-health-nonprofit"
+    ],
     "aliases": [],
-    "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement. Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+    "note": "Rating note: the owner is a nonprofit health system (claim jefferson-health-nonprofit); no sourced human-rights record against it or its owner was found, so 'none'. Practice-jersey patch sponsor of the Philadelphia Eagles."
   },
   {
     "id": "jeonbuk-state",
@@ -10833,6 +11176,22 @@
     "note": "Lazio's Official Sleeve Sponsor for the 2026/27 and 2027/28 Serie A seasons. The club describes it as an international sports news platform; no company register, owner or contact details are published on kaiyunsports.news itself (site byline 'KYTY News'), so the owner is unknown."
   },
   {
+    "id": "kalas",
+    "name": "Kalas",
+    "ownerId": "kalas-sportswear",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Kalas is a family-owned Czech cycling-apparel maker founded by former professional cyclist Čestmír Kalaš. Nothing found.",
+    "claimIds": [
+      "kalas-family-ownership"
+    ],
+    "aliases": [
+      "KALAS Sportswear"
+    ],
+    "note": "Kit maker of Alpecin-Premier Tech (cyclingflash.com, 1 Jan 2026). Rating note: family-owned (claim kalas-family-ownership); no relevant record found."
+  },
+  {
     "id": "kaleida-health",
     "name": "Kaleida Health",
     "ownerId": "kaleida-health-owner",
@@ -10884,7 +11243,7 @@
     "aliases": [
       "Kappa France"
     ],
-    "note": "Rating note: OGC Nice's kit maker (équipementier) and one of the club's three principal partners; also kit supplier to Al-Kholood. Owner chain checked: listed Italian holding company; no state shareholder identified, no human-rights finding found."
+    "note": "Rating note: OGC Nice's kit maker (équipementier) and one of the club's three principal partners; also kit supplier to Al-Kholood and to the Tunisia national team (2026 World Cup). Owner chain checked: listed Italian holding company; no state shareholder identified, no human-rights finding found."
   },
   {
     "id": "kaseya",
@@ -11027,6 +11386,22 @@
     ],
     "aliases": [],
     "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern with no stated reason; no state stake that counts."
+  },
+  {
+    "id": "kiewit",
+    "name": "Kiewit Corporation",
+    "ownerId": "kiewit-corporation",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "kiewit-owner-record"
+    ],
+    "aliases": [
+      "Kiewit"
+    ],
+    "note": "Right-sleeve sponsor of the Colorado Rapids since July 2025, also Official Construction and Engineering Partner of the club. Employee-owned US construction firm; tier proposed as none in the pull request."
   },
   {
     "id": "kingdom-holding",
@@ -11831,14 +12206,18 @@
   {
     "id": "limak-hotels",
     "name": "Limak Hotels",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Front-of-shorts sponsor of Fenerbahçe Tarfin for 2026/27 (Anasponsor, 31 Aug-6 Sep 2026). Owner not researched yet."
+    "ownerId": "limak-holding",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Limak Hotels is the hotel arm of Limak Holding, the group founded by Nihat Özdemir and Sezai Bacaksız. Nothing found.",
+    "claimIds": [
+      "limak-hotels-ownership"
+    ],
+    "aliases": [
+      "Limak Turizm"
+    ],
+    "note": "Rated none 2026-10-01. Front-of-shorts sponsor of Fenerbahçe Tarfin for 2026/27 (Anasponsor, 31 Aug-6 Sep 2026). The worker deaths documented at Istanbul Airport's construction (52 per a CİMER answer reported by Halk TV/T24, 2019; Amnesty Türkiye documents the prosecution of protesting workers) concerned the IGA consortium of five builders, with no court, regulator, UN or NGO finding of fault against Limak itself, so they do not pass the METHOD.md record test; press-reported accidents (e.g. the Kuwait airport landslide) are not findings either."
   },
   {
     "id": "limolane",
@@ -12389,6 +12768,21 @@
     "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to campigliodolomiti.it, stands under 'Official Partners' with the line 'Madonna di Campiglio' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
   },
   {
+    "id": "magellan-corporation",
+    "name": "Magellan Corporation",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Magellan Corp",
+      "e-magellan"
+    ],
+    "note": "US distributor of specialty steels (office listed in Deerfield, Illinois); the Fire's Official Jersey Sleeve Sponsor since 2024. Its website names the leadership (President Bob Arthur, President since its inception in 1985, per e-magellan.com/team) but does not state who owns the company, and no public filing or press report naming an owner was found, so no ownership claim could be written and the sponsor stays not rated yet."
+  },
+  {
     "id": "magnit",
     "name": "Magnit",
     "ownerId": "magnit",
@@ -12561,14 +12955,14 @@
     "name": "Marathon",
     "ownerId": "marathon-owner",
     "ownership": "owned",
-    "tier": "none",
-    "status": "rated",
-    "verdict": "Owned by Marathon. Nothing found.",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
     "claimIds": [
       "marathon-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+    "note": "Rating note: held for a person. Marathon is the retail brand of Marathon Petroleum Corporation (MPC), a US listed company (claim marathon-owner-record); its largest holders are institutional investors (DEF 14A 2026: The Vanguard Group 13.2%). Found in review, not rated: the Guardian with Forensic Architecture (2024-09-09) investigated the August 2023 fire at MPC's Garyville, Louisiana refinery, one of the largest accidental releases of flammable chemicals in the EPA's records — an EPA inspection report noted company deficiencies in failing to properly inspect the tank or to repair cracks in its floor, about 2,800 people were evacuated and two hospitals treated 18 and 11 patients in relation to the fire; an explosion at the same refinery in 2022 injured six workers. Whether any of this is a finding of the kind METHOD.md counts (deaths or injuries, abuse of communities) is a maintainer decision."
   },
   {
     "id": "marathon-sports",
@@ -12796,10 +13190,12 @@
     "ownership": "owned",
     "tier": "unrated",
     "status": "being-rated",
-    "verdict": "MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of Texas System - its own about page states it is part of the UT….",
-    "claimIds": [],
+    "verdict": "MD Anderson is part of the University of Texas System, a US public university system; nothing passes the rating test.",
+    "claimIds": [
+      "university-of-texas-system-record"
+    ],
     "aliases": [],
-    "note": "Rating note: ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs."
+    "note": "Proposed tier 'none' (October 2026): the owner is a US state university system, which METHOD.md gives as an example of a public owner that is not a link to abuse; the ownership claim is now checked (quote + checked) and no record claim applies. Awaiting a maintainer's tier."
   },
   {
     "id": "medallia",
@@ -13007,14 +13403,16 @@
   {
     "id": "metlife",
     "name": "MetLife",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "metlife-owner",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "metlife-owner-listed"
+    ],
     "aliases": [],
-    "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+    "note": "Rating note: MetLife, Inc. is NYSE-listed (MET), per its Form 10-K for fiscal year 2025 (filed 2026-02-19). Its only earlier claim was an invented ownership record, removed 2026-09-25 (#279); the ownership claim here replaces it. Tier proposed as none in PR (a maintainer sets tiers)."
   },
   {
     "id": "mewa",
@@ -13786,6 +14184,24 @@
     "note": "Spanish telecoms brand of Telefónica (listed)."
   },
   {
+    "id": "mozzart",
+    "name": "Mozzart",
+    "ownerId": "mozzart-bet-owner",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "mozzart-individual-owners"
+    ],
+    "aliases": [
+      "Mozzart Bet",
+      "mozzartbet.com",
+      "Mozzart d.o.o."
+    ],
+    "note": "General and title sponsor of KK Partizan since 2022 (the club plays as Partizan Mozzart Bet); Mozzart logo on the front of the 2026/27 jersey. Owned by Mozzart d.o.o. of Belgrade: per CompanyWall's register data, 36 owners — private individuals plus Eter Consulting d.o.o. (2.64%); largest: Jadranka Stepanović 40.98%, Dejan Čakajac 38.35%. Propose: none (no state or fund in the register; no record found). Await maintainer."
+  },
+  {
     "id": "mr-eight",
     "name": "Mr. Eight Branded Residences (Mr. Eight Development)",
     "ownerId": null,
@@ -14309,14 +14725,16 @@
   {
     "id": "nintendo",
     "name": "Nintendo (Nintendo of America)",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "nintendo-owner",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "nintendo-owner-ownership"
+    ],
     "aliases": [],
-    "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+    "note": "Nintendo of America Inc. is a wholly-owned subsidiary of the Japanese listed company Nintendo Co., Ltd.; no state in the ownership chain. Proposed Nothing found: the NLRB complaints against Nintendo of America (2022-2026) are complaints, one later withdrawn, not METHOD.md findings."
   },
   {
     "id": "nintendo-co-ltd",
@@ -14335,6 +14753,27 @@
       "Nintendo"
     ],
     "note": "Back (above the number) sponsor of Kyoto Sanga 2026-27 per the club's uniform sponsors announcement, 2026-06-15. This record covers Nintendo Co., Ltd. of Kyoto, the entity named by the club; the existing 'nintendo' sponsor record is the US-focused record used by Seattle Mariners. Rating note: largest shareholders are Master Trust (16.05%) and Custody Bank (5.02%) trust accounts; Singapore's GIC Private Limited (2.10%) is a small passive stake below the 5% line (nintendo-co-ltd-shareholders). No human-rights finding against Nintendo was found in a quick check (2026-10-01)."
+  },
+  {
+    "id": "nis",
+    "name": "NIS",
+    "ownerId": "nis-ad",
+    "ownership": "part-owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "nis-gazprom-group-majority",
+      "gazprom-neft-part-of-gazprom",
+      "gazprom-state-control",
+      "russian-federation-record"
+    ],
+    "aliases": [
+      "Naftna Industrija Srbije",
+      "NIS a.d. Novi Sad",
+      "NIS petrol"
+    ],
+    "note": "Rating note: the Gazprom group holds a controlling majority of NIS (Gazprom Neft 44.85% + Gazprom 11.3% via Gazprom Capital; the January 2026 MOL buyout had not closed as of 29 September 2026), and the Russian state controls Gazprom. Russia's war in Ukraine goes on. Propose severe (state directly tied to ongoing severe abuses controls the sponsor; mirrors the existing Gazprom rating). Front of the Partizan 2026/27 home shirt, below Mozzart."
   },
   {
     "id": "nissan",
@@ -14631,6 +15070,24 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "nutrisource",
+    "name": "NutriSource / Finley's",
+    "ownerId": "kln-family-brands",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "kln-family-brands-ownership"
+    ],
+    "aliases": [
+      "NutriSource Pet Foods",
+      "Finley's Pet Treats",
+      "Finley's"
+    ],
+    "note": "One joint sleeve patch carries two brands of the same owner: NutriSource Pet Foods and Finley's Pet Treats, both members of KLN Family Brands. The club's 2025 announcement says Finley's was acquired by NutriSource in 2022."
   },
   {
     "id": "nuveen",
@@ -15217,6 +15674,22 @@
     "note": "Essex law firm; West Ham Women's back-of-shirt partner since July 2025."
   },
   {
+    "id": "payabl",
+    "name": "payabl.",
+    "ownerId": "payabl-group",
+    "ownership": "part-owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Cyprus-based payments company; reportedly agreed in 2026 to a 50/50 split between private equity firm ECM Partners and Group CEO Ugne Buračienė. Nothing found.",
+    "claimIds": [
+      "payabl-owners-ecm-buraciene"
+    ],
+    "aliases": [
+      "Payabl",
+      "powercash21"
+    ]
+  },
+  {
     "id": "paycom",
     "name": "Paycom",
     "ownerId": "paycom-owner",
@@ -15235,26 +15708,28 @@
     "name": "Paycor",
     "ownerId": "paycor-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "being-rated",
-    "verdict": "Owned by Paycor. Nothing found.",
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Paychex. Nothing found.",
+    "claimIds": [
+      "paycor-owner-record"
+    ],
     "aliases": [],
-    "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement.",
-    "hold": "evidence not checked yet: paycor-owner-record",
-    "heldTier": "none"
+    "note": "Rating note: Paycor was acquired by Paychex in April 2025 (SEC DEF 14A); Paychex is a US company with no state stake or human-rights record identified."
   },
   {
     "id": "paypal",
     "name": "PayPal",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "paypal-owner",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "paypal-holdings-listed"
+    ],
     "aliases": [],
-    "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+    "note": "Phoenix Suns jersey patch 2018–2026, succeeded by Paze. Ownership claim added 2026-10-01. Upper-front logo on Žalgiris Kaunas LKL game jerseys from September 2026, deal to end of 2027-28 (club announcement, 2026-09-19)."
   },
   {
     "id": "paysafe",
@@ -15553,6 +16028,21 @@
     "note": "Official Tournament Supporter in North America and Asia for FIFA World Cup 26, incorporating Savvy Games Group and Qiddiya City."
   },
   {
+    "id": "pigu-lt",
+    "name": "Pigu.lt",
+    "ownerId": "phh-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Baltic e-commerce brand of PHH Group, whose shareholders are led by Mid Europa Partners. Nothing found.",
+    "claimIds": [
+      "pigu-lt-phh-group"
+    ],
+    "aliases": [
+      "Pigu"
+    ]
+  },
+  {
     "id": "pileje",
     "name": "PiLeJe",
     "ownerId": null,
@@ -15831,14 +16321,19 @@
   {
     "id": "premier-tech",
     "name": "Premier Tech",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Canadian horticulture/packaging company."
+    "ownerId": "premier-tech-ltd",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Premier Tech is a private Canadian industrial group; Bernard Bélanger bought it in 1978 and the family still runs it. Nothing found.",
+    "claimIds": [
+      "premier-tech-belanger-ownership"
+    ],
+    "aliases": [
+      "Premier Tech Ltd",
+      "PremierTech"
+    ],
+    "note": "Canadian horticulture/packaging/water-treatment group. Rating note: private since 2007; Bélanger family control documented (claim premier-tech-belanger-ownership); no state in the chain, no relevant record found."
   },
   {
     "id": "prezero",
@@ -16022,12 +16517,15 @@
     "ownership": "owned",
     "tier": "unrated",
     "status": "being-rated",
-    "verdict": "Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG.",
+    "verdict": "Pulsee Luce e Gas is the domestic-customer energy retailer of Axpo Italia, the Italian branch of the Swiss Axpo Group; Axpo Holding AG is 100% owned by Swiss cantons and their utilities. Nothing found.",
     "claimIds": [
+      "pulsee-axpo-italia-ownership",
       "axpo-holding-ag-record"
     ],
-    "aliases": [],
-    "note": "Rating note: Cantons are treated as 'state' (public-law bodies), which is why this lands at 'serious' rather than 'none'. The shareholder table on the page carries a 2014 date but the structure is current. ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs."
+    "aliases": [
+      "Pulsee"
+    ],
+    "note": "Rating note: the owner chain is fully sourced (Pulsee Luce e Gas → Axpo Italia → Axpo Holding AG → Swiss cantons and their utilities). The public owner is in a state with no sourced record of serious abuses, and METHOD.md names Swiss cantons explicitly as public owners that are not a link to abuse; no human-rights finding against Axpo was found either. Proposed tier: none (a maintainer sets it); held as being-rated until then."
   },
   {
     "id": "puma",
@@ -17225,6 +17723,20 @@
     "note": "Owner and name sponsor of RSSB Tigers, the 2026 BAL champions; took over Tigers BBC in 2025 (The New Times; Ecofin Agency)."
   },
   {
+    "id": "rugs-com",
+    "name": "Rugs.com",
+    "ownerId": "rugs-com",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "rugs-com-family-owned"
+    ],
+    "aliases": [],
+    "note": "Online rug retailer headquartered in Fort Mill, South Carolina; official sleeve partner of Charlotte FC since July 2024. The company describes itself as family-owned; the individuals who own it are not named in the sources checked so far."
+  },
+  {
     "id": "rukka",
     "name": "Rukka",
     "ownerId": null,
@@ -17487,6 +17999,18 @@
       "Groupe Samsic"
     ],
     "note": "Family-owned private group (register: SAS, SIREN 403227796, Cesson-Sévigné, président Thierry Geffroy). No state or state fund appears in the sources."
+  },
+  {
+    "id": "samsonas",
+    "name": "Samsonas",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "UAB Samsonas, a Lithuanian meat-processing company (Kaunas / Šakiai), led by general director Henrikas Urbšta (public company registers). No opened source names its owners, so it stays not rated."
   },
   {
     "id": "sandmark",
@@ -18030,7 +18554,7 @@
       "sheetz-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Sheetz is 100% family-owned (Sheetz family); no state stake or government control. No documented human-rights concerns in ownership chain identified."
+    "note": "Rating note: Sheetz is still family owned, and the Sheetz family is at the helm of the company (Sheetz family page, claim sheetz-owner-record). Nothing passes METHOD.md."
   },
   {
     "id": "shell",
@@ -19058,7 +19582,7 @@
       "starr-insurance-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Starr Insurance is privately owned by C.V. Starr & Co. (now Starr International Company); no state ownership. Ultimate parent is private holding company domiciled in Switzerland. No documented human-rights concerns in ownership chain."
+    "note": "Rating note: the insurance operations are subsidiaries of Starr International Company, Inc. (SICO), a private holding company domiciled in Switzerland; no state in the ownership chain is named by any source cited. Nothing passes the METHOD.md test, so the tier stays none."
   },
   {
     "id": "stars-smile",
@@ -19132,14 +19656,16 @@
   {
     "id": "stifel",
     "name": "Stifel Financial",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "stifel-owner",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Stifel Financial Corp. Nothing found.",
+    "claimIds": [
+      "stifel-owner-record"
+    ],
     "aliases": [],
-    "note": "Rating note: Listed Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+    "note": "Rating note: New York Stock Exchange-listed US financial services company (stifel-owner-record); no state or state fund is in its ownership chain, so nothing passes the METHOD.md test. Its 2026 proxy names BlackRock and FMR as the only holders of more than 5% of its common stock, neither a state."
   },
   {
     "id": "stingray",
@@ -19340,11 +19866,16 @@
     "name": "Superbet",
     "ownerId": "superbet-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Gambling group founded and led by Sacha Dragic, with a Blackstone minority stake. Nothing found.",
+    "claimIds": [
+      "superbet-group-ownership"
+    ],
+    "aliases": [
+      "Superbet Group"
+    ],
+    "note": "Rating note: front-of-shirt sponsor of Olympiacos BC from 2026 to 2032 (Sport24, 3 July 2026). Superbet Group was founded in 2008 by its CEO Sacha Dragic; funds managed by Blackstone's Tactical Opportunities business hold a strategic minority stake (Blackstone, May 2019; Simpson Thacher, February 2025). No state or state fund in the chain, and no sourced human-rights finding against Superbet or Blackstone that passes METHOD.md was found (checked 2026-10-01)."
   },
   {
     "id": "superfile",
@@ -20223,6 +20754,24 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "topsport",
+    "name": "TOPsport",
+    "ownerId": "fortuna-entertainment-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Lithuanian betting operator; 70% acquired by Fortuna Entertainment Group (Penta Investments) in 2026. Nothing found.",
+    "claimIds": [
+      "topsport-fortuna-70-pct",
+      "fortuna-feg-penta-investments"
+    ],
+    "aliases": [
+      "TOP SPORT",
+      "Top Sport"
+    ],
+    "note": "Lithuanian gaming-operator fines (2023, gambling supervision) are regulatory and do not count toward a rating (METHOD.md)."
   },
   {
     "id": "totalenergies",
@@ -22189,6 +22738,20 @@
     "aliases": []
   },
   {
+    "id": "zeroplayer",
+    "name": "ZeroPlayer",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ZeroPlayer by 3R Sport"
+    ],
+    "note": "Online shop for official football merchandise (zeroplayer.it), AC Monza's sleeve sponsor from the 2026-27 kit; the wordmark on the shirt reads 'ZeroPlayer by 3R Sport'. ZeroPlayer's own Dati Societari page (https://zeroplayer.it/pages/dati-societari-20220304, checked 2026-10-03) names Cav. Rimaudo Group s.r.l., Via Giuseppe Saragat 6, Milano (P.IVA 07247960961, REA MI-1946655, share capital EUR 115,000) as the company behind the shop, with the operating site given as 'ZeroPlayer, Via Curtatone 4, 20037 Paderno Dugnano (MI)' - the same address as 3R Sport S.r.l.'s sede operativa (https://3rsport.com/pages/dati-societari-20220304). Its privacy policy likewise names CAV. RIMAUDO GROUP S.R.L. as data controller (https://zeroplayer.it/policies/privacy-policy). Who owns Rimaudo Group is not stated on these pages, and a company-register entry is not an owner (CONTRIBUTING.md), so no ownership claim was written and the sponsor stays not rated yet. shop.acmonza.com's footer reads '(c) Copyright 2026 GTZ Distribution'; the relationship between GTZ Distribution, Rimaudo Group and 3R Sport is unclear."
+  },
+  {
     "id": "zeturf",
     "name": "Zeturf",
     "ownerId": "fdj-united",
@@ -22206,16 +22769,33 @@
     "note": "Rating note: Gambling sponsor. ZEturf is the online horse-race betting brand of FDJ United, which completed its acquisition at the end of September 2023. The French State holds 21.1% of FDJ United and must approve the appointment of its chairman and chief executive, so it is a link under METHOD.md; no record claim about France is cited, so proposed none."
   },
   {
-    "id": "zey-yapi",
-    "name": "Zey Yapı",
+    "id": "zeus",
+    "name": "Zeus Sport",
     "ownerId": null,
     "ownership": null,
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
     "claimIds": [],
+    "aliases": [
+      "Zeus",
+      "Zeus Sport S.r.l."
+    ],
+    "note": "Italian technical-apparel maker (kit supplier of Frosinone Calcio; its company page says the brand began in 1999 in Torre Annunziata, Naples, and lists Frosinone Calcio among the teams it dresses, zeusport.it/en/azienda.html). Company-register aggregators list Zeus Sport S.r.l. (VAT 05520931212, Torre Annunziata, wholesale of sporting articles; 2023 revenue reported as EUR 21.1m on FatturatoAzienda.it), but the shareholder data is behind a paywall, so no owner could be sourced; kept unrated."
+  },
+  {
+    "id": "zey-yapi",
+    "name": "Zey Yapı",
+    "ownerId": "zey-yapi",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Zey Yapı, a Turkish construction contractor set up in 2001, is owned by Mehmet Zeki Peker. Nothing found.",
+    "claimIds": [
+      "zey-yapi-ownership"
+    ],
     "aliases": [],
-    "note": "Back-of-shorts sponsor of Fenerbahçe's men's basketball team for 2026/27 (Anasponsor, 10-16 Aug 2026). Owner not researched yet."
+    "note": "Rated none 2026-10-01. Back-of-shorts sponsor of Fenerbahçe's men's basketball team for 2026/27 (Anasponsor, 10-16 Aug 2026). Identity check: zeyyapi.com.tr (a 2001 contractor) lists the same hospital projects — Aydın 950-bed, Sivas Numune, Çankırı, Akhisar — as the tenders ABC Gazetesi reports for Mehmet Zeki Peker's Zey Yapı, so the sponsor is this company, not the separate Hakkari firm of the same name. Winning public tenders and an AKP candidacy are not a human-rights record under METHOD.md; no record that passes the test was found."
   },
   {
     "id": "zhik",
@@ -22309,6 +22889,22 @@
     ],
     "aliases": [],
     "note": "Rating note for maintainer: Zscaler is a Nasdaq-listed cloud-security company (ZS); no state or state-fund owner found in this run."
+  },
+  {
+    "id": "zwift",
+    "name": "Zwift",
+    "ownerId": "zwift-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Zwift is a private, venture-backed fitness platform; its investors are funds such as KKR, Permira and the Amazon Alexa Fund. Nothing found.",
+    "claimIds": [
+      "zwift-investor-ownership"
+    ],
+    "aliases": [
+      "Zwift, Inc."
+    ],
+    "note": "US online cycling/running fitness platform. Rating note: 2020 Series C was a $450m minority investment led by KKR with Permira, Zone 5 Ventures, Amazon Alexa Fund, True, Highland Europe, Novator and Causeway Media (claim zwift-investor-ownership); no state-fund investor found; no relevant record."
   },
   {
     "id": "zyn",

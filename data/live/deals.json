@@ -4090,9 +4090,14 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Buffalo Bills",
+      "name": "Buffalo Bills: 'The future is bright' | Bills and Highmark announce naming rights deal for New Bills Stadium",
       "date": "2023-06-05",
-      "url": "https://www.buffalobills.com/news/the-future-is-bright-bills-and-highmark-announce-naming-rights-deal-for-new-bill"
+      "url": "https://www.buffalobills.com/news/the-future-is-bright-bills-and-highmark-announce-naming-rights-deal-for-new-bill",
+      "quote": "the franchise has finalized a new naming rights deal with Highmark Blue Cross Blue Shield of Western New York to continue their partnership at the new stadium",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Arena naming rights: Highmark Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-06-05."
   },
@@ -4108,7 +4113,12 @@
     "source": {
       "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
       "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+      "quote": "The Buffalo Bills renewed and expanded their preexisting partnership with Kaleida Health in 2026",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Practice-jersey patch."
   },
@@ -4138,9 +4148,15 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Cadillac Formula 1 Team – Official Partners",
-      "date": "2026-09-24",
-      "url": "https://www.cadillacf1team.com/partners"
+      "name": "Cadillac Formula 1 Team - Official Partners: 3M (Wayback Machine snapshot)",
+      "date": "2026-08-12",
+      "url": "https://web.archive.org/web/20260812141502/https://www.cadillacf1team.com/partners",
+      "quote": "3M is a global leader in material science",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Live site blocks scripts; snapshot of the official partners page checked."
     },
     "note": "Cadillac Formula 1 Team other partner on the 2026 car."
   },
@@ -4154,9 +4170,15 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Cadillac Formula 1 Team – Official Partners",
-      "date": "2026-09-24",
-      "url": "https://www.cadillacf1team.com/partners"
+      "name": "Cadillac Formula 1 Team - Official Partners: Alpinestars (Wayback Machine snapshot)",
+      "date": "2026-08-12",
+      "url": "https://web.archive.org/web/20260812141502/https://www.cadillacf1team.com/partners",
+      "quote": "Alpinestars is a global leader in motorsport safety and performance apparel",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Live site blocks scripts; snapshot of the official partners page checked."
     },
     "note": "Cadillac Formula 1 Team other partner on the 2026 car."
   },
@@ -4170,9 +4192,15 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Cadillac Formula 1 Team – Official Partners",
-      "date": "2026-09-24",
-      "url": "https://www.cadillacf1team.com/partners"
+      "name": "Cadillac Formula 1 Team - Official Partners: Claro / America Movil (Wayback Machine snapshot)",
+      "date": "2026-08-12",
+      "url": "https://web.archive.org/web/20260812141502/https://www.cadillacf1team.com/partners",
+      "quote": "As the leading telecommunications provider in Latin America",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Live site blocks scripts; snapshot of the official partners page checked."
     },
     "note": "Cadillac Formula 1 Team other partner on the 2026 car."
   },
@@ -4186,91 +4214,171 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Cadillac Formula 1 Team – Official Partners",
-      "date": "2026-09-24",
-      "url": "https://www.cadillacf1team.com/partners"
+      "name": "Cadillac Formula 1 Team - Official Partners: Core Scientific (Wayback Machine snapshot)",
+      "date": "2026-08-12",
+      "url": "https://web.archive.org/web/20260812141502/https://www.cadillacf1team.com/partners",
+      "quote": "Core Scientific is a leader in high-density digital infrastructure and data center solutions",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Live site blocks scripts; snapshot of the official partners page checked."
     },
     "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+  },
+  {
+    "id": "cadillac-gainbridge",
+    "clubId": "cadillac",
+    "orgName": null,
+    "sponsorId": "gainbridge",
+    "placement": "front",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "GM Authority - Cadillac F1 Livery: All The Names And Sponsors (And What They Do)",
+      "date": "2026-02-15",
+      "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-livery-all-the-names-and-sponsors-and-what-they-do/",
+      "quote": "The logo for Gainbridge is positioned right below the tricolor Tommy Hilfiger crest.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Logo below the Tommy Hilfiger crest on the nose; not on the team's own partners page."
+    },
+    "note": "Logo on the nose per GM Authority; not on the team's own partners page."
   },
   {
     "id": "cadillac-ifs",
     "clubId": "cadillac",
     "orgName": null,
     "sponsorId": "ifs",
-    "placement": "partner",
+    "placement": "back",
     "from": "2026",
     "to": null,
     "value": null,
     "source": {
-      "name": "Cadillac Formula 1 Team – Official Partners",
-      "date": "2026-09-24",
-      "url": "https://www.cadillacf1team.com/partners"
+      "name": "Motorsport.com - Cadillac reveals two-sided 2026 F1 livery",
+      "date": "2026-02-09",
+      "url": "https://www.motorsport.com/f1/news/cadillac-reveals-two-sided-2026-livery-for-its-maiden-f1-season/10796105/",
+      "quote": "the IFS logo on the rear wing endplates refers to a Swedish software company.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "IFS logo on the rear wing endplates."
     },
-    "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+    "note": "Cadillac Formula 1 Team back partner on the 2026 car."
   },
   {
     "id": "cadillac-jim-beam",
     "clubId": "cadillac",
     "orgName": null,
     "sponsorId": "jim-beam",
-    "placement": "partner",
+    "placement": "front",
     "from": "2026",
     "to": null,
     "value": null,
     "source": {
-      "name": "Cadillac Formula 1 Team – Official Partners",
-      "date": "2026-09-24",
-      "url": "https://www.cadillacf1team.com/partners"
+      "name": "GM Authority - Cadillac F1 Team Makes Its Statement With 2026 Livery: Video",
+      "date": "2026-02-08",
+      "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-team-makes-its-statement-with-2026-livery-video/",
+      "quote": "The rest of the Cadillac F1 race car’s nose is populated by sponsor logos, showcasing whiskey distiller Jim Beam, emissions control system manufacturer Tenneco, and clothing brand Tommy Hilfiger.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "On the nose per GM Authority; Motorsport.com puts Jim Beam on the bargeboards (conflict)."
     },
-    "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+    "note": "Cadillac Formula 1 Team front partner on the 2026 car."
+  },
+  {
+    "id": "cadillac-pirelli",
+    "clubId": "cadillac",
+    "orgName": null,
+    "sponsorId": "pirelli",
+    "placement": "front",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "GM Authority - Cadillac F1 Livery: All The Names And Sponsors (And What They Do)",
+      "date": "2026-02-15",
+      "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-livery-all-the-names-and-sponsors-and-what-they-do/",
+      "quote": "Pirelli also appears on the nose of the Cadillac F1 race car",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "On the nose; also the team's Official Tyre Supplier."
+    },
+    "note": "Cadillac Formula 1 Team front partner on the 2026 car."
   },
   {
     "id": "cadillac-tenneco",
     "clubId": "cadillac",
     "orgName": null,
     "sponsorId": "tenneco",
-    "placement": "partner",
+    "placement": "front",
     "from": "2026",
     "to": null,
     "value": null,
     "source": {
-      "name": "Cadillac Formula 1 Team – Official Partners",
-      "date": "2026-09-24",
-      "url": "https://www.cadillacf1team.com/partners"
+      "name": "GM Authority - Cadillac F1 Team Makes Its Statement With 2026 Livery: Video",
+      "date": "2026-02-08",
+      "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-team-makes-its-statement-with-2026-livery-video/",
+      "quote": "The rest of the Cadillac F1 race car’s nose is populated by sponsor logos, showcasing whiskey distiller Jim Beam, emissions control system manufacturer Tenneco, and clothing brand Tommy Hilfiger.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "On the nose."
     },
-    "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+    "note": "Cadillac Formula 1 Team front partner on the 2026 car."
   },
   {
     "id": "cadillac-tommy-hilfiger",
     "clubId": "cadillac",
     "orgName": null,
     "sponsorId": "tommy-hilfiger",
-    "placement": "partner",
+    "placement": "front",
     "from": "2026",
     "to": null,
     "value": null,
     "source": {
-      "name": "Cadillac Formula 1 Team – Official Partners",
-      "date": "2026-09-24",
-      "url": "https://www.cadillacf1team.com/partners"
+      "name": "Motorsport.com - Cadillac reveals two-sided 2026 F1 livery",
+      "date": "2026-02-09",
+      "url": "https://www.motorsport.com/f1/news/cadillac-reveals-two-sided-2026-livery-for-its-maiden-f1-season/10796105/",
+      "quote": "Clothing brand Tommy Hilfiger is among several logos featuring on the nosecone.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Tommy Hilfiger logo on the nosecone."
     },
-    "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+    "note": "Cadillac Formula 1 Team front partner on the 2026 car."
   },
   {
     "id": "cadillac-twg-ai",
     "clubId": "cadillac",
     "orgName": null,
     "sponsorId": "twg-ai",
-    "placement": "partner",
+    "placement": "sleeve",
     "from": "2026",
     "to": null,
     "value": null,
     "source": {
-      "name": "Cadillac Formula 1 Team – Official Partners",
-      "date": "2026-09-24",
-      "url": "https://www.cadillacf1team.com/partners"
+      "name": "GM Authority - Cadillac F1 Livery: All The Names And Sponsors (And What They Do)",
+      "date": "2026-02-15",
+      "url": "https://gmauthority.com/blog/2026/02/cadillac-f1-livery-all-the-names-and-sponsors-and-what-they-do/",
+      "quote": "Its artificial intelligence arm, TWG AI, appears on the side of the race car, dominating the black-and-white paint scheme.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "TWG AI on the side of the car; 'sleeve' used for the side."
     },
-    "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+    "note": "Cadillac Formula 1 Team sleeve partner on the 2026 car."
   },
   {
     "id": "cafc-w-rsk",
@@ -4469,6 +4577,80 @@
     "note": "Škoda's back-of-shirt deal with Chelsea Women began with the May 2025 extension."
   },
   {
+    "id": "charlotte-fc-ally-front",
+    "clubId": "charlotte-fc",
+    "orgName": null,
+    "sponsorId": "ally",
+    "placement": "front",
+    "from": "2022",
+    "to": null,
+    "value": {
+      "amount": 8,
+      "currency": "USD",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 8000000
+    },
+    "source": {
+      "name": "Sports Business Journal: 'Charlotte FC, Ally Financial weighing sponsorship extension'",
+      "date": "2026-09-29",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2026/09/29/charlotte-fc-ally-financial-weighing-sponsorship-extension",
+      "quote": "The bank pays an average of $8M for its Charlotte FC sponsorship, excluding additional investments in promotions, advertising and related programs.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "short": "SBJ",
+      "note": "Average annual figure reported by SBJ citing the Charlotte Business Journal; it covers Ally's whole Charlotte FC sponsorship, not the front-of-kit fee alone. The same article says the deal is within two years of expiring, so no end year is recorded."
+    },
+    "note": "Ally has been the front-of-kit sponsor on every kit in the club's history; the first primary kit, unveiled 2021-12-09 with Ally as lead front-of-jersey sponsor, was worn from the inaugural 2022 MLS season. Club announcements: 'Charlotte FC Officially Unveils Its First-Ever Primary Kit' (2021-12-09, https://www.charlottefootballclub.com/news/charlotte-fc-officially-unveils-its-first-ever-primary-kit — 'The “Carolina” kit is set to be worn by Charlotte FC’s players for the 2022 and 2023 MLS seasons') and 'Charlotte FC Reveals New Primary Kit Ahead of 2026 Season' (2026-02-10)."
+  },
+  {
+    "id": "charlotte-fc-frigidaire-back",
+    "clubId": "charlotte-fc",
+    "orgName": null,
+    "sponsorId": "frigidaire",
+    "placement": "back",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Charlotte FC: 'Charlotte FC Names Frigidaire as First-Ever Back-of-Kit Partner'",
+      "date": "2026-08-13",
+      "url": "https://www.charlottefootballclub.com/news/charlotte-fc-names-frigidaire-as-first-ever-back-of-kit-partner",
+      "quote": "logo will appear below player numbers on the back of all Charlotte FC kits",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Full sentence on the page: 'Beginning with this weekend's match against the Columbus Crew, the Frigidaire® logo will appear below player numbers on the back of all Charlotte FC kits.' No deal value was reported."
+    },
+    "note": "First-ever back-of-kit partner, announced under the MLS back-of-jersey ad platform introduced after the 2026 All-Star break; the logo debuted at the home match against Columbus Crew in August 2026."
+  },
+  {
+    "id": "charlotte-fc-rugs-com-sleeve",
+    "clubId": "charlotte-fc",
+    "orgName": null,
+    "sponsorId": "rugs-com",
+    "placement": "sleeve",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Charlotte FC: 'Charlotte FC Expands Partnership with Rugs.com'",
+      "date": "2024-07-02",
+      "url": "https://www.charlottefootballclub.com/news/charlotte-fc-expands-partnership-with-rugs-com",
+      "quote": "Rugs.com will become the Club’s official sleeve partner and debut during Charlotte FC’s match on Wednesday against Inter Miami CF.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Club announcement describes a multi-year deal making Rugs.com a Founding-Level partner and official kit sleeve partner; no deal value was reported."
+    },
+    "note": "Multi-year sleeve deal announced 2024-07-02; Rugs.com had partnered with the club from the start of the 2024 season. The 2026 kit release confirms the sleeve placement for a third season."
+  },
+  {
     "id": "charlotte-hornets-judi-health-patch",
     "clubId": "charlotte-hornets",
     "orgName": "Judi Health",
@@ -4480,7 +4662,12 @@
     "source": {
       "name": "Charlotte Hornets / NBA.com",
       "date": "2025-09-24",
-      "url": "https://www.nba.com/hornets/news/charlotte-hornets-and-judi-health-launch-multi-year-partnership-highlighted-by-jersey-patch-designation"
+      "url": "https://www.nba.com/hornets/news/charlotte-hornets-and-judi-health-launch-multi-year-partnership-highlighted-by-jersey-patch-designation",
+      "quote": "Hornets Sports & Entertainment (HSE) today announced a long-term multi-year partnership with Judi Health",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Jersey patch."
   },
@@ -4496,7 +4683,12 @@
     "source": {
       "name": "Charter Communications newsroom",
       "date": "2016-08-17",
-      "url": "https://corporate.charter.com/newsroom/charlotte-hornets-announce-arena-to-be-renamed-spectrum-center"
+      "url": "https://corporate.charter.com/newsroom/charlotte-hornets-announce-arena-to-be-renamed-spectrum-center",
+      "quote": "Hornets Sports & Entertainment and Charter Communications today announced that “Spectrum Center” will be replacing Time Warner Cable Arena as the name of the Hornets’ home arena",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Arena naming rights: Spectrum Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2016-08-17."
   },
@@ -4605,9 +4797,56 @@
     "source": {
       "name": "MLB.com press release (Chicago Cubs)",
       "date": "2024-08-01",
-      "url": "https://www.mlb.com/press-release/press-release-chicago-cubs-announce-motorola-as-official-jersey-patch-partner"
+      "url": "https://www.mlb.com/press-release/press-release-chicago-cubs-announce-motorola-as-official-jersey-patch-partner",
+      "quote": "The Chicago Cubs today announced a multiyear agreement with Motorola Mobility as the club’s “Official Jersey Patch Partner,”",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Jersey patch."
+  },
+  {
+    "id": "chicago-fire-carvana-front",
+    "clubId": "chicago-fire",
+    "orgName": null,
+    "sponsorId": "carvana",
+    "placement": "front",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "chicagofirefc.com – 'Chicago Fire FC Kicks Off Multi-Year Partnership with Carvana as Official Online Auto Retailer and Front of Kit Sponsor'",
+      "date": "2023-12-12",
+      "url": "https://www.chicagofirefc.com/news/chicago-fire-fc-kicks-off-multi-year-partnership-with-carvana-as-official-online",
+      "quote": "Carvana will become the Club’s Front of Kit Partner with its logo appearing across the front of Chicago Fire First Team",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Multi-year agreement announced 2023-12-12, with the Carvana logo first on the jerseys for the 2024 season; renewed for 2026, when Carvana also became the first founding partner of the club's new stadium (chicagofirefc.com, 2026-02-10). No reported deal value."
+  },
+  {
+    "id": "chicago-fire-magellan-sleeve",
+    "clubId": "chicago-fire",
+    "orgName": null,
+    "sponsorId": "magellan-corporation",
+    "placement": "sleeve",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "chicagofirefc.com – 'Chicago Fire FC Announces Magellan Corporation as Official Jersey Sleeve Sponsor'",
+      "date": "2024-05-03",
+      "url": "https://www.chicagofirefc.com/news/chicago-fire-fc-announces-magellan-corporation-as-official-jersey-sleeve-sponsor",
+      "quote": "Magellan branding will be featured on the sleeve of the First Team home and away jerseys",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Expanded multiyear agreement of 2024-05-03. Magellan had earlier been named an Official Partner of the club by an agreement announced 2023-12-04, beginning in 2024 (chicagofirefc.com/news/magellan-corporation-named-official-partner-of-chicago-fire-fc). The 2026 listing (For Soccer, 2026-02-17) still shows Magellan on the right sleeve. No reported deal value."
   },
   {
     "id": "chicago-white-sox-cme-group-patch",
@@ -4658,7 +4897,12 @@
     "source": {
       "name": "Zoomph (2026 NFL practice jersey patch guide)",
       "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+      "quote": "The long-term relationship between Fifth Third Bank and the Bengals extends onto the field — blending local economic roots with national visibility.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Practice-jersey patch."
   },
@@ -4672,9 +4916,14 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Cincinnati Bengals",
+      "name": "Cincinnati Bengals: Cincinnati Bengals and Paycor Announce Stadium Naming Rights Partnership",
       "date": "2022-08-09",
-      "url": "https://www.bengals.com/news/paycor-stadium-naming-rights-cincinnati"
+      "url": "https://www.bengals.com/news/paycor-stadium-naming-rights-cincinnati",
+      "quote": "The home of the Cincinnati Bengals is now Paycor Stadium. The Bengals and Cincinnati-based Paycor HCM, Inc. (“Paycor”) (Nasdaq: PYCR) are expanding their partnership to include stadium naming rights",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Arena naming rights: Paycor Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2022-08-09."
   },
@@ -4865,11 +5114,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Crain's Cleveland Business",
-      "date": "2026-09-10",
-      "url": "https://www.crainscleveland.com/sports-recreation/ccl-guardians-marathon-20260910/"
+      "name": "106.3 The Fox: Marathon stays on Guardians jerseys as sponsorship grows beyond the ballpark",
+      "date": "2026-09-25",
+      "url": "https://1063thefox.com/local-news/marathon-stays-on-guardians-jerseys-as-sponsorship-grows-beyond-the-ballpark/",
+      "quote": "The sponsorship began in 2021, and Marathon became the Guardians’ first jersey patch sponsor in 2023.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. Extended on a new multiyear agreement in September 2026; the release says $250,000 a year goes to youth baseball and softball programs, and no deal fee is reported."
   },
   {
     "id": "cleveland-guardians-progressive-stadium",
@@ -4877,15 +5131,20 @@
     "orgName": "Progressive",
     "sponsorId": "progressive",
     "placement": "stadium",
-    "from": null,
+    "from": "2008",
     "to": null,
     "value": null,
     "source": {
       "name": "Progressive Insurance media room",
       "date": "2024-04-03",
-      "url": "https://progressive.mediaroom.com/news-releases?item=122513"
+      "url": "https://progressive.mediaroom.com/news-releases?item=122513",
+      "quote": "In 2008, we became the proud naming rights partner of Cleveland baseball",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Progressive Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2024-04-03."
+    "note": "Naming rights: Progressive Field. Extended in April 2024 through the 2036 season."
   },
   {
     "id": "clippers-visit-rwanda",
@@ -4920,6 +5179,50 @@
       "note": "Opened via Wayback Machine snapshot 20251216055347 because betssongroup.com blocks bots. No figure is reported in the announcement, so value is null."
     },
     "note": "Three-year main-partner deal from June 2025. The announcement says betFIRST.sport fronts the domestic jersey and betsson.sport the European-competition kits; the 2026-27 home shirt (Jupiler Pro League) carries betsson.sport on the chest. Described as the largest shirt sponsorship deal in the club's history; no amount disclosed."
+  },
+  {
+    "id": "colorado-rapids-kiewit-sleeve",
+    "clubId": "colorado-rapids",
+    "orgName": null,
+    "sponsorId": "kiewit",
+    "placement": "sleeve",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Colorado Rapids: 'Colorado Rapids announce Kiewit as official jersey sleeve partner'",
+      "date": "2025-07-04",
+      "url": "https://www.coloradorapids.com/news/colorado-rapids-announce-kiewit-as-official-jersey-sleeve-partner",
+      "quote": "the Kiewit logo will appear on the right sleeve of all Colorado Rapids authentic primary and secondary jerseys",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The page itself carries no dateline; the club's announcement posts on Facebook and X and the Denver Business Journal dateline both show 4 July 2025. Neither the club release nor the open press reports a deal value."
+    },
+    "note": "Kiewit is also the club's Official Construction and Engineering Partner; the logo also appears on Rapids 2 and Rapids Academy jerseys. For Soccer's 2026 MLS jersey-sponsor list confirms Kiewit on the right sleeve for the 2026 season."
+  },
+  {
+    "id": "colorado-rapids-uchealth-front",
+    "clubId": "colorado-rapids",
+    "orgName": null,
+    "sponsorId": "uchealth",
+    "placement": "front",
+    "from": "2022",
+    "to": "2029",
+    "value": null,
+    "source": {
+      "name": "Colorado Rapids: 'Colorado Rapids and UCHealth launch health-focused initiative as part of multi-year jersey rights deal'",
+      "date": "2022-11-14",
+      "url": "https://www.coloradorapids.com/news/colorado-rapids-and-uchealth-launch-health-focused-initiative-as-part-of-multi-y",
+      "quote": "a multi-year partnership that will see the Colorado-based health system become the Rapids’ official jersey sponsor through the 2029 Major League Soccer season",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "SportsPro (15 November 2022) reported it as a seven-year deal; neither the club nor SportsPro reports a value."
+    },
+    "note": "Front-of-jersey deal announced 14 November 2022, running through the 2029 MLS season. The club page states UCHealth's logo appears on the front of all Rapids First Team match jerseys."
   },
   {
     "id": "colorado-rockies-coors-brewing-co-stadium",
@@ -4963,6 +5266,35 @@
       }
     },
     "note": "Jersey patch on all Rockies jerseys; 5.5-year partnership brokered by Playfly Sports."
+  },
+  {
+    "id": "columbus-crew-nationwide-front",
+    "clubId": "columbus-crew",
+    "orgName": null,
+    "sponsorId": "nationwide",
+    "placement": "front",
+    "from": "2021",
+    "to": null,
+    "value": {
+      "amount": 3,
+      "currency": "USD",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 3
+    },
+    "source": {
+      "name": "SportsPro – 'Columbus Crew score US$3m a year Nationwide shirt deal from 2021'",
+      "date": "2020-02-28",
+      "url": "https://www.sportspro.com/news/columbus-crew-nationwide-shirt-sponsor-deal-2021-mls/",
+      "quote": "the club are reportedly set to earn more than US$3 million per season from the deal, according to the Columbus Dispatch.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "short": "SportsPro"
+    },
+    "note": "Multi-year jersey partnership beginning in 2021; Nationwide remains the front sponsor on the 2026-27 home kit. The figure is a Columbus Dispatch report cited by SportsPro, and the article says 'more than US$3 million per season', so it is a floor rather than a cap. In 2026 Nationwide also agreed to buy a reported 37% stake in the Crew's ownership group (Sportico, 29 May 2026; club/PR Newswire announcement, 25 June 2026) — a club-ownership fact, not a shirt deal."
   },
   {
     "id": "coventry-city-monzo",
@@ -5503,11 +5835,44 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "JPMorgan Chase Newsroom",
+      "name": "JPMorgan Chase Newsroom: Dallas Mavericks and JPMorganChase announce multi-year strategic partnership",
       "date": "2026-07-08",
-      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs"
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs",
+      "quote": "The Dallas Mavericks announced a multi-year partnership with JPMorganChase, designating Chase the official Jersey Patch and Banking Partner of the franchise.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Jersey patch."
+  },
+  {
+    "id": "dc-united-guidehouse-front",
+    "clubId": "dc-united",
+    "orgName": "Guidehouse",
+    "sponsorId": "guidehouse",
+    "placement": "front",
+    "from": "2024",
+    "to": null,
+    "value": {
+      "amount": 7.5,
+      "currency": "USD",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": null
+    },
+    "source": {
+      "name": "Sportico – 'D.C. United Signs Front-of-Jersey Sponsorship With Guidehouse'",
+      "date": "2024-02-15",
+      "url": "https://www.sportico.com/business/sponsorship/2024/dc-united-jersey-sponsorship-guidehouse-1234766721/",
+      "quote": "The deal is for five years and worth around $7.5 million per year, according to a source familiar with the deal.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Sportico attributes the figure to a source familiar with the deal and says 'around' $7.5m, so it is a reported estimate; the club's own announcement gives no value. Five-year term beginning with the 2024 MLS season; no end season set (to null)."
   },
   {
     "id": "denver-broncos-childrens-hospital-colorado-patch",
@@ -7259,6 +7624,69 @@
     "note": "Also holds the naming rights to the WWK Arena."
   },
   {
+    "id": "fc-cincinnati-kroger-sleeve",
+    "clubId": "fc-cincinnati",
+    "orgName": null,
+    "sponsorId": "kroger",
+    "placement": "sleeve",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FC Cincinnati: 'FC Cincinnati unveil The Orange and Blue Legacy Kit'",
+      "date": "2025-02-12",
+      "url": "https://www.fccincinnati.com/news/fc-cincinnati-unveil-the-orange-and-blue-legacy-kit",
+      "quote": "complemented by the secondary sponsor, Kroger, located on the wearer's right sleeve",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Kroger has been the club's sleeve partner since at least the 2023 River Kit, where the club's Kit Vault says Kroger 'returned' as sleeve partner. The Cincinnati Business Courier reported the original sleeve-patch deal on 2021-09-28, but that page is paywalled and could not be opened by script. Deal start, end and value unknown."
+    }
+  },
+  {
+    "id": "fc-cincinnati-mercy-health-front",
+    "clubId": "fc-cincinnati",
+    "orgName": null,
+    "sponsorId": "mercy-health",
+    "placement": "front",
+    "from": "2017",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Cincinnati Business Courier – 'Mercy Health signs on as top FC Cincinnati sponsor' (via Wayback Machine)",
+      "date": "2017-11-13",
+      "url": "http://web.archive.org/web/20251025083811/https://www.bizjournals.com/cincinnati/news/2017/11/13/mercy-health-signs-on-as-top-fc-cincinnati-sponsor.html",
+      "quote": "Mercy Health, the largest hospital system in Ohio, today revealed it will be the official jersey sponsor of FC Cincinnati.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The deal was revealed on 13 November 2017; Mercy Health has been the club's jersey (front) sponsor since. The live bizjournals page blocks scripted access, so the Wayback capture is cited. End date and value were not disclosed."
+    }
+  },
+  {
+    "id": "fc-dallas-childrens-health",
+    "clubId": "fc-dallas",
+    "orgName": null,
+    "sponsorId": "childrens-health",
+    "placement": "front",
+    "from": "2023",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FC Dallas – 'FC Dallas Introduces Children’s Health and UT Southwestern as Official Health Care Partners'",
+      "date": "2023-01-11",
+      "url": "https://www.fcdallas.com/news/fc-dallas-introduces-children-s-health-and-ut-southwestern-as-official-health-ca",
+      "quote": "announced a multi-year partnership today that will see the North Texas-based health care systems become the exclusive health care and hospital partners of FC Dallas",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Multi-year partnership announced 11 January 2023: Children's Health on the primary jersey, UT Southwestern Medical Center on the secondary. No reported deal value found; the release does not give one."
+  },
+  {
     "id": "fc-koln-devk",
     "clubId": "fc-koln",
     "orgName": null,
@@ -8952,6 +9380,72 @@
     }
   },
   {
+    "id": "genoa-bet365-scores-sleeve",
+    "clubId": "genoa",
+    "orgName": null,
+    "sponsorId": "bet365-scores",
+    "placement": "sleeve",
+    "from": "2026-27",
+    "to": "2027-28",
+    "value": null,
+    "source": {
+      "name": "Genoa CFC, 'bet365 Scores è lo Sleeve Sponsor'",
+      "date": "2026-07-13",
+      "url": "https://genoacfc.it/2026/07/13/bet365-scores-e-sleeve-sponsor-del-genoa-cfc",
+      "quote": "bet365 Scores è il nuovo Sleeve Sponsor per le stagioni sportive 2026/27 e 2027/28 in relazione alla prima squadra maschile",
+      "note": "The club's announcement: a two-season sleeve deal (2026/27 and 2027/28) for the men's first team, brokered by Infront Sports; the logo goes on the left sleeve of the match shirts.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "bet365's live-scores app rather than the gambling brand, as with Udinese, Fiorentina, Cagliari, Torino and Juventus. No reported deal value found."
+  },
+  {
+    "id": "genoa-kappa-partner",
+    "clubId": "genoa",
+    "orgName": null,
+    "sponsorId": "kappa",
+    "placement": "partner",
+    "from": "2019",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "NSS Sports, 'Kappa is the new Genoa technical supplier'",
+      "date": "2019-06-14",
+      "url": "https://www.nss-sports.com/en/lifestyle/18874/kappa-genoa-sponsor",
+      "quote": "Genoa announces the start of a new partnership with Kappa, twenty-one years after the last time",
+      "note": "Announced 14 June 2019, for the 2019/20 kits; Kappa replaced Lotto. Kappa is still Genoa's 'Technical Sponsor' on the club's partner page in 2026/27, and made the 2026/27 KOMBAT™ home kit. Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Kit-supply partnership running since 2019/20 and through 2026/27. No reported deal value found."
+  },
+  {
+    "id": "genoa-pulsee-front",
+    "clubId": "genoa",
+    "orgName": null,
+    "sponsorId": "pulsee-luce-e-gas",
+    "placement": "front",
+    "from": "2023",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Genoa CFC, 'Pulsee Luce e Gas front jersey sponsor '25/26'",
+      "date": "2025-03-14",
+      "url": "https://genoacfc.it/2025/03/14/pulsee-luce-e-gas-front-jersey-sponsor-genoa-25-26",
+      "quote": "firmano un nuovo capitolo di un’alleanza, nata nel 2023, che vedrà Pulsee Luce e Gas Front Jersey Sponsor del Genoa",
+      "note": "The club's announcement of the renewal for 2025/26; it dates the alliance to 2023 (first deal for 2023/24 and 2024/25). The partnership continues in 2026/27 ('Pulsee Luce e Gas – Front Jersey Sponsor del Genoa', genoacfc.it, 2026-10-02).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Front-jersey deal since 2023/24, renewed for 2025/26 and running through 2026/27. No reported deal value found."
+  },
+  {
     "id": "getafe-grand-class",
     "clubId": "getafe",
     "orgName": null,
@@ -9387,6 +9881,55 @@
     "note": "Jersey patch. Seven-season jersey-partnership deal announced 2023-02-09; no value disclosed in the announcement."
   },
   {
+    "id": "houston-dynamo-md-anderson-front",
+    "clubId": "houston-dynamo",
+    "orgName": "The University of Texas MD Anderson Cancer Center",
+    "sponsorId": "md-anderson-cancer-center",
+    "placement": "front",
+    "from": "2019",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Houston Dynamo FC – 'Houston Dash and Houston Dynamo FC Extend Agreement with The University of Texas MD Anderson Cancer Center'",
+      "date": "2024-06-27",
+      "url": "https://www.houstondynamofc.com/houstondash/news/houston-dash-and-houston-dynamo-fc-extend-agreement-with-the-university-of-texas-md-anderson-cancer-center",
+      "quote": "today announced a three-year sponsorship extension that started in 2019 aimed at continuing their collaborative efforts to end cancer",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "No deal value has been reported. The club's original announcement (https://www.houstondynamofc.com/news/md-anderson-houston-dynamo-team-one-goal-end-cancer) says that 'Effective Jan. 1, MD Anderson is the official cancer center and jersey partner' and calls it 'the first season-long cause-related jersey partnership in MLS history'; the 2024 release adds that 'The Dynamo jersey has prominently featured MD Anderson's logo for seven consecutive years'."
+    }
+  },
+  {
+    "id": "houston-dynamo-shell-energy-stadium",
+    "clubId": "houston-dynamo",
+    "orgName": "Shell Energy",
+    "sponsorId": "shell",
+    "placement": "stadium",
+    "from": "2023",
+    "to": null,
+    "value": {
+      "amount": 40,
+      "currency": "USD",
+      "unit": "m",
+      "per": "total",
+      "upTo": false,
+      "usdApprox": 40
+    },
+    "source": {
+      "name": "FOX 26 Houston – 'Introducing Shell Energy Stadium: Houston Dynamo, Dash home gets new name'",
+      "date": "2023-01-17",
+      "url": "https://www.fox26houston.com/news/houston-dynamo-dash-shell-energy-stadium",
+      "quote": "According to a source, Shell Energy’s naming rights contract with the Dynamo and Dash is eight years for $40 million, with an average annual value of $5 million.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The deal covers the stadium shared with the NWSL Houston Dash. SportsPro and Sports Business Journal reported at announcement that no length or value had been disclosed; the eight-year/$40m figure is FOX 26's, from a single unnamed source ('A Dynamo official declined comment on the terms'). Shell Energy is the energy brand of Shell plc (UK), the sponsor's owner in data/owners/shell-plc.json."
+    }
+  },
+  {
     "id": "houston-rockets-memorial-hermann-patch",
     "clubId": "houston-rockets",
     "orgName": "Memorial Hermann Health System",
@@ -9744,7 +10287,13 @@
     "source": {
       "name": "Gainbridge Fieldhouse (venue press release)",
       "date": "2021-09-27",
-      "url": "https://www.gainbridgefieldhouse.com/news/detail/home-of-the-indiana-pacers-and-indiana-fever-renamed-gainbridge-fieldhouse"
+      "url": "https://www.gainbridgefieldhouse.com/news/detail/home-of-the-indiana-pacers-and-indiana-fever-renamed-gainbridge-fieldhouse",
+      "quote": "Pacers Sports & Entertainment (PS&E) today announced that Indianapolis-based Gainbridge is the new naming partner for the NBA’s most iconic arena",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Verified on 2026-10-01 via the Wayback Machine snapshot of 2026-09-03 (http://web.archive.org/web/20260903184820/...); the live site returns HTTP 406 to scripted requests."
     },
     "note": "Arena naming rights: Gainbridge Fieldhouse. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2021-09-27."
   },
@@ -9760,9 +10309,14 @@
     "source": {
       "name": "Indiana Pacers (NBA.com)",
       "date": "2025-07-09",
-      "url": "https://nba.com/pacers/news/indiana-pacers-and-lucas-oil-announce-multi-year-jersey-patch-partnership"
+      "url": "https://nba.com/pacers/news/indiana-pacers-and-lucas-oil-announce-multi-year-jersey-patch-partnership",
+      "quote": "The Indiana Pacers and Lucas Oil, an iconic Indianapolis-based brand recognized globally for high-performance automotive products, today announced a new multi-year jersey patch partnership.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. Financial terms not disclosed in the announcement; no reported value found."
   },
   {
     "id": "indianapolis-colts-ascension-st-vincent-patch",
@@ -10959,6 +11513,90 @@
       }
     },
     "note": "Nike's first front-of-shirt sponsorship of a women's team in the UK per coverage."
+  },
+  {
+    "id": "lecce-banca-popolare-pugliese-sleeve",
+    "clubId": "lecce",
+    "orgName": null,
+    "sponsorId": "banca-popolare-pugliese",
+    "placement": "sleeve",
+    "from": "2023",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "US Lecce, 'Banca Popolare Pugliese è “sleeve sponsor” di maglia'",
+      "date": "2023-08-26",
+      "url": "https://uslecce.it/banca-popolare-pugliese-e-sleeve-sponsordi-maglia",
+      "quote": "presenza del marchio “BPP” sulle maniche delle maglie dei giocatori impegnati nel campionato di Serie A TIM",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Sleeve-sponsor agreement announced 26 Aug 2023, which BPP called its seventh consecutive year alongside the club; the partnership predates this deal and its original start isn't separately sourced. BPP's own site confirms it as sleeve sponsor for 2026/2027 (bpp.it, 3 Aug 2026). No deal value reported."
+  },
+  {
+    "id": "lecce-betitaly-pay-front",
+    "clubId": "lecce",
+    "orgName": null,
+    "sponsorId": "betitaly-pay",
+    "placement": "front",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "PianetaLecce, 'BetitalyPay e Lecce ancora insieme: accordo per altri tre anni'",
+      "date": "2026-08-05",
+      "url": "https://www.pianetalecce.it/news/62905552390/lecce-e-betitalypay-insieme-per-altri-tre-anni",
+      "quote": "BetitalyPay e US Lecce proseguiranno insieme per altri tre anni",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Three-year renewal signed 5 Aug 2026, keeping BetItalyPay as co-sponsor on the shirt; LecceSette (1 Aug 2026) had first reported the renewal for 2026/27. The previous agreement ran to 2025/26 (uslecce.it, 28 Jun 2023). No deal value reported."
+  },
+  {
+    "id": "lecce-deghi-front",
+    "clubId": "lecce",
+    "orgName": null,
+    "sponsorId": "deghi",
+    "placement": "front",
+    "from": "2026",
+    "to": "2031",
+    "value": null,
+    "source": {
+      "name": "Corriere Salentino, 'Deghi S.p.A. e U.S. Lecce rinnovano l'accordo di Main Sponsorship per il quinquennio 2026–2031'",
+      "date": "2025-11-21",
+      "url": "https://www.corrieresalentino.it/2025/11/deghi-s-p-a-e-u-s-lecce-rinnovano-laccordo-di-main-sponsorship-per-il-quinquennio-2026-2031/",
+      "quote": "annunciano congiuntamente il rinnovo della partnership di Main Sponsor per il periodo 2026–2031, confermando un rapporto iniziato nel 2021",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Five-year renewal of the main-sponsor partnership that began in 2021; covers the first team and the Primavera. No deal value reported."
+  },
+  {
+    "id": "lecce-dr-automobiles-back",
+    "clubId": "lecce",
+    "orgName": null,
+    "sponsorId": "dr-automobiles",
+    "placement": "back",
+    "from": "2023",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "US Lecce, 'DR Automobiles Groupe è back sponsor di maglia'",
+      "date": "2023-07-25",
+      "url": "https://uslecce.it/dr-automobiles-groupe-e-back-sponsor-di-maglia",
+      "quote": "DR è infatti il nuovo back sponsor di maglia dell’U.S. Lecce.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Back-sponsor deal announced 25 Jul 2023, born from the collaboration between club president Saverio Sticchi Damiani and DR Automobiles Groupe president Massimo Di Risio. Still on the shirt in 2026-27 per the club's sponsor page and the official store's product photos. No deal value reported."
   },
   {
     "id": "leeds-united-red-bull",
@@ -12535,7 +13173,12 @@
     "source": {
       "name": "Sports Business Journal",
       "date": "2024-09-19",
-      "url": "https://www.sportsbusinessjournal.com/Articles/2024/09/19/memphis-grizzlies-jersey-patch-robinhood"
+      "url": "https://www.sportsbusinessjournal.com/Articles/2024/09/19/memphis-grizzlies-jersey-patch-robinhood",
+      "quote": "The Grizzlies have finalized a multiyear jersey patch and investing deal with Robinhood",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Jersey patch."
   },
@@ -12743,7 +13386,13 @@
     "source": {
       "name": "Miami HEAT (nba.com/heat)",
       "date": "2024-09-24",
-      "url": "https://www.nba.com/heat/news/heat-and-robinhood-announce-jersey-patch-partnership"
+      "url": "https://www.nba.com/heat/news/heat-and-robinhood-announce-jersey-patch-partnership",
+      "quote": "Your Miami HEAT announced today a multi-year agreement with Robinhood, a financial services platform that pioneered commission-free stock trading.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "nba.com serves a client-rendered page and blocked scripted access (Akamai 403); the text was read from the Wayback Machine capture of 2026-09-28 of this URL."
     },
     "note": "Jersey patch."
   },
@@ -12850,15 +13499,20 @@
     "orgName": "Fiserv",
     "sponsorId": "fiserv",
     "placement": "stadium",
-    "from": null,
+    "from": "2018",
     "to": null,
     "value": null,
     "source": {
       "name": "Fiserv, Inc. investor newsroom",
       "date": "2018-07-26",
-      "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-forum-new-home-milwaukee-bucks"
+      "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-forum-new-home-milwaukee-bucks",
+      "quote": "Fiserv has signed an exclusive naming rights agreement for the nearly completed Wisconsin Entertainment and Sports Center, now called Fiserv Forum.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Fiserv Forum. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2018-07-26."
+    "note": "Arena naming rights: Fiserv Forum, 25-year agreement, announced 2018-07-26; financial terms not disclosed."
   },
   {
     "id": "milwaukee-bucks-uline-patch",
@@ -12872,9 +13526,14 @@
     "source": {
       "name": "Milwaukee Bucks / NBA.com",
       "date": "2026-09-21",
-      "url": "https://www.nba.com/bucks/news/milwaukee-bucks-name-wisconsin-based-uline-as-official-jersey-patch-partner"
+      "url": "https://www.nba.com/bucks/news/milwaukee-bucks-name-wisconsin-based-uline-as-official-jersey-patch-partner",
+      "quote": "The Milwaukee Bucks and ULINE have formed a multi-year partnership that will place the ULINE logo on the front left shoulder of Bucks jerseys beginning in the 2026-27 NBA season.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch, front left shoulder; multi-year deal beginning 2026-27."
   },
   {
     "id": "minnesota-timberwolves-sezzle-patch",
@@ -12956,6 +13615,48 @@
       "url": "https://chiefmarketer.com/target-scores-naming-rights-for-minnesota-twins-ballpark"
     },
     "note": "Arena naming rights: Target Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2008-09-15."
+  },
+  {
+    "id": "minnesota-united-nutrisource-sleeve",
+    "clubId": "minnesota-united",
+    "orgName": null,
+    "sponsorId": "nutrisource",
+    "placement": "sleeve",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Minnesota United: 'Minnesota United Scores Historic First with NutriSource and Finley's as Jersey Sleeve Sponsors'",
+      "date": "2025-05-08",
+      "url": "https://www.mnufc.com/news/minnesota-united-scores-historic-first-with-nutrisource-and-finley-s-as-jersey-sleeve-sponsors",
+      "quote": "Minnesota United today introduced a groundbreaking, multi-year partnership with Minnesota-based NutriSource Pet Foods and Finley’s Pet Treats",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The page's publication date (2025-05-08) is from its datePublished metadata; the page body shows no date line. The club calls it a multi-year partnership but discloses no value or end date."
+    }
+  },
+  {
+    "id": "minnesota-united-target-front",
+    "clubId": "minnesota-united",
+    "orgName": null,
+    "sponsorId": "target",
+    "placement": "front",
+    "from": "2017",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Minnesota United: 'Target Becomes Official Partner And Kit Sponsor'",
+      "date": "2017-01-19",
+      "url": "https://www.mnufc.com/news/target-becomes-official-partner-and-kit-sponsor",
+      "quote": "Target is now the official partner and kit sponsor, joining MNUFC in a multi-year deal that will showcase the Target bullseye logo prominently on the 2017 kits.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The page's publication date (2017-01-19) is from its datePublished metadata; the page body shows no date line. Forbes (Jan 19, 2017) reported the same day that financial terms were not disclosed; no club-specific deal value has been found, so value stays null."
+    }
   },
   {
     "id": "minnesota-vikings-pepsi-patch",
@@ -13766,6 +14467,52 @@
     "note": "DR Congo state brand on the sleeve of the professional team. Foot Mercato: the contract was signed in June 2025 and is estimated at €4.8m over three years; the club announced the partnership on 24 June 2025 as running until 2028. The Monaco parquet général opened a preliminary inquiry into the partnership (March 2026)."
   },
   {
+    "id": "monza-dazn-bet-club-front",
+    "clubId": "monza",
+    "orgName": null,
+    "sponsorId": "dazn-bet-club",
+    "placement": "front",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "AC Monza - DAZN BET CLUB È IL NUOVO OFFICIAL SPONSOR (Internet Archive capture of the club announcement)",
+      "date": "2026-08-13",
+      "url": "https://web.archive.org/web/20260814050012/https://www.acmonza.com/it/news/DAZN-BET-Club-official-sponsor/",
+      "short": "AC Monza",
+      "quote": "AC Monza e DAZN Bet Club annunciano una nuova partnership che vedrà il brand diventare Official Sponsor sulla maglia del Club",
+      "note": "Club announcement of 13-08-2026. The front placement is in the DAZN Bet Club General Manager's quote on the same page: 'essere Official Sponsor con la presenza sul petto della maglia del club significa condividere questi valori' (presence on the chest of the shirt). The live club URL (https://www.acmonza.com/it/news/DAZN-BET-Club-official-sponsor) returned 404 on 2026-10-03, so the Internet Archive capture is cited. No deal value reported (Calcio e Finanza, 2026-08-13, https://www.calcioefinanza.it/2026/08/13/sponsor-maglia-monza-dazn-bet-club, gives none). English translation of the quote: 'AC Monza and DAZN Bet Club announce a new partnership that will see the brand become Official Sponsor on the Club's shirt'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "New front-of-shirt partnership announced 13 August 2026, for the 2026-27 season back in Serie A. It replaced Ford Pro as main sponsor; Calcio e Finanza (2026-08-13) reports that in 2025-26 Ford Pro was main sponsor with ZeroPlayer above it near the collar. Term and value not disclosed."
+  },
+  {
+    "id": "monza-zeroplayer-sleeve",
+    "clubId": "monza",
+    "orgName": null,
+    "sponsorId": "zeroplayer",
+    "placement": "sleeve",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "AC Monza - I nostri sponsors / Partners page (Internet Archive capture)",
+      "date": "2026-09-21",
+      "url": "https://web.archive.org/web/20260921113034/https://www.acmonza.com/it/partners/",
+      "short": "AC Monza",
+      "quote": "SLEEVE SPONSOR",
+      "note": "On the club's own partners page, the logo under the 'SLEEVE SPONSOR' heading links to zeroplayer.it (AC Monza shop page). The club shop's product photo of the 2026/27 home shirt (https://shop.acmonza.com/maglia-uomo-nike-ac-monza-home-20262027) shows the 'ZeroPlayer by 3R Sport' wordmark on the sleeve, with DAZN Bet Club on the chest and no back or shorts sponsor. In 2025-26 ZeroPlayer sat on the front of the shirt (Calcio e Finanza, 2026-08-13), so the sleeve placement belongs to the 2026-27 kit. Live acmonza.com pages returned 404 to this check on 2026-10-03, so the Internet Archive capture is cited.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "ZeroPlayer moved from a position on the front of the shirt (2025-26) to the sleeve for 2026-27. Contract start, length and value not disclosed; 'from' reflects the season in which the club documents the sleeve placement, not a stated contract date."
+  },
+  {
     "id": "motogp-bmw-m",
     "clubId": null,
     "orgName": "MotoGP",
@@ -13974,6 +14721,48 @@
     "note": "Back-of-Shirt Partner since 2024-25 (three-season deal announced 12 September 2024); value per Calcio Napoli 24 citing the 2026-27 shirt-revenue breakdown."
   },
   {
+    "id": "nashville-sc-hyundai-sleeve",
+    "clubId": "nashville-sc",
+    "orgName": null,
+    "sponsorId": "hyundai",
+    "placement": "sleeve",
+    "from": "2022",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Nashville SC: 'Nashville Soccer Club Inks Hyundai as its Sleeve Patch Partner And a Founding Partner'",
+      "date": "2021-11-18",
+      "url": "https://www.nashvillesc.com/news/nashville-soccer-club-inks-hyundai-as-its-sleeve-patch-partner-and-a-founding-pa",
+      "quote": "the club has reached a long-term partnership deal with Hyundai moving into the 2022 campaign",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Hyundai's logo had been on the sleeve in 2020 and 2021 on an interim basis; the November 2021 deal made it the permanent sleeve partner from 2022. End date and value were not disclosed."
+    }
+  },
+  {
+    "id": "nashville-sc-renasant-front",
+    "clubId": "nashville-sc",
+    "orgName": null,
+    "sponsorId": "renasant-bank",
+    "placement": "front",
+    "from": "2019",
+    "to": "2027",
+    "value": null,
+    "source": {
+      "name": "Nashville SC: 'Nashville Soccer Club and Renasant Agree to Contract Extension'",
+      "date": "2023-04-19",
+      "url": "https://www.nashvillesc.com/news/nashville-soccer-club-and-renasant-agree-to-contract-extension",
+      "quote": "their partnership extension through 2027, a four-year renewal. Nashville SC first signed Renasant Bank in 2019",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Renasant became the club's first jersey sponsor on 26 September 2019 (club announcement: https://www.nashvillesc.com/news/nashville-sc-signs-renasant-first-jersey-sponsor), on the shirt since the inaugural 2020 MLS season; the April 2023 extension runs through 2027. No deal value was disclosed."
+    }
+  },
+  {
     "id": "nba-google",
     "clubId": null,
     "orgName": "NBA",
@@ -14168,11 +14957,17 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Zoomph - NFL Practice Jersey Sponsor Guide (updated 2026-09-01)",
-      "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "name": "Quest Diagnostics Training Center - New York Giants (Giants.com)",
+      "date": "2026-10-01",
+      "url": "https://www.giants.com/quest/",
+      "quote": "has been a proud partner in health of the New York Giants since 2013",
+      "note": "Club page undated; date is the day the page was checked. Supports the partnership start year. The practice-jersey patch placement for the 2026 season is documented by Zoomph's NFL practice jersey sponsor guide (see kit new-york-giants-2026-27-home).",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch per Zoomph's 2026 NFL practice jersey guide; the club says the Quest partnership began in 2013. When the patch itself was added is not documented."
   },
   {
     "id": "new-york-jets-atlantic-health-patch",
@@ -14288,14 +15083,26 @@
     "sponsorId": "starr-insurance",
     "placement": "patch",
     "from": "2023",
-    "to": null,
-    "value": null,
-    "source": {
-      "name": "NJ.com",
-      "date": "2026-04-02",
-      "url": "https://nj.com/yankees/2026/04/yankees-say-alterative-uniforms-wont-kill-tradition-weve-got-a-patch-on-our-sleeves.html"
+    "to": "2031",
+    "value": {
+      "amount": 25,
+      "currency": "USD",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 25
     },
-    "note": "Jersey patch."
+    "source": {
+      "name": "Sportico",
+      "date": "2023-07-12",
+      "url": "https://www.sportico.com/business/sponsorship/2023/yankees-jersey-patch-mlb-richest-1234730428/",
+      "quote": "beginning with games on July 21 and running through the 2031 season. The deal is worth at least $25 million per year and up to $200 million overall",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Jersey patch, reported at least $25m per year and up to $200m overall, running through the 2031 season. The yearly figure is stored (amount 25, unit m, per year); the $200m overall ceiling is recorded in the note because the schema keeps one value."
   },
   {
     "id": "newcastle-knox",
@@ -14559,6 +15366,28 @@
     "note": "Renewed for the 2026-2029 cycle; the logo moves from the shorts to the shirt sleeve. A press report (information.tv5monde.com, 26 August 2026) mentions 'more than 5 million euros per year' but the page was unreachable (Access Denied), so the value stays null."
   },
   {
+    "id": "orlando-city-orlando-health-front",
+    "clubId": "orlando-city",
+    "orgName": null,
+    "sponsorId": "orlando-health",
+    "placement": "front",
+    "from": "2011",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "SportsBusiness Journal – 'Orlando Health puts name on two more jerseys'",
+      "short": "SBJ",
+      "date": "2015-12-13",
+      "url": "https://www.sportsbusinessjournal.com/Journal/Issues/2015/12/14/Franchises/Orlando-City-SC",
+      "quote": "Orlando Health was Orlando City’s first sponsor as an MLS expansion team this year and has been the club’s jersey sponsor since its USL debut in 2011.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Jersey partnership dating to the club's first 2011 season, renewed and expanded in December 2015 (through 2021 at the time), then renewed long-term in June 2021 (club announcement: 'Orlando City SC & Orlando Health Announce Long-Term Partnership Renewal, Training Ground Naming Rights', orlandocitysc.com, June 14, 2021, https://www.orlandocitysc.com/news/orlando-city-sc-orlando-health-announce-long-term-partnership-renewal-training — 'Orlando Health will continue to serve as the presenting partner and jersey partner of Orlando City SC'). The 2026 Sunken Treasure kit is presented by Orlando Health through the 2027-28 season. No club-specific value was disclosed: SBJ reported the club's VP declined financial details, and the article noted only that MLS jersey sponsorships are typically valued between $2 million and $4 million a year league-wide, so value is left null."
+  },
+  {
     "id": "orlando-magic-kia-america-stadium",
     "clubId": "orlando-magic",
     "orgName": "Kia America",
@@ -14775,15 +15604,20 @@
     "orgName": "Jefferson Health",
     "sponsorId": "jefferson-health",
     "placement": "training-kit",
-    "from": "2026",
+    "from": null,
     "to": null,
     "value": null,
     "source": {
-      "name": "Zoomph (2026 NFL practice jersey patch guide)",
-      "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "name": "Philadelphia Eagles (philadelphiaeagles.com) – Eagles announce expanded healthcare partnerships with Jefferson Health and Select Medical's NovaCare Rehabilitation",
+      "date": "2026-02-17",
+      "url": "https://www.philadelphiaeagles.com/news/eagles-announce-expanded-healthcare-partnerships-jefferson-health-novacare-rehabilitation",
+      "quote": "will continue to serve as the patch sponsor of the team's practice jerseys",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch; the club's 2026-02-17 release says Jefferson will continue in the role as part of multi-year extensions. The deal's start is not given there."
   },
   {
     "id": "philadelphia-eagles-lincoln-financial-group-stadium",
@@ -14792,14 +15626,19 @@
     "sponsorId": "lincoln-financial-group",
     "placement": "stadium",
     "from": null,
-    "to": null,
+    "to": "2032",
     "value": null,
     "source": {
-      "name": "Philadelphia Eagles",
+      "name": "Philadelphia Eagles (philadelphiaeagles.com) – Lincoln Financial Group and Philadelphia Eagles extend stadium naming rights through 2032 season",
       "date": "2019-05-09",
-      "url": "https://www.philadelphiaeagles.com/news/lincoln-financial-group-and-philadelphia-eagles-extend-stadium-naming-rights"
+      "url": "https://www.philadelphiaeagles.com/news/lincoln-financial-group-and-philadelphia-eagles-extend-stadium-naming-rights",
+      "quote": "extend the stadium naming rights for Lincoln Financial Field through the 2032 NFL season",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Lincoln Financial Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2019-05-09."
+    "note": "Arena naming rights: Lincoln Financial Field, through the 2032 NFL season. The release also says the partnership began in 2002; the deal's exact start date is not given."
   },
   {
     "id": "philadelphia-phillies-citizens-bank-stadium",
@@ -14851,6 +15690,48 @@
     "note": "Jersey patch."
   },
   {
+    "id": "philadelphia-union-bimbo-front",
+    "clubId": "philadelphia-union",
+    "orgName": null,
+    "sponsorId": "bimbo",
+    "placement": "front",
+    "from": "2024",
+    "to": "2028",
+    "value": null,
+    "source": {
+      "name": "Philadelphia Inquirer, 'Union and Bimbo Bakeries renew jersey sponsorship through 2028'",
+      "date": "2023-01-31",
+      "url": "https://www.inquirer.com/soccer/philadelphia-union-jersey-bimbo-bakeries-20230131.html",
+      "quote": "A relationship that started in 2011 will continue through 2028.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "note": "Fourth term (five further seasons) of a partnership running since 2011; Bimbo on primary kits, Thomas' (Bimbo Bakeries USA) on secondary kits. The club called the renewal 'multimillion-dollar' with no figure disclosed; the same report says earlier terms paid about $3m/season (2011-14) and $2.3m/season (2015-19)."
+  },
+  {
+    "id": "philadelphia-union-independence-blue-cross-sleeve",
+    "clubId": "philadelphia-union",
+    "orgName": null,
+    "sponsorId": "independence-blue-cross",
+    "placement": "sleeve",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Philadelphia Union, 'Philadelphia Union and Independence Blue Cross Renew Official Partnership with Landmark Sleeve Patch Deal'",
+      "date": "2024-02-12",
+      "url": "https://www.philadelphiaunion.com/news/philadelphia-union-independence-blue-cross-renew-partnership-sleeve-patch",
+      "quote": "under the renewal, IBX becomes the first official sleeve-patch partner for the Union",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "note": "Multiyear renewal of a partnership running since 2011; right sleeve of primary, secondary and specialty jerseys. Value not disclosed."
+  },
+  {
     "id": "philippine-open-bingoplus",
     "clubId": null,
     "orgName": "BingoPlus Philippine Open",
@@ -14874,12 +15755,39 @@
     "sponsorId": "paypal",
     "placement": "patch",
     "from": "2018",
+    "to": "2026",
+    "value": null,
+    "source": {
+      "name": "Arizona Sports (KTAR): Phoenix Suns partner with Paze as team's new jersey sponsor",
+      "date": "2026-09-28",
+      "url": "https://arizonasports.com/nba/phoenix-suns/phoenix-suns-paze-jersey-sponsor",
+      "quote": "The Suns’ previous jersey patch sponsor was PayPal, whose logo had been stitched on the team’s jerseys every season since 2018.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "endedOn": "2026-09",
+    "note": "Jersey patch. Succeeded by Paze from the 2026-27 season."
+  },
+  {
+    "id": "phoenix-suns-paze-patch",
+    "clubId": "phoenix-suns",
+    "orgName": "Paze (Early Warning Services)",
+    "sponsorId": "paze",
+    "placement": "patch",
+    "from": "2026",
     "to": null,
     "value": null,
     "source": {
-      "name": "Zoomph (2026/27 NBA jersey patch guide)",
-      "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/nba-jersey-patch-sponsors-this-season/"
+      "name": "PR Newswire / Early Warning Services, LLC: Phoenix Suns and Arizona-based Early Warning Services announce multi-year agreement to feature Paze on all Suns jerseys",
+      "date": "2026-09-28",
+      "url": "https://www.prnewswire.com/news-releases/phoenix-suns-and-arizona-based-early-warning-services-announce-multi-year-agreement-to-feature-paze-on-all-suns-jerseys-succeeding-paypal-as-the-teams-official-jersey-partner-302890739.html",
+      "quote": "Paze will succeed PayPal as the team's Official Jersey Patch Partner. Beginning with the 2026-27 NBA season, the multi-year partnership will bring the Paze logo to the upper left side of all Suns uniforms.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "note": "Jersey patch."
   },
@@ -14955,15 +15863,21 @@
     "orgName": "PNC Bank (PNC Financial Services)",
     "sponsorId": "pnc-bank",
     "placement": "stadium",
-    "from": null,
+    "from": "2001",
     "to": null,
     "value": null,
     "source": {
-      "name": "Pittsburgh Pirates / MLB.com press release",
+      "name": "MLB.com / Pittsburgh Pirates press release: Pirates and PNC Bank announce ballpark naming rights extension",
       "date": "2021-03-04",
-      "url": "https://www.mlb.com/press-release/press-release-pirates-pnc-bank-ballpark-rights-extension"
+      "url": "http://web.archive.org/web/20220125192044/https://www.mlb.com/press-release/press-release-pirates-pnc-bank-ballpark-rights-extension",
+      "note": "Club press release, read via the Wayback Machine capture of 2022-01-25 because the live mlb.com page blocks scripts. Ten-year extension of the PNC Park naming rights.",
+      "quote": "The Pittsburgh Pirates and PNC Bank today announced a 10-year extension to their current agreement, the centerpiece of which is the continued naming rights of PNC Park.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: PNC Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2021-03-04."
+    "note": "Ballpark naming rights: PNC Park. The release says the original 20-year naming-rights agreement was set to expire prior to the 2021 season and that PNC Park opened on April 9, 2001, so the naming rights began in 2001; this 2021 release announces a 10-year extension, and the value was not disclosed."
   },
   {
     "id": "pittsburgh-pirates-sheetz-patch",
@@ -14975,11 +15889,17 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Pittsburgh Pirates / MLB.com press release",
+      "name": "MLB.com press release: Pittsburgh Pirates and Sheetz announce jersey patch partnership (archived)",
       "date": "2024-06-21",
-      "url": "https://www.mlb.com/press-release/press-release-pittsburgh-pirates-and-sheetz-announce-jersey-patch-partnership"
+      "url": "http://web.archive.org/web/20240712152458/https://www.mlb.com/press-release/press-release-pittsburgh-pirates-and-sheetz-announce-jersey-patch-partnership",
+      "note": "Club press release, read via the Wayback Machine capture of 2024-07-12 because the live mlb.com page blocks scripts. The page is dated June 21st, 2024.",
+      "quote": "The Pittsburgh Pirates and Sheetz today announced a multi-year partnership in which the ultimate one-stop shop convenience chain will serve as the club’s first jersey patch partner.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch on the sleeves of the home and away jerseys; the club's first jersey patch partner."
   },
   {
     "id": "pittsburgh-steelers-acrisure-stadium",
@@ -15735,6 +16655,28 @@
       "url": "https://www.sportspro.com/news/sponsorship-marketing/real-madrid-emirates-record-sponsorship-june-2026/"
     },
     "note": "Renewed 10 Jun 2026, a European record."
+  },
+  {
+    "id": "real-salt-lake-intermountain-health",
+    "clubId": "real-salt-lake",
+    "orgName": null,
+    "sponsorId": "intermountain-health",
+    "placement": "front",
+    "from": "2024-02",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Sportico – 'Real Salt Lake, Utah Royals Sign Jersey Deal With Intermountain'",
+      "date": "2024-02-14",
+      "url": "https://www.sportico.com/business/sponsorship/2024/real-salt-lake-utah-royals-jersey-sponsorship-1234766757/",
+      "short": "Sportico",
+      "quote": "The seven-year agreement has an average annual value in the mid-seven figures.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "note": "Seven-year partnership announced 14 February 2024 spanning Real Salt Lake and NWSL Utah Royals: RSL jersey front (Select Health brand in 2024, Intermountain Health brand from 2025), Intermountain sleeve, and official medical provider. Sportico reports an average annual value in the mid-seven figures; SportsPro cited Sportico for 'roughly US$75 million, or between US$9 million and US$10 million annually', which Sportico's updated story no longer supports — no exact figure recorded."
   },
   {
     "id": "real-sociedad-baghdadi-capital",
@@ -16505,6 +17447,50 @@
     "note": "Jersey patch."
   },
   {
+    "id": "san-diego-fc-adrianas-insurance-sleeve",
+    "clubId": "san-diego-fc",
+    "orgName": "Adriana's Insurance",
+    "sponsorId": "adrianas-insurance",
+    "placement": "sleeve",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "San Diego FC – 'Adriana’s Insurance Joins San Diego FC as Official Jersey Sleeve Partner and Founding Partner'",
+      "date": "2025-11-09",
+      "url": "https://www.sandiegofc.com/news/adriana-s-insurance-joins-san-diego-fc-as-official-jersey-sleeve-partner-and-founding-partner",
+      "quote": "San Diego FC (SDFC) today announced Adriana’s Insurance as the Club’s Official Jersey Sleeve Partner, marking the first-ever sleeve partnership in Club history",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Right sleeve of primary and secondary jerseys; logo on retail jerseys from announcement day (Nov 2025). No value reported."
+    },
+    "note": "First-ever sleeve partnership in club history; multi-year. No reported value."
+  },
+  {
+    "id": "san-diego-fc-directv",
+    "clubId": "san-diego-fc",
+    "orgName": "DIRECTV",
+    "sponsorId": "directv",
+    "placement": "front",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "KPBS (Associated Press) – 'DirecTV signs multiyear deal to become jersey partner of San Diego FC'",
+      "date": "2024-07-18",
+      "url": "https://www.kpbs.org/news/living/2024/07/18/directv-signs-multiyear-deal-become-jersey-partner-san-diego-fc",
+      "quote": "DirecTV has signed a multiyear deal to become the jersey partner of the San Diego FC, its first foray into kit sponsorship in MLS",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Reports the deal; no value reported. Front of primary and secondary jerseys from the 2025 inaugural season; confirmed again for 2026 by the club's kit launch."
+    },
+    "note": "Front-of-kit ('Official Jersey Partner'), multi-year from July 2024. No reported value."
+  },
+  {
     "id": "san-diego-padres-motorola-patch",
     "clubId": "san-diego-padres",
     "orgName": "Motorola",
@@ -16596,11 +17582,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "MLB.com press release (San Francisco Giants)",
+      "name": "Airwallex Newsroom: Airwallex Becomes the Giants' Official Jersey Patch Partner",
       "date": "2026-02-18",
-      "url": "https://www.mlb.com/press-release/press-release-airwallex-becomes-the-giants-official-jersey-patch-partner"
+      "url": "https://www.airwallex.com/global/newsroom/airwallex-becomes-the-giants-official-jersey-patch",
+      "quote": "Airwallex will become the Giants' official jersey patch partner, debuting across Giants uniforms this season.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. Multi-year deal announced 2026-02-18; the announcement gives no financial terms."
   },
   {
     "id": "san-francisco-giants-oracle-stadium",
@@ -16608,15 +17599,49 @@
     "orgName": "Oracle",
     "sponsorId": "oracle",
     "placement": "stadium",
-    "from": null,
-    "to": null,
+    "from": "2019",
+    "to": "2038",
     "value": null,
     "source": {
-      "name": "Oracle Blogs",
+      "name": "Oracle Blogs: San Francisco Giants and Oracle Announce Oracle Park (Wayback Machine archive)",
       "date": "2019-01-10",
-      "url": "https://blogs.oracle.com/san-francisco-giants-and-oracle-announce-oracle-park"
+      "url": "https://web.archive.org/web/20210919115042/https://blogs.oracle.com/san-francisco-giants-and-oracle-announce-oracle-park",
+      "quote": "Oracle won the naming rights to the bayfront ballpark through 2038.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Oracle Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2019-01-10."
+    "note": "Oracle Park naming rights. Announced 2019-01-10; the announcement says the rights run through 2038. The live Oracle blog page returns 403 to scripts, so the archived copy is cited."
+  },
+  {
+    "id": "sassuolo-mapei-front",
+    "clubId": "sassuolo",
+    "orgName": null,
+    "sponsorId": "mapei",
+    "placement": "front",
+    "from": null,
+    "to": null,
+    "value": {
+      "amount": 18,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": null
+    },
+    "source": {
+      "name": "Calcio e Finanza: I ricavi da sponsor di maglia in Serie A: il Napoli vola al quinto posto, Milan in vetta",
+      "date": "2026-07-07",
+      "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/",
+      "quote": "5 – Sassuolo – Mapei: 18 milioni di euro a stagione",
+      "note": "Translation: '5 – Sassuolo – Mapei: 18 million euros per season'. Press estimate of 2026-27 main shirt-sponsorship revenue. The same article notes Mapei is a 'related party': it is owned by the Squinzi family, which runs the club.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "note": "Reported value of the Mapei front-of-shirt deal for 2026-27. The article counts Mapei among the 'parti correlate' (related parties): it is owned by the Squinzi family, which runs the club, so this is a related-party arrangement rather than a market deal."
   },
   {
     "id": "saudi-pro-league-address-coffee",
@@ -17053,15 +18078,21 @@
     "orgName": "Nintendo (Nintendo of America)",
     "sponsorId": "nintendo",
     "placement": "patch",
-    "from": "2026",
+    "from": "2025",
     "to": null,
     "value": null,
     "source": {
-      "name": "Seattle Mariners (MLB.com)",
-      "date": "2026-03-27",
-      "url": "https://mariners.com/Nintendo"
+      "name": "MLB.com press release (archived): Seattle Mariners expand relationship with Nintendo with team's first-ever jersey sleeve partnership",
+      "date": "2025-03-20",
+      "url": "http://web.archive.org/web/20260312015727/https://www.mlb.com/press-release/press-release-seattle-mariners-expand-relationship-with-nintendo-with-team-s-first-ever-jersey-sleeve-partnership",
+      "quote": "The mark will debut on the Mariners jerseys on Opening Day, March 27 vs. the A's at T-Mobile Park.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Deal announced 2025-03-20 and debuted Opening Day 2025-03-27. Sports Business Journal (2025-03-20) reports 'a long-term pact worth seven figures annually' but gives no exact figure, so value stays null. Continues in 2026 per Blinkfire's 2026 list."
     },
-    "note": "Jersey patch."
+    "note": "Jersey sleeve patch. Start corrected from 2026 to 2025, the season it debuted."
   },
   {
     "id": "seattle-mariners-t-mobile-stadium",
@@ -17075,7 +18106,12 @@
     "source": {
       "name": "MLB.com press release",
       "date": "2018-12-19",
-      "url": "https://www.mlb.com/press-release/t-mobile-and-seattle-mariners-team-up-to-present-t-mobile-park-302014586"
+      "url": "https://www.mlb.com/press-release/t-mobile-and-seattle-mariners-team-up-to-present-t-mobile-park-302014586",
+      "quote": "The Seattle Mariners and T-Mobile (NASDAQ: TMUS) today announced that the home field of the Mariners will be known as T-Mobile Park for the next 25 years.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Arena naming rights: T-Mobile Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2018-12-19."
   },
@@ -17085,15 +18121,20 @@
     "orgName": "Amazon Web Services (AWS)",
     "sponsorId": "aws",
     "placement": "training-kit",
-    "from": "2024",
+    "from": null,
     "to": null,
     "value": null,
     "source": {
-      "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
-      "date": "2026-09-01",
-      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      "name": "Zoomph: The Ultimate Guide To NFL Practice Jersey Sponsors",
+      "date": "2025-11-03",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
+      "quote": "Seattle Seahawks: AWS",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch. Start year unknown: the guide lists AWS as the Seahawks' practice-jersey patch sponsor for the 2026 season (the Seahawks and AWS have partnered since 2019 on cloud services, per seahawks.com, 2019-11-25) but no source gives when the patch began."
   },
   {
     "id": "seattle-seahawks-lumen-technologies-stadium",
@@ -17101,15 +18142,20 @@
     "orgName": "Lumen Technologies",
     "sponsorId": "lumen-technologies",
     "placement": "stadium",
-    "from": null,
-    "to": null,
+    "from": "2020-11",
+    "to": "2033",
     "value": null,
     "source": {
-      "name": "Seattle Seahawks",
+      "name": "Seattle Seahawks: 'CenturyLink Field To Become Lumen Field'",
       "date": "2020-11-19",
-      "url": "https://www.seahawks.com/news/centurylink-field-to-become-lumen-field"
+      "url": "https://www.seahawks.com/news/centurylink-field-to-become-lumen-field",
+      "quote": "the Seahawks and Lumen announced today that the Seattle stadium will be renamed Lumen Field",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Lumen Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2020-11-19."
+    "note": "Stadium naming rights: Lumen Field. The Lumen name took effect with the 2020-11-19 announcement, under the stadium's existing naming-rights agreement; the same article says a 2017 agreement extended the naming rights through the 2033 season, so 'to' is 2033."
   },
   {
     "id": "serie-a-enilive",
@@ -17242,9 +18288,15 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "KSDK / Fortune (Anheuser-Busch-Cardinals release)",
+      "name": "MLB.com press release (Cardinals & Anheuser-Busch)",
       "date": "2023-12-13",
-      "url": "https://www.ksdk.com/article/sports/mlb/stl-cardinals/cardinals-anheuser-busch-marketing-extension-stadium-naming-rights/63-238738c1-e192-4c1d-b84e-c384429e04e8"
+      "url": "https://www.mlb.com/press-release/press-release-cardinals-anheuser-busch-extend-longstanding-iconic-hometown-partn",
+      "note": "Re-pointed from the KSDK/AP copy (403s to scripts) to the club's own release on MLB.com, same announcement, same date.",
+      "quote": "the two historic St. Louis institutions have agreed to a five-year extension of their long-term marketing agreement through 2030",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "BigBossRabbit"
+      }
     },
     "note": "Arena naming rights: Busch Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-12-13."
   },
@@ -17258,11 +18310,59 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "MLB.com press release",
+      "name": "MLB.com press release – Cardinals announce Stifel as club's first jersey patch sponsor",
       "date": "2023-05-02",
-      "url": "https://mlb.com/press-release/press-release-cardinals-announce-stifel-as-club-s-first-jersey-patch-sponsor"
+      "url": "https://mlb.com/press-release/press-release-cardinals-announce-stifel-as-club-s-first-jersey-patch-sponsor",
+      "note": "The club's own announcement of a seven-year agreement starting with the 2023 season. 'to' left null: the term is stated but no reported end year is given. The live page blocks scripted access (403); the quote was verified on the Wayback Machine capture of 7 March 2026.",
+      "quote": "The St. Louis Cardinals today announced that St. Louis-based financial institution Stifel will serve as the club's first-ever official jersey patch partner.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch, worn on the sleeve."
+  },
+  {
+    "id": "sunderland-hummel",
+    "clubId": "sunderland",
+    "orgName": null,
+    "sponsorId": "hummel",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Sunderland AFC – 'SAFC and hummel extend partnership'",
+      "date": "2026-04-23",
+      "url": "https://www.safc.com/news/2026/april/23/safc-and-hummel-extend-partnership-/",
+      "quote": "Sunderland AFC is delighted to announce a new multi-year extension of its partnership with hummel.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Multi-year kit-supplier extension announced in April 2026; hummel has been the club's kit maker since 2024. End date and value not disclosed."
+  },
+  {
+    "id": "sunderland-shuffle-sleeve",
+    "clubId": "sunderland",
+    "orgName": null,
+    "sponsorId": "shuffle",
+    "placement": "sleeve",
+    "from": "2026-09",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Sunderland AFC – 'Sunderland AFC and Shuffle join forces in new global sleeve partnership'",
+      "date": "2026-09-11",
+      "url": "https://www.safc.com/news/2026/september/11/sunderland-afc-and-shuffle-join-forces-in-new-global-sleeve-partnership/",
+      "quote": "Sunderland AFC is delighted to announce Shuffle as the Club’s new Official Sleeve Partner in a multi-year partnership.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Multi-year sleeve deal announced 11 September 2026; the Shuffle logo debuted on the first-team shirts in the home match against Arsenal on 12 September 2026. Covers the Premier League, FA Cup, League Cup and Europa League. Value not disclosed."
   },
   {
     "id": "supercopa-istanbul-host",
