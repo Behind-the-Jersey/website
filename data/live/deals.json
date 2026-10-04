@@ -487,6 +487,28 @@
     "note": "Club owner (or part-owner)."
   },
   {
+    "id": "al-quwa-al-jawiya-kelme",
+    "clubId": "al-quwa-al-jawiya",
+    "orgName": "Kelme",
+    "sponsorId": "kelme",
+    "placement": "partner",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Nakhel News (palms-news.com): نادي القوة الجوية يوقع مع شركة \"kelme\" الإسبانية للتجهيزات الرياضية (Al-Quwa Al-Jawiya signs with Spanish sportswear company Kelme)",
+      "date": "2024-07-06",
+      "url": "https://www.palms-news.com/n7485",
+      "quote": "وقعت إدارة نادي القوة الجوية الرياضي، اليوم السبت السادس من تموز عقداً مع شركة kelme الإسبانية للتجهيزات الرياضية، وذلك لتجهيز جميع فرق النادي",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Quote: 'Al-Quwa Al-Jawiya Sports Club's administration signed a contract on Saturday the sixth of July with the Spanish sportswear company Kelme, to equip all of the club's teams.' The same article says Kelme would provide the first team's kit free of charge for the coming Stars League season. The 2026-27 kits are again made by Kelme (Footy Headlines, 2026-08-14)."
+    },
+    "note": "Kit-supply deal (all club teams) from July 2024, still the kit maker for 2026-27. No value reported."
+  },
+  {
     "id": "alpine-3d-systems",
     "clubId": "alpine",
     "orgName": null,
@@ -1659,12 +1681,17 @@
       "usdApprox": 93
     },
     "source": {
-      "name": "Sporting Goods Intelligence (citing SportsPro estimate)",
+      "name": "SportsPro: Arsenal's 'UK£70m' extension with Emirates continues England's most enduring stadium naming rights partnership",
       "date": "2026-08-06",
-      "url": "https://www.sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article",
-      "short": "SportsPro"
+      "url": "https://www.sportspro.com/sponsorship-marketing/arsenal-emirates-stadium-renewal-70-million-shirt-august-2026/",
+      "short": "SportsPro",
+      "quote": "Arsenal and Emirates have agreed a five-year extension to their long-running sponsorship agreement, believed to be worth up to UK£70 million a season.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Renewal announced 6 Aug 2026 (Inside World Football). Estimate; Footy Headlines suggests £65m for 2026/27–2027/28 then £75m."
+    "note": "Renewal announced 6 Aug 2026 (Inside World Football; SportsPro). SportsPro: five-year extension to 2033, also covers the women's and youth teams; previous deal understood to be worth up to £50m a year. Estimate; Footy Headlines suggests £65m for 2026/27–2027/28 then £75m. Previously cited: Sporting Goods Intelligence (2026-08-06, https://www.sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article), not re-checked in this edit."
   },
   {
     "id": "arsenal-visit-rwanda",
@@ -2737,6 +2764,28 @@
     "leagueId": "la-liga"
   },
   {
+    "id": "atletico-de-madrid-riyadh-air-stadium",
+    "clubId": "atletico-de-madrid",
+    "orgName": null,
+    "sponsorId": "riyadh-air",
+    "placement": "stadium",
+    "from": "2024-25",
+    "to": "2032-33",
+    "value": null,
+    "source": {
+      "name": "Sportcal (GlobalData): Deal Focus: Atletico-Riyadh Air deal deepens Saudi's LaLiga involvement",
+      "date": "2024-10-22",
+      "url": "http://web.archive.org/web/20260417062804/https://www.sportcal.com/features/deal-focus-atletico-riyadh-air-deal-deepens-saudis-laliga-involvement/",
+      "quote": "The long-term deal will run through the end of the 2032-33 season and will see the 70,460-capacity stadium renamed the Riyadh Air Metropolitano.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Archived copy (Wayback Machine, captured 2026-04-17) of https://www.sportcal.com/features/deal-focus-atletico-riyadh-air-deal-deepens-saudis-laliga-involvement/ — the live page 403s scripted fetchers. Both copies checked 2026-10-03 and identical. Sportcal also states the deal was unveiled in October 2024, that Civitas had been the stadium's naming-rights partner for the previous two seasons, and that Spanish reports value the Riyadh Air deal at €250m-€300m in total (€27.7m-€33.3m a year)."
+    },
+    "note": "Stadium naming rights: Riyadh Air Metropolitano, announced October 2024. SportsPro (2024-10-09, https://www.sportspro.com/news/atletico-madrid-riyadh-air-stadium-naming-rights-metropolitano-laliga/) reports a nine-year deal worth a reported €250m-€300m, with the first match under the new name on 20 October 2024 against Leganes. Riyadh Air's own sponsorship page (opened via Wayback Machine, captured 2026-04-12, https://web.archive.org/web/20260412061801/https://www.riyadhair.com/en/about-us/our-story/sponsorships/atletico-de-madrid) describes the 'multi-year agreement, becoming the naming partner for one of Europe's most modern and iconic stadiums'. Sportcal also states Riyadh Air has been the front-of-shirt sponsor since August 2023 and that PIF 'wholly funds' Riyadh Air."
+  },
+  {
     "id": "atletico-kraken",
     "clubId": "atletico-de-madrid",
     "orgName": null,
@@ -2753,22 +2802,28 @@
     "orgName": null,
     "sponsorId": "riyadh-air",
     "placement": "front",
-    "from": "2025-26",
-    "to": "2034-35",
+    "from": "2023-24",
+    "to": "2026-27",
     "value": {
       "amount": 40,
       "currency": "EUR",
       "unit": "m",
       "per": "year",
       "upTo": false,
-      "usdApprox": 46
+      "usdApprox": 43.9
     },
     "source": {
-      "name": "SportsPro",
-      "date": "2025-04",
-      "url": "https://www.sportspro.com/news/atletico-madrid-riyadh-air-saudi-new-shirt-sponsor/"
+      "name": "SportsPro: Atletico Madrid net '€40m per season' Riyadh Air shirt sponsorship",
+      "date": "2023-08-11",
+      "url": "https://www.sportspro.com/news/atletico-madrid-riyadh-air-saudi-new-shirt-sponsor/",
+      "quote": "2Playbook reports the deal is worth €40 million (US$43.9 million) per season and will run through the 2026/27 campaign",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "SportsPro also states Riyadh Air's logo debuted on Atlético's kits in the 2023/24 LaLiga opener against Granada on 14 August 2023."
     },
-    "note": "Reported €40m per season, until 2035."
+    "note": "Reported €40m per season (2Playbook via SportsPro), front of shirt from the 2023/24 season through 2026/27. A previous version of this record said from 2025-26 until 2034-35 (dated 2025-04); no openable source for those dates was found, so the record now follows its cited source. Separate naming-rights deal: Riyadh Air Metropolitano, announced October 2024, runs to 2033 (see atletico-de-madrid-riyadh-air-stadium)."
   },
   {
     "id": "atletico-visit-rwanda",
@@ -6167,6 +6222,28 @@
       "note": "Diriyah Gate invested in Diriyah Club."
     },
     "note": "Club owner (or part-owner)."
+  },
+  {
+    "id": "diriyah-saudi-post",
+    "clubId": "diriyah",
+    "orgName": null,
+    "sponsorId": "saudi-post-spl",
+    "placement": "partner",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Saudi Post | SPL – SPL Becomes Al-Diriyah Club's Logistics Partner",
+      "date": "2026-08-18",
+      "url": "https://splonline.com.sa/en/media-center/news/18082026",
+      "quote": "SPL and Al-Diriyah Sports Club Company, a subsidiary of Diriyah Company, have signed a three-season partnership agreement",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Club's own news page (diriyahclub.sa/en) carries the same announcement, titled 'SPL, Official Logistics Partner of Diriyah Club'. No shirt placement stated; recorded as a partner deal."
+    },
+    "note": "Signed 18 Aug 2026, described as running over the next three seasons; no deal value published."
   },
   {
     "id": "dp-world-absa-group",
@@ -11787,6 +11864,28 @@
     }
   },
   {
+    "id": "liv-new-era",
+    "clubId": null,
+    "orgName": "LIV Golf",
+    "sponsorId": "new-era",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "leagueId": "liv-golf",
+    "source": {
+      "name": "LIV Golf - Our Partners (New Era, Official Suppliers)",
+      "date": "2026",
+      "url": "https://www.livgolf.com/partners",
+      "quote": "New Era is a supplier partner and the Official Cap of LIV Golf and it's 13 teams",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Deal start date not stated on the page; left null. Page undated; opened 2026-10-03."
+    }
+  },
+  {
     "id": "liv-riyadh-air",
     "clubId": null,
     "orgName": "LIV Golf League",
@@ -14637,6 +14736,48 @@
     "note": "Back-of-shirt deal with Microsoft Surface covering the women's league campaign from 2026/27."
   },
   {
+    "id": "nairobi-city-thunder-im-bank",
+    "clubId": "nairobi-city-thunder",
+    "orgName": null,
+    "sponsorId": "im-bank",
+    "placement": "back",
+    "from": "2026-05",
+    "to": "2026-09",
+    "value": null,
+    "source": {
+      "name": "Pulse Sports Kenya: Nairobi City Thunder Secure KSh 10 Million Sponsorship Boost Ahead of 2026 Season",
+      "date": "2026-06-17",
+      "url": "https://www.pulsesports.co.ke/story/nairobi-city-thunder-secure-ksh-10-million-sponsorship-boost-ahead-of-2026-season-2026061715322287260",
+      "quote": "announcing a KES 10 million investment aimed at strengthening the club’s operations and supporting its long-term growth",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Reported KES 10 million; runs 25 May to September 2026 with an automatic extension should the campaign continue. Value left null: the deal schema records GBP/EUR/USD only."
+  },
+  {
+    "id": "nairobi-city-thunder-send-app",
+    "clubId": "nairobi-city-thunder",
+    "orgName": null,
+    "sponsorId": "send-app",
+    "placement": "front",
+    "from": "2026",
+    "to": "2027",
+    "value": null,
+    "source": {
+      "name": "Capital Sport (capitalfm.co.ke): Nairobi City Thunder Name Send App as Main Sponsor Ahead of Saturday Season Opener",
+      "date": "2026-02-09",
+      "url": "https://www.capitalfm.co.ke/sports/2026/02/09/nairobi-city-thunder-name-send-app-as-main-sponsor-ahead-of-saturday-season-opener/",
+      "quote": "Send App, a cross-border remittance and payments platform by Flutterwave, as the club’s front-of-shirt sponsor on a two-season deal, starting with the 2026 campaign",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Two-season front-of-shirt deal beginning with the 2026 campaign; no deal value reported."
+  },
+  {
     "id": "napoli-dongfeng-sleeve",
     "clubId": "napoli",
     "orgName": null,
@@ -15236,6 +15377,28 @@
       "url": "https://en.wikipedia.org/wiki/National_Football_League"
     },
     "note": "Pepsi Zero Sugar NFL Rookie of the Week / Pepsi Rookie of the Year are Pepsi-sponsored league awards. Lead only - a named press source still needed."
+  },
+  {
+    "id": "nfl-us-bank-official-bank-sponsor",
+    "clubId": null,
+    "orgName": "NFL",
+    "sponsorId": "us-bank",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "U.S. Bancorp - NFL and U.S. Bank Announce Partnership Centered on Banking and Wealth Management",
+      "date": "2026-04-07",
+      "url": "https://ir.usbank.com/news-events/news/news-details/2026/NFL-and-U-S--Bank-Announce-Partnership-Centered-on-Banking-and-Wealth-Management/default.aspx",
+      "quote": "The National Football League and U.S. Bank announced today a multi-year partnership, naming U.S. Bank as a new official bank and wealth management sponsor of the NFL.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "leagueId": "nfl",
+    "note": "Multi-year league partnership from 2026: U.S. Bank is presenting sponsor of the Super Bowl MVP Award (from Super Bowl LXI) and a top-tier sponsor of the NFL FLAG Championships. The 49ers' own U.S. Bank deals are separate records."
   },
   {
     "id": "nottingham-forest-marex",
@@ -17546,15 +17709,27 @@
     "orgName": "Levi Strauss & Co. (Levi's)",
     "sponsorId": "levi-strauss-and-co",
     "placement": "stadium",
-    "from": null,
-    "to": null,
-    "value": null,
-    "source": {
-      "name": "Levi Strauss & Co.",
-      "date": "2024-01-25",
-      "url": "https://levistrauss.com/2024/01/25/lsco-extends-levis-stadium-naming-rights-and-49ers-partnership"
+    "from": "2013",
+    "to": "2043",
+    "value": {
+      "amount": 170,
+      "currency": "USD",
+      "unit": "million",
+      "per": "10-year extension, naming rights and team sponsorship combined",
+      "upTo": false,
+      "usdApprox": 170000000
     },
-    "note": "Arena naming rights: Levi's Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2024-01-25."
+    "source": {
+      "name": "Levi Strauss & Co. - LS&Co. Extends Levi's Stadium Naming Rights and 49ers Partnership",
+      "date": "2024-01-25",
+      "url": "https://levistrauss.com/2024/01/25/lsco-extends-levis-stadium-naming-rights-and-49ers-partnership",
+      "quote": "announced the proposal for a 10-year extension to the naming rights for Levi’s® Stadium and team sponsorship, worth a combined $170 million",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Stadium naming rights: Levi's Stadium. LS&Co. secured the naming rights in 2013; the January 2024 proposal extends them through the 2043 NFL season. The $170 million is the reported value of the 10-year extension (naming rights plus team sponsorship combined), not of the whole 2013-2043 relationship."
   },
   {
     "id": "san-francisco-49ers-us-bank-patch",
@@ -17566,11 +17741,16 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Sports Business Journal",
-      "date": "2026-09-10",
-      "url": "https://www.sportsbusinessjournal.com/Articles/2026/09/10/health-care-providers-financial-companies-dominate-nfl-jersey-patches/"
+      "name": "San Francisco 49ers - San Francisco 49ers and U.S. Bank Announce Multiyear Partnership Extension",
+      "date": "2026-08-12",
+      "url": "https://www.49ers.com/news/san-francisco-49ers-and-u-s-bank-announce-multiyear-partnership-extension",
+      "quote": "The new multiyear deal strengthens the 49ers-U.S. Bank relationship, which began in 2014, and adds a new practice jersey patch.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Practice-jersey patch."
+    "note": "Practice-jersey patch. Announced 2026-08-12; also confirmed by Sports Business Journal, 2026-09-10 (https://www.sportsbusinessjournal.com/Articles/2026/09/10/health-care-providers-financial-companies-dominate-nfl-jersey-patches/): \"U.S. Bank, a commercial partner of the 49ers since 2014, is now on the team's jersey. The club had no sponsor last season.\""
   },
   {
     "id": "san-francisco-giants-airwallex-patch",
@@ -18967,6 +19147,101 @@
     "note": "Arena naming rights: Globe Life Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2017-08-24."
   },
   {
+    "id": "torino-bet365-scores-front",
+    "clubId": "torino",
+    "orgName": null,
+    "sponsorId": "bet365-scores",
+    "placement": "front",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Torino FC, 'bet365 Scores è il nuovo Second Main Partner del Torino'",
+      "date": "2025-08-17",
+      "url": "https://www.torinofc.it/news/17/08/2025/bet365-scores-e-il-nuovo-second-main-partner-del-torino_37236",
+      "quote": "bet365 Scores, l’app leader nell’offrire risultati e statistiche in tempo reale agli amanti del calcio, sarà il nuovo Second Main Partner del Club.",
+      "note": "Deal value not disclosed. The same announcement places the brand's logo on the front of the shirt; the club's kit launch of 3 July 2026 confirms bet365 Scores continues as Second Main Partner in 2026/27.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "bet365 Scores is the live-scores app brand used in Italy where direct betting sponsorship is restricted; the owner chain runs through bet365 Group (Coates family)."
+  },
+  {
+    "id": "torino-edilizia-acrobatica-back",
+    "clubId": "torino",
+    "orgName": null,
+    "sponsorId": "edilizia-acrobatica",
+    "placement": "back",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Torino FC, 'MAGLIA HOME 2026/27: È QUESTIONE DI CASA'",
+      "date": "2026-07-03",
+      "url": "https://www.torinofc.it/news/03/07/2026/maglia-home-202627-e-questione-di-casa_43644",
+      "quote": "Acrobatica rinnova la propria presenza come Back Partner.",
+      "note": "Translation: 'Acrobatica renews its presence as Back Partner.' Deal value not disclosed; the start year of the back-of-shirt deal is not stated on the page. CEO Anna Marras, quoted in the club's 22 August 2026 announcement, speaks of a collaboration consolidated 'dopo anni' (after years).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Renewed for 2026/27; the club's partner page lists Edilizia Acrobatica as Back Partner."
+  },
+  {
+    "id": "torino-fratelli-beretta-sleeve",
+    "clubId": "torino",
+    "orgName": null,
+    "sponsorId": "fratelli-beretta",
+    "placement": "sleeve",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Torino FC, 'Beretta è Sleeve Partner della Prima squadra'",
+      "date": "2026-08-22",
+      "url": "https://www.torinofc.it/news/22/08/2026/beretta-e-sleeve-partner-della-prima-squadra_44511",
+      "quote": "siamo felici di accogliere ancora una volta Salumificio Fratelli Beretta al nostro fianco come Sleeve Partner per la stagione 2026/27",
+      "note": "Translation: 'we are happy to welcome Salumificio Fratelli Beretta once again at our side as Sleeve Partner for the 2026/27 season.' Deal value not disclosed. Beretta was Torino's Second Main Partner in 2024/25 (club third-kit announcement, 2 October 2024: 'Fratelli Beretta as Second Main Partner... JD as Sleeve Partner') and JD Sports was the Sleeve Partner in 2025/26 (club announcement quoted by Economia e Sport, 4 July 2025), so the sleeve placement starts with the 2026-27 season.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "The club's announcement quotes president Vittore Beretta: 'Siamo orgogliosi di ritornare sulla maglia della Prima Squadra del Toro' ('We are proud to return to the shirt of the Toro first team')."
+  },
+  {
+    "id": "torino-suzuki-front",
+    "clubId": "torino",
+    "orgName": null,
+    "sponsorId": "suzuki",
+    "placement": "front",
+    "from": "2013",
+    "to": null,
+    "value": {
+      "amount": 2.35,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": null
+    },
+    "source": {
+      "name": "Toro.it, 'Serie A, ecco quanto guadagna il Torino dallo sponsor di maglia'",
+      "date": "2026-03-18",
+      "url": "https://www.toro.it/toro/primo-piano/sponsor-di-maglia-squadre-serie-a-marzo-26/1419600/",
+      "quote": "Il Torino guadagna, invece, 2,35 milioni da Suzuki.",
+      "note": "Translation: 'Torino, instead, earns 2.35 million from Suzuki.' Press estimate from a March 2026 survey of Serie A shirt-sponsor revenues, before the 2026/27 renewal; the club and Suzuki do not publish a figure. The club's renewal announcement (3 July 2026) says the partnership began in 2013 and reached its fourteenth consecutive season in 2026/27.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Front-of-shirt deal renewed for 2026/27 (announced 3 July 2026)."
+  },
+  {
     "id": "toronto-blue-jays-rogers-communications-stadium",
     "clubId": "toronto-blue-jays",
     "orgName": "Rogers Communications",
@@ -20022,6 +20297,50 @@
     "note": "Value not disclosed."
   },
   {
+    "id": "vancouver-whitecaps-blg-sleeve",
+    "clubId": "vancouver-whitecaps",
+    "orgName": null,
+    "sponsorId": "blg",
+    "placement": "sleeve",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "BLG – 'BLG is official law firm and jersey sleeve partner of Vancouver Whitecaps FC'",
+      "date": "2025-05-30",
+      "url": "https://www.blg.com/en/about-us/news/2025/05/blg-is-official-law-firm-and-jersey-sleeve-partner-of-vancouver-whitecaps-fc",
+      "quote": "announced a multi-year partnership on Thursday, unveiling BLG as the club’s Official Law Firm and Jersey Sleeve Partner",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Same release: the first team first wore the BLG sleeve patch on 1 June 2025 in the Concacaf Champions Cup Final against Cruz Azul. No deal value reported. SportsBusinessJournal (30 May 2025, Alex Silverman, https://www.sportsbusinessjournal.com/Articles/2025/05/30/whitecaps-add-first-jersey-sleeve-sponsor-ahead-of-champions-cup-final) reports the term: \"The three-year sponsorship agreement, financial terms of which were not disclosed, will run through the end of the 2027 MLS season.\""
+    },
+    "note": "Multi-year right-sleeve partnership that began during the 2025 season."
+  },
+  {
+    "id": "vancouver-whitecaps-telus-front",
+    "clubId": "vancouver-whitecaps",
+    "orgName": null,
+    "sponsorId": "telus",
+    "placement": "front",
+    "from": "2023",
+    "to": "2027",
+    "value": null,
+    "source": {
+      "name": "MLSsoccer.com – 'Vancouver Whitecaps FC announce TELUS as new front-of-jersey sponsor'",
+      "date": "2023-02-16",
+      "url": "https://www.mlssoccer.com/news/vancouver-whitecaps-fc-announce-telus-as-new-front-of-jersey-sponsor",
+      "quote": "will be the Whitecaps’ premier partner through 2027",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The page embeds the club's announcement tweet dated February 16, 2023 ('announced Thursday'); the article page itself shows no dateline in its HTML text. It also notes the club's decade-plus jersey partnership with Bell ended in January 2023. No deal value reported."
+    },
+    "note": "TELUS became the front-of-jersey ('premier') partner in 2023, replacing Bell, and the deal runs through 2027. No reported value."
+  },
+  {
     "id": "vfb-stuttgart-greenox",
     "clubId": "vfb-stuttgart",
     "orgName": null,
@@ -20157,10 +20476,15 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "SportsPro (citing The Athletic)",
+      "name": "SportsPro: 'Aston Villa sign UK£20m-a-year Visit Rwanda shirt sponsorship despite sportswashing concerns' (citing The Athletic)",
       "date": "2026-07-15",
       "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/",
-      "note": "Club-wide figure: up to £20m a year if bonuses are met, across men's, women's and academy shirts; the women's share is not stated."
+      "note": "Club-wide figure: up to £20m a year if bonuses are met, across men's, women's and academy shirts; the women's share is not stated. The same page says Amnesty International 'says Rwanda is using new deal for sportswashing purposes'.",
+      "quote": "Visit Rwanda’s branding will appear on the front of all men’s, women’s, and academy teams’ shirts as part of the deal",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
     },
     "note": "Replaces Betano as the club's principal partner. Amnesty International warned the deal is sportswashing. The reported value (up to GBP 20m a year) is for the club-wide deal, recorded on villa-visit-rwanda; it covers the men's, women's and academy shirts, so it is not repeated here."
   },

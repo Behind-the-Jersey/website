@@ -8311,7 +8311,12 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.49ers.com/about-us/contact-us",
-          "date": "2026-09-24"
+          "date": "2026-10-02",
+          "quote": "Thank you for your inquiry.  We are committed to our fans and value your feedback.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -8333,7 +8338,7 @@
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-02"
   },
   {
     "clubId": "san-francisco-giants",
@@ -9666,19 +9671,46 @@
       {
         "type": "email",
         "value": "info@whitecapsfc.com",
+        "label": "General Enquiries",
         "source": {
           "name": "Club website",
           "url": "https://www.whitecapsfc.com/club/contact-us",
-          "date": "2026-09-24"
+          "date": "2026-09-24",
+          "quote": "General Enquiries info@whitecapsfc.com",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "type": "email",
+        "value": "fanrelations@whitecapsfc.com",
+        "label": "Fan Relations",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.whitecapsfc.com/club/contact-us",
+          "date": "2026-10-03",
+          "quote": "Fan Relations: fanrelations@whitecapsfc.com",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "phone",
         "value": "+1 604-669-9283",
+        "label": "Ticketing",
         "source": {
           "name": "Club website",
           "url": "https://www.whitecapsfc.com/club/contact-us",
-          "date": "2026-09-24"
+          "date": "2026-09-24",
+          "quote": "Ticketing 604-669-9283",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -9700,7 +9732,7 @@
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-03"
   },
   {
     "clubId": "venezia",
