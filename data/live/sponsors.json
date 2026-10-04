@@ -1149,14 +1149,21 @@
   {
     "id": "aldyar-alarabiya",
     "name": "Aldyar Alarabiya",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Al-Ettifaq / Al-Taawoun front sponsor."
+    "ownerId": "shahm-holding",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Saudi real-estate developer, part of Shahm Holding — the Al-Atawi family's Jeddah holding. Nothing found.",
+    "claimIds": [
+      "aldyar-alarabiya-shahm-holding",
+      "shahm-holding-alatawi-family"
+    ],
+    "aliases": [
+      "Arabian Dyar",
+      "Al Diyar Al Arabiya",
+      "الديار العربية"
+    ],
+    "note": "Al-Ettifaq front sponsor (2026-27). Its own site still calls Arabian Dyar the 'primary sponsor' of Al-Taawoun and Al-Ettifaq since 2023, but it is gone from Al-Taawoun's 2026-27 home shirt in the club's own launch photography (issue #377)."
   },
   {
     "id": "ale-cycling",
@@ -1176,16 +1183,19 @@
   {
     "id": "alfa-bank",
     "name": "Alfa-Bank",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "abh-holdings",
+    "ownership": "part-owned",
     "tier": "unrated",
-    "status": "unrated",
+    "status": "being-rated",
     "verdict": null,
-    "claimIds": [],
-    "aliases": [
-      "Альфа-банк"
+    "claimIds": [
+      "alfa-bank-kosogov-ownership"
     ],
-    "note": "Partner of HC Avangard."
+    "aliases": [
+      "Альфа-банк",
+      "Alfa-Bank Russia"
+    ],
+    "note": "Largest private Russian bank; title partner of the Russian Premier League (the league is branded 'Альфа-Банк РПЛ') and the league patch on Rostov's 2026-27 home shirt. Rating note: on hold for a maintainer. Ownership changed in 2023-2024: Fridman and Aven completed the sale of their stakes to co-founder Andrey Kosogov (FT via Kommersant and Meduza; closed 2024, no official register published), and Kosogov also bought out Khan's and Kuzmichev's stakes, making him the largest shareholder (about 41% via ABH Holdings as of March 2022). ABHH's own press releases (abhh.lu, August 2023) describe ABH Financial Limited as holding the ownership interest in Alfa-Bank Russia with a sale to Kosogov signed in February 2023 pending Cyprus approval. No state in the chain; no human-rights finding against the bank found (searched 3 Oct 2026)."
   },
   {
     "id": "alfred-dunhill",
@@ -1200,6 +1210,18 @@
       "dunhill"
     ],
     "note": "Title sponsor of the Alfred Dunhill Championship and Alfred Dunhill Links Championship (event names, 2026 Race to Dubai schedule). Richemont-owned brand; not traced to a primary document here."
+  },
+  {
+    "id": "algorand",
+    "name": "Algorand",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Envision Racing partner in Season 12 (2025/26) per the club's partners page as archived in December 2025 and January 2026. Ownership not researched."
   },
   {
     "id": "alinma-bank",
@@ -1364,10 +1386,11 @@
     "status": "rated",
     "verdict": "Owned by Alpinestars S.p.A. (Mazzarolo family). Nothing found.",
     "claimIds": [
-      "alpinestars-record"
+      "alpinestars-record",
+      "alpinestars-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Family ownership from the company's own about page; no dated shareholder register published. Same owner as 'alpinestars-c' and 'alpinestars-h'."
+    "note": "Italian motorsport protection-gear maker (Asolo/Maser, Italy, founded 1963); supplier of race suits, gloves and boots to Nissan Formula E Team. Rating note: family ownership is stated by the company's own about page; no dated shareholder register published. Bloomberg reported in September 2026 that Asian private-equity firms including FountainVest and HSG were considering bids valuing the company at about €1 billion; no sale was announced. Same owner as 'alpinestars-c' and 'alpinestars-h'."
   },
   {
     "id": "alpinestars-c",
@@ -1770,6 +1793,23 @@
       "Apple TV+"
     ],
     "note": "League-wide sleeve-patch sponsor of MLS; the patch sits on the left sleeve of every club's first-team kit."
+  },
+  {
+    "id": "aprilia",
+    "name": "Aprilia",
+    "ownerId": "piaggio-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A brand of Piaggio & C. S.p.A. (Piaggio Group), Milan-listed and controlled by the listed holding Immsi S.p.A. Nothing found.",
+    "claimIds": [
+      "aprilia-piaggio-ownership",
+      "piaggio-immsi-control"
+    ],
+    "aliases": [
+      "Aprilia Racing"
+    ],
+    "note": "MotoGP partner of SuperFile Trackhouse MotoGP Team (the team races Aprilia RS-GP26 bikes), per trackhouse.com/partners (checked 2026-10-03 via Wayback Machine). Owner chain: Aprilia is a Piaggio Group brand (aprilia-piaggio-ownership); Piaggio is listed on the Milan Stock Exchange and controlled by Immsi S.p.A., itself a listed industrial holding (piaggio-immsi-control). No state or fund stake found; no human-rights finding against Piaggio or Immsi found (checked 2026-10-03)."
   },
   {
     "id": "aquame",
@@ -2215,14 +2255,20 @@
   {
     "id": "atlantis-pak",
     "name": "Atlantis-Pak",
-    "ownerId": "atlantis-pak",
+    "ownerId": "agrokom-group",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "FC Rostov title sponsor."
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Part of Agrokom Group, owned by Rostov businessman Ivan Savvidi. Nothing found.",
+    "claimIds": [
+      "atlantis-pak-agrokom-ownership",
+      "agrokom-savvidi-ownership"
+    ],
+    "aliases": [
+      "Атлантис-Пак",
+      "Atlantis Pak"
+    ],
+    "note": "FC Rostov's title sponsor; wordmark across the chest of the 2026-27 home shirt. Rating note: private Russian food-packaging group (world's largest producer of plastic sausage casings per the club's sponsor profile); chain ends at private owner Ivan Savvidi, no state stake found, and no court, regulator, UN-body or major-NGO human-rights finding against the company (searched 3 Oct 2026). Ukraine's 2024 confiscation of Savvidi-related shares is a sanctions action, which does not count under METHOD.md."
   },
   {
     "id": "atlas-air",
@@ -3354,7 +3400,7 @@
       "Beta Tools",
       "Beta Utensili"
     ],
-    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to beta-tools.com, stands under 'Technical partners' with the line 'Tools' (Wayback Machine captures of 23 May and 18 Sep 2026); also a partner of Red Bull KTM Tech3 (logo links to beta-tools.com). Rating note: 51% held by Roberto Ciceri per his own account in Forbes Italia; no state in the chain, so none."
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to beta-tools.com, stands under 'Technical partners' with the line 'Tools' (Wayback Machine captures of 23 May and 18 Sep 2026); also a partner of Red Bull KTM Tech3 (logo links to beta-tools.com); also a MotoGP partner of SuperFile Trackhouse MotoGP Team per trackhouse.com/partners (checked 2026-10-03 via Wayback Machine). Rating note: 51% held by Roberto Ciceri per his own account in Forbes Italia; no state in the chain, so none."
   },
   {
     "id": "betano",
@@ -4925,6 +4971,23 @@
     "note": "State broadcaster's sports channel, CSL media partner per the league's official site. Ownership not verified from a primary document."
   },
   {
+    "id": "cdt",
+    "name": "CDT Equipamentos",
+    "ownerId": "cdt-equipamentos",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Private Portuguese kit maker created in 2012 by businessman Bruno Salgado (Vila Nova de Famalicão). Nothing found.",
+    "claimIds": [
+      "cdt-founded-by-bruno-salgado"
+    ],
+    "aliases": [
+      "CDT Equipamentos Desportivos",
+      "cdt-equipamentos.com"
+    ],
+    "note": "Kit supplier (technical sponsor) to Moreirense FC, including 2026-27 (maker's mark on chest, shorts and socks; Footy Headlines: 'Made by CDT'). Recorded as partner placement per convention."
+  },
+  {
     "id": "celer-lighting",
     "name": "Celer Lighting",
     "ownerId": "grupo-saltoki",
@@ -4955,14 +5018,19 @@
   {
     "id": "cenomi",
     "name": "Cenomi",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Al-Ahli back sponsor."
+    "ownerId": "cenomi-centers",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Saudi mall operator (Cenomi Centers, formerly the Arabian Centres group) listed in Riyadh; largest disclosed holders are FAS Real Estate Co. and members of the Al Hokair family. Nothing found.",
+    "claimIds": [
+      "cenomi-centers-shareholders"
+    ],
+    "aliases": [
+      "Cenomi Centers",
+      "سينومي"
+    ],
+    "note": "Sleeve badge on Al-Taawoun's 2026-27 home kit (three-year club deal announced 2026-04-02, visible on the sleeve in the club's launch photos); Al-Ahli back sponsor."
   },
   {
     "id": "centro-de-reciclagem-da-amadora",
@@ -5806,14 +5874,16 @@
   {
     "id": "convoy-of-hope",
     "name": "Convoy of Hope",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "convoy-of-hope",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Convoy of Hope is a US 501(c)(3) humanitarian nonprofit, founded in 1994 by Hal Donaldson. Nothing found.",
+    "claimIds": [
+      "convoy-of-hope-nonprofit"
+    ],
     "aliases": [],
-    "note": "RangeGoats GC partner (livgolf.com/rangegoats-gc, fetched 2026-09-25)."
+    "note": "Rating note: nonprofit, faith-based humanitarian organisation (a 501(c)(3) tax-exempt organisation, convoyofhope.eu/about); no shareholders and no state involvement → none. Listed as a RangeGoats GC partner on livgolf.com/rangegoats-gc (impact partner of the team's Goats Give Back program)."
   },
   {
     "id": "coop-nordland",
@@ -5874,6 +5944,18 @@
       "empresa de cerveja da madeira"
     ],
     "note": "Madeira beer brand of the Madeira Brewery (Empresa de Cerveja da Madeira), controlled since 1999 by the Pestana Group with the Miles family. Back-of-shirt sponsor at Nacional in 2026-27."
+  },
+  {
+    "id": "coral-climate",
+    "name": "Coral",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "UAE-based climate-tech company (carbon-emission management and blockchain carbon-credit offsetting); sustainability partner of Nissan Formula E Team since Season 10 (2023/24). Its founders are Juergen Hoebarth and Daniele Sileri; it closed a $3m seed round in September 2024 from undisclosed investors (Mubasher, english.mubasher.info/news/4346487; coral.li blog). Ownership not traced. Official site coral.li (linked from the press kit's Related Links); its blog shows both founders still active in 2026. Distinct from Entain's UK betting brand Coral (coral.json)."
   },
   {
     "id": "corales-puntacana",
@@ -7206,6 +7288,22 @@
     ]
   },
   {
+    "id": "dynisma",
+    "name": "Dynisma",
+    "ownerId": "dynisma-owner",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "dynisma-owner-record"
+    ],
+    "aliases": [
+      "dynisma-ltd"
+    ],
+    "note": "Official simulator partner of Nissan Formula E Team (Season 12): it supplied the team's DMG-1 racing simulator. Companies House (company 10923412) lists Hawthorn Holdco Limited (17313112) and founder Ashley Warne as Dynisma Ltd's persons with significant control, each with more than 25% but not more than 50% of shares and voting rights. Hawthorn Holdco's own PSC entry (Companies House, company 17313112, notified July 2026) names Highvern Trustees Limited, a Jersey trustee company, as holding 75% or more of its shares and voting rights; a trust's beneficiaries are not on the public register, so Dynisma's ultimate beneficial owner is not identified. Left unrated; owner parentId is null."
+  },
+  {
     "id": "e-and",
     "name": "e& (formerly Etisalat)",
     "ownerId": "emirates-investment-authority",
@@ -7555,6 +7653,22 @@
     "note": "Rating note: 88.64% held by EDF Holding, and the French state holds 100% of EDF. State ownership alone is not a rating under METHOD.md; no serious-abuse record against the French state sourced, so tier none."
   },
   {
+    "id": "electromin",
+    "name": "Electromin",
+    "ownerId": "electromin-owner",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Electromin is the EV-charging subsidiary of Petromin Corporation, part of the family-owned Al-Dabbagh Group. Nothing found.",
+    "claimIds": [
+      "electromin-owner-record",
+      "petromin-adg-record",
+      "adg-family-record"
+    ],
+    "aliases": [],
+    "note": "Global sponsor of Nissan Formula E Team under a four-year agreement that began in Season 11 (2024/25); a Petromin business launched in 2020. Saudi-registered private company; no state ownership or human-rights finding identified."
+  },
+  {
     "id": "elemis",
     "name": "ELEMIS",
     "ownerId": null,
@@ -7825,6 +7939,25 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "envision-group",
+    "name": "Envision (Envision Group)",
+    "ownerId": "envision-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "envision-group-owns-envision-racing",
+      "envision-group-founder-zhang-lei"
+    ],
+    "aliases": [
+      "Envision Group",
+      "Envision",
+      "Envision Energy"
+    ],
+    "note": "Title brand in the team name 'Envision Racing' (Season 12, 2025/26) and the club's owner; mapped to the kit's front placement per the league's team-title convention. Sourced claims show Envision (a private, Shanghai-headquartered group led by its founder and CEO Lei Zhang) became the team's majority owner in April 2018, but who owns Envision Group itself is not sourced, so the ownership chain does not reach its real owner and the sponsor stays unrated. No human-rights finding of the kind METHOD.md counts was located for the company."
   },
   {
     "id": "eqt",
@@ -8696,12 +8829,14 @@
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "fonbet-udodov-ownership"
+    ],
     "aliases": [
       "Фонбет",
       "Fon.Bet"
     ],
-    "note": "League title partner; the KHL championship carries the FONBET name. Private betting company; ownership not traced. Club-level partner of Metallurg Magnitogorsk from 2022, extended through 2028 (sports.ru, 2025-09-03); logo on the 2026/27 game kit, front and sleeve. Russian media (RIA Novosti via sportliga.com, 2026-03-20) name Valentin Golovanov as Fonbet's 'managing shareholder' (управляющий акционер); beneficial ownership not publicly documented in sources opened."
+    "note": "Official bookmaker of FC Rostov; FONBET wordmark on the upper chest and sleeve of the 2026-27 home shirt. League title partner; the KHL championship carries the FONBET name; also title partner of the Russian Cup. Club-level partner of Metallurg Magnitogorsk from 2022, extended through 2028 (sports.ru, 2025-09-03); logo on the 2026/27 game kit, front and sleeve. Ownership unresolved: The Bell (April 2022) reported that Alexander Udodov became sole owner of Pin-Up.ru and that Fonbet's site then named Pin-Up.ru as its owner, and Stavka.TV (September 2026) repeats that Udodov acquired Fonbet in 2022 - but the same Stavka.TV page, citing the EGRUL register, names AO 'Klir Tsentr' as the founder of licence holder OOO 'Fonkor', and Klir Tsentr's owner is not identified by any opened source (sportclan.ru names a Maxim Kuznetsov but was captcha-walled). Russian media (RIA Novosti via sportliga.com, 2026-03-20) name Valentin Golovanov as Fonbet's 'managing shareholder' (управляющий акционер); beneficial ownership not publicly documented in sources opened. Left unrated until the current controlling owner is identified."
   },
   {
     "id": "football-manager",
@@ -8839,16 +8974,19 @@
   {
     "id": "freddys",
     "name": "Freddy's",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [
-      "Freddys Frozen Custard"
+    "ownerId": "rhone-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Freddy's is owned by investment funds affiliated with Rhône, a US-based private equity firm. Nothing found.",
+    "claimIds": [
+      "rhone-freddys-ownership"
     ],
-    "note": "RangeGoats GC partner (livgolf.com/rangegoats-gc, fetched 2026-09-25)."
+    "aliases": [
+      "Freddys Frozen Custard",
+      "Freddy's Frozen Custard & Steakburgers"
+    ],
+    "note": "Rating note: acquired in September 2025 by investment funds affiliated with Rhône (global private equity, est. 1996, New York) from Thompson Street Capital Partners (Greenberg Traurig press release, 2025-09-08); no state in the chain → none. Checked conduct: in April 2024 the US Department of Labor found child-labor violations (149 children, $119,029 in penalties) at seven Freddy's locations operated by an Alabama franchisee — the finding is against the franchise operator, not Freddy's itself, so it is not a record for the sponsor under METHOD.md (noted for the record). RangeGoats GC official QSR partner for the 2026 season (LIV Golf announcement, early 2026)."
   },
   {
     "id": "french-embassy-of-senegal",
@@ -9513,6 +9651,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Rating note: Listed Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  },
+  {
+    "id": "gng-new-tech",
+    "name": "GNG New Tech",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "GNG"
+    ],
+    "note": "MotoGP partner of SuperFile Trackhouse MotoGP Team per trackhouse.com/partners (checked 2026-10-03 via Wayback Machine); its own site calls it a 'Proud Sponsor of MotoGP'. Solar-panel sales/installation and construction company with an office in Miami, FL and a warehouse/factory in Dubai, UAE (gngnewtech.com, checked 2026-10-03). The site names no owner or founder and no company-register details; ownership not found, so it stays not rated yet."
   },
   {
     "id": "go-compare",
@@ -12152,6 +12304,24 @@
     "note": "MYR-pegged stablecoin issued on the Zetrix blockchain by JMYR Sdn. Bhd. (Co. No. 202501052256 (1653663-P), Kuala Lumpur), per jmyr.com.my's terms; its logo is the front sponsor of JDT's 2026/27 kits (Media Digital Johor, 15 Aug 2026). Ownership of JMYR Sdn. Bhd. not sourced."
   },
   {
+    "id": "jogel",
+    "name": "JOGEL",
+    "ownerId": "prime-sport",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A sportswear brand of the Prime Sport company, founded by Artur Movsesyan. Nothing found.",
+    "claimIds": [
+      "jogel-prime-sport-ownership",
+      "jogel-movsesyan-ownership"
+    ],
+    "aliases": [
+      "Jögel",
+      "Джогель"
+    ],
+    "note": "Russian sportswear brand founded in 2015; FC Rostov's technical sponsor and kit maker for 2026-27 (also kits the Russia national team and, per press, Spartak Moscow). Rating note: private company; chain ends at the Movsesyan family, no state stake found, and no court, regulator, UN-body or major-NGO human-rights finding against the company (searched 3 Oct 2026)."
+  },
+  {
     "id": "john-deere",
     "name": "John Deere",
     "ownerId": null,
@@ -12533,6 +12703,23 @@
     "note": "Rating note: OGC Nice's kit maker (équipementier) and one of the club's three principal partners; also kit supplier to Al-Kholood and to the Tunisia national team (2026 World Cup). Owner chain checked: listed Italian holding company; no state shareholder identified, no human-rights finding found."
   },
   {
+    "id": "karhu",
+    "name": "Karhu",
+    "ownerId": "karhu-holding",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Karhu Holding B.V. (majority owners Huub Valkenburg and Jay Duke, per a 2008 report). Nothing found.",
+    "claimIds": [
+      "karhu-holding-ownership"
+    ],
+    "aliases": [
+      "KARHU",
+      "Karhu North America"
+    ],
+    "note": "MotoGP partner of SuperFile Trackhouse MotoGP Team per trackhouse.com/partners (checked 2026-10-03 via Wayback Machine). Ownership: the Karhu brand was sold in 2008 to Karhu Holding B.V., majority-owned by Huub Valkenburg and Jay Duke (SGB Media, 2008-06-25); the ownership report dates from 2008 and no later change was found (checked 2026-10-03). No human-rights finding found against the company."
+  },
+  {
     "id": "kaseya",
     "name": "Kaseya",
     "ownerId": "kaseya-owner",
@@ -12884,16 +13071,18 @@
   {
     "id": "komus",
     "name": "Komus",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "tpgk",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Komus group, owned by founder Sergey Bobrikov (96% via ООО «ТПГК»). Nothing found.",
+    "claimIds": [
+      "komus-ownership"
+    ],
     "aliases": [
       "Комус"
     ],
-    "note": "Partner of HC Spartak Moscow."
+    "note": "Partner of HC Spartak Moscow. Russian office-supplies group; owned by founder Sergey Bobrikov through ООО «ТПГК» (96%, with 4% held by CFO Gennady Lomasov), per Forbes reported by vc.ru (2020). No human-rights findings against the company or owners identified."
   },
   {
     "id": "konami",
@@ -14032,7 +14221,7 @@
       "Hospital Lusíadas",
       "lusiadas.pt"
     ],
-    "note": "Private hospital group; on the back of SC Braga's 2026-27 home shirt, on the front at Rio Ave (per the Rio Ave kit record) and on the sleeve of Gil Vicente's 2026-27 home shirt (per the Gil Vicente kit record). Grupo Lusíadas Saúde has been part of France's Vivalto Santé since the end of 2022, controlled by Vivalto Partners. Mubadala, Abu Dhabi's sovereign fund, is one of Vivalto Santé's institutional shareholders (since 2016, per IK Partners' 2021 release, https://ikpartners.com/press-release/vivalto-partners-announces-the-acquisition-of-vivalto-sante/), and Vivalto Santé's supervisory board includes representatives of its institutional shareholders. Mubadala's stake and whether it has a seat aren't published, so the sponsor stays unrated.",
+    "note": "Private hospital group; on the back of SC Braga's 2026-27 home shirt, on the front at Rio Ave (per the Rio Ave kit record), on the sleeve of Gil Vicente's 2026-27 home shirt (per the Gil Vicente kit record) and on the sleeve at Moreirense (per the Moreirense kit record, club shop renders). Grupo Lusíadas Saúde has been part of France's Vivalto Santé since the end of 2022, controlled by Vivalto Partners. Mubadala, Abu Dhabi's sovereign fund, is one of Vivalto Santé's institutional shareholders (since 2016, per IK Partners' 2021 release, https://ikpartners.com/press-release/vivalto-partners-announces-the-acquisition-of-vivalto-sante/), and Vivalto Santé's supervisory board includes representatives of its institutional shareholders. Mubadala's stake and whether it has a seat aren't published, so the sponsor stays unrated.",
     "ownerVerb": "paid for by"
   },
   {
@@ -14158,7 +14347,7 @@
       "macron-record"
     ],
     "aliases": [],
-    "note": "Kit supplier to Al-Diriyah and Al-Taawoun, and Deportivo Alavés' kit maker from 2026-27 (previously Puma)."
+    "note": "Kit supplier to Al-Diriyah, and Deportivo Alavés' kit maker from 2026-27 (previously Puma). Al-Taawoun replaced Macron with Offside for 2026-27 (club announcement 2026-06-29)."
   },
   {
     "id": "madeira-tao-tua",
@@ -14433,14 +14622,17 @@
   {
     "id": "marelli",
     "name": "Marelli",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "marelli-holdings",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "marelli-kkr-record",
+      "marelli-lenders-record"
+    ],
     "aliases": [],
-    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to magnetimarelli.com, stands under 'Technical partners' with the line 'Data acquisition systems' (Wayback Machine captures of 23 May and 18 Sep 2026). Also a 2026 TOYOTA RACING (WEC) partner (team media kit p.18; toyota-racing.com partners section). Ownership in transition: Marelli (created by KKR in 2019) filed for Chapter 11 in June 2025 and expects to emerge under a consortium of its principal lenders (reported by autobodynews.com and others); no current ownership claim could be sourced, so it stays not rated yet."
+    "note": "Technical partner of Nissan Formula E Team (Season 12, logo on the rear wing of both cars) and of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to magnetimarelli.com, stands under 'Technical partners' with the line 'Data acquisition systems' (Wayback Machine captures of 23 May and 18 Sep 2026). Also a 2026 TOYOTA RACING (WEC) partner (team media kit p.18; toyota-racing.com partners section). Marelli Holdings (created by KKR in 2019) filed for Chapter 11 in the US on 11 June 2025 and says it expects to emerge in 2026 under the ownership of its principal lenders, which its 29 July 2025 release names as Deutsche Bank, Strategic Value Partners, MBK Partners, Fortress Investment Group and Polus Capital Management. Fortress is 68% owned by a consortium led by Mubadala Capital, the asset-management arm of Abu Dhabi's Mubadala sovereign wealth fund (Mubadala Capital press release, 15 May 2024: mubadalacapital.ae/newsroom-articles/fortress-management-and-mubadala-complete-acquisition-of-fortress-investment-group/). As of 4 October 2026 neither marelli.com nor marelliforward.com had announced emergence, so who will own Marelli, and any state-fund stake multiplied along the chain, is unresolved: left unrated."
   },
   {
     "id": "marex",
@@ -14702,9 +14894,10 @@
       "megafon-usm-ownership"
     ],
     "aliases": [
-      "megafon"
+      "megafon",
+      "МегаФон"
     ],
-    "note": "Zenit and Krylia Sovetov partner. Shorts sponsor of HC Metallurg Magnitogorsk (МЕГАФОН on the 2026/27 game shorts): logo visible on the season kit render and a 2026-09-06 match photo via the KHL.Marketing kits article on sports.ru; Megafon's own press release of 2026-02-26 confirms the continuing club partnership. Wholly owned by Alisher Usmanov's USM Holding (claim megafon-usm-ownership); MegaFon's 2022 annual report states the state does not participate in the company's charter capital. Proposed tier: none (see PR)."
+    "note": "Zenit and Krylia Sovetov partner. Shorts sponsor of HC Metallurg Magnitogorsk (МЕГАФОН on the 2026/27 game shorts): logo visible on the season kit render and a 2026-09-06 match photo via the KHL.Marketing kits article on sports.ru; Megafon's own press release of 2026-02-26 confirms the continuing club partnership. FC Rostov premium sponsor per the club's sponsors page (checked 2026-10-03); no shirt placement confirmed on Rostov's 2026-27 home kit. Wholly owned by Alisher Usmanov's USM Holding (claim megafon-usm-ownership); MegaFon's 2022 annual report states the state does not participate in the company's charter capital, and Kommersant (June 2025) confirms the same two USM LLCs hold the shares 50/50. A 'none' tier was proposed in earlier PRs but not set: USM's own shareholder composition is not documented in the sources opened, so the record stays unrated."
   },
   {
     "id": "meijer",
@@ -16697,6 +16890,21 @@
     "aliases": []
   },
   {
+    "id": "nutribio",
+    "name": "Nutribio (Portugal)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "nutribio.pt",
+      "NutriBio - The Bio Lifestyle"
+    ],
+    "note": "Portuguese food-supplement retailer founded in 2015, headquartered in Braga (physical shops plus online). Upper-back sponsor on Moreirense's 2026-27 home shirt (club shop back render). Not the French dairy producer Nutribio (Sodiaal group). nutribio.pt blocks scripts (403) and no public source found names its owner: stays not rated yet."
+  },
+  {
     "id": "nutrisource",
     "name": "NutriSource / Finley's",
     "ownerId": "kln-family-brands",
@@ -17054,7 +17262,7 @@
     "aliases": [
       "OMP Racing"
     ],
-    "note": "Iron Lynx partner, listed in the team's partner block after ItalianGesture and before Prisma (ironlynx.com/racing, checked 2026-10-03)."
+    "note": "Iron Lynx partner, listed in the team's partner block after ItalianGesture and before Prisma (ironlynx.com/racing, checked 2026-10-03). Also Technical Partner of Envision Racing in Season 12 (2025/26): OMP is listed under 'TECHNICAL PARTNERS' on the club's partners page (live page and archived captures of 9 December 2025 and 7 January 2026)."
   },
   {
     "id": "omr-automotive",
@@ -17455,16 +17663,18 @@
   {
     "id": "paysafe",
     "name": "Paysafe",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "paysafe",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Paysafe Limited is a NYSE-listed payments platform whose principal shareholders - funds of CVC (25.4%) and Blackstone (21.4%) and related parties - beneficially own about 54.4% of its common shares, and the filing calls it a 'Controlled Company'. Nothing found.",
+    "claimIds": [
+      "paysafe-cvc-blackstone-ownership"
+    ],
     "aliases": [
       "Paysafe Limited"
     ],
-    "note": "New Title Partner of Envision's Formula E team from 2026-27 (fiaformulae.com driver announcement, 2026-09-14). Ownership not researched in this pass."
+    "note": "New Title Partner of Envision's Formula E team from the GEN4 era (team renamed 'Paysafe Envision' for 2026-27; announced 14 August 2026). Ownership now researched: NYSE-listed, principal shareholders CVC and Blackstone funds (about 54.4% per the FY2025 20-F); no state or state-fund holder, and no human-rights finding of the kind METHOD.md counts was located."
   },
   {
     "id": "paze",
@@ -18440,7 +18650,7 @@
     "aliases": [
       "qf"
     ],
-    "note": "Rating note: BAL partner since 2026 (the league's first Official Community Partner); its logo is displayed on the back of all BAL game uniforms, including Al Ahly's 2026 jersey (BAL release, 14 May 2026 — a collaboration 'facilitated by Qatar Sports Investments'). On hold for a maintainer: QF was created by the late Father Amir of Qatar and Sheikha Moza bint Nasser (qf.org.qa/about), she is its Chairperson, and its Vice Chairperson is Her Excellency Sheikha Hind bint Hamad Al Thani (QF CEO announcement, 22 May 2025). Whether this ruling-family leadership amounts to Qatari state control of the foundation under METHOD.md is undecided — compare QIPCO, an Al Thani family company kept unrated. If the state is held to control it, the state's migrant-worker record (qatar-migrant-worker-abuse-2025, government-of-qatar-record) would reach the sponsor."
+    "note": "Rating note: BAL partner since 2026 (the league's first Official Community Partner); its logo is displayed on the back of all BAL game uniforms, including Al Ahly's 2026 jersey (BAL release, 14 May 2026 — a collaboration 'facilitated by Qatar Sports Investments'). Confirmed among the record 22 marketing, merchandising and institutional partners supporting the BAL in the 2026 season (pr.nba.com/2026-basketball-africa-league-season-numbers, 2026-05-25); the QF logo sits on the upper back of JCA Kings' 2026 BAL uniform in the BAL's official game photo cdn-bal.nba.com/manage/sites/3/2026/05/JCA-Kings-vs-ASC-Ville-Dakar-5-scaled.jpg. On hold for a maintainer: QF was created by the late Father Amir of Qatar and Sheikha Moza bint Nasser (qf.org.qa/about), she is its Chairperson, and its Vice Chairperson is Her Excellency Sheikha Hind bint Hamad Al Thani (QF CEO announcement, 22 May 2025). Whether this ruling-family leadership amounts to Qatari state control of the foundation under METHOD.md is undecided — compare QIPCO, an Al Thani family company kept unrated. If the state is held to control it, the state's migrant-worker record (qatar-migrant-worker-abuse-2025, government-of-qatar-record) would reach the sponsor."
   },
   {
     "id": "qatar-golf-association",
@@ -18905,6 +19115,20 @@
       "RAVENOL"
     ],
     "note": "Iron Lynx partner; the logo in the team's partner block links to ravenolitalia.it. Ravenol is the brand of Ravensberger Schmierstoffvertrieb GmbH, Werther, which German filings (cited by German Wikipedia) show as a wholly-owned subsidiary of Synto Holding GmbH, Werther; Synto Holding's owners are not identified in any source I could open (North Data lists only managing director Igor Shevchuk). Not rated: no sourceable owner."
+  },
+  {
+    "id": "raw-charging",
+    "name": "RAW Charging",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "RAW"
+    ],
+    "note": "Envision Racing technical partner in Season 12 (2025/26) per the club's partners page as archived in December 2025 and January 2026 (listed under 'TECHNICAL PARTNERS'). Ownership not researched."
   },
   {
     "id": "ray-ban",
@@ -19995,6 +20219,24 @@
     "claimIds": [],
     "aliases": [],
     "note": "UAB Samsonas, a Lithuanian meat-processing company (Kaunas / Šakiai), led by general director Henrikas Urbšta (public company registers). No opened source names its owners, so it stays not rated."
+  },
+  {
+    "id": "sand-technologies",
+    "name": "Sand Technologies",
+    "ownerId": "sand-technologies",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "sand-technologies-swaniker-ownership"
+    ],
+    "aliases": [
+      "SAND",
+      "Sandtech",
+      "Sand Technologies (SAND)"
+    ],
+    "note": "Official Partner of Envision Racing since November 2024; the announcement says the company 'will feature on Team collateral'. Sand Technologies is a private company; the cited page identifies Fred Swaniker as founder and CEO but does not state who owns the company, so the real owner is not identified and the sponsor stays unrated. No human-rights finding of the kind METHOD.md counts was located."
   },
   {
     "id": "sandmark",
@@ -21440,18 +21682,36 @@
     "note": "Front-of-shirt sponsor (胸前广告赞助商) and 2026-season exclusive chief partner of Chongqing Tonglianglong, announced at the 12 March 2026 signing ceremony (Chongqing Morning Post via NetEase, 2026-03-13, https://m.163.com/dy/article/KNS3G8BR05568W0A.html; Tencent News chest-ad survey, 2026-03-17, https://view.inews.qq.com/a/20260317A0862Q00). Rating note — the link (claims southwest-securities-yufu-29pct, yufu-capital-yufu-holdings-subsidiary, yufu-holdings-sasac-ownership): the Chongqing SASAC, whose chain runs chongqing-yufu-capital → chongqing-yufu-holdings → chongqing-municipal-government → government-of-china, holds 29.51% of the brokerage through wholly-owned vehicles and is named by the company itself as its actual controller. The record (claim china-xinjiang-un-assessment, reused): the UN OHCHR 2022 Xinjiang assessment and Human Rights Watch (2026). The tier is for a maintainer to set (METHOD.md 'Sponsor tiers'); the claims above support the proposal in the pull request."
   },
   {
+    "id": "southwire",
+    "name": "Southwire",
+    "ownerId": "southwire-richards-family",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Southwire Company, LLC has been owned by the Richards family since 1950. Nothing found.",
+    "claimIds": [
+      "southwire-richards-family-ownership"
+    ],
+    "aliases": [
+      "Southwire Company, LLC"
+    ],
+    "note": "Official Partner of Envision Racing since June 2024. US maker of wire and cable owned by the Richards family since 1950; no state or state-fund owner appears, and no human-rights finding of the kind METHOD.md counts was located."
+  },
+  {
     "id": "sovcombank",
     "name": "Sovcombank",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "khotimsky-brothers",
+    "ownership": "part-owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Main shareholders are the founding Khotimsky brothers; the bank has been listed on MOEX since December 2023. Nothing found.",
+    "claimIds": [
+      "sovcombank-khotimsky-ownership"
+    ],
     "aliases": [
       "Совкомбанк"
     ],
-    "note": "Official bank of HC Severstal."
+    "note": "FC Rostov premium sponsor per the club's sponsors page (2026-10-03); also official bank of HC Severstal. Rating note: private bank, listed since December 2023; the Khotimsky brothers did not sell into the IPO and remain the bank's main shareholders (Reuters via The Moscow Times, Dec 2023); no state in the chain and no human-rights finding against the bank found (searched 3 Oct 2026)."
   },
   {
     "id": "sowayoga",
@@ -22110,18 +22370,32 @@
     "note": "Rating note: front-of-shirt sponsor of Olympiacos BC from 2026 to 2032 (Sport24, 3 July 2026). Superbet Group was founded in 2008 by its CEO Sacha Dragic; funds managed by Blackstone's Tactical Opportunities business hold a strategic minority stake (Blackstone, May 2019; Simpson Thacher, February 2025). No state or state fund in the chain, and no sourced human-rights finding against Superbet or Blackstone that passes METHOD.md was found (checked 2026-10-01)."
   },
   {
-    "id": "superfile",
-    "name": "SuperFile",
+    "id": "superdry",
+    "name": "Superdry",
     "ownerId": null,
     "ownership": null,
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
     "claimIds": [],
+    "aliases": [],
+    "note": "Envision Racing partner in Season 12 (2025/26) per the club's partners page as archived in December 2025 and January 2026. Ownership not researched."
+  },
+  {
+    "id": "superfile",
+    "name": "SuperFile",
+    "ownerId": "superfile-inc",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "superfile-ownership"
+    ],
     "aliases": [
       "superfile trackhouse"
     ],
-    "note": "Multi-year title partner of Trackhouse MotoGP from 2026 (SportsMint Media, 2026-06-10); the team competes as SuperFile Trackhouse MotoGP Team. Ownership not yet researched."
+    "note": "Rating note: title partner of Trackhouse MotoGP since June 2026 — multi-year naming-rights deal; the team races as SuperFile Trackhouse MotoGP Team (club press release, 2026-06-05, via Wayback Machine; SportsMint Media, 2026-06-10). SuperFile's logos are on the bike bodywork and riders' race suits from the 2026 Hungarian GP. SuperFile Inc. is a private Chicago-based digital file-security company founded and led by Shane Valdez (Founder & CEO, per the club press release). No shareholder register or investor list found (checked 2026-10-03), so an owner cannot be named and the sponsor stays not rated yet; if 'founder & CEO' of a private startup counts as the named owner, propose none. No human-rights finding found against the company (checked 2026-10-03)."
   },
   {
     "id": "sutter-health",
@@ -22166,14 +22440,19 @@
   {
     "id": "swannies",
     "name": "Swannies",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "RangeGoats GC partner (livgolf.com/rangegoats-gc, fetched 2026-09-25)."
+    "ownerId": "swannies-golf",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Swannies is a private Minnesota golf-apparel company founded and still led by co-founders Matt Stang and Adam Iversen. Nothing found.",
+    "claimIds": [
+      "swannies-founders-ownership"
+    ],
+    "aliases": [
+      "Swannies Golf",
+      "Swannies Golf Apparel"
+    ],
+    "note": "Rating note: founder-led private company founded 2015 in Minnesota (gener8tor founder series, opened 2026-10-03); no state or fund involvement → none. PitchBook lists one minority family-office investor (Sachse Family Fund); page blocks scripts, so it is not cited. Official on-course apparel partner of RangeGoats GC (LIV Golf announcement, 2025)."
   },
   {
     "id": "sweg",
@@ -22353,7 +22632,7 @@
       "تأميني",
       "Tameeni"
     ],
-    "note": "Saudi insurance-comparison platform; front of several Saudi Pro League shirts in 2026/27, including Al-Hazem. Owner traced to Rasan Information Technology, a Saudi joint-stock company listed on the Saudi Exchange (listed 2024-06-13); founded by the Alfallaj brothers. No state body or fund found in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against the company found (searched 2026-10-03)."
+    "note": "Saudi insurance-comparison platform; front of several Saudi Pro League shirts in 2026/27, including Al-Hazem, and a badge on the right chest of Al-Taawoun's 2026-27 home shirt (club announcement 2025-08-29; visible in the club's kit-launch photography, issue #377). Owner traced to Rasan Information Technology, a Saudi joint-stock company listed on the Saudi Exchange (listed 2024-06-13); founded by the Alfallaj brothers. No state body or fund found in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against the company found (searched 2026-10-03)."
   },
   {
     "id": "tamkeen",
@@ -22661,6 +22940,23 @@
       "teddy-smith-ownership"
     ],
     "aliases": []
+  },
+  {
+    "id": "teijin",
+    "name": "Teijin",
+    "ownerId": "teijin-ltd",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Teijin Limited is a company listed on the Tokyo Stock Exchange Prime Market; its own major-shareholder table shows the largest holder at 15.37% (a trust account) and no other holder above 7%. Nothing found.",
+    "claimIds": [
+      "teijin-tse-shareholders"
+    ],
+    "aliases": [
+      "Teijin Limited",
+      "Teijin Group"
+    ],
+    "note": "Official Partner of Envision Racing (Principal Partner level since the 2022 multi-year renewal). Widely held Japanese listed company; no state stake and no human-rights finding of the kind METHOD.md counts was located."
   },
   {
     "id": "tek4life",
@@ -23457,17 +23753,20 @@
   {
     "id": "tvi",
     "name": "TVI",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "media-capital",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Grupo Media Capital, SGPS, S.A., listed on Euronext Lisbon; its large shareholders are private Portuguese investment vehicles and individuals, largest Pluris Investments (37.11%), the vehicle of chairman Mário Ferreira. Nothing found.",
+    "claimIds": [
+      "media-capital-tvi-ownership",
+      "media-capital-shareholders-2025"
+    ],
     "aliases": [
       "televisao independente",
       "media capital"
     ],
-    "note": "Portuguese free-to-air TV channel (Media Capital group). Front-of-shirt sponsor at Moreirense in 2026-27."
+    "note": "Portuguese free-to-air TV channel of the Media Capital group. Upper-chest sponsor at Moreirense in 2026-27. Prisa (Spain) controlled Media Capital until November 2020; the group has no state in its chain (its own shareholder disclosure, 15 Sep 2025)."
   },
   {
     "id": "twg-ai",
@@ -25455,6 +25754,21 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "zome-guimaraes-asa",
+    "name": "Zome Real Estate Guimarães ASA",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Zome Guimarães",
+      "Zome"
+    ],
+    "note": "Local agency of the Portuguese real-estate franchise network Zome (zome.pt/pt/guimaraesasa-h50660, Guimarães). Lower-back sponsor on Moreirense's 2026-27 home shirt (club shop back render). Ownership of the Guimarães ASA hub and of the Zome network was not found in public sources: stays not rated yet."
   },
   {
     "id": "zood-realty",

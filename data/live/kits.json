@@ -364,9 +364,35 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
+    "sponsors": [
+      {
+        "sponsorId": "olimpbet",
+        "placement": "front",
+        "source": {
+          "name": "HC Admiral official site: 'OLIMPBET продлевает партнерство с ХК «Адмирал» еще на три года'",
+          "date": "2025-03-26",
+          "url": "https://hcadmiral.pro/press-center/team-news/olimpbet-prodlevaet-partnerstvo-s-khk-admiral-eshche-na-tri-goda.html",
+          "quote": "Букмекерская компания OLIMPBET и хоккейный клуб «Адмирал» объявили о продлении сотрудничества еще на три года.",
+          "note": "Club announcement (26 Mar 2025): Olimpbet partnership, begun in 2024/25, extended for three more years, so it covers 2026-27. Current-season player portraits on the club site (https://hcadmiral.pro/team/players/, e.g. the portrait at /upload/iblock/006/0cy67b93hi3aidoggy4963uzqh5nik3b.JPG) show gold OLIMPBET lettering across the lower front of the black home jersey; re-verified in review on 2026-10-03 (portrait viewed directly).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel); placement re-verified by Scout review (OpenCode, model kimi-k3-abliterated)"
+          }
+        }
+      },
+      {
+        "sponsorId": "t-bank",
+        "placement": "league-partner",
+        "source": {
+          "name": "HC Admiral official photo gallery: '«Адмирал» - «Нефтехимик» — 3:5' (27 Sep 2026)",
+          "date": "2026-09-27",
+          "url": "https://hcadmiral.pro/upload/iblock/7c8/5k23d0sii5tmo6ca515nflb97j7kd5lp.JPG",
+          "note": "Match photo from the club's official gallery (Admiral–Neftekhimik, 27 Sep 2026; EXIF modified 2026-09-28) shows a small white patch with the yellow T-Bank 'T' logo and 'БАНК' lettering sewn on the upper back of Admiral's black home jersey; image opened and patch confirmed in review on 2026-10-03 and again on 2026-10-04 (Scout review, OpenCode, model GLM 5.3 Flash). T-Bank is a KHL general partner, listed in the league sponsor board on hcadmiral.pro ('Партнёры Фонбет Чемпионата КХЛ сезона 2026/2027', linking tbank.ru; verified on the club homepage on 2026-10-04), so this is recorded as a league-partner placement."
+        }
+      }
+    ],
     "sponsorsComplete": false,
-    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+    "summary": "2026-27 home kit. Olimpbet (OLIMPBET lettering across the lower front) per the club's 2025-03-26 partnership-extension announcement and current player portraits. A T-Bank league patch sits on the upper back in match photos. No sponsor logos seen on sleeves or pants in September 2026 match photos; helmet decals could not be identified, so the list is not marked complete.",
     "change": null
   },
   {
@@ -2090,88 +2116,53 @@
     "photos": {},
     "sponsors": [
       {
-        "sponsorId": "aldyar-alarabiya",
+        "sponsorId": "tameeni-insurance",
         "placement": "front",
         "source": {
-          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-          "date": "2026-06-15",
-          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+          "name": "Al-Taawoun FC: شركة “تأميني” راعيًا رسميًا لنادي التعاون (club announcement)",
+          "date": "2025-08-29",
+          "url": "https://altaawounfc.com/news/1862-%D8%B4%D8%B1%D9%83%D8%A9-%E2%80%9C%D8%AA%D8%A3%D9%85%D9%8A%D9%86%D9%8A%E2%80%9D-%D8%B1%D8%A7%D8%B9%D9%8A%D9%8B%D8%A7-%D8%B1%D8%B3%D9%85%D9%8A%D9%8B%D8%A7-%D9%84%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-",
+          "note": "English: Al-Taawoun announced a new partnership with Tameeni making it an official club sponsor. The Tameeni badge sits on the right chest of the 2026-27 home shirt in the club's own kit-launch photos (2026-08-06): https://x.com/AltaawounFC/status/2085404863953801236 and https://altaawounfc.com/news/2278",
+          "quote": "أعلن نادي التعاون عن توقيع عقد شراكة جديدة مع شركة تأميني لتصبح أحد الرعاة الرسميين للنادي",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
         }
       },
       {
-        "sponsorId": "gree",
-        "placement": "front",
-        "source": {
-          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-          "date": "2026-06-15",
-          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
-        }
-      },
-      {
-        "sponsorId": "dr-tooth-clinics",
-        "placement": "front",
-        "source": {
-          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-          "date": "2026-06-15",
-          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
-        }
-      },
-      {
-        "sponsorId": "al-dahayan",
-        "placement": "back",
-        "source": {
-          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-          "date": "2026-08-24",
-          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-          "note": "Official league gallery of the 2026-27 kits."
-        }
-      },
-      {
-        "sponsorId": "al-saif-trading",
-        "placement": "back",
-        "source": {
-          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-          "date": "2026-08-24",
-          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-          "note": "Official league gallery of the 2026-27 kits."
-        }
-      },
-      {
-        "sponsorId": "direct-ksa",
+        "sponsorId": "cenomi",
         "placement": "sleeve",
         "source": {
-          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-          "date": "2026-08-24",
-          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-          "note": "Official league gallery of the 2026-27 kits."
+          "name": "Al-Taawoun FC: سينومي راعٍ رسمي للتعاون لمدة 3 سنوات (club announcement)",
+          "date": "2026-04-02",
+          "url": "https://altaawounfc.com/news/2189-%D8%B3%D9%8A%D9%86%D9%88%D9%85%D9%8A-%D8%B1%D8%A7%D8%B9%D9%8D-%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%84%D9%85%D8%AF%D8%A9-3-%D8%B3%D9%86%D9%88%D8%A7%D8%AA",
+          "note": "English: Cenomi becomes an official club sponsor for three years. The Cenomi badge sits on the sleeve of the 2026-27 home shirt in the club's kit-launch photos (2026-08-06) and in on-pitch photos.",
+          "quote": "حصول سينومي على صفة الراعي الرسمي لمدة ثلاث سنوات",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
         }
       },
       {
-        "sponsorId": "duvet-mattresses",
-        "placement": "sleeve",
-        "source": {
-          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-          "date": "2026-08-24",
-          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-          "note": "Official league gallery of the 2026-27 kits."
-        }
-      },
-      {
-        "sponsorId": "macron",
+        "sponsorId": "offside",
         "placement": "partner",
         "source": {
-          "name": "Sponsor note (kit supplier)",
-          "date": "2026-09",
-          "url": null,
-          "note": "Kit supplier to Al-Diriyah and Al-Taawoun. Link removed 2026-09-25 (a private issue in the data repo, not a public source (2026-09-25)): https://github.com/Behind-the-Jersey/data/issues/243"
+          "name": "Al-Taawoun FC: أوفسايد المورد الرسمي لأطقم التعاون في موسم 2026/2027 (club announcement)",
+          "date": "2026-06-29",
+          "url": "https://altaawounfc.com/news/2249",
+          "note": "English: Offside is the official kit supplier of Al-Taawoun for the 2026/27 season (signed by chairman Badr bin Hassan Al-Ghannam).",
+          "quote": "أوفسايد المورد الرسمي لأطقم التعاون في موسم 2026/2027",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Macron home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "summary": "Offside home kit. The club's own 2026-27 launch photos show a plain front with only a small Tameeni badge on the right chest and Cenomi on the sleeve (plus the RSL league patch); there is no main front sponsor. The 2025-26 set (Aldyar Alarabiya, Gree, Dr Tooth Clinics, Al Dahayan, Al Saif Trading, Direct KSA, Duvet Mattresses, Macron) is gone from the 26-27 shirt. The back of the shirt is not documented, so sponsorsComplete stays false.",
     "change": null
   },
   {
@@ -12700,17 +12691,128 @@
     "photos": {},
     "sponsors": [
       {
-        "sponsorId": "paysafe",
+        "sponsorId": "envision-group",
         "placement": "front",
         "source": {
-          "name": "FIA Formula E - Paysafe Envision announcement (new Title Partner from 2026-27)",
-          "date": "2026-09-14",
-          "url": "https://www.fiaformulae.com/en/news/drivers/max-guenther-joins-forces-with-paysafe-envision-racing-for-2026-27-formula-e-season"
+          "name": "FIA Formula E - Envision Racing team page",
+          "date": "2026",
+          "url": "https://www.fiaformulae.com/en/teams/envision-racing",
+          "quote": "ENVISION RACING",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "The team raced Season 12 (2025/26) as 'ENVISION RACING' with drivers Eriksson/Buemi (page lists Season 12 standings). The Envision brand is Envision Group's, the team's owner; per the league note the team-title/name placement maps to the schema's front value (leagues/formula-e.json). Paysafe became Title Partner only for the GEN4 era from 2026-27, so it is not on this season's kit."
+        }
+      },
+      {
+        "sponsorId": "teijin",
+        "placement": "partner",
+        "source": {
+          "name": "Envision Racing - Partners (Teijin card)",
+          "date": "2026",
+          "url": "https://envision-racing.com/partners/",
+          "quote": "As an official partner of Envision Racing, Teijin provides cutting-edge material technologies",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Club's official partners page (undated). Teijin's partnership dates from 2020 and was renewed for multiple years on 12 July 2022 (envision-racing.com, 'ENVISION RACING ANNOUNCE MULTI-YEAR PARTNERSHIP RENEWAL WITH TEIJIN')."
+        }
+      },
+      {
+        "sponsorId": "sand-technologies",
+        "placement": "partner",
+        "source": {
+          "name": "Envision Racing: Sand Technologies become official partner of Envision Racing",
+          "date": "2024-11-06",
+          "url": "https://envision-racing.com/sand-technologies-become-official-partner-of-envision-racing/",
+          "quote": "Sand Technologies, an award-winning enterprise AI solutions company, has partnered with Envision Racing",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Multi-year partnership announced 6 November 2024; the same announcement says 'the company will feature on Team collateral from testing'. Still an Official Partner on the club's partners page (fetched 2026-10-03)."
+        }
+      },
+      {
+        "sponsorId": "southwire",
+        "placement": "partner",
+        "source": {
+          "name": "Envision Racing: Southwire Company become Official Partner of Envision Racing",
+          "date": "2024-06-27",
+          "url": "https://envision-racing.com/southwire-company-become-official-partner-of-envision-racing/",
+          "quote": "Envision Racing is thrilled to announce a multi-year alliance with North America’s leading wire and cable company, Southwire.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Multi-year alliance announced 27 June 2024; still an Official Partner on the club's partners page (fetched 2026-10-03)."
+        }
+      },
+      {
+        "sponsorId": "superdry",
+        "placement": "partner",
+        "source": {
+          "name": "Envision Racing - Partners (Superdry card), archived 7 January 2026",
+          "date": "2026",
+          "url": "https://web.archive.org/web/20260107060235/https://envision-racing.com/partners/",
+          "quote": "As an Envision Racing partner, Superdry brings sustainable style to the world of motorsport",
+          "checked": {
+            "on": "2026-10-04",
+            "by": "btj-scout (OpenCode, model kimi-k3-abliterated, review of PR #1223)"
+          },
+          "note": "Wayback Machine capture of the club's partners page (undated) taken 7 January 2026, mid-Season 12; the 9 December 2025 capture shows the same. Superdry also appears in the OFFICIAL Partners logo strip on that capture. No longer on the live page (fetched 2026-10-04)."
+        }
+      },
+      {
+        "sponsorId": "algorand",
+        "placement": "partner",
+        "source": {
+          "name": "Envision Racing - Partners (Algorand card), archived 7 January 2026",
+          "date": "2026",
+          "url": "https://web.archive.org/web/20260107060235/https://envision-racing.com/partners/",
+          "quote": "As an Envision Racing partner, Algorand helps to showcase how digital innovation can accelerate the transition to a net zero future",
+          "checked": {
+            "on": "2026-10-04",
+            "by": "btj-scout (OpenCode, model kimi-k3-abliterated, review of PR #1223)"
+          },
+          "note": "Wayback Machine capture of the club's partners page (undated) taken 7 January 2026, mid-Season 12; the 9 December 2025 capture shows the same. Algorand also appears in the OFFICIAL Partners logo strip on that capture. No longer on the live page (fetched 2026-10-04)."
+        }
+      },
+      {
+        "sponsorId": "omp",
+        "placement": "partner",
+        "source": {
+          "name": "Envision Racing - Partners (OMP card, Technical Partners)",
+          "date": "2026",
+          "url": "https://envision-racing.com/partners/",
+          "quote": "Global motorsport safety and performance brand, designing advanced racewear, seats, and equipment to protect and empower drivers worldwide",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Listed under 'TECHNICAL PARTNERS' on the club's partners page (undated), both on the live page and in the archived captures of 9 December 2025 and 7 January 2026 - OMP supplies the team's racewear."
+        }
+      },
+      {
+        "sponsorId": "raw-charging",
+        "placement": "partner",
+        "source": {
+          "name": "Envision Racing - Partners (RAW card, Technical Partners), archived 7 January 2026",
+          "date": "2026",
+          "url": "https://web.archive.org/web/20260107060235/https://envision-racing.com/partners/",
+          "quote": "RAW Charging are the leading charge point operator in the hospitality leisure and retail sectors",
+          "checked": {
+            "on": "2026-10-04",
+            "by": "btj-scout (OpenCode, model kimi-k3-abliterated, review of PR #1223)"
+          },
+          "note": "Wayback Machine capture of the club's partners page (undated) taken 7 January 2026, mid-Season 12; RAW is listed under 'TECHNICAL PARTNERS' alongside OMP. The 9 December 2025 capture shows the same. No longer on the live page (fetched 2026-10-04)."
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": null,
+    "sponsorsComplete": true,
+    "summary": "Season 12 (2025/26) Jaguar I-Type 7, raced as Envision Racing: Envision (Envision Group, the team's owner and title brand) on the front; official partners Teijin, Sand Technologies, Southwire, Superdry and Algorand and technical partners OMP and RAW Charging, per the club's partners page as archived on 9 December 2025 and 7 January 2026 (during Season 12) and the club's partnership announcements. The live partners page (fetched 2026-10-04) reflects the 2026/27 season - it lists Paysafe as Title Partner and no longer shows Superdry, Algorand or RAW Charging - so the archived captures are the completeness source for this season. Paysafe became Title Partner only for the GEN4 era (2026-27), announced 14 August 2026, so it is not on this season's kit. Car-livery positions don't map to the schema's placements (league note), so partners are recorded as 'partner'.",
     "change": null
   },
   {
@@ -17429,12 +17531,47 @@
           "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
           "date": "2023-06-19",
           "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
-          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+          "quote": "Through the agreement, Visit Rwanda will continue to be showcased on BAL team uniforms and at the BAL Combine.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide). Visible on the front of the JCA Kings white BAL 2026 jersey, below the number, in the BAL's official 2026 team photo (cdn-bal.nba.com/manage/sites/3/2026/02/JCAKings-scaled.jpg, opened 2026-10-03)."
+        }
+      },
+      {
+        "sponsorId": "puma",
+        "placement": "partner",
+        "source": {
+          "name": "The BAL (bal.nba.com): BAL names PUMA as league's official outfitter ahead of 2026 season",
+          "date": "2026-03-17",
+          "url": "https://bal.nba.com/news/bal-names-puma-as-leagues-official-outfitter-ahead-of-2026-season",
+          "quote": "will see PUMA supply all official BAL team, fan and referee apparel, including game uniforms",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "League-wide outfitter deal beginning with the 2026 BAL season. The PUMA logo sits on the right chest of the JCA Kings 2026 BAL jersey in the BAL's official team photo (cdn-bal.nba.com/manage/sites/3/2026/02/JCAKings-scaled.jpg, opened 2026-10-03) and on the shorts in the BAL's 2026 Media Day portrait (cdn-bal.nba.com/manage/sites/3/2026/05/Babatunde-William-2-2048x1366.jpg, opened 2026-10-03). Ghana News Agency reported the same announcement on 2026-03-18 (gna.org.gh/2026/03/puma-named-official-outfitter-for-2026-basketball-africa-league/)."
+        }
+      },
+      {
+        "sponsorId": "qatar-foundation",
+        "placement": "back",
+        "source": {
+          "name": "BAL via APO Group: Basketball Africa League and Qatar Foundation Announce Multiyear Social Impact Collaboration",
+          "date": "2026-05-14",
+          "url": "https://bal.africa-newsroom.com/press/basketball-africa-league-and-qatar-foundation-announce-multiyear-social-impact-collaboration?lang=en",
+          "quote": "Qatar Foundation's logo is also displayed on the back of all BAL game uniforms.",
+          "checked": {
+            "on": "2026-10-04",
+            "by": "btj-scout (review of PR #1202, run by @Schnitzel)"
+          },
+          "note": "League-wide, all BAL game uniforms of the 2026 season, including JCA Kings'. The Qatar Foundation logo on the upper back of the team's 2026 BAL uniform (above the player number) is visible in the BAL's official game photo cdn-bal.nba.com/manage/sites/3/2026/05/JCA-Kings-vs-ASC-Ville-Dakar-5-scaled.jpg, published with the BAL news article 'Kings join group of winless teams in BAL history' (bal.nba.com/news/kings-join-group-of-winless-teams-in-bal-history, both opened 2026-10-03); the back of the white home jersey was not visible in available imagery. QF is also named among the record 22 partners that supported the BAL in 2026 (pr.nba.com/2026-basketball-africa-league-season-numbers, 2026-05-25)."
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+    "summary": "BAL 2026 league-standard uniform: Visit Rwanda (front, league partner), PUMA kit maker (chest and shorts, league outfitter) and Qatar Foundation (upper back, league partner), verified from the BAL's official 2026 photos of the team. No club-level shirt sponsor found for the 2026 season; the back of the white home jersey was not visible in available imagery.",
     "change": null
   },
   {
@@ -21737,23 +21874,95 @@
         "sponsorId": "placard",
         "placement": "front",
         "source": {
-          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Placard.pt main kit sponsor)",
-          "date": "2026-09",
-          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+          "name": "Moreirense FC: Placard.pt é o novo main sponsor do Moreirense",
+          "date": "2026",
+          "url": "https://moreirensefc.pt/placard-pt-e-o-novo-main-sponsor-do-moreirense",
+          "quote": "Esta parceria contempla a presença de marca na frente das camisolas da equipa principal",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Club announcement (page undated). Translation: 'This partnership includes brand presence on the front of the first team's shirts.' The same page names Placard.pt's owner as SAS Apostas Sociais, Jogos e Apostas Online S.A. (Jogos Santa Casa). The brand sits across the chest of the 2026/27 home shirt in the club's own shop and in launch photography."
         }
       },
       {
         "sponsorId": "tvi",
         "placement": "front",
         "source": {
-          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (tvi front)",
-          "date": "2026-09",
-          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+          "name": "Moreirense FC official shop: Camisola Principal 26/27",
+          "date": "2026",
+          "url": "https://moreirensefc.pt/product/camisola-principal-26-27",
+          "quote": "Camisola Principal Temporada 26/27",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "The page's front render of the 2026/27 home shirt (Camisola_Frente_S_Liga.png, embedded in the customizer) shows the 'tvi' logo at the top of the chest, above the Placard.pt main sponsor; same in worn kit at launch and in match photography. Page undated."
+        }
+      },
+      {
+        "sponsorId": "lus-iadas",
+        "placement": "sleeve",
+        "source": {
+          "name": "Moreirense FC official shop: Camisola Principal 26/27",
+          "date": "2026",
+          "url": "https://moreirensefc.pt/product/camisola-principal-26-27",
+          "quote": "Camisola Principal Temporada 26/27",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "The page's front render (Camisola_Frente_S_Liga.png) shows the 'Lusíadas' logo on the right sleeve; worn-kit launch photography (footylogos.com/kits/moreirense-2026-27) shows Lusíadas on both sleeves. Page undated."
+        }
+      },
+      {
+        "sponsorId": "nutribio",
+        "placement": "back",
+        "source": {
+          "name": "Moreirense FC official shop: Camisola Principal 26/27",
+          "date": "2026",
+          "url": "https://moreirensefc.pt/product/camisola-principal-26-27",
+          "quote": "Camisola Principal Temporada 26/27",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "The page's back render (Camisola_Tras.png, embedded in the customizer) shows 'NUTRIBIO THE BIO LIFESTYLE' on the upper back, above the number area. Page undated."
+        }
+      },
+      {
+        "sponsorId": "zome-guimaraes-asa",
+        "placement": "back",
+        "source": {
+          "name": "Moreirense FC official shop: Camisola Principal 26/27",
+          "date": "2026",
+          "url": "https://moreirensefc.pt/product/camisola-principal-26-27",
+          "quote": "Camisola Principal Temporada 26/27",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "The page's back render (Camisola_Tras.png) shows 'ZOME REAL ESTATE GUIMARÃES ASA' on the lower back, below the number area. Page undated."
+        }
+      },
+      {
+        "sponsorId": "cdt",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: Moreirense 26-27 Home Kit Revealed",
+          "date": "2026-07-16",
+          "url": "https://www.footyheadlines.com/7659720662/moreirense-26-27-home-kit-revealed.html",
+          "quote": "Made by CDT, the new kit will be worn in the upcoming Portuguese Primeira Liga campaign.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Kit maker, recorded as partner per existing convention; CDT's own site lists Moreirense FC under 'Sponsor' (cdt-equipamentos.com/moreirense-fc)."
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Main slot paid for by Jogos Santa Casa via Placard; TVI on the front.",
+    "summary": "Placard.pt (Jogos Santa Casa) across the front, tvi at the top of the chest, Lusíadas on the sleeve, Nutribio and Zome Guimarães ASA on the back; kit made by CDT. Not marked complete: no cited source shows the back of the shorts.",
     "change": null
   },
   {
@@ -22217,9 +22426,40 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
+    "sponsors": [
+      {
+        "sponsorId": "olimpbet",
+        "placement": "sleeve",
+        "source": {
+          "name": "HC Neftekhimik official site: OLIMPBET стал партнёром ХК «Нефтехимик»",
+          "date": "2025-09-04",
+          "url": "https://hcnh.ru/news/club-life/olimpbet-stal-partnyerom-khk-neftekhimik/",
+          "quote": "Контракт рассчитан на три года, и в рамках сотрудничества логотип букмекера будет размещён на плечах игровой формы хоккеистов команды.",
+          "note": "Club announcement of the three-year OlimpBet deal: the bookmaker's logo is placed on the shoulders of the team's playing kit.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "olimpbet",
+        "placement": "partner",
+        "source": {
+          "name": "HC Neftekhimik official site, club partners page",
+          "date": "2026",
+          "url": "https://hcnh.ru/club/partners/",
+          "quote": "Партнеры ХК «Нефтехимик». Сезон 2026-2027 Официальный партнер",
+          "note": "The only entry under 'Партнеры ХК «Нефтехимик». Сезон 2026-2027' is a logo with no alt text or link, captioned 'Официальный партнер'; the logo image (/upload/iblock/f40/zxsw9q14i85m5mkzyygrsjhjkdgqgr91.jpg) is the OLIMPBET wordmark. The page is undated; opened 2026-10-04.",
+          "checked": {
+            "on": "2026-10-04",
+            "by": "btj-scout (PR #1132 review)"
+          }
+        }
+      }
+    ],
     "sponsorsComplete": false,
-    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+    "summary": "2026-27 home kit. OlimpBet official partner; its logo is on the shoulders of the playing kit under a three-year deal announced by the club in September 2025, and it is the only partner listed for 2026-27 on the club partners page. Front-of-shirt and other shirt placements not documented on a source we could open.",
     "change": null
   },
   {
@@ -22803,9 +23043,115 @@
     "periodFrom": "2025-26",
     "periodTo": "2025-26",
     "photos": {},
-    "sponsors": [],
-    "sponsorsComplete": false,
-    "summary": null,
+    "sponsors": [
+      {
+        "sponsorId": "nissan",
+        "placement": "front",
+        "source": {
+          "name": "Nissan Global Newsroom: Nissan Formula E Press Kit",
+          "date": "2026",
+          "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+          "note": "Press kit page without a date; opened 2026-10-03. Nissan is the team's owner and name; per the league note, the manufacturer/team-title brand is mapped to the front.",
+          "quote": "After committing to the GEN3 era in 2021, Nissan took full control of the team in early 2022 in preparation for Season 9",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "electromin",
+        "placement": "partner",
+        "source": {
+          "name": "Nissan Global Newsroom: Nissan Formula E Press Kit (Partners)",
+          "date": "2026",
+          "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+          "note": "Press kit page without a date; opened 2026-10-03. The press kit shows the Electromin logo on the side of the #1 car; car-livery placements do not fit the schema, so recorded as partner.",
+          "quote": "Nissan Formula E Team now enters its second season of a four-year global partnership with Petromin Corporation, a leading mobility solutions provider in the Middle East",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "coral-climate",
+        "placement": "partner",
+        "source": {
+          "name": "Nissan Global Newsroom: Nissan Formula E Press Kit (Partners)",
+          "date": "2026",
+          "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+          "note": "Press kit page without a date; opened 2026-10-03. The press kit shows the Coral logo on the team's car; recorded as partner.",
+          "quote": "In Season 12 Nissan Formula E Team enters the third year of its partnership with Coral",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "marelli",
+        "placement": "partner",
+        "source": {
+          "name": "Nissan Global Newsroom: Nissan Formula E Press Kit (Partners)",
+          "date": "2026",
+          "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+          "note": "Press kit page without a date; opened 2026-10-03. The press kit shows the Marelli logo on the rear wing; recorded as partner.",
+          "quote": "Nissan Formula E Team will also continue to work with Marelli as its technical partner in Season 12",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "reflo",
+        "placement": "partner",
+        "source": {
+          "name": "Nissan Global Newsroom: Nissan Formula E Press Kit (Partners)",
+          "date": "2026",
+          "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+          "note": "Press kit page without a date; opened 2026-10-03.",
+          "quote": "Reflo will continue to support the squad as its Official Teamwear and Apparel Partner for Season 12",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "dynisma",
+        "placement": "partner",
+        "source": {
+          "name": "Nissan Global Newsroom: Nissan Formula E Press Kit (Partners)",
+          "date": "2026",
+          "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+          "note": "Press kit page without a date; opened 2026-10-03.",
+          "quote": "In November 2024, Nissan Formula E Team announced its partnership with Dynisma Ltd, which saw the supply of a brand-new bespoke racing simulator ahead of Season 12",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "alpinestars",
+        "placement": "partner",
+        "source": {
+          "name": "Nissan Global Newsroom: Nissan Formula E Press Kit (Partners)",
+          "date": "2026",
+          "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+          "note": "Press kit page without a date; opened 2026-10-03. Alpinestars supplies the race suits, gloves and boots.",
+          "quote": "The Italian motorsports and action sports safety equipment manufacturer provides the squad with high-quality gear including race suits, gloves and boots",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Season 12 (2025/26) Nissan e-4ORCE 05 works team. Nissan owns the team and gives it its name (front); the Season 12 press kit's Partners section names six partners - Electromin (Petromin), Coral, Marelli, Reflo (teamwear), Dynisma (simulator) and Alpinestars (race suits) - recorded as partner. Car-livery placements (side, rear wing) do not fit the schema yet.",
     "change": null
   },
   {
@@ -25340,27 +25686,45 @@
         "sponsorId": "swannies",
         "placement": "partner",
         "source": {
-          "name": "LIV Golf - RangeGoats GC team page",
-          "date": "2026-09-25",
-          "url": "https://www.livgolf.com/rangegoats-gc"
+          "name": "LIV Golf: Swannies Golf announced as official on-course apparel partner of RangeGoats GC",
+          "date": "2025-01-22",
+          "url": "https://www.livgolf.com/news/swannies-golf-announced-official-apparel-partner-rangegoats-gc",
+          "quote": "RangeGoats Golf Club today announced a team partnership deal with Swannies Golf.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Article announces the multi-year deal ahead of the February 2025 season; the page displays only a relative date ('20 months ago'), so 2025-01-22 is taken from the page's own datePublished metadata. The RangeGoats team page (livgolf.com/rangegoats-gc, opened 2026-10-03) still lists Swannies as a partner, by logo link."
         }
       },
       {
         "sponsorId": "convoy-of-hope",
         "placement": "partner",
         "source": {
-          "name": "LIV Golf - RangeGoats GC team page",
-          "date": "2026-09-25",
-          "url": "https://www.livgolf.com/rangegoats-gc"
+          "name": "LIV Golf: Rangegoats GC launches community impact program ‘Goats Give Back’",
+          "date": "2024-07-22",
+          "url": "https://www.livgolf.com/news/rangegoats-gc-launches-community-impact-program-goats-give-back",
+          "quote": "RangeGoats GC today announced the launch of its community impact program, Goats Give Back, in cooperation with Convoy of Hope.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "The page displays only a relative date ('26 months ago'), so 2024-07-22 is taken from the page's own datePublished metadata. The RangeGoats team page (livgolf.com/rangegoats-gc, opened 2026-10-03) still lists Convoy of Hope as a partner, by logo link."
         }
       },
       {
         "sponsorId": "freddys",
         "placement": "partner",
         "source": {
-          "name": "LIV Golf - RangeGoats GC team page",
-          "date": "2026-09-25",
-          "url": "https://www.livgolf.com/rangegoats-gc"
+          "name": "LIV Golf: RangeGoats Golf Club announces purpose-led sponsorship with Freddy’s Frozen Custard & Steakburgers for 2026 Season",
+          "date": "2026-02-02",
+          "url": "https://www.livgolf.com/news/rangegoats-gc-announces-purpose-led-sponsorship-with-freddy-s-frozen-custard-steakburgers-for-2026-season",
+          "quote": "RangeGoats Golf Club of the LIV Golf League has announced a new and expanded sponsorship with Freddy’s Frozen Custard & Steakburgers",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "The page displays only a relative date ('8 months ago'), so 2026-02-02 is taken from the page's own datePublished metadata; the article announces the 2026 deal. Freddy's becomes official QSR partner with its logo on the golf bags of all four players throughout 2026. The team page (livgolf.com/rangegoats-gc, opened 2026-10-03) still lists Freddy's as a partner."
         }
       },
       {
@@ -25368,13 +25732,14 @@
         "placement": "partner",
         "source": {
           "name": "LIV Golf - RangeGoats GC team page",
-          "date": "2026-09-25",
-          "url": "https://www.livgolf.com/rangegoats-gc"
+          "date": "2026-10-03",
+          "url": "https://www.livgolf.com/rangegoats-gc",
+          "note": "Partner logo link to neweracap.com shown on the team page; the page shows the four team partners as logo images with no text list, so nothing can be quoted. Opened 2026-10-03: still exactly the four partners listed here (Swannies, Convoy of Hope, Freddy's, New Era). New Era is also Official Cap of LIV Golf league-wide (livgolf.com/partners)."
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Team partners 2026: Swannies, Convoy of Hope, Freddy's, New Era. Captain: Bubba Watson.",
+    "summary": "Team partners 2026: Swannies (official on-course apparel), Convoy of Hope (Goats Give Back impact partner), Freddy's (official QSR partner), New Era (official cap). Captain: Bubba Watson. Not sponsorsComplete: the team page shows partners only as logo links and no documented shirt placements, so completeness cannot be certified.",
     "change": null
   },
   {
@@ -26948,25 +27313,80 @@
         "sponsorId": "atlantis-pak",
         "placement": "front",
         "source": {
-          "name": "FC Rostov – Sponsors and partners",
-          "date": "2026-09-25",
-          "url": "https://fc-rostov.ru/club/sponsors",
-          "note": "Титульный спонсор Атлантис-Пак."
+          "name": "FC Rostov official Telegram channel — home-kit photo set (post 31560)",
+          "date": "2026-07-23",
+          "url": "https://t.me/s/fcrostov_official/31560",
+          "quote": "Сочные летние фото футболок нашего домашнего комплекта",
+          "note": "Translation: 'Juicy summer photos of the shirts of our home kit.' The Atlantis-Pak (Атлантис-Пак) wordmark runs across the centre of the chest in the club's kit-launch photos (also carried by Sports.ru, 23 July 2026, and sold in the club shop, product 30406).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "sponsorId": "fonbet",
-        "placement": "back",
+        "placement": "front",
         "source": {
-          "name": "FC Rostov – Sponsors and partners",
-          "date": "2026-09-25",
-          "url": "https://fc-rostov.ru/club/sponsors",
-          "note": "Официальный букмекер ФК \"Ростов\"."
+          "name": "FC Rostov official Telegram channel — home-kit photo set (post 31560)",
+          "date": "2026-07-23",
+          "url": "https://t.me/s/fcrostov_official/31560",
+          "quote": "Сочные летние фото футболок нашего домашнего комплекта",
+          "note": "The FONBET wordmark sits on the upper chest between the Jogel maker logo and the club crest, visible in the kit-launch photos.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "fonbet",
+        "placement": "sleeve",
+        "source": {
+          "name": "FC Rostov official Telegram channel — home-kit photo set (post 31560)",
+          "date": "2026-07-23",
+          "url": "https://t.me/s/fcrostov_official/31560",
+          "quote": "Сочные летние фото футболок нашего домашнего комплекта",
+          "note": "A stacked FONBET wordmark is printed on the shirt sleeve, visible in several photos of the club's kit-launch set.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "alfa-bank",
+        "placement": "league-partner",
+        "source": {
+          "name": "FC Rostov official Telegram channel — home-kit photo set (post 31560)",
+          "date": "2026-07-23",
+          "url": "https://t.me/s/fcrostov_official/31560",
+          "quote": "Сочные летние фото футболок нашего домашнего комплекта",
+          "note": "The league sleeve patch (orange Alfa-Bank wordmark over a bear emblem on a blue shield) is visible on the sleeve; the league is branded 'Альфа-Банк РПЛ' (deal russian-premier-league-alfa-bank).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "jogel",
+        "placement": "partner",
+        "source": {
+          "name": "Sports.ru: «Ростов» показал желтую домашнюю форму сезона-2026/27",
+          "date": "2026-07-23",
+          "url": "https://www.sports.ru/football/1117309681-rostov-pokazal-zheltuyu-domashnyuyu-formu-sezona-2026-27.html",
+          "quote": "Комплект от бренда Jogel выполнен в традиционном для клуба желтом цвете, края рукавов и горловина отделаны тонкими черными полосками.",
+          "note": "Translation: 'The kit by the Jogel brand comes in the club's traditional yellow, with thin black trim on the sleeve cuffs and collar.' Jogel is the technical sponsor; its logo is on the right chest of the shirt. Photos: t.me/fcrostov_official/31560.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Atlantis-Pak title sponsor and Fonbet official bookmaker per the club sponsors page; shirt placements not confirmed against a kit launch.",
+    "summary": "2026/27 home kit by Jogel: Atlantis-Pak across the chest (front), FONBET on the upper chest and sleeve, the Alfa-Bank RPL league patch on the sleeve. All marks verified against the club's kit-launch photos (Telegram post 31560, 23 July 2026); no back-view photo was published, so back placements are unchecked, and premium sponsors MegaFon and Sovcombank have no confirmed shirt placement.",
     "change": null
   },
   {
@@ -29321,11 +29741,32 @@
     "sponsors": [
       {
         "sponsorId": "olimpbet",
+        "placement": "sleeve",
+        "source": {
+          "name": "sports.ru: Olimpbet продлил контракт с хоккейным «Спартаком» до 2027 года",
+          "date": "2025-09-05",
+          "url": "https://www.sports.ru/betting/industry/1116891718-olimpbet-prodlil-kontrakt-s-xokkejnym-spartakom-do-2027-goda.html",
+          "quote": "Olimpbet продлил контракт с хоккейным «Спартаком» до 2027 года",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Russian: Olimpbet extended its HC Spartak contract through end of season 2026/27 (a two-season agreement). Sleeve placement: white OLIMPBET tapes above the sleeve numbers are visible on the red 2026-27 home sweater in the club's own match photos (spartak.ru reports: Spartak–Traktor 2026-09-30, /news/spartak-ne-uderzhal-pobednyij-schyot-v-igre-s-traktorom-24/, photo sd-cr-spartak-traktor-0001763.jpg; Spartak–Avtomobilist 2026-09-26, photo 6m1a9117.jpg). The same photos also show OLIMPBET stickers on the pants front and helmet sides (no schema placement) and the KHL league-level marks — the Mir chest patch and the SOGAZ helmet sticker — recorded as league deals in data/deals/khl-mir-nspk.json and khl-sogaz.json. No text source names the sleeve position."
+        }
+      },
+      {
+        "sponsorId": "olimpbet",
         "placement": "partner",
         "source": {
           "name": "Spartak club site, sponsors and partners page",
-          "date": "2026-09-25",
-          "url": "https://spartak.ru/club/sponsory-i-partnery/"
+          "date": "2026-10-03",
+          "url": "https://spartak.ru/club/sponsory-i-partnery/",
+          "quote": "Olimpbet Официальный партнер",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Undated club partners page; date is the day it was opened. Russian: Olimpbet — official partner. The club's 2026-10-02 news item 'С Днём рождения, OLIMPBET!' also calls Olimpbet 'нашего официального партнера'."
         }
       },
       {
@@ -29333,13 +29774,19 @@
         "placement": "partner",
         "source": {
           "name": "Spartak club site, sponsors and partners page",
-          "date": "2026-09-25",
-          "url": "https://spartak.ru/club/sponsory-i-partnery/"
+          "date": "2026-10-03",
+          "url": "https://spartak.ru/club/sponsory-i-partnery/",
+          "quote": "Комус Партнер",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Undated club partners page; date is the day it was opened. Russian: Komus — partner."
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "2026-27 home kit. Olimpbet official partner and Komus partner per the club site; front-of-shirt sponsor not yet sourced.",
+    "summary": "2026-27 home kit (red, Jogel is the technical partner). The front carries only the «Спартак» wordmark with KHL and 80th-anniversary club patches, per the official shop's 2026-27 game-sweater product photos; on-ice match photos from the club site (Traktor 2026-09-30, Avtomobilist 2026-09-26, Metallurg 2026-10-02) show OLIMPBET tapes on the sleeves plus OLIMPBET stickers on the pants and helmets (no schema placement), and the league-level Mir chest patch and SOGAZ helmet sticker (covered by data/deals/khl-mir-nspk.json and khl-sogaz.json). Komus is a club partner per the club partners page. Not marked complete: minor placements such as socks could not be verified, and the club's partners page lists further partners (Jogel, Azbuka Vkusa, Yandex Afisha, Yandex Pro, Pinsky & Co, Chernogolovka, Forge, Synergetic, Bionova, Nebo, Solntse Moskvy, Britva Barbershop, Herbarus, Plaza Garden, Sofi) not yet individually recorded.",
     "change": null
   },
   {
@@ -29810,14 +30257,140 @@
         "sponsorId": "superfile",
         "placement": "front",
         "source": {
-          "name": "MotoGP.com - Trackhouse pulls the covers off 2026 with two stunning liveries",
-          "date": "2026-01-21",
-          "url": "https://www.motogp.com/en/news/2026/01/21/trackhouse-pulls-the-covers-off-2026-with-two-stunning-liveries/825875"
+          "name": "Trackhouse: SuperFile Trackhouse MotoGP Team (Wayback Machine copy)",
+          "date": "2026-06-05",
+          "url": "https://web.archive.org/web/20260922202534/https://www.trackhouse.com/news/2026/june/05/superfile-trackhouse-motogp-team",
+          "quote": "revealed the first full SuperFile design livery, across the body panels of its bikes and on the race suits of its riders",
+          "note": "Trackhouse press release announcing SuperFile as multi-year title naming-rights partner; the team races as SuperFile Trackhouse MotoGP Team. The Indonesia and Malaysia rounds keep the Gulf livery.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "aprilia",
+        "placement": "partner",
+        "source": {
+          "name": "Trackhouse: Partners (Wayback Machine copy)",
+          "date": "2026-07-01",
+          "url": "https://web.archive.org/web/20260701100913/https://www.trackhouse.com/partners",
+          "quote": "Aprilia Beta GNG New Tech Gulf Kappa Karhu Michelin RCB SuperFile",
+          "note": "Listed under 'MotoGP Partners' on the club's partners page.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "beta-tools",
+        "placement": "partner",
+        "source": {
+          "name": "Trackhouse: Partners (Wayback Machine copy)",
+          "date": "2026-07-01",
+          "url": "https://web.archive.org/web/20260701100913/https://www.trackhouse.com/partners",
+          "quote": "Aprilia Beta GNG New Tech Gulf Kappa Karhu Michelin RCB SuperFile",
+          "note": "Listed under 'MotoGP Partners' on the club's partners page.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "gng-new-tech",
+        "placement": "partner",
+        "source": {
+          "name": "Trackhouse: Partners (Wayback Machine copy)",
+          "date": "2026-07-01",
+          "url": "https://web.archive.org/web/20260701100913/https://www.trackhouse.com/partners",
+          "quote": "Aprilia Beta GNG New Tech Gulf Kappa Karhu Michelin RCB SuperFile",
+          "note": "Listed under 'MotoGP Partners' on the club's partners page.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "gulf-oil",
+        "placement": "partner",
+        "source": {
+          "name": "Trackhouse: Partners (Wayback Machine copy)",
+          "date": "2026-07-01",
+          "url": "https://web.archive.org/web/20260701100913/https://www.trackhouse.com/partners",
+          "quote": "Aprilia Beta GNG New Tech Gulf Kappa Karhu Michelin RCB SuperFile",
+          "note": "Listed under 'MotoGP Partners' on the club's partners page. The Gulf livery runs at five named 2026 rounds; the SuperFile livery runs at all other rounds except Indonesia and Malaysia (Trackhouse press release, 2026-06-05).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "kappa",
+        "placement": "partner",
+        "source": {
+          "name": "Trackhouse: Partners (Wayback Machine copy)",
+          "date": "2026-07-01",
+          "url": "https://web.archive.org/web/20260701100913/https://www.trackhouse.com/partners",
+          "quote": "Aprilia Beta GNG New Tech Gulf Kappa Karhu Michelin RCB SuperFile",
+          "note": "Listed under 'MotoGP Partners' on the club's partners page.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "karhu",
+        "placement": "partner",
+        "source": {
+          "name": "Trackhouse: Partners (Wayback Machine copy)",
+          "date": "2026-07-01",
+          "url": "https://web.archive.org/web/20260701100913/https://www.trackhouse.com/partners",
+          "quote": "Aprilia Beta GNG New Tech Gulf Kappa Karhu Michelin RCB SuperFile",
+          "note": "Listed under 'MotoGP Partners' on the club's partners page.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "michelin",
+        "placement": "partner",
+        "source": {
+          "name": "Trackhouse: Partners (Wayback Machine copy)",
+          "date": "2026-07-01",
+          "url": "https://web.archive.org/web/20260701100913/https://www.trackhouse.com/partners",
+          "quote": "Aprilia Beta GNG New Tech Gulf Kappa Karhu Michelin RCB SuperFile",
+          "note": "Listed under 'MotoGP Partners' on the club's partners page. Michelin is also the series' spec tyre supplier.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "rcb",
+        "placement": "partner",
+        "source": {
+          "name": "Trackhouse: Partners (Wayback Machine copy)",
+          "date": "2026-07-01",
+          "url": "https://web.archive.org/web/20260701100913/https://www.trackhouse.com/partners",
+          "quote": "Aprilia Beta GNG New Tech Gulf Kappa Karhu Michelin RCB SuperFile",
+          "note": "Listed under 'MotoGP Partners' on the club's partners page.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": null,
+    "summary": "2026: SuperFile takes title/naming rights, running across bike bodywork and rider suits from the Hungarian GP and at all remaining 2026 rounds except Indonesia and Malaysia, where the Gulf livery continues (club release, 2026-06-05). Team partners listed by Trackhouse (partners page, July 2026): Aprilia, Beta, GNG New Tech, Gulf, Kappa, Karhu, Michelin, RCB, SuperFile. sponsorsComplete is false because decal-level placements on the bike/leathers could not be itemized from text sources.",
     "change": null
   },
   {
