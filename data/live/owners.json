@@ -54,6 +54,14 @@
     "note": "Owner-managed family business of the Abt family, fifth generation (abt-sportsline.com)."
   },
   {
+    "id": "abus",
+    "name": "ABUS (August Bremicker Söhne KG)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany",
+    "note": "Wetter an der Ruhr lock, security and bike-helmet group, founded 1924; still the Bremicker family company (abus.com About page)."
+  },
+  {
     "id": "access-industries",
     "name": "Access Industries",
     "type": "private-company",
@@ -199,11 +207,27 @@
     "note": "Belgium's largest insurer, listed on Euronext Brussels; owns 75% of AG Insurance, the other 25% held by BNP Paribas Fortis (Cyclist, 2026-07-14)."
   },
   {
+    "id": "agi-business-group",
+    "name": "AGI Business Group",
+    "type": "private-company",
+    "country": "US",
+    "parentId": null,
+    "note": "Owned by Adriana Gallardo, per her biography (claim agi-adrianas-insurance-owner); the club's 2025-11-09 announcement names her Founder and CEO of Adriana's Insurance."
+  },
+  {
     "id": "agnelli-elkann",
     "name": "Agnelli/Elkann family",
     "type": "private-company",
     "country": "Italy",
     "parentId": "exor-nv"
+  },
+  {
+    "id": "agri-europe-cyprus",
+    "name": "Agri Europe Cyprus (AEC Group)",
+    "type": "private-company",
+    "country": "Cyprus",
+    "parentId": null,
+    "note": "Financial holding within the MK Group of Aleksandar Kostić, son of the late Miodrag Kostić (Forbes Montenegro/Bankar). Chain stops here: a private holding, no state or fund in evidence."
   },
   {
     "id": "agrial",
@@ -212,6 +236,14 @@
     "country": "France",
     "parentId": null,
     "note": "Norman agricultural cooperative (12,500 members in 2020, Le Journal des Entreprises); reported in November 2020 as the new owner of Brasserie Lancelot (Breizh Cola)."
+  },
+  {
+    "id": "agrovision-corp",
+    "name": "Agrovision Corp. (renamed Fruitist in 2025)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US",
+    "note": "Founder-led, investor-backed berry company headquartered in Los Angeles; its premium berries are sold under The Fruitist brand. A March 2024 growth capital investment was led by Aliment Capital (company release); Blue Book Services (Apr 2025) reports the Dalio Family Office joined as a backer alongside Aliment Capital. No individual or fund is named with a controlling stake."
   },
   {
     "id": "aguas-do-caramulo",
@@ -595,7 +627,15 @@
     "type": "private-company",
     "parentId": null,
     "country": "Italy",
-    "note": "Italian manufacturer of high-pressure laminate; owner of the Fenix brand used as Fenix-Premier Tech's title sponsor (Cyclist, 2026-07-14)."
+    "note": "Italian manufacturer of high-pressure laminate; owner of the Fenix brand used as Fenix-Premier Tech's title sponsor (Cyclist, 2026-07-14). Part of Broadview Holding, controlled by HAL Holding N.V.; all HAL Holding shares are held by HAL Trust, quoted on the Amsterdam Stock Exchange (arpaforinteriors.com group page, prnewswire.com 2018-12-17, halholding.com; claim arpa-broadview-hal-ownership)."
+  },
+  {
+    "id": "arrena",
+    "name": "Arrena",
+    "type": "private-company",
+    "country": "Greece",
+    "parentId": null,
+    "note": "Greek natural mineral water company of the Tsakos shipping family (Panagiotis and Nikolaos Tsakos), launched in 2024 (News24/7, 9 July 2025)."
   },
   {
     "id": "arrow-electronics-inc",
@@ -833,14 +873,6 @@
     "note": "Avolta AG (formerly Dufry AG), Basel, listed on SIX Swiss Exchange. Autogrill became part of it in the 2023 Dufry-Autogrill combination. Holders of 3% or more at 31 Dec 2025: Edizione S.p.A. 22.17%, Advent International 8.72%, Helikon Investments 5.04%, Compagnie Financière Rupert 4.94%, Qatar Investment Authority 4.49%, BlackRock 3.93%, UBS Fund Management 3.60% (Corporate Governance Report 2025)."
   },
   {
-    "id": "aws-owner",
-    "name": "Amazon Web Services (AWS)",
-    "type": "listed-company",
-    "parentId": null,
-    "note": "jersey patch partner of seattle-seahawks (2026-27).",
-    "country": "US"
-  },
-  {
     "id": "axpo-holding-ag",
     "name": "Axpo Holding AG (owned by Swiss cantons and cantonal utilities)",
     "type": "state",
@@ -937,6 +969,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "IT"
+  },
+  {
+    "id": "banca-popolare-pugliese",
+    "name": "Banca Popolare Pugliese S.C.p.A.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "IT",
+    "note": "Cooperative bank (Società Cooperativa per Azioni) based in Parabita/Matino (Lecce), owned by its member-shareholders; no outside controlling shareholder is published."
   },
   {
     "id": "banco-santander-sa",
@@ -1076,6 +1116,15 @@
     "type": "listed-company",
     "parentId": null,
     "country": "Spain"
+  },
+  {
+    "id": "bdd-mv-investments",
+    "name": "BDD M&V Investments a.d. Beograd",
+    "type": "private-company",
+    "country": "Serbia",
+    "parentId": "nordagri-nv",
+    "via": "100% owned by NORDAGRI N.V. (per Bankar/Forbes Montenegro)",
+    "note": "Broker-dealer and holding company; sole owner of AikBank a.d. Beograd."
   },
   {
     "id": "beemok-capital",
@@ -1360,6 +1409,14 @@
     "country": "United States"
   },
   {
+    "id": "brustor",
+    "name": "Brustor",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Belgium",
+    "note": "West Flanders (Gullegem/Kortrijk) solar-shading and pergola maker, founded as a tarpaulin business by Louis Brutsaert in 1965; 'Brustor is a Belgian family business' (brustor.com)."
+  },
+  {
     "id": "burjeel-holdings",
     "name": "Burjeel Holdings",
     "type": "private-company",
@@ -1506,6 +1563,14 @@
     "note": "Listed in Hong Kong (SEHK 9973) after its 25 Sep 2025 IPO. Per its HKEX prospectus (dated 17 Sep 2025): Wuhu Investment Holding is the single largest shareholder, 21.17% before the offering and 20.08% at listing; it is owned 95.59% by Wuhu SASAC and 4.41% by the Anhui Provincial Department of Finance. Anhui Credit Guaranty (wholly owned by the People's Government of Anhui Province) holds 9.97% before / 9.46% at listing; Anhui Investment Holding (wholly owned by Anhui SASAC) holds 5.20% before / 4.93% at listing - state entities about 34.7% combined pre-IPO, about 34.5% after the partial over-allotment exercise (5,808,604,533 shares total). The prospectus states the company has 22 shareholders with a dispersed structure and is not a state-owned, state-controlled or state-actually-controlled enterprise under the PRC state-asset measures. Jetour is one of Chery's marques."
   },
   {
+    "id": "childrens-health-system-of-texas",
+    "name": "Children's Health System of Texas",
+    "type": "private-company",
+    "country": "US",
+    "parentId": null,
+    "note": "501(c)(3) nonprofit hospital system, EIN 75-0800628 (ProPublica Nonprofit Explorer). It is the healthcare system behind the Children's Health brand on the FC Dallas shirt; the sponsor record childrens-health covers both this owner and UT Southwestern Medical Center (secondary jersey)."
+  },
+  {
     "id": "childrens-hospital-colorado-owner",
     "name": "Children's Hospital Colorado",
     "type": "private-company",
@@ -1520,6 +1585,14 @@
     "country": "United Arab Emirates",
     "parentId": null,
     "note": "Abu Dhabi investment firm; Bloomberg calls it part of a business empire overseen by Sheikh Tahnoon bin Zayed Al Nahyan (claim chimera-tahnoon-empire). Majority owner of Colnago since May 2020 (claim colnago-chimera-majority). No checked source here names its parent company, so none is set."
+  },
+  {
+    "id": "china-changan-automobile-group",
+    "name": "China Changan Automobile Group Co., Ltd.",
+    "type": "state",
+    "country": "CN",
+    "parentId": "government-of-china",
+    "note": "Chinese central state-owned enterprise under SASAC since 29 July 2025 (No. 73 in the central SOE directory)."
   },
   {
     "id": "china-eastern-air-holding",
@@ -1863,6 +1936,14 @@
     "note": "Listed on the Tokyo Stock Exchange, securities code 8253. Part of the Saison Group; allied with Mizuho."
   },
   {
+    "id": "crelan",
+    "name": "Crelan",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Belgium",
+    "note": "Belgian cooperative bank: 100% owned by the cooperative fund CrelanCo (SC/CV); more than 291,000 customers are cooperative shareholders (crelan.be)."
+  },
+  {
     "id": "crowdstrike",
     "name": "CrowdStrike Holdings, Inc.",
     "type": "listed-company",
@@ -1985,6 +2066,14 @@
     "country": "France",
     "parentId": "association-famille-mulliez",
     "note": "Sports retailer; Le Journal des Entreprises lists Decathlon among the companies held by the Association Famille Mulliez (decathlon-afm-ownership)."
+  },
+  {
+    "id": "deceuninck",
+    "name": "Deceuninck NV",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Belgium",
+    "note": "Hooglede-Gits window, cladding and decking systems maker. Own shareholder table (25 Aug 2026): Gramo BV 31.19%, H.P. Participaties Comm.V. 7.90%, Frank Deceuninck 5.08%, treasury shares 0.15%, others 55.68%."
   },
   {
     "id": "deel-inc",
@@ -2226,6 +2315,22 @@
     "parentId": "port-free-zone-world"
   },
   {
+    "id": "dr-automobiles-groupe",
+    "name": "DR Automobiles Groupe",
+    "type": "private-company",
+    "parentId": null,
+    "country": "IT",
+    "note": "Italian carmaker based in Macchia d'Isernia (Molise), led by founder Massimo Di Risio. Its shareholder structure isn't published."
+  },
+  {
+    "id": "dr-wolff-group",
+    "name": "Dr. Wolff Group",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany",
+    "note": "Bielefeld consumer group (Dr. Kurt Wolff cosmetics / Dr. August Wolff medical divisions) whose brands include Alpecin, Alcina, Plantur, Karex, Linola, Bioniq and Vagisan; describes itself as a family business in its fourth generation (drwolffgroup.com)."
+  },
+  {
     "id": "dream-finders-homes-owner",
     "name": "Dream Finders Homes",
     "type": "listed-company",
@@ -2380,6 +2485,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "Spain"
+  },
+  {
+    "id": "electrolux-group",
+    "name": "Electrolux Group (AB Electrolux)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "SE",
+    "note": "Swedish appliance maker whose brands include Electrolux, AEG and Frigidaire. Largest shareholder is Investor AB, which held 17.94 percent of the shares and 30.43 percent of the votes in May 2026 (Nasdaq exchange notice, 2026-05-21)."
   },
   {
     "id": "electronic-arts",
@@ -2777,6 +2890,14 @@
     "country": "KY"
   },
   {
+    "id": "fortuna-entertainment-group",
+    "name": "Fortuna Entertainment Group (FEG)",
+    "type": "private-company",
+    "country": "Czechia",
+    "parentId": "penta-investments",
+    "note": "Central and Eastern European betting and gaming group; reported owner Penta Investments (Gambling News, 2024-03-21)."
+  },
+  {
     "id": "fosun",
     "name": "Fosun International",
     "type": "listed-company",
@@ -2908,6 +3029,15 @@
     "note": "Reused id; Russian state controls a majority stake via Rosimushchestvo."
   },
   {
+    "id": "gazprom-neft",
+    "name": "Gazprom Neft PJSC",
+    "type": "listed-company",
+    "country": "Russia",
+    "parentId": "gazprom",
+    "via": "Gazprom Group owns about 96% of the shares (AK&M)",
+    "note": "Gazprom's oil arm (Reuters via Global Banking & Finance: 'its sanctioned oil unit'); its subsidiary NIS was added to the US SDN sanctions list in January 2025 (AK&M). Controlling shareholder of NIS a.d. (44.85% directly, plus Gazprom's 11.3% via Gazprom Capital)."
+  },
+  {
     "id": "gcs",
     "name": "Griffin Core Solutions, S.L.",
     "type": "private-company",
@@ -2970,6 +3100,13 @@
     "parentId": "motorsport-invest"
   },
   {
+    "id": "gepaworld-group",
+    "name": "GEPAWORLD Group",
+    "type": "private-company",
+    "note": "Named as GSA Sport's parent company (CEO Gerry F. Papaspyratos) in Anadolu Efes S.K.'s announcement of the GSA Sport partnership (gsa-sport-gepaworld-ownership).",
+    "parentId": null
+  },
+  {
     "id": "gewiss-spa",
     "name": "GEWISS S.p.A.",
     "type": "private-company",
@@ -2983,6 +3120,14 @@
     "parentId": null,
     "country": "DE",
     "note": "German commercial catering-equipment supplier registered at Amtsgericht Steinfurt (HRB 9637), Ochtrup; its managing directors are Ferit Inan and Ömer Elma."
+  },
+  {
+    "id": "gi-lu-pi-srl",
+    "name": "GI.LU.PI. S.r.l. a S.U.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "IT",
+    "note": "The company named in the footer of the BetItalyPay website, based in Tricase (Lecce). Its shareholder isn't published; founder Giuseppe Pandinelli is named in press coverage of the Lecce deal (PianetaLecce, 5 Aug 2026)."
   },
   {
     "id": "gic",
@@ -3281,6 +3426,14 @@
     "country": "France",
     "via": "Regional mutual insurance company (SIREN 382285260, nature juridique 6596) governed by its sociétaires (members) through local caisses",
     "note": "A mutual insurer owned by its members, not by shareholders; no state or fund owner. Parent-group structure (Groupama Assurances Mutuelles) not traced to a state."
+  },
+  {
+    "id": "groupe-bruxelles-lambert",
+    "name": "Groupe Bruxelles Lambert (GBL)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Belgium",
+    "note": "Brussels-listed investment holding. Its portfolio page lists Canyon among its controlled/co-controlled stakes with 52.6% of the share capital (30 June 2026)."
   },
   {
     "id": "groupe-deveaux",
@@ -3697,6 +3850,14 @@
     "note": "Tokyo-headquartered industrial and digital conglomerate; listed in Tokyo and Nagoya (stock information, hitachi.com, as of 30 June 2026)."
   },
   {
+    "id": "hitay-holding",
+    "name": "Hitay Holding",
+    "type": "private-company",
+    "country": "Türkiye",
+    "note": "Turkish investment group founded by Emin Hitay in 1980; its companies include Bilyoner, Teknoser, Exim and AltiliGanyan.com (bilyoner-hitay-holding-ownership).",
+    "parentId": null
+  },
+  {
     "id": "holding-cichy",
     "name": "Holding Cichy (H.C.)",
     "type": "private-company",
@@ -3862,6 +4023,14 @@
     "country": "SE"
   },
   {
+    "id": "iko-industries",
+    "name": "IKO Industries",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Canada",
+    "note": "Roofing, waterproofing and insulation manufacturer (site footer: IKO Industries Ltd., IKO Industries, Inc. and related entities), describing itself as family-owned and operated since 1951 (iko.com)."
+  },
+  {
     "id": "indeed-inc",
     "name": "Indeed, Inc.",
     "type": "private-company",
@@ -3997,7 +4166,7 @@
     "type": "private-company",
     "country": "Turkey",
     "parentId": null,
-    "note": "Savings-finance (tasarruf finansmanı) company; İyi Finans is its brand (iyi-finans-ownership). Its shareholders were not found."
+    "note": "Savings-finance (tasarruf finansmanı) company licensed by BDDK on 7 July 2025; İyi Finans is its brand. Per the 2025 annual-report ownership information reported by Milli Gazete, Ali Emre Ballı holds 100% of the company and chairs its board (iyi-finans-ownership)."
   },
   {
     "id": "j-carter-sporting-club-limited",
@@ -4027,8 +4196,8 @@
     "name": "Jefferson Health",
     "type": "private-company",
     "parentId": null,
-    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
-    "country": "US"
+    "country": "US",
+    "note": "The healthcare system that sponsors the Philadelphia Eagles' practice jerseys, part of the Jefferson enterprise; ownership documented by the claim jefferson-health-nonprofit."
   },
   {
     "id": "jeonbuk-state",
@@ -4140,6 +4309,14 @@
     "country": "Greece"
   },
   {
+    "id": "kalas-sportswear",
+    "name": "KALAS Sportswear",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Czech Republic",
+    "note": "Tábor-based custom cycling-apparel maker, founded 1990 by former cyclist Čestmír Kalaš; 'Kalas remains a family-owned company' (kalas.cc story page)."
+  },
+  {
     "id": "kaleida-health-owner",
     "name": "Kaleida Health",
     "type": "private-company",
@@ -4229,6 +4406,14 @@
     "country": "KOR"
   },
   {
+    "id": "kiewit-corporation",
+    "name": "Kiewit Corporation",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US",
+    "note": "Employee-owned construction and engineering company headquartered in Omaha, Nebraska."
+  },
+  {
     "id": "kindred-group",
     "name": "Kindred Group Ltd.",
     "type": "private-company",
@@ -4269,6 +4454,14 @@
     "country": "FR",
     "via": "Tire brand of the Michelin group; Kleber's own history page says Michelin became majority shareholder (1980 entry)",
     "note": "Kleber is a Michelin brand rather than a separate listed company (kleber-michelin-ownership)."
+  },
+  {
+    "id": "kln-family-brands",
+    "name": "KLN Family Brands",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US",
+    "note": "Family-owned pet-food company based in Perham, Minnesota; not known to be publicly listed."
   },
   {
     "id": "knox-hydrate-pty-ltd",
@@ -4536,6 +4729,14 @@
     "parentId": "government-of-abu-dhabi",
     "via": "Sovereign investor of the Government of Abu Dhabi; absorbed ADQ in 2026; chaired by Sheikh Tahnoon bin Zayed (The Inner Ring, 2026-08-05)",
     "note": "UAE Team L'IMAD sponsor page: 'L'IMAD is a sovereign investor of the Government of Abu Dhabi.' Cyclingnews (2026-07-27): Abu Dhabi sovereign wealth fund reportedly worth about $300bn, chaired by Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan; ADQ absorbed into L'IMAD. The Inner Ring (2026-08-05) says the fund is chaired by Sheikh Tahnoon bin Zayed. Chair accounts differ between sources."
+  },
+  {
+    "id": "limak-holding",
+    "name": "Limak Holding (Limak Şirketler Grubu)",
+    "type": "private-company",
+    "country": "Turkey",
+    "parentId": null,
+    "note": "Turkish conglomerate (construction, energy, tourism, cement, airports) founded in 1976 by Nihat Özdemir and Sezai Bacaksız, whom Forbes profiles as billionaire partners (limak-hotels-ownership)."
   },
   {
     "id": "lincoln-financial-group-owner",
@@ -4828,10 +5029,10 @@
   },
   {
     "id": "marathon-owner",
-    "name": "Marathon",
+    "name": "Marathon Petroleum Corporation",
     "type": "listed-company",
     "parentId": null,
-    "note": "jersey patch partner of cleveland-guardians (2026-27).",
+    "note": "Owner of the Marathon retail brand, the jersey patch partner of cleveland-guardians (2026-27).",
     "country": "US"
   },
   {
@@ -5276,7 +5477,7 @@
     "type": "private-company",
     "country": "Serbia",
     "parentId": null,
-    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened."
+    "note": "Serbian sports-betting and gaming company (Mozzart d.o.o. Beograd; brand Mozzart Bet). Per CompanyWall's register data (last ownership change 15 April 2026), 36 owners — private individuals plus Eter Consulting d.o.o. (2,64%); the largest Jadranka Stepanović (40,98%) and Dejan Čakajac (38,35%)."
   },
   {
     "id": "msc-group-aponte-family",
@@ -5536,11 +5737,20 @@
   },
   {
     "id": "nintendo-owner",
-    "name": "Nintendo (Nintendo of America) LLC",
+    "name": "Nintendo Co., Ltd.",
     "type": "listed-company",
     "parentId": null,
-    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
-    "country": "US"
+    "note": "Ultimate parent of the sponsor Nintendo of America Inc. Listed on the Tokyo Stock Exchange.",
+    "country": "Japan"
+  },
+  {
+    "id": "nis-ad",
+    "name": "NIS a.d. Novi Sad (Naftna Industrija Srbije)",
+    "type": "listed-company",
+    "country": "Serbia",
+    "parentId": "gazprom-neft",
+    "via": "Gazprom Neft 44.85%, Gazprom 11.3% via Gazprom Capital (=56.15% combined); Serbian government 29.87% (AK&M, October 2026)",
+    "note": "Its shares traded on the Belgrade Stock Exchange until trading was suspended in early 2025 (AK&M). The agreed sale of the Russian 56.15% stake to Hungary's MOL (binding Heads of Agreement, January 2026) had not closed as of 29 September 2026."
   },
   {
     "id": "nissan-owner",
@@ -5581,6 +5791,15 @@
     "country": "United States",
     "parentId": null,
     "note": "US towel and poncho brand; a social purpose corporation launched in 2015 by co-founders Zack Helminiak, Chace Petersen and Hunter Robinson (nomadix.co blog, 4 Feb 2021)."
+  },
+  {
+    "id": "nordagri-nv",
+    "name": "NORDAGRI N.V.",
+    "type": "private-company",
+    "country": "Netherlands",
+    "parentId": "agri-europe-cyprus",
+    "via": "AEC Group (per Bankar/Forbes Montenegro)",
+    "note": "Dutch holding of the AEC Group finance chain."
   },
   {
     "id": "norelem-sas",
@@ -5877,6 +6096,22 @@
     "note": "Ankara holding (PASİFİK HOLDİNG ANONİM ŞİRKETİ) with an IPO prospectus on its investor-relations site. Its shareholder table lists Fatih Erdoğan, Abdulkerim Fırat and Mehmet Erdoğan with 26.67% each and 19.99% in holdings below 5%; Fatih Erdoğan chairs the board."
   },
   {
+    "id": "payabl-group",
+    "name": "payabl. group",
+    "type": "private-company",
+    "country": "Cyprus",
+    "parentId": null,
+    "note": "Limassol-based payments company; in August 2026 reportedly agreed to a 50/50 split between private equity firm ECM Partners and Group CEO Ugne Buračienė (Finance Magnates, 2026-08-17)."
+  },
+  {
+    "id": "paychex",
+    "name": "Paychex, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "US company that files proxy statements with the SEC for an annual meeting of stockholders (DEF 14A for the meeting of 2026-10-15); acquired Paycor in April 2025.",
+    "country": "US"
+  },
+  {
     "id": "paycom-owner",
     "name": "Paycom",
     "type": "listed-company",
@@ -5888,16 +6123,16 @@
     "id": "paycor-owner",
     "name": "Paycor",
     "type": "private-company",
-    "parentId": null,
-    "note": "arena naming-rights holder of cincinnati-bengals (2026-27).",
+    "parentId": "paychex",
+    "note": "HCM software company; acquired by Paychex in April 2025 (claim paycor-owner-record). Naming-rights holder of Paycor Stadium, home of the cincinnati-bengals.",
     "country": "US"
   },
   {
     "id": "paypal-owner",
-    "name": "PayPal LLC",
+    "name": "PayPal Holdings, Inc.",
     "type": "listed-company",
     "parentId": null,
-    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
+    "note": "Owner of the PayPal brand, Phoenix Suns jersey patch sponsor 2018–2026. Nasdaq-listed (PYPL) per its FY2025 Form 10-K, filed 2026-02-03; ownership source (SEC 10-K) opened 2026-10-01.",
     "country": "US"
   },
   {
@@ -5928,6 +6163,13 @@
     "type": "private-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "penta-investments",
+    "name": "Penta Investments",
+    "type": "private-company",
+    "parentId": null,
+    "note": "Czech-Slovak private equity group founded in 1994 (Gambling News). Owner of Fortuna Entertainment Group; reported in March 2024 to be weighing a sale of FEG, no completed sale found."
   },
   {
     "id": "pentland-group",
@@ -6001,6 +6243,14 @@
     "via": "Oil Industry Pension Fund group: 38% and 3 of 5 board seats (Sept 2026)",
     "note": "Tehran Stock Exchange listed holding, symbol فارس. Majority shareholder and main shirt sponsor of Esteghlal FC. Designated by US OFAC on 7 June 2019 (E.O. 13382) for providing financial support to the IRGC's Khatam al-Anbiya; sanctions/financial support records are not human-rights records under METHOD.md.",
     "parentId": "oil-industry-pension-fund"
+  },
+  {
+    "id": "phh-group",
+    "name": "PHH Group (Pigu Hobby Hall Group)",
+    "type": "private-company",
+    "country": "Lithuania",
+    "parentId": null,
+    "note": "Baltic/Finnish e-commerce group formed by merging Pigu.lt and Hobby Hall Group; shareholders led by Mid Europa Partners (15min.lt, 2022-04-01)."
   },
   {
     "id": "philip-morris-international",
@@ -6126,6 +6376,14 @@
     "country": "Italy",
     "parentId": "italian-ministry-of-economy-finance",
     "note": "~65% held by the Ministry of the Economy and Finance (29.26%) and Cassa Depositi e Prestiti (35%), a company in turn controlled by the Ministry (Poste Italiane company profile, English)."
+  },
+  {
+    "id": "premier-tech-ltd",
+    "name": "Premier Tech Ltd",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Canada",
+    "note": "Rivière-du-Loup, Quebec industrial group (horticulture, packaging systems, water treatment). Private since 2007; bought by Bernard Bélanger in 1978 and described as a family company, with his son Jean Bélanger as president and CEO (Les Affaires, 2023)."
   },
   {
     "id": "prette-family",
@@ -6712,6 +6970,14 @@
     "country": "Rwanda",
     "note": "National social-security institution, established 2010 by merging the Social Security Fund of Rwanda and RAMA; describes itself as 'Rwanda's largest institutional investor' with RWF 3.9 trillion under management. Took full ownership of Tigers BBC in 2025 and renamed it RSSB Tigers (The New Times, 2026).",
     "parentId": null
+  },
+  {
+    "id": "rugs-com",
+    "name": "Rugs.com",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US",
+    "note": "The company describes itself as family-owned and family-operated, with its headquarters in Fort Mill, South Carolina; it does not name the owning family on its site."
   },
   {
     "id": "russian-federation",
@@ -7522,11 +7788,11 @@
   },
   {
     "id": "stifel-owner",
-    "name": "Stifel Financial Corporation",
+    "name": "Stifel Financial Corp.",
     "type": "listed-company",
+    "country": "US",
     "parentId": null,
-    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
-    "country": "US"
+    "note": "Jersey-patch partner of st-louis-cardinals (2026-27). NYSE-listed (SF); ownership claim stifel-owner-record from its Form 10-K for the fiscal year ended 31 December 2025."
   },
   {
     "id": "stingray-marine-solutions",
@@ -7594,7 +7860,7 @@
     "type": "private-company",
     "country": "Romania",
     "parentId": null,
-    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened."
+    "note": "Gambling group founded in 2008 by Sacha Dragic, who returned as sole CEO in 2026 (iGaming Business, 31 October 2025). Funds managed or advised by Blackstone's Tactical Opportunities business made a strategic minority equity investment in May 2019, refinanced in February 2025 (Blackstone press release; Simpson Thacher)."
   },
   {
     "id": "surj-sports-investment",
@@ -8062,6 +8328,13 @@
     "type": "state-fund",
     "country": "Türkiye",
     "parentId": "government-of-turkiye"
+  },
+  {
+    "id": "tv3-group",
+    "name": "TV3 Group",
+    "type": "private-company",
+    "parentId": null,
+    "note": "Pan-Baltic media group; Go3 is its streaming service. Portfolio company of Bitė Group and Providence Equity Partners (Viaplay Group press release, 2024-02-01)."
   },
   {
     "id": "twg-global",
@@ -8776,6 +9049,14 @@
     "country": "GB"
   },
   {
+    "id": "zey-yapi",
+    "name": "Zey Yapı",
+    "type": "private-company",
+    "country": "Turkey",
+    "parentId": null,
+    "note": "Ankara construction contractor set up in 2001 (its site cites the 22 June 2001 trade registry gazette). ABC Gazetesi reports it as owned by Mehmet Zeki Peker; the chairman's message on its own site is signed Emre Peker (zey-yapi-ownership)."
+  },
+  {
     "id": "zhejiang-geely-holding-group",
     "name": "Zhejiang Geely Holding Group Co., Ltd.",
     "type": "private-company",
@@ -8822,5 +9103,13 @@
     "via": "Sela (PIF) 60% / TKO Group Holdings 40%",
     "note": "Incorporated as Boxing OpCo, LLC (Sep 2024); announced 5 Mar 2025 as a TKO-Sela partnership with Turki Alalshikh, TKO as managing partner. Sela 60 / TKO 40 split per Thomas Hauser, The Guardian, 28 Jan 2026 ('Sela owns 60% of Zuffa Boxing and TKO owns 40%'); single-source, check TKO filings. Co-founded by Dana White and Turki Alalshikh.",
     "parentId": null
+  },
+  {
+    "id": "zwift-inc",
+    "name": "Zwift, Inc.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US",
+    "note": "US online fitness platform (founded 2014). Venture-backed: its 2020 Series C was a $450 million minority investment led by KKR with Permira, Specialized's Zone 5 Ventures, the Amazon Alexa Fund, True, Highland Europe, Novator and Causeway Media (Zwift release)."
   }
 ]

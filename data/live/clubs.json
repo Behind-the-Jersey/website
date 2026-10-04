@@ -1524,7 +1524,12 @@
     "country": "USA",
     "crest": "assets/crests/buffalo-bills.png",
     "aliases": [],
-    "hasTeamPageDesign": false
+    "hasTeamPageDesign": false,
+    "contact": {
+      "kind": "contact-page",
+      "url": "https://www.buffalobills.com/about-us/contact-us",
+      "source": "buffalobills.com About > Contact Us page (checked 2026-10-01)"
+    }
   },
   {
     "id": "buriram-united",
@@ -1772,6 +1777,11 @@
     "country": "USA",
     "crest": "assets/crests/chicago-cubs.png",
     "aliases": [],
+    "contact": {
+      "kind": "contact-page",
+      "url": "https://www.mlb.com/cubs/official-information/contact",
+      "source": "Club website contact page (MLB.com), opened 2026-10-01: fanservices@cubs.com and 800-THE-CUBS"
+    },
     "hasTeamPageDesign": false
   },
   {
@@ -6158,7 +6168,12 @@
     "leagueId": "mls",
     "country": "USA",
     "crest": "assets/crests/san-diego-fc.png",
-    "aliases": []
+    "aliases": [],
+    "contact": {
+      "kind": "contact-page",
+      "url": "https://www.sandiegofc.com/club/contact",
+      "source": "San Diego FC contact page, opened 2026-10-03: 'Questions? Call us at 619-363-7332' and 'Email: Customerservice@sandiegofc.com'"
+    }
   },
   {
     "id": "san-diego-padres",

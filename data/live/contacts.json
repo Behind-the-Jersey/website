@@ -1514,25 +1514,50 @@
     "clubId": "buffalo-bills",
     "channels": [
       {
+        "type": "contact-form",
+        "value": "https://www.buffalobills.com/about-us/contact-us",
+        "label": "Contact Us",
+        "source": {
+          "name": "Buffalo Bills – Contact Us page",
+          "url": "https://www.buffalobills.com/about-us/contact-us",
+          "date": "2026",
+          "quote": "Contact Us",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
         "type": "x",
         "value": "@buffalobills",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.buffalobills.com/",
-          "date": "2026-09-24"
+          "name": "Buffalo Bills – Fans page (Connect with us)",
+          "url": "https://www.buffalobills.com/fans/",
+          "date": "2026",
+          "quote": "x buffalobills",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "instagram",
         "value": "@buffalobills",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.buffalobills.com/",
-          "date": "2026-09-24"
+          "name": "Buffalo Bills – Fans page (Connect with us)",
+          "url": "https://www.buffalobills.com/fans/",
+          "date": "2026",
+          "quote": "instagram buffalobills",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "cadillac",
@@ -1782,7 +1807,12 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/hornets/contact",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "arenainfo@hornets.com",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -1792,29 +1822,44 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/hornets/contact",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "Contact Page | Charlotte Hornets",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "x",
         "value": "@hornets",
         "source": {
-          "name": "Club website contact page",
+          "name": "Club website",
           "url": "https://www.nba.com/hornets/",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "\"twitter\":\"https://twitter.com/hornets\"",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "instagram",
         "value": "@hornets",
         "source": {
-          "name": "Club website contact page",
+          "name": "Club website",
           "url": "https://www.nba.com/hornets/",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "\"instagram\":\"https://www.instagram.com/hornets/\"",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "chelsea",
@@ -1958,9 +2003,9 @@
         }
       },
       {
-        "type": "contact-form",
-        "value": "https://www.mlb.com/cubs/official-information/contact",
-        "label": "Contact form",
+        "type": "phone",
+        "value": "+1-800-843-2827",
+        "label": "Cubs Customer Service: 800-THE-CUBS",
         "source": {
           "name": "Club website contact page",
           "url": "https://www.mlb.com/cubs/official-information/contact",
@@ -1986,31 +2031,62 @@
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "chicago-fire",
     "channels": [
       {
+        "type": "website",
+        "value": "https://www.chicagofirefc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.chicagofirefc.com",
+          "date": "2026-10-02"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.chicagofirefc.com/inquiries",
+        "label": "General inquiries page - no fan email address published",
+        "source": {
+          "name": "Club website – General Inquiries",
+          "url": "https://www.chicagofirefc.com/inquiries",
+          "date": "2026-10-02"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 872-710-0790",
+        "label": "Customer Service / Lost & Found",
+        "source": {
+          "name": "Club website – General Inquiries",
+          "url": "https://www.chicagofirefc.com/inquiries",
+          "date": "2026-10-02",
+          "quote": "Chicago Fire Football Club Customer Service / Lost & Found: 872-710-0790"
+        }
+      },
+      {
         "type": "x",
         "value": "@ChicagoFire",
         "source": {
-          "name": "Club website contact page",
+          "name": "Club website",
           "url": "https://www.chicagofirefc.com/",
-          "date": "2026-09-24"
+          "date": "2026-10-02"
         }
       },
       {
         "type": "instagram",
         "value": "@chicagofire",
         "source": {
-          "name": "Club website contact page",
+          "name": "Club website",
           "url": "https://www.chicagofirefc.com/",
-          "date": "2026-09-24"
+          "date": "2026-10-02"
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-02"
   },
   {
     "clubId": "chicago-white-sox",
@@ -2070,42 +2146,65 @@
       {
         "type": "email",
         "value": "Webmaster@Bengals.nfl.net",
+        "label": "General inquiries",
         "source": {
-          "name": "Club website contact page",
+          "name": "Cincinnati Bengals: Contact Us (club website)",
           "url": "https://www.bengals.com/fans/contact",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "GENERAL INQUIRIES Webmaster@Bengals.nfl.net 1 Paycor Stadium | Cincinnati, Ohio 45202",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "contact-form",
         "value": "https://www.bengals.com/fans/contact",
-        "label": "Contact form",
+        "label": "Contact page",
         "source": {
-          "name": "Club website contact page",
+          "name": "Cincinnati Bengals: Contact Us (club website)",
           "url": "https://www.bengals.com/fans/contact",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "GENERAL INQUIRIES Webmaster@Bengals.nfl.net 1 Paycor Stadium | Cincinnati, Ohio 45202",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "x",
-        "value": "@GeoffHobsonCin",
+        "value": "@Bengals",
+        "label": "Official club account on X",
         "source": {
-          "name": "Club website contact page",
+          "name": "Cincinnati Bengals club website (footer social links)",
           "url": "https://www.bengals.com/",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "email E-Mail x Bengals",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-scout"
+          }
         }
       },
       {
         "type": "instagram",
         "value": "@bengals",
+        "label": "Official club account on Instagram",
         "source": {
-          "name": "Club website contact page",
+          "name": "Cincinnati Bengals club website (footer social links)",
           "url": "https://www.bengals.com/",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "facebook Bengals instagram Bengals snapchat",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-scout"
+          }
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "cincinnati-reds",
@@ -2432,6 +2531,36 @@
     "clubId": "columbus-crew",
     "channels": [
       {
+        "type": "contact-form",
+        "value": "https://scottsmiraclegrofield.com/contact/",
+        "label": "ScottsMiracle-Gro Field contact form",
+        "source": {
+          "name": "ScottsMiracle-Gro Field – Contact",
+          "url": "https://scottsmiraclegrofield.com/contact/",
+          "date": "2025-11-18",
+          "quote": "Have a question? Have a look at our A-Z Guide for a quick answer or fill out the form below to speak with a member of our team.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+16144475198",
+        "label": "Fan Feedback (text CREW to 614-447-5198 on matchday)",
+        "source": {
+          "name": "ScottsMiracle-Gro Field – A-Z Guide (Fan Feedback)",
+          "url": "https://www.columbuscrew.com/matchday/az-guide",
+          "date": "2026-02-27",
+          "quote": "Text the Keyword CREW to 614-447-5198 or scan the QR codes around the stadium.",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
         "type": "x",
         "value": "@columbuscrew",
         "source": {
@@ -2450,7 +2579,7 @@
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-02"
   },
   {
     "clubId": "como",
@@ -2600,6 +2729,36 @@
     "clubId": "dallas-mavericks",
     "channels": [
       {
+        "type": "email",
+        "value": "mavsfoundation@dallasmavs.com",
+        "label": "Mavs Foundation",
+        "source": {
+          "name": "Dallas Mavericks: Mavs Foundation contact",
+          "url": "https://www.nba.com/mavs/community/dallas-mavericks-foundation",
+          "date": "2026-10-01",
+          "quote": "Mavs Foundation 1333 N. Stemmons Freeway Ste. 150 Dallas, Texas 75207 (214) 747-6287 mavsfoundation@dallasmavs.com",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "type": "email",
+        "value": "tickets@dallasmavs.com",
+        "label": "Ticket disputes (per the club's ticket terms)",
+        "source": {
+          "name": "Dallas Mavericks: Ticket terms",
+          "url": "https://www.nba.com/mavs/ticketterms",
+          "date": "2026-10-01",
+          "quote": "If the Holder has a dispute, they shall send the Dispute Notice to tickets@dallasmavs.com.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
         "type": "x",
         "value": "@dallasmavs",
         "source": {
@@ -2618,7 +2777,7 @@
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "darmstadt-98",
@@ -3387,9 +3546,24 @@
           "url": "https://www.fcdallas.com",
           "date": "2026-09-24"
         }
+      },
+      {
+        "type": "email",
+        "value": "feedback@fcdallas.com",
+        "label": "Club feedback inbox",
+        "source": {
+          "name": "Club website footer (Contact)",
+          "url": "https://www.fcdallas.com",
+          "date": "2026-10-02",
+          "quote": "feedback@fcdallas.com",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-02"
   },
   {
     "clubId": "fc-koln",
@@ -4258,7 +4432,12 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/pacers/contact-us-pacers",
-          "date": "2026-09-24"
+          "date": "2026-09-01",
+          "quote": "Indiana Pacers 125 S. Pennsylvania Street Indianapolis, IN 46204 Phone: (317) 917-2500 Email: GuestServices@Pacers.com",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -4268,11 +4447,16 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/pacers/contact-us-pacers",
-          "date": "2026-09-24"
+          "date": "2026-09-01",
+          "quote": "Before submitting your inquiry, please review our Frequently Asked Questions to see if your question has already been answered.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "indianapolis-colts",
@@ -5587,6 +5771,21 @@
     "clubId": "memphis-grizzlies",
     "channels": [
       {
+        "type": "contact-form",
+        "value": "https://www.nba.com/grizzlies/contact-us",
+        "label": "Grizzlies Contact Us form",
+        "source": {
+          "name": "Grizzlies Contact Us (nba.com/grizzlies)",
+          "url": "https://www.nba.com/grizzlies/contact-us",
+          "date": "2026",
+          "quote": "Grizzlies Contact Us",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
         "type": "x",
         "value": "@memgrizz",
         "source": {
@@ -5605,7 +5804,7 @@
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "mercedes",
@@ -5706,6 +5905,36 @@
     "clubId": "miami-heat",
     "channels": [
       {
+        "type": "email",
+        "value": "guestservices@heat.com",
+        "label": "Guest Services",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nba.com/heat/contact",
+          "date": "2026-10-01",
+          "quote": "Contact Guest Services",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+17867771000",
+        "label": "Main number",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nba.com/heat/contact",
+          "date": "2026-10-01",
+          "quote": "601 Biscayne Blvd. Miami, FL 33132 - (786) 777-1000",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
         "type": "x",
         "value": "@miamiheat",
         "source": {
@@ -5724,7 +5953,7 @@
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "miami-marlins",
@@ -5846,33 +6075,50 @@
       {
         "type": "email",
         "value": "tickets@bucks.com",
+        "label": "Ticket Information",
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/bucks/contact",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "Ticket Information: tickets@bucks.com Webmaster: webmaster@bucks.com",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "email",
         "value": "webmaster@bucks.com",
+        "label": "Webmaster",
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/bucks/contact",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "Ticket Information: tickets@bucks.com Webmaster: webmaster@bucks.com",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "contact-form",
         "value": "https://www.nba.com/bucks/contact",
-        "label": "Contact form",
+        "label": "Contact form (Bucks.com Contact Us)",
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/bucks/contact",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "\"formID\":\"untitled_contact_form4\",\"domain\":\"https://bucks.formstack.com\",\"integration\":\"normal\",\"formTitle\":\"Bucks.com Contact Us\"",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "minnesota-timberwolves",
@@ -6485,22 +6731,32 @@
         "type": "x",
         "value": "@giants",
         "source": {
-          "name": "Club website contact page",
+          "name": "Giants.com - Stay Connected footer",
           "url": "https://www.giants.com/",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "email Newsletter x Giants",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "instagram",
         "value": "@nygiants",
         "source": {
-          "name": "Club website contact page",
+          "name": "Giants.com - Stay Connected footer",
           "url": "https://www.giants.com/",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "instagram NYGiants",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "new-york-jets",
@@ -7046,33 +7302,63 @@
       {
         "type": "contact-form",
         "value": "https://www.philadelphiaeagles.com/footer/contact-us/",
-        "label": "Contact form",
+        "label": "Contact page / fan feedback",
         "source": {
-          "name": "Club website contact page",
+          "name": "Philadelphia Eagles (philadelphiaeagles.com) – Contact Us",
           "url": "https://www.philadelphiaeagles.com/footer/contact-us/",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "GENERAL / FAN FEEDBACK",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+12154632500",
+        "label": "Team headquarters",
+        "source": {
+          "name": "Philadelphia Eagles (philadelphiaeagles.com) – Contact Us",
+          "url": "https://www.philadelphiaeagles.com/footer/contact-us/",
+          "date": "2026-10-01",
+          "quote": "Team Headquarters at the Jefferson Health Training Complex: 215-463-2500",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "x",
         "value": "@Eagles",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.philadelphiaeagles.com/",
-          "date": "2026-09-24"
+          "name": "Philadelphia Eagles (philadelphiaeagles.com) – Social",
+          "url": "https://www.philadelphiaeagles.com/social",
+          "date": "2026-10-01",
+          "quote": "x Eagles X",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "instagram",
         "value": "@philadelphiaeagles",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.philadelphiaeagles.com/",
-          "date": "2026-09-24"
+          "name": "Philadelphia Eagles (philadelphiaeagles.com) – Social",
+          "url": "https://www.philadelphiaeagles.com/social",
+          "date": "2026-10-01",
+          "quote": "instagram Eagles Instagram",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "philadelphia-phillies",
@@ -7205,23 +7491,35 @@
       {
         "type": "email",
         "value": "memberships@suns.com",
+        "label": "Ticket memberships",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.nba.com/suns/",
-          "date": "2026-09-24"
+          "name": "Phoenix Suns: Guest Services",
+          "url": "https://www.nba.com/suns/contact",
+          "date": "2026-10-01",
+          "quote": "EMAIL: MEMBERSHIPS@SUNS.COM",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "phone",
         "value": "6023792000",
+        "label": "Ticket memberships",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.nba.com/suns/",
-          "date": "2026-09-24"
+          "name": "Phoenix Suns: Guest Services",
+          "url": "https://www.nba.com/suns/contact",
+          "date": "2026-10-01",
+          "quote": "CALL: 602-379-2000",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "pittsburgh-pirates",
@@ -7229,19 +7527,31 @@
       {
         "type": "email",
         "value": "talkback@pirates.com",
+        "label": "General feedback and customer service",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.mlb.com/pirates/official-information/contact",
-          "date": "2026-09-24"
+          "name": "Pittsburgh Pirates: Contact the Pirates (read via the Wayback Machine)",
+          "url": "http://web.archive.org/web/20260920221318/https://www.mlb.com/pirates/official-information/contact",
+          "date": "2026-09-20",
+          "quote": "General Feedback and Customer Service",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "email",
         "value": "ticketservices@pirates.com",
+        "label": "Ticket services",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.mlb.com/pirates/official-information/contact",
-          "date": "2026-09-24"
+          "name": "Pittsburgh Pirates: Contact the Pirates (read via the Wayback Machine)",
+          "url": "http://web.archive.org/web/20260920221318/https://www.mlb.com/pirates/official-information/contact",
+          "date": "2026-09-20",
+          "quote": "Ticket Services",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -7249,31 +7559,48 @@
         "value": "https://www.mlb.com/pirates/official-information/contact",
         "label": "Contact form",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.mlb.com/pirates/official-information/contact",
-          "date": "2026-09-24"
+          "name": "Pittsburgh Pirates: Contact the Pirates (read via the Wayback Machine)",
+          "url": "http://web.archive.org/web/20260920221318/https://www.mlb.com/pirates/official-information/contact",
+          "date": "2026-09-20",
+          "quote": "CONTACT THE PIRATES",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "x",
         "value": "@Pirates",
+        "label": "Pirates on X",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.mlb.com/pirates",
-          "date": "2026-09-24"
+          "name": "Pittsburgh Pirates: Connect with the Pittsburgh Pirates (read via the Wayback Machine)",
+          "url": "http://web.archive.org/web/20260711203432/https://www.mlb.com/pirates/social",
+          "date": "2026-07-11",
+          "quote": "The Official Accounts of the Pirates",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "instagram",
         "value": "@pittsburghpirates",
+        "label": "Pirates on Instagram",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.mlb.com/pirates",
-          "date": "2026-09-24"
+          "name": "Pittsburgh Pirates: Connect with the Pittsburgh Pirates (read via the Wayback Machine)",
+          "url": "http://web.archive.org/web/20260711203432/https://www.mlb.com/pirates/social",
+          "date": "2026-07-11",
+          "quote": "The Official Accounts of the Pirates",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "pittsburgh-steelers",
@@ -7281,19 +7608,31 @@
       {
         "type": "email",
         "value": "ticketoffice@steelers.com",
+        "label": "Steelers Ticket Office",
         "source": {
-          "name": "Club website contact page",
+          "name": "Pittsburgh Steelers - Contact Us",
           "url": "https://www.steelers.com/legal/contact-us/",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "Steelers Ticket Office Phone: (412) 323-1200 Email: ticketoffice@steelers.com",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "email",
         "value": "merchandise@steelers.com",
+        "label": "Steelers Pro Shop",
         "source": {
-          "name": "Club website contact page",
+          "name": "Pittsburgh Steelers - Contact Us",
           "url": "https://www.steelers.com/legal/contact-us/",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "Steelers Pro Shop Phone: 1-800-832-6883 Email: merchandise@steelers.com",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -7301,31 +7640,48 @@
         "value": "https://www.steelers.com/legal/contact-us/",
         "label": "Contact form",
         "source": {
-          "name": "Club website contact page",
+          "name": "Pittsburgh Steelers - Contact Us",
           "url": "https://www.steelers.com/legal/contact-us/",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "Helpful Contact Information",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "x",
         "value": "@steelers",
+        "label": "Steelers on X",
         "source": {
-          "name": "Club website contact page",
+          "name": "Pittsburgh Steelers homepage",
           "url": "https://www.steelers.com/",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "Social Media Pittsburgh Steelers",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "instagram",
         "value": "@steelers",
+        "label": "Steelers on Instagram",
         "source": {
-          "name": "Club website contact page",
+          "name": "Pittsburgh Steelers homepage",
           "url": "https://www.steelers.com/",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "Social Media Pittsburgh Steelers",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "portland-timbers",
@@ -7985,6 +8341,7 @@
       {
         "type": "email",
         "value": "customerservice@sfgiants.com",
+        "label": "General Questions",
         "source": {
           "name": "Club website contact page",
           "url": "https://www.mlb.com/giants/official-information/contact",
@@ -7998,6 +8355,16 @@
           "name": "Club website contact page",
           "url": "https://www.mlb.com/giants/official-information/contact",
           "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+14159722000",
+        "label": "General Questions",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/giants/official-information/contact",
+          "date": "2026-10-01"
         }
       },
       {
@@ -8029,7 +8396,7 @@
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "san-jose-earthquakes",
@@ -8293,44 +8660,67 @@
     "clubId": "seattle-seahawks",
     "channels": [
       {
-        "type": "phone",
-        "value": "+14252038444",
+        "type": "email",
+        "value": "CustomerService@Seahawks.com",
+        "label": "Tickets & Customer Service",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.seahawks.com/",
-          "date": "2026-09-24"
+          "name": "Seattle Seahawks: Contact Us",
+          "url": "https://www.seahawks.com/about/contact-us",
+          "date": "2026-10-01",
+          "quote": "CustomerService@Seahawks.com",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
-        "type": "contact-form",
-        "value": "https://suites.seahawks.com/contact?utm_source=web-app&amp;utm_medium=button&amp;utm_campaign=4415546923_sr26&amp;utm_content=home-page",
-        "label": "Contact form",
+        "type": "phone",
+        "value": "+18886354295",
+        "label": "Tickets & Customer Service",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://suites.seahawks.com/contact?utm_source=web-app&amp;utm_medium=button&amp;utm_campaign=4415546923_sr26&amp;utm_content=home-page",
-          "date": "2026-09-24"
+          "name": "Seattle Seahawks: Contact Us",
+          "url": "https://www.seahawks.com/about/contact-us",
+          "date": "2026-10-01",
+          "quote": "(888) 635-4295",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "x",
         "value": "@Seahawks",
+        "label": "Follow The #Seahawks",
         "source": {
-          "name": "Club website contact page",
+          "name": "Seahawks.com home: Follow The #Seahawks",
           "url": "https://www.seahawks.com/",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "x Seahawks",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "instagram",
         "value": "@seahawks",
+        "label": "Follow The #Seahawks",
         "source": {
-          "name": "Club website contact page",
+          "name": "Seahawks.com home: Follow The #Seahawks",
           "url": "https://www.seahawks.com/",
-          "date": "2026-09-24"
+          "date": "2026-10-01",
+          "quote": "instagram Seahawks",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "seattle-sounders",
@@ -8513,20 +8903,32 @@
     "channels": [
       {
         "type": "email",
-        "value": "tickets@cardinals.com",
+        "value": "guestservices@cardinals.com",
+        "label": "Guest services",
         "source": {
-          "name": "Club website contact page",
+          "name": "Club website contact page (Contact the Cardinals)",
           "url": "https://www.mlb.com/cardinals/official-information/contact",
-          "date": "2026-09-24"
+          "date": "2026-09-28",
+          "quote": "Customer Service for Game Day Issues",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
-        "type": "email",
-        "value": "ticketinfo@cardinals.com",
+        "type": "phone",
+        "value": "+13143459600",
+        "label": "Executive offices",
         "source": {
-          "name": "Club website contact page",
+          "name": "Club website contact page (Contact the Cardinals)",
           "url": "https://www.mlb.com/cardinals/official-information/contact",
-          "date": "2026-09-24"
+          "date": "2026-09-28",
+          "quote": "Cardinals Executive Offices Mailing Address: 700 Clark Street St. Louis, MO 63102 Phone: (314) 345-9600",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -8534,31 +8936,46 @@
         "value": "https://www.mlb.com/cardinals/official-information/contact",
         "label": "Contact form",
         "source": {
-          "name": "Club website contact page",
+          "name": "Club website contact page (Contact the Cardinals)",
           "url": "https://www.mlb.com/cardinals/official-information/contact",
-          "date": "2026-09-24"
+          "date": "2026-09-28",
+          "quote": "Contact the Cardinals",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "x",
         "value": "@Cardinals",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.mlb.com/cardinals",
-          "date": "2026-09-24"
+          "name": "Club website contact page (Contact the Cardinals)",
+          "url": "https://www.mlb.com/cardinals/official-information/contact",
+          "date": "2026-09-28",
+          "quote": "Follow the St. Louis Cardinals:",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "instagram",
         "value": "@cardinals",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.mlb.com/cardinals",
-          "date": "2026-09-24"
+          "name": "Club website contact page (Contact the Cardinals)",
+          "url": "https://www.mlb.com/cardinals/official-information/contact",
+          "date": "2026-09-28",
+          "quote": "Follow the St. Louis Cardinals:",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "st-louis-city",
@@ -8599,34 +9016,49 @@
     "channels": [
       {
         "type": "contact-form",
-        "value": "https://www.safc.com/contact",
-        "label": "Contact form",
+        "value": "https://sunderlandafc.zendesk.com/hc/en-us/requests/new",
+        "label": "General enquiries (Ask SAFC)",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.safc.com/contact",
-          "date": "2026-09-24"
+          "name": "Sunderland AFC – 'Contact us'",
+          "url": "https://www.safc.com/club-information/contact-us",
+          "date": "2026-10-01",
+          "quote": "For additional information or further support, simply Ask SAFC.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "x",
         "value": "@sunderlandafc",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.safc.com/",
-          "date": "2026-09-24"
+          "name": "Sunderland AFC – 'Contact us' (footer social links)",
+          "url": "https://www.safc.com/club-information/contact-us",
+          "date": "2026-10-01",
+          "quote": "If you have an enquiry or wish to speak to a member of our team, please refer to the options below.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "type": "instagram",
         "value": "@sunderlandafc",
         "source": {
-          "name": "Club website contact page",
-          "url": "https://www.safc.com/",
-          "date": "2026-09-24"
+          "name": "Sunderland AFC – 'Contact us' (footer social links)",
+          "url": "https://www.safc.com/club-information/contact-us",
+          "date": "2026-10-01",
+          "quote": "If you have an enquiry or wish to speak to a member of our team, please refer to the options below.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "sv-elversberg",

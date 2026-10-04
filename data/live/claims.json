@@ -219,6 +219,26 @@
     "reviewed": false
   },
   {
+    "id": "abus-bremicker-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "abus"
+    ],
+    "text": "ABUS August Bremicker Söhne KG, the lock and bicycle security and helmet maker based in Wetter an der Ruhr, is 100 percent owned by the Bremicker family.",
+    "short": "ABUS is 100% owned by the Bremicker family.",
+    "source": {
+      "name": "IHK Weltmarktführer Südwestfalen: ABUS company profile",
+      "date": "2024",
+      "url": "https://weltmarktfuehrer-sw.de/en/unternehmen/abus/",
+      "quote": "ABUS August Bremicker Söhne KG and its subsidiaries are 100 percent owned by the Bremicker family.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "acadomia-domia-group-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -629,6 +649,38 @@
     "reviewed": false
   },
   {
+    "id": "agi-adrianas-insurance-owner",
+    "kind": "ownership",
+    "ownerIds": [
+      "agi-business-group"
+    ],
+    "text": "Adriana's Insurance, founded by Adriana Gallardo, is part of the AGI Business Group, which she owns.",
+    "short": "Adriana's Insurance, founded by Adriana Gallardo, is part of AGI Business Group, which she owns.",
+    "source": {
+      "name": "adrianagallardo.com – 'Biography - Adriana Gallardo'",
+      "date": "2025",
+      "url": "https://www.adrianagallardo.com/en/pages/biography",
+      "quote": "She currently owns the AGI Business Group empire, which includes Adriana's Insurance, the leading auto insurance agency in Southern California.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "San Diego FC – 'Adriana’s Insurance Joins San Diego FC as Official Jersey Sleeve Partner and Founding Partner'",
+        "date": "2025-11-09",
+        "url": "https://www.sandiegofc.com/news/adriana-s-insurance-joins-san-diego-fc-as-official-jersey-sleeve-partner-and-founding-partner",
+        "quote": "Founded by Adriana Gallardo, the company was built on a mission to uplift and empower the communities it serves",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (review of PR #1076)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "agp-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -655,6 +707,38 @@
         "checked": {
           "on": "2026-09-30",
           "by": "claude-maint-875 (Claude Code, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "agrovision-founder-led",
+    "kind": "ownership",
+    "ownerIds": [
+      "agrovision-corp"
+    ],
+    "text": "Agrovision, the company behind The Fruitist berry brand, is a founder-led company backed by investors; co-founder Steve Magami is its CEO.",
+    "short": "Agrovision (Fruitist) is founder-led; Steve Magami is CEO and co-founder.",
+    "source": {
+      "name": "PR Newswire – Agrovision Corp. release: 'Superfruit Industry Disruptor Agrovision Announces Largest Equity Financing to Date'",
+      "date": "2024-03-20",
+      "url": "https://www.prnewswire.com/news-releases/superfruit-industry-disruptor-agrovision-announces-largest-equity-financing-to-date-with-leading-growth-capital-investors-to-scale-its-global-footprint-302095035.html",
+      "quote": "The company is founder-led and backed by leading investors that are aligned with Agrovision's values and long-term mission and vision.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Blue Book Services – 'Agrovision rebrands as Fruitist, the billion dollar superfruit brand'",
+        "date": "2025-04-23",
+        "url": "https://www.bluebookservices.com/agrovision-rebrands-as-fruitist-the-billion-dollar-superfruit-brand",
+        "quote": "said Steve Magami, CEO of Fruitist",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-scout (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
         }
       }
     ],
@@ -716,6 +800,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "aikbank-mv-investments-owner",
+    "kind": "ownership",
+    "ownerIds": [
+      "bdd-mv-investments"
+    ],
+    "text": "BDD M&V Investments a.d. Beograd is the parent company (matično društvo) of AikBank a.d. Beograd; its audited consolidated group statements name AikBank as its subsidiary.",
+    "short": "BDD M&V Investments is the parent company of AikBank.",
+    "source": {
+      "name": "M&V Investments a.d.: Consolidated financial statements of the banking group for 2025 with the independent auditor's report (aikbank.rs, PDF)",
+      "date": "2026-05-20",
+      "url": "https://www.aikbank.rs/media/finansijski-izvestaji/2026/izvestaj-sa-misljenjem-revizora-za-2025-godinu-za-bankarsku-grupu.pdf",
+      "quote": "Извршили смо ревизију консолидованих финансијских извештаја Брокерско - дилерског друштва “M&V INVESTMENTS” а.д. Београд (“ Матично друштво”) и његових зависних правних лица AikBank ад Београд",
+      "note": "Independent auditor's report on the 2025 consolidated group statements: the broker-dealer M&V Investments a.d. Beograd is the parent company ('Matično društvo') whose dependent legal persons are AikBank a.d. Beograd and AIK Leasing d.o.o. Beograd. Register detail: CompanyWall's ownership page for AikBank (opened 2026-10-01) showed a single shareholder, BDD M&V Investments ad Beograd, 100%, data as of 22 September 2026; it now serves scripts a stub page, so the register text is not quoted here.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -1204,6 +1309,27 @@
     "reviewed": false
   },
   {
+    "id": "alpecin-dr-wolff-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "dr-wolff-group"
+    ],
+    "text": "Alpecin is a brand of Dr. Wolff Group, the Bielefeld-based consumer company (Dr. Kurt Wolff cosmetics and Dr. August Wolff medical divisions). The group names Alpecin among its strong brands and describes itself as a Bielefeld-based family business in its fourth generation.",
+    "short": "Alpecin is a brand of Dr. Wolff Group, a Bielefeld family business.",
+    "source": {
+      "name": "Dr. Wolff Group: home page",
+      "date": "2026",
+      "url": "https://www.drwolffgroup.com/en/",
+      "quote": "Everyone is sure to know one of our strong brands from Bielefeld: Alpecin, Alcina, Plantur, Karex, Linola, Bioniq® and Vagisan.",
+      "note": "Same page: 'We are a Bielefeld-based family business in its fourth generation' and 'we are two different companies: Dr. Kurt Wolff (cosmetics division) and Dr. August Wolff (medical division)'.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "alphabet-inc-record",
     "kind": "ownership",
     "ownerIds": [
@@ -1291,6 +1417,38 @@
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "amazon-migrant-worker-record",
+    "kind": "record",
+    "ownerIds": [
+      "amazon-com-inc"
+    ],
+    "text": "Amnesty International's report 'Don't worry, it's a branch of Amazon' documents serious human rights abuses suffered by Nepali migrant workers contracted to work in Amazon's warehouses in Saudi Arabia, and says many are highly likely to be victims of human trafficking.",
+    "short": "Amazon and Nepali migrant workers in Saudi Arabia",
+    "source": {
+      "name": "Amnesty International: \"Saudi Arabia: 'Don't worry, it's a branch of Amazon'\"",
+      "date": "2023-10-10",
+      "url": "https://www.amnesty.org/en/documents/mde23/7229/2023/en/",
+      "quote": "This report documents serious human rights abuses suffered by Nepali migrant workers employed by labour supply companies and contracted to work in Amazon’s warehouses in Saudi Arabia.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "The Guardian: 'Revealed: Amazon linked to trafficking of workers in Saudi Arabia'",
+        "date": "2023-10-10",
+        "url": "https://www.theguardian.com/technology/2023/oct/10/amazon-trafficking-links-claims-saudi-arabia-workers-abuses",
+        "quote": "Dozens of contract workers at Amazon warehouses say they were tricked into toiling and living in grueling, squalid conditions",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -1843,6 +2001,69 @@
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       },
       "note": "Live register page, undated. Lists four active PSCs: Adam Hugh Wallace Clark (25-50% via trustees), John Arnold Clark (75%+ via trustees), Jagc Holdings (25-50%) and Lady Philomena Butler Clark (75%+ via trustees)."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "arpa-broadview-hal-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "arpa-industriale"
+    ],
+    "text": "Arpa Industriale, the Italian manufacturer behind the FENIX brand, is part of Broadview Holding ('s-Hertogenbosch, Netherlands). Broadview is controlled by HAL Holding N.V.; all of HAL Holding's shares are held by HAL Trust, whose shares are quoted on the Amsterdam Stock Exchange.",
+    "short": "Arpa Industriale is part of Broadview Holding, controlled by HAL Holding N.V. (listed via HAL Trust, Amsterdam).",
+    "source": {
+      "name": "Arpa for interiors: 'The Group'",
+      "date": "2026",
+      "url": "https://www.arpaforinteriors.com/en-US/group",
+      "quote": "Arpa Industriale is part of Broadview Holding, a global group of leading brands and materials",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (OpenCode, model kimi-k3)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "PR Newswire: 'Formica Group Acquired by Broadview Industries' (Formica Corporation release)",
+        "date": "2018-12-17",
+        "url": "https://www.prnewswire.com/news-releases/formica-group-acquired-by-broadview-industries-300767718.html",
+        "quote": "Broadview is controlled by HAL Holding N.V., an international holding company with a history that dates back to 1873",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (OpenCode, model kimi-k3)"
+        }
+      },
+      {
+        "name": "HAL Holding N.V.: corporate website",
+        "date": "2026",
+        "url": "https://www.halholding.com/",
+        "quote": "All shares of HAL Holding are held by HAL Trust and form the Trust's entire assets. HAL Trust's shares are quoted on the Amsterdam Stock Exchange",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (OpenCode, model kimi-k3)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "arrena-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "arrena"
+    ],
+    "text": "Arrena (ΑρρένΑ) is a Greek natural mineral water company of the Tsakos family's interests: Panagiotis and Nikolaos Tsakos are active in natural mineral water through the Arrena company, which was launched in 2024.",
+    "short": "Arrena water is a Tsakos family (Panagiotis and Nikolaos Tsakos) business, launched in 2024.",
+    "source": {
+      "name": "News24/7: Ολυμπιακός: Παρουσίαση της χορηγικής συμφωνίας με την οικογένεια Τσάκου (Olympiacos: presentation of the sponsorship agreement with the Tsakos family)",
+      "date": "2025-07-09",
+      "url": "https://www.news247.gr/athlitika/olimpiakos-parousiastike-i-xorigiki-simfonia-me-tin-oikogeneia-tsakou-i-onomatodosia-kai-i-apokalipsi-angelopoulon-gia-sef/",
+      "quote": "Παναγιώτης και Νικόλαος Τσάκος δραστηριοποιούνται και στον χώρο των φυσικών μεταλλικών νερών με την εταιρεία Αρρένα, το οποίο βγήκε σε κυκλοφορία το 2024",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Translation: Panagiotis and Nikolaos Tsakos are also active in the natural mineral water sector with the company Arrena, which was released in 2024. The same article calls Arrena 'natural mineral water company, of the Tsakos family's interests' (συμφερόντων της οικογένειας Τσάκου)."
     },
     "reviewed": false
   },
@@ -2485,22 +2706,35 @@
     "reviewed": false
   },
   {
-    "id": "aws-owner-record",
+    "id": "aws-amazon-ownership",
     "kind": "ownership",
     "ownerIds": [
-      "aws-owner"
+      "amazon-com-inc"
     ],
-    "text": "Amazon.com, Inc. (of which Amazon Web Services is a business segment, not an owner) has no state shareholder; its largest beneficial owners are Jeffrey Bezos (8.8%), The Vanguard Group (7.2%) and BlackRock (5.9%) -- purely private/institutional capital.",
+    "text": "Amazon Web Services (AWS) is an Amazon.com company and one of the three segments through which Amazon.com, Inc. reports its operations.",
+    "short": "AWS is an Amazon.com company",
     "source": {
-      "name": "AMAZON COM INC DEF 14A 2026 (SEC)",
-      "date": "2026-04-09",
-      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm",
-      "quote": "As of February 24, 2026, we had 10,751,236,247 shares of common stock outstanding.",
+      "name": "Amazon.com, Inc. Form 10-K FY2025 (SEC EDGAR)",
+      "date": "2026-02-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+      "quote": "We have organized our operations into three segments: North America, International, and Amazon Web Services (“AWS”).",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
+    "additionalSources": [
+      {
+        "name": "Seattle Seahawks: 'Seattle Seahawks Select AWS As Its Cloud, Machine Learning, And Artificial Intelligence Provider'",
+        "date": "2019-11-25",
+        "url": "https://www.seahawks.com/news/seattle-seahawks-select-aws-as-its-cloud-machine-learning-and-artificial-intelli",
+        "quote": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN)",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -2509,16 +2743,17 @@
     "ownerIds": [
       "axpo-holding-ag"
     ],
-    "text": "Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG. Axpo is 100% publicly owned: all its shares sit with the cantons of northeastern Switzerland and their utilities, with Canton Zurich and its cantonal utility alone holding roughly 36%.",
-    "short": "Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG.",
+    "text": "Axpo Holding AG is entirely in public hands: all of its shares are owned by the cantons of northeastern Switzerland and the cantonal utilities, with Canton Zürich and its cantonal utility together holding roughly 37% of the shares.",
+    "short": "Axpo Holding AG is 100% owned by Swiss cantons and their utilities.",
     "source": {
       "name": "Axpo Group, 'Owners - Entirely in public hands'",
       "date": "2026-09",
       "url": "https://axpo.com/group/en/about-us/axpo-group/owners.html",
       "quote": "All of Axpo Holding AG shares are owned by the cantons of Northeastern Switzerland and the cantonal utilities.",
+      "note": "The shareholder table on the same page gives Canton Zürich 18.342% and Elektrizitätswerke des Kantons Zürich 18.410% (together about 36.75%), Canton Aargau and AEW Energie AG about 28%, and the rest with St. Gallerisch-Appenzellische Kraftwerke, EKT Holding, Canton Schaffhausen, Canton Glarus and Canton Zug; the table carries a 19.12.2014 date.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -2773,8 +3008,8 @@
     "ownerIds": [
       "bain-capital"
     ],
-    "text": "Guidehouse, the D.C. United front sponsor, is a Washington-based consultancy owned by Bain Capital Private Equity, which bought it from Veritas Capital in a $5.3bn deal that closed in December 2023 - Guidehouse's own newsroom confirms the completion. Ownership is therefore private PE money (Bain's funds and their LPs), no state stake. Human-rights relevance: consulting/defense-adjacent services, nothing state-owned.",
-    "short": "Guidehouse, the D.C.",
+    "text": "Guidehouse is a consultancy that was acquired by Bain Capital Private Equity from Veritas Capital in a $5.3 billion deal that closed in December 2023.",
+    "short": "Guidehouse is owned by Bain Capital Private Equity.",
     "source": {
       "name": "Guidehouse newsroom - completion of transaction with Bain Capital",
       "date": "2023-12-14",
@@ -2859,17 +3094,38 @@
     "ownerIds": [
       "banca-popolare-del-frusinate"
     ],
-    "text": "Banca Popolare del Frusinate is a Frosinone-based 'Societa Cooperativa per Azioni' with share capital of EUR 31,883,700 fully paid as at 31 December 2025 - i.e. owned by its own member-shareholders rather than by a listed or state parent. Italian cooperative banks carry no state equity. Record is unremarkable at this size; its Frosinone/Lazio lending limits human-rights relevance to ordinary banking conduct.",
-    "short": "Banca Popolare del Frusinate is a Frosinone-based 'Societa Cooperativa per Azioni' with share capital of EUR 31,883,700 fully paid as at 31 December 2025 - i.e.",
+    "text": "Banca Popolare del Frusinate is a 'Società Cooperativa per Azioni' with its legal seat in Frosinone and share capital of EUR 31,883,700, fully paid up, as at 31 December 2025.",
+    "short": "Frosinone-based cooperative bank (Società Cooperativa per Azioni); share capital EUR 31,883,700 fully paid up at 31 December 2025.",
     "source": {
       "name": "Banca Popolare del Frusinate - Dati Societari (company details)",
       "date": "2026-05-21",
       "url": "https://www.bpf.it/dati-societari/",
       "quote": "Capitale Sociale al 31.12.2025 31.883.700€ Interamente versato.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "banca-popolare-pugliese-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "banca-popolare-pugliese"
+    ],
+    "text": "Banca Popolare Pugliese S.C.p.A. is an Italian cooperative joint-stock bank (Società Cooperativa per Azioni), formed on 2 June 1994 from the merger of Banca Popolare Sud Puglia and Banca Popolare di Lecce, and is registered in the register of cooperative societies.",
+    "short": "Banca Popolare Pugliese is a cooperative bank owned by its members",
+    "source": {
+      "name": "Banca Popolare Pugliese – 'BPP' (company page, bpp.it/chi-siamo/bpp)",
+      "date": "2026-10-03",
+      "url": "https://www.bpp.it/chi-siamo/bpp",
+      "quote": "nasce il 2 giugno 1994 dalla fusione tra due realtà “storiche” della finanza salentina, la Banca Popolare Sud Puglia e Banca Popolare di Lecce",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The page title names 'BANCA POPOLARE PUGLIESE S.C.p.A.' and the site footer reads 'Banca Popolare Pugliese - Società Cooperativa per Azioni'; the same page states 'Iscritta all'Albo delle Società Cooperative al n. A166106'. Page undated; the date given is the day the page was opened. As a cooperative, the bank is owned by its member-shareholders ('soci')."
     },
     "reviewed": false
   },
@@ -3352,6 +3608,29 @@
     "reviewed": false
   },
   {
+    "id": "bdd-mv-nordagri-nv-owner",
+    "kind": "ownership",
+    "ownerIds": [
+      "bdd-mv-investments",
+      "nordagri-nv",
+      "agri-europe-cyprus"
+    ],
+    "text": "NORDAGRI N.V. owns 100% of broker-dealer BDD M&V Investments a.d. Beograd, and M&V Investments in turn owns 100% of AIK Banka (AikBank) a.d. Beograd; the whole chain sits inside the AEC Group around Agri Europe Cyprus, the financial holding of Aleksandar Kostic, son of the late Miodrag Kostic.",
+    "short": "AikBank sits under BDD M&V Investments -> NORDAGRI N.V. -> Agri Europe Cyprus (AEC Group, Kostic family).",
+    "source": {
+      "name": "Forbes Crna Gora: Šta Kostićev Agri Europe Cyprus dobija preuzimanjem Hipotekarne banke",
+      "date": "2024-12-23",
+      "url": "https://forbes.vijesti.me/biznis/sta-kosticev-agri-europe-cyprus-dobija-preuzimanjem-hipotekarne-banke/",
+      "quote": "NORDAGRI N.V. 100% vlasnik Brokersko dilerskog društva \"M&V Investments\" a.d. Beograd, dok je ova brokerska kuća 100% vlasnik Agroindustrijsko komercijalne banke – AIK banka a.d. Beograd",
+      "note": "Article republishing analysis by portal Bankar about AEC Group's structure. It also describes Agri Europe Cyprus as part of the MK group of Aleksandar Kostić (\"Kompanija Agri Europe Cyprus, koja posluje u sastavu MK grupe, Aleksandra Kostića, sina preminulog Miodraga Kostića\").",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "belden-record",
     "kind": "ownership",
     "ownerIds": [
@@ -3446,6 +3725,40 @@
         "by": "Schnitzel"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "betitaly-pay-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "gi-lu-pi-srl"
+    ],
+    "text": "The BetItalyPay website carries the company details of GI.LU.PI. S.r.l. a S.U. (VAT no. 03350310755), Via Lecce 22, Tricase (LE), in its footer, and the same page's contacts list the PEC address gilupi@arubapec.it.",
+    "short": "BetItalyPay's site carries GI.LU.PI. S.r.l.'s company details",
+    "source": {
+      "name": "BetItalyPay – 'BetItalyPay Celebra i 117 Anni dell'U.S. Lecce sulla Maglia Commemorativa' (company news page with site footer)",
+      "date": "2025-04-30",
+      "url": "https://www.betitalypay.it/news/betitalypay-celebra-i-117-anni-dellu-s-lecce-sulla-maglia-commemorativa",
+      "quote": "GI.LU.PI. S.R.L. a S.U. P.I. 03350310755 Via Lecce, 22 - 73039 Tricase (LE)",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Company details taken from the site footer, which also carries the BetItalyPay logo; the same footer appears on the Chi Siamo page. The page itself is dated 30 Aprile 2025."
+    },
+    "additionalSources": [
+      {
+        "name": "US Lecce, 'U.S. Lecce e BetItalyPAY'",
+        "date": "2023-06-28",
+        "url": "https://uslecce.it/u-s-lecce-e-betitalypay",
+        "quote": "BetItalyPAY, società salentina operante nel settore dei servizi, mette a disposizione gratuitamente una vasta gamma di servizi",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The club's own release describes BetItalyPAY as a Salento services company."
+      }
+    ],
     "reviewed": false
   },
   {
@@ -3592,6 +3905,40 @@
         "note": "Same article: 'The Cycleurope Group is a wholly-owned subsidiary within the Grimaldi Industri Group.'"
       }
     ]
+  },
+  {
+    "id": "bilyoner-hitay-holding-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "hitay-holding"
+    ],
+    "text": "Bilyoner's partnership structure rests on Hitay Holding and Intralot, and Bilyoner is one of the companies under the Hitay Holding umbrella, the group founded by businessman Emin Hitay in 1980.",
+    "short": "Bilyoner sits under Hitay Holding (with Intralot as partner).",
+    "source": {
+      "name": "Bilyoner: Hakkımızda (Wayback Machine, 15 April 2026)",
+      "date": "2026-04-15",
+      "url": "http://web.archive.org/web/20260415230751/https://www.bilyoner.com/hakkimizda",
+      "quote": "Bilyoner’in arkasındaki güçlü ortaklık yapısı , sektörde uzun yıllar deneyimleri olan Hitay Holding ve Intralot’un uzmanlığına dayanmaktadır.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Bilyoner's own About page; the live page needs a browser, so the 15 April 2026 Wayback snapshot is cited."
+    },
+    "additionalSources": [
+      {
+        "name": "Teknoser Bilişim: Hitay Holding",
+        "date": "2026",
+        "url": "https://teknoserbilisim.com/en/hitayholding",
+        "quote": "Hitay Holding çatısı altında, Teknoser, Exim, AltiliGanyan.com ve Bilyoner gibi sektörlerinde önde gelen şirketler ile inovasyonun ve teknolojinin öncüleri olarak yol alıyoruz.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Teknoser, a Hitay Holding company, lists Bilyoner among the companies under the Hitay Holding umbrella founded by Emin Hitay in 1980."
+      }
+    ],
+    "reviewed": false
   },
   {
     "id": "binghatti-holding-ownership",
@@ -4493,6 +4840,26 @@
     ]
   },
   {
+    "id": "brustor-family-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "brustor"
+    ],
+    "text": "Brustor, the solar-shading and pergola maker producing in West Flanders, is a Belgian family business, founded in 1965 by Louis Brutsaert.",
+    "short": "Brustor is a Belgian family business.",
+    "source": {
+      "name": "Brustor: 'About Brustor'",
+      "date": "2026",
+      "url": "https://www.brustor.com/en-us/about-brustor",
+      "quote": "Brustor is a Belgian family business that has become a top international player in the solar shading and pergola market over the years.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "buondi-nestle-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -4641,6 +5008,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "canyon-gbl-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "groupe-bruxelles-lambert"
+    ],
+    "text": "Groupe Bruxelles Lambert (GBL), the Brussels-based listed investment holding, controls Canyon Bicycles GmbH: GBL's portfolio page lists Canyon among its 'controlled/co-controlled stakes' with 52.6% of the share capital (30 June 2026); founder Roman Arnold remains a significant shareholder and Executive Chairman.",
+    "short": "GBL controls Canyon with 52.6% of the share capital.",
+    "source": {
+      "name": "GBL: Portfolio - Canyon",
+      "date": "2026",
+      "url": "https://www.gbl.com/en/portfolio/canyon",
+      "quote": "Performance DNA supported by the founder Roman Arnold, who remains a significant shareholder alongside GBL with active involvement as Executive Chairman",
+      "note": "Same page lists Canyon under 'Controlled/co-controlled stakes' with 'Share capital (06/30/2026) 52.6%'.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -5092,6 +5480,38 @@
     "reviewed": false
   },
   {
+    "id": "changan-central-soe",
+    "kind": "ownership",
+    "ownerIds": [
+      "china-changan-automobile-group"
+    ],
+    "text": "China's state-assets regulator SASAC inaugurated China Changan Automobile Group Co., Ltd. as a central state-owned enterprise on 29 July 2025; Changan is listed as No. 73 in the central SOE directory, under SASAC supervision.",
+    "short": "Changan is a Chinese central state-owned enterprise under SASAC supervision (No. 73 in the central SOE directory).",
+    "source": {
+      "name": "SASAC (en.sasac.gov.cn): China Inaugurates Changan as Central SOE",
+      "date": "2025-07-31",
+      "url": "http://en.sasac.gov.cn/2025/07/31/c_19613.htm",
+      "quote": "The State-owned Assets Supervision and Administration Commission of the State Council (SASAC) announced on July 29 the inauguration of China Changan Automobile Group Co., Ltd. （Changan） as a central state-owned enterprise (SOE).",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Xinhua (english.news.cn): China inaugurates Changan Auto as central SOE",
+        "date": "2025-07-29",
+        "url": "https://english.news.cn/20250729/fd6357c876b742829cc3e96ac5d636ac/c.html",
+        "quote": "China's state-owned assets regulator on Tuesday announced the inauguration of China Changan Automobile Group Co., Ltd. as a centrally administered state-owned enterprise (SOE).",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "chery-state-shareholders",
     "kind": "ownership",
     "ownerIds": [
@@ -5108,6 +5528,39 @@
         "by": "claude-review-282"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "childrens-health-system-of-texas-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "childrens-health-system-of-texas"
+    ],
+    "text": "Children’s Health System of Texas is a 501(c)(3) nonprofit organization based in Dallas, Texas, EIN 75-0800628; in 2014 it introduced the Children’s Health brand identity.",
+    "source": {
+      "name": "ProPublica Nonprofit Explorer – Childrens Health System Of Texas (EIN 75-0800628)",
+      "date": "2024-12",
+      "url": "https://projects.propublica.org/nonprofits/organizations/750800628",
+      "quote": "Designated as a 501(c)(3)",
+      "note": "Page header also shows the organisation name 'Childrens Health System Of Texas', the location 'Dallas, TX' and 'EIN: 75-0800628'.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Children’s Health Newsroom – 'Children’s Health System of Texas Launched Today in North Texas'",
+        "date": "2014-09-22",
+        "url": "https://about.childrens.com/newsroom/latest-news/childrens-health-system-of-texas-launched-today-in-north-texas",
+        "quote": "Children’s Health System of Texas (Children’s Health℠) today introduced its new brand identity and system structure",
+        "note": "The system's own release ties the Children's Health brand to the legal entity named in the ProPublica source. Live page blocks scripts (403); quote verified on the Wayback Machine capture of 2025-02-10.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -6220,6 +6673,27 @@
     "reviewed": false
   },
   {
+    "id": "crelan-cooperative-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "crelan"
+    ],
+    "text": "Crelan is a 100% cooperative Belgian bank: the cooperative fund CrelanCo (SC/CV) is its 100% shareholder, and more than 291,000 customers are cooperative shareholders.",
+    "short": "Crelan is wholly owned by the cooperative CrelanCo.",
+    "source": {
+      "name": "Crelan: 'Les actionnaires de Crelan' (the shareholders of Crelan)",
+      "date": "2026",
+      "url": "https://www.crelan.be/fr/cooperateurs/article/les-actionnaires-de-crelan",
+      "quote": "La solide caisse coopérative CrelanCo SC est actionnaire de Crelan à 100%.",
+      "note": "Same page: 'Crelan est aussi une banque coopérative à part entière.' and more than 291,000 customers are cooperative shareholders. Dutch version: https://www.crelan.be/nl/cooperanten/artikel/de-aandeelhouders-van-crelan",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "crowdstrike-record",
     "kind": "ownership",
     "ownerIds": [
@@ -6606,6 +7080,27 @@
         }
       }
     ]
+  },
+  {
+    "id": "deceuninck-shareholder-structure",
+    "kind": "ownership",
+    "ownerIds": [
+      "deceuninck"
+    ],
+    "text": "Deceuninck NV's own shareholder table (most recent on 25 August 2026) shows: Gramo BV 31.19%, H.P. Participaties Comm.V. 7.90%, founder family member Frank Deceuninck 5.08%, treasury shares 0.15% and 55.68% other shareholders.",
+    "short": "Deceuninck's largest disclosed holder is Gramo BV with 31.19%.",
+    "source": {
+      "name": "Deceuninck: Shareholder structure",
+      "date": "2026-08-25",
+      "url": "https://www.deceuninck.com/investors/share-shareholder-information/shareholder-structure/",
+      "quote": "In application of the Law of 2 May 2007, the latest report of participations that have been received shows the following breakdown of shareholders",
+      "note": "Same page table: Gramo BV 43,537,559 shares (31.19%), H.P. Participaties Comm.V. 11,023,777 (7.90%), Frank Deceuninck 7,092,237 (5.08%), treasury shares 208,936 (0.15%), others 77,732,751 (55.68%).",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
   },
   {
     "id": "deel-inc-record",
@@ -7327,6 +7822,27 @@
     "reviewed": false
   },
   {
+    "id": "dr-automobiles-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "dr-automobiles-groupe"
+    ],
+    "text": "DR Automobiles Groupe, born in Molise with its plant in Macchia d'Isernia, is the carmaker that Massimo Di Risio built, growing from a 1980s car-distribution activity; its first model, the DR5, launched in 2006.",
+    "short": "DR Automobiles Groupe is the carmaker built by Massimo Di Risio",
+    "source": {
+      "name": "La Gazzetta dello Sport (Gazzetta Motori), 'DR Automobiles Groupe: la scommessa di Massimo Di Risio'",
+      "date": "2026-05-27",
+      "url": "https://www.gazzetta.it/motori/la-mia-auto/27-05-2026/dr-automobiles-groupe-storia-crescita-e-strategia-del-costruttore-molisano.shtml",
+      "quote": "Massimo Di Risio ha costruito un gruppo che oggi guarda all’Europa con nuovi progetti industriali e una gamma sempre più ampia",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The article's lead also states: 'Dalle corse in pista all'intuizione di \"città dell'auto\" ... Massimo Di Risio ha costruito un gruppo'. The club's own release (uslecce.it, 25 Jul 2023) names him 'Presidente di DR Automobiles Groupe'. The company's exact shareholder split isn't published."
+    },
+    "reviewed": false
+  },
+  {
     "id": "dr-congo-security-forces",
     "kind": "record",
     "ownerIds": [
@@ -7774,6 +8290,27 @@
         "note": "Same response: \"nature_juridique\":\"9230\" (association déclarée), siège Laxou (54304)."
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "electrolux-group-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "electrolux-group"
+    ],
+    "text": "AB Electrolux's largest shareholder is Investor AB, which held 17.94 percent of the shares and 30.43 percent of the votes in May 2026.",
+    "short": "Largest shareholder is Investor AB",
+    "source": {
+      "name": "Nasdaq – AB Electrolux notice: 'Electrolux Group announces terms for the fully underwritten rights issue of SEK 9,062 million'",
+      "date": "2026-05-21",
+      "url": "https://view.news.eu.nasdaq.com/view?id=bdf592693f61ce8217a3d69b4d096fbe2&lang=en&src=micro",
+      "quote": "Investor AB, holding 17.94 percent of the shares and 30.43 percent of the votes in AB Electrolux",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Exchange notice by AB Electrolux about a rights issue of Class A and B shares; it also names Frigidaire among the group's brands ('including Electrolux, AEG and Frigidaire')."
+    },
     "reviewed": false
   },
   {
@@ -8862,6 +9399,26 @@
     ]
   },
   {
+    "id": "fenix-arpa-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "arpa-industriale"
+    ],
+    "text": "FENIX is an interior-design materials brand of the Italian manufacturer Arpa Industriale (Bra, Italy).",
+    "short": "FENIX is a brand of Arpa Industriale.",
+    "source": {
+      "name": "FENIX for interiors: home page",
+      "date": "2026",
+      "url": "https://www.fenixforinteriors.com/en",
+      "quote": "FENIX® are the innovative materials created for interior design by Arpa Industriale in 2013.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "fergana-hokimlik-sponsor",
     "kind": "ownership",
     "ownerIds": [
@@ -9240,6 +9797,40 @@
     "reviewed": false
   },
   {
+    "id": "fortuna-feg-penta-investments",
+    "kind": "ownership",
+    "ownerIds": [
+      "fortuna-entertainment-group",
+      "penta-investments"
+    ],
+    "text": "Fortuna Entertainment Group (FEG) is owned by Penta Investments: Penta's own site calls Penta 'FEG's mother company', and trade press describes FEG as owned by Penta Investments.",
+    "source": {
+      "name": "Penta Investments: Fortuna Entertainment Group Expands into Lithuania with Acquisition of TOPsport",
+      "date": "2026-03-19",
+      "url": "https://www.pentainvestments.com/en/fortuna-entertainment-group-expands-into-lithuania-with-acquisition-of-topsport/",
+      "quote": "The transaction marks a record investment for FEG’s mother company, Penta.",
+      "note": "Penta Investments' own news page.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Gambling News: Penta Investments Reportedly Considers Divesting Fortuna Entertainment",
+        "date": "2024-03-21",
+        "url": "https://www.gamblingnews.com/news/penta-investments-reportedly-considers-divesting-fortuna-entertainment/",
+        "quote": "Penta Investments, which owns the betting and gaming powerhouse Fortuna Entertainment Group",
+        "note": "March 2024 report that Penta was weighing a sale of FEG; no completed sale found, and Penta's own site still describes FEG as its company in 2026.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "fosun-international-shareholders",
     "kind": "ownership",
     "ownerIds": [
@@ -9334,6 +9925,27 @@
     "reviewed": false
   },
   {
+    "id": "frigidaire-electrolux-brand",
+    "kind": "ownership",
+    "ownerIds": [
+      "electrolux-group"
+    ],
+    "text": "Frigidaire is a home appliance brand under Electrolux Group, with its North American headquarters in Charlotte, North Carolina.",
+    "short": "Frigidaire is an Electrolux Group brand",
+    "source": {
+      "name": "Charlotte FC: 'Charlotte FC Names Frigidaire as First-Ever Back-of-Kit Partner'",
+      "date": "2026-08-13",
+      "url": "https://www.charlottefootballclub.com/news/charlotte-fc-names-frigidaire-as-first-ever-back-of-kit-partner",
+      "quote": "a leading home appliance brand under Electrolux Group, has delivered innovative, reliable kitchen and home appliances",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Full sentence on the page: 'Frigidaire®, a leading home appliance brand under Electrolux Group, has delivered innovative, reliable kitchen and home appliances for more than 100 years.' The same page says 'The company's North American headquarters is in Charlotte'."
+    },
+    "reviewed": false
+  },
+  {
     "id": "friuli-venezia-giulia-region-record",
     "kind": "ownership",
     "ownerIds": [
@@ -9370,6 +9982,38 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "fruitist-brand-of-agrovision",
+    "kind": "ownership",
+    "ownerIds": [
+      "agrovision-corp"
+    ],
+    "text": "The Fruitist, the premium berry brand on D.C. United's shirt sleeve, is the brand of Agrovision Corp., a Los Angeles-based superfruit producer that renamed itself Fruitist in 2025.",
+    "short": "The Fruitist brand belongs to Agrovision Corp., renamed Fruitist in 2025.",
+    "source": {
+      "name": "D.C. United – 'D.C. United Announce The Fruitist as the Club's Official Sleeve Patch Partner'",
+      "date": "2024-02-23",
+      "url": "https://www.dcunited.com/news/d-c-united-announce-the-fruitist-as-the-club-s-official-sleeve-patch-partner",
+      "quote": "is the dream of Agrovision Corp, one of the world’s leading and fastest growing producers and year-round suppliers of superfruits",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "AgFunderNews – 'Agrovision rebrands as Fruitist, notched up sales of $400m in past 12 months after meteoric growth'",
+        "date": "2025-04-22",
+        "url": "https://agfundernews.com/in-progress-agrovision-rebrands-as-fruitist-notched-up-sales-of-400m-in-2024-after-meteoric-growth",
+        "quote": "Superfruit specialist Agrovision has rebranded as Fruitist to align with its consumer brand of the same name",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-scout (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -9709,6 +10353,41 @@
     "reviewed": false
   },
   {
+    "id": "gazprom-neft-part-of-gazprom",
+    "kind": "ownership",
+    "ownerIds": [
+      "gazprom-neft",
+      "gazprom"
+    ],
+    "text": "Gazprom Neft is part of the Gazprom Group; the group owns about 96% of Gazprom Neft's shares.",
+    "short": "Gazprom Group owns about 96% of Gazprom Neft.",
+    "source": {
+      "name": "AK&M Information Agency: Hungarian MOL and Serbian government sign NIS agreement",
+      "date": "2026-10-01",
+      "url": "https://www.akm.ru/eng/news/hungarian-mol-and-serbian-government-sign-nis-agreement/",
+      "quote": "The company is part of the Gazprom Group, which owns about 96% of the shares",
+      "note": "The sentence refers to Gazprom Neft PJSC in the article's profile paragraph. The same AK&M piece reports Gazprom Neft is a subsidiary of NIS's parent chain and was sanctioned in 2025.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Global Banking & Finance Review (carrying a Reuters dispatch): Russia's Gazprom Neft provisionally agrees to sell NIS stake to Hungary's MOL",
+        "date": "2026-01-19",
+        "url": "https://www.globalbankingandfinance.com/russias-gazprom-neft-reaches-provisional-agreement-sell-nis/",
+        "quote": "Russia's Gazprom holds an 11.3% stake in NIS, while its sanctioned oil unit Gazprom Neft owns 44.9%",
+        "note": "Corroborates that Gazprom Neft is Gazprom's oil unit (and gives the NIS stakes as 44.9% + 11.3%); the ~96% group ownership figure comes from the AK&M source.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "gazprom-state-control",
     "kind": "ownership",
     "ownerIds": [
@@ -9946,6 +10625,26 @@
       "checked": {
         "on": "2026-09-27",
         "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "go3-tv3-group",
+    "kind": "ownership",
+    "ownerIds": [
+      "tv3-group"
+    ],
+    "text": "Go3 is TV3 Group's streaming service; TV3 Group is a portfolio company of Bitė Group and Providence Equity Partners.",
+    "source": {
+      "name": "Viaplay Group: Viaplay Group and TV3 Group enter Baltic agreement",
+      "date": "2024-02-01",
+      "url": "https://www.viaplaygroup.com/en/newsroom/press-releases/viaplay-group-and-tv3-group-enter-baltic-agreement-2199161",
+      "quote": "TV3 Group, the leading media group in Baltics, is a portfolio company of Bite Group and Providence Equity Partners",
+      "note": "Same page describes Go3 as 'TV3 Group's streaming service'.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -10578,6 +11277,27 @@
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
       }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "gsa-sport-gepaworld-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "gepaworld-group"
+    ],
+    "text": "GSA Sport's parent company is GEPAWORLD Group, whose CEO is Gerry F. Papaspyratos.",
+    "short": "GSA Sport's parent company is GEPAWORLD Group.",
+    "source": {
+      "name": "Anadolu Efes SK: 2025-2026 Sezonunda GSA Sport Tarafından Üretilen Formalarla Sahada Olacağız",
+      "date": "2025-09-10",
+      "url": "https://www.anadoluefessk.org/tr/news/rNYB-U_WDJkr5WdidEWoMA==",
+      "quote": "GSA Sport’un ana şirketi GEPAWORLD Group CEO’su Gerry F. Papaspyratos",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The club's announcement of the GSA Sport partnership names the brand's parent company and its CEO in the sentence 'GSA Sport'un ana şirketi GEPAWORLD Group CEO'su Gerry F. Papaspyratos iş birliği ile ilgili şunları söyledi'."
     },
     "reviewed": false
   },
@@ -12266,6 +12986,27 @@
     "reviewed": false
   },
   {
+    "id": "iko-family-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "iko-industries"
+    ],
+    "text": "IKO, the roofing, waterproofing and insulation manufacturer (IKO Industries Ltd. and related entities), is family-owned and operated, with a history that goes back to 1951.",
+    "short": "IKO Industries is family-owned and operated since 1951.",
+    "source": {
+      "name": "IKO Global: home page (Wayback Machine capture of 2026-05-06)",
+      "date": "2026",
+      "url": "https://web.archive.org/web/20260506154459/https://www.iko.com/",
+      "quote": "IKO proudly marks a legacy of family-owned and operated leadership and innovation in roofing.",
+      "note": "Same page: 'Family-Owned. Globally Focused... Established in 1951'; footer: 'Copyright © 2004-2026 IKO Industries Ltd., IKO Industries, Inc., and their affiliated and related entities.'",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "indeed-inc-record",
     "kind": "ownership",
     "ownerIds": [
@@ -12386,6 +13127,27 @@
       "quote": "Intermarché is one of the seven brands of the Groupement Mousquetaires, an organisation bringing together more than 3,000 independent entrepreneurs",
       "checked": {
         "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "intermountain-health-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "intermountain-health"
+    ],
+    "text": "Intermountain Health is the largest nonprofit health system in the Intermountain West, based in Salt Lake City, Utah.",
+    "short": "Intermountain Health is the largest nonprofit health system in the Intermountain West, based in Salt Lake City.",
+    "source": {
+      "name": "Intermountain Health – About us",
+      "date": "2026-09-27",
+      "url": "http://web.archive.org/web/20260927113649/https://intermountainhealthcare.org/about",
+      "quote": "Intermountain Health is the largest nonprofit health system in the Intermountain West.",
+      "note": "Live page (intermountainhealthcare.org/about) returns 403 to scripts; quote taken from this archived copy of 27 September 2026.",
+      "checked": {
+        "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
@@ -12650,18 +13412,30 @@
     "ownerIds": [
       "iyi-finans"
     ],
-    "text": "İyi Finans operates as the brand of Adil Tasarruf Finansman A.Ş., a savings-finance (tasarruf finansmanı) company.",
-    "short": "İyi Finans is the brand of Adil Tasarruf Finansman A.Ş.",
+    "text": "İyi Finans operates as the brand of Adil Tasarruf Finansman A.Ş., a savings-finance (tasarruf finansmanı) company the BDDK licensed on 7 July 2025. Per the company's 2025 annual-report ownership information, reported by Milli Gazete, Adil Tasarruf Finansman A.Ş. is wholly owned by Ali Emre Ballı, who also chairs its board.",
+    "short": "İyi Finans is the brand of Adil Tasarruf Finansman A.Ş., 100% owned by its chair Ali Emre Ballı.",
     "source": {
-      "name": "FintekWins: İyi Finans, EFBS'ye üye olan ilk Türk şirket oldu",
-      "date": "2026-04-21",
-      "url": "https://www.fintekwins.com/iyi-finans-efbsye-uye-olan-ilk-turk-sirket-oldu/",
-      "quote": "Adil Tasarruf Finansman A.Ş.'nin markası olarak faaliyet gösteren İyi Finans",
+      "name": "Milli Gazete: İyi Finans'ın sahibi kim, Ali Emre Ballı kimdir, şirketin yüzde 100 hissesi kime ait?",
+      "date": "2026-09-17",
+      "url": "https://www.milligazete.com.tr/iyi-finansin-sahibi-kim-ali-emre-balli-kimdir-sirketin-yuzde-100-hissesi-kime-ait",
+      "quote": "Şirketin 2025 faaliyet raporuna ilişkin yayımlanan ortaklık bilgilerine göre Adil Tasarruf Finansman A.Ş.'nin yüzde 100 payı Ali Emre Ballı'ya ait.",
       "checked": {
-        "on": "2026-09-28",
-        "by": "Schnitzel"
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
+    "additionalSources": [
+      {
+        "name": "FintekWins: İyi Finans, EFBS'ye üye olan ilk Türk şirket oldu",
+        "date": "2026-04-21",
+        "url": "https://www.fintekwins.com/iyi-finans-efbsye-uye-olan-ilk-turk-sirket-oldu/",
+        "quote": "Adil Tasarruf Finansman A.Ş.'nin markası olarak faaliyet gösteren İyi Finans",
+        "checked": {
+          "on": "2026-09-28",
+          "by": "Schnitzel"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -12830,6 +13604,38 @@
         "checked": {
           "on": "2026-09-28",
           "by": "Schnitzel"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "jefferson-health-nonprofit",
+    "kind": "ownership",
+    "ownerIds": [
+      "jefferson-health-owner"
+    ],
+    "text": "Jefferson Health is a nonprofit health system and one of the three brands of the Jefferson enterprise.",
+    "short": "Jefferson Health is a nonprofit health system, one of the three brands of the Jefferson enterprise.",
+    "source": {
+      "name": "We Are Jefferson (wearejefferson.org) – Brands",
+      "date": "2026",
+      "url": "https://www.wearejefferson.org/brands/",
+      "quote": "We are among the top 15 nonprofit health systems in the U.S.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "We Are Jefferson (wearejefferson.org) – Brands",
+        "date": "2026",
+        "url": "https://www.wearejefferson.org/brands/",
+        "quote": "The Jefferson Enterprise – Three Distinct Brands",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
         }
       }
     ],
@@ -13166,6 +13972,26 @@
     "reviewed": false
   },
   {
+    "id": "kalas-family-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "kalas-sportswear"
+    ],
+    "text": "KALAS Sportswear, the Tábor (Czech Republic) cycling-apparel manufacturer founded by former cyclist Čestmír Kalaš, remains a family-owned company.",
+    "short": "Kalas remains a family-owned company.",
+    "source": {
+      "name": "Kalas: 'Kalas Story'",
+      "date": "2026",
+      "url": "https://www.kalas.cc/kalas-story/",
+      "quote": "Kalas remains a family-owned company, dedicated to supporting the local community of Tábor at its headquarters in the Czech Republic.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "kaleida-health-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -13348,6 +14174,27 @@
     ]
   },
   {
+    "id": "kiewit-owner-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "kiewit-corporation"
+    ],
+    "text": "Kiewit is an employee-owned construction and engineering organization operating through a network of subsidiaries in the United States, Canada, Mexico and Guam.",
+    "short": "Kiewit is an employee-owned construction and engineering organization.",
+    "source": {
+      "name": "Colorado Rapids: 'Colorado Rapids announce Kiewit as official jersey sleeve partner' (About Kiewit Corporation section)",
+      "date": "2025-07-04",
+      "url": "https://www.coloradorapids.com/news/colorado-rapids-announce-kiewit-as-official-jersey-sleeve-partner",
+      "quote": "With its roots dating back to 1884, the employee-owned organization operates through a network of subsidiaries in the United States, Canada, Mexico and Guam.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The page itself carries no dateline; the club's announcement posts on Facebook and X and the Denver Business Journal dateline both show 4 July 2025."
+    },
+    "reviewed": false
+  },
+  {
     "id": "kindred-unibet-fdj-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -13469,6 +14316,38 @@
         "by": "Schnitzel"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "kln-family-brands-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "kln-family-brands"
+    ],
+    "text": "NutriSource Pet Foods and Finley's Pet Treats are members of KLN Family Brands; Twin Cities Business describes NutriSource as a subsidiary of Perham-based KLN Family Brands.",
+    "source": {
+      "name": "Minnesota United: 'Minnesota United Scores Historic First with NutriSource and Finley's as Jersey Sleeve Sponsors'",
+      "date": "2025-05-08",
+      "url": "https://www.mnufc.com/news/minnesota-united-scores-historic-first-with-nutrisource-and-finley-s-as-jersey-sleeve-sponsors",
+      "quote": "Minnesota-based NutriSource Pet Foods and Finley’s Pet Treats – members of the KLN Family Brands",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The page's publication date (2025-05-08) is from its datePublished metadata; the page body shows no date line."
+    },
+    "additionalSources": [
+      {
+        "name": "Twin Cities Business: 'KLN’s NutriSource Pet Foods Partners with Finley’s'",
+        "date": "2021-06-16",
+        "url": "https://tcbmag.com/klns-nutrisource-partners-with-finleys",
+        "quote": "NutriSource Pet Foods, a subsidiary of Perham-based KLN Family Brands, is taking dog treat startup Finley’s under its wing",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -14289,6 +15168,40 @@
     "reviewed": false
   },
   {
+    "id": "limak-hotels-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "limak-holding"
+    ],
+    "text": "Limak Hotels (Limak Turizm) is the hotel business of Limak Şirketler Grubu (Limak Holding), which its own site describes as the owner and operator of one of Türkiye's largest hotel chains, running 9 hotels. Forbes profiles Sezai Bacaksız and Nihat Özdemir as the billionaire partners who founded Limak Construction in 1976.",
+    "short": "Limak Hotels is Limak Holding's hotel arm; Limak was founded by Nihat Özdemir and Sezai Bacaksız.",
+    "source": {
+      "name": "Limak Holding: Turizm sector page",
+      "date": "2026",
+      "url": "https://www.limak.com.tr/sektorler/turizm",
+      "quote": "Türkiye'nin en büyük otel zincirlerinden birinin sahibi ve işletmecisi olan Limak Şirketler Grubu, konuk ağırlama hizmetlerini uluslararası ölçekte genişletmeyi sürdürüyor.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Undated page; year date per repo convention. Same page links limakhotels.com as 'Limak Turizm' and lists the 9 Limak hotels."
+    },
+    "additionalSources": [
+      {
+        "name": "Forbes: Sezai Bacaksiz profile",
+        "date": "2026-03-10",
+        "url": "https://www.forbes.com/profile/sezai-bacaksiz/",
+        "quote": "Sezai Bacaksiz and his billionaire partner, Nihat Ozdemir, met as students at Gazi University and founded Limak Construction in 1976.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Profile 'last updated Mar 10, 2026'. Limak's own founders page still lists Özdemir and Bacaksız as honorary chairs; some low-quality Turkish blogs claim Bacaksız left in 2019."
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "limova-kainotom-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -15099,18 +16012,40 @@
     "ownerIds": [
       "marathon-owner"
     ],
-    "text": "Marathon Petroleum Corporation is owned by Marathon. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-    "short": "Marathon Petroleum Corporation is owned by Marathon.",
+    "text": "Marathon, the brand on the Cleveland Guardians' jersey patch, is the retail brand of Marathon Petroleum Corporation (MPC).",
+    "short": "Marathon is the retail brand of Marathon Petroleum Corporation.",
     "source": {
-      "name": "Marathon Petroleum Corp DEF 14A 2026 (SEC)",
-      "date": "2026-03-16",
-      "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000023/mpc-20260316.htm",
-      "quote": "The Vanguard Group(2) 100 Vanguard Blvd. Malvern, PA 19355 38,865,857 13.2%",
+      "name": "106.3 The Fox: Marathon stays on Guardians jerseys as sponsorship grows beyond the ballpark",
+      "date": "2026-09-25",
+      "url": "https://1063thefox.com/local-news/marathon-stays-on-guardians-jerseys-as-sponsorship-grows-beyond-the-ballpark/",
+      "quote": "Marathon, the retail brand of Marathon Petroleum Corp. (MPC) and the Official Fuel of the Cleveland Guardians, is extending its jersey patch sponsorship with the team through a new multiyear agreement.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
+    "additionalSources": [
+      {
+        "name": "MLB.com: Guardians become 12th MLB team with jersey patch, partnering with Marathon (archived)",
+        "date": "2023-06-30",
+        "url": "https://web.archive.org/web/20260419050140/https://www.mlb.com/news/guardians-add-marathon-as-jersey-patch-sponsor",
+        "quote": "The Cleveland Guardians and Marathon, the retail brand of Ohio-based Marathon Petroleum Corporation (MPC), announced Friday a new jersey patch",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "Marathon Petroleum Corp DEF 14A 2026 (SEC)",
+        "date": "2026-03-16",
+        "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000023/mpc-20260316.htm",
+        "quote": "The Vanguard Group(2) 100 Vanguard Blvd. Malvern, PA 19355 38,865,857 13.2%",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-scout (review of #984, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -15611,6 +16546,25 @@
       "name": "Mercedes-Benz Group AG Voting Rights Announcement March 31, 2026",
       "date": "2026-03-31",
       "url": "https://group.mercedes-benz.com/investors/reports-news/voting-rights/voting-rights-announcement-445696.html"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "metlife-owner-listed",
+    "kind": "ownership",
+    "ownerIds": [
+      "metlife-owner"
+    ],
+    "text": "MetLife, Inc.'s common stock is registered on the New York Stock Exchange under the symbol MET, per the cover page of its Form 10-K for the fiscal year ended December 31, 2025.",
+    "source": {
+      "name": "MetLife, Inc. Form 10-K for fiscal year ended December 31, 2025 (SEC EDGAR)",
+      "date": "2026-02-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000013/met-20251231.htm",
+      "quote": "Common Stock, par value $0.01 MET New York Stock Exchange",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "reviewed": false
   },
@@ -16298,6 +17252,27 @@
       "checked": {
         "on": "2026-09-29",
         "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "mozzart-individual-owners",
+    "kind": "ownership",
+    "ownerIds": [
+      "mozzart-bet-owner"
+    ],
+    "text": "Mozzart (Mozzart d.o.o. Beograd), KK Partizan's title sponsor since 2022, is a Serbian private company.",
+    "short": "Mozzart is a Serbian private company; the club's own announcement says so.",
+    "source": {
+      "name": "KK Partizan: KK Partizan Mozzart Bet - Novo ime za nove pobede!",
+      "date": "2022-10",
+      "url": "https://partizan.basketball/vesti/aktuelno/3286",
+      "quote": "U novu sezonu, crno-beli ulaze sa novim naslovnim sponzorom. U pitanju je srpska privatna kompanija, a to je Mozzart.",
+      "note": "Club announcement of the naming sponsorship: calls Mozzart a Serbian private company. Register detail: CompanyWall's ownership page for Mozzart d.o.o. (checked by hand 2026-10-01) lists 36 owners - Jadranka Stepanović 40,98%, Dejan Čakajac 38,35%, Eter Consulting d.o.o. 2,64%, the rest individuals with 1,5% or less each; the page currently serves scripts a stub, so the register list can no longer be quoted here.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -17005,6 +17980,59 @@
       },
       "note": "Page headed 'Status of Shares ( As of March 31, 2026 )' with a Major Shareholders table; treasury shares excluded."
     },
+    "reviewed": false
+  },
+  {
+    "id": "nintendo-owner-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "nintendo-owner"
+    ],
+    "text": "Nintendo of America Inc. is a wholly-owned subsidiary of Nintendo Co., Ltd.",
+    "short": "Nintendo of America is a wholly-owned subsidiary of Nintendo Co., Ltd.",
+    "source": {
+      "name": "Nintendo Co., Ltd. – Company History (Corporate Information)",
+      "date": "2026",
+      "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+      "quote": "Established a wholly-owned subsidiary, Nintendo of America Inc., in New York, U.S.A.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "nis-gazprom-group-majority",
+    "kind": "ownership",
+    "ownerIds": [
+      "nis-ad",
+      "gazprom-neft"
+    ],
+    "text": "Gazprom-group companies hold a majority of NIS a.d.: Gazprom Neft owns 44.85% of the shares and Gazprom a further 11.3% through Gazprom Capital, while the Serbian government holds 29.87%. The agreed sale of the Russian stake to Hungary's MOL had not closed as of 29 September 2026.",
+    "short": "Gazprom Neft owns 44.85% of NIS and Gazprom 11.3% via Gazprom Capital; the MOL buyout has not closed.",
+    "source": {
+      "name": "AK&M Information Agency: Hungarian MOL and Serbian government sign NIS agreement",
+      "date": "2026-10-01",
+      "url": "https://www.akm.ru/eng/news/hungarian-mol-and-serbian-government-sign-nis-agreement/",
+      "quote": "Gazprom Neft currently owns 44.85% of NIS shares, Gazprom - 11.3% through Gazprom Capital (plus one share directly), the Government of Serbia — 29.87%",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Srpske Novine (srpske.rs): Two GOP Lawmakers Urge Bessent to Deny NIS a New License",
+        "date": "2026-09-29",
+        "url": "https://srpske.rs/en/news/ekonomija/2026/09/29/republican-lawmakers-urge-bessent-deny-nis-new-license",
+        "quote": "Russian owners hold 56.15% of NIS, of which 44.85% belongs to Gazprom Neft. Hungary’s MOL announced in January that it had reached a deal with Gazprom Neft to take over its stake, but the transaction has not closed.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -17927,6 +18955,26 @@
     "reviewed": false
   },
   {
+    "id": "payabl-owners-ecm-buraciene",
+    "kind": "ownership",
+    "ownerIds": [
+      "payabl-group"
+    ],
+    "text": "Limassol-based payments company payabl. has reportedly agreed to sell a 50% stake to private equity firm ECM Partners, with Group CEO Ugne Buračienė retaining the remaining 50% (reported August 2026).",
+    "source": {
+      "name": "Finance Magnates: payabl. Reportedly Agrees €100M+ Deal as ECM Partners Acquires 50% Stake",
+      "date": "2026-08-17",
+      "url": "https://www.financemagnates.com/fintech/payments/payabl-agrees-100m-deal-as-ecm-partners-acquires-50-stake/",
+      "quote": "has reportedly agreed to sell a 50% stake to private equity firm ECM Partners",
+      "note": "Article continues: 'Ugne Buračienė, payabl.’s Group CEO, will retain the remaining 50% stake and continue leading the company.'",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "paycom-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -17951,12 +18999,38 @@
     "ownerIds": [
       "paycor-owner"
     ],
-    "text": "Paycor, Inc. is owned by Paycor. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
-    "short": "Paycor, Inc.",
+    "text": "Paycor was acquired by Paychex in April 2025.",
+    "short": "Paycor is owned by Paychex.",
     "source": {
       "name": "PAYCHEX INC DEF 14A 2026 (SEC)",
       "date": "2026-09-04",
-      "url": "https://www.sec.gov/Archives/edgar/data/723531/000119312526382805/d111983ddef14a.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/723531/000119312526382805/d111983ddef14a.htm",
+      "quote": "In fiscal 2026, we completed the integration of Paycor, a leading provider of HCM, payroll, and talent software, acquired in April 2025.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "paypal-holdings-listed",
+    "kind": "ownership",
+    "ownerIds": [
+      "paypal-owner"
+    ],
+    "text": "PayPal Holdings, Inc. is a publicly traded company; its common stock is listed on the Nasdaq Global Select Market under the ticker PYPL.",
+    "short": "PayPal Holdings, Inc. is listed on Nasdaq (PYPL).",
+    "source": {
+      "name": "PayPal Holdings, Inc. Form 10-K for the fiscal year ended December 31, 2025 (SEC EDGAR)",
+      "date": "2026-02-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/pypl-20251231.htm",
+      "quote": "Common stock, $0.0001 par value per share PYPL Nasdaq Global Select Market",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "SEC.gov answers the source checker's user agent with 403, so the quote may be flagged unverified-by-script."
     },
     "reviewed": false
   },
@@ -17989,7 +19063,7 @@
     "short": "Early Warning Services, LLC is co-owned by seven major U.S.",
     "source": {
       "name": "Consumer Financial Protection Bureau webpage",
-      "date": "2026-09-24",
+      "date": "2025-01-30",
       "url": "https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/early-warning-services-llc/",
       "quote": "Early Warning is co-owned by Bank of America, Capital One, JPMorgan Chase, PNC Bank, Truist, U.S. Bank and Wells Fargo.",
       "checked": {
@@ -18436,6 +19510,39 @@
     ]
   },
   {
+    "id": "pigu-lt-phh-group",
+    "kind": "ownership",
+    "ownerIds": [
+      "phh-group"
+    ],
+    "text": "Pigu.lt belongs to PHH Group, the Baltic e-commerce group formed by merging Pigu.lt with Finland's Hobby Hall; PHH Group's shareholders are led by Mid Europa Partners.",
+    "source": {
+      "name": "Žalgiris (club site): Kauno „Žalgirio“ partnerių gretas papildė vienas žinomiausių šalies prekės ženklų",
+      "date": "2026-08-27",
+      "url": "https://zalgiris.lt/naujienos/kauno-zalgirio-partneriu-gretas-papilde-vienas-zinomiausiu-salies-prekes-zenklu",
+      "quote": "„Pigu.lt“ priklauso didžiausiai Baltijos šalyse e. prekybos bendrovei „PHH Group“",
+      "note": "Lithuanian. Translation: 'Pigu.lt belongs to the largest Baltic e-commerce company PHH Group'. Club's announcement of the Pigu.lt partnership.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "15min.lt: Akcininkai į „Pigu Hobby Hall Group“ augimą investuos daugiau nei 20 mln. eurų",
+        "date": "2022-04-01",
+        "url": "https://www.15min.lt/verslas/naujiena/bendroves/akcininkai-i-pigu-hobby-hall-group-augima-investuos-daugiau-nei-20-mln-euru-663-1661570",
+        "quote": "akcininkai, vedini kompanijos „MidEuropa“",
+        "note": "Lithuanian. Translation: 'shareholders, led by the company MidEuropa'. States PHH Group's shareholders are led by Mid Europa Partners and that Pigu.lt belongs to PHH Group.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "pinterest-inc-major-holders-2026",
     "kind": "ownership",
     "ownerIds": [
@@ -18855,6 +19962,39 @@
     "reviewed": false
   },
   {
+    "id": "premier-tech-belanger-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "premier-tech-ltd"
+    ],
+    "text": "Premier Tech Ltd is a private company headquartered in Rivière-du-Loup, Quebec: its own history says it went private in 2007, and Les Affaires describes it as a family company led by president and CEO Jean Bélanger, whose father Bernard Bélanger bought the company in 1978 and chairs its board.",
+    "short": "Premier Tech is a private Quebec company run by the Bélanger family.",
+    "source": {
+      "name": "Les Affaires: 'Un leader mondial ancré dans son coin de pays' (François Normand; Wayback Machine capture of 2024-11-06)",
+      "date": "2023-05",
+      "url": "https://web.archive.org/web/20241106185706/https://www.lesaffaires.com/dossiers/special-300-grandes-entreprises-2023-3/un-leader-mondial-ancre-dans-son-coin-de-pays-2/",
+      "quote": "Bernard Bélanger, le père de Jean Bélanger, l'a achetée en 1978; il est aujourd'hui président du conseil d'administration de Premier Tech.",
+      "note": "Same article describes Premier Tech as 'l'entreprise familiale' and Jean Bélanger as 'président et chef de la direction'.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Premier Tech: 'Discover our journey' (Wayback Machine capture of 2025-09-11)",
+        "date": "2025",
+        "url": "https://web.archive.org/web/20250911083537/https://www.premiertech.com/journey",
+        "quote": "2007 – Premier Tech goes private after 20 years as a public company.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "prijsvrij-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -19077,6 +20217,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "pulsee-axpo-italia-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "axpo-holding-ag"
+    ],
+    "text": "Pulsee Luce e Gas is the domestic-customer energy retailer of Axpo Italia, and Axpo Italia is the Italian branch of the Axpo Group, which was founded in Switzerland and is active in more than 30 countries.",
+    "short": "Pulsee Luce e Gas belongs to Axpo Italia, the Italian branch of the Swiss Axpo Group.",
+    "source": {
+      "name": "Pulsee, 'Chi siamo – Dove nasce la nostra energia'",
+      "date": "2026",
+      "url": "https://pulsee.it/chi-siamo",
+      "quote": "Axpo Italia è la filiale del Gruppo Axpo, nato in Svizzera e attivo in più di 30 Paesi",
+      "note": "Translation: 'Axpo Italia is the branch of the Axpo Group, born in Switzerland and active in more than 30 countries.' The same section, headed 'Siamo parte del Gruppo Axpo' (We are part of the Axpo Group), says 'Pulsee è la società energy per i clienti domestici, parte di Axpo Italia' (Pulsee is the energy company for domestic customers, part of Axpo Italia). Pulsee's site footer likewise reads 'Pulsee S.r.l. - Società soggetta a direzione e coordinamento da parte di Axpo Italia S.p.A.' (subject to management and coordination of Axpo Italia).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -20690,6 +21851,27 @@
     ]
   },
   {
+    "id": "rugs-com-family-owned",
+    "kind": "ownership",
+    "ownerIds": [
+      "rugs-com"
+    ],
+    "text": "Rugs.com is a family-owned and family-operated business with over 55 years of experience in retail and wholesale; its headquarters is in Fort Mill, South Carolina.",
+    "short": "Family-owned rug retailer",
+    "source": {
+      "name": "Rugs.com – About Rugs.com (Help Center)",
+      "date": "2026",
+      "url": "https://rugs.com/customer-service/helpallquestions?about=",
+      "quote": "We are a family-owned and family-operated business with over 55 years of experience in the retail and wholesale industry",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Company's own FAQ. The page's only date is the site footer copyright (© 2026 Rugs.com); it does not name the owning family. 'Where is Rugs.com located?' on the same page: 'Our headquarters is located in Fort Mill, South Carolina.'"
+    },
+    "reviewed": false
+  },
+  {
     "id": "russian-federation-record",
     "kind": "record",
     "ownerIds": [
@@ -21721,16 +22903,16 @@
     "ownerIds": [
       "sheetz-owner"
     ],
-    "text": "Sheetz is a family-owned convenience store chain (Sheetz family) with no state ownership or control.",
-    "short": "Sheetz is a family-owned convenience store chain (Sheetz family) with no state ownership or control.",
+    "text": "Sheetz is still family owned, and the Sheetz family is at the helm of the company.",
+    "short": "Sheetz is still family owned.",
     "source": {
-      "name": "Sheetz Family Leadership page",
-      "date": "2026-09-24",
+      "name": "Sheetz: The Sheetz Family",
+      "date": "2026",
       "url": "https://www.sheetz.com/family",
       "quote": "Sheetz is still family owned, and this is the core of the company.",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -22847,18 +24029,30 @@
     "ownerIds": [
       "starr-insurance-owner"
     ],
-    "text": "Starr Insurance Companies is a privately held international insurance group whose ultimate parent is Starr International Company, Inc. (SICO), tracing back to Cornelius Vander Starr, with no state ownership.",
+    "text": "Starr Insurance is privately owned; the ultimate parent of the insurance operations is Starr International Company, Inc. (commonly called SICO), a private holding company now domiciled in Switzerland.",
     "source": {
-      "name": "Legal Clarity Starr Insurance parent company page",
+      "name": "LegalClarity: Who Owns Starr Insurance? Parent Company and Structure",
       "date": "2026-06-11",
       "url": "https://legalclarity.org/who-owns-starr-insurance-parent-company-and-structure",
-      "quote": "The ultimate parent of the insurance operations is Starr International Company, Inc. (commonly called SICO), a private holding company now domiciled in Switzerland",
+      "quote": "Starr Insurance is privately owned. The ultimate parent of the insurance operations is Starr International Company, Inc. (commonly called SICO), a private holding company now domiciled in Switzerland",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
-    "reviewed": false
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Starr Companies (the sponsor's own site) home page",
+        "date": "2026",
+        "url": "https://starrcompanies.com/",
+        "quote": "the insurance subsidiaries of Starr International Company, Inc.",
+        "checked": {
+          "on": "2026-10-02",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ]
   },
   {
     "id": "state-farm-owner-record",
@@ -23005,6 +24199,26 @@
       "checked": {
         "on": "2026-09-27",
         "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "stifel-owner-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "stifel-owner"
+    ],
+    "text": "Stifel Financial Corp. is a publicly traded company: its common stock is registered on the New York Stock Exchange under the trading symbol \"SF\".",
+    "short": "Stifel Financial Corp. trades on the NYSE under \"SF\".",
+    "source": {
+      "name": "Stifel Financial Corp. – Form 10-K for the fiscal year ended 31 December 2025 (SEC)",
+      "date": "2026-02-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/720672/000119312526067130/sf-20251231.htm",
+      "quote": "Common Stock, $0.15 par value per share ( SF ) New York Stock Exchange",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -23266,6 +24480,49 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "superbet-group-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "superbet-owner"
+    ],
+    "text": "Superbet Group was founded in 2008 by Sacha Dragic, who returned to sole leadership as chief executive in 2026. In May 2019 funds managed or advised by Blackstone's Tactical Opportunities business made a €175m strategic minority equity investment in Superbet; in February 2025 that Blackstone strategic investment was refinanced with HPS Investment Partners.",
+    "short": "Superbet: founded and led by Sacha Dragic, with a Blackstone minority stake since 2019.",
+    "source": {
+      "name": "Blackstone press release: Superbet Announces €175m Strategic Minority Equity Investment from Blackstone",
+      "date": "2019-05-08",
+      "url": "https://www.blackstone.com/news/press/superbet-announces-175m-strategic-minority-equity-investment-from-blackstone/",
+      "quote": "announce a €175m strategic minority equity investment in Superbet by funds managed or advised by Blackstone's Tactical Opportunities business",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "The same release's About Superbet section reads: 'Founded in 2008 by CEO Sacha Dragic'."
+    },
+    "additionalSources": [
+      {
+        "name": "Simpson Thacher: Blackstone Signs €1.3 Billion Refinancing of Superbet Group",
+        "date": "2025-02-11",
+        "url": "https://www.stblaw.com/about-us/news/view/2025/02/11/blackstone-signs-1.3-billion-refinancing-of-superbet-group",
+        "quote": "funds managed by Blackstone Tactical Opportunities with the announced €1.3 billion refinancing of their existing strategic investment in Superbet Group",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      },
+      {
+        "name": "iGaming Business: Superbet founder Dragic to become sole CEO in management reshuffle",
+        "date": "2025-10-31",
+        "url": "https://igamingbusiness.com/people/people-moves/superbet-dragic-sole-ceo-management-reshuffle/",
+        "quote": "with Sacha Dragic to become sole CEO of the online gambling operator. Dragic founded the company",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -24104,6 +25361,39 @@
       },
       "note": "Translation: 'Commercial register: Nuremberg Local Court (AG Nürnberg), HRB 38176'."
     },
+    "reviewed": false
+  },
+  {
+    "id": "topsport-fortuna-70-pct",
+    "kind": "ownership",
+    "ownerIds": [
+      "fortuna-entertainment-group"
+    ],
+    "text": "Czech betting group Fortuna Entertainment Group (FEG) acquired a 70% controlling stake in TOPsport; the deal was announced in March 2026 and formally completed by mid-August 2026.",
+    "source": {
+      "name": "15min.lt: „TOPsport“ parduodamas čekams: kas laukia Lietuvos futbolo?",
+      "date": "2026-03-26",
+      "url": "https://www.15min.lt/sportas/naujiena/futbolas/topsport-parduotas-cekams-kas-laukia-lietuvos-futbolo-24-2649954",
+      "quote": "„Fortuna Entertainmet Group“ (FEG) įsigijo 70 proc. „TOPsport“ akcijų",
+      "note": "Lithuanian. Translation: 'Fortuna Entertainment Group (FEG) acquired 70% of TOPsport shares' (typo 'Entertainmet' in the original). Article also details the pre-sale owners: Gintaras Staniulis 89.99% via Confluence Investment, remainder via Dainius Gulbinas's ALDA Holding.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "iGamingWorld: Fortuna Entertainment Completes Acquisition of TOPsport",
+        "date": "2026-08-17",
+        "url": "https://igamingworld.com/mergers-and-acquisitions/fortuna-acquisition-topsport/",
+        "quote": "has successfully completed its acquisition of a majority interest in TOPsport",
+        "note": "Confirms formal closure (70%) of the deal announced in March 2026.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -25048,13 +26338,31 @@
     "ownerIds": [
       "university-of-texas-system"
     ],
-    "text": "MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of Texas System - its own about page states it is part of the UT System, and its financial statements are those of a division of the System funded by state appropriations plus the Permanent University Fund and philanthropy.",
-    "short": "MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of Texas System - its own about page states it is part of the UT….",
+    "text": "MD Anderson, the Houston Dynamo front sponsor, is part of the University of Texas System.",
+    "short": "MD Anderson is part of the University of Texas System.",
     "source": {
-      "name": "UT MD Anderson - About MD Anderson ('Part of the University of Texas System')",
+      "name": "UT MD Anderson – About UT MD Anderson ('Part of the University of Texas System')",
       "date": "2026",
-      "url": "https://www.mdanderson.org/about-md-anderson.html"
+      "url": "https://www.mdanderson.org/about-md-anderson.html",
+      "quote": "Part of the University of Texas System, UT MD Anderson is one of the world’s most respected centers devoted exclusively to cancer patient care, research, education and prevention.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
+    "additionalSources": [
+      {
+        "name": "Houston Dynamo FC – 'Houston Dynamo FC launch Mission Control kit, inspired by Houston’s pioneering spirit in space exploration'",
+        "date": "2026-02-11",
+        "url": "https://www.houstondynamofc.com/news/houston-dynamo-fc-launch-mission-control-kit-inspired-by-houston-s-pioneering-spirit-in-space-exploration",
+        "note": "Supports the 'Houston Dynamo front sponsor' part of the claim: the club's 2026 kit launch names MD Anderson as front-of-kit sponsor.",
+        "quote": "Notably, The University of Texas MD Anderson Cancer Center returns as the front of kit sponsor, and teammates from MD Anderson joined Dynamo players in modeling the jersey.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -26661,6 +27969,40 @@
     "reviewed": false
   },
   {
+    "id": "zey-yapi-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "zey-yapi"
+    ],
+    "text": "Zey Yapı is owned by Mehmet Zeki Peker, who stood as an AKP parliamentary candidate in 2015 and 2018, ABC Gazetesi reported while covering the company's large public hospital tenders. Its own site describes it as a construction and contracting business set up in 2001 and carries a chairman's message signed Emre Peker.",
+    "short": "Zey Yapı is owned by Mehmet Zeki Peker; its site describes a 2001 contractor, chaired by Emre Peker.",
+    "source": {
+      "name": "ABC Gazetesi: AKP'li Mehmet Zeki Peker'in şirketi Zey Yapı'dan 14 milyar TL'lik kamu ihalesi!",
+      "date": "2025-02-11",
+      "url": "https://abcgazetesi.com.tr/akpli-mehmet-zeki-pekerin-sirketi-zey-yapidan-14-milyar-tllik-kamu-ihalesi-791837",
+      "quote": "Mehmet Zeki Peker'in sahibi olduğu Zey Yapı, son yıllarda aldığı dev kamu ihaleleriyle dikkat çekiyor.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "The hospital tenders the article lists (Aydın 950-bed, Sivas Numune, Çankırı, Akhisar) match the projects Zey Yapı lists on its own site, confirming this is the same Zey Yapı that sponsors Fenerbahçe's basketball shorts."
+    },
+    "additionalSources": [
+      {
+        "name": "Zey Yapı: Kurumsal (About)",
+        "date": "2019-12-27",
+        "url": "https://zeyyapi.com.tr/kurumsal/",
+        "quote": "Zey Yapı 2001 yılında inşaat ve müteahhitlik hizmetleri verme amacıyla yola çıkmış bir girişimdir.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Founded 22 June 2001 per the trade registry gazette cited on the page; the 'Başkanın Mesajı' (chairman's message) is signed 'Saygılarımla.. Emre Peker'."
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "zhejiang-geely-holding-group-record",
     "kind": "ownership",
     "ownerIds": [
@@ -26771,5 +28113,26 @@
     "reviewed": false,
     "id": "zscaler-inc-record",
     "kind": "ownership"
+  },
+  {
+    "id": "zwift-investor-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "zwift-inc"
+    ],
+    "text": "Zwift, Inc., the US online fitness platform, is a venture-backed company: in September 2020 it announced a $450 million minority investment led by KKR, with new investors Permira, Specialized Bicycle Components' Zone 5 Ventures and the Amazon Alexa Fund and existing investors True, Highland Europe, Novator and Causeway Media.",
+    "short": "Zwift's investors are venture funds (KKR, Permira and others).",
+    "source": {
+      "name": "Zwift newsroom: 'ZWIFT RAISES $450 MILLION INVESTMENT; SERIES C ROUND LED BY KKR'",
+      "date": "2020-09-16",
+      "url": "https://news.zwift.com/en-WW/191648-zwift-raises-450-million-investment-series-c-round-led-by-kkr/",
+      "quote": "Zwift, the global online fitness platform for cyclists and runners, today announced a $450 million minority investment led by leading global investment firm KKR",
+      "note": "Same release: 'accompanied by other new investors Permira, Specialized Bicycle Components’ venture capital fund, Zone 5 Ventures and the Amazon Alexa Fund and existing investors including True, Highland Europe, Novator and Causeway Media.'",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
   }
 ]
