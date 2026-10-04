@@ -105,7 +105,9 @@ describe('data/live', () => {
     expect(more).toBeGreaterThan(100);
     // 2. Bundesliga left this list in the 2026-10-02 release (it is 'partial' now), so the guard
     // is a league that is still untouched rather than the one that happened to be first before.
-    expect(notStarted).toContain('Roshn Saudi League');
+    // Roshn Saudi League started in the 2026-10-04 release; UFC has no records in the data yet
+    // and is last in the expansion queue, so it is the least likely league to start next.
+    expect(notStarted).toContain('UFC (Ultimate Fighting Championship)');
     expect(notStarted.length).toBeGreaterThan(0);
   });
 });

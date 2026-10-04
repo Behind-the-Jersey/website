@@ -53,6 +53,27 @@
     }
   },
   {
+    "id": "2026-08-22-torino-fratelli-beretta-sleeve",
+    "date": "2026-08-22",
+    "datePrecision": "day",
+    "clubId": "torino",
+    "sponsorId": "fratelli-beretta",
+    "kind": "new",
+    "levelAfter": "not-rated",
+    "title": "Beretta returns to the Torino shirt, on the sleeve",
+    "text": "Salumificio Fratelli Beretta is back on the Torino first-team shirt as Sleeve Partner for 2026/27, alongside Suzuki (front), bet365 Scores (front), Joma (technical) and Acrobatica (back).",
+    "source": {
+      "name": "Torino FC, 'Beretta è Sleeve Partner della Prima squadra'",
+      "date": "2026-08-22",
+      "url": "https://www.torinofc.it/news/22/08/2026/beretta-e-sleeve-partner-della-prima-squadra_44511",
+      "quote": "siamo felici di accogliere ancora una volta Salumificio Fratelli Beretta al nostro fianco come Sleeve Partner per la stagione 2026/27",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    }
+  },
+  {
     "id": "2026-08-22-lazio-kaiyunsports-news",
     "date": "2026-08-22",
     "datePrecision": "day",
@@ -103,6 +124,27 @@
       "name": "Inside World Football",
       "date": "2026-08-06",
       "url": "https://www.insideworldfootball.com/2026/08/06/arsenal-announce-emirates-renewal-to-2033"
+    }
+  },
+  {
+    "id": "2026-07-17-lakers-albert-patch",
+    "date": "2026-07-17",
+    "datePrecision": "day",
+    "clubId": "los-angeles-lakers",
+    "sponsorId": "albert",
+    "kind": "new",
+    "levelAfter": "not-rated",
+    "title": "Albert becomes the Lakers jersey patch partner",
+    "text": "The Los Angeles Lakers announced a partnership with personal financial assistant app Albert, whose logo appears on the upper left chest of all four Lakers uniform designs from the 2026-27 season.",
+    "source": {
+      "name": "Yahoo Sports: Lakers announce Albert as new jersey patch partner",
+      "date": "2026-07-17",
+      "url": "https://sports.yahoo.com/articles/lakers-announce-albert-jersey-patch-182626664.html",
+      "quote": "The Los Angeles Lakers announced a new partnership on Friday with personal financial assistant app Albert, naming the company the official jersey patch partner of the franchise.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     }
   },
   {
