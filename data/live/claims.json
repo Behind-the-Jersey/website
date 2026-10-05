@@ -376,6 +376,27 @@
     ]
   },
   {
+    "id": "adg-family-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "al-dabbagh-group"
+    ],
+    "text": "Al-Dabbagh Group (ADG) is a private, family-owned business, founded in 1962 by Sheikh Abdullah Al-Dabbagh, former Agriculture Minister of Saudi Arabia.",
+    "short": "Al-Dabbagh Group is family-owned.",
+    "source": {
+      "name": "Al-Dabbagh Group: About us",
+      "date": "2026",
+      "url": "https://www.aldabbagh.com/about-us",
+      "note": "Page without a date; opened 2026-10-03.",
+      "quote": "ADG is a private, family-owned business, founded in 1962 by His Excellency Sheikh Abdullah Al-Dabbagh, former Agriculture Minister of Saudi Arabia",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "adidas-ag-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -752,6 +773,27 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "agrokom-savvidi-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "ivan-savvidi"
+    ],
+    "text": "Agrokom Group was created in 2004 by Ivan Savvidi; the Rostov businessman is the group's owner.",
+    "short": "Agrokom Group belongs to Rostov businessman Ivan Savvidi.",
+    "source": {
+      "name": "Donnews.ru: Саввиди Иван Игнатьевич (persona page)",
+      "date": "2026",
+      "url": "https://www.donnews.ru/persony/personalii_33.html",
+      "quote": "Бизнесмен, владелец группы «Агроком», входит в список богатейших людей России по версии Forbes",
+      "note": "Page undated; accessed 2026-10-03; the page's news items run to 30 September 2026. Translation: 'Businessman, owner of Agrokom Group, listed among Russia's richest people by Forbes.' The same page says the group was 'Создана в 2004 году Иваном Саввиди' (created in 2004 by Ivan Savvidi) and lists the Atlantis-Pak business complex as part of the group since 2011.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -1348,6 +1390,61 @@
     "reviewed": false
   },
   {
+    "id": "aldyar-alarabiya-shahm-holding",
+    "kind": "ownership",
+    "ownerIds": [
+      "shahm-holding"
+    ],
+    "text": "Aldyar Alarabiya (Arabian Dyar Real Estate Development Company) is part of Shahm Holding Company, per its own website.",
+    "short": "Aldyar Alarabiya is part of Shahm Holding.",
+    "source": {
+      "name": "Arabian Dyar: About Us",
+      "date": "2026",
+      "url": "https://arabiandyar.sa/about-us/",
+      "quote": "Arabian Dyar, part of the SHAHM Holding Company, stands as a pioneering force in real estate and construction development within the Kingdom of Saudi Arabia.",
+      "note": "Page undated; opened 2026-10-03.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "alfa-bank-kosogov-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "andrey-kosogov"
+    ],
+    "text": "Alfa-Bank co-founder Andrey Kosogov held 40.96% of the bank's shares via ABH Holdings (as of March 2022), and Mikhail Fridman and Petr Aven completed the sale of their stakes in the bank to him in 2024.",
+    "short": "Kosogov is Alfa-Bank's largest shareholder (about 41% via ABH Holdings) after buying out Fridman and Aven.",
+    "source": {
+      "name": "Kommersant: FT: Авен и Фридман продали свои доли в Альфа-банке",
+      "date": "2025-02-06",
+      "url": "https://www.kommersant.ru/doc/7480510",
+      "quote": "Через ABH Holdings ему принадлежало 40,96% акций компании.",
+      "note": "The article states Fridman and Aven 'завершили продажу своих долей в Альфа-банке и «АльфаСтраховании» Андрею Косогову' (completed the sale of their stakes in Alfa-Bank and AlfaStrakhovanie to Andrey Kosogov) and that the deal was closed in 2024 with no official information published.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Meduza: FT: Фридман и Авен продали доли в Альфа-банке своему бизнес-партнеру",
+        "date": "2025-02-06",
+        "url": "https://meduza.io/news/2025/02/06/ft-fridman-i-aven-prodali-svoi-doli-v-alfa-banke",
+        "quote": "Доли Хана и Кузьмичева в Альфа-банке и LetterOne также выкупил Косогов, что сделало его крупнейшим акционером в обеих компаниях.",
+        "note": "Translation: 'Kosogov also bought out Khan's and Kuzmichev's stakes in Alfa-Bank and LetterOne, making him the largest shareholder in both companies.'",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "all-in-won-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -1505,6 +1602,39 @@
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "alpinestars-owner-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "alpinestars"
+    ],
+    "text": "Alpinestars, founded in 1963, is owned by the Mazzarolo family.",
+    "short": "Alpinestars is owned by the Mazzarolo family.",
+    "source": {
+      "name": "FashionNetwork (Bloomberg): Asian PE firms circle €1 billion racing brand Alpinestars",
+      "date": "2026-09-15",
+      "url": "https://us.fashionnetwork.com/news/Asian-pe-firms-circle-1-billion-racing-brand-alpinestars,1866435.html",
+      "quote": "Alpinestars, founded in 1963, is owned by the Mazzarolo family.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Alpinestars: About Us",
+        "date": "2026",
+        "url": "https://www.alpinestars.com/pages/about-us",
+        "note": "Page without a date; opened 2026-10-03. Company history naming founder Sante Mazzarolo and Gabriele Mazzarolo's ownership of the Italian part of the company.",
+        "quote": "With the Italian part of the Company now also owned and directed by Gabriele, by the mid-1990s the first technical apparel line was designed and launched",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -2054,6 +2184,26 @@
     "reviewed": false
   },
   {
+    "id": "aprilia-piaggio-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "piaggio-group"
+    ],
+    "text": "Aprilia is a motorcycle brand of the Piaggio Group (Piaggio & C. S.p.A.), alongside Piaggio, Vespa, Gilera, Moto Guzzi, Derbi and Scarabeo.",
+    "short": "Aprilia is a brand of the Piaggio Group.",
+    "source": {
+      "name": "Piaggio Group: FAQ",
+      "date": "2026",
+      "url": "https://www.piaggiogroup.com/en/faq",
+      "quote": "The Piaggio Group product range includes scooters, motorcycles and mopeds in the 50cc to 1200cc displacement range for the Piaggio, Vespa, Gilera, Aprilia, Moto Guzzi, Derbi and Scarabeo brands.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "aquame-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -2576,6 +2726,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "atlantis-pak-agrokom-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "agrokom-group"
+    ],
+    "text": "Atlantis-Pak, the Rostov food-packaging producer and FC Rostov's title sponsor, is part of the Agrokom Group holding.",
+    "short": "Atlantis-Pak is part of the Agrokom Group holding.",
+    "source": {
+      "name": "FC Rostov – Sponsors and partners (club site, Atlantis-Pak title sponsor profile)",
+      "date": "2026",
+      "url": "https://fc-rostov.ru/club/sponsors",
+      "quote": "Предприятие входит в холдинг «Группа Агроком».",
+      "note": "Page undated; accessed 2026-10-03. Translation: 'The company is part of the Agrokom Group holding.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -6067,6 +6238,27 @@
     "reviewed": false
   },
   {
+    "id": "cdt-founded-by-bruno-salgado",
+    "kind": "ownership",
+    "ownerIds": [
+      "cdt-equipamentos"
+    ],
+    "text": "CDT (CDT Equipamentos Desportivos, Lda, Vila Nova de Famalicão) was created in 2012 by businessman Bruno Salgado; a profile published by the municipality describes him as the entrepreneur behind the company.",
+    "short": "CDT was created by entrepreneur Bruno Salgado in 2012.",
+    "source": {
+      "name": "Famalicão Made IN (Câmara Municipal de Vila Nova de Famalicão): CDT na primeira liga dos equipamentos desportivos",
+      "date": "2017-05-28",
+      "url": "https://www.famalicaomadein.pt/_cdt_na_primeira_liga_dos_equipamentos_desportivos",
+      "quote": "A CDT, criada em 2012 por Bruno Salgado",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Translation: 'CDT, created in 2012 by Bruno Salgado'; the profile refers to Salgado as 'o empresário' [the businessman] when quoting him at the inauguration of the company's purpose-built premises."
+    },
+    "reviewed": false
+  },
+  {
     "id": "cea-state-control",
     "kind": "ownership",
     "ownerIds": [
@@ -6160,6 +6352,27 @@
       "checked": {
         "on": "2026-09-27",
         "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "cenomi-centers-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "cenomi-centers"
+    ],
+    "text": "Cenomi Centers is chaired by Fawaz Al Hokair; its 2024 annual report's Major Shareholders List names FAS Real Estate Co. (28.0% at the end of 2024), Abdulmajid Al-Hokair (7.9%), Salman Al-Hokair (7.3%), Al Farida Al-Thaniah Co. (3.8%) and Fawaz Al-Hokair (3.2%).",
+    "short": "Cenomi Centers is led by the Al Hokair family and FAS Real Estate.",
+    "source": {
+      "name": "Cenomi Centers: Annual Report 2024 (p. 90: Major Shareholders List)",
+      "date": "2025-04",
+      "url": "https://centers.cenomi.com/wp-content/uploads/sites/2/2025/04/2024_Annual_Report_EN.pdf",
+      "quote": "FAS Real Estate Co. 176,757,322 37.2% 133,143,550 28.0%",
+      "note": "Major Shareholders List (p. 90, year-end 2024; PDF reviewed via text extraction on 2026-10-04). Fawaz Al Hokair is chairman per the report ('Fawaz Alhokair, Chairman', p. 3).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -7493,6 +7706,40 @@
       }
     },
     "reviewed": false
+  },
+  {
+    "id": "convoy-of-hope-nonprofit",
+    "kind": "ownership",
+    "ownerIds": [
+      "convoy-of-hope"
+    ],
+    "text": "Convoy of Hope is a faith-based humanitarian organisation founded in 1994 by Hal Donaldson; it is a 501(c)(3) tax-exempt nonprofit organisation.",
+    "short": "Convoy of Hope is a 501(c)(3) nonprofit humanitarian organisation.",
+    "source": {
+      "name": "Convoy of Hope: About (European site)",
+      "date": "2026",
+      "url": "https://convoyofhope.eu/about/",
+      "quote": "Convoy of Hope is a 501(c)(3) tax-exempt organisation. All donations are tax-deductible where allowed by law.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Footer statement on the About page, which also states Convoy of Hope was founded in 1994 by Hal Donaldson. Cited from convoyofhope.eu: convoyofhope.org blocks scripts (403). Page has no date; opened 2026-10-03."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "ProPublica Nonprofit Explorer: Convoy Of Hope (EIN 68-0051386, Springfield, MO)",
+        "date": "2026-09-23",
+        "url": "https://projects.propublica.org/nonprofits/organizations/680051386",
+        "quote": "Designated as a 501(c)(3)",
+        "note": "IRS-derived Nonprofit Explorer profile for Convoy Of Hope, Springfield, MO, headed 'Designated as a 501(c)(3)' with 'Donations to this organization are tax deductible.' Date is the page's 'Updated' date.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ]
   },
   {
     "id": "coop-nordland-ownership",
@@ -9186,6 +9433,27 @@
     "reviewed": false
   },
   {
+    "id": "dynisma-owner-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "dynisma-owner"
+    ],
+    "text": "Companies House lists Hawthorn Holdco Limited (company number 17313112) and Mr Ashley William Hawker Warne as the persons with significant control of Dynisma Ltd (company number 10923412), each holding more than 25% but not more than 50% of shares and voting rights.",
+    "short": "Dynisma Ltd's registered controllers are Hawthorn Holdco and Ashley Warne.",
+    "source": {
+      "name": "Companies House: DYNISMA LTD. (10923412) persons with significant control",
+      "date": "2026",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/10923412/persons-with-significant-control",
+      "note": "Register page without a date; opened 2026-10-03.",
+      "quote": "Persons with significant control: 2 active persons with significant control / 0 active statements",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "e-and-eia-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -9534,6 +9802,40 @@
       },
       "note": "Exchange notice by AB Electrolux about a rights issue of Class A and B shares; it also names Frigidaire among the group's brands ('including Electrolux, AEG and Frigidaire')."
     },
+    "reviewed": false
+  },
+  {
+    "id": "electromin-owner-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "electromin-owner"
+    ],
+    "text": "Electromin is the EV-charging subsidiary of Petromin Corporation, one of Nissan's authorized dealers in Saudi Arabia.",
+    "short": "Electromin is a Petromin Corporation subsidiary.",
+    "source": {
+      "name": "Nissan Global Newsroom: Nissan Formula E Press Kit (Electromin section)",
+      "date": "2026",
+      "url": "https://global.nissannews.com/en/releases/nissan-formula-e-press-kit",
+      "note": "Press kit page without a date; opened 2026-10-03.",
+      "quote": "Electromin's parent company, Petromin Corporation, is one of our authorized Nissan dealers in Saudi Arabia",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Petromin: Company Profile (Our Evolution)",
+        "date": "2026",
+        "url": "https://petromin.com/our-profile/",
+        "note": "Page without a date (milestone year 2020); opened 2026-10-03.",
+        "quote": "Launches Electromin – The first EV solutions company in Saudi Arabia",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -9951,6 +10253,60 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "envision-group-founder-zhang-lei",
+    "kind": "ownership",
+    "ownerIds": [
+      "envision-group"
+    ],
+    "text": "Lei Zhang (Zhang Lei) is the founder and CEO of Envision, the company that owns the Envision Racing Formula E team.",
+    "short": "Envision is founder-led: Lei Zhang is founder and CEO.",
+    "source": {
+      "name": "Envision Racing: Envision becomes Virgin Racing majority team owner",
+      "date": "2018-04-28",
+      "url": "https://envision-racing.com/envision-becomes-ds-virgin-racing-majority-team-owner/",
+      "quote": "Lei Zhang, Founder and CEO of Envision, said",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "envision-group-owns-envision-racing",
+    "kind": "ownership",
+    "ownerIds": [
+      "envision-group"
+    ],
+    "text": "Envision, a renewable energy and technology company headquartered in Shanghai, became majority owner of the Formula E team then racing as Virgin Racing in April 2018.",
+    "short": "Envision Group has been the Formula E team's majority owner since 2018.",
+    "source": {
+      "name": "Envision Racing: Envision becomes Virgin Racing majority team owner",
+      "date": "2018-04-28",
+      "url": "https://envision-racing.com/envision-becomes-ds-virgin-racing-majority-team-owner/",
+      "quote": "world-leading renewable energy and technology company Envision is to become the majority team owner",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The club's own announcement (28 April 2018 per the site). The same page describes Envision: 'Headquartered in Shanghai, Envision is a global leader in renewable energy generation and smart energy management.'"
+    },
+    "additionalSources": [
+      {
+        "name": "FIA Formula E: Envision Racing welcome Paysafe as new Title Partner",
+        "date": "2026-08-14",
+        "url": "https://www.fiaformulae.com/en/news/teams/envision-racing-welcome-paysafe-as-new-title-partner",
+        "quote": "Envision Energy is delighted to have such a wonderful global brand like Paysafe joining Envision as Title Partners of the team",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Franz Jung, CEO & Chairman of the Board of Envision Racing and VP Envision Energy, speaking for Envision about the team - continued Envision ownership into the 2026 GEN4 era."
+      }
+    ],
     "reviewed": false
   },
   {
@@ -11174,6 +11530,40 @@
         "checked": {
           "on": "2026-09-30",
           "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "fonbet-udodov-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "alexander-udodov"
+    ],
+    "text": "On 13 April 2022 businessman Alexander Udodov became the sole owner of the Pin-Up.ru company; the same day, the Fonbet bookmaker's site named Pin-Up.ru as its owner. Stavka.TV (September 2026) repeats that Udodov acquired Fonbet in 2022, while noting that the register (EGRUL) names AO Klir Tsentr as the founder of licence holder OOO Fonkor.",
+    "short": "Fonbet's site named Pin-Up.ru (Alexander Udodov) as its owner in April 2022 (The Bell).",
+    "source": {
+      "name": "The Bell: Бывший зять Мишустина купил крупнейшую в России букмекерскую сеть",
+      "date": "2022-04-15",
+      "url": "https://thebell.io/byvshiy-zyat-mishustina-kupil-krupneyshuyu-v-rossii-bukmekerskuyu-set",
+      "quote": "Бизнесмен Александр Удодов с 13 апреля стал единственным владельцем компании «Пин-Ап.ру»",
+      "note": "The article adds that on the same day Fonbet's site 'в качестве ее владельца указана «Пин-Ап.ру»' (named Pin-Up.ru as its owner).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Stavka.TV: Компания Фонбет: история основания и кто владелец",
+        "date": "2026-09-30",
+        "url": "https://stavka.tv/bookmakers/fonbet/about",
+        "quote": "В 2022 году «Фонбет» приобрел бизнесмен Александр Удодов",
+        "note": "Translation: 'In 2022, the businessman Alexander Udodov acquired Fonbet.' The page also says the licence holder is OOO 'Fonkor' and, citing the register (EGRUL), names AO 'Klir Tsentr' as its founder - Klir Tsentr's owner is not identified.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
         }
       }
     ],
@@ -15829,6 +16219,48 @@
     "reviewed": false
   },
   {
+    "id": "jogel-movsesyan-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "artur-movsesyan"
+    ],
+    "text": "Artur Movsesyan is the founder of the Jogel brand; in 2010 he and his brother returned from their studies and immersed themselves in their father's sports-goods business.",
+    "short": "Jogel founder Artur Movsesyan; family sports-goods business joined with his brother in 2010.",
+    "source": {
+      "name": "Metaratings.ru: «Одной из моих мечт было одевать сборную России» — интервью основателя Jögel Артура Мовсесяна",
+      "date": "2024-05-24",
+      "url": "https://metaratings.ru/blog/intervyu-osnovatelya-brenda-sportivnoj-ehkipirovki-jogel-artura-movsesyana/",
+      "quote": "В 2010 году, отучившись во французской бизнес-школе, мы с братом вернулись, началось наше погружение в бизнес отца",
+      "note": "Translation: 'In 2010, having graduated from a French business school, my brother and I returned and immersed ourselves in our father's business.' The interview repeatedly calls Movsesyan 'основатель компании' (company founder).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "jogel-prime-sport-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "prime-sport"
+    ],
+    "text": "The Jogel sportswear brand operates inside the Prime Sport company, which has more than 150 staff and eight other brands in its portfolio.",
+    "short": "Jogel is a brand of the Prime Sport company.",
+    "source": {
+      "name": "Metaratings.ru: «Одной из моих мечт было одевать сборную России» — интервью основателя Jögel Артура Мовсесяна",
+      "date": "2024-05-24",
+      "url": "https://metaratings.ru/blog/intervyu-osnovatelya-brenda-sportivnoj-ehkipirovki-jogel-artura-movsesyana/",
+      "quote": "Сейчас Jögel «живет» внутри большой компании «Прайм Спорт», у которой в штате более 150 сотрудников",
+      "note": "Translation: 'Today Jögel lives inside the large Prime Sport company, which has more than 150 staff.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "joie-controlling-parties-2024",
     "kind": "ownership",
     "ownerIds": [
@@ -16221,6 +16653,26 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "karhu-holding-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "karhu-holding"
+    ],
+    "text": "The Karhu running brand was bought in 2008 by Karhu Holding B.V., a Dutch holding company majority-owned by former Reebok executives Huub Valkenburg and Jay Duke.",
+    "short": "Karhu is owned by Karhu Holding B.V. (majority owners Huub Valkenburg and Jay Duke).",
+    "source": {
+      "name": "SGB Media: Finnish Running Brand Karhu Acquired",
+      "date": "2008-06-25",
+      "url": "https://sgbonline.com/finnish-running-brand-karhu-acquired/",
+      "quote": "Valkenburg and Duke, majority owners of the new holding company, KARHU Holding B.V.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -16654,6 +17106,28 @@
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
       }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "komus-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "tpgk",
+      "sergey-bobrikov"
+    ],
+    "text": "The Komus group's companies are owned by founder Sergey Bobrikov through ООО «ТПГК»; in that company he holds 96% and the remaining 4% is held by Komus CFO Gennady Lomasov (per Forbes, reported by vc.ru).",
+    "short": "Komus is owned by founder Sergey Bobrikov (96%, via ООО «ТПГК»); 4% is held by CFO Gennady Lomasov.",
+    "source": {
+      "name": "vc.ru: Forbes оценил состояние основателя «Комуса» Сергея Бобрикова в $800 млн",
+      "date": "2020-02-10",
+      "url": "https://vc.ru/money/106194-forbes-ocenil-sostoyanie-osnovatelya-komusa-sergeya-bobrikova-v-800-mln",
+      "quote": "В группу «Комус» входит более 20 компаний, которыми Бобриков владеет через ООО «ТПГК», уточняет Forbes. По данным издания, в этой компании ему принадлежит 96%",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Russian: The Komus group comprises more than 20 companies owned by Bobrikov through ООО ТПГК; he holds 96% there, with the remaining 4% held by Gennady Lomasov. vc.ru report citing Forbes."
     },
     "reviewed": false
   },
@@ -18501,6 +18975,59 @@
     "reviewed": false
   },
   {
+    "id": "marelli-kkr-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "marelli-holdings"
+    ],
+    "text": "Marelli's 2022 capital restructuring included an investment of new equity capital by its shareholder KKR.",
+    "short": "KKR was Marelli's shareholder under the 2022 restructuring.",
+    "source": {
+      "name": "Marelli: Successful conclusion of Marelli capital restructuring (press release)",
+      "date": "2022-08-09",
+      "url": "https://www.marelli.com/en/news/successful-conclusion-of-marelli-capital-restructuring.html",
+      "quote": "the investment of new equity capital by its shareholder KKR, which will imminently be made available",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "marelli-lenders-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "marelli-holdings"
+    ],
+    "text": "Marelli filed for Chapter 11 in the United States on 11 June 2025, and its restructuring provides for the DIP lenders to take ownership of the business upon emergence from chapter 11; the company names its principal lenders as Deutsche Bank, Strategic Value Partners, MBK Partners, Fortress Investment Group and Polus Capital Management.",
+    "short": "Marelli's principal lenders (Deutsche Bank, SVP, MBK, Fortress, Polus) are to own it on emergence from Chapter 11.",
+    "source": {
+      "name": "Marelli: Marelli Initiates Voluntary U.S. Chapter 11 Proceedings to Strengthen Financial Position and Facilitate a Value-Maximizing Restructuring",
+      "date": "2025-06-11",
+      "url": "https://marelli.com/en/news/marelli-voluntary-us-chapter-11.html",
+      "quote": "the DIP Lenders will take ownership of the business upon emergence from chapter 11, subject to a 45-day overbid process",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Marelli: Marelli Receives Court Approval of \"Second Day\" Motions to Support Business Operations",
+        "date": "2025-07-29",
+        "url": "https://www.marelli.com/en/news/marelli-receives-court-approval-of-second-day-motions-to-support-business-operations.html",
+        "note": "Same publisher (Marelli press releases); names the principal lenders and says the company expects to emerge from Chapter 11 in 2026 under their ownership.",
+        "quote": "The group of Marelli's principal lenders consists of Deutsche Bank, Strategic Value Partners, MBK Partners, Fortress Investment Group, and Polus Capital Management.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "marex-group-plc-record",
     "kind": "ownership",
     "ownerIds": [
@@ -18796,6 +19323,61 @@
     ]
   },
   {
+    "id": "media-capital-shareholders-2025",
+    "kind": "ownership",
+    "ownerIds": [
+      "media-capital"
+    ],
+    "text": "At 15 September 2025 Media Capital's holders of 5% or more of capital and voting rights were Pluris Investments, S.A. (37.11%), Triun, SGPS, S.A. (23%), BIZ Partners, SGPS, S.A. (11.9725%), CIN - Corporação Industrial do Norte, S.A. (11.20%) and Zenithodyssey, Lda (10%). Pluris Investments is businessman Mário Ferreira's investment group; Ferreira is chairman of Media Capital's board.",
+    "short": "Media Capital's large shareholders are private vehicles; the biggest is Mário Ferreira's Pluris (37.11%).",
+    "source": {
+      "name": "Media Capital: Ação Media Capital / Estrutura Acionista (shareholder disclosure)",
+      "date": "2025-09-15",
+      "url": "https://mediacapital.pt/investidores/acao-media-capital/",
+      "quote": "Pluris Investments, S.A. Triun, SGPS, S.A. BIZ Partners, SGPS, S.A. CIN – Corporação Industrial do Norte, S.A. Zenithodyssey – Lda. 37,11% 23% 11,9725% 11,20% 10%",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Current shareholding table, headed 'A 15 de setembro de 2025' ['at 15 September 2025']; listed in the same order as the name column, i.e. Pluris 37.11%, Triun 23%, BIZ Partners 11.9725%, CIN 11.20%, Zenithodyssey 10%."
+    },
+    "additionalSources": [
+      {
+        "name": "RTP Notícias (Lusa): Estrutura acionista da Media Capital fica 'definitivamente estabilizada', diz Mário Ferreira",
+        "date": "2021",
+        "url": "https://www.rtp.pt/noticias/economia/estrutura-acionista-da-media-capital-fica-definitivamente-estabilizada-diz-mario-ferreira_n1340466",
+        "quote": "A Pluris Investments, do empresário Mário Ferreira, adquiriu 5,16% da Media Capital",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        },
+        "note": "Page undated; Lusa report of the August 2021 overriding takeover offer. Translation: 'Pluris Investments, of businessman Mário Ferreira, acquired 5.16% of Media Capital'; the same report calls Media Capital 'dona da TVI' ['owner of TVI'] and notes Ferreira chairs its board."
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "media-capital-tvi-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "media-capital"
+    ],
+    "text": "TVI is the generalist television channel of Portuguese media group Grupo Media Capital, SGPS, S.A.: Media Capital's own website describes TVI on its 'Televisão' business page.",
+    "short": "TVI is part of the Media Capital group.",
+    "source": {
+      "name": "Media Capital: Televisão (group business page for TVI)",
+      "date": "2026",
+      "url": "https://mediacapital.pt/televisao/",
+      "quote": "A TVI é o canal generalista que revolucionou a televisão portuguesa no início do século XXI.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Page undated; the 'Televisão' business area of mediacapital.pt. Translation: 'TVI is the generalist channel that revolutionised Portuguese television in the early 21st century.'"
+    },
+    "reviewed": false
+  },
+  {
     "id": "media-com-gmbh-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -18910,6 +19492,17 @@
           "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
         },
         "note": "Translation: 'the shareholders of MegaFon PJSC were AF Telecom Holding LLC (50%) and USM Telecom LLC (50%), which together owned 100% of the company's charter capital.' Same page: 'Государство в уставном капитале Компании не участвует' (the state does not participate in the company's charter capital). MegaFon's 2025 IFRS financial statements (p. 9, https://corp.megafon.ru/download/~federal/corp/investoram/report/msfo/megafon_2025_ifrs_fs_rus.pdf) state that as of 31.12.2025 the shares are held 50/50 by 'Participant 1' and its 100% owner 'Participant 2', both ultimately controlled by 'Participant 3', itself owned by a group of participants no single one of which controls it; disclosure is limited under Government Decree No 1102 of 04.07.2023."
+      },
+      {
+        "name": "Kommersant: Акционеры «МегаФона» направили чистую прибыль за I квартал на выплату дивидендов",
+        "date": "2025-06-27",
+        "url": "https://www.kommersant.ru/doc/7850577",
+        "quote": "Компания принадлежит структурам USM Алишера Усманова. 50% акций находятся у ООО «АФ Телеком Холдинг», а остальные 50% — у ООО «ЮэСэМ Телеком».",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-scout review (OpenCode, model kimi-k3-abliterated)"
+        },
+        "note": "Translation: 'The company belongs to structures of USM, Alisher Usmanov's holding. 50% of shares are held by OOO AF Telekom Holding and the other 50% by OOO USM Telecom.' Confirms the same structure in June 2025."
       }
     ],
     "reviewed": false
@@ -21914,6 +22507,27 @@
     "reviewed": false
   },
   {
+    "id": "paysafe-cvc-blackstone-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "paysafe"
+    ],
+    "text": "Paysafe Limited (NYSE: PSFE) reports that its principal shareholders - parties to its shareholders agreement, led by funds of CVC (25.4%) and Blackstone (21.4%) - beneficially own approximately 54.4% of its common shares.",
+    "short": "CVC (25.4%) and Blackstone (21.4%) funds lead Paysafe's principal shareholders, about 54.4% together.",
+    "source": {
+      "name": "Paysafe Ltd, Form 20-F for fiscal year 2025 (SEC EDGAR, filed 3 March 2026)",
+      "date": "2026-03-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/1833835/000119312526088095/psfe-20251231.htm",
+      "quote": "Our Principal Shareholders beneficially own approximately 54.4% of our Company Common Shares.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The filing's Item 7.A table (beneficial ownership as of February 20, 2026) shows CVC 12,999,672 shares (25.4%) and Blackstone 10,914,696 (21.4%) - each based on the most recently available Schedule 13D, filed January 3, 2022, as of December 31, 2022; the filing defines 'Principal Shareholders' as 'collectively, the Founder, Cannae LLC, the CVC Investors and the Blackstone Investors'. Cannae sold its remaining shares in November 2025 (FNF Holdings 4.4%). No state or state fund appears among the holders. The filing also states Paysafe Limited was incorporated in Bermuda on November 23, 2020."
+    },
+    "reviewed": false
+  },
+  {
     "id": "payward-record",
     "kind": "ownership",
     "ownerIds": [
@@ -22180,6 +22794,28 @@
     "reviewed": false
   },
   {
+    "id": "petromin-adg-record",
+    "kind": "ownership",
+    "ownerIds": [
+      "petromin-corporation",
+      "al-dabbagh-group"
+    ],
+    "text": "Petromin is a Saudi-origin energy and mobility company under Al-Dabbagh Group.",
+    "short": "Petromin is under Al-Dabbagh Group.",
+    "source": {
+      "name": "Petromin: About Petromin (homepage)",
+      "date": "2026",
+      "url": "https://petromin.com/",
+      "note": "Page without a date; opened 2026-10-03.",
+      "quote": "Petromin is a Saudi-origin energy and mobility company under Al-Dabbagh Group, with operations across Saudi Arabia, the UAE, Egypt, India, Pakistan, Malaysia, and Morocco",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "petronas-state-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -22319,6 +22955,27 @@
       "checked": {
         "on": "2026-09-27",
         "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "piaggio-immsi-control",
+    "kind": "ownership",
+    "ownerIds": [
+      "piaggio-group"
+    ],
+    "text": "The Piaggio Group, listed on the Milan Stock Exchange since 2006, is controlled by Immsi S.p.A., an industrial holding listed on the Milan Stock Exchange.",
+    "short": "Piaggio is controlled by Immsi S.p.A., a listed industrial holding.",
+    "source": {
+      "name": "Piaggio Group: FAQ",
+      "date": "2026",
+      "url": "https://www.piaggiogroup.com/en/faq",
+      "quote": "The Piaggio Group is controlled by Immsi S.p.A., an industrial holding listed on the Milan Stock Exchange.",
+      "note": "The same page also states: 'Piaggio has been listed on the Milan Stock Exchange since 11 July 2006 (ISIN code: IT0003073266).'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -24710,6 +25367,26 @@
     "reviewed": false
   },
   {
+    "id": "rhone-freddys-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "rhone-group"
+    ],
+    "text": "In September 2025, investment funds affiliated with Rhône, a global private equity firm established in 1996, acquired Freddy's Frozen Custard & Steakburgers from Thompson Street Capital Partners.",
+    "short": "Freddy's is owned by investment funds affiliated with the private equity firm Rhône.",
+    "source": {
+      "name": "Greenberg Traurig: Greenberg Traurig Represents Rhône in Acquisition of Freddy’s Frozen Custard & Steakburgers",
+      "date": "2025-09-08",
+      "url": "https://www.gtlaw.com/en/news/2025/09/press-releases/greenberg-traurig-represents-rhone-in-acquisition-of-freddys-frozen-custard-steakburgers",
+      "quote": "represented investment funds affiliated with Rhône, a global private equity firm, in connection with its acquisition of Freddy's Frozen Custard & Steakburgers from Thompson Street Capital Partners",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "richard-mille-record",
     "kind": "ownership",
     "ownerIds": [
@@ -25578,6 +26255,27 @@
     "reviewed": false
   },
   {
+    "id": "sand-technologies-swaniker-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "sand-technologies"
+    ],
+    "text": "Sand Technologies is a global technology company founded and led by Fred Swaniker, its founder and CEO.",
+    "short": "Sand Technologies is founder-led; Fred Swaniker is founder and CEO.",
+    "source": {
+      "name": "Sand Technologies: Fred Swaniker (Founder and CEO) bio",
+      "date": "2026",
+      "url": "https://www.sandtech.com/author/fred-swaniker/",
+      "quote": "Fred Swaniker is the Founder and CEO of Sand Technologies, a global technology company that builds enterprise-grade artificial intelligence applications",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The page is undated. It returns HTTP 403 to plain scripted requests but loads in a normal browser; the quote was verified against the page text."
+    },
+    "reviewed": false
+  },
+  {
     "id": "sankyo-frontier-wako-kosan",
     "kind": "ownership",
     "ownerIds": [
@@ -26378,6 +27076,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "shahm-holding-alatawi-family",
+    "kind": "ownership",
+    "ownerIds": [
+      "alatawi-family"
+    ],
+    "text": "Shahm Holding is a family holding company founded by Muammar Al-Atawi (chairman) with his brothers Nayef Al-Atawi (vice chairman) and Ahmed Al-Atawi (CEO and managing director).",
+    "short": "Shahm Holding is the Al-Atawi brothers' family holding.",
+    "source": {
+      "name": "Shahm Holding: About",
+      "date": "2026",
+      "url": "https://shahmholding.sa/en/about",
+      "quote": "I had the honor of founding this family holding company alongside my brother, Nayef Alatawi, Vice Chairman of the Board, and my brother, Ahmed Alatawi, CEO and Managing Director.",
+      "note": "Page undated; opened 2026-10-03.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -27597,6 +28316,48 @@
     "reviewed": false
   },
   {
+    "id": "southwire-richards-family-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "southwire-richards-family"
+    ],
+    "text": "Southwire Company, LLC has been owned by the Richards family since its founding in 1950; the family's message on the company's site says 'As owners, we are proud of the company's legacy', and the company states it is currently owned by family members.",
+    "short": "Southwire is owned by the Richards family (family-owned since 1950).",
+    "source": {
+      "name": "Southwire: Family Owned (A Message from the Richards Family)",
+      "date": "2026",
+      "url": "https://www.southwire.com/family-owned",
+      "quote": "Southwire is a family-owned company operating in a globally competitive industry. As owners, we are proud of the company’s legacy and good standing in the community",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The same page also states: 'Currently, the company is owned by family members and governed by a ten member board of mostly independent directors.' Page undated."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "sovcombank-khotimsky-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "khotimsky-brothers"
+    ],
+    "text": "The founders and main shareholders of Sovcombank are the brothers Sergey and Dmitry Khotimsky.",
+    "short": "Sovcombank's main shareholders are the founding Khotimsky brothers.",
+    "source": {
+      "name": "The Moscow Times (Reuters): Братья Хотимские не будут участвовать в IPO Совкомбанка",
+      "date": "2023-12-13",
+      "url": "https://ru.themoscowtimes.com/2023/12/13/bratya-khotimskie-ne-budut-uchastvovat-v-ipo-sovkombanka-chtoby-vse-aktsii-ushli-v-rynok-a116085",
+      "quote": "Основатели и основные акционеры Совкомбанка братья Сергей и Дмитрий Хотимские решили не участвовать в IPO банка",
+      "note": "Reuters copy. Translation: 'The founders and main shareholders of Sovcombank, brothers Sergey and Dmitry Khotimsky, decided not to take part in the bank's IPO.'",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "sparda-bank-berlin-eg-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -28479,6 +29240,27 @@
     "reviewed": false
   },
   {
+    "id": "superfile-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "superfile-inc"
+    ],
+    "text": "SuperFile, the Chicago-based digital file-security company that became title partner of the Trackhouse MotoGP team in 2026, is led by its founder and CEO Shane Valdez.",
+    "short": "SuperFile is a Chicago file-security company led by founder and CEO Shane Valdez.",
+    "source": {
+      "name": "Trackhouse: SuperFile Trackhouse MotoGP Team (Wayback Machine copy)",
+      "date": "2026-06-05",
+      "url": "https://web.archive.org/web/20260922202534/https://www.trackhouse.com/news/2026/june/05/superfile-trackhouse-motogp-team",
+      "quote": "Shane Valdez, Founder & CEO - SuperFile",
+      "note": "The club press release describes SuperFile as a Chicago-based digital file-security company and attributes its quote to 'Shane Valdez, Founder & CEO - SuperFile'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "sutter-health-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -28582,6 +29364,27 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "swannies-founders-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "swannies-golf"
+    ],
+    "text": "Swannies (Swannies Golf Apparel) is a Twin Cities golf-apparel company founded in 2015 by Matt Stang and Adam Iversen; the co-founders still lead the business and are building a management layer to transition decision-making away from themselves.",
+    "short": "Swannies is a golf-apparel company founded and still led by co-founders Matt Stang and Adam Iversen.",
+    "source": {
+      "name": "gener8tor Founder Series: Matt Stang from Swannies",
+      "date": "2025-07-03",
+      "url": "https://www.gener8tor.com/news/gener8tor-founder-series-matt-stang-from-swannies",
+      "quote": "Founded in 2015 by Matt Stang and his co-founder Adam Iversen, Swannies began as a passion project for two friends who saw an opportunity to modernize golf apparel.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "The page displays only 'Jul 3'; the exact date 2025-07-03 is from the page's own datePublished metadata. Opened 2026-10-03. The article also describes transitioning decision-making authority away from the founders."
+    },
     "reviewed": false
   },
   {
@@ -28705,6 +29508,17 @@
     },
     "reviewed": false,
     "additionalSources": [
+      {
+        "name": "Rasan Information Technology Company Prospectus (CMA)",
+        "date": "2024-05",
+        "url": "https://cma.gov.sa/en/Market/Prospectuses/Documents/rasan_en.pdf",
+        "quote": "wholly owned by the Company (hereinafter referred to as",
+        "note": "Subsidiaries section of the prospectus: 'Tameeni Electronic Insurance Brokerage Limited ... wholly owned by the Company (hereinafter referred to as Tameeni Company)'. PDF opened and text extracted locally 2026-10-04.",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-scout reviewer (OpenCode, model kimi-k3-abliterated)"
+        }
+      },
       {
         "name": "Argaam – Rasan's subsidiary signs insurance brokerage agreement with SNB",
         "date": "2025-08-03",
@@ -29054,6 +29868,27 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "teijin-tse-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "teijin-ltd"
+    ],
+    "text": "Teijin Limited is listed on the Tokyo Stock Exchange Prime Market (stock code 3401); its major-shareholder table as of March 31, 2026 shows The Master Trust Bank of Japan, Ltd. (trust account) as the largest shareholder with 15.37%, and no other holder above 7%.",
+    "short": "Teijin is Tokyo-listed; largest holder is a trust account at 15.37%.",
+    "source": {
+      "name": "Teijin Limited: Stock Data (Stock Information)",
+      "date": "2026-03-31",
+      "url": "https://www.teijin.com/ir/stocks/data/",
+      "quote": "The Master Trust Bank of Japan, Ltd. (Trust account) 29,667,500 15.37",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The same page states 'Stock Exchange Listings | Tokyo Stock Exchange (Prime Market)' and 'Stock Code | 3401', with the table 'As of March 31, 2026'. The other holders in the top-10 table are each below 7% (custody and trust accounts, Goldman Sachs International 6.88%, Nippon Life Insurance 3.65%, the employee stock ownership association 3.19%)."
+    },
     "reviewed": false
   },
   {

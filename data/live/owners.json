@@ -46,6 +46,15 @@
     "country": "Spain"
   },
   {
+    "id": "abh-holdings",
+    "name": "ABH Holdings S.A.",
+    "type": "private-company",
+    "country": "Luxembourg",
+    "parentId": "andrey-kosogov",
+    "via": "ABH Financial Limited (Cyprus)",
+    "note": "Luxembourg holding of the Alfa-Group banking business; its Cypriot subsidiary ABH Financial Limited holds the ownership interest in Alfa-Bank Russia. Andrey Kosogov held 40.96% via ABH Holdings as of March 2022 and bought out Fridman's and Aven's stakes in 2024 (FT via Kommersant)."
+  },
+  {
     "id": "abt-sportsline-gmbh",
     "name": "ABT Sportsline GmbH",
     "type": "private-company",
@@ -247,6 +256,14 @@
     "note": "Norman agricultural cooperative (12,500 members in 2020, Le Journal des Entreprises); reported in November 2020 as the new owner of Brasserie Lancelot (Breizh Cola)."
   },
   {
+    "id": "agrokom-group",
+    "name": "Agrokom Group (Gruppa Agrokom)",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": "ivan-savvidi",
+    "note": "Rostov-on-Don holding with assets in food processing, agriculture, packaging and retail; managing company created in 2004 by Ivan Savvidi. Atlantis-Pak joined the group in 2011."
+  },
+  {
     "id": "agrovision-corp",
     "name": "Agrovision Corp. (renamed Fruitist in 2025)",
     "type": "private-company",
@@ -348,6 +365,14 @@
     "note": "AKTOR Anonymi Etaireia Symmetochon, Technikon kai Energeiakon Ergon (AKTOR Group), traded on Euronext Athens. Euronext Athens lists three holders of 5% or more of the voting rights: Winex Investments Limited, a legal entity related to chairman and CEO Alexandros Exarchou (33.41%), Castellano Properties Limited of the Gotsis family (20.31%) and Blue Silk (CY) Ltd of Konstantinos Angelou (11.33%), after the July 2026 capital increase."
   },
   {
+    "id": "al-dabbagh-group",
+    "name": "Al-Dabbagh Group",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "parentId": null,
+    "note": "Private, family-owned conglomerate founded in 1962 by Sheikh Abdullah Al-Dabbagh, former Agriculture Minister of Saudi Arabia; headquartered in Jeddah."
+  },
+  {
     "id": "al-salam-bank-bsc",
     "name": "Al Salam Bank B.S.C.",
     "type": "listed-company",
@@ -362,6 +387,14 @@
     "parentId": null,
     "country": "ES",
     "note": "Family car-parts retailer with origins and head office in Vitoria-Gasteiz; its website says it belongs to the DP distribution group and Dipart says it joined Dipart in 2013. No source states who owns the company."
+  },
+  {
+    "id": "alatawi-family",
+    "name": "Al-Atawi family (Muammar, Nayef and Ahmed Al-Atawi)",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "note": "The brothers behind Shahm Holding (Jeddah), per the chairman's own statement on shahmholding.sa.",
+    "parentId": null
   },
   {
     "id": "albaik-food-systems",
@@ -380,12 +413,20 @@
     "country": "US"
   },
   {
+    "id": "alexander-udodov",
+    "name": "Alexander Udodov",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Russian businessman; in April 2022 became sole owner of Pin-Up.ru, the company named as owner on fon.bet. Ex-husband of Prime Minister Mikhail Mishustin's sister (The Bell) - a personal connection, not a state stake."
+  },
+  {
     "id": "alfa-bank",
     "name": "Alfa-Bank (AO ALFA-BANK)",
     "type": "private-company",
     "country": "Russia",
-    "parentId": null,
-    "note": "Largest private Russian bank; title sponsor of the Russian Premier League."
+    "parentId": "abh-holdings",
+    "note": "Largest private Russian bank; title partner of the Russian Premier League. Ownership interest held via ABH Financial Limited (Cyprus) under Luxembourg's ABH Holdings S.A.; Andrey Kosogov became the largest shareholder after buying out Fridman, Aven, Khan and Kuzmichev in 2023-2024."
   },
   {
     "id": "all-in-won-owner",
@@ -555,6 +596,14 @@
     "parentId": null
   },
   {
+    "id": "andrey-kosogov",
+    "name": "Andrey Kosogov",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Co-founder of Alfa-Bank and its largest shareholder via ABH Holdings; bought out the stakes of Fridman, Aven, Khan and Kuzmichev in 2023-2024. Unlike his former partners, he is not under EU sanctions (Meduza, February 2025)."
+  },
+  {
     "id": "anheuser-busch-owner",
     "name": "Anheuser-Busch InBev SA/NV",
     "type": "listed-company",
@@ -685,6 +734,14 @@
     "country": "United States"
   },
   {
+    "id": "artur-movsesyan",
+    "name": "Artur Movsesyan",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Founder of the Jogel sportswear brand (2015); runs the family sports-goods business (Prime Sport) with his brother."
+  },
+  {
     "id": "asahi-group-holdings",
     "name": "Asahi Group Holdings, Ltd.",
     "type": "listed-company",
@@ -802,8 +859,8 @@
     "name": "Atlantis-Pak",
     "type": "private-company",
     "country": "Russia",
-    "parentId": null,
-    "note": "Rostov-based food-packaging producer, part of Agrokom holding; title sponsor of FC Rostov."
+    "parentId": "agrokom-group",
+    "note": "Rostov-based food-packaging producer (plastic casings, films and labels); part of the Agrokom holding since 2011; title sponsor of FC Rostov."
   },
   {
     "id": "atlas-air-worldwide",
@@ -1673,6 +1730,14 @@
     "via": "Wholly state-owned company established in the PRC, per the definitions section of Greentown China's 2026 interim report (HKEX filing)"
   },
   {
+    "id": "cdt-equipamentos",
+    "name": "CDT Equipamentos Desportivos, Lda",
+    "type": "private-company",
+    "country": "Portugal",
+    "parentId": null,
+    "note": "Portuguese sports-kit maker based in Oliveira S. Mateus, Vila Nova de Famalicão; created in 2012 by businessman Bruno Salgado, per a company profile published by the municipality of Vila Nova de Famalicão (famalicaomadein.pt). Kit supplier (technical sponsor) to Moreirense FC: the maker's own site lists Moreirense FC under 'Sponsor' (cdt-equipamentos.com)."
+  },
+  {
     "id": "ceconomy",
     "name": "Ceconomy AG",
     "type": "listed-company",
@@ -1694,6 +1759,14 @@
     "parentId": null,
     "country": "United States",
     "note": "US functional-energy-drink company (founded 2004, per celsiusholdingsinc.com); the AMF1 partner page states CELSIUS is its brand. No state or state-fund holder found in this run."
+  },
+  {
+    "id": "cenomi-centers",
+    "name": "Arabian Centres Co. (Cenomi Centers)",
+    "type": "listed-company",
+    "country": "Saudi Arabia",
+    "note": "Tadawul 4321. Its 2024 annual report names FAS Real Estate Co. (28.0%) and members of the Al Hokair family as its largest shareholders; Fawaz Al Hokair chairs the board.",
+    "parentId": null
   },
   {
     "id": "chanceplus",
@@ -2079,6 +2152,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "CW"
+  },
+  {
+    "id": "convoy-of-hope",
+    "name": "Convoy of Hope",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United States",
+    "note": "Faith-based humanitarian relief nonprofit (a 501(c)(3) tax-exempt organisation), founded in 1994 by Hal Donaldson, headquartered in Springfield, Missouri (convoyofhope.eu/about — the .org site blocks scripts). Impact partner of RangeGoats GC (livgolf.com)."
   },
   {
     "id": "coop-nordland",
@@ -2680,6 +2761,14 @@
     "note": "NYSE: DXC."
   },
   {
+    "id": "dynisma-owner",
+    "name": "Dynisma Ltd",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": null,
+    "note": "UK simulator manufacturer (Companies House 10923412, Bristol); official simulator partner of Nissan Formula E Team (Season 12). Registered PSCs: Hawthorn Holdco Limited (17313112) and founder Ashley Warne, each >25%≤50% of shares and voting rights; Hawthorn Holdco's own PSC is Highvern Trustees Limited (Jersey, 75%+), so beneficial ownership is not publicly resolved and parentId is null."
+  },
+  {
     "id": "e-leclerc-mouvement",
     "name": "Mouvement E.Leclerc",
     "type": "private-company",
@@ -2810,6 +2899,14 @@
     "note": "Swedish appliance maker whose brands include Electrolux, AEG and Frigidaire. Largest shareholder is Investor AB, which held 17.94 percent of the shares and 30.43 percent of the votes in May 2026 (Nasdaq exchange notice, 2026-05-21)."
   },
   {
+    "id": "electromin-owner",
+    "name": "Electromin",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "parentId": "petromin-corporation",
+    "note": "EV-solutions company launched by Petromin in 2020; global sponsor of Nissan Formula E Team under a four-year agreement that began in Season 11 (2024/25)."
+  },
+  {
     "id": "electronic-arts",
     "name": "Electronic Arts Inc.",
     "type": "listed-company",
@@ -2925,6 +3022,14 @@
     "type": "listed-company",
     "parentId": null,
     "country": "GB"
+  },
+  {
+    "id": "envision-group",
+    "name": "Envision Group",
+    "type": "private-company",
+    "parentId": null,
+    "country": "CN",
+    "note": "Shanghai-headquartered renewable energy and smart-energy management group. Became majority owner of the Formula E team then racing as Virgin Racing in April 2018; its founder and CEO is Lei Zhang (Zhang Lei). The group's own shareholders are not sourced in this data, so the chain stops here."
   },
   {
     "id": "eqt-ab",
@@ -3228,7 +3333,7 @@
     "type": "private-company",
     "country": "Russia",
     "parentId": null,
-    "note": "Russian bookmaker."
+    "note": "Russian bookmaker; licence held by OOO 'Fonkor', whose register founder is AO 'Klir Tsentr' (Stavka.TV, September 2026) - Klir Tsentr's owner is not identified. In April 2022 Fonbet's site named Pin-Up.ru (then newly bought by Alexander Udodov) as its owner (The Bell); whether that still holds is unconfirmed."
   },
   {
     "id": "ford-motor-company",
@@ -4526,6 +4631,14 @@
     "parentId": null
   },
   {
+    "id": "immsi",
+    "name": "Immsi S.p.A.",
+    "type": "listed-company",
+    "country": "Italy",
+    "parentId": null,
+    "note": "Industrial holding listed on the Milan Stock Exchange; controls the Piaggio Group (Piaggio Group FAQ, checked 2026-10-03). No state stake found."
+  },
+  {
     "id": "indeed-inc",
     "name": "Indeed, Inc.",
     "type": "private-company",
@@ -4654,6 +4767,14 @@
     "country": "Italy",
     "parentId": null,
     "note": "Largest shareholder of Enel S.p.A. with 23.6% of the share capital (Enel investor relations, data as of 31 December 2025)."
+  },
+  {
+    "id": "ivan-savvidi",
+    "name": "Ivan Savvidi",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Rostov-on-Don businessman; owner of Agrokom Group and president of FC Rostov in 2002-2005 (Donnews persona page). Ukraine's 2024 seizure of his packaging assets is a sanctions action, not a human-rights record under METHOD.md."
   },
   {
     "id": "iyi-finans",
@@ -4881,6 +5002,14 @@
     "country": "US"
   },
   {
+    "id": "karhu-holding",
+    "name": "Karhu Holding B.V.",
+    "type": "private-company",
+    "country": "Netherlands",
+    "parentId": null,
+    "note": "Dutch holding that bought the Karhu brand in 2008; majority owners Huub Valkenburg and Jay Duke (SGB Media, 25 June 2008). No later ownership change found (checked 2026-10-03)."
+  },
+  {
     "id": "karooooo-ltd",
     "name": "Karooooo Ltd",
     "type": "listed-company",
@@ -4961,6 +5090,14 @@
     "country": "Germany",
     "note": "German heating and ventilation systems manufacturer, headquartered in Plattling, Lower Bavaria (kermi.com Impressum). Part of MBT Climate, the European unit of Midea Group's Building Technologies business, per kermi.com/de/de/unternehmen/.",
     "parentId": "midea-group"
+  },
+  {
+    "id": "khotimsky-brothers",
+    "name": "Sergey and Dmitry Khotimsky",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Brothers, founders and main shareholders of Sovcombank (personal/family ownership, treated as a private owner, not a state). The bank has been listed on MOEX since December 2023."
   },
   {
     "id": "kia-america-owner",
@@ -5681,6 +5818,14 @@
     "parentId": null
   },
   {
+    "id": "marelli-holdings",
+    "name": "Marelli Holdings Co., Ltd.",
+    "type": "private-company",
+    "country": "Japan",
+    "parentId": null,
+    "note": "Global automotive supplier, formerly KKR-owned. Filed for Chapter 11 in the US on 11 June 2025; the company expects to emerge in 2026 under the ownership of its principal lenders, named in its 29 July 2025 release as Deutsche Bank, Strategic Value Partners, MBK Partners, Fortress Investment Group and Polus Capital Management. Fortress is 68% owned by a consortium led by Mubadala Capital (Abu Dhabi sovereign wealth fund). No emergence announcement on marelli.com or marelliforward.com as of 4 October 2026, so the ultimate owner is unresolved (parentId null)."
+  },
+  {
     "id": "marex-group-plc",
     "name": "Marex Group plc (Nasdaq-listed)",
     "type": "listed-company",
@@ -5792,6 +5937,14 @@
     "parentId": null
   },
   {
+    "id": "media-capital",
+    "name": "Grupo Media Capital, SGPS, S.A.",
+    "type": "listed-company",
+    "country": "Portugal",
+    "parentId": null,
+    "note": "Portuguese media group listed on Euronext Lisbon; its flagship generalist TV channel is TVI. Holders of 5% or more of capital and voting rights at 15 September 2025 (its own shareholder-disclosure page, https://mediacapital.pt/investidores/acao-media-capital/): Pluris Investments, S.A. 37.11% (the vehicle of businessman Mário Ferreira, chairman of the Media Capital board); Triun, SGPS, S.A. 23%; BIZ Partners, SGPS, S.A. 11.9725%; CIN - Corporação Industrial do Norte, S.A. 11.20%; Zenithodyssey, Lda 10%. Prisa (Spain) exited entirely in November 2020. No state in the chain. Replaces the stale 'medialuanda' record, which wrongly described Prisa as ultimate controller."
+  },
+  {
     "id": "media-com-gmbh",
     "name": "MEDIA.COM GmbH",
     "type": "private-company",
@@ -5805,14 +5958,6 @@
     "type": "private-company",
     "parentId": null,
     "country": "US"
-  },
-  {
-    "id": "medialuanda",
-    "name": "Grupo Media Capital",
-    "type": "private-company",
-    "country": "Portugal",
-    "note": "Portuguese media group (TVI free-to-air channel; TVI's controlling shareholder is Media Capital, ultimately controlled by Prisa, Spain). Recorded for the TVI front placement at Moreirense; ownership detail left in note only.",
-    "parentId": null
   },
   {
     "id": "meijer-owner",
@@ -6836,6 +6981,14 @@
     "country": "US"
   },
   {
+    "id": "paysafe",
+    "name": "Paysafe Limited",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "BM",
+    "note": "Payments platform listed on the NYSE (PSFE), incorporated in Bermuda, headquartered in London. Its 20-F for fiscal year 2025 calls it a 'Controlled Company' whose principal shareholders - funds advised by CVC and Blackstone and related parties - beneficially own about 54.4% of its common shares."
+  },
+  {
     "id": "payward",
     "name": "Payward, Inc. (d/b/a Kraken)",
     "type": "private-company",
@@ -6944,6 +7097,14 @@
     "country": "US"
   },
   {
+    "id": "petromin-corporation",
+    "name": "Petromin Corporation",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "parentId": "al-dabbagh-group",
+    "note": "Jeddah-based mobility company (CR 4030005930); authorized Nissan dealer in Saudi Arabia and parent of Electromin. Its site says it is a company under Al-Dabbagh Group."
+  },
+  {
     "id": "pgpic",
     "name": "Persian Gulf Petrochemical Industries Company (PGPIC)",
     "type": "listed-company",
@@ -6975,6 +7136,14 @@
     "parentId": null,
     "country": "United States",
     "note": "NYSE: PM. Owner of the ZYN nicotine-pouch brand."
+  },
+  {
+    "id": "piaggio-group",
+    "name": "Piaggio & C. S.p.A. (Piaggio Group)",
+    "type": "listed-company",
+    "country": "Italy",
+    "parentId": "immsi",
+    "note": "Owner of the Aprilia brand (Piaggio Group FAQ, checked 2026-10-03). Listed on the Milan Stock Exchange since 2006; controlled by Immsi S.p.A., an industrial holding also listed on the Milan Stock Exchange."
   },
   {
     "id": "picton-mahoney-owner",
@@ -7141,6 +7310,14 @@
     "country": "Italy",
     "parentId": null,
     "note": "Milan insurtech (an MGA, distributing policies of Great Lakes Insurance (Munich Re group) and others). Shareholding as reported by Milano Finanza, 17 February 2025: Teodoro D'Ambrosio 48%, Blackstone 27%, Goldman Sachs 15%, top management 8%, Carlyle 2%. A reshuffle of the capital or a stock-market listing has been discussed in the Italian press since 2023, so the stakes may since have changed."
+  },
+  {
+    "id": "prime-sport",
+    "name": "Prime Sport",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": "artur-movsesyan",
+    "note": "Russian sports-goods company with more than 150 staff and several brands in its portfolio; the Jogel brand operates inside it. Per founder Artur Movsesyan's Metaratings interview, the business goes back to the sports-goods trade of his father, which he runs with his brother."
   },
   {
     "id": "procter-and-gamble",
@@ -7486,7 +7663,7 @@
     "type": "listed-company",
     "country": "Saudi Arabia",
     "parentId": null,
-    "note": "Saudi joint-stock company listed on the Saudi Exchange (Tadawul: 8313; listed 13 June 2024, capital SAR 77.5m). Founded by Moayad, Suliman, Thamer and Ayman Alfallaj (Forbes Middle East, 2023-04-09); chairman Muaiyad Abdullah Alfallaj (Saudi Exchange company profile). Owns the Tameeni insurance platform. No state body or state fund found in the chain (searched 2026-10-03)."
+    "note": "Saudi joint-stock company listed on the Saudi Exchange (Tadawul: 8313; listed 13 June 2024, capital SAR 77.5m). Founded by Moayad, Suliman, Thamer and Ayman Alfallaj (Forbes Middle East, 2023-04-09); chairman Muaiyad Abdullah Alfallaj (Saudi Exchange company profile). Owns the Tameeni insurance platform (the IPO prospectus lists Tameeni Electronic Insurance Brokerage as wholly owned). IPO substantial shareholder Impact46, a private Saudi CMA-licensed fund manager, announced its full exit from Rasan through an accelerated bookbuild on 2025-03-13 (impact46.sa). No state body or state fund found in the chain (searched 2026-10-03)."
   },
   {
     "id": "rate-formerly-guaranteed-rate-owner",
@@ -7647,6 +7824,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "GB"
+  },
+  {
+    "id": "rhone-group",
+    "name": "Rhône Group L.L.C.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United States",
+    "note": "Global private equity firm established in 1996, headquartered in New York (Greenberg Traurig press release, 2025-09-08; rhonegroup.com). Owns Freddy's Frozen Custard & Steakburgers through affiliated investment funds (acquired September 2025)."
   },
   {
     "id": "ricardo-leitao-machado",
@@ -7977,6 +8162,13 @@
     "note": "Person (family) ownership, treated as a private owner, not a state. Companies House lists Mr Samuel Paul Robinson as the only active person with significant control of Paul Robinson Solicitors LLP (company OC300127): ownership of voting rights 75% or more and the right to appoint or remove members."
   },
   {
+    "id": "sand-technologies",
+    "name": "Sand Technologies",
+    "type": "private-company",
+    "parentId": null,
+    "note": "Private enterprise-AI company ('SAND', sandtech.com) with offices in Palo Alto, New York, London and Cape Town. Its own bio page identifies Fred Swaniker as founder and CEO but does not state who owns the company, so the chain stops here."
+  },
+  {
     "id": "sankyo-frontier-co",
     "name": "Sankyo Frontier Co., Ltd.",
     "type": "listed-company",
@@ -8194,6 +8386,14 @@
     "parentId": null
   },
   {
+    "id": "sergey-bobrikov",
+    "name": "Sergey Bobrikov",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Russian businessman; founder of the Komus office-supplies group, which he controls through a 96% stake in ООО «ТПГК» (per Forbes, reported by vc.ru in February 2020). Personal ownership, treated as a private owner, not a state."
+  },
+  {
     "id": "servicenow-inc",
     "name": "ServiceNow, Inc.",
     "type": "listed-company",
@@ -8230,6 +8430,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "IT"
+  },
+  {
+    "id": "shahm-holding",
+    "name": "Shahm Holding Company",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "note": "Jeddah-based group; chairman Muammar Al-Atawi says on its site that he founded this family holding with his brothers. Aldyar Alarabiya (Arabian Dyar) says it is part of Shahm Holding.",
+    "parentId": "alatawi-family"
   },
   {
     "id": "shaikh-nasser-bin-hamad-al-khalifa",
@@ -8628,6 +8836,14 @@
     "parentId": null
   },
   {
+    "id": "southwire-richards-family",
+    "name": "Richards family",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US",
+    "note": "The family of founder Roy Richards Sr. has owned Southwire Company, LLC (Carrollton, Georgia) since its founding in 1950; Southwire's own family-owned page says the company is owned by family members."
+  },
+  {
     "id": "sparda-bank-berlin-eg",
     "name": "Sparda-Bank Berlin eG",
     "type": "private-company",
@@ -8889,6 +9105,14 @@
     "note": "Gambling group founded in 2008 by Sacha Dragic, who returned as sole CEO in 2026 (iGaming Business, 31 October 2025). Funds managed or advised by Blackstone's Tactical Opportunities business made a strategic minority equity investment in May 2019, refinanced in February 2025 (Blackstone press release; Simpson Thacher)."
   },
   {
+    "id": "superfile-inc",
+    "name": "SuperFile Inc.",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": null,
+    "note": "Chicago-based digital file-security company behind the SuperFile platform; founded and led by Shane Valdez (Founder & CEO, per the Trackhouse press release of 2026-06-05 and SuperFile's own site). Shareholding is not public (checked 2026-10-03: no filings or investor list found)."
+  },
+  {
     "id": "surj-sports-investment",
     "name": "SURJ Sports Investment",
     "type": "state-fund",
@@ -8935,6 +9159,14 @@
     "parentId": "republic-of-tatarstan",
     "via": "The company states on its own website that its sole shareholder is the Republic of Tatarstan",
     "note": "Holding company for the Republic of Tatarstan's stakes in the republic's largest enterprises (company's own site, opened 2026-10-03)."
+  },
+  {
+    "id": "swannies-golf",
+    "name": "Swannies Golf Apparel",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United States",
+    "note": "Twin Cities (Minnesota) golf-apparel company founded in 2015 by Matt Stang and Adam Iversen, who still lead it (gener8tor founder series, opened 2026-10-03). PitchBook lists the company as private with one minority family-office investor (Sachse Family Fund), but that page blocks scripts, so it is not cited."
   },
   {
     "id": "swi-group",
@@ -9091,6 +9323,14 @@
     "country": "France",
     "via": "Philippe Bouloux (born 1956), listed as company leader in the French registry",
     "note": "French corporate registry entry for Teddy Smith SAS."
+  },
+  {
+    "id": "teijin-ltd",
+    "name": "Teijin Limited",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "JP",
+    "note": "Japanese technology-driven chemicals group, listed on the Tokyo Stock Exchange Prime Market (stock code 3401). Its own stock-data page (table as of March 31, 2026) lists The Master Trust Bank of Japan, Ltd. (trust account) as the largest holder at 15.37%, with no other holder above 7%."
   },
   {
     "id": "tek-fox-ltd",
@@ -9354,6 +9594,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "tpgk",
+    "name": "ООО «ТПГК» (Komus group holding)",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": "sergey-bobrikov",
+    "note": "Holding company through which Sergey Bobrikov owns the Komus group of companies: per Forbes (reported by vc.ru, 2020-02-10), Bobrikov holds 96% of ООО «ТПГК» and Komus CFO Gennady Lomasov 4%."
   },
   {
     "id": "trainline-plc",
@@ -9661,7 +9909,7 @@
     "type": "private-company",
     "country": "Russia",
     "parentId": null,
-    "note": "Alisher Usmanov's holding company. Consolidated 100% of MegaFon (RIA Novosti/Prime, 2020-03-26); MegaFon's 2022 annual report lists the USM-related LLCs OOO 'AF Telecom Holding' and OOO 'USM Telecom' as MegaFon's sole shareholders (50/50). USM's own shareholder composition is not documented in the sources opened."
+    "note": "Alisher Usmanov's holding company. Consolidated 100% of MegaFon (RIA Novosti/Prime, 2020-03-26); MegaFon's 2022 annual report lists the USM-related LLCs OOO 'AF Telecom Holding' and OOO 'USM Telecom' as MegaFon's sole shareholders (50/50), and Kommersant (June 2025) confirms the same structure. USM's own shareholder composition is not documented in the sources opened. Sanctions on Usmanov are a sanctions record, not a human-rights record under METHOD.md."
   },
   {
     "id": "ut-southwestern-medical-center",
