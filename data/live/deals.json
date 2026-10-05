@@ -3277,16 +3277,21 @@
     "orgName": "Basketball Africa League",
     "sponsorId": "puma",
     "placement": "league-partner",
-    "from": null,
+    "from": "2026",
     "to": null,
     "value": null,
     "source": {
-      "name": "The BAL - Partners (official site)",
-      "date": "2026-09-25",
-      "url": "https://bal.nba.com/partners"
+      "name": "The BAL (bal.nba.com): BAL names PUMA as league's official outfitter ahead of 2026 season",
+      "date": "2026-03-17",
+      "url": "https://bal.nba.com/news/bal-names-puma-as-leagues-official-outfitter-ahead-of-2026-season",
+      "quote": "a multiyear collaboration that makes PUMA the Official Outfitter of the BAL",
+      "note": "Multiyear deal beginning with the 2026 BAL season; no deal value reported. League-wide partner, attached to no single club.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-scout (review of PR #1203, run by @Schnitzel)"
+      }
     },
-    "leagueId": "basketball-africa-league",
-    "note": "League-wide partner, attached to no single club."
+    "leagueId": "basketball-africa-league"
   },
   {
     "id": "bal-qatar-foundation",
@@ -3294,16 +3299,21 @@
     "orgName": "Basketball Africa League",
     "sponsorId": "qatar-foundation",
     "placement": "league-partner",
-    "from": null,
+    "from": "2026",
     "to": null,
     "value": null,
     "source": {
-      "name": "The BAL - Partners (official site)",
-      "date": "2026-09-25",
-      "url": "https://bal.nba.com/partners"
+      "name": "BAL via APO Group: Basketball Africa League and Qatar Foundation Announce Multiyear Social Impact Collaboration",
+      "date": "2026-05-14",
+      "url": "https://bal.africa-newsroom.com/press/basketball-africa-league-and-qatar-foundation-announce-multiyear-social-impact-collaboration?lang=en",
+      "quote": "a multiyear collaboration that makes Qatar Foundation the BAL’s first Official Community Partner",
+      "note": "Multiyear collaboration facilitated by Qatar Sports Investments, beginning with the 2026 BAL season; QF is also the Presenting Partner of the BAL's Ubuntu Trophy. No deal value reported. League-wide partner, attached to no single club.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-scout (review of PR #1203, run by @Schnitzel)"
+      }
     },
-    "leagueId": "basketball-africa-league",
-    "note": "League-wide partner, attached to no single club."
+    "leagueId": "basketball-africa-league"
   },
   {
     "id": "bal-qavs",

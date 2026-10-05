@@ -20229,12 +20229,47 @@
           "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
           "date": "2023-06-19",
           "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
-          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+          "quote": "Through the agreement, Visit Rwanda will continue to be showcased on BAL team uniforms and at the BAL Combine.",
+          "note": "League-wide uniform branding from the RDB extension. The BAL's own 2026 team photo of the Flyers (https://cdn-bal.nba.com/manage/sites/3/2026/02/Flyers-scaled.jpg) shows 'VISIT RWANDA' on the front beneath the FLYERS wordmark. The BAL's PUMA release (bal.nba.com, 17 Mar 2026) lists the Rwanda Development Board as a Foundational Partner for the 2026 season.",
+          "checked": {
+            "on": "2026-10-04",
+            "by": "btj-scout (review of PR #1203, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "puma",
+        "placement": "partner",
+        "source": {
+          "name": "The BAL (bal.nba.com): BAL names PUMA as league's official outfitter ahead of 2026 season",
+          "date": "2026-03-17",
+          "url": "https://bal.nba.com/news/bal-names-puma-as-leagues-official-outfitter-ahead-of-2026-season",
+          "quote": "will see PUMA supply all official BAL team, fan and referee apparel, including game uniforms",
+          "note": "Kit maker, recorded as partner per existing convention: the collaboration begins with the 2026 BAL season. The PUMA logo sits on the right chest of the 2026 BAL game uniform in the BAL's own team photo of the Flyers (https://cdn-bal.nba.com/manage/sites/3/2026/02/Flyers-scaled.jpg).",
+          "checked": {
+            "on": "2026-10-04",
+            "by": "btj-scout (review of PR #1203, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "qatar-foundation",
+        "placement": "back",
+        "source": {
+          "name": "BAL via APO Group: Basketball Africa League and Qatar Foundation Announce Multiyear Social Impact Collaboration",
+          "date": "2026-05-14",
+          "url": "https://bal.africa-newsroom.com/press/basketball-africa-league-and-qatar-foundation-announce-multiyear-social-impact-collaboration?lang=en",
+          "quote": "Qatar Foundation’s logo is also displayed on the back of all BAL game uniforms.",
+          "note": "League-wide, on the back of all BAL game uniforms of the 2026 season per the BAL's own release. The upper-back position above the number is visible on a BAL Season 6 game jersey in the league's own Day 12 recap photo (https://cdn-bal.nba.com/manage/sites/3/2026/04/maxresdefault-73.jpg). Arab News (14 May 2026) likewise reports QF's Sidra tree logo featuring on all BAL team uniforms.",
+          "checked": {
+            "on": "2026-10-04",
+            "by": "btj-scout (review of PR #1203, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+    "summary": "2026 BAL uniform (Season 6), league-controlled: PUMA, the BAL's Official Outfitter from the 2026 season, supplies the game uniforms and its logo sits on the right chest, with 'VISIT RWANDA' on the front beneath the FLYERS wordmark (BAL's own team photo of the Flyers; pr.nba.com, 19 Jun 2023, on the RDB extension; bal.nba.com, 17 Mar 2026, on PUMA), and Qatar Foundation's logo on the back of all BAL game uniforms (BAL/QF release via APO, 14 May 2026; upper-back position visible on a Season 6 jersey in the league's Day 12 recap photo). No club-level shirt sponsor: the BAL supplies all team apparel, and the team photo shows no further commercial logos on the front or the shorts. sponsorsComplete false because no cited text source lists the complete uniform branding: the three placements each have a cited source, but the absence of any further placement rests on the league's photos (front/shorts in the team photo, back in the Day 12 recap photo), which cannot carry quotes.",
     "change": null
   },
   {
