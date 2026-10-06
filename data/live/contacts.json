@@ -869,6 +869,21 @@
     "clubId": "audi",
     "channels": [
       {
+        "type": "email",
+        "value": "contact@audif1team.com",
+        "label": "Imprint contact",
+        "source": {
+          "name": "Audi Revolut F1 Team – Imprint",
+          "url": "https://www.audif1.com/en/imprint",
+          "date": "2026-10-01",
+          "quote": "Email address: contact@audif1team.com",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
         "type": "x",
         "value": "@audif1_",
         "source": {
@@ -887,7 +902,7 @@
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "austin-fc",

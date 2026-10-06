@@ -2908,6 +2908,48 @@
     "note": "Audi Revolut F1 Team other partner on the 2026 car."
   },
   {
+    "id": "audi-aleph",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "aleph",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "Aleph is the official partner of the Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "audi-bell-helmets",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "bell-helmets",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "Bell Helmets is the official supplier to Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
     "id": "audi-bp",
     "clubId": "audi",
     "orgName": null,
@@ -2922,6 +2964,27 @@
       "url": "https://www.audif1.com/en/partners"
     },
     "note": "Audi Revolut F1 Team front partner on the 2026 car."
+  },
+  {
+    "id": "audi-camozzi",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "camozzi",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "Camozzi is the official partner of Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
   },
   {
     "id": "audi-castrol",
@@ -2940,6 +3003,27 @@
     "note": "Audi Revolut F1 Team sleeve partner on the 2026 car."
   },
   {
+    "id": "audi-elevenlabs",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "elevenlabs",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "ElevenLabs is the official partner of Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
     "id": "audi-extreme-networks",
     "clubId": "audi",
     "orgName": null,
@@ -2954,6 +3038,111 @@
       "url": "https://www.audif1.com/en/partners"
     },
     "note": "Audi Revolut F1 Team other partner on the 2026 car."
+  },
+  {
+    "id": "audi-gillette",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "gillette",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "Procter & Gamble joins Formula 1, partnering with Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "audi-glasurit",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "glasurit",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Glasurit becomes exclusive paint supplier of Audi Revolut F1 Team for 2026 debut",
+      "date": "2026-03-05",
+      "url": "https://contenthub.audif1.com/en/releases/glasurit-becomes-exclusive-paint-supplier-of-audi-revolut-f1-team-for-2026-debut-151",
+      "quote": "Audi Revolut F1 Team today confirms Glasurit, the premium refinish paint brand of BASF Coatings, as its exclusive and official paint supplier",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "audi-hyatt",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "hyatt",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "Hyatt is the official partner of Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "audi-ic-berlin",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "ic-berlin",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "ic! berlin is the official eyewear partner of Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "audi-jigspace",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "jigspace",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "JigSpace is the official supplier to Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
   },
   {
     "id": "audi-liberty-broker",
@@ -2972,6 +3161,153 @@
     "note": "Audi Revolut F1 Team other partner on the 2026 car."
   },
   {
+    "id": "audi-mammoet",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "mammoet",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "Mammoet is the official supplier to Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "audi-nexo",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "nexo",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "Nexo is the official partner of Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "audi-ninjaone",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "ninjaone",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "NinjaOne is the official partner of Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "audi-paulaner",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "paulaner",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "Paulaner is the official supplier to Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "audi-perk",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "perk",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "Perk is the official partner of Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "audi-piquadro",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "piquadro",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "Piquadro is the official partner of Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "audi-pirelli",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "pirelli",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "Pirelli is the official supplier to Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
     "id": "audi-revolut",
     "clubId": "audi",
     "orgName": null,
@@ -2986,6 +3322,48 @@
       "url": "https://www.revolut.com/en-US/news/revolut_becomes_title_partner_of_the_future_audi_f1_team/"
     },
     "note": "Audi Revolut F1 Team title partner on the 2026 car."
+  },
+  {
+    "id": "audi-sabelt",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "sabelt",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Sabelt (LinkedIn) – stand alongside Audi Revolut F1 Team as technical partner",
+      "date": "2026-01-27",
+      "url": "https://www.linkedin.com/posts/sabelt_activity-7421904245181939712-zmbZ",
+      "quote": "We are proud to stand alongside Audi Revolut F1 Team as technical partner",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
+  },
+  {
+    "id": "audi-specialized",
+    "clubId": "audi",
+    "orgName": null,
+    "sponsorId": "specialized",
+    "placement": "partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "Specialized is the official supplier to Audi Revolut F1® Team",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Audi Revolut F1 Team partner on the 2026 car."
   },
   {
     "id": "audi-visit-qatar",
@@ -4461,6 +4839,27 @@
       "note": "RSK became the club's sole front-of-shirt sponsor for men's and women's first teams from 2025/26."
     },
     "note": "RSK Group extended from sustainability partner to sole front-of-shirt sponsor."
+  },
+  {
+    "id": "cafc-w-sofnfree",
+    "clubId": "charlton-athletic-w",
+    "orgName": null,
+    "sponsorId": "sofnfree",
+    "placement": "sleeve",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "The Guardian: 'Women's Super League 2026-27 preview No 5: Charlton Athletic'",
+      "date": "2026-08-26",
+      "url": "https://www.theguardian.com/football/2026/aug/26/womens-super-league-2026-27-preview-no-5-charlton-athletic",
+      "quote": "A record-breaking partnership has seen haircare brand Sofnfree become the women’s team’s official sleeve partner. The branding will feature on all playing and replica shirts",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "note": "Sofnfree is the women's first team's Official Sleeve and Haircare Partner; described by the club as record-breaking for the women's team; value not disclosed."
   },
   {
     "id": "cafc-w-todaytix",
@@ -17805,6 +18204,69 @@
     "note": "Oracle Park naming rights. Announced 2019-01-10; the announcement says the rights run through 2038. The live Oracle blog page returns 403 to scripts, so the archived copy is cited."
   },
   {
+    "id": "san-jose-earthquakes-apollo",
+    "clubId": "san-jose-earthquakes",
+    "orgName": null,
+    "sponsorId": "apollo",
+    "placement": "sleeve",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "San Jose Earthquakes – 'San Jose Earthquakes and Apollo Announce Official Sleeve and Go-to-Market Partnership, Bringing the AI GTM System to Major League Soccer'",
+      "date": "2026-07-23",
+      "url": "https://www.sjearthquakes.com/news/san-jose-earthquakes-and-apollo-announce-official-sleeve-and-go-to-market-partnership-bringing-the-ai-gtm-system-to-major-league-soccer",
+      "quote": "announced today a multiyear Official Sleeve Partnership with Major League Soccer’s San Jose Earthquakes",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "note": "Multiyear right-sleeve deal; logo debuted at the California Clásico on 25 July 2026. End date and value not disclosed."
+  },
+  {
+    "id": "san-jose-earthquakes-dude-wipes",
+    "clubId": "san-jose-earthquakes",
+    "orgName": null,
+    "sponsorId": "dude-wipes",
+    "placement": "back",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "San Jose Earthquakes – 'San Jose Earthquakes and DUDE Wipes Announce Official Back-of-Jersey Partnership'",
+      "date": "2026-07-31",
+      "url": "https://www.sjearthquakes.com/news/san-jose-earthquakes-and-dude-wipes-announce-official-back-of-jersey-partnership",
+      "quote": "The San Jose Earthquakes announced today a new multiyear back-of-jersey partnership with DUDE Wipes, the fast-growing personal care brand.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "note": "Back-of-jersey logo from the 1 August 2026 match (a new league-wide asset allowed after the 2026 All-Star break). End date and value not disclosed; Inside World Football (2026-08-03) notes 'No value was given for the sponsorship.'"
+  },
+  {
+    "id": "san-jose-earthquakes-el-camino-health",
+    "clubId": "san-jose-earthquakes",
+    "orgName": null,
+    "sponsorId": "el-camino-health",
+    "placement": "front",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "San Jose Earthquakes – 'NEWS: San Jose Earthquakes and El Camino Health Announce Landmark Community-Focused Partnership'",
+      "date": "2025-01-29",
+      "url": "https://www.sjearthquakes.com/news/news-san-jose-earthquakes-and-el-camino-health-announce-landmark-community-focused-partnership",
+      "quote": "announced today a multi-year partnership that brings together two South Bay organizations with a shared goal of making meaningful impact on community health",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "note": "Multi-year front-of-jersey deal from the 2025 MLS season. End date and value not disclosed; SportsBusiness Journal (2025-01-29) reports the signing but its article is paywalled."
+  },
+  {
     "id": "sassuolo-mapei-front",
     "clubId": "sassuolo",
     "orgName": null,
@@ -18450,6 +18912,50 @@
       "url": "https://kaizengaming.com/news/betano-and-sporting-cp-renew-partnership-until-2029/"
     },
     "note": "Betano has sponsored Sporting since 2021."
+  },
+  {
+    "id": "sporting-kansas-city-compass-minerals-front",
+    "clubId": "sporting-kansas-city",
+    "orgName": "Compass Minerals",
+    "sponsorId": "compass-minerals",
+    "placement": "front",
+    "from": "2022",
+    "to": "2028",
+    "value": null,
+    "source": {
+      "name": "SportingKC.com: 'Sporting KC announces Compass Minerals as new jersey front partner'",
+      "date": "2022-02",
+      "url": "https://www.sportingkc.com/news/sporting-kc-announces-compass-minerals-as-new-jersey-front-partner",
+      "quote": "Compass Minerals’ logo will now be prominently displayed on the front of all Sporting Kansas City jerseys from the start of the 2022 Major League Soccer season",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Same sentence continues 'until the end of 2028' (Jake Reid: 'for the next seven seasons'). No value reported anywhere."
+    },
+    "note": "Seven-season front-of-shirt deal (2022–2028); value not disclosed."
+  },
+  {
+    "id": "sporting-kansas-city-saint-lukes-sleeve",
+    "clubId": "sporting-kansas-city",
+    "orgName": "Saint Luke's Health System",
+    "sponsorId": "saint-lukes-health-system",
+    "placement": "sleeve",
+    "from": "2026",
+    "to": "2031",
+    "value": null,
+    "source": {
+      "name": "SportingKC.com: 'Sporting Kansas City and Saint Luke’s team up for new community-affiliated partnership'",
+      "date": "2025-12",
+      "url": "https://www.sportingkc.com/skcii/news/sporting-kansas-city-and-saint-luke-s-team-up-for-new-community-affiliated-partnership",
+      "quote": "The historic Saint Luke’s logo will be proudly worn as a patch on the right sleeve of Sporting KC’s primary and secondary jerseys on gamedays",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Multi-year partnership announced 12 December 2025 (the club page renders no date; the Kansas City Star dated the announcement Friday, December 12, 2025), effective from the 2026 MLS season. The Kansas City Star reports the arrangement 'runs through 2031, according to the Kansas City Business Journal' (https://www.kansascity.com/sports/soccer/sporting-kc/article313663940.html, opened via the Wayback Machine capture of 13 Dec 2025), so 'to' is 2031."
+    },
+    "note": "Right-sleeve patch plus training-gear fronts; official health care provider. Value not disclosed."
   },
   {
     "id": "spurs-w-kraken",
@@ -20267,6 +20773,69 @@
       }
     },
     "note": "Jersey patch."
+  },
+  {
+    "id": "valencia-basket-panrico",
+    "clubId": "valencia-basket",
+    "orgName": null,
+    "sponsorId": "panrico",
+    "placement": "back",
+    "from": "2026-27",
+    "to": "2028-29",
+    "value": null,
+    "source": {
+      "name": "2Playbook: 'El Valencia Basket firma a Vicky Foods hasta 2029 y Panrico estará en la trasera de la camiseta'",
+      "date": "2026-07-24",
+      "url": "https://www.2playbook.com/patrocinio/valencia-basket-firma-vicky-foods-hasta-2029-panrico-tendra-presencia-en-equipacion_23078_102.html",
+      "quote": "ha sellado un acuerdo con Vicky Foods para que se convierta en nuevo patrocinador hasta la temporada 2028-2029",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Three-season deal; value not disclosed."
+  },
+  {
+    "id": "valencia-basket-puleva",
+    "clubId": "valencia-basket",
+    "orgName": null,
+    "sponsorId": "puleva",
+    "placement": "shorts",
+    "from": "2026-27",
+    "to": "2027-28",
+    "value": null,
+    "source": {
+      "name": "2Playbook: 'El Valencia Basket renueva su patrocinio con Puleva para las dos próximas temporadas'",
+      "date": "2026-07-17",
+      "url": "https://www.2playbook.com/patrocinio/valencia-basket-renueva-su-patrocinio-con-puleva-dos-proximas-temporadas_23019_102.html",
+      "quote": "ha renovado el acuerdo de patrocinio con la empresa de lácteos para dos temporadas más, hasta la 2027-2028",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "valencia-basket-vitaldin",
+    "clubId": "valencia-basket",
+    "orgName": null,
+    "sponsorId": "vitaldin",
+    "placement": "front",
+    "from": "2026-27",
+    "to": "2028-29",
+    "value": null,
+    "source": {
+      "name": "2Playbook: 'Valencia Basket renueva a Vitaldin hasta 2029 y lo eleva al frontal de la camiseta'",
+      "date": "2026-08-18",
+      "url": "https://www.2playbook.com/patrocinio/valencia-basket-renueva-vitaldin-hasta-2029-situa-en-frontal-camiseta_23328_102.html",
+      "quote": "ha renovado su acuerdo de patrocinio con Vitaldin hasta la temporada 2028-2029",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "note": "Value not disclosed."
   },
   {
     "id": "valencia-divina-seguros",

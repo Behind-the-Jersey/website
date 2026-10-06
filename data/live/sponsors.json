@@ -1181,6 +1181,18 @@
     "note": "Italian cycling-apparel maker (alecycling.com); Jersey Partner of the UAE Tour and Official partner of the AlUla Tour. Ownership not traced."
   },
   {
+    "id": "aleph",
+    "name": "Aleph",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Audi Revolut F1 Team official partner on the 2026 car (a global network of digital experts at the intersection of media and payments); listed on the team's partners page."
+  },
+  {
     "id": "alfa-bank",
     "name": "Alfa-Bank",
     "ownerId": "abh-holdings",
@@ -1319,6 +1331,22 @@
     ],
     "aliases": [],
     "note": "Rating note: Historic US Treasury stake (2009-2014) noted but fully exited, so not scored as state."
+  },
+  {
+    "id": "alma-ceramica",
+    "name": "ALMA ceramica",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ALMA Ceramica",
+      "АО ЗКИ",
+      "Завод керамических изделий"
+    ],
+    "note": "Ceramic-tile brand of AO 'Zavod keramicheskikh izdeliy' (ZKI, Yekaterinburg), listed as a sponsor of HC Avtomobilist on the club's sponsors page (archived 8 July 2025). Joint-stock company; its shareholder list is not public and no citable owner was found."
   },
   {
     "id": "almana-hospital",
@@ -1767,6 +1795,22 @@
     "note": "Rating note: the founding family's remaining stake isn't stated in the sources. The 2019 buyers of 30% were TPG, China Synergy (set up by TPG and CICC Capital) and Trail; their split isn't disclosed, so CICC's indirect share can't be computed. Nothing sourced passes the test."
   },
   {
+    "id": "apollo",
+    "name": "Apollo",
+    "ownerId": "apollo-io",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "apollo-io-ownership"
+    ],
+    "aliases": [
+      "Apollo.io"
+    ],
+    "note": "San Jose Earthquakes right-sleeve partner from July 2026 (multiyear). Brand of Apollo.io, a San Francisco go-to-market software company; its announced Series D (August 2023) was led by Bain Capital Ventures with Sequoia Capital, Tribe Capital and Nexus Venture Partners participating. Habbas Law held the right sleeve earlier in 2025 (club release); SBJ reported a deal through 2025 with a 2026 option (paywalled, not cited here)."
+  },
+  {
     "id": "apple-music",
     "name": "Apple Music",
     "ownerId": null,
@@ -2007,6 +2051,23 @@
       "Arrow"
     ],
     "note": "Official Technology Partner; branding on cars and race suits per SportsPro 2021-09-20."
+  },
+  {
+    "id": "artemis-technologies",
+    "name": "Artemis Technologies",
+    "ownerId": "iain-percy",
+    "ownership": "part-owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Maritime technology company whose persons with significant control are Iain Percy (more than 25% and up to 50% of shares and voting rights) and Torbjörn Törnqvist (significant influence or control). Nothing found.",
+    "claimIds": [
+      "artemis-technologies-percy-ownership",
+      "artemis-technologies-tornqvist-ownership"
+    ],
+    "aliases": [
+      "Artemis Technologies Ltd"
+    ],
+    "note": "Official Partner of Artemis SailGP (sailgp.com team page, 2026). Companies House lists Iain Percy (>25-50% of shares) and Torbjörn Törnqvist (significant influence or control) as persons with significant control. No state or fund anywhere in the chain, so neither owner passes the record test; nothing found."
   },
   {
     "id": "aruba",
@@ -3299,6 +3360,18 @@
     "note": "Partner of HC Dinamo Minsk; Belarusian state airline (ownership not traced)."
   },
   {
+    "id": "bell-helmets",
+    "name": "Bell Helmets",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Audi Revolut F1 Team official partner on the 2026 car (advanced head protection solutions); listed on the team's partners page."
+  },
+  {
     "id": "benecar",
     "name": "Benecar",
     "ownerId": "benecar",
@@ -4556,6 +4629,22 @@
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
   },
   {
+    "id": "caixa-popular",
+    "name": "Caixa Popular",
+    "ownerId": "caixa-popular",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by its own employees (Valencian cooperative). Nothing found.",
+    "claimIds": [
+      "caixa-popular-ownership"
+    ],
+    "aliases": [
+      "Caixa Popular-Caixa Rural"
+    ],
+    "note": "Rating note: Valencian credit cooperative owned by its own employees. On the Valencia Basket warm-up shirt in 2026-27. No state link and no company human-rights finding found."
+  },
+  {
     "id": "callaway",
     "name": "Callaway",
     "ownerId": null,
@@ -4586,6 +4675,18 @@
     "note": "Proposed none 2026-10-03 (issue #394): the club's partners page lists Barcelos as an OFFICIAL SPONSOR linking to cm-barcelos.pt, and the council's own news (9 Jan 2023) records a sports-sponsorship contract with Gil Vicente FC (250,000 euros) whose funds are for the Município's institutional advertising on the club's shirts (also covered by E24, 9 Mar 2024). State ownership alone is not a tier; no UN, Amnesty, HRW, court or regulator human-rights finding against the Município de Barcelos was found, so nothing found."
   },
   {
+    "id": "camozzi",
+    "name": "Camozzi",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Audi Revolut F1 Team official partner on the 2026 car (high-tech industrial automation, advanced machine tools and materials processing); listed on the team's partners page."
+  },
+  {
     "id": "candy",
     "name": "Candy",
     "ownerId": null,
@@ -4595,6 +4696,23 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "canterbury",
+    "name": "Canterbury",
+    "ownerId": "pentland-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "canterbury-pentland-ownership"
+    ],
+    "aliases": [
+      "CCC",
+      "Canterbury of New Zealand"
+    ],
+    "note": "Kit maker of the Ireland 2026/27 home shirt, listed as partner per the convention for kit suppliers. Owned by Pentland Brands, part of Pentland Group, per pentlandgroup.com/about-us; Pentland Group is owned by the Rubin family (Bailiwick Express, Feb 2023, reporting The Sunday Times)."
   },
   {
     "id": "cantina-fantini",
@@ -5767,14 +5885,14 @@
     "name": "Compass Minerals",
     "ownerId": "compass-minerals",
     "ownership": "owned",
-    "tier": "none",
-    "status": "rated",
-    "verdict": "Owned by Compass Minerals International, Inc.. Nothing found.",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "Owned by Compass Minerals International, Inc. (NYSE: CMP).",
     "claimIds": [
       "compass-minerals-record"
     ],
     "aliases": [],
-    "note": "Rating note: Koch's 16.81% is the notable structural fact; it is private capital, so no tier change. Koch does, however, have its own well-documented political and environmental record that may matter downstream in this dataset."
+    "note": "Rating note: Koch Industries' 16.81% (DEF 14A 5% stockholders table) is private capital, so no state link. Held unrated for a maintainer because METHOD's company test plausibly passes: MSHA's final report finds contract electrician Shawn Clements died on 15 Aug 2019 after contacting an energized circuit at Compass Minerals Louisiana's Cote Blanche salt mine because 'mine management did not ensure the victim de-energized and locked out the electrical circuit', and a 104(a) Citation (No. 8966039) was issued to Compass Minerals Louisiana Inc. (https://www.msha.gov/data-reports/fatality-reports/2019/august-15-2019-fatality/final-report); and an Ontario court fined Compass Minerals Canada Corp. $75,000 on 14 Jan 2025 after a guilty plea over a worker critically injured at its Goderich salt mine on 19 Dec 2022 (https://news.ontario.ca/en/court/1005779/workplace-injury-results-in-75000-fine-for-goderich-salt-mining-company). Whether these regulator/court findings on a death and injuries pass the company test is a maintainer call. Koch does, however, have its own well-documented political and environmental record that may matter downstream in this dataset."
   },
   {
     "id": "compressport",
@@ -7017,6 +7135,21 @@
     "note": "Rating note: on hold for a maintainer. Same owner as Emirates, which is rated on main: the Investment Corporation of Dubai controls dnata (claim dnata-icd-ownership, two sources). The UAE's record is on main (uae-mass-trial-2024)."
   },
   {
+    "id": "domina",
+    "name": "Domina (Domina Pulkovo)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Domina Pulkovo",
+      "Domina Hotels"
+    ],
+    "note": "Hotel (Domina Pulkovo, St Petersburg; spb.dominarussia.com); official partner of HC Shanghai Dragons per the club's 2026-27 partner page. Ownership of the Domina business in Russia and of the chain not traced from open sources."
+  },
+  {
     "id": "domino-group",
     "name": "Domino",
     "ownerId": null,
@@ -7218,6 +7351,23 @@
     "claimIds": [],
     "aliases": [],
     "note": "Platinum Partner of the Emirates Dubai 7s (emiratesdubai7s.com); dubalholding.com footer: 'DUBAL Holding L.L.C - A subsidiary of Investment Corporation of Dubai'."
+  },
+  {
+    "id": "dude-wipes",
+    "name": "DUDE Wipes",
+    "ownerId": "dude-products-inc",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "dude-products-founders-control",
+      "dude-products-mark-cuban-stake"
+    ],
+    "aliases": [
+      "Dude Products"
+    ],
+    "note": "San Jose Earthquakes back-of-jersey partner from 1 August 2026 (multiyear). Chicago company; founders retain significant ownership stakes and continue to lead it after TSG Consumer Partners' June 2025 growth investment; Mark Cuban is also an investor."
   },
   {
     "id": "dulsco",
@@ -7679,6 +7829,18 @@
     "claimIds": [],
     "aliases": [],
     "note": "Rating note for maintainer: skincare brand, B Corp certified 2023 (team partner page: 'Official Skincare Partner'); ownership not stated on the partner page and not traced this run."
+  },
+  {
+    "id": "elevenlabs",
+    "name": "ElevenLabs",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Audi Revolut F1 Team official partner on the 2026 car (its industry-leading AI audio technology); listed on the team's partners page."
   },
   {
     "id": "elf-cosmetics",
@@ -9235,6 +9397,21 @@
     "note": "Rating note: Group 1001 is a privately held insurance holding company controlled by Mark Walter (via TWG Global); no state ownership. No documented human-rights concerns in ownership chain identified."
   },
   {
+    "id": "galeria",
+    "name": "Galeria (shopping centre, St Petersburg)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ТРК «Галерея»",
+      "Галерея"
+    ],
+    "note": "Shopping centre on Ligovsky Prospekt 30A, St Petersburg (galeria.spb.ru); official partner of HC Shanghai Dragons per the club's 2026-27 partner page. The partner's logo on the club page reads «ГАЛЕРЕЯ САНКТ-ПЕТЕРБУРГ» (the logo file is named 'logotip_gorizont'). Ownership of the mall not traced from open sources."
+  },
+  {
     "id": "gallagher-insurance",
     "name": "Gallagher Insurance",
     "ownerId": null,
@@ -9615,6 +9792,20 @@
     "note": "Official Partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to givimoto.com, stands under 'Official Partners' with the line 'Motorbike accessories' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
   },
   {
+    "id": "glasurit",
+    "name": "Glasurit",
+    "ownerId": "basf-se",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "glasurit-basf-ownership"
+    ],
+    "aliases": [],
+    "note": "Audi Revolut F1 Team official partner on the 2026 car (the team's exclusive and official paint supplier); its logo tile is on the team's partners page. Owner traced to `basf-se` with a sourced ownership claim."
+  },
+  {
     "id": "glenfiddich",
     "name": "Glenfiddich",
     "ownerId": "william-grant-and-sons",
@@ -9857,16 +10048,17 @@
     "name": "Google Cloud",
     "ownerId": "alphabet-inc",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Alphabet Inc.. Nothing found.",
     "claimIds": [
-      "alphabet-inc-record"
+      "alphabet-inc-record",
+      "alphabet-inc-shareholders"
     ],
     "aliases": [
       "Google Cloud Platform"
     ],
-    "note": "Official Cloud and Preferred Technology Partner of the McLaren F1 team; also Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25)."
+    "note": "Official Cloud and Preferred Technology Partner of the McLaren F1 team; also Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25). Rating note: Alphabet's 2026 proxy lists BlackRock (6.1% of Class A) as the only 'Other > 5% Security Holder'; co-founders Page and Brin hold the controlling Class B votes; no state or sovereign-fund holder identified."
   },
   {
     "id": "google-pixel",
@@ -11239,12 +11431,14 @@
     "name": "HSBC",
     "ownerId": "hsbc-holdings",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Brand of HSBC Holdings plc, a listed UK company. Nothing found.",
+    "claimIds": [
+      "hsbc-holdings-ownership"
+    ],
     "aliases": [],
-    "note": "LIV Golf 'Global Pillar Partner' (livgolf.com/partners); also a partner of Crushers GC and Majesticks GC."
+    "note": "LIV Golf 'Global Pillar Partner' (livgolf.com/partners); also a partner of Crushers GC and Majesticks GC. Rating note: HSBC Holdings plc is incorporated in England and listed on the London, Hong Kong, New York and Bermuda stock exchanges (hsbc.com group-structure page); no controlling shareholder identified. Its money-laundering and sanctions fines are financial records, which the method does not count."
   },
   {
     "id": "htwo",
@@ -11415,6 +11609,18 @@
     "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026) and title sponsor of the Husqvarna British Masters (event name). Husqvarna Group is a Stockholm-listed manufacturer; ownership not traced here."
   },
   {
+    "id": "hyatt",
+    "name": "Hyatt",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Audi Revolut F1 Team official partner on the 2026 car (its portfolio of hotel brands through the sport's global reach); listed on the team's partners page."
+  },
+  {
     "id": "hylo",
     "name": "HYLO",
     "ownerId": "ursapharm-arzneimittel-gmbh",
@@ -11519,6 +11725,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Ibotta, Inc., a Denver-based performance-marketing platform; its IR FAQ says its stock trades on the NYSE under IBTA. Jersey patch partner of the Nuggets since October 2023, extended April 2026. A previous rating was removed 2026-09-25 because its only claim was an invented ownership record (#279). Rated 2026-10-05: none - a listed US company with no state or state-fund in its ownership chain (its IR FAQ states the NYSE listing), and nothing found against the company itself in the last 20 years."
+  },
+  {
+    "id": "ic-berlin",
+    "name": "ic! berlin",
+    "ownerId": "marcolin-spa",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "ic-berlin-marcolin-ownership"
+    ],
+    "aliases": [],
+    "note": "Audi Revolut F1 Team official partner on the 2026 car (the official eyewear partner, described on the team's partner page as a Marcolin-owned German brand); listed on the team's partners page. Owner traced to `marcolin-spa` with a sourced ownership claim."
   },
   {
     "id": "ic-markets",
@@ -12259,6 +12479,18 @@
     ]
   },
   {
+    "id": "jigspace",
+    "name": "JigSpace",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Audi Revolut F1 Team official partner on the 2026 car (immersive 3D and AR technology); listed on the team's partners page."
+  },
+  {
     "id": "jim-beam",
     "name": "Jim Beam",
     "ownerId": "suntory-holdings",
@@ -12665,14 +12897,16 @@
   {
     "id": "kalshi",
     "name": "Kalshi",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "kalshi-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Its own announcement names co-founder and CEO Tarek Mansour and backers Coatue, Sequoia Capital, Andreessen Horowitz, IVP, Paradigm, Morgan Stanley and ARK Invest. Nothing found.",
+    "claimIds": [
+      "kalshi-inc-ownership"
+    ],
     "aliases": [],
-    "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25)."
+    "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25). Rating note: co-founder and CEO Tarek Mansour, with the venture investors named in its own May 2026 announcement (Coatue, Sequoia Capital, Andreessen Horowitz, IVP, Paradigm, Morgan Stanley, ARK Invest); no state or state-fund owner in its announced funding. Its CFTC litigation is regulatory, not a human-rights finding."
   },
   {
     "id": "kammelna",
@@ -13760,6 +13994,22 @@
     "note": "German discount supermarket chain (Schwarz Group); majority owner of the team."
   },
   {
+    "id": "liga-stavok",
+    "name": "Liga Stavok",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Лига Ставок",
+      "Liga Stavok",
+      "ЛигаСтавок"
+    ],
+    "note": "Russian bookmaker; premium partner of HC Shanghai Dragons for the 2026-27 season, with its logo reported already on the team's kit (Stavki.ru and Vedomosti, both 2026-09-02); Stavki.ru (2026-08-13) also reports the company became the team's premium partner and exclusive bookmaker. Club president Ilya Kovalchuk and bookmaker president Yuri Krasovsky signed the agreement (Stavki.ru, Vedomosti). Ownership of the betting company not traced from a primary document."
+  },
+  {
     "id": "lilley-plummer-risks",
     "name": "Lilley Plummer Risks",
     "ownerId": "the-clear-group",
@@ -14068,6 +14318,23 @@
       "belgian national lottery"
     ],
     "note": "Rating note: Lotto is the National Lottery's own brand (lotto-national-lottery-ownership) and the Lottery is a public-law company under direct Belgian government supervision (government-of-belgium-owns-lotto), so the Belgian state is a link. But the dataset has no record claim about Belgium and state ownership alone is not a tier (METHOD.md), so 'none'. Same reasoning as eurojackpot and fdj."
+  },
+  {
+    "id": "love-radio",
+    "name": "Love Radio",
+    "ownerId": "krutoy-media",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "love-radio-krutoy-media-ownership"
+    ],
+    "aliases": [
+      "Love Radio",
+      "Лав Радио"
+    ],
+    "note": "Russian music/entertainment radio station; information partner of HC Shanghai Dragons per the club's 2026-27 partner page. Ownership on file: Love Radio is one of the national radio networks united by the Krutoy Media holding (krutoymedia.ru). Krutoy Media's own owners are not identified in open sources, so the sponsor stays not rated rather than 'none'."
   },
   {
     "id": "loves-travel-stops",
@@ -14511,6 +14778,18 @@
       "Málaga (marca)"
     ],
     "note": "Proposed none 2026-09-28 (issue #340): the sponsor is the city council's own mark (club announcement, 2026-08-13; the tourism site visita.malaga.eu is the council's Área de Turismo). State ownership alone is not a tier; no court, regulator, UN-body or major-NGO human-rights finding against the Ayuntamiento de Málaga was found, so nothing found. Score and Change calls the vertical front logo 'Málaga Turismo'; the club calls it 'la marca Málaga en el lateral delantero'. It is one logo, so the kit lists it once."
+  },
+  {
+    "id": "mammoet",
+    "name": "Mammoet",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Audi Revolut F1 Team official partner on the 2026 car (transport and heavy lifting for large and complex materials); listed on the team's partners page."
   },
   {
     "id": "man",
@@ -15871,6 +16150,24 @@
     "note": "Spanish telecoms brand of Telefónica (listed)."
   },
   {
+    "id": "moya-stihiya",
+    "name": "Moya Stikhiya",
+    "ownerId": "hunting-llc",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "moya-stihiya-hunting-ownership",
+      "hunting-ao-aktiv-ownership"
+    ],
+    "aliases": [
+      "Моя стихия",
+      "Moya Stikhiya"
+    ],
+    "note": "Russian bottled water brand (produced by ООО «Хантинг», Vladimir region). Official partner of HC Shanghai Dragons per the club's 2026-27 partner page. Ownership chain on file: produced by ООО «Хантинг», whose sole participant since 2026-09-21 is АО «Актив» (100%). The chain stops at АО «Актив», whose own owners are not identified in open sources, so under CONTRIBUTING/METHOD the sponsor stays not rated rather than 'none'."
+  },
+  {
     "id": "mozzart",
     "name": "Mozzart",
     "ownerId": "mozzart-bet-owner",
@@ -16472,6 +16769,18 @@
     ],
     "note": "Not related to Nike, Inc. (separate sponsor record 'nike'). Title sponsor of the Niké liga since 2023/24 and general partner of ŠK Slovan Bratislava (club website partner list). Owner checked via the Slovak commercial register: three private individuals, no state or state-fund stake. Gambling sponsor — owner chain checked per METHOD.md; no state links found.",
     "ownerVerb": "owned by"
+  },
+  {
+    "id": "ninjaone",
+    "name": "NinjaOne",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Audi Revolut F1 Team official partner on the 2026 car (a unified platform that automates IT); listed on the team's partners page."
   },
   {
     "id": "nintendo",
@@ -17514,6 +17823,22 @@
     "aliases": []
   },
   {
+    "id": "panrico",
+    "name": "Panrico",
+    "ownerId": "vicky-foods",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Vicky Foods (Spain). Nothing found.",
+    "claimIds": [
+      "panrico-vicky-foods-ownership"
+    ],
+    "aliases": [
+      "Pan Panrico"
+    ],
+    "note": "Rating note: Spanish sliced-bread brand acquired by Vicky Foods from Adam Foods in March 2026. Back-of-shirt sponsor of the Valencia Basket men's team in ACB games of the 2026-27 season. No state link and no company human-rights finding found."
+  },
+  {
     "id": "panzani",
     "name": "Panzani",
     "ownerId": null,
@@ -17601,6 +17926,20 @@
       "Paul Robinson"
     ],
     "note": "Rating note: UK law firm (founded in Essex in 1983); trading entity is Paul Robinson Solicitors LLP (Companies House OC300127). Privately held; no state or state-fund owner found."
+  },
+  {
+    "id": "paulaner",
+    "name": "Paulaner",
+    "ownerId": "schorghuber-unternehmensgruppe",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "paulaner-schorghuber-ownership"
+    ],
+    "aliases": [],
+    "note": "Audi Revolut F1 Team official partner on the 2026 car (the official supplier, bringing its range of products to the sport for the first time); listed on the team's partners page. Owner traced to `schorghuber-unternehmensgruppe` with a sourced ownership claim."
   },
   {
     "id": "payabl",
@@ -17707,6 +18046,24 @@
     "note": "Sleeve sponsor. Not rated yet: the claim names its investment team, not its owners (Peace Park Capital Ltd); who owns it isn't sourced."
   },
   {
+    "id": "pelle-p",
+    "name": "Pelle P",
+    "ownerId": "ppy-production-ab",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "pelle-p-ppy-ownership",
+      "ppy-saelma-ownership"
+    ],
+    "aliases": [
+      "PelleP",
+      "Pelle Petterson"
+    ],
+    "note": "Official Clothing Supplier of Artemis SailGP (pellepetterson.com press release, 2026). The brand's terms name PPY Production AB, Billdal as the company behind the website and stores; Allabolag (citing Bolagsverket/UC) names Saelma & Co AB, Billdal as its parent. Unrated: no source found names Saelma & Co AB's owners (the register shows its MD and board member as Marie Cecilia Petterson, but not ownership), so the chain does not reach the real owner."
+  },
+  {
     "id": "penske-media-corporation",
     "name": "Penske Media Corporation (PMC)",
     "ownerId": "penske-media-corporation",
@@ -17772,6 +18129,18 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "perk",
+    "name": "Perk",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Audi Revolut F1 Team official partner on the 2026 car (an intelligent platform for travel and spend management); listed on the team's partners page."
   },
   {
     "id": "peroni",
@@ -18030,6 +18399,18 @@
       "pinterest inc"
     ],
     "note": "Rating note: back-of-shirt sponsor of Brighton & Hove Albion Women from 2026/27 (four-year deal, club announcement of 4 Aug 2026). Pinterest, Inc.'s 2026 proxy statement lists four holders of 5% or more: Benjamin Silbermann, Paul Sciarra, BlackRock and Vanguard - no state or state fund. No human-rights finding against the company by a court, regulator, UN body or major NGO was found (checked 2026-09-30)."
+  },
+  {
+    "id": "piquadro",
+    "name": "Piquadro",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Audi Revolut F1 Team official partner on the 2026 car (luxury luggage and fine leather goods); listed on the team's partners page."
   },
   {
     "id": "pirelli",
@@ -18372,16 +18753,18 @@
   {
     "id": "primo-golf-apparel",
     "name": "Primo Golf Apparel",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "primo-golf-founders",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Official apparel sponsor of HyFlyers GC; owned by its four founding cousins and, since March 2024, part-owner Grant Horvat. Nothing found.",
+    "claimIds": [
+      "primo-golf-apparel-ownership"
+    ],
     "aliases": [
       "Primo"
     ],
-    "note": "HyFlyers GC partner (livgolf.com/hyflyers-gc, fetched 2026-09-25)."
+    "note": "Rating note: ownership named (the four founding cousins and Grant Horvat) per DORMIED (2026-07-20); small Utah apparel company, no state or fund in the chain, nothing else sourced."
   },
   {
     "id": "prisma-electronics",
@@ -18510,6 +18893,22 @@
     "note": "Rating note for maintainer: US investing platform (team partner page: 'Official US Investing Platform'); ownership not stated on the partner page and not traced this run."
   },
   {
+    "id": "puleva",
+    "name": "Puleva",
+    "ownerId": "lactalis",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Lactalis (France). Nothing found.",
+    "claimIds": [
+      "lactalis-ownership"
+    ],
+    "aliases": [
+      "Lactalis Puleva"
+    ],
+    "note": "Rating note: Spanish dairy brand of Lactalis Puleva, a unit of the French private dairy group Lactalis. On the Valencia Basket shorts from 2026-27 to 2027-28. No state link and no company human-rights finding found."
+  },
+  {
     "id": "pulsee-luce-e-gas",
     "name": "Pulsee Luce e Gas",
     "ownerId": "axpo-holding-ag",
@@ -18531,14 +18930,14 @@
     "name": "PUMA",
     "ownerId": "anta-sports-products",
     "ownership": "owned",
-    "tier": "none",
-    "status": "rated",
-    "verdict": "Owned by ANTA Sports Products Limited. Nothing found.",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
     "claimIds": [
       "anta-sports-products-record"
     ],
     "aliases": [],
-    "note": "Rating note: Deal signed Jan 2026 and cleared by Chinese and Indian competition authorities; completion by the time of writing is assumed but not separately confirmed. Puma delivered 'none' because ANTA has no material state stake - worth revisiting if a state fund takes a position."
+    "note": "Rating note: Deal signed Jan 2026 and cleared by Chinese and Indian competition authorities; completion by the time of writing is assumed but not separately confirmed. Held for review 2026-10-03 (was none): PUMA's own disclosure, published by the Business & Human Rights Resource Centre on 13 Feb 2026 (https://www.business-humanrights.org/en/latest-news/puma-disclosure-in-response-to-bhrc-global-analysis-of-migrant-worker-abuse/), states that Transparentem flagged nine factories to 50 brands in 2024 for recruitment fees and worker mistreatment, that PUMA sourced from six of these, and that its third-party investigations at four of them confirmed most allegations - the page notes recruitment fee payments can lead to debt bondage (remediation ongoing; one PUMA-sourced factory had fully repaid workers in 2025). Whether this is a company record under METHOD.md is for a maintainer to decide; ANTA has no material state stake."
   },
   {
     "id": "puma-am",
@@ -19602,6 +20001,23 @@
     "note": "MotoGP partner of Red Bull KTM (ktm.com partner logos; the logo links to RK Europe). Left unrated: RK Europe is a subsidiary of the Japanese chain maker RK Takasago Chain (rk-ownership), but who holds RK Japan isn't sourced by a checked source."
   },
   {
+    "id": "rmk",
+    "name": "RMK (Russian Copper Company)",
+    "ownerId": "russian-copper-company-limited",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "rmk-ownership-2023"
+    ],
+    "aliases": [
+      "РМК",
+      "Русская медная компания"
+    ],
+    "note": "Listed as a sponsor of HC Avtomobilist on the club's sponsors page (archived 8 July 2025). Igor Altushkin exited ownership in June 2023; parent Russian Copper Company Limited is held by private individuals (Levin 34%, Gorokhov 33%, Kozhukhov 3% plus Torivent's 30%) per Interfax. Left UNRATED on the company test: RMK's Karabashmed copper smelter in Karabash - a peer-reviewed study found blood and hair arsenic, lead and iron levels in children living near the smelter significantly exceeded control values (Skalny et al., Environmental Science and Pollution Research, 2018; published online October 2016, https://pubmed.ncbi.nlm.nih.gov/27761855/), and NGO Pure Earth documents the Karabash smelter site with a population affected of 16,309 including 2,609 children (https://www.pureearth.org/project/karabash/). A maintainer should judge whether this is a finding of community harm under METHOD.md's company test."
+  },
+  {
     "id": "robinhood",
     "name": "Robinhood",
     "ownerId": "robinhood-owner",
@@ -19735,14 +20151,14 @@
     "name": "Rolex",
     "ownerId": "rolex-sa",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Watchmaker held by the Hans Wilsdorf Foundation, the private Swiss trust set up by its founder. Nothing found.",
     "claimIds": [
       "rolex-sa-record"
     ],
     "aliases": [],
-    "note": "Title sponsor of the Rolex Shanghai Masters, Rolex Paris Masters and Rolex Monte-Carlo Masters; Rolex SA is held by the Hans Wilsdorf Foundation (private foundation, no state owner)."
+    "note": "Title sponsor of the Rolex Shanghai Masters, Rolex Paris Masters and Rolex Monte-Carlo Masters; Rolex SA is held by the Hans Wilsdorf Foundation (private foundation, no state owner). HyFlyers GC partner (livgolf.com/hyflyers-gc, fetched 2026-09-25; re-verified 2026-10-03)."
   },
   {
     "id": "roshn",
@@ -19859,16 +20275,18 @@
   {
     "id": "rsk-group",
     "name": "RSK Group",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "alan-ryder",
+    "ownership": "part-owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "rsk-group-ownership"
+    ],
     "aliases": [
       "rsk"
     ],
-    "note": "UK environmental, engineering and technical services group; Charlton's sole front-of-shirt sponsor for men's and women's first teams since 2025/26."
+    "note": "UK environmental, engineering and technical services group (RSK Group Limited, 03761340, Helsby, Cheshire); Charlton's sole front-of-shirt sponsor for men's and women's first teams since 2025/26, renewed for 2026-27 (rskgroup.com). Companies House PSC: Alan Ryder Investments Limited (25-50% of shares and voting rights), itself 75%+ owned by RSK founder and CEO Dr Alasdair Alan Ryder. RSK also took a £500m preferred equity investment from a Searchlight Capital Partners-led consortium with Ares Management (June 2024, RSK announcement, rskgroup.com/news/rsk-welcomes-strategic-investment/); preferred equity, no ordinary-share control disclosed. No record evidence found. Propose: none."
   },
   {
     "id": "rssb",
@@ -20011,6 +20429,18 @@
     "note": "League partner; airline."
   },
   {
+    "id": "sabelt",
+    "name": "Sabelt",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Audi Revolut F1 Team technical partner on the 2026 car; its logo tile is on the team's partners page and Sabelt posted the partnership on 2026-01-27. Owner not traced to a primary document in this pass."
+  },
+  {
     "id": "sabor-a-malaga",
     "name": "Sabor a Malaga",
     "ownerId": "diputacion-de-malaga",
@@ -20133,6 +20563,22 @@
     }
   },
   {
+    "id": "saint-lukes-health-system",
+    "name": "Saint Luke's Health System",
+    "ownerId": "bjc-health",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "saint-lukes-health-system-part-of-bjc-health"
+    ],
+    "aliases": [
+      "Saint Luke's"
+    ],
+    "note": "Right-sleeve patch sponsor and official health care provider of Sporting Kansas City from the 2026 MLS season, under a multi-year partnership; the Kansas City Star (12 December 2025, opened via the Wayback Machine) reports, citing the Kansas City Business Journal, that the deal runs through 2031. Value not disclosed."
+  },
+  {
     "id": "salesforce",
     "name": "Salesforce",
     "ownerId": "salesforce-inc",
@@ -20145,6 +20591,26 @@
     ],
     "aliases": [],
     "note": "Rating note: No sovereign wealth stake."
+  },
+  {
+    "id": "samara-oblast-government",
+    "name": "Government of Samara Oblast",
+    "ownerId": "samara-oblast-government",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "samara-government-on-shirt",
+      "russian-federation-record"
+    ],
+    "aliases": [
+      "Правительство Самарской области",
+      "Samara Region Government",
+      "Samara Oblast Government"
+    ],
+    "note": "The club store's description of the 2026/27 home shirt lists 'Правительство Самарской области' among the logos applied to it, and the club's kit-launch photos of 2026-07-23 show the name on the lower front of the shirt.",
+    "ownerVerb": "paid for by"
   },
   {
     "id": "samart",
@@ -20241,14 +20707,16 @@
   {
     "id": "sandmark",
     "name": "Sandmark",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "sandmark-sa",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "sandmark-sa-ownership"
+    ],
     "aliases": [],
-    "note": "Official Partner of Artemis SailGP Team (Sweden) (sailgp.com team page, fetched 2026-09-25)."
+    "note": "Official Partner of Artemis SailGP (PR Newswire, 12 January 2026; the release, issued by Sandmark, calls it 'an independent, family-owned media platform'). Its legal notice says the site is owned and operated by Sandmark SA, Geneva (CHE-403.942.030). Unrated: no source found names the owning family or any other shareholder of Sandmark SA, so the claim does not reach the real owner."
   },
   {
     "id": "sankyo-frontier",
@@ -21457,6 +21925,23 @@
     "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
   },
   {
+    "id": "sofnfree",
+    "name": "Sofnfree",
+    "ownerId": "amka-products",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "sofnfree-ownership"
+    ],
+    "aliases": [
+      "Sofn'Free",
+      "Sofnfree Naturals"
+    ],
+    "note": "South African haircare brand of family-owned Amka Products (AMKA), Pretoria; Charlton Athletic Women's Official Sleeve and Haircare Partner from 2026-27 — a club-record deal for the women's team (Guardian WSL preview, 26 Aug 2026; club announcement 19 Aug 2026 on cafc.co.uk, blocked by AWS WAF for scripts). No record evidence found. Propose: none."
+  },
+  {
     "id": "softbank-investment-advisers",
     "name": "SoftBank Investment Advisers",
     "ownerId": "sb-investment-advisers-uk",
@@ -21526,6 +22011,23 @@
     ],
     "aliases": [],
     "note": "Upholstery maker of Sertã (Solfaestofo, Lda), an Estrela da Amadora partner. Not rated yet: who owns the company isn't sourced."
+  },
+  {
+    "id": "solidarity-bank",
+    "name": "Solidarity Bank",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Солидарность",
+      "Банк Солидарность",
+      "АО КБ «Солидарность»",
+      "Solidarnost"
+    ],
+    "note": "Samara-based commercial bank (АО КБ «Солидарность», named in the club's announcement). Its logo will be on Krylia Sovetov's 2026/27 playing kit (club, 2026-07-20), but the kit-launch photos show only the front, where no Solidarity logo appears. Current owners not traced: the bank publishes shareholder disclosures via Interfax-ЦРКИ (not opened)."
   },
   {
     "id": "solize",
@@ -21911,6 +22413,18 @@
       "Société Pétrolière de Production et d'Exploitation"
     ],
     "note": "Rating note: AJA's kit article describes Sppe as 'une société de production et d'exploitation de pétrole basée dans le Loiret'. Family-owned SAS; no state or fund owner identified."
+  },
+  {
+    "id": "sprts",
+    "name": "sprts.cc",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed as an information partner («Информационный партнер») of HC Shanghai Dragons on the club's 2026-27 partner page, which links sprts.cc/dragons. The link returned HTTP 404 when checked on 2026-10-03 and the brand behind it was not identified; ownership unknown."
   },
   {
     "id": "sram",
@@ -22481,6 +22995,23 @@
     ],
     "aliases": [],
     "note": "DS Penske partner (Season 12, 2025/26; Syensqo lists its Formula E partnership on its own site). Left unrated for a maintainer: the largest shareholder is sourced (syensqo-ownership: Solvac SA, 30.81%), but the company test isn't settled. Syensqo took over Solvay's Spinetta Marengo plant in Italy at the 2023 demerger. In December 2015 an Italian court found Solvay managers guilty of causing environmental damage there and ordered Solvay to compensate residents; the Court of Cassation upheld the verdict in 2019 (ICIJ, https://www.icij.org/investigations/pandora-papers/solvay-italy-new-jerey-chemical-plants-offshore/). Two former plant directors were sent to trial in 2026 over PFAS pollution (no verdict yet)."
+  },
+  {
+    "id": "synergetic",
+    "name": "Synergetic",
+    "ownerId": "planet-synergetic-c-limited",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "synergetic-planet-synergetic-ownership"
+    ],
+    "aliases": [
+      "Синергетик",
+      "ООО «Синергетик»"
+    ],
+    "note": "Russian maker of eco household chemicals (Nizhny Novgorod; synergetic.ru). Official partner of HC Shanghai Dragons per the club's 2026-27 partner page. Ownership on file: ООО «Синергетик» is 100% held by Planet Synergetic C Limited (Mauritius) per an EGRUL excerpt on Checko; its general director since 2012 is Alexey Zyuzin. The chain stops at a Mauritius-registered private company whose owners are not documented in open sources, so the sponsor stays not rated rather than 'none'."
   },
   {
     "id": "synopsys",
@@ -23178,6 +23709,22 @@
     "aliases": []
   },
   {
+    "id": "therabody",
+    "name": "Therabody",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Theragun",
+      "Therabody Russia",
+      "TheraGun Russia"
+    ],
+    "note": "Recovery-device brand; official recovery partner («Официальный партнер по восстановлению») of HC Shanghai Dragons per the club's 2026-27 partner page, which links theragunrussia.ru. Ownership of the Russian business, and of the Therabody brand, not traced from open sources."
+  },
+  {
     "id": "thermal-technology",
     "name": "Thermal Technology",
     "ownerId": null,
@@ -23292,16 +23839,18 @@
   {
     "id": "todaytix",
     "name": "TodayTix",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "mari",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "todaytix-ownership"
+    ],
     "aliases": [
       "todaytix group"
     ],
-    "note": "Theatre and live-experience ticketing platform; Charlton Athletic's Official Experience Partner on a two-year deal from June 2026, on the back of the men's and women's first-team shirts."
+    "note": "Theatre and live-experience ticketing platform; Charlton Athletic's Official Experience Partner on a two-year deal from June 2026, on the back of the men's and women's first-team shirts. TodayTix Group was acquired in October 2025 by MARI, the events and experiences company founded by Ariel Emanuel (marigrp.com press release); press reports say MARI is backed by Apollo Global Management and RedBird Capital Partners (the Guardian, 20 Oct 2025: 'Mari is backed by Apollo Global Management and RedBird Capital Partners'). No state ownership and no record evidence found. Propose: none."
   },
   {
     "id": "togo-seisakusyo",
@@ -23993,6 +24542,25 @@
     "note": "Rating note: Kit maker (technical sponsor) of Rayo Vallecano, recorded as partner per the convention for kit suppliers. The brand has belonged to Iconix Brand Group since Nike sold it in December 2012; Iconix went private in 2021 under Avram Glazer's trust (SEC filings). No state or fund in the chain, and no court, regulator, UN body or major-NGO human-rights finding against Umbro, Iconix or Lancer Capital found."
   },
   {
+    "id": "ummc",
+    "name": "UMMC",
+    "ownerId": "ummc",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "ummc-makhmudov-ownership"
+    ],
+    "aliases": [
+      "УГМК",
+      "ОАО УГМК",
+      "UGMK",
+      "Ural Mining and Metallurgical Company"
+    ],
+    "note": "Club sponsor of HC Avtomobilist per the club's sponsors page (archived capture of 8 July 2025; the page footer calls ОАО «УГМК» the club's general sponsor). UMMC also holds arena naming rights (УГМК Арена). Founded and owned by Iskander Makhmudov per US Treasury (September 2023); US/UK/NZ sanctions are not human-rights findings under the method. Left UNRATED on the company test: the Business & Human Rights Resource Centre (citing Rostekhnadzor, 8 December 2025, https://www.business-humanrights.org/en/latest-news/russia-worker-injured-at-nadezhdinsky-metallurgical-plant-due-to-industrial-safety-violations/) records a worker injured at PJSC Nadezhdinsky Metallurgical Plant (a UMMC company) caused by violations of industrial safety regulations, with administrative proceedings initiated; and (citing Interfax, 11 August 2021, https://www.business-humanrights.org/en/latest-news/russia-worker-killed-in-accident-at-korbalikhinsky-mine-criminal-case-initiated/) a worker killed in an accident at the Korbalikhinsky mine (JSC Siberia-Polymetals, a UMMC company), with a criminal case initiated over safety violations. A maintainer should judge whether these pass METHOD.md's company test."
+  },
+  {
     "id": "under-armour",
     "name": "Under Armour",
     "ownerId": null,
@@ -24007,16 +24575,18 @@
   {
     "id": "underdog",
     "name": "Underdog",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "underdog-sports-holdings",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "underdog-ig-group-ownership"
+    ],
     "aliases": [
       "Underdog Fantasy"
     ],
-    "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25)."
+    "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25, re-verified 2026-10-03). Unrated: who controls Underdog Sports Holdings, Inc. today is not publicly identified — the sources name co-founders Jeremy Levine (CEO) and Brandon Stakenborg (CPO) but not the company's shareholders. London-listed IG Group Holdings plc announced on 30 July 2026 that it had agreed to acquire the company for up to approximately $1.3 billion, conditional on US regulatory approvals and Hart-Scott-Rodino clearance; the acquisition was still subject to regulatory approvals as of 8 September 2026 (iggroup.com RNS and press releases). Re-rate once the acquisition closes or the current shareholders are published."
   },
   {
     "id": "unibat",
@@ -24176,6 +24746,24 @@
     ],
     "aliases": [],
     "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern. No state holds 5% or more, and no human-rights finding against the company."
+  },
+  {
+    "id": "uralmashzavod",
+    "name": "Uralmashzavod",
+    "ownerId": "uk-uztm-kartex",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "uralmashzavod-uztm-kartex-ownership"
+    ],
+    "aliases": [
+      "Уралмашзавод",
+      "УЗТМ",
+      "UZTM"
+    ],
+    "note": "Listed as a sponsor of HC Avtomobilist on the club's sponsors page (archived 8 July 2025). Ultimate owner not established: 51% of parent UK UZTM-Kartex passed to JSC Enlil Finance in March 2022 and Enlil's shareholders are not public; 48.6% is held by the closed fund ZPIF 'Gazprombank - industrial investments'. In June 2026 a Yekaterinburg court convicted Uralmashzavod workshop chief Andrey Kharin over the 2025 death of a worker at the plant - violation of industrial safety requirements causing death by negligence (Part 2, Art. 217 of the Criminal Code; Kommersant, 11 June 2026, https://www.kommersant.ru/doc/8736832). Flagged for maintainers, not recorded as a claim."
   },
   {
     "id": "us-bank",
@@ -24395,6 +24983,22 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "vicky-foods-foundation",
+    "name": "Fundación Vicky Foods",
+    "ownerId": "vicky-foods",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Vicky Foods (Spain). Nothing found.",
+    "claimIds": [
+      "vicky-foods-foundation-ownership"
+    ],
+    "aliases": [
+      "Vicky Foods Foundation"
+    ],
+    "note": "Rating note: social-action foundation of the family-owned Vicky Foods group. On the chest of the Valencia Basket men's shirt in EuroLeague games of the 2026-27 season. No state link and no company human-rights finding found."
   },
   {
     "id": "viessmann",
@@ -24661,14 +25265,34 @@
   {
     "id": "vistajet",
     "name": "VistaJet",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "vista-global",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Vista Global, the Dubai-headquartered private aviation group founded by Thomas Flohr, who says he will always keep the majority; outside investors include an RRJ Capital-led consortium and long-standing investor Rhône Group. Nothing found.",
+    "claimIds": [
+      "vista-global-flohr-ownership",
+      "vistajet-vista-global-ownership"
+    ],
     "aliases": [],
-    "note": "HyFlyers GC partner (livgolf.com/hyflyers-gc, fetched 2026-09-25)."
+    "note": "Rating note: RRJ Capital (Richard Ong's private Asian investment firm) led a $600m equity round in March 2025 with Andalusian Private Capital; Rhone Group is a long-standing investor. No state or state fund sourced in the chain; Flohr (Swiss) held 84% per an April 2024 Bloomberg report."
+  },
+  {
+    "id": "vitaldin",
+    "name": "Vitaldin",
+    "ownerId": "grupo-mercadalia",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Grupo Mercadalia via Boston Nutraceutical Science (Spain). Nothing found.",
+    "claimIds": [
+      "grupo-mercadalia-ownership"
+    ],
+    "aliases": [
+      "Vitaldin España",
+      "Boston Nutraceutical Science"
+    ],
+    "note": "Rating note: Spanish sports-nutrition and food-supplement brand of Boston Nutraceutical Science S.L., part of Grupo Mercadalia. Front-of-shirt sponsor of Valencia Basket from 2026-27 to 2028-29. No state link and no company human-rights finding found."
   },
   {
     "id": "vitality",
@@ -25061,6 +25685,24 @@
     "aliases": []
   },
   {
+    "id": "wildberries",
+    "name": "Wildberries",
+    "ownerId": "rvb",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "rvb-ownership"
+    ],
+    "aliases": [
+      "WB",
+      "Вайлдберриз",
+      "wb"
+    ],
+    "note": "Since the 2024 merger with the Russ advertising group the business runs through RVB LLC (RB.RU, 2025-12-11; Vedomosti, 2024-08-10). Technical partner of PFC Krylia Sovetov, co-developing the club's 2026/27 Kelme home kit (club, 2026-07-23); the 'wb' logo is among the logos the club store lists on the 2026/27 home shirt, shown on the chest in the launch photos."
+  },
+  {
     "id": "wilier-triestina",
     "name": "Wilier Triestina",
     "ownerId": null,
@@ -25143,12 +25785,16 @@
     "name": "Winline",
     "ownerId": "winline",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Krasnodar shirt sponsor per its partner page; also a Zenit partner."
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by a group of founders; Legalbet names Dmitry Myslivtsev as main owner and founder. Nothing found.",
+    "claimIds": [
+      "winline-ownership-uk-nks"
+    ],
+    "aliases": [
+      "Винлайн"
+    ],
+    "note": "Partner of KHL club Avtomobilist (Legalbet) and listed on the club's own sponsors page (archived 8 July 2025). Other betting outlets name the largest shareholder as Andrey Myslivtsev (about 45%); the first name conflicts with Legalbet. Krasnodar shirt sponsor per its partner page; also a Zenit partner."
   },
   {
     "id": "wizteam",

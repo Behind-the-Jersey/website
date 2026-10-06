@@ -1089,12 +1089,32 @@
           "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
           "date": "2023-06-19",
           "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
-          "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+          "quote": "Visit Rwanda will continue to be showcased on BAL team uniforms and at the BAL Combine.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "League-wide BAL uniform branding (2023 release). Al Ahly Ly is one of the BAL's 12 clubs in 2026: https://pr.nba.com/basketball-africa-league-2026-season/"
+        }
+      },
+      {
+        "sponsorId": "puma",
+        "placement": "league-partner",
+        "source": {
+          "name": "The BAL (bal.nba.com): BAL names PUMA as league's official outfitter ahead of 2026 season",
+          "date": "2026-03-17",
+          "url": "https://bal.nba.com/news/bal-names-puma-as-leagues-official-outfitter-ahead-of-2026-season",
+          "quote": "PUMA supply all official BAL team, fan and referee apparel, including game uniforms, warm-up gear, practice wear, accessories",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "PUMA is the BAL's Official Outfitter from the 2026 season, supplying game uniforms for all BAL teams. BAL match imagery shows PUMA marks on Al Ahly Ly's 2026 jerseys (cdn-bal.nba.com/manage/sites/3/2026/05/maxresdefault-91.jpg); an April 2026 BAL photo of the white jersey shows a Jumpman mark instead (cdn-bal.nba.com/manage/sites/3/2026/04/Jo-Lual-Acuil-42-points-record-celebration-2-1-scaled.jpg), so outfitter branding is mixed early in the season."
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "League-controlled branding only (Visit Rwanda on all BAL uniforms). No club-level shirt sponsor found for the 2026 season.",
+    "summary": "League-controlled branding only: PUMA (the BAL's official outfitter from the 2026 season) and Visit Rwanda carry on all BAL uniforms, incl. Al Ahly Ly's. No club-level shirt sponsor found; back, shorts and sleeve placements could not be checked from available imagery.",
     "change": null
   },
   {
@@ -4095,14 +4115,48 @@
         "sponsorId": "sandmark",
         "placement": "partner",
         "source": {
+          "name": "PR Newswire / Sandmark: Crypto News and Data Platform Sandmark Joins Artemis SailGP as Official Partner Ahead of 2026 Season",
+          "date": "2026-01-12",
+          "url": "https://www.prnewswire.com/news-releases/crypto-news-and-data-platform-sandmark-joins-artemis-sailgp-as-official-partner-ahead-of-2026-season-302657497.html",
+          "quote": "Sandmark has joined Artemis SailGP as an Official Partner, supporting the Swedish team as it competes in SailGP's high-tech 50-foot foiling catamarans",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "artemis-technologies",
+        "placement": "partner",
+        "source": {
           "name": "SailGP team page - Artemis (Official Partners)",
-          "date": "2026-09-25",
-          "url": "https://www.sailgp.com/teams/artemis/"
+          "date": "2026-10-02",
+          "url": "https://www.sailgp.com/teams/artemis/",
+          "note": "The team page renders its partner groups by script, so the quote can't be found by the checker; the embedded page data lists Artemis Technologies under the group 'Artemis Racing | Official Partners'.",
+          "quote": "Artemis Technologies",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "pelle-p",
+        "placement": "partner",
+        "source": {
+          "name": "Pelle P: Pelle P Appointed Official Clothing Supplier of Artemis SailGP",
+          "date": "2026",
+          "url": "https://www.pellepetterson.com/en-gb/world-of-pelle-p/articles/sailgp-pressrelease/",
+          "quote": "The Swedish premium sailing brand Pelle P has been appointed Official Clothing Supplier of Artemis SailGP",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "New Swedish team Artemis has no title partner; Sandmark and Artemis Technologies are Official Partners, Pelle P supplies.",
+    "summary": "New Swedish team Artemis has no title partner; Sandmark (crypto news platform, joined as Official Partner January 2026), Artemis Technologies (Official Partner) and Pelle P (Official Clothing Supplier) are the commercial partners in the team page's partner block. Not marked complete: the same block lists the team's Purpose Partner, the Andrew Simpson Foundation, which is not recorded as a sponsor.",
     "change": null
   },
   {
@@ -5542,7 +5596,12 @@
         "source": {
           "name": "Revolut – Revolut becomes title partner of the future Audi F1 Team",
           "date": "2025-07-30",
-          "url": "https://www.revolut.com/en-US/news/revolut_becomes_title_partner_of_the_future_audi_f1_team/"
+          "url": "https://www.revolut.com/en-US/news/revolut_becomes_title_partner_of_the_future_audi_f1_team/",
+          "quote": "will see Revolut become the title partner of the team from the 2026 FIA Formula One Championship season onward",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -5550,8 +5609,13 @@
         "placement": "front",
         "source": {
           "name": "Audi Revolut F1 Team – Partners",
-          "date": "2026-09-24",
-          "url": "https://www.audif1.com/en/partners"
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "bp is the official technology partner of Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -5559,9 +5623,13 @@
         "placement": "sleeve",
         "source": {
           "name": "Castrol – Castrol to power the Audi Revolut F1 Team through new era",
-          "date": "2026",
+          "date": "2026-03-02",
           "url": "https://www.castrol.com/en/global/corporate/about-castrol/newsroom/castrol-to-power-the-audi-revolut-f1-team-through-the-new-era.html",
-          "note": "date precision: year"
+          "quote": "Both bp and Castrol are official partners to the team.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -5570,7 +5638,12 @@
         "source": {
           "name": "Audi AG – Visit Qatar welcomed by the future Audi F1 Team as a new principal partner",
           "date": "2025-11-29",
-          "url": "https://www.audi.com/en/press-releases/visit-qatar-welcomed-by-the-future-audi-f1-team-as-a-new-principal-partner-16923"
+          "url": "https://www.audi.com/en/press-releases/visit-qatar-welcomed-by-the-future-audi-f1-team-as-a-new-principal-partner-16923",
+          "quote": "Visit Qatar will become a principal partner",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -5578,8 +5651,13 @@
         "placement": "partner",
         "source": {
           "name": "Audi Revolut F1 Team – Partners",
-          "date": "2026-09-24",
-          "url": "https://www.audif1.com/en/partners"
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "adidas is the official apparel partner of Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -5587,8 +5665,13 @@
         "placement": "partner",
         "source": {
           "name": "Audi Revolut F1 Team – Partners",
-          "date": "2026-09-24",
-          "url": "https://www.audif1.com/en/partners"
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "Extreme Networks is the official partner of Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
@@ -5596,14 +5679,271 @@
         "placement": "partner",
         "source": {
           "name": "Audi Revolut F1 Team – Partners",
-          "date": "2026-09-24",
-          "url": "https://www.audif1.com/en/partners"
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "Libertex is the official partner of Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "aleph",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "Aleph is the official partner of the Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "nexo",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "Nexo is the official partner of Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "ninjaone",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "NinjaOne is the official partner of Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "gillette",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "Procter & Gamble joins Formula 1, partnering with Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "hyatt",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "Hyatt is the official partner of Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "perk",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "Perk is the official partner of Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "ic-berlin",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "ic! berlin is the official eyewear partner of Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "elevenlabs",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "ElevenLabs is the official partner of Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "camozzi",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "Camozzi is the official partner of Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "piquadro",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "Piquadro is the official partner of Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "paulaner",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "Paulaner is the official supplier to Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "pirelli",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "Pirelli is the official supplier to Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "specialized",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "Specialized is the official supplier to Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "bell-helmets",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "Bell Helmets is the official supplier to Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "jigspace",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "JigSpace is the official supplier to Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "mammoet",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Partners",
+          "date": "2026-10-01",
+          "url": "https://www.audif1.com/en/partners",
+          "quote": "Mammoet is the official supplier to Audi Revolut F1® Team",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "glasurit",
+        "placement": "partner",
+        "source": {
+          "name": "Audi Revolut F1 Team – Glasurit becomes exclusive paint supplier of Audi Revolut F1 Team for 2026 debut",
+          "date": "2026-03-05",
+          "url": "https://contenthub.audif1.com/en/releases/glasurit-becomes-exclusive-paint-supplier-of-audi-revolut-f1-team-for-2026-debut-151",
+          "quote": "Audi Revolut F1 Team today confirms Glasurit, the premium refinish paint brand of BASF Coatings, as its exclusive and official paint supplier",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "sabelt",
+        "placement": "partner",
+        "source": {
+          "name": "Sabelt (LinkedIn) – stand alongside Audi Revolut F1 Team as technical partner",
+          "date": "2026-01-27",
+          "url": "https://www.linkedin.com/posts/sabelt_activity-7421904245181939712-zmbZ",
+          "quote": "We are proud to stand alongside Audi Revolut F1 Team as technical partner",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "2026 car. S"
+    "summary": "2026 car. Title partner Revolut and principal partners bp and Visit Qatar; Castrol supplies lubricants. adidas, Aleph, Nexo, NinjaOne, Gillette, Hyatt, Perk, ic! berlin, Libertex, ElevenLabs, Camozzi, Piquadro, Paulaner, Pirelli, Extreme Networks, Specialized, Bell Helmets, JigSpace, Mammoet, Glasurit and Sabelt are team partners. Full partner list from the team's partners page."
   },
   {
     "id": "austin-fc-2026-27-home",
@@ -5767,9 +6107,85 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
+    "sponsors": [
+      {
+        "sponsorId": "ummc",
+        "placement": "partner",
+        "source": {
+          "name": "HC Avtomobilist official site: Спонсоры и партнеры (Wayback Machine capture; the live site is unreachable from the research server)",
+          "date": "2025-07-08",
+          "url": "https://web.archive.org/web/20250708182145/https://www.hc-avto.ru/club/partners/",
+          "note": "Translation: 'Sponsors of hockey club Avtomobilist - Ural Mining and Metallurgical Company'. The page footer also names ОАО «УГМК» as the club's general sponsor (Генеральный спонсор).",
+          "quote": "Спонсоры хоккейного клуба \"Автомобилист\" Уральская горно-металлургическая компания",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "winline",
+        "placement": "partner",
+        "source": {
+          "name": "Legalbet: Владелец Винлайн: кому принадлежит букмекерская контора",
+          "date": "2026",
+          "url": "https://legalbet.ru/shkola-bettinga/vladeletc-vinlajn-komu-prinadlezhit-bukmekerskaya-kontora/",
+          "note": "Translation: 'In hockey the bookmaker supports KHL teams such as Ak Bars, Barys, Traktor, Sibir, Avtomobilist, Dinamo-Minsk.' Page undated. Winline is also listed on the club's own sponsors page (Wayback capture of 8 July 2025).",
+          "quote": "В хоккее букмекер поддерживает такие команды КХЛ, как «Ак Барс», «Барыс», «Трактор», «Сибирь», «Автомобилист», «Динамо-Минск».",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "uralmashzavod",
+        "placement": "partner",
+        "source": {
+          "name": "HC Avtomobilist official site: Спонсоры и партнеры (Wayback Machine capture; the live site is unreachable from the research server)",
+          "date": "2025-07-08",
+          "url": "https://web.archive.org/web/20250708182145/https://www.hc-avto.ru/club/partners/",
+          "note": "This company description sits under the page's 'Спонсоры хоккейного клуба Автомобилист' (Sponsors of hockey club Avtomobilist) heading. Translation of quote: 'Uralmashzavod is Russia's largest producer of equipment for metallurgy and mining.'",
+          "quote": "УРАЛМАШЗАВОД - крупнейший в России производитель оборудования для металлургии и горнодобывающей промышленности",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "rmk",
+        "placement": "partner",
+        "source": {
+          "name": "HC Avtomobilist official site: Спонсоры и партнеры (Wayback Machine capture; the live site is unreachable from the research server)",
+          "date": "2025-07-08",
+          "url": "https://web.archive.org/web/20250708182145/https://www.hc-avto.ru/club/partners/",
+          "note": "This company description sits under the page's 'Спонсоры хоккейного клуба Автомобилист' (Sponsors of hockey club Avtomobilist) heading. Translation of quote: 'Russian Copper Company was founded in 2004. Today RMK is among Russia's largest copper producers.'",
+          "quote": "Русская медная компания основана в 2004 году. Сегодня РМК входит в число крупнейших производителей меди в России.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "alma-ceramica",
+        "placement": "partner",
+        "source": {
+          "name": "HC Avtomobilist official site: Спонсоры и партнеры (Wayback Machine capture; the live site is unreachable from the research server)",
+          "date": "2025-07-08",
+          "url": "https://web.archive.org/web/20250708182145/https://www.hc-avto.ru/club/partners/",
+          "note": "This company description sits under the page's 'Спонсоры хоккейного клуба Автомобилист' (Sponsors of hockey club Avtomobilist) heading. Translation of quote: 'Joint Stock Company Zavod keramicheskikh izdeliy is one of Russia's leading producers of ceramic tile.'",
+          "quote": "Акционерное общество «Завод керамических изделий» - один из ведущих производителей керамической плитки в России",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
     "sponsorsComplete": false,
-    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+    "summary": "2026-27 home kit. The KHL's own marketing blog (sports.ru, 13 September 2026) says Avtomobilist kept its playing kits unchanged from 2025-26. Individual shirt placements could not be verified from any source that opens here: the club site blocks this server and the last archived capture of its sponsors page is 8 July 2025. That page lists UMMC (its footer also calls ОАО «УГМК» the club's general sponsor), Winline, Uralmashzavod, Russian Copper Company (RMK) and ALMA ceramica under its club-sponsors heading - all recorded here as club partners, not shirt placements. The same page also shows the Sverdlovsk Oblast government as club founder and logos for two further partners (Sima-land; Novoe radio, an 'informational partner') that are not recorded here, so the sponsor list is partial.",
     "change": null
   },
   {
@@ -8808,24 +9224,64 @@
         "sponsorId": "rsk-group",
         "placement": "front",
         "source": {
-          "name": "Charlton Athletic FC, official announcement",
-          "date": "2025-05-22",
-          "url": "https://www.cafc.co.uk/news/charlton-announce-new-partnership-rsk"
+          "name": "RSK Group: 'RSK Group and Charlton Athletic renew partnership for 2026-27 season'",
+          "date": "2026-07-02",
+          "url": "https://rskgroup.com/news/rsk-group-and-charlton-athletic-renew-partnership/",
+          "quote": "RSK has announced that it will continue as the club’s principal sustainability partner and front-of-shirt sponsor for the 2026–2027 season, extending its support across the men’s, women’s and academy teams.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
         }
       },
       {
         "sponsorId": "todaytix",
         "placement": "back",
         "source": {
-          "name": "Charlton Athletic FC, TodayTix announcement",
-          "date": "2026-06-30",
-          "url": "https://www.cafc.co.uk/news/todaytix-announced-official-experience-partner",
-          "note": "Two-year deal from June 2026 puts the TodayTix logo on the back of the men's and women's first-team shirts; confirmed on the 2026/27 Reebok home kit (2 Jul 2026) and away kit (19 Aug 2026), which women's first-teamers modelled."
+          "name": "SportsMint Media: 'Charlton Athletic FC bring in TodayTix as official experience partner for two years'",
+          "date": "2026-07-01",
+          "url": "https://sportsmintmedia.com/charlton-athletic-fc-bring-in-todaytix-as-official-experience-partner-for-two-years/",
+          "quote": "The TodayTix logo will appear on the back of the men’s and women’s first team shirts throughout the two-year pact",
+          "note": "Club announcement (cafc.co.uk, 30 Jun 2026) is behind an AWS WAF challenge for scripts; SportsMint reports the same deal. Two-year deal from June 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "sofnfree",
+        "placement": "sleeve",
+        "source": {
+          "name": "The Guardian: 'Women's Super League 2026-27 preview No 5: Charlton Athletic'",
+          "date": "2026-08-26",
+          "url": "https://www.theguardian.com/football/2026/aug/26/womens-super-league-2026-27-preview-no-5-charlton-athletic",
+          "quote": "A record-breaking partnership has seen haircare brand Sofnfree become the women’s team’s official sleeve partner. The branding will feature on all playing and replica shirts",
+          "note": "Club announcement 'Charlton Women announce record-breaking Sofnfree partnership' (cafc.co.uk, 19 Aug 2026) is behind an AWS WAF challenge for scripts; the Guardian confirms sleeve branding on all women's playing and replica shirts this season.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "reebok",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: 'Charlton Athletic 26-27 Home Kit Released'",
+          "date": "2026-07-02",
+          "url": "https://www.footyheadlines.com/1548392840/charlton-athletic-26-27-home-kit-released.html",
+          "quote": "Charlton Athletic’s 26-27 home kit, manufactured by Reebok,",
+          "note": "The women's first team plays in the same 2026/27 Reebok home shirt: the club shop sells it as the '26/27 Charlton women's fit home shirt' with the same design and a Reebok size guide (clubshop.cafc.co.uk/products/2026-27-charlton-athletic-home-shirt-womens-red, opened 2026-10-03), and the club's own kit reveal was modelled by a women's first-teamer (cafc.co.uk/news/202627-reebok-home-kit-revealed, behind an AWS WAF challenge for scripts).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "RSK Group, a UK engineering and environmental services group, fronts the Charlton Women shirt, with TodayTix on the back.",
+    "sponsorsComplete": true,
+    "summary": "RSK Group, a UK engineering and environmental services group, fronts the Charlton Women shirt, with TodayTix on the back and haircare brand Sofnfree on the sleeve, on a shirt made by Reebok. No shorts sponsor found: London.Bet's back-of-shorts deal covers the men's first team only.",
     "change": {
       "kind": "better",
       "text": "New to the WSL: promoted from WSL2 as play-off winners",
@@ -9960,8 +10416,8 @@
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "Team partners 2026: Reebok, Qualcomm, Salesforce, Google Cloud, Kalshi, HSBC, New Era, Underdog. Captain: Bryson DeChambeau.",
+    "sponsorsComplete": true,
+    "summary": "Team partners 2026: Reebok, Qualcomm, Salesforce, Google Cloud, Kalshi, HSBC, New Era, Underdog. Captain: Bryson DeChambeau. sponsorsComplete basis: the team page (livgolf.com/crushers-gc, re-opened 2026-10-03) shows exactly these eight partner logos with links and no others; golf team pages carry no shirt-placement photos, so 'partner' is the only placement documented.",
     "change": null
   },
   {
@@ -18273,15 +18729,80 @@
         "sponsorId": "fonbet",
         "placement": "front",
         "source": {
-          "name": "PFC Krylia Sovetov – Sponsors and partners",
-          "date": "2026-09-25",
-          "url": "https://pfcks.ru/stranitsa-sponsorov/",
-          "note": "Fonbet is the first (large-tier) sponsor on the club's sponsors page."
+          "name": "PFC Krylia Sovetov store: Майка игровая темно-синяя Kelme сезон 26/27",
+          "date": "2026",
+          "url": "https://store.pfcks.ru/clothes/t-shirt-1/forma_569.html",
+          "quote": "На майке нанесены логотипы \"Ромб КС\", \"wb\", \"fonbet\", \"Правительство Самарской области\".",
+          "note": "The club store's description of the 2026/27 dark-blue home ('домашняя') shirt names 'fonbet' among the logos applied to it. The kit-launch photos of 2026-07-23 (pfcks.ru/news/novosti_4846.html, e.g. /netcat_files/multifile/464/4846/20260723bb.jpg) show FONBET in white across the centre of the chest; sports.ru republished the same photos (https://www.sports.ru/football/1117309539-krylya-sovetov-predstavili-domashnyuyu-formu-sezona-2026-27-czentralny.html).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-scout (review agent)"
+          }
+        }
+      },
+      {
+        "sponsorId": "wildberries",
+        "placement": "front",
+        "source": {
+          "name": "PFC Krylia Sovetov store: Майка игровая темно-синяя Kelme сезон 26/27",
+          "date": "2026",
+          "url": "https://store.pfcks.ru/clothes/t-shirt-1/forma_569.html",
+          "quote": "На майке нанесены логотипы \"Ромб КС\", \"wb\", \"fonbet\", \"Правительство Самарской области\".",
+          "note": "The club store's description of the 2026/27 home shirt names 'wb' among the logos applied to it. The launch article names Wildberries as the club's technical partner that co-developed the kit (pfcks.ru, 2026-07-23: 'Домашний комплект бренда Kelme, разработанный совместно с нашим техническим партнёром – компанией Wildberries'), and the launch photos show the white 'wb' logo on the chest beside the FONBET wordmark.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-scout (review agent)"
+          }
+        }
+      },
+      {
+        "sponsorId": "samara-oblast-government",
+        "placement": "front",
+        "source": {
+          "name": "PFC Krylia Sovetov store: Майка игровая темно-синяя Kelme сезон 26/27",
+          "date": "2026",
+          "url": "https://store.pfcks.ru/clothes/t-shirt-1/forma_569.html",
+          "quote": "На майке нанесены логотипы \"Ромб КС\", \"wb\", \"fonbet\", \"Правительство Самарской области\".",
+          "note": "The club store's description of the 2026/27 home shirt names 'Правительство Самарской области' (Government of Samara Oblast) among the logos applied to it. The launch photos (pfcks.ru, 2026-07-23) show 'ПРАВИТЕЛЬСТВО САМАРСКОЙ ОБЛАСТИ' in white on the lower front, below the wing graphic.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-scout (review agent)"
+          }
+        }
+      },
+      {
+        "sponsorId": "kelme",
+        "placement": "partner",
+        "source": {
+          "name": "PFC Krylia Sovetov: Новая форма «Крыльев Советов» на сезон 2026/27",
+          "date": "2026-07-23",
+          "url": "https://pfcks.ru/news/novosti_4846.html",
+          "quote": "Домашний комплект бренда Kelme, разработанный совместно с нашим техническим партнёром – компанией Wildberries",
+          "note": "Kit maker, listed as partner per existing convention.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "solidarity-bank",
+        "placement": "partner",
+        "source": {
+          "name": "PFC Krylia Sovetov: ПФК «Крылья Советов» продлил спонсорское соглашение с банком «Солидарность»",
+          "date": "2026-07-20",
+          "url": "https://pfcks.ru/news/novosti_4837.html",
+          "quote": "Клуб получит финансовую поддержку, а логотип банка будет размещен на игровой форме команды",
+          "note": "Club: the bank's logo will be on the 2026/27 playing kit, but the launch photos show only the front, where no Solidarity logo appears, and no match photo showing the back or shorts was found, so the placement is unconfirmed. The home stadium is named 'Солидарность Самара Арена' (СОЛИДАРНОСТЬ САМАРА АРЕНА branding in the club's own match photos).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Fonbet leads the club sponsors page; front-shirt placement not confirmed against a kit launch.",
+    "summary": "Kelme home shirt (co-developed with technical partner Wildberries): the club store's description names 'fonbet', 'wb' and 'Правительство Самарской области' (Government of Samara Oblast) among the logos on the shirt, and the club's 2026-07-23 launch photos show FONBET and the 'wb' logo on the chest with the government name on the lower front. Solidarity Bank's logo is announced for the playing kit (club, 2026-07-20) but its placement is not visible in available photos, and no back or shorts view was found, so the list is not marked complete. The right sleeve carries the league competition badge (a competition mark, not a club deal).",
     "change": null
   },
   {
@@ -27894,6 +28415,52 @@
     "shortLine": "TBC Bank on the back, plain front"
   },
   {
+    "id": "rugby-ireland-2026-27-home",
+    "clubId": "rugby-ireland",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "vodafone",
+        "placement": "front",
+        "source": {
+          "name": "Sport for Business: Canterbury Unveils New Ireland Rugby Kit Around 'Tougher Together' Campaign",
+          "date": "2026-09-03",
+          "url": "https://sportforbusiness.com/canterbury-unveils-new-ireland-rugby-kit-around-tougher-together-campaign/",
+          "quote": "This is the first time that Vodafone has appeared on the shirt front of both the Men's and the Women's shirts",
+          "note": "Named press coverage of the 2026/27 kit launch (3 September 2026). The Vodafone wordmark and logo fill the centre chest of the official 2026/27 home replica product photos (Intersport Elverys, www.elverys.ie/products/canterbury-ire-home-pro-jersey-26-green-1176139, all eleven views).",
+          "checked": {
+            "on": "2026-10-04",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "canterbury",
+        "placement": "partner",
+        "source": {
+          "name": "Sport for Business: Canterbury Unveils New Ireland Rugby Kit Around 'Tougher Together' Campaign",
+          "date": "2026-09-03",
+          "url": "https://sportforbusiness.com/canterbury-unveils-new-ireland-rugby-kit-around-tougher-together-campaign/",
+          "quote": "Canterbury has unveiled the new Ireland rugby kit for the 2026/27 season, placing the relationship between players, supporters and the wider rugby community at the heart of the launch.",
+          "note": "Kit maker, listed as partner per the convention for kit suppliers. The Canterbury logo sits on the right chest of the official 2026/27 home replica product photos (Intersport Elverys, all eleven views), opposite the IRFU crest.",
+          "checked": {
+            "on": "2026-10-04",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Vodafone across the front of the green Canterbury home shirt, with Canterbury as kit maker. All eleven official 2026/27 home replica product photos (Intersport Elverys) show only the Vodafone front wordmark, the Canterbury right-chest logo and the IRFU crest — the back, both sleeves and the collar carry no commercial marks. No 2026/27 Ireland home shorts product was listed at the official retailers checked (Intersport Elverys, canterbury.com, Rugbystuff.com), and the match-worn shirt was not verified by script.",
+    "change": null,
+    "shortLine": "Vodafone on the front"
+  },
+  {
     "id": "rugby-italy-2026-27-home",
     "clubId": "rugby-italy",
     "season": "2026-27",
@@ -28551,15 +29118,66 @@
         "sponsorId": "el-camino-health",
         "placement": "front",
         "source": {
-          "name": "FOR SOCCER",
+          "name": "San Jose Earthquakes – 'NEWS: San Jose Earthquakes and El Camino Health Announce Landmark Community-Focused Partnership'",
+          "date": "2025-01-29",
+          "url": "https://www.sjearthquakes.com/news/news-san-jose-earthquakes-and-el-camino-health-announce-landmark-community-focused-partnership",
+          "quote": "On the field, El Camino Health’s brand will adorn the front of the Earthquakes first-team jerseys, beginning with the upcoming 2025 Major League Soccer season",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Multi-year front deal announced 2025-01-29; FOR SOCCER's 2026 MLS jersey sponsor list (2026-02-17) still lists El Camino Health on the Earthquakes front for 2026."
+        }
+      },
+      {
+        "sponsorId": "apollo",
+        "placement": "sleeve",
+        "source": {
+          "name": "San Jose Earthquakes – 'San Jose Earthquakes and Apollo Announce Official Sleeve and Go-to-Market Partnership, Bringing the AI GTM System to Major League Soccer'",
+          "date": "2026-07-23",
+          "url": "https://www.sjearthquakes.com/news/san-jose-earthquakes-and-apollo-announce-official-sleeve-and-go-to-market-partnership-bringing-the-ai-gtm-system-to-major-league-soccer",
+          "quote": "Apollo will serve as both a brand sponsor with its logo featured prominently on the right sleeve of the Earthquakes’ jersey",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Multiyear deal debuting at the California Clásico on 2026-07-25; the right sleeve was unsponsored at the start of the 2026 season (FOR SOCCER, 2026-02-17)."
+        }
+      },
+      {
+        "sponsorId": "dude-wipes",
+        "placement": "back",
+        "source": {
+          "name": "San Jose Earthquakes – 'San Jose Earthquakes and DUDE Wipes Announce Official Back-of-Jersey Partnership'",
+          "date": "2026-07-31",
+          "url": "https://www.sjearthquakes.com/news/san-jose-earthquakes-and-dude-wipes-announce-official-back-of-jersey-partnership",
+          "quote": "Starting with the Earthquakes’ Aug. 1 match against FC Cincinnati, the DUDE Wipes logo will appear on the back of the Major League Soccer club’s first-team jerseys",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Multiyear back-of-jersey deal under a new league asset allowed only from 1 August 2026 (after the 2026 All-Star break); no back sponsor before that date."
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "FOR SOCCER – '2026 MLS Jersey Sponsors'",
           "date": "2026-02-17",
-          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/",
+          "quote": "media partner Apple, once again, will be on the left sleeve of every jersey",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "League-wide left-sleeve patch on all 30 MLS kits under the Apple–MLS broadcast deal (see deal mls-apple-tv)."
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "adidas home kit. El Camino Health fronts the shirt from 2025; Apollo has the right sleeve since late July 2026; DUDE Wipes appears on the back from 1 August 2026 under the league's new back-ads rule; the league-wide Apple TV patch is on the left sleeve. No sponsor image on file."
   },
   {
     "id": "santa-clara-2026-27-home",
@@ -29254,9 +29872,130 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
+    "sponsors": [
+      {
+        "sponsorId": "liga-stavok",
+        "placement": "partner",
+        "source": {
+          "name": "Stavki.ru: «Лига Ставок» стала премиальным партнёром ХК «Шанхай Дрэгонс»",
+          "date": "2026-09-02",
+          "url": "https://stavki.ru/sportnews/liga-stavok-stala-premialnym-partnyorom-hk-shanhaj-dregons/",
+          "quote": "Логотип «Лиги Ставок» уже размещён на форме команды и появится на домашней арене, а также на официальных цифровых площадках клуба.",
+          "note": "Named press: the club signed Liga Stavok as premium partner for the 2026/27 season; the article says the brand's logo is already on the team's kit. Exact jersey placement (front/back/sleeve) is not specified in the source.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "moya-stihiya",
+        "placement": "partner",
+        "source": {
+          "name": "Shanghai Dragons official site, partnership page (2026-27 club partners)",
+          "date": "2026",
+          "url": "https://hc-dragons.com/partnership/",
+          "quote": "Партнеры ХК «Шанхай Дрэгонс» сезона 2026-2027",
+          "note": "Moya Stikhiya (моястихия.рф) is listed under this heading with the label «Официальный партнер»; the partner appears as a logo linking to its site. The page itself is undated.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "domina",
+        "placement": "partner",
+        "source": {
+          "name": "Shanghai Dragons official site, partnership page (2026-27 club partners)",
+          "date": "2026",
+          "url": "https://hc-dragons.com/partnership/",
+          "quote": "Партнеры ХК «Шанхай Дрэгонс» сезона 2026-2027",
+          "note": "Domina (spb.dominarussia.com, Domina Pulkovo) is listed under this heading with the label «Официальный партнер». The page itself is undated.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "synergetic",
+        "placement": "partner",
+        "source": {
+          "name": "Shanghai Dragons official site, partnership page (2026-27 club partners)",
+          "date": "2026",
+          "url": "https://hc-dragons.com/partnership/",
+          "quote": "Партнеры ХК «Шанхай Дрэгонс» сезона 2026-2027",
+          "note": "Synergetic (synergetic.ru) is listed under this heading with the label «Официальный партнер». The page itself is undated.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "sprts",
+        "placement": "partner",
+        "source": {
+          "name": "Shanghai Dragons official site, partnership page (2026-27 club partners)",
+          "date": "2026",
+          "url": "https://hc-dragons.com/partnership/",
+          "quote": "Партнеры ХК «Шанхай Дрэгонс» сезона 2026-2027",
+          "note": "sprts.cc is listed under this heading with the label «Информационный партнер»; the listed link sprts.cc/dragons returned HTTP 404 when checked on 2026-10-03.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "galeria",
+        "placement": "partner",
+        "source": {
+          "name": "Shanghai Dragons official site, partnership page (2026-27 club partners)",
+          "date": "2026",
+          "url": "https://hc-dragons.com/partnership/",
+          "quote": "Партнеры ХК «Шанхай Дрэгонс» сезона 2026-2027",
+          "note": "Listed under this heading with the label «Официальный партнер»; the logo links to galeria.spb.ru (Galeria shopping centre, St Petersburg) and the logo file is named 'logotip_gorizont'. The page itself is undated.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "therabody",
+        "placement": "partner",
+        "source": {
+          "name": "Shanghai Dragons official site, partnership page (2026-27 club partners)",
+          "date": "2026",
+          "url": "https://hc-dragons.com/partnership/",
+          "quote": "Партнеры ХК «Шанхай Дрэгонс» сезона 2026-2027",
+          "note": "Therabody (theragunrussia.ru) is listed under this heading with the label «Официальный партнер по восстановлению» (official recovery partner). The page itself is undated.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "love-radio",
+        "placement": "partner",
+        "source": {
+          "name": "Shanghai Dragons official site, partnership page (2026-27 club partners)",
+          "date": "2026",
+          "url": "https://hc-dragons.com/partnership/",
+          "quote": "Партнеры ХК «Шанхай Дрэгонс» сезона 2026-2027",
+          "note": "Love Radio (loveradio.ru) is listed under this heading with the label «Информационный партнер» (information partner). The page itself is undated.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
     "sponsorsComplete": false,
-    "summary": "2026-27 home kit. No sponsor placement documented on a source we could open; the club's official site was unreachable or carried no partner data.",
+    "summary": "2026-27 home kit. Eight club partners per the club's own partnership page: Liga Stavok (premium partner, whose logo Stavki.ru reports is already on the kit), Moya Stikhiya, Domina, Synergetic, sprts.cc, Galeria, Therabody and Love Radio. No front-of-shirt or other named jersey placement is documented from a reachable source; KHL league partners (Fonbet, SOGAZ, T-Bank etc.) sit in data/deals/khl-*.",
     "change": null
   },
   {
@@ -29897,15 +30636,50 @@
         "sponsorId": "compass-minerals",
         "placement": "front",
         "source": {
-          "name": "FOR SOCCER",
-          "date": "2026-02-17",
-          "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          "name": "SportingKC.com: 'Sporting KC announces Compass Minerals as new jersey front partner'",
+          "date": "2022-02",
+          "url": "https://www.sportingkc.com/news/sporting-kc-announces-compass-minerals-as-new-jersey-front-partner",
+          "quote": "Compass Minerals’ logo will now be prominently displayed on the front of all Sporting Kansas City jerseys from the start of the 2022 Major League Soccer season",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Club announcement; the page renders no date, but the same sentence runs 'until the end of 2028' and the embedded Compass Minerals post is dated February 10, 2022. For Soccer's 2026 MLS jersey-sponsor survey (2026-02-17) confirms Compass Minerals as SKC's front partner for 2026."
+        }
+      },
+      {
+        "sponsorId": "saint-lukes-health-system",
+        "placement": "sleeve",
+        "source": {
+          "name": "SportingKC.com: 'Sporting Kansas City and Saint Luke’s team up for new community-affiliated partnership'",
+          "date": "2025-12",
+          "url": "https://www.sportingkc.com/skcii/news/sporting-kansas-city-and-saint-luke-s-team-up-for-new-community-affiliated-partnership",
+          "quote": "The historic Saint Luke’s logo will be proudly worn as a patch on the right sleeve of Sporting KC’s primary and secondary jerseys on gamedays",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          },
+          "note": "Club announcement (syndicated copy in the SKC II section); page renders no date, KSHB/KCTV reported the announcement on Friday 12 December 2025. Applied from the 2026 MLS season."
+        }
+      },
+      {
+        "sponsorId": "apple-tv",
+        "placement": "sleeve",
+        "source": {
+          "name": "SportsLogos.Net: 'MLS to Allow Back-of-Jersey Ads Starting After 2026 All-Star Break'",
+          "date": "2026-03-02",
+          "url": "https://news.sportslogos.net/2026/03/02/mls-to-allow-back-of-jersey-ads-starting-after-2026-all-star-break/soccer/",
+          "quote": "All 30 MLS clubs feature the Apple TV+ logo on the left sleeve patch as part of a league-wide deal.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "change": null,
-    "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    "summary": "Compass Minerals is the front partner under a seven-season deal running to the end of 2028. Saint Luke's took the right-sleeve patch from the 2026 season; the league-wide Apple TV+ patch sits on the left sleeve. No back or shorts sponsor announced."
   },
   {
     "id": "st-louis-cardinals-2026-27-home",
@@ -32999,9 +33773,145 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
+    "sponsors": [
+      {
+        "sponsorId": "vitaldin",
+        "placement": "front",
+        "source": {
+          "name": "2Playbook: 'Valencia Basket renueva a Vitaldin hasta 2029 y lo eleva al frontal de la camiseta'",
+          "date": "2026-08-18",
+          "url": "https://www.2playbook.com/patrocinio/valencia-basket-renueva-vitaldin-hasta-2029-situa-en-frontal-camiseta_23328_102.html",
+          "quote": "el logo de Vitaldin lucirá en el frontal de las camisetas de los dos primeros equipos",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Club home-kit launch (29 Jul 2026) also says Vitaldin is 'en el frontal'. Renewal to 2028-29 covers 2026-27."
+        }
+      },
+      {
+        "sponsorId": "pamesa-ceramica",
+        "placement": "back",
+        "source": {
+          "name": "ACB: 'Senzillament Taronja y homenaje a los orígenes en las nuevas equipaciones'",
+          "date": "2023-07-06",
+          "url": "https://acb.com/es/liga/noticias/senzillament-taronja-y-homenaje-a-los-origenes-en-las-nuevas-equipaciones-138754",
+          "quote": "Pamesa y Vitaldin lucirán en la espalda del primer equipo masculino",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Placement documented for the 2023-24 launch; the club still lists Pamesa on the men's 2026-27 kit (home-kit launch, 29 Jul 2026, https://www.valenciabasket.com/en/valencia-basket-and-hummel-launch-the-home-kit-for-the-26-27-season) but does not restate the position. Vitaldin has since moved from the back to the front."
+        }
+      },
+      {
+        "sponsorId": "puleva",
+        "placement": "shorts",
+        "source": {
+          "name": "2Playbook: 'El Valencia Basket renueva su patrocinio con Puleva para las dos próximas temporadas'",
+          "date": "2026-07-17",
+          "url": "https://www.2playbook.com/patrocinio/valencia-basket-renueva-su-patrocinio-con-puleva-dos-proximas-temporadas_23019_102.html",
+          "quote": "la empresa granadina lucirá en el pantalón de los primeros equipos del club",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Two-season renewal to 2027-28 covers 2026-27."
+        }
+      },
+      {
+        "sponsorId": "mgs-seguros",
+        "placement": "shorts",
+        "source": {
+          "name": "Valencia Basket: 'MGS Seguros se convierte en patrocinador del Valencia Basket'",
+          "date": "2025-07-10",
+          "url": "https://www.valenciabasket.com/mgs-seguros-se-convierte-en-patrocinador-del-valencia-basket",
+          "quote": "la imagen de MGS estará presente en el pantalón de los primeros equipos masculino y femenino",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Three-season deal signed July 2025, on the shorts 'a partir de 2026'."
+        }
+      },
+      {
+        "sponsorId": "panrico",
+        "placement": "back",
+        "source": {
+          "name": "2Playbook: 'El Valencia Basket firma a Vicky Foods hasta 2029 y Panrico estará en la trasera de la camiseta'",
+          "date": "2026-07-24",
+          "url": "https://www.2playbook.com/patrocinio/valencia-basket-firma-vicky-foods-hasta-2029-panrico-tendra-presencia-en-equipacion_23078_102.html",
+          "quote": "Panrico tendrá presencia en la trasera de la camiseta del equipo masculino en la ACB",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Men's ACB games; the same article puts Fundación Vicky Foods on the EuroLeague chest."
+        }
+      },
+      {
+        "sponsorId": "vicky-foods-foundation",
+        "placement": "front",
+        "source": {
+          "name": "2Playbook: 'El Valencia Basket firma a Vicky Foods hasta 2029 y Panrico estará en la trasera de la camiseta'",
+          "date": "2026-07-24",
+          "url": "https://www.2playbook.com/patrocinio/valencia-basket-firma-vicky-foods-hasta-2029-panrico-tendra-presencia-en-equipacion_23078_102.html",
+          "quote": "la Fundación Vicky Foods tendrá visibilidad en el pecho de la camiseta en los partidos de Euroliga",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "EuroLeague games only, on the chest; the club also lists Fundación Vicky Foods on the men's kit (second-kit launch, 18 Aug 2026)."
+        }
+      },
+      {
+        "sponsorId": "midea",
+        "placement": "shorts",
+        "source": {
+          "name": "ACB: 'Senzillament Taronja y homenaje a los orígenes en las nuevas equipaciones'",
+          "date": "2023-07-06",
+          "url": "https://acb.com/es/liga/noticias/senzillament-taronja-y-homenaje-a-los-origenes-en-las-nuevas-equipaciones-138754",
+          "quote": "Midea tendrá su espacio en los pantalones junto a Puleva",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Placement documented for the 2023-24 launch. The home-kit launch (29 Jul 2026, https://www.valenciabasket.com/en/valencia-basket-and-hummel-launch-the-home-kit-for-the-26-27-season) still lists Midea on the men's kit; the second-kit article (18 Aug 2026) lists it only with the women's kit. Disagreement flagged in the pull request."
+        }
+      },
+      {
+        "sponsorId": "hummel",
+        "placement": "partner",
+        "source": {
+          "name": "Valencia Basket: 'Valencia Basket and hummel launch the home kit for the 26-27 season'",
+          "date": "2026-07-29",
+          "url": "https://www.valenciabasket.com/en/valencia-basket-and-hummel-launch-the-home-kit-for-the-26-27-season",
+          "quote": "the presence of the kit manufacturer, hummel",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Kit maker, second season with the club."
+        }
+      },
+      {
+        "sponsorId": "caixa-popular",
+        "placement": "training-kit",
+        "source": {
+          "name": "Valencia Basket: 'Valencia Basket and hummel launch the home kit for the 26-27 season'",
+          "date": "2026-07-29",
+          "url": "https://www.valenciabasket.com/en/valencia-basket-and-hummel-launch-the-home-kit-for-the-26-27-season",
+          "quote": "Caixa Popular is once again backing the warm-up jersey",
+          "checked": {
+            "on": "2026-10-02",
+            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Warm-up shirt, not the game jersey."
+        }
+      }
+    ],
     "sponsorsComplete": false,
-    "summary": null,
+    "summary": "Men's 2026/27 'Origen' home kit: Vitaldin on the front (first front sponsor since 2010), Pamesa and Panrico on the back (Panrico in ACB games, Fundación Vicky Foods on the EuroLeague chest), Puleva, MGS Seguros and Midea on the shorts, hummel as kit maker, Caixa Popular on the warm-up shirt. The club's home-kit launch (29 Jul 2026) and second-kit article (18 Aug 2026) disagree on Midea (men's list vs women's only), and the Pamesa/Midea positions are documented from the 2023-24 launch rather than restated for 2026-27, so the list is not marked complete. Coca-Cola, a club 'Platinum' partner, is not named among the 2026/27 kit sponsors.",
     "change": null
   },
   {
@@ -34183,6 +35093,36 @@
     ],
     "sponsorsComplete": false,
     "summary": "2026 UCI WorldTeam. XDS Astana Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "yunnan-yukun-2026-home",
+    "clubId": "yunnan-yukun",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "Footy Headlines: 2026 Chinese Super League Kits - All Releases So Far",
+          "date": "2026-01-28",
+          "url": "https://www.footyheadlines.com/2026/01/2026-csl-kits.html",
+          "quote": "Nike has officially unveiled the 2026 Home Kits for all 16 teams competing in the Chinese Super League (CSL).",
+          "note": "Kit maker, not a shirt-sponsor placement; listed as partner per the convention for kit suppliers. The article has its own 'Yunnan Yukun' section showing the 2026 home kit. The club's launch was reported on 2026-01-28 by Sohu (都市时报, https://www.sohu.com/a/981123066_120815119), crediting the club (来源：云南玉昆足球俱乐部): '2026赛季云南玉昆NIKE主场球衣正式发布！' — its images show the retail shirt carrying no sponsor branding.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 home kit (Nike, launched 28 January 2026). No commercial front sponsor: the club published a 2026-season partnership brochure in December 2025 valuing the naming-rights package, which included front-of-shirt advertising, at 30 million yuan, but Tencent News' survey of all 16 CSL clubs' 2026 chest advertisements (17 March 2026, https://view.inews.qq.com/a/20260317A0862Q00) states the shirt front still shows only the club's own name 「云南玉昆」. No 2026 sleeve, back or shorts sponsor is named in any source that could be opened (footballkitarchive.com returns 403 to scripts; kitstown has no 2026 page for the club), so the list is not marked complete.",
     "change": null
   },
   {
