@@ -1585,6 +1585,26 @@
     "reviewed": false
   },
   {
+    "id": "alphabet-inc-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "alphabet-inc"
+    ],
+    "text": "In Alphabet Inc.'s 2026 proxy statement, the 'Other > 5% Security Holders' table lists only BlackRock, Inc., with 6.1% of Class A common stock (2.5% of total voting power); co-founders Larry Page and Sergey Brin hold 46.5% and 42.9% of Class B common stock, representing 27.4% and 25.3% of total voting power. The proxy notes Vanguard disaggregated its holdings reporting in January 2026 and that Alphabet does not know whether any single Vanguard subsidiary exceeds 5%.",
+    "short": "Alphabet's 2026 proxy lists BlackRock (6.1% of Class A) as its only >5% outside holder; founders control the Class B votes.",
+    "source": {
+      "name": "Alphabet Inc. 2026 Proxy Statement (DEF 14A, SEC EDGAR)",
+      "date": "2026-04-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog-20260424.htm",
+      "quote": "Other > 5% Security Holders (7) BlackRock, Inc. (8) 356,934,964 6.1",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "alpine-renault-group-brand",
     "kind": "ownership",
     "ownerIds": [
@@ -2164,6 +2184,26 @@
     "reviewed": false
   },
   {
+    "id": "apollo-io-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "apollo-io"
+    ],
+    "text": "Apollo.io is a venture-capital-backed go-to-market software company based in San Francisco. In August 2023 it raised $100M in Series D funding led by Bain Capital Ventures, with participation from existing investors Sequoia Capital, Tribe Capital and Nexus Venture Partners.",
+    "short": "Apollo.io: VC-backed (Bain Capital Ventures, Sequoia, Tribe, Nexus).",
+    "source": {
+      "name": "Apollo.io Magazine – 'Apollo.io Secures $100 Million Series D at $1.6B Valuation to Drive World-Class GTM'",
+      "date": "2023-08-29",
+      "url": "https://www.apollo.io/magazine/apolloio-secures-100-million-series-d-at-16b-valuation-to-drive-world-class-gtm",
+      "quote": "raised $100M in Series D funding led by Bain Capital Ventures (BCV), with participation from existing investors Sequoia Capital, Tribe Capital, and Nexus Venture Partners",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "apple-inc-record",
     "kind": "ownership",
     "ownerIds": [
@@ -2455,6 +2495,46 @@
       "checked": {
         "on": "2026-09-28",
         "by": "Schnitzel"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "artemis-technologies-percy-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "iain-percy"
+    ],
+    "text": "Iain Percy is a person with significant control of Artemis Technologies Ltd, with ownership of shares of more than 25% but not more than 50% and the same share of voting rights.",
+    "short": "Iain Percy holds more than 25% (up to 50%) of the shares and voting rights of Artemis Technologies Ltd.",
+    "source": {
+      "name": "Companies House: ARTEMIS TECHNOLOGIES LTD (09412785) – Persons with significant control",
+      "date": "2026",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/09412785/persons-with-significant-control",
+      "quote": "Ownership of shares – More than 25% but not more than 50%",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "artemis-technologies-tornqvist-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "torbjorn-tornqvist"
+    ],
+    "text": "Torbjörn Törnqvist is a person with significant control of Artemis Technologies Ltd, with significant influence or control.",
+    "short": "Torbjörn Törnqvist has significant influence or control over Artemis Technologies Ltd.",
+    "source": {
+      "name": "Companies House: ARTEMIS TECHNOLOGIES LTD (09412785) – Persons with significant control",
+      "date": "2026",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/09412785/persons-with-significant-control",
+      "quote": "Has significant influence or control",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -5888,6 +5968,60 @@
     "reviewed": false
   },
   {
+    "id": "caixa-popular-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "caixa-popular"
+    ],
+    "text": "Caixa Popular is a Valencian cooperative bank whose owners are its own employees.",
+    "short": "Caixa Popular is a cooperative bank owned by its own employees.",
+    "source": {
+      "name": "Caixa Popular: 'Quiénes somos / Sobre la entidad'",
+      "date": "2026",
+      "url": "https://www.caixapopular.es/es/particulares/sobre-entidad",
+      "quote": "En Caixa Popular, los propietarios somos los mismos compañeros y compañeras de trabajo",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "canterbury-pentland-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "pentland-group"
+    ],
+    "text": "Pentland Group describes itself as 'a family business building and delivering positive brands in sports, outdoor and fashion'; its Pentland Brands arm owns Canterbury ('It owns Speedo, Berghaus, Canterbury, Endura, ellesse, SeaVees, Red Or Dead and Mitre'). Bailiwick Express, reporting The Sunday Times, describes Pentland Group as 'owned by the billionaire Rubins family'.",
+    "short": "Canterbury is owned by Pentland Brands, part of Pentland Group, a family business owned by the Rubin family.",
+    "source": {
+      "name": "Pentland Group: About Us",
+      "date": "2026",
+      "url": "https://pentlandgroup.com/about-us/",
+      "quote": "It owns Speedo, Berghaus, Canterbury, Endura, ellesse, SeaVees, Red Or Dead and Mitre.",
+      "note": "Undated page; year date per repo convention. The same page describes Pentland Group as 'a family business building and delivering positive brands in sports, outdoor and fashion' and says Pentland Group holds a 51.89% share in JD Sports Fashion plc.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Bailiwick Express: Billionaire sports empire family move £518m to Jersey",
+        "date": "2023-02-20",
+        "url": "https://www.bailiwickexpress.com/news/one-uks-richest-families-moves-518m-jersey-says-media-report/",
+        "quote": "The Sunday Times says UK-based Pentland Group – owned by the billionaire Rubins family – was demerged last October into two Jersey entities.",
+        "note": "Named news outlet (Jersey), reporting The Sunday Times. The same article says: 'The privately owned Pentland Group is chaired by Stephen Rubin OBE, whose father founded the firm in Liverpool in 1932.'",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-scout (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "canyon-gbl-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -7607,8 +7741,8 @@
     "ownerIds": [
       "compass-minerals"
     ],
-    "text": "Compass Minerals International, Inc. (NYSE: CMP) is a US-listed salt and plant-nutrition miner with no state shareholder. Its register does contain one large private block - Koch Industries holds about 16.8% through KMT Investment Holdings - but Koch is a family-owned private company, not a state, so the tier stays none. Human-rights relevance is mining, water and permitting conduct (its lithium and salt operations consume significant water).",
-    "short": "Compass Minerals International, Inc.",
+    "text": "Compass Minerals International, Inc. (NYSE: CMP) is a US-listed salt and plant-nutrition miner. Its 5% stockholders table lists Koch Industries, Inc. at 16.81% (7,034,609 shares); the Schedule 13D/A reports that beneficial owner subsidiaries of the parent holding company are KM&T Investment Holdings, LLC, Koch Minerals & Trading, LLC and Koch Solutions, LLC.",
+    "short": "Compass Minerals International, Inc. (NYSE: CMP); Koch Industries holds 16.81%.",
     "source": {
       "name": "Compass Minerals International, Inc. DEF 14A 2026, '5% Stockholders' (SEC)",
       "date": "2026-01-23",
@@ -9407,6 +9541,59 @@
         "checked": {
           "on": "2026-09-30",
           "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "dude-products-founders-control",
+    "kind": "ownership",
+    "ownerIds": [
+      "dude-products-inc"
+    ],
+    "text": "DUDE Products, maker of DUDE Wipes, is headquartered in Chicago. After a strategic growth investment from private equity firm TSG Consumer Partners announced in June 2025, founders Sean Riley (CEO), Jeff Klimkowski (CFO) and Ryan Meegan (CMO) retain significant ownership stakes and continue to lead the company in their current executive roles.",
+    "short": "DUDE Products: Chicago; founders retain significant stakes and lead the company; TSG Consumer invested 2025.",
+    "source": {
+      "name": "TSG Consumer – 'DUDE Wipes Secures Strategic Growth Investment from TSG Consumer'",
+      "date": "2025-06-23",
+      "url": "https://www.tsgconsumer.com/news/dude-wipes-secures-strategic-growth-investment-from-tsg-consumer",
+      "quote": "Founders Sean Riley, Chief Executive Officer, Jeff Klimkowski, Chief Financial Officer, and Ryan Meegan, Chief Marketing Officer, will retain significant ownership stakes",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "dude-products-mark-cuban-stake",
+    "kind": "ownership",
+    "ownerIds": [
+      "dude-products-inc"
+    ],
+    "text": "Mark Cuban invested in DUDE Products after its founders appeared on ABC's Shark Tank in 2015, and TSG Consumer's June 2025 investment announcement describes the long-time Shark Tank investor as continuing to back the company.",
+    "short": "Mark Cuban: DUDE Products investor since Shark Tank (2015).",
+    "source": {
+      "name": "San Jose Earthquakes – 'San Jose Earthquakes and DUDE Wipes Announce Official Back-of-Jersey Partnership' (About DUDE Wipes)",
+      "date": "2026-07-31",
+      "url": "https://www.sjearthquakes.com/news/san-jose-earthquakes-and-dude-wipes-announce-official-back-of-jersey-partnership",
+      "quote": "In 2015, DUDE Products appeared on ABC's show Shark Tank, where they received an investment deal from Mark Cuban",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "TSG Consumer's own 23 June 2025 release says 'Long time Shark Tank investor Mark Cuban is also continuing to bet on the DUDEs'."
+    },
+    "additionalSources": [
+      {
+        "name": "TSG Consumer – 'DUDE Wipes Secures Strategic Growth Investment from TSG Consumer'",
+        "date": "2025-06-23",
+        "url": "https://www.tsgconsumer.com/news/dude-wipes-secures-strategic-growth-investment-from-tsg-consumer",
+        "quote": "Long time “Shark Tank” investor Mark Cuban is also continuing to bet on the DUDEs through this next phase of growth.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (OpenCode, model glm-5.3-flash, run by @Schnitzel)"
         }
       }
     ],
@@ -12534,6 +12721,26 @@
     "reviewed": false
   },
   {
+    "id": "glasurit-basf-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "basf-se"
+    ],
+    "text": "Glasurit is the premium refinish paint brand of BASF Coatings.",
+    "short": "Glasurit is a BASF Coatings brand.",
+    "source": {
+      "name": "Audi Revolut F1 Team – Glasurit becomes exclusive paint supplier of Audi Revolut F1 Team for 2026 debut",
+      "date": "2026-03-05",
+      "url": "https://contenthub.audif1.com/en/releases/glasurit-becomes-exclusive-paint-supplier-of-audi-revolut-f1-team-for-2026-debut-151",
+      "quote": "the premium refinish paint brand of BASF Coatings",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "glenfiddich-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -13305,6 +13512,26 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "grupo-mercadalia-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "grupo-mercadalia"
+    ],
+    "text": "Vitaldin is a brand of Boston Nutraceutical Science, which forms part of Mercadalia, a Spanish industrial group; Vitaldin is a registered trademark of Boston Nutraceutical Science S.L. (BNS).",
+    "short": "Vitaldin is a brand of Boston Nutraceutical Science, part of the Spanish group Mercadalia.",
+    "source": {
+      "name": "Vitaldin: 'Quiénes somos' (vitaldin.com/conocenos.html)",
+      "date": "2026",
+      "url": "https://www.vitaldin.com/conocenos.html",
+      "quote": "Vitaldin (Boston Nutraceutical Science) forma parte de Mercadalia, un grupo industrial español resultado de una larga trayectoria empresarial",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -14819,6 +15046,26 @@
     "reviewed": false
   },
   {
+    "id": "hsbc-holdings-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "hsbc-holdings"
+    ],
+    "text": "The HSBC brand belongs to the HSBC Group, whose principal holding company, HSBC Holdings plc, is a public limited company incorporated in England, headquartered in London and listed on the London, Hong Kong, New York and Bermuda stock exchanges.",
+    "short": "HSBC is the brand of HSBC Holdings plc, a listed UK company.",
+    "source": {
+      "name": "HSBC: Investors — Group structure",
+      "date": "2026",
+      "url": "https://www.hsbc.com/investors/investing-in-hsbc/group-structure",
+      "quote": "Our principal holding company, HSBC Holdings plc, is a public limited company incorporated in England.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "huayuan-securities-state-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -15035,6 +15282,27 @@
     "reviewed": false
   },
   {
+    "id": "hunting-ao-aktiv-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "ao-aktiv"
+    ],
+    "text": "АО «Актив» has been the sole participant of ООО «Хантинг» since 21 September 2026, holding 100% of its capital.",
+    "short": "АО «Актив» owns 100% of ООО «Хантинг»",
+    "source": {
+      "name": "Checko: ООО \"ХАНТИНГ\" (EGRUL data), company page",
+      "date": "2026-10-03",
+      "url": "https://checko.ru/company/hanting-1053302127889",
+      "quote": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АКТИВ\" ОГРН 1267700178514 с 21 сентября 2026 г. 10 тыс. руб. 100%",
+      "note": "Founders-table row of the Checko page: АКЦИОНЕРНОЕ ОБЩЕСТВО \"АКТИВ\" (ОГРН 1267700178514) has been the participant since 21 September 2026, with 'Доля капитала' 100% (10 тыс. руб. of a 10,000-ruble capital). The page's history (21.09.2026) records ООО «ДИДЖИКО» removed as participant the same day. Checko's page for АО \"АКТИВ\" (checko.ru/company/1267700178514, opened 2026-10-03) says the JSC was registered 25 May 2026 in Moscow (activity: management of holding companies) and shows 'Нет сведений об учредителях' (no data on its founders/shareholders). Page data is from the EGRUL and updated daily; the dates given are the dates the pages were opened.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "huntington-national-bank-huntington-bancshares-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -15172,6 +15440,26 @@
       "checked": {
         "on": "2026-10-01",
         "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "ic-berlin-marcolin-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "marcolin-spa"
+    ],
+    "text": "ic! berlin is a Marcolin-owned German eyewear brand.",
+    "short": "ic! berlin is a Marcolin-owned brand.",
+    "source": {
+      "name": "Audi Revolut F1 Team – Partners",
+      "date": "2026-10-01",
+      "url": "https://www.audif1.com/en/partners",
+      "quote": "The Marcolin-owned German brand creates eyewear",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -16658,6 +16946,26 @@
     "reviewed": false
   },
   {
+    "id": "kalshi-inc-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "kalshi-inc"
+    ],
+    "text": "Kalshi is a prediction-market company; its own May 2026 announcement names Tarek Mansour as co-founder and CEO, and states that its $1 billion Series F round at a $22 billion valuation was led by Coatue, with participation from Sequoia Capital, Andreessen Horowitz, IVP, Paradigm, Morgan Stanley and ARK Invest.",
+    "short": "Kalshi's announced $1bn Series F (May 2026) was led by Coatue, with Sequoia Capital, Andreessen Horowitz, IVP, Paradigm, Morgan Stanley and ARK Invest; Tarek Mansour is co-founder and CEO.",
+    "source": {
+      "name": "Kalshi News: 'Kalshi Raises $1 Billion at a $22 Billion Valuation as Institutional Adoption Accelerates'",
+      "date": "2026-05-07",
+      "url": "https://news.kalshi.com/p/kalshi-raises-1-billion-22-billion-valuation-institutional-demand-surges",
+      "quote": "announced a $1 billion Series F round at a $22 billion valuation, led by Coatue, with participation from Sequoia Capital, Andreessen Horowitz, IVP, Paradigm, Morgan Stanley, and ARK Invest",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "karhu-holding-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -17511,6 +17819,26 @@
     "reviewed": false
   },
   {
+    "id": "lactalis-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "lactalis"
+    ],
+    "text": "Puleva is part of Lactalis and is the flagship brand of Lactalis Puleva, Lactalis's milk and drinks unit based in Granada.",
+    "short": "Puleva is part of Lactalis and the flagship brand of its Lactalis Puleva unit.",
+    "source": {
+      "name": "Lactalis España: 'Nuestras marcas' (FAQ: ¿Puleva pertenece a Lactalis?)",
+      "date": "2026",
+      "url": "https://www.lactalis.es/conocenos/marcas",
+      "quote": "Sí. Puleva forma parte de Lactalis y es la marca más emblemática de Lactalis Puleva, la unidad especializada en leche y bebidas con sede en Granada.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "laoshan-beer-tsingtao-brand",
     "kind": "ownership",
     "ownerIds": [
@@ -18274,6 +18602,27 @@
       "checked": {
         "on": "2026-10-01",
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "love-radio-krutoy-media-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "krutoy-media"
+    ],
+    "text": "Love Radio is one of the national radio networks united by the Krutoy Media radio holding.",
+    "short": "Love Radio belongs to the Krutoy Media holding",
+    "source": {
+      "name": "Krutoy Media official site: О холдинге (About the holding)",
+      "date": "2026",
+      "url": "https://krutoymedia.ru/about/",
+      "quote": "Krutoy Media объединяет национальные радиовещательные сети Love Radio, «Радио Дача», «Радио Шансон»",
+      "note": "The page itself is undated; the site footer says © 2012–2026. The holding's own owners are not named on the page.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -20365,6 +20714,27 @@
     "reviewed": false
   },
   {
+    "id": "moya-stihiya-hunting-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "hunting-llc"
+    ],
+    "text": "Moya Stikhiya bottled mineral water is produced by ООО «Хантинг» (Hunting LLC).",
+    "short": "Moya Stikhiya water is produced by ООО «Хантинг»",
+    "source": {
+      "name": "TAdviser: Моя стихия (Хантинг), company page",
+      "date": "2025-11-17",
+      "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F:%D0%9C%D0%BE%D1%8F_%D1%81%D1%82%D0%B8%D1%85%D0%B8%D1%8F_(%D0%A5%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%B3)",
+      "quote": "Основным видом деятельности компании ООО «Хантинг» (вода «Моя Стихия») является производство безалкогольных напитков; производство упакованных питьевых вод, включая минеральные воды.",
+      "note": "2025-11-17 is the page's datePublished in its structured metadata. The sentence continues: '...упакованных питьевых вод, включая минеральные воды' (packaged drinking waters, including mineral waters).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "mozzart-individual-owners",
     "kind": "ownership",
     "ownerIds": [
@@ -20855,8 +21225,8 @@
     "ownerIds": [
       "koch-family-buffalo"
     ],
-    "text": "New Era Cap is controlled by its founding family, the Koch family of Buffalo; private equity firm ACON Investments holds a significant stake.",
-    "short": "New Era is controlled by its founding Koch family",
+    "text": "New Era Cap is controlled by its founding family, the Koch family of Buffalo; private equity firm ACON Investments holds a significant stake. ACON's roughly $700 million continuation fund, closed in August 2022, made Major League Baseball, the National Football League and the National Basketball Association minority owners in New Era Cap.",
+    "short": "New Era is controlled by its founding Koch family; MLB, the NFL and the NBA took minority stakes in 2022.",
     "source": {
       "name": "Yahoo Finance Canada (Reuters) - New Era Cap to acquire '47 in lifestyle brand tie-up, sources say",
       "date": "2024-06-06",
@@ -20873,10 +21243,10 @@
         "name": "ACON Investments - ACON Investments Closes Approximately $700 Million Continuation Fund for New Era Cap, LLC",
         "date": "2022-08-04",
         "url": "https://aconinvestments.com/news/acon-investments-closes-approximately-700-million-continuation-fund-for-new-era-cap-llc",
-        "quote": "New Era Cap will continue to be led by Chris Koch, its fourth-generation CEO, whose great grandfather, Ehrhardt Koch, founded New Era Cap in 1920",
+        "quote": "As part of the transaction, Major League Baseball, the National Football League and the National Basketball Association will become minority owners in New Era Cap",
         "checked": {
-          "on": "2026-10-03",
-          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          "on": "2026-10-04",
+          "by": "btj-scout (OpenCode, model kimi-k3-abliterated, run by @Schnitzel), PR #1090 review"
         }
       },
       {
@@ -22351,6 +22721,26 @@
     "reviewed": false
   },
   {
+    "id": "panrico-vicky-foods-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "vicky-foods"
+    ],
+    "text": "Vicky Foods, a family-owned Spanish food company, has agreed with Adam Foods to acquire the Panrico bakery brand for the Spanish and Portuguese markets.",
+    "short": "Vicky Foods acquired the Panrico bakery brand.",
+    "source": {
+      "name": "Vicky Foods: 'Vicky Foods adquiere Panrico y refuerza su liderazgo en el mercado del pan en Iberia'",
+      "date": "2026-03-17",
+      "url": "https://www.vickyfoods.es/actualidad/vicky-foods-adquiere-panrico",
+      "quote": "ha alcanzado un acuerdo con Adam Foods para la adquisición de la emblemática marca de panadería, Panrico",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "pasifik-holding-record",
     "kind": "ownership",
     "ownerIds": [
@@ -22422,6 +22812,26 @@
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "paulaner-schorghuber-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "schorghuber-unternehmensgruppe"
+    ],
+    "text": "In 1979 the Schörghuber family took over the majority of Paulaner Brewery and maintains that majority to this day.",
+    "short": "Paulaner is majority-owned by the Schörghuber family.",
+    "source": {
+      "name": "Paulaner – Paulaner Brauerei München",
+      "date": "2026-10-01",
+      "url": "https://www.paulaner.com/",
+      "quote": "Schörghuber family takes over the majority of Paulaner Brewery and the entrepreneurial family maintains that majority to this day",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -22596,6 +23006,26 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "pelle-p-ppy-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "ppy-production-ab"
+    ],
+    "text": "The Pelle P website and online store are provided by PPY Production AB, reg. nr 556689-6857, Kungsporten 1C, 427 50 Billdal, Sweden.",
+    "short": "Pelle P's website and online store are provided by PPY Production AB.",
+    "source": {
+      "name": "Pelle P: Terms & Conditions",
+      "date": "2026",
+      "url": "https://www.pellepetterson.com/en-gb/terms-conditions/",
+      "quote": "provides the website and the online store on www.pellepetterson.se and www.pellepetterson.com",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -23594,6 +24024,27 @@
     "reviewed": false
   },
   {
+    "id": "ppy-saelma-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "saelma-co-ab"
+    ],
+    "text": "PPY Production AB belongs to a group; its parent company is Saelma & Co AB.",
+    "short": "PPY Production AB's parent company is Saelma & Co AB.",
+    "source": {
+      "name": "Allabolag: PPY Production AB (org.nr 556689-6857)",
+      "date": "2026",
+      "url": "https://www.allabolag.se/foretag/ppy-production-ab/billdal/kl%C3%A4der/2K2DX3TI5YEZD",
+      "quote": "PPY Production AB ingår i en koncern. Moderbolaget är Saelma & Co AB.",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Translation: 'PPY Production AB is part of a group. The parent company is Saelma & Co AB.' Allabolag cites Bolagsverket and UC AB."
+    },
+    "reviewed": false
+  },
+  {
     "id": "premier-tech-belanger-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -23683,6 +24134,26 @@
       "url": "https://www.milanofinanza.it/news/polizze-ora-prima-assicurazioni-fa-gola-ai-big-202502171848393137",
       "quote": "il top management all'8%, Blackstone e Goldman Sachs rispettivamente al 27% e al 15%, Carlyle al 2%, mentre il restante 48% è nelle mani di Teodoro D'Ambrosio",
       "note": "Translation: the current shareholding sees top management at 8%, Blackstone and Goldman Sachs at 27% and 15% respectively, Carlyle at 2%, and the remaining 48% in the hands of Teodoro D'Ambrosio.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "primo-golf-apparel-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "primo-golf-founders"
+    ],
+    "text": "Primo Golf Apparel is owned by its four founders, cousins Matty Gay, Jason Williamson, Jordan Williamson and Kirk Williamson, together with YouTube golfer Grant Horvat, who became the first owner outside the founding family in March 2024.",
+    "short": "Primo Golf is owned by its four founding cousins and part-owner Grant Horvat",
+    "source": {
+      "name": "DORMIED: Who Owns Primo Golf? Four Cousins, One DM, and Phil Mickelson in Joggers",
+      "date": "2026-07-20",
+      "url": "https://dormied.com/news/primo-golf",
+      "quote": "Primo Golf Apparel is owned by its four founders, cousins Matty Gay, Jason Williamson, Jordan Williamson, and Kirk Williamson, along with YouTube golfer Grant Horvat",
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
@@ -25526,6 +25997,27 @@
     "reviewed": false
   },
   {
+    "id": "rmk-ownership-2023",
+    "kind": "ownership",
+    "ownerIds": [
+      "russian-copper-company-limited"
+    ],
+    "text": "After Igor Altushkin, former chairman of RMK's board of directors, exited the ownership on 14 June 2023, RMK's redomiciled parent company Russian Copper Company Limited is owned 34% by RMK president Vsevolod Levin, 33% by Roman Gorokhov, and 3% by Igor Kozhukhov, who also became the owner of Torivent Ventures Limited, holder of 30%.",
+    "short": "RMK parent owned by Levin 34%, Gorokhov 33%, Kozhukhov 3% plus Torivent's 30% (Interfax).",
+    "source": {
+      "name": "Interfax: Алтушкин вышел из числа владельцев редомицилированной в РФ материнской компании РМК",
+      "date": "2023-06-16",
+      "url": "https://www.interfax.ru/business/906780",
+      "note": "Translation of quote: 'Since 14 June, Levin owns 34% of Russian Copper Company Limited; another 3% is owned by Igor Kozhukhov.' The same article states Roman Gorokhov holds 33% and that Kozhukhov became the new owner of Torivent Ventures Limited (30%).",
+      "quote": "С 14 июня Левину в \"Рашн Коппер Компани Лимитед\" принадлежит 34%, еще 3% владеет Игорь Кожухов.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "robinhood-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -25744,6 +26236,39 @@
     "reviewed": false
   },
   {
+    "id": "rsk-group-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "alan-ryder"
+    ],
+    "text": "RSK Group Limited's only active person with significant control is Alan Ryder Investments Limited, with more than 25% but not more than 50% of its shares and voting rights; Alan Ryder Investments Limited's only active person with significant control is RSK founder and chief executive Dr Alasdair Alan Ryder, with 75% or more of its shares and voting rights.",
+    "source": {
+      "name": "Companies House: RSK GROUP LIMITED persons with significant control",
+      "date": "2026",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/03761340/persons-with-significant-control",
+      "quote": "Nature of control Ownership of shares – More than 25% but not more than 50%",
+      "note": "The page lists Alan Ryder Investments Limited as RSK Group Limited's only active person with significant control, with this nature of control over both shares and voting rights.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Companies House: ALAN RYDER INVESTMENTS LIMITED persons with significant control",
+        "date": "2026",
+        "url": "https://find-and-update.company-information.service.gov.uk/company/04487141/persons-with-significant-control",
+        "quote": "Nature of control Ownership of shares – 75% or more",
+        "note": "The page lists Dr Alasdair Alan Ryder as Alan Ryder Investments Limited's only active person with significant control, with 75% or more of shares and voting rights. RSK's own site identifies Alan Ryder as 'RSK founder, Chief Executive Officer' (rskgroup.com/news/rsk-group-and-charlton-athletic-renew-partnership/).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "rssb-established-by-law",
     "kind": "ownership",
     "ownerIds": [
@@ -25889,6 +26414,40 @@
         "checked": {
           "on": "2026-09-26",
           "by": "source-audit-2026-09-26"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "rvb-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "rvb"
+    ],
+    "text": "Wildberries LLC and the Russ outdoor-advertising group combined their assets in the joint venture RVB LLC, registered in July 2024: 65% of RVB belongs to Wildberries LLC — whose sole owner has been Tatyana Kim since December 2025 — and 35% to Stinn LLC, a company linked to Russ Outdoor.",
+    "short": "RVB LLC (Wildberries & Russ) is 65% Wildberries LLC (sole owner Tatyana Kim) and 35% Stinn LLC (Russ group).",
+    "source": {
+      "name": "RB.RU: Владислав Бакальчук продал свою долю в 1% в Wildberries: компания перешла под полный контроль Татьяны Ким",
+      "date": "2025-12-11",
+      "url": "https://rb.ru/news/vladislav-bakalchuk-prodal-svoyu-dolyu-v-1-v-wildberries-kompaniya-pereshla-pod-polnyj-kontrol-tatyany-kim/",
+      "quote": "В июле было зарегистрировано совместное предприятие «РВБ», где 65% принадлежит ООО «Вайлдберриз», а 35% — компании «Стинн», связанной с Russ Outdoor.",
+      "note": "The same article also says Tatyana Kim became Wildberries' sole owner after Vladislav Bakalchuk's 1% passed to her: «Теперь же она стала единственным собственником Wildberries, получив полный контроль над компанией» (verbatim).",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Vedomosti: Бакальчук и Мирзоян объяснили объединение Wildberries и Russ",
+        "date": "2024-08-10",
+        "url": "https://www.vedomosti.ru/business/news/2024/08/10/1054987-bakalchuk-mirzoyan-obyasnili",
+        "quote": "В СП 65% принадлежит ООО «Вайлдберриз» (основное юрлицо маркетплейса), а 35% – ООО «Стинн» (одно из основных юрлиц ГК Russ).",
+        "note": "In the joint venture, 65% belongs to Wildberries LLC (the marketplace's main legal entity) and 35% to Stinn LLC (one of the main legal entities of the Russ group).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
         }
       }
     ],
@@ -26171,6 +26730,27 @@
     "reviewed": false
   },
   {
+    "id": "saint-lukes-health-system-part-of-bjc-health",
+    "kind": "ownership",
+    "ownerIds": [
+      "bjc-health"
+    ],
+    "text": "Saint Luke's Health System serves the West Region of BJC Health, described by Sporting Kansas City as one of the largest nonprofit health care organizations in the United States.",
+    "short": "Saint Luke's Health System serves the West Region of BJC Health.",
+    "source": {
+      "name": "SportingKC.com: 'Sporting Kansas City and Saint Luke’s team up for new community-affiliated partnership'",
+      "date": "2025-12",
+      "url": "https://www.sportingkc.com/skcii/news/sporting-kansas-city-and-saint-luke-s-team-up-for-new-community-affiliated-partnership",
+      "quote": "Serving the West Region of BJC Health, one of the largest nonprofit health care organizations in the United States",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "From the 'About Saint Luke's' paragraph of the club's partnership announcement; page renders no date."
+    },
+    "reviewed": false
+  },
+  {
     "id": "salesforce-inc-record",
     "kind": "ownership",
     "ownerIds": [
@@ -26187,6 +26767,41 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "samara-government-on-shirt",
+    "kind": "ownership",
+    "ownerIds": [
+      "samara-oblast-government",
+      "russian-federation"
+    ],
+    "text": "PFC Krylia Sovetov's 2026/27 home shirt carries the name 'Правительство Самарской области' — the Government of Samara Oblast, the regional government of this Russian federal subject — on the front.",
+    "short": "Government of Samara Oblast branding on Krylia Sovetov's 2026/27 home shirt.",
+    "source": {
+      "name": "PFC Krylia Sovetov store: Майка игровая темно-синяя Kelme сезон 26/27",
+      "date": "2026",
+      "url": "https://store.pfcks.ru/clothes/t-shirt-1/forma_569.html",
+      "quote": "На майке нанесены логотипы \"Ромб КС\", \"wb\", \"fonbet\", \"Правительство Самарской области\".",
+      "note": "The club store's description of the 2026/27 home ('домашняя') dark-blue shirt names 'Правительство Самарской области' among the logos applied to it. The club's kit-launch photos of 2026-07-23 (https://pfcks.ru/news/novosti_4846.html, e.g. https://pfcks.ru/netcat_files/multifile/464/4846/20260723bb.jpg) show it on the lower front, below the wing graphic.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout (review agent)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Sports.ru: «Крылья Советов» представили форму на сезон-2026/27. Домашний комплект вдохновлен космосом, гостевой – скафандром космонавта",
+        "date": "2026-07-23",
+        "url": "https://www.sports.ru/football/1117309539-krylya-sovetov-predstavili-domashnyuyu-formu-sezona-2026-27-czentralny.html",
+        "quote": "«Крылья Советов» показали форму нового сезона, вдохновленную космосом.",
+        "note": "Sports.ru republishes the club's launch photos (credited t.me/fckssamara_official). The page's text does not name the government — the fact is carried by the photos on the page: the home-shirt photo (https://photobooth.cdn.sports.ru/preset/news/8/a5/0da297c784fd7bc38839391f67df7.jpeg) shows 'ПРАВИТЕЛЬСТВО САМАРСКОЙ ОБЛАСТИ' in white on the lower front, below the wing graphic, as in the club's own launch photos.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (review agent, PR #1189)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -26272,6 +26887,26 @@
         "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       },
       "note": "The page is undated. It returns HTTP 403 to plain scripted requests but loads in a normal browser; the quote was verified against the page text."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "sandmark-sa-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "sandmark-sa"
+    ],
+    "text": "The Sandmark website is owned and operated by Sandmark SA, a company registered in Geneva, Switzerland (CHE-403.942.030).",
+    "short": "Sandmark is owned and operated by Sandmark SA, Geneva.",
+    "source": {
+      "name": "Sandmark: Legal Mention",
+      "date": "2026",
+      "url": "https://www.sandmark.com/legal-mention/",
+      "quote": "The Website is owned and operated by Sandmark SA",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+      }
     },
     "reviewed": false
   },
@@ -28038,6 +28673,39 @@
     "reviewed": false
   },
   {
+    "id": "sofnfree-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "amka-products"
+    ],
+    "text": "Sofnfree is a haircare brand of Amka Products (AMKA), a family-owned beauty and personal care company headquartered in Pretoria, South Africa.",
+    "source": {
+      "name": "AMKA: Sofnfree brand page",
+      "date": "2026",
+      "url": "https://amka.com/amka-brands/sofnfree/",
+      "quote": "Sofnfree hair products are trusted by millions to deliver on shine, moisture and healthy hair",
+      "note": "AMKA's own brand page for Sofnfree (amka.com/amka-brands/sofnfree/, page title 'SofnFree - AMKA'), showing Sofnfree is an AMKA brand.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "AMKA: About Us",
+        "date": "2026",
+        "url": "https://amka.com/about/",
+        "quote": "We’re a family-owned company that truly operates like a family",
+        "note": "AMKA's About page (South Africa address: 14 Ellman Street, Sunderland Ridge, Pretoria) describes the company as family-owned.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "soleo-rp-industries-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -29427,6 +30095,27 @@
     "reviewed": false
   },
   {
+    "id": "synergetic-planet-synergetic-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "planet-synergetic-c-limited"
+    ],
+    "text": "ООО «Синергетик», the Russian company whose website is synergetic.ru, has had Planet Synergetic C Limited (Mauritius, registration number 216186) as its participant since 18 March 2025, holding 100% of its capital.",
+    "short": "Planet Synergetic C Limited (Mauritius) owns 100% of ООО «Синергетик»",
+    "source": {
+      "name": "Checko: ООО \"СИНЕРГЕТИК\" (EGRUL data), company page",
+      "date": "2026-10-03",
+      "url": "https://checko.ru/company/sinergetik-1115257005984",
+      "quote": "ПЛАНЕТА СИНЕРГЕТИК СИ ЛИМИТЕД Маврикий Регистрационный номер 216186 с 18 марта 2025 г. 16,3 тыс. руб. 100%",
+      "note": "Founders-table row of the Checko page: ПЛАНЕТА СИНЕРГЕТИК СИ ЛИМИТЕД (Mauritius, registration number 216186) has been the participant since 18 March 2025, with 'Доля капитала' 100% (16,3 тыс. руб.). The same page lists synergetic.ru among the company's websites. Page data is from the EGRUL and updated daily; the date given is the date the page was opened.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "synopsys-major-holders",
     "kind": "ownership",
     "ownerIds": [
@@ -30306,6 +30995,25 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "todaytix-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "mari"
+    ],
+    "text": "TodayTix Group is owned by MARI, the global events and experiences company founded by Ariel Emanuel, which announced its acquisition of TodayTix Group from private equity firm Great Hill Partners on 20 October 2025.",
+    "source": {
+      "name": "MARI: 'MARI Expands Global Events Portfolio with Acquisition of TodayTix Group'",
+      "date": "2025-10-20",
+      "url": "https://marigrp.com/press/mari-expands-global-events-portfolio",
+      "quote": "MARI, the new global events and experiences company founded by Ariel Emanuel, today announced its acquisition of TodayTix Group",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -31224,6 +31932,69 @@
     "reviewed": false
   },
   {
+    "id": "ummc-makhmudov-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "ummc"
+    ],
+    "text": "Iskander Makhmudov founded and owned Joint Stock Company Ural Mining and Metallurgical Company (UMMC), per the US Treasury's September 2023 Russia-related designations.",
+    "short": "UMMC founded and owned by Iskander Makhmudov (US Treasury).",
+    "source": {
+      "name": "U.S. Department of the Treasury: With Wide-Ranging New Sanctions, Treasury Targets Russian Military-Linked Elites and Industrial Base",
+      "date": "2023-09-14",
+      "url": "https://home.treasury.gov/news/press-releases/jy1731",
+      "quote": "Makhmudov, who founded and owned U.S.-designated Joint Stock Company Ural Mining and Metallurgical Company (UMMC), owns or sits on the board of other Russia-based metals and mining companies",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "underdog-ig-group-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "underdog-sports-holdings",
+      "ig-group-holdings"
+    ],
+    "text": "Underdog is the US daily fantasy sports and prediction markets business of Underdog Sports Holdings, Inc., led by its co-founders Jeremy Levine (Chief Executive Officer) and Brandon Stakenborg (Chief Product Officer). On 30 July 2026, London-listed IG Group Holdings plc announced that it had agreed to acquire Underdog for total consideration of up to approximately $1.3 billion, with completion conditional on regulatory approvals in the United States and clearance under the Hart-Scott-Rodino Act; IG said on 8 September 2026 the acquisition remained subject to regulatory approvals.",
+    "short": "Underdog, led by co-founders Jeremy Levine and Brandon Stakenborg, agreed on 30 July 2026 to be acquired by London-listed IG Group; still subject to US regulatory approvals on 8 September 2026.",
+    "source": {
+      "name": "IG Group: 'Acquisition of Underdog'",
+      "date": "2026-07-30",
+      "url": "https://www.iggroup.com/investor-relations/press-releases/2026/acquisition-of-underdog",
+      "quote": "announces that it has agreed to acquire Underdog (Underdog Sports Holdings, Inc.) (\"Underdog\")",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "IG Group Holdings plc: 'Notice of Underdog investor seminar'",
+        "date": "2026-09-08",
+        "url": "https://www.iggroup.com/investor-relations/press-releases/2026/notice-of-underdog-investor-seminar",
+        "quote": "the US daily fantasy sports and prediction markets business that IG agreed to acquire on 30 July 2026, subject to regulatory approvals",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (OpenCode, model kimi-k3-abliterated, run by @Schnitzel), PR #1090 review"
+        }
+      },
+      {
+        "name": "IG Group Holdings plc RNS PDF: 'Proposed acquisition of Underdog'",
+        "date": "2026-07-30",
+        "url": "https://www.iggroup.com/~/media/Files/I/IG-Group/documents/investors/financial-results/results-reports-and-presentations/2026/rns-acquisition-of-underdog.pdf",
+        "quote": "Underdog is led by its co-founder and Chief Executive Officer, Jeremy Levine, who previously founded DRAFT (acquired by Paddy Power Betfair, now Flutter) and StarStreet (acquired by DraftKings), and co-founder and Chief Product Officer Brandon Stakenborg",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (OpenCode, model kimi-k3-abliterated, run by @Schnitzel), PR #1090 review"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "uney-gmbh-record",
     "kind": "ownership",
     "ownerIds": [
@@ -31515,6 +32286,27 @@
     "reviewed": false
   },
   {
+    "id": "uralmashzavod-uztm-kartex-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "uk-uztm-kartex"
+    ],
+    "text": "UK UZTM-Kartex, the management company of the UZTM-Kartex group including Uralmashzavod whose plants' main shareholder had been Gazprombank since 2016, was sold in majority on 16 March 2022: 51% passed to JSC Enlil Finance and 48.6% is held by the closed mutual fund 'Gazprombank - industrial investments'.",
+    "short": "51% of Uralmashzavod's holding company went to JSC Enlil Finance in March 2022.",
+    "source": {
+      "name": "Коммерсантъ-Урал: Уралмашзавод направит 95% чистой прибыли на погашение убытков прошлых лет",
+      "date": "2022-06-30",
+      "url": "https://www.kommersant.ru/doc/5436314",
+      "note": "Translation of quote: 'On 16 March 2022, 51% of UZTM-Kartex passed to JSC Enlil Finance; a further 48.6% belongs to ZPIF Gazprombank - industrial investments.'",
+      "quote": "16 марта 2022 года 51% УЗТМ-Картэкс перешли АО «Энлиль Файненс», еще 48,6% принадлежат ЗПИФ «Газпромбанк - промышленные инвестиции».",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "ursapharm-arzneimittel-gmbh-record",
     "kind": "ownership",
     "ownerIds": [
@@ -31776,6 +32568,26 @@
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "vicky-foods-foundation-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "vicky-foods"
+    ],
+    "text": "The Fundación Vicky Foods is the foundation through which the Vicky Foods group manages its social action.",
+    "short": "Fundación Vicky Foods is the social-action foundation of the Vicky Foods group.",
+    "source": {
+      "name": "Vicky Foods: 'Vicky Foods adquiere Panrico y refuerza su liderazgo en el mercado del pan en Iberia'",
+      "date": "2026-03-17",
+      "url": "https://www.vickyfoods.es/actualidad/vicky-foods-adquiere-panrico",
+      "quote": "y la Fundación Vicky Foods con la que vertebra la gestión de su acción social, centrándose en la innovación, la cultura y la educación",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -32137,6 +32949,59 @@
         "checked": {
           "on": "2026-09-27",
           "by": "rating-review-2026-09-27"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "vista-global-flohr-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "vista-global",
+      "thomas-flohr"
+    ],
+    "text": "Vista Global's founder and chairman Thomas Flohr held an 84% stake in the company when Bloomberg reported in April 2024 that he was open to selling part of it; Flohr later told CNBC, 'I will always keep the majority of the company.' In March 2025 Vista Global agreed a $600 million equity investment led by RRJ Capital, with Andalusian Private Capital, joining the company's existing investor base.",
+    "short": "Thomas Flohr founded Vista Global, held 84% and says he will keep the majority",
+    "source": {
+      "name": "Private Jet Card Comparisons: VistaJet, XO parent Vista Global signs $600 million investment deal",
+      "date": "2025-03-17",
+      "url": "https://privatejetcardcomparisons.com/2025/03/17/vistajet-xo-parent-vista-global-signs-600-million-investment-deal",
+      "quote": "In April, Bloomberg reported that he was open to selling part of his 84% stake in the company to raise equity.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "vistajet-vista-global-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "vista-global"
+    ],
+    "text": "VistaJet is owned by Vista Global, a private aviation group headquartered in Dubai that was founded by entrepreneur Thomas Flohr; Vista Global sells private jet flights via its VistaJet and XO brands.",
+    "short": "VistaJet is owned by Vista Global, Thomas Flohr's Dubai-based aviation group",
+    "source": {
+      "name": "Private Jet Card Comparisons: VistaJet, XO parent Vista Global signs $600 million investment deal",
+      "date": "2025-03-17",
+      "url": "https://privatejetcardcomparisons.com/2025/03/17/vistajet-xo-parent-vista-global-signs-600-million-investment-deal",
+      "quote": "Vista Global, which owns VistaJet and XO",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Rhone Group: Vista Global (portfolio)",
+        "date": "2026",
+        "url": "https://www.rhonegroup.com/portfolio/vista-global",
+        "quote": "Vista Global is a leading global private aviation business founded by entrepreneur Thomas Flohr. Headquartered in Dubai",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
         }
       }
     ],
@@ -32564,6 +33429,27 @@
       "checked": {
         "on": "2026-09-30",
         "by": "claude-maint-916 (Claude Code, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "winline-ownership-uk-nks",
+    "kind": "ownership",
+    "ownerIds": [
+      "winline"
+    ],
+    "text": "Bookmaker Winline, a partner of Avtomobilist Yekaterinburg, belongs to a group of founders, with Dmitry Myslivtsev named as its main owner and founder; it is managed through OOO 'Managing Company NKS'.",
+    "short": "Winline owned by a group of founders; main owner Dmitry Myslivtsev (Legalbet).",
+    "source": {
+      "name": "Legalbet: Владелец Винлайн: кому принадлежит букмекерская контора",
+      "date": "2026",
+      "url": "https://legalbet.ru/shkola-bettinga/vladeletc-vinlajn-komu-prinadlezhit-bukmekerskaya-kontora/",
+      "note": "Translation: 'It belongs to a group of founders. The main owner and founder of Winline is Dmitry Myslivtsev. Management is carried out by OOO UK NKS.' Page undated.",
+      "quote": "Она принадлежит группе учредителей. Основной владелец винлайн и основатель — Дмитрий Мысливцев. Управление осуществляет ООО «УПРАВЛЯЮЩАЯ КОМПАНИЯ НКС».",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
