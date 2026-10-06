@@ -1,17 +1,27 @@
 # data/live
 
-Release `data-2026-10-05-51fb7173` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `51fb7173`, data updated 2026-10-04. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
+Release `data-2026-10-06-0c28b570` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `0c28b570`, data updated 2026-10-06. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
 
-Compared with the data it replaces (`b92d8103`, updated 2026-10-04):
+Compared with the data it replaces (`51fb7173`, updated 2026-10-04):
 
 | | clubs | kits | sponsors | owners | claims | deals | contacts |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | before | 594 | 564 | 1717 | 1354 | 1305 | 1160 | 230 |
-| after | 594 | 564 | 1717 | 1354 | 1305 | 1160 | 230 |
+| after | 594 | 564 | 1717 | 1353 | 1305 | 1160 | 230 |
 
-## Clubs whose kits change (1)
+## Club levels that change (2)
 
-- [Maktown Flyers](https://behind-the-jersey.org/clubs/maktown-flyers/)
+- [Denver Nuggets](https://behind-the-jersey.org/clubs/denver-nuggets/) (NBA): Not rated yet → **Clean**
+- [Minnesota Twins](https://behind-the-jersey.org/clubs/minnesota-twins/) (MLB): Not rated yet → **Clean**
+
+## Sponsor ratings that change (2)
+
+- Ibotta: unrated (unrated) → **none** (rated)
+- Securian Financial: unrated (unrated) → **none** (rated)
+
+## Owners removed (1)
+
+- Securian Financial Corporation (securian-financial-owner)
 
 ## Warnings (65)
 

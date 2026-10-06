@@ -11511,14 +11511,14 @@
     "name": "Ibotta",
     "ownerId": "ibotta-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Ibotta, Inc., a performance-marketing platform listed on the New York Stock Exchange (IBTA). Nothing found.",
     "claimIds": [
       "ibotta-public-listing"
     ],
     "aliases": [],
-    "note": "Rating note: Ibotta, Inc., a Denver-based performance-marketing platform; its IR FAQ says its stock trades on the NYSE under IBTA. Jersey patch partner of the Nuggets since October 2023, extended April 2026. A previous rating was removed 2026-09-25 because its only claim was an invented ownership record (#279)."
+    "note": "Rating note: Ibotta, Inc., a Denver-based performance-marketing platform; its IR FAQ says its stock trades on the NYSE under IBTA. Jersey patch partner of the Nuggets since October 2023, extended April 2026. A previous rating was removed 2026-09-25 because its only claim was an invented ownership record (#279). Rated 2026-10-05: none - a listed US company with no state or state-fund in its ownership chain (its IR FAQ states the NYSE listing), and nothing found against the company itself in the last 20 years."
   },
   {
     "id": "ic-markets",
@@ -20645,15 +20645,15 @@
     "name": "Securian Financial",
     "ownerId": "securian-financial-group",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Securian Financial Group, Inc. (ultimate parent Minnesota Mutual Companies, Inc.). Nothing found.",
     "claimIds": [
       "securian-financial-marketing-name",
       "securian-minnesota-mutual-ownership"
     ],
     "aliases": [],
-    "note": "Rating note: Securian Financial is the marketing name for Securian Financial Group, Inc., whose ultimate parent is Minnesota Mutual Companies, Inc. (per a 2017 SEC information statement). Previous rating note (removed 2026-09-25): its only claim then was an invented ownership record (#279)."
+    "note": "Rating note: Securian Financial is the marketing name for Securian Financial Group, Inc., whose ultimate parent is Minnesota Mutual Companies, Inc. (per a 2017 SEC information statement). Previous rating note (removed 2026-09-25): its only claim then was an invented ownership record (#279). Rated 2026-10-05: none - ownership chain reaches the ultimate parent, Minnesota Mutual Companies, Inc., a private US holding company (per the SEC DEF 14C); no state or state fund in the chain; nothing found against the company itself in the last 20 years."
   },
   {
     "id": "sela",

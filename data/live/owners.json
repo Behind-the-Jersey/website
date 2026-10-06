@@ -8362,14 +8362,6 @@
     "note": "Intermediate holding company; its subsidiaries include Minnesota Life Insurance Company and Securian Life Insurance Company. 'Securian Financial' is the group's marketing name."
   },
   {
-    "id": "securian-financial-owner",
-    "name": "Securian Financial Corporation",
-    "type": "listed-company",
-    "parentId": null,
-    "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
-    "country": "US"
-  },
-  {
     "id": "sega-sammy",
     "name": "Sega Sammy Holdings Inc. (Tokyo-listed; owns Football Manager studio)",
     "type": "listed-company",
