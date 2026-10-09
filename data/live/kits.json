@@ -17928,14 +17928,110 @@
         "sponsorId": "tcs",
         "placement": "front",
         "source": {
-          "name": "FIA Formula E - Jaguar TCS Racing team page (TCS in team name)",
-          "date": "2026-09-25",
-          "url": "https://www.fiaformulae.com/en/teams/jaguar-tcs-racing"
+          "name": "Jaguar TCS Racing: New leadership, new line-up, new look: Jaguar TCS Racing unveils 2025/26 livery as team begins new era (media.jlr.com)",
+          "date": "2025-10-22",
+          "url": "https://media.jlr.com/jaguar-tcs-racing/news/2025/10/new-leadership-new-line-new-look-jaguar-tcs-racing-unveils-202526-livery-team-begins-0",
+          "quote": "Title and Official Technology Partner, Tata Consultancy Services remains central to driving innovation and adaptability for the team",
+          "note": "Club's own Season 12 launch announcement. TCS is the title and technology partner and is in the team name; placement front is the site's mapping of the title partner.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "dow",
+        "placement": "partner",
+        "source": {
+          "name": "Jaguar TCS Racing: New leadership, new line-up, new look: Jaguar TCS Racing unveils 2025/26 livery as team begins new era (media.jlr.com)",
+          "date": "2025-10-22",
+          "url": "https://media.jlr.com/jaguar-tcs-racing/news/2025/10/new-leadership-new-line-new-look-jaguar-tcs-racing-unveils-202526-livery-team-begins-0",
+          "quote": "collaborations with Dow, Castrol, Reflo and Alpinestars continue to deliver technical excellence and opportunities that offer more sustainable solutions across operations",
+          "note": "Club's own Season 12 launch announcement, partner paragraph. Dow's partner profile also appears on the club's partners page (jaguar.com/en-gb/jdx/jaguar-racing/our-partners.html, 'As Official Materials Science Partner, Dow...').",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "castrol",
+        "placement": "partner",
+        "source": {
+          "name": "Jaguar TCS Racing: New leadership, new line-up, new look: Jaguar TCS Racing unveils 2025/26 livery as team begins new era (media.jlr.com)",
+          "date": "2025-10-22",
+          "url": "https://media.jlr.com/jaguar-tcs-racing/news/2025/10/new-leadership-new-line-new-look-jaguar-tcs-racing-unveils-202526-livery-team-begins-0",
+          "quote": "collaborations with Dow, Castrol, Reflo and Alpinestars continue to deliver technical excellence and opportunities that offer more sustainable solutions across operations",
+          "note": "Club's own Season 12 launch announcement, partner paragraph. Castrol's partner profile also appears on the club's partners page (jaguar.com/en-gb/jdx/jaguar-racing/our-partners.html, 'Our partnership with the Jaguar TCS Racing Formula E Team...').",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "jpmorgan-chase",
+        "placement": "partner",
+        "source": {
+          "name": "Jaguar TCS Racing: New leadership, new line-up, new look: Jaguar TCS Racing unveils 2025/26 livery as team begins new era (media.jlr.com)",
+          "date": "2025-10-22",
+          "url": "https://media.jlr.com/jaguar-tcs-racing/news/2025/10/new-leadership-new-line-new-look-jaguar-tcs-racing-unveils-202526-livery-team-begins-0",
+          "quote": "Jaguar TCS Racing is also delighted to welcome Chase to its partnership roster as its Official Financial Services Partner",
+          "note": "Club's own Season 12 launch announcement. The partner brand is Chase, the consumer bank brand of JPMorgan Chase & Co. (existing sponsor record jpmorgan-chase). Chase's partner profile also appears on the club's partners page (jaguar.com/en-gb/jdx/jaguar-racing/our-partners.html, 'As the Official Financial Services Partner of Jaguar TCS Racing...').",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "alpinestars",
+        "placement": "partner",
+        "source": {
+          "name": "Jaguar TCS Racing: New leadership, new line-up, new look: Jaguar TCS Racing unveils 2025/26 livery as team begins new era (media.jlr.com)",
+          "date": "2025-10-22",
+          "url": "https://media.jlr.com/jaguar-tcs-racing/news/2025/10/new-leadership-new-line-new-look-jaguar-tcs-racing-unveils-202526-livery-team-begins-0",
+          "quote": "collaborations with Dow, Castrol, Reflo and Alpinestars continue to deliver technical excellence and opportunities that offer more sustainable solutions across operations",
+          "note": "Club's own Season 12 launch announcement, partner paragraph. Alpinestars' partner profile also appears on the club's partners page (jaguar.com/en-gb/jdx/jaguar-racing/our-partners.html, '...top athletes including Jaguar TCS Racing's drivers').",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "reflo",
+        "placement": "partner",
+        "source": {
+          "name": "Jaguar TCS Racing: New leadership, new line-up, new look: Jaguar TCS Racing unveils 2025/26 livery as team begins new era (media.jlr.com)",
+          "date": "2025-10-22",
+          "url": "https://media.jlr.com/jaguar-tcs-racing/news/2025/10/new-leadership-new-line-new-look-jaguar-tcs-racing-unveils-202526-livery-team-begins-0",
+          "quote": "collaborations with Dow, Castrol, Reflo and Alpinestars continue to deliver technical excellence and opportunities that offer more sustainable solutions across operations",
+          "note": "Club's own Season 12 launch announcement, partner paragraph. Reflo has been the team's official teamwear supplier since a July 2024 announcement (media.jlr.com) and is listed on the club's partners page (jaguar.com/en-gb/jdx/jaguar-racing/our-partners.html).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "schaeffler",
+        "placement": "partner",
+        "source": {
+          "name": "Schaeffler: Jaguar TCS Racing Announces Schaeffler as Official Supplier (press release)",
+          "date": "2026-03-19",
+          "url": "https://www.schaeffler.com/en/media/press-releases/press-releases-detail.jsp?id=88178881",
+          "quote": "Jaguar TCS Racing has joined forces with Schaeffler as Official Supplier on a multi-year agreement.",
+          "note": "Named company press release, 19 March 2026 (Herzogenaurach), mid-season addition to the Season 12 partner network; Schaeffler also appears in the partner list on the club's partners page (jaguar.com/en-gb/jdx/jaguar-racing/our-partners.html).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": null,
+    "sponsorsComplete": true,
+    "summary": "TCS is the title and technology partner (team name, front). Six further partners per the club's own Season 12 launch release (media.jlr.com, 22 Oct 2025) and its partners page on jaguar.com: Dow, Castrol, Chase, Alpinestars and Reflo (long-standing collaborations plus new partner Chase), and Schaeffler, which joined as Official Supplier in March 2026 (Schaeffler press release; club partners page).",
     "change": null
   },
   {

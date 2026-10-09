@@ -9289,6 +9289,108 @@
     "reviewed": false
   },
   {
+    "id": "dow-bhopal-un-experts-2024",
+    "kind": "record",
+    "ownerIds": [
+      "dow-inc"
+    ],
+    "text": "UN human-rights experts said in December 2024 that the Indian company controlled by Union Carbide Corporation, which is now owned by The Dow Chemical Company, dumped and mismanaged hazardous substances and wastes at its pesticide facility in Bhopal, creating a sacrifice zone where pollution from the contaminated site continues to poison people, many living in poverty.",
+    "short": "UN experts: Dow-owned Union Carbide's Bhopal site still poisons communities.",
+    "source": {
+      "name": "OHCHR: Bhopal: A lingering legacy of contamination and injustice",
+      "date": "2024-12-02",
+      "url": "https://www.ohchr.org/en/press-releases/2024/12/bhopal-lingering-legacy-contamination-and-injustice",
+      "note": "Press release of 2 December 2024 by UN experts marking the 40th anniversary of the Bhopal gas leak. The live ohchr.org page sits behind a script challenge; the quote was verified on the Wayback Machine snapshot of 25 August 2026 (web.archive.org/web/20260825062203/https://www.ohchr.org/en/press-releases/2024/12/bhopal-lingering-legacy-contamination-and-injustice).",
+      "quote": "the Indian company controlled by Union Carbide Corporation, which is now owned by the Dow Chemical Company, dumped and mismanaged hazardous substances and wastes in its pesticide facility in Bhopal",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Amnesty International: Global: Dow's failure to offer remedy for the Bhopal disaster has created a \"sacrifice zone\"",
+        "date": "2024-03-28",
+        "url": "https://www.amnesty.org/en/latest/news/2024/03/global-dows-failure-to-offer-remedy-for-the-bhopal-disaster-has-created-a-sacrifice-zone/",
+        "note": "Press release for Amnesty's report 'Bhopal: 40 years of Injustice', ahead of the disaster's 40th anniversary. The quoted words are from Amnesty's Head of Business and Human Rights, Mark Dummett.",
+        "quote": "Dow, as well as the actions of the US and Indian authorities, have created a sacrifice zone in which half a million people across multiple generations are suffering.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "dow-inc-holding-company",
+    "kind": "ownership",
+    "ownerIds": [
+      "dow-inc"
+    ],
+    "text": "Dow Inc. is a Delaware holding company for The Dow Chemical Company and its consolidated subsidiaries ('TDCC'), together with which it operates as 'Dow'. Its common stock trades on the New York Stock Exchange under the symbol DOW.",
+    "short": "The partner Dow is Dow Inc. (NYSE: DOW).",
+    "source": {
+      "name": "Dow Inc.: Annual Report on Form 10-K for the fiscal year ended December 31, 2025 (SEC EDGAR)",
+      "date": "2026-02-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/29915/000175178826000018/dow-20251231.htm",
+      "note": "The quote combines the cover page (securities registered under Section 12(b)) and the 'THE COMPANY' section of Item 1.",
+      "quote": "Dow Inc. was incorporated on August 30, 2018, under Delaware law, to serve as a holding company for The Dow Chemical Company and its consolidated subsidiaries",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "StockAnalysis.com: Dow Inc. (DOW) Stock Price & Overview",
+        "date": "2026-10-02",
+        "url": "https://stockanalysis.com/stocks/dow/",
+        "note": "Market-data page without a publication date; price shown 'At close: Oct 2, 2026'. Lists the company as 'Dow Inc. (DOW) NYSE: DOW'.",
+        "quote": "Dow Inc. (DOW) NYSE: DOW · Real-Time Price · USD",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "dow-major-holders-2026",
+    "kind": "ownership",
+    "ownerIds": [
+      "dow-inc"
+    ],
+    "text": "Dow Inc.'s 2026 proxy statement lists the beneficial owners of more than 5% of its common stock as The Vanguard Group (82,116,884 shares, 11.4%) and BlackRock, Inc. (47,213,620 shares, 6.6%), the percentages calculated on shares outstanding as of 31 January 2026. The Vanguard shares follow a Schedule 13G/A filed on 12 November 2024 reporting beneficial ownership as of 30 September 2024; press reporting of that filing put the holding at 11.71% of Dow's shares.",
+    "short": "Dow Inc.'s largest holders: Vanguard 11.4%, BlackRock 6.6%.",
+    "source": {
+      "name": "Dow Inc.: 2026 Proxy Statement (DEF 14A), beneficial ownership of Dow's common stock (SEC EDGAR)",
+      "date": "2026-02-27",
+      "url": "https://www.sec.gov/Archives/edgar/data/1751788/000119312526082583/dow-20260227.htm",
+      "note": "The quoted row follows the introduction 'beneficial ownership of Dow's common stock by holders of more than 5 percent of the outstanding shares of Dow's common stock'. Percentages are based on shares outstanding as of January 31, 2026.",
+      "quote": "BlackRock, Inc. 47,213,620 (b) 6.6 % The Vanguard Group 82,116,884 (c) 11.4 %",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "GuruFocus: Vanguard Group Inc's Strategic Acquisition of Dow Inc Shares",
+        "date": "2024-11-05",
+        "url": "https://www.gurufocus.com/news/2582592/vanguard-group-incs-strategic-acquisition-of-dow-inc-shares",
+        "note": "News article of 5 November 2024 reporting Vanguard's Schedule 13G/A for Dow Inc. It also states the firm was 'now holding 11.71% of Dow's total shares'.",
+        "quote": "This transaction, which took place on September 30, 2024, increased Vanguard's total holdings in Dow to 82,116,884 shares.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "dp-world-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -27268,6 +27370,27 @@
     "reviewed": false
   },
   {
+    "id": "schaeffler-family-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "schaeffler-family"
+    ],
+    "text": "The Schaeffler Group company describes itself as predominantly in family ownership, naming shareholder Maria-Elisabeth Schaeffler-Thumann and her son Georg F. W. Schaeffler, who are continuing the lifelong work of Georg Schaeffler, who died in 1996.",
+    "short": "Schaeffler is predominantly owned by the Schaeffler family.",
+    "source": {
+      "name": "Schaeffler Group: Shareholders (company website)",
+      "date": "2026",
+      "url": "https://www.schaeffler.com/en/group/shareholders/",
+      "note": "Page without a date; opened 2026-10-03. The page also identifies Maria-Elisabeth Schaeffler-Thumann as 'Shareholder of the INA-Holding Schaeffler GmbH & Co. KG and Managing Director of IHO Verwaltungs GmbH'.",
+      "quote": "Schaeffler is a leading global high-tech company predominantly in family ownership, and is based in Herzogenaurach, Germany. Together with her son Georg F. W. Schaeffler, shareholder Maria-Elisabeth Schaeffler-Thumann",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "schueco-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -30390,6 +30513,27 @@
         "note": "HKEX filing: the 1,374,938,618 shares held by T.C.L. Industries (H.K.) are the stake described."
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "tcs-tata-sons-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "tata-sons"
+    ],
+    "text": "Tata Sons Private Limited's Annual Report 2024-25 lists Tata Consultancy Services Limited (India) among its subsidiaries with a percentage of ownership interest of 71.76% as at 31 March 2025.",
+    "short": "TCS is 71.76%-owned by Tata Sons.",
+    "source": {
+      "name": "Tata Sons Private Limited: One Hundred and Seventh Annual Report 2024-25, notes to the consolidated financial statements (non-controlling interests)",
+      "date": "2025",
+      "url": "https://www.tata.com/content/dam/tata/pdf/fy25/Tata-Sons-Annual-Report-FY25.pdf",
+      "note": "Annual report for the financial year 2024-25; the PDF carries no explicit publication date. The quote is the Tata Consultancy Services Limited row of the table in Note 57 (non-controlling interests; partly owned subsidiaries), whose columns are 'Percentage of ownership interest*' and 'Percentage of ownership interest held by Non controlling interest' as at 31 March 2025 and 2024; Note 58's subsidiary list shows the same 71.76% ownership.",
+      "quote": "Tata Consultancy Services Limited India 71.76% 71.76% 28.24% 28.24%",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
