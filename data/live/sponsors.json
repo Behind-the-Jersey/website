@@ -1418,7 +1418,7 @@
       "alpinestars-owner-record"
     ],
     "aliases": [],
-    "note": "Italian motorsport protection-gear maker (Asolo/Maser, Italy, founded 1963); supplier of race suits, gloves and boots to Nissan Formula E Team. Rating note: family ownership is stated by the company's own about page; no dated shareholder register published. Bloomberg reported in September 2026 that Asian private-equity firms including FountainVest and HSG were considering bids valuing the company at about €1 billion; no sale was announced. Same owner as 'alpinestars-c' and 'alpinestars-h'."
+    "note": "Italian motorsport protection-gear maker (Asolo/Maser, Italy, founded 1963); supplier of race suits, gloves and boots to Nissan Formula E Team. Rating note: family ownership is stated by the company's own about page (claim alpinestars-record, reused from the alpinestars-c/alpinestars-h records); no dated shareholder register published. Bloomberg reported in September 2026 that Asian private-equity firms including FountainVest and HSG were considering bids valuing the company at about €1 billion; no sale was announced. Same owner as 'alpinestars-c' and 'alpinestars-h'. Long-standing partner named in Jaguar TCS Racing's Season 12 launch release (media.jlr.com, 22 Oct 2025) and on the club's partners page. No state stake or human-rights finding identified."
   },
   {
     "id": "alpinestars-c",
@@ -7221,6 +7221,35 @@
       "dove"
     ],
     "note": "Official Body Care Supplier of Rugby World Cup 2027 (rugbyworldcup.com/2027/en/partners). Dove is a Unilever brand; the normalized Unilever sponsor entry has ownerId null, so no owner chain written here."
+  },
+  {
+    "id": "dow",
+    "name": "Dow",
+    "ownerId": "dow-inc",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "Dow is Dow Inc. (NYSE: DOW). UN experts say pollution from the Bhopal plant of the company it now owns continues to poison people; Amnesty International calls it a 'sacrifice zone' in which half a million people across generations are suffering.",
+    "claimIds": [
+      "dow-inc-holding-company",
+      "dow-major-holders-2026",
+      "dow-bhopal-un-experts-2024"
+    ],
+    "aliases": [
+      "Dow Inc.",
+      "The Dow Chemical Company",
+      "Dow Chemical"
+    ],
+    "note": "Rating note: on hold for a maintainer. Proposed tier: concern. The link: the team's Official Materials Science Partner (Jaguar TCS Racing launch release, 22 Oct 2025) is Dow Inc. itself — the listed company whose holding-company structure and NYSE listing are quoted from its Form 10-K FY2025, with Vanguard (11.4%) and BlackRock (6.6%) as its 5%+ holders (2026 proxy; corroborated by Vanguard's 13G/A). No state holds 5%+. The record: UN human-rights experts (December 2024) said the company now owned by The Dow Chemical Company dumped and mismanaged hazardous waste at Bhopal, creating a sacrifice zone where pollution continues to poison people; Amnesty International's March 2024 report 'Bhopal: 40 years of Injustice' documents the same ongoing abuse of communities. That is a human-rights finding against the company itself (abuse of communities, still going on), so the proposal is concern (METHOD.md).",
+    "why": {
+      "text": "The team's partner Dow is Dow Inc., the listed company that is the holding company of The Dow Chemical Company. UN human-rights experts said in December 2024 that the company now owned by The Dow Chemical Company dumped and mismanaged hazardous waste at its Bhopal pesticide facility, creating a sacrifice zone where pollution continues to poison people, many living in poverty; Amnesty International's 2024 report says Dow and the US and Indian authorities have created a sacrifice zone in which half a million people across multiple generations are suffering.",
+      "claimIds": [
+        "dow-bhopal-un-experts-2024",
+        "dow-inc-holding-company"
+      ],
+      "messageLine": "UN experts say pollution from the Bhopal plant of the company Dow now owns continues to poison people; Amnesty puts those suffering at half a million.",
+      "status": "draft"
+    }
   },
   {
     "id": "dp-world",
@@ -20924,6 +20953,23 @@
     "note": "Aprilia Racing's Exhaust Official Technical Supplier since 2022; the technical partnership was renewed for the 2026 MotoGP season (Wide Magazine/Piaggio Group, 2025-10-01). Owned by its founders Marco De Rossi and Stefano Lavazza (sc-project-ownership). Proposal: see pull request."
   },
   {
+    "id": "schaeffler",
+    "name": "Schaeffler",
+    "ownerId": "schaeffler-family",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Predominantly owned by the Schaeffler family. Nothing found.",
+    "claimIds": [
+      "schaeffler-family-ownership"
+    ],
+    "aliases": [
+      "Schaeffler Group",
+      "Schaeffler AG"
+    ],
+    "note": "Rating note: Official Supplier of Jaguar TCS Racing from a multi-year agreement announced 19 March 2026 (Schaeffler press release; listed in the club's partners page for Season 12). The Schaeffler Group's own website describes it as predominantly in family ownership (Maria-Elisabeth Schaeffler-Thumann and Georg F. W. Schaeffler). No state stake and no human-rights finding against Schaeffler identified."
+  },
+  {
     "id": "schelde",
     "name": "Schelde",
     "ownerId": null,
@@ -23307,16 +23353,18 @@
   {
     "id": "tcs",
     "name": "TCS (Tata Consultancy Services)",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "tata-sons",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Majority-owned by Tata Sons Private Limited (71.76%). Nothing found.",
+    "claimIds": [
+      "tcs-tata-sons-ownership"
+    ],
     "aliases": [
       "Tata Consultancy Services"
     ],
-    "note": "Title/name partner in the Jaguar TCS Racing team name (fiaformulae.com team page, fetched 2026-09-25). Tata Sons ownership chain not researched in this pass."
+    "note": "Rating note: title and technology partner in the team name and on the front of the Season 12 (2025/26) kit, per Jaguar TCS Racing's launch release (media.jlr.com, 22 Oct 2025) and the club's partners page (jaguar.com). Majority ownership by Tata Sons per Tata Sons' Annual Report 2024-25 (71.76% as at 31 March 2025); Tata Sons is a private company whose group structure the same report describes as 'largely held by philanthropic trusts' — no state stake in the chain. A US EEOC investigation into discrimination allegations (reported by named press in 2025) is pending and is not a finding. No human-rights finding against TCS or Tata Sons identified."
   },
   {
     "id": "td-bank",

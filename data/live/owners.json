@@ -2743,6 +2743,14 @@
     "note": "Controlling shareholder of Shenzhen-listed Qingdao Doublestar Co., Ltd. thebell (2026-09-07) describes the chain as Qingdao SASAC -> Doublestar Group -> Doublestar Tire -> Xingwei Korea (SPC) -> Kumho Tire; the 2026 consolidation moved the Kumho stake into the listed company."
   },
   {
+    "id": "dow-inc",
+    "name": "Dow Inc.",
+    "type": "listed-company",
+    "country": "USA",
+    "parentId": null,
+    "note": "Delaware holding company for The Dow Chemical Company ('TDCC'); together with TDCC and its subsidiaries it operates as 'Dow'. Common stock trades on the New York Stock Exchange under the symbol DOW (Form 10-K FY2025)."
+  },
+  {
     "id": "dp-world-limited",
     "name": "DP World Limited",
     "type": "private-company",
@@ -8481,6 +8489,14 @@
     "note": "High-performance motorcycle exhaust manufacturer headquartered in Cassinetta di Lugagnano, metropolitan area of Milan (Wide Magazine/Piaggio Group, 2025-10-01). Present in the MotoGP paddock since the 2009 season; Aprilia Racing's exhaust supplier since 2022. Founders and owners Marco De Rossi and Stefano Lavazza. Not listed; deeper shareholding not documented in accessible sources."
   },
   {
+    "id": "schaeffler-family",
+    "name": "Schaeffler family (Maria-Elisabeth Schaeffler-Thumann and Georg F. W. Schaeffler)",
+    "type": "private-company",
+    "country": "Germany",
+    "parentId": null,
+    "note": "The Schaeffler Group company website describes the group as 'predominantly in family ownership', naming Maria-Elisabeth Schaeffler-Thumann (shareholder of the INA-Holding Schaeffler GmbH & Co. KG) and her son Georg F. W. Schaeffler as the shareholders continuing the work of Georg Schaeffler, who died in 1996."
+  },
+  {
     "id": "schorghuber-unternehmensgruppe",
     "name": "Schörghuber Unternehmensgruppe",
     "type": "private-company",
@@ -9443,6 +9459,14 @@
     "country": "Uzbekistan",
     "note": "Uzbekistan's city state administration for Tashkent; tashkent.uz is its official portal ('Тошкент шаҳар ҳокимияти расмий сайти'). Listed in Pakhtakor's homepage partners section.",
     "parentId": "government-of-uzbekistan"
+  },
+  {
+    "id": "tata-sons",
+    "name": "Tata Sons Private Limited",
+    "type": "private-company",
+    "country": "India",
+    "parentId": null,
+    "note": "Principal investment holding company of the Tata group. Its Annual Report 2024-25 describes the group's structure as 'largely held by philanthropic trusts'; it holds 71.76% of listed Tata Consultancy Services (claim tcs-tata-sons-ownership)."
   },
   {
     "id": "tbc-bank-group",
