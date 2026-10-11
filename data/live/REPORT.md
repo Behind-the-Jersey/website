@@ -1,44 +1,52 @@
 # data/live
 
-Release `data-2026-10-11-43eb6c93` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `43eb6c93`, data updated 2026-10-09. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
+Release `data-2026-10-11-c142f343` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `c142f343`, data updated 2026-10-11. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
 
-Compared with the data it replaces (`8397987b`, updated 2026-10-08):
+Compared with the data it replaces (`43eb6c93`, updated 2026-10-09):
 
 | | clubs | kits | sponsors | owners | claims | deals | contacts |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| before | 594 | 566 | 1760 | 1389 | 1348 | 1187 | 230 |
-| after | 594 | 566 | 1762 | 1392 | 1352 | 1187 | 230 |
+| before | 594 | 566 | 1762 | 1392 | 1352 | 1187 | 230 |
+| after | 594 | 567 | 1773 | 1395 | 1360 | 1187 | 230 |
 
-## Sponsor ratings that change (2)
+## Sponsor ratings that change (1)
 
-- Basic Electronics Company: unrated (unrated) → **none** (rated)
-- HH Sports: unrated (unrated) → **none** (rated)
+- Mobilize Financial Services: unrated (unrated) → **none** (rated)
 
-## Sponsors added (2)
+## Sponsors added (11)
 
-- Centrico: unrated
-- Marah: unrated
+- Alten: unrated
+- Cheops Technology: unrated
+- Devoteam: unrated
+- Dewesoft: none
+- Elf: unrated
+- FranceToner: unrated
+- GCR (Groupement des Concessionnaires Renault): unrated
+- Havas: none
+- Ixell: none
+- M4Markets: unrated
+- Milwaukee Tool: unrated
 
 ## Owners added (3)
 
-- Basic Electronics Co. Ltd (Al-Asasyah) (basic-electronics-co-ltd)
-- HH Sport (hh-sport)
-- Meatsteak Company (meatsteak-co)
+- Dewesoft (dewesoft)
+- Havas N.V. (havas-nv)
+- Techtronic Industries Co. Ltd. (techtronic-industries)
 
-## Claims added (4)
+## Claims added (8)
 
-- basic-electronics-arfaj-ownership: Basic Electronics Co. Ltd (Al-Asasyah Electronics), the Saudi electronics and appliances distributor that markets the Fisher brand printed on the chest of Al-Fayha's 2026-27 shirt, is a limited liability company owned by its founder Mohammad Ahmad Al Arfaj; his sons hold its executive posts (president Qasim Al Arfaj, general manager Hamed Al Arfaj and regional directors).
-- hh-sport-hussain-hakim-ownership: HH Sport, the Kuwait-based sportswear company, was founded by former Kuwait SC and Kuwait national-team captain Hussain Hakim, who remains its founder and CEO; the company calls itself his brand.
-- marah-meatsteak-ownership: Marah (مرح), the Saudi shopping app for fresh meat, poultry, seafood and more, is owned and operated by Meatsteak Company (شركة ميتستيك), a registered Saudi company headquartered in Riyadh.
-- rasan-substantial-shareholders: As of Rasan Information Technology Company's IPO prospectus of May 2024, the shareholders who directly owned 5% or more of the company were Impact Funds for Financial Technology Company, Theib Hudeiban Ghallab AlMutairi, Muheideb Ali Mohammed AlMuheideb, Samer Mohammed Raslan, Mohammed Muheideb Ali AlMuheideb and Assets Custody Development Impact Company for Communications and Information Technology. On 13 March 2025, Impact46 announced its successful exit from Rasan through an accelerated bookbuild offering.
-
-## Claims edited (1)
-
-- tameeni-rasan-ownership: Tameeni, the Saudi insurance-comparison platform, is a subsidiary of Rasan Information Technology Company, a Saudi joint-stock company listed on the Saudi Exchange.
+- dewesoft-employee-owned: Dewesoft is fully owned by its employees: the company describes itself as 100% employee-owned, free from external investors and acquisitions.
+- elf-totalenergies-group: The company publishing the elf.com website belongs to the TotalEnergies group; the site's legal notice names TotalEnergies Lubrifiants (Nanterre) as publisher.
+- havas-nv-bollore-control: Vincent Bolloré controls Havas N.V.: a 19 February 2026 notification in the Dutch financial-markets authority's register of substantial holdings records V. Bolloré with a total holding of 53.05% of Havas N.V.'s capital and 53.55% of its voting rights, held indirectly through Bollore SE, Compagnie de l'Odet, Compagnie de l'Etoile des Mers and YB6.
+- havas-nv-listed: Havas is Havas N.V. (ISIN NL0015002K83): its registered office is Amsterdam and its stock market is Euronext Amsterdam.
+- ixell-renault-publisher: The ixell.com website is published by Renault S.A.S. (Boulogne-Billancourt, France), and the site's content is the property of Renault.
+- milwaukee-techtronic-brand: Techtronic Industries lists MILWAUKEE first among the brands on its corporate website (brands section: MILWAUKEE, RYOBI, AEG and others).
+- mobilize-fs-renault-subsidiary: Mobilize Financial Services is a subsidiary of Renault Group; it is the commercial brand of RCI Banque SA, a French bank serving the customers and networks of Renault Group.
+- techtronic-shareholders: Techtronic Industries is publicly traded on the Hong Kong Stock Exchange; it says the Pudwill family remains its largest shareholder, with the remaining ownership held largely by institutional investors at North American and European-owned firms. The substantial-shareholders register in its 2026 interim report records no state or fund; at 30 June 2026 it lists only asset managers (JPMorgan Chase, Bank of New York Mellon, Capital Group, BlackRock and Pandanus Associates, at 5-11% each, largely custody and lending positions).
 
 ## Clubs whose kits change (1)
 
-- [Al-Fayha](https://behind-the-jersey.org/clubs/al-fayha/)
+- [Alpine Endurance Team](https://behind-the-jersey.org/clubs/alpine-endurance-team/)
 
 ## Warnings (66)
 

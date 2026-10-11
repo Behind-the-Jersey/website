@@ -3200,6 +3200,260 @@
     "summary": "2026 F1 car (A526). BWT title partner and Eni on the front; MSC Cruises on the sleeve; the rest of the team's published 2026 partner, supplier and licensee roster as partners. Pirelli is the league-wide tyre supplier."
   },
   {
+    "id": "alpine-endurance-team-2026-home",
+    "clubId": "alpine-endurance-team",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 WEC season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "elf",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "Premium partners ELF and H. Moser & Cie continue to play a central role alongside a strong group of long-standing strategic collaborators",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "h-moser-cie",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "Premium partners ELF and H. Moser & Cie continue to play a central role alongside a strong group of long-standing strategic collaborators",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "eurodatacar",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "including Eurodatacar, Cheops Technology, M4Markets, Ixell, Businessolver, GCR (Groupement des Concessionnaires Renault), France Toner, Devoteam, Havas, Dewesoft and Sabelt",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "cheops-technology",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "including Eurodatacar, Cheops Technology, M4Markets, Ixell, Businessolver, GCR (Groupement des Concessionnaires Renault), France Toner, Devoteam, Havas, Dewesoft and Sabelt",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "m4markets",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "including Eurodatacar, Cheops Technology, M4Markets, Ixell, Businessolver, GCR (Groupement des Concessionnaires Renault), France Toner, Devoteam, Havas, Dewesoft and Sabelt",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "ixell",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "including Eurodatacar, Cheops Technology, M4Markets, Ixell, Businessolver, GCR (Groupement des Concessionnaires Renault), France Toner, Devoteam, Havas, Dewesoft and Sabelt",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "businessolver",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "including Eurodatacar, Cheops Technology, M4Markets, Ixell, Businessolver, GCR (Groupement des Concessionnaires Renault), France Toner, Devoteam, Havas, Dewesoft and Sabelt",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "gcr",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "including Eurodatacar, Cheops Technology, M4Markets, Ixell, Businessolver, GCR (Groupement des Concessionnaires Renault), France Toner, Devoteam, Havas, Dewesoft and Sabelt",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "france-toner",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "including Eurodatacar, Cheops Technology, M4Markets, Ixell, Businessolver, GCR (Groupement des Concessionnaires Renault), France Toner, Devoteam, Havas, Dewesoft and Sabelt",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "devoteam",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "including Eurodatacar, Cheops Technology, M4Markets, Ixell, Businessolver, GCR (Groupement des Concessionnaires Renault), France Toner, Devoteam, Havas, Dewesoft and Sabelt",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "havas",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "including Eurodatacar, Cheops Technology, M4Markets, Ixell, Businessolver, GCR (Groupement des Concessionnaires Renault), France Toner, Devoteam, Havas, Dewesoft and Sabelt",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "dewesoft",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "including Eurodatacar, Cheops Technology, M4Markets, Ixell, Businessolver, GCR (Groupement des Concessionnaires Renault), France Toner, Devoteam, Havas, Dewesoft and Sabelt",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "sabelt",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "including Eurodatacar, Cheops Technology, M4Markets, Ixell, Businessolver, GCR (Groupement des Concessionnaires Renault), France Toner, Devoteam, Havas, Dewesoft and Sabelt",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "alten",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "For this season, Alten, Mobilize Financial Services and Milwaukee Tool have also joined the project, further strengthening the technological expertise",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "mobilize-financial-services",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "For this season, Alten, Mobilize Financial Services and Milwaukee Tool have also joined the project, further strengthening the technological expertise",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "milwaukee-tool",
+        "placement": "partner",
+        "source": {
+          "name": "Alpine – Alpine Endurance Team eager to start final Hypercar campaign as preparations continue for the 2026 FIA WEC season",
+          "date": "2026-03-19",
+          "url": "https://www.alpine-cars.co.uk/fia-wec/news/alpine-endurance-team-eager-to-start-final-hypercar-campaign-as-preparations-continue-for-the-2026.html",
+          "quote": "For this season, Alten, Mobilize Financial Services and Milwaukee Tool have also joined the project, further strengthening the technological expertise",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "michelin",
+        "placement": "league-partner",
+        "source": {
+          "name": "FIAWEC – Technical sheet, Alpine Endurance Team #36 (2026)",
+          "date": "2026",
+          "url": "https://www.fiawec.com/en/car/2026/36",
+          "quote": "Tyre partner",
+          "note": "date precision: year; the page carries no publication date. The official FIA WEC entry sheet for the #36 Alpine A424 shows a 'Tyre partner' logo; the logo is Michelin's (the image's own alt text reads 'Michelin'). Michelin is the championship's tyre supplier.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "2026 Alpine A424 (WEC Hypercar, cars #35 and #36). The club's 19/03/2026 announcement names its 2026 partner ecosystem of 16 brands: premium partners ELF and H. Moser & Cie, long-standing partners Eurodatacar, Cheops Technology, M4Markets, Ixell, Businessolver, GCR, France Toner, Devoteam, Havas, Dewesoft and Sabelt, and new joiners Alten, Mobilize Financial Services and Milwaukee Tool. The club does not publish a placement map for the car, so every partner is entered as 'partner'. Michelin is the championship tyre supplier (league-partner). Series partner DHL is also visible on the car but is a WEC series partner, not a club deal.",
+    "change": null
+  },
+  {
     "id": "alverca-2026-27-home",
     "clubId": "alverca",
     "season": "2026-27",

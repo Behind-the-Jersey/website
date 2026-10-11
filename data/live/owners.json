@@ -2628,6 +2628,14 @@
     "note": "Listed on the Dubai Financial Market (ticker DEWA) since April 2022; the Government of Dubai continued to own 82% of its share capital after selling 18% in the IPO (The National, 2022-04-06; Dubai One/WAM)."
   },
   {
+    "id": "dewesoft",
+    "name": "Dewesoft",
+    "type": "private-company",
+    "country": "Slovenia",
+    "parentId": null,
+    "note": "100% employee-owned per dewesoft.com/about-us (claim dewesoft-employee-owned); products are designed and manufactured at its headquarters in Slovenia."
+  },
+  {
     "id": "df-invest",
     "name": "DF Invest",
     "type": "private-company",
@@ -4342,6 +4350,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "havas-nv",
+    "name": "Havas N.V.",
+    "type": "listed-company",
+    "country": "Netherlands",
+    "parentId": null,
+    "note": "Registered office Amsterdam, listed on Euronext Amsterdam (claim havas-nv-listed); head-office address given on the same page is 29/30 quai de Dion Bouton, 92800 Puteaux, France. Majority-controlled by Vincent Bolloré — 53.05% of capital and 53.55% of voting rights at 19 February 2026, held indirectly through Bolloré SE, Compagnie de l'Odet, Compagnie de l'Etoile des Mers and YB6 (claim havas-nv-bollore-control)."
   },
   {
     "id": "healthequity-owner",
@@ -9538,6 +9554,13 @@
     "type": "listed-company",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "techtronic-industries",
+    "name": "Techtronic Industries Co. Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "note": "Owner of the MILWAUKEE brand per ttigroup.com's brands section (claim milwaukee-techtronic-brand). Listed on the Hong Kong Stock Exchange and a Hang Seng Index constituent; the Pudwill family is its largest shareholder and the remaining ownership is held largely by North American and European institutional investors (claim techtronic-shareholders)."
   },
   {
     "id": "tecnocasa-group",

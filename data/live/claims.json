@@ -8908,6 +8908,27 @@
     "reviewed": false
   },
   {
+    "id": "dewesoft-employee-owned",
+    "kind": "ownership",
+    "ownerIds": [
+      "dewesoft"
+    ],
+    "text": "Dewesoft is fully owned by its employees: the company describes itself as 100% employee-owned, free from external investors and acquisitions.",
+    "short": "Dewesoft is 100% employee-owned.",
+    "source": {
+      "name": "Dewesoft – About Us (dewesoft.com)",
+      "date": "2026",
+      "url": "https://dewesoft.com/about-us",
+      "quote": "Our company is fully owned by our employees, ensuring complete independence and long-term stability. Free from external investors and acquisitions",
+      "note": "date precision: year; the page carries no publication date. The page's own heading for this section is '100% Employee-Owned'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "kind": "ownership",
     "id": "df-invest-record",
     "ownerIds": [
@@ -10194,6 +10215,40 @@
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "elf-totalenergies-group",
+    "kind": "ownership",
+    "ownerIds": [
+      "totalenergies-se"
+    ],
+    "text": "The company publishing the elf.com website belongs to the TotalEnergies group; the site's legal notice names TotalEnergies Lubrifiants (Nanterre) as publisher.",
+    "short": "elf.com is published by TotalEnergies Lubrifiants, which belongs to the TotalEnergies group.",
+    "source": {
+      "name": "ELF – Terms and Conditions (elf.com)",
+      "date": "2026",
+      "url": "https://elf.com/en/legal",
+      "quote": "The Company publishing this Website belongs to the TotalEnergiesEnergies group.",
+      "note": "date precision: year; the page carries no publication date. Quoted verbatim: the page renders the group name as 'TotalEnergiesEnergies' (the site's own Total-to-TotalEnergies replacement applied twice). The same page's identity section names the publisher as 'TotalEnergiesEnergies Lubrifiants', head office 562 avenue du Parc de l'Ile, 92029 Nanterre.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "TotalEnergies – Clients Websites (totalenergies.com)",
+        "date": "2026",
+        "url": "https://www.totalenergies.com/en/lubricants",
+        "quote": "Lubricants: https://lubricants.totalenergies.com/ https://elf.com/en",
+        "note": "date precision: year; the page shows no publication date (its structured data is dated 2024-03-12, modified 2026-05-13). TotalEnergies' own site lists elf.com among its lubricants websites.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -14211,6 +14266,61 @@
     "reviewed": false
   },
   {
+    "id": "havas-nv-bollore-control",
+    "kind": "ownership",
+    "ownerIds": [
+      "havas-nv"
+    ],
+    "text": "Vincent Bolloré controls Havas N.V.: a 19 February 2026 notification in the Dutch financial-markets authority's register of substantial holdings records V. Bolloré with a total holding of 53.05% of Havas N.V.'s capital and 53.55% of its voting rights, held indirectly through Bollore SE, Compagnie de l'Odet, Compagnie de l'Etoile des Mers and YB6.",
+    "short": "Vincent Bolloré holds 53.05% of Havas N.V.'s capital and 53.55% of its voting rights (AFM register, February 2026).",
+    "source": {
+      "name": "AFM register of substantial holdings and gross short positions – V. Bolloré – Havas N.V. (notification details)",
+      "date": "2026-02-19",
+      "url": "https://www.afm.nl/en/sector/registers/meldingenregisters/substantiele-deelnemingen/details?id=188482",
+      "quote": "Date of transaction 19 feb 2026 Person obliged to notify V. Bolloré Issuing institution Havas N.V.",
+      "note": "The same page's Distribution in percentages table records for this notification a 'Total holding' of '53,05 %' of capital ('Kapitaalbelang') and '53,55 %' of voting rights ('Stemrecht'); its Distribution in numbers table attributes 30,786,476 shares held 'Middellijk (Bolloré SE and Compagnie de l'Odet)', 18,939,732 'Middellijk (Compagnie de l'Etoile des Mers)' and 2,883,663 'Middellijk (YB6)'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout review agent (OpenCode, model kimi-k3-abliterated)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "havas-nv-listed",
+    "kind": "ownership",
+    "ownerIds": [
+      "havas-nv"
+    ],
+    "text": "Havas is Havas N.V. (ISIN NL0015002K83): its registered office is Amsterdam and its stock market is Euronext Amsterdam.",
+    "short": "Havas is Havas N.V., listed on Euronext Amsterdam.",
+    "source": {
+      "name": "Havas – Company & Havas share information (havas.com)",
+      "date": "2026",
+      "url": "https://www.havas.com/investor-relations-shareholders/company-information/",
+      "quote": "Company name Havas N.V. ISIN code NL0015002K83 Bloomberg ticker HAVAS NA Sedol code BVD9FN8 MIC code XAMS Dutch trade register number 95011439 Address 29/30 quai de Dion Bouton, 92800 Puteaux, France Registered office Amsterdam Stock market Euronext Amsterdam",
+      "note": "date precision: year; the page carries no publication date. Large shareholders are not stated on this page.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Havas – Company & Havas share information (Internet Archive capture, 27/08/2026)",
+        "date": "2026-08-27",
+        "url": "http://web.archive.org/web/20260827052132/https://www.havas.com/investor-relations-shareholders/company-information/",
+        "quote": "Company name Havas N.V. ISIN code NL0015002K83 Bloomberg ticker HAVAS NA Sedol code BVD9FN8 MIC code XAMS Dutch trade register number 95011439 Address 29/30 quai de Dion Bouton, 92800 Puteaux, France Registered office Amsterdam Stock market Euronext Amsterdam",
+        "note": "Archived capture of the same page, kept because havas.com intermittently blocks scripted requests.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "healthequity-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -16304,6 +16414,27 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "ixell-renault-publisher",
+    "kind": "ownership",
+    "ownerIds": [
+      "renault-group"
+    ],
+    "text": "The ixell.com website is published by Renault S.A.S. (Boulogne-Billancourt, France), and the site's content is the property of Renault.",
+    "short": "Ixell's website is published by Renault S.A.S.; its content belongs to Renault.",
+    "source": {
+      "name": "Ixell – Legal informations (ixell.com)",
+      "date": "2026",
+      "url": "https://www.ixell.com/en/legal-informations",
+      "quote": "Publisher: RENAULT S.A.S -122-122 bis avenue du Général Leclerc - 92100 Boulogne Billancourt - France",
+      "note": "date precision: year; the page carries no publication date. The same page states that all content on the site is 'the property of Renault or of third parties having granted Renault authorization to use them'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -20433,6 +20564,27 @@
     "reviewed": false
   },
   {
+    "id": "milwaukee-techtronic-brand",
+    "kind": "ownership",
+    "ownerIds": [
+      "techtronic-industries"
+    ],
+    "text": "Techtronic Industries lists MILWAUKEE first among the brands on its corporate website (brands section: MILWAUKEE, RYOBI, AEG and others).",
+    "short": "MILWAUKEE is a brand of Techtronic Industries.",
+    "source": {
+      "name": "Techtronic Industries – MILWAUKEE brand page (ttigroup.com)",
+      "date": "2026",
+      "url": "https://www.ttigroup.com/en/brands/milwaukee",
+      "quote": "Brands Go to this section MILWAUKEE RYOBI AEG EMPIRE IMPERIAL BLADES STILETTO KANGO HOOVER ORECK VAX DIRT DEVIL",
+      "note": "date precision: year; the page carries no publication date. Quoted from the site's brands navigation on the MILWAUKEE brand page, whose title reads 'MILWAUKEE | Cordless Power Tools Leader - Techtronic Industries TTI'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "misli-elektronik-record",
     "kind": "ownership",
     "ownerIds": [
@@ -20626,6 +20778,27 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "mobilize-fs-renault-subsidiary",
+    "kind": "ownership",
+    "ownerIds": [
+      "renault-group"
+    ],
+    "text": "Mobilize Financial Services is a subsidiary of Renault Group; it is the commercial brand of RCI Banque SA, a French bank serving the customers and networks of Renault Group.",
+    "short": "Mobilize Financial Services is a subsidiary of Renault Group.",
+    "source": {
+      "name": "BWT Alpine Formula One Team – Mobilize Financial Services partner page",
+      "date": "2026",
+      "url": "https://www.alpinef1.com/partners/team-partner-mobilize-financial-services",
+      "quote": "Mobilize Financial Services, a subsidiary of Renault Group, creates innovative financial services to build sustainable mobility for all.",
+      "note": "date precision: year; the page carries no publication date. The page continues: 'Mobilize Financial Services, which began operations nearly 100 years ago, is the commercial brand of RCI Banque SA, a French bank specializing in automotive financing and services for customers and networks of Renault Group'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {
@@ -30731,6 +30904,27 @@
       "checked": {
         "on": "2026-10-01",
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "techtronic-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "techtronic-industries"
+    ],
+    "text": "Techtronic Industries is publicly traded on the Hong Kong Stock Exchange; it says the Pudwill family remains its largest shareholder, with the remaining ownership held largely by institutional investors at North American and European-owned firms. The substantial-shareholders register in its 2026 interim report records no state or fund; at 30 June 2026 it lists only asset managers (JPMorgan Chase, Bank of New York Mellon, Capital Group, BlackRock and Pandanus Associates, at 5-11% each, largely custody and lending positions).",
+    "short": "TTI is listed on the Hong Kong Stock Exchange; the Pudwill family is its largest shareholder, the rest largely institutional investors.",
+    "source": {
+      "name": "Techtronic Industries 2026 Interim Report – Company Profile and Substantial Shareholders' Interests",
+      "date": "2026",
+      "url": "https://www.ttigroup.com/sites/default/files/2026-08/ir2026.pdf",
+      "quote": "The Pudwill family remains the company's largest shareholder, with the remaining ownership held largely by institutional investors at North American and European-owned firms. TTI is publicly traded on the Hong Kong Stock Exchange",
+      "note": "The same PDF's substantial-shareholders register (kept under section 336 of the SFO) lists, at 30 June 2026, JPMorgan Chase & Co. 11.24% long (including a 7.80% lending pool), The Bank of New York Mellon Corporation 7.45% long, The Capital Group Companies 7.13%, BlackRock, Inc. 5.10% and Pandanus Associates Inc. 5.08%. The report does not give the interim PDF a day-specific publication date; the interim results were announced in August 2026.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-scout review agent (OpenCode, model kimi-k3-abliterated)"
       }
     },
     "reviewed": false

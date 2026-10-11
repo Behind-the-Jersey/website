@@ -1467,6 +1467,20 @@
     "note": "Official Regional Partner (Saudi Arabia) of the AFC Asian Cup Saudi Arabia 2027 (AFC, 2026-06-15)."
   },
   {
+    "id": "alten",
+    "name": "Alten",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "alten sa"
+    ],
+    "note": "Official Engineering Partner of Alpine Endurance Team for the 2026 season (ALTEN press release, 16/04/2026, and the club's 19/03/2026 release). A French engineering and IT services group; its listed-company status and shareholders could not be sourced in this pass because alten.com and investors.alten.com block scripts (see the pull request for leads), so no ownership claim was written."
+  },
+  {
     "id": "alteryx",
     "name": "Alteryx",
     "ownerId": "clearlake-capital-and-insight-partners",
@@ -5372,6 +5386,20 @@
     "note": "Not the football club's record here (this is a sponsor record for the club wordmark printed as part of the chest advertisement). Rating note: proposed 'serious' — the Chinese state controls the sponsor (the link, claims chengdu-rongcheng-club-xingcheng-ownership + xingcheng-group-sasac-ownership: the club company is 95% owned by Chengdu Xingcheng Investment Group, whose controlling shareholder with 90% is Chengdu SASAC; METHOD.md counts control), and the record (claim china-xinjiang-un-assessment) is documented for that state. The club wordmark and Chengdu Jian Gong share the same parent group, so the chest ad advertises within one state-owned group ('羊毛出在羊身上', as Tencent News put it). ON HOLD: awaits a maintainer's review (tier set by maintainers)."
   },
   {
+    "id": "cheops-technology",
+    "name": "Cheops Technology",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "cheops"
+    ],
+    "note": "Alpine Endurance Team partner for 2026 (club release 19/03/2026). Per the club's WEC partners page text, Cheops Technology was founded in 1998, is headquartered in Canéjan near Bordeaux, employs 800 people across 12 branches in France and a subsidiary in Switzerland, and builds cloud infrastructures. No ownership statement found in this pass; see the pull request for leads."
+  },
+  {
     "id": "chestny-znak",
     "name": "Chestny Znak",
     "ownerId": null,
@@ -6899,6 +6927,32 @@
     "note": "Rating note: DEVK is a Versicherungsverein auf Gegenseitigkeit (mutual), member-owned with no external shareholder and no state stake; its Deutsche Bahn relationship is a welfare-facility partnership, not ownership. German mutual with no sourced human-rights finding against it: none."
   },
   {
+    "id": "devoteam",
+    "name": "Devoteam",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Alpine Endurance Team partner for 2026 (club release 19/03/2026). Per the club's WEC partners page text, 'The Devoteam x Alpine Endurance Team partnership is based on a shared DNA: French roots and global ambition'. Devoteam's ownership (a French technology consultancy) was not sourced in this pass; see the pull request for leads."
+  },
+  {
+    "id": "dewesoft",
+    "name": "Dewesoft",
+    "ownerId": "dewesoft",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "100% employee-owned Slovenian data-acquisition company. Nothing found.",
+    "claimIds": [
+      "dewesoft-employee-owned"
+    ],
+    "aliases": [],
+    "note": "Data-acquisition (DAQ) provider; Alpine Endurance Team partner for 2026 (club release 19/03/2026)."
+  },
+  {
     "id": "df-industrie",
     "name": "DF Industrie",
     "ownerId": "df-invest",
@@ -7896,6 +7950,22 @@
     "claimIds": [],
     "aliases": [],
     "note": "Audi Revolut F1 Team official partner on the 2026 car (its industry-leading AI audio technology); listed on the team's partners page."
+  },
+  {
+    "id": "elf",
+    "name": "Elf",
+    "ownerId": "totalenergies-se",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "elf-totalenergies-group"
+    ],
+    "aliases": [
+      "elf lubricants"
+    ],
+    "note": "Premium partner of Alpine Endurance Team for 2026 (club release 19/03/2026). elf.com is published by TotalEnergies Lubrifiants, which belongs to the TotalEnergies group (claim elf-totalenergies-group). Tier left unrated to mirror the pending maintainer decision on the totalenergies sponsor record (HRW's 2023 East African Crude Oil Pipeline report question); whatever tier totalenergies receives, elf follows it."
   },
   {
     "id": "elf-cosmetics",
@@ -9156,6 +9226,20 @@
     "note": "Acquired by Lowe's Companies, Inc. in October 2025; previously owned by American Securities and CD&R. Tier proposed in #105: none."
   },
   {
+    "id": "france-toner",
+    "name": "FranceToner",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "france toner"
+    ],
+    "note": "Alpine Endurance Team partner for 2026 (club release 19/03/2026); FranceToner's own site says it has been partner of Alpine Endurance Team in the WEC since 2022 and renewed for 2025 (francetoner.fr blog). A private French online ink-and-toner retailer; no ownership statement found in this pass. See the pull request for leads."
+  },
+  {
     "id": "fratelli-beretta",
     "name": "Fratelli Beretta",
     "ownerId": "salumificio-fratelli-beretta",
@@ -9631,6 +9715,20 @@
       "gtb.by"
     ],
     "note": "General partner of HC Dinamo Minsk."
+  },
+  {
+    "id": "gcr",
+    "name": "GCR (Groupement des Concessionnaires Renault)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "groupement des concessionnaires renault"
+    ],
+    "note": "Alpine Endurance Team partner for 2026 (club release 19/03/2026). Per the club's WEC partners page text, GCR is a professional association founded in 1945 that federates Renault's primary distribution network in France. An association of Renault dealers has no single owner; no ownership claim written. See the pull request for what this means for a future rating."
   },
   {
     "id": "gcs",
@@ -10895,6 +10993,21 @@
     "claimIds": [],
     "aliases": [],
     "note": "Saudi sportswear brand (hattricksa.com); kit supplier to Al-Jandal, Jeddah, Al-Batin and Al-Orouba (shop categories, checked 2026-10-03). Supplied Al-Hazem in 2025/26; Al-Hazem switched to Offside for 2026/27 (club announcement, 2026-07-04)."
+  },
+  {
+    "id": "havas",
+    "name": "Havas",
+    "ownerId": "havas-nv",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Havas is Havas N.V., listed on Euronext Amsterdam and majority-controlled by Vincent Bolloré (53.05% of capital, 53.55% of voting rights; AFM register, February 2026). Nothing found.",
+    "claimIds": [
+      "havas-nv-listed",
+      "havas-nv-bollore-control"
+    ],
+    "aliases": [],
+    "note": "Communications group; Alpine Endurance Team partner for 2026 (club release 19/03/2026). Vincent Bolloré's majority is held indirectly through Bolloré SE, Compagnie de l'Odet, Compagnie de l'Etoile des Mers and YB6 (claim havas-nv-bollore-control); the Bolloré family is private and no state link arises. The AFM register also records France's Caisse des Dépôts et Consignations at 3.00% via CDC Croissance (July 2025): below the 5% threshold, and France doesn't count as a state with a record under METHOD.md (maintainers' decision, September 2026)."
   },
   {
     "id": "hayashi-telempu",
@@ -12288,6 +12401,21 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "ixell",
+    "name": "Ixell",
+    "ownerId": "renault-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Operated by Renault: the ixell.com site is published by Renault S.A.S. Renault Group is listed, with the French State holding 15.01%. Nothing found.",
+    "claimIds": [
+      "ixell-renault-publisher",
+      "renault-french-state-stake"
+    ],
+    "aliases": [],
+    "note": "Paint and para-paint brand; Alpine Endurance Team partner for 2026 (club release 19/03/2026). The French State's 15.01% Renault stake (renault-french-state-stake) is not a link under METHOD.md: France doesn't count as a state with a record of serious abuses (maintainers' decision, 30 September 2026)."
   },
   {
     "id": "iyi-finans",
@@ -14636,6 +14764,20 @@
     "aliases": []
   },
   {
+    "id": "m4markets",
+    "name": "M4Markets",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "m4markets group"
+    ],
+    "note": "Alpine Endurance Team partner for 2026 (club release 19/03/2026). Its site describes the M4Markets Group as a brokerage with licensed entities regulated by the DFSA (UAE), CySEC (Cyprus) and the FSA (Seychelles); the licensed operating entities named on the site (Oryx Finance Ltd, Harindale Ltd and the Seychelles entity) are not ownership statements. No parent owner identified in this pass; see the pull request for leads."
+  },
+  {
     "id": "maaden",
     "name": "Ma'aden",
     "ownerId": "saudi-pif",
@@ -15611,6 +15753,23 @@
     "note": "Rating note: arm sponsor of Fenerbahçe Beko in the 2025/26 BSL (deal fenerbahce-basketball-milk-academy-2025-26); no source yet for 2026/27. Part of Cabir Holding since 2023 (milk-academy-ownership). ON HOLD: proposed 'none' - Cabir Holding's owners need checking first."
   },
   {
+    "id": "milwaukee-tool",
+    "name": "Milwaukee Tool",
+    "ownerId": "techtronic-industries",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "milwaukee-techtronic-brand",
+      "techtronic-shareholders"
+    ],
+    "aliases": [
+      "milwaukee"
+    ],
+    "note": "Heavy-duty power-tool maker; joined the Alpine endurance project for 2026 per the club's 19/03/2026 release. Shareholding per TTI's 2026 interim report (claim techtronic-shareholders): the Pudwill family is the largest shareholder; the only substantial-shareholder entries are JPMorgan Chase, Bank of New York Mellon, Capital Group, BlackRock and Pandanus Associates (5-11% each, largely custody and lending positions), so no state or fund is in play. Company-test question left for a maintainer, so the tier is 'unrated' (the PR proposed 'none'): U.S. Customs and Border Protection issued a Withhold Release Order on 10 April 2024 against Shanghai Select Safety Products Company, Limited and two subsidiaries, detaining their work gloves 'based on information that reasonably indicates the use of convict labor' (https://www.cbp.gov/newsroom/national-media-release/cbp-issues-withhold-release-order-shanghai-select-safety-products; mirrored at business-humanrights.org, which describes Shanghai Select as a supplier to Milwaukee Tool). In June 2024 former Chinese prisoner Lee Ming-che sued Milwaukee Tool and Techtronic Industries in Milwaukee federal court, alleging he was forced to make work gloves for a Milwaukee supplier while jailed at Chishan prison (NPR, 08/08/2024; BHRRC timeline, 27/06/2024); the Congressional-Executive Commission on China questioned the company over the allegations in July 2023 (Reuters, 11/07/2023). Milwaukee Tool denies the allegations, says its investigation found no evidence, and — per CECC chair Chris Smith's October 2023 statement — traced them to counterfeit gloves and cut ties with the manufacturer."
+  },
+  {
     "id": "ministry-of-sport",
     "name": "Saudi Ministry of Sport",
     "ownerId": "ministry-of-sport",
@@ -15845,13 +16004,17 @@
   {
     "id": "mobilize-financial-services",
     "name": "Mobilize Financial Services",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "renault-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "A subsidiary of Renault Group, in which the French State holds 15.01%. Nothing found.",
+    "claimIds": [
+      "mobilize-fs-renault-subsidiary",
+      "renault-french-state-stake"
+    ],
+    "aliases": [],
+    "note": "The commercial brand of RCI Banque S.A. Joined the Alpine endurance programme for 2026 (club release 19/03/2026) and is also a BWT Alpine F1 Team partner. The French State's 15.01% Renault stake (renault-french-state-stake) is not a link under METHOD.md: France doesn't count as a state with a record of serious abuses (maintainers' decision, 30 September 2026)."
   },
   {
     "id": "moda-health",
@@ -20514,7 +20677,7 @@
     "verdict": null,
     "claimIds": [],
     "aliases": [],
-    "note": "Audi Revolut F1 Team technical partner on the 2026 car; its logo tile is on the team's partners page and Sabelt posted the partnership on 2026-01-27. Owner not traced to a primary document in this pass."
+    "note": "Racing seats, seatbelts and racewear maker; Alpine Endurance Team partner for 2026 (club release 19/03/2026). Audi Revolut F1 Team technical partner on the 2026 car; its logo tile is on the team's partners page and Sabelt posted the partnership on 2026-01-27. Sabelt's own history page says Piero and Giorgio Marsiaj founded Sabelt in Turin in 1972, but the page states no current ownership, so no ownership claim was written."
   },
   {
     "id": "sabor-a-malaga",
