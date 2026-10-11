@@ -1356,55 +1356,65 @@
         "sponsorId": "basic-electronics",
         "placement": "front",
         "source": {
-          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-          "date": "2026-06-15",
-          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+          "name": "Al-Fayha Club: الفيحاء يوقع شراكة مع الشركة الأساسية (partnership announcement)",
+          "date": "2026-08-17",
+          "url": "https://www.alfayhasc.com/blog/1601",
+          "note": "Club announcement: Basic Electronics for Electronic Devices Ltd (Fisher) becomes a main partner, with its logo on the chest of the first team's shirt; the launch photos show the Fisher brand mark. Opened 2026-10-03."
         }
       },
       {
         "sponsorId": "tameeni-insurance",
         "placement": "front",
         "source": {
-          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-          "date": "2026-06-15",
-          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+          "name": "Al-Fayha Club: الرعاة والشركاء (sponsors and partners page)",
+          "date": "2026",
+          "url": "https://www.alfayhasc.com/partner",
+          "note": "Tameeni (تأميني) listed among current sponsors; on the shirt the blue Tameeni badge sits on the upper chest, visible in the club launch photos and the official-store product photos. Page without a date; opened 2026-10-03."
         }
       },
       {
         "sponsorId": "al-romaih-investment",
         "placement": "back",
         "source": {
-          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-          "date": "2026-08-24",
-          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-          "note": "Official league gallery of the 2026-27 kits."
+          "name": "Al-Fayha official store: 2026-27 kit product photos (الطقم الثاني الأبيض 2026-2027 HH)",
+          "date": "2026",
+          "url": "https://alfiha-store.com/products/%D8%A7%D9%84%D8%B7%D9%82%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6-2026-2027-hh",
+          "note": "Official club store photos of the 2026-27 kits: the back photo of the away (white) shirt carries 'الرميح / للاستثمارات العقارية' (Al Romaih Real Estate Investments) with its droplet logo across the upper back, above the player name and number; الرميح is also listed on the club's current partners page (alfayhasc.com/partner). The home (orange) product page shows only front and sleeve photos — no open-source back photo of the orange shirt was found; the sponsor set is otherwise identical on both colorways. Page without a date; opened 2026-10-03."
         }
       },
       {
-        "sponsorId": "morabaha-marina",
+        "sponsorId": "marah",
         "placement": "sleeve",
         "source": {
-          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-          "date": "2026-08-24",
-          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-          "note": "Official league gallery of the 2026-27 kits."
+          "name": "Al-Fayha Club: الفيحاء يوقع شراكة مع شركة مستيك «مرح» (partnership announcement)",
+          "date": "2026-08-17",
+          "url": "https://www.alfayhasc.com/blog/1600",
+          "note": "Club announcement: the Marah app logo goes on the shoulder (كتف) of the first team's shirt; launch and store photos show the MARAH patch on the right sleeve. Opened 2026-10-03."
+        }
+      },
+      {
+        "sponsorId": "centrico",
+        "placement": "front",
+        "source": {
+          "name": "Al-Fayha Club: الفيحاء يوقع عقد رعاية مع شركة «سنتركو» (sponsorship renewal announcement)",
+          "date": "2026-08-26",
+          "url": "https://www.alfayhasc.com/blog/1607",
+          "note": "Club announcement: Centrico's logo appears on the lower part (أسفل) of the first team's shirt (second season running). The club's kit-reveal graphics show the centrico mark in a partner strip at the lower front; the replica shirt photos do not carry it. Opened 2026-10-03."
         }
       },
       {
         "sponsorId": "hh-sports",
         "placement": "partner",
         "source": {
-          "name": "Sponsor note (kit supplier)",
-          "date": "2026-09",
-          "url": null,
-          "note": "Kit supplier to Al-Fayha. Link removed 2026-09-25 (a private issue in the data repo, not a public source (2026-09-25)): https://github.com/Behind-the-Jersey/data/issues/243"
+          "name": "HH Sport: About Us",
+          "date": "2026",
+          "url": "https://hhsportkw.com/about-us-2",
+          "note": "The Kuwaiti kit maker lists Al-Fayha FC among its partner clubs ('proud to have partnered with Al-Fayha FC in Saudi Arabia') and sells the 2026-27 Al-Fayha kits; the shirts carry the HH roundel. Page without a date; opened 2026-10-03."
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "HH Sports home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "sponsorsComplete": true,
+    "summary": "HH Sport home kit. Fisher (Basic Electronics Company) across the front chest with the blue Tameeni badge above it, Al Romaih Real Estate Investments across the upper back, Marah patched on the right sleeve, the RSL league badge on the left sleeve, and Centrico on the lower part of the shirt per the club's renewal announcement (it says only أسفل — lower part; the club's reveal graphics place the mark at the lower front). Shirts, shorts and socks otherwise carry only the HH maker's mark. Complete: the sponsor set matches the club's own partners page (alfayhasc.com/partner), and every placement was checked against the club's announcements, launch graphics and store photos; the upper-back sponsor is visible only in the store's away-shirt back photo, not in any open photo of the orange home shirt.",
     "change": null
   },
   {

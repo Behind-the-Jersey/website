@@ -1017,7 +1017,12 @@
     "status": "unrated",
     "verdict": null,
     "claimIds": [],
-    "aliases": []
+    "aliases": [
+      "الرميح",
+      "Al Romaih Real Estate Investments",
+      "الرميح للاستثمارات العقارية"
+    ],
+    "note": "Real-estate investment firm; its droplet logo and name (للاستثمارات العقارية) sit across the upper back of Al-Fayha's 2026-27 shirt (club store product photos). Al-Jazirah (2016) names Tariq Al Romaih as general manager of Al Romaih Real Estate Investment Company; club honorary member Tariq bin Abdullah Al Romaih also funds the club. No open record names the owner."
   },
   {
     "id": "al-saif-trading",
@@ -3232,13 +3237,20 @@
   {
     "id": "basic-electronics",
     "name": "Basic Electronics Company",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "basic-electronics-co-ltd",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Basic Electronics Co. Ltd (Al-Asasyah) is a limited liability company owned by its founder Mohammad Ahmad Al Arfaj and run by his family. Nothing found.",
+    "claimIds": [
+      "basic-electronics-arfaj-ownership"
+    ],
+    "aliases": [
+      "Al-Asasyah Electronics",
+      "Fisher",
+      "الأساسية"
+    ],
+    "note": "Front-of-shirt sponsor of Al-Fayha 2026-27; the shirt carries the Fisher brand, which Basic Electronics markets in Saudi Arabia (club announcement of 17 August 2026 calls the company '(فيشر)'). Al-Khaleej's 2026-27 front sponsor 'fisher-electronics' appears to be the same advertiser's brand."
   },
   {
     "id": "bat",
@@ -5149,6 +5161,20 @@
       "سينومي"
     ],
     "note": "Sleeve badge on Al-Taawoun's 2026-27 home kit (three-year club deal announced 2026-04-02, visible on the sleeve in the club's launch photos); Al-Ahli back sponsor."
+  },
+  {
+    "id": "centrico",
+    "name": "Centrico",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "سنتركو"
+    ],
+    "note": "Saudi online retail brand of Diverse Products Trading Company, a single-person company (شركة المنتجات المنوعة التجارية شخص واحد), commercial registration 7033410015 (centerco.co legal pages). Al-Fayha's renewal announcement of 26 August 2026 names Mohammed bin Fahd Al-Ajlan as CEO. The individual owner is not named in any open source found."
   },
   {
     "id": "centro-de-reciclagem-da-amadora",
@@ -11132,14 +11158,18 @@
   {
     "id": "hh-sports",
     "name": "HH Sports",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Kit supplier to Al-Fayha."
+    "ownerId": "hh-sport",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "HH Sport is a Kuwait-based sportswear company founded and led by its founder and CEO, former Kuwait captain Hussain Hakim. Nothing found.",
+    "claimIds": [
+      "hh-sport-hussain-hakim-ownership"
+    ],
+    "aliases": [
+      "HH Sport"
+    ],
+    "note": "Kit supplier to Al-Fayha (2026-27 home, away and third); also makes kits for Kuwait SC, Al-Arabi and Kazma."
   },
   {
     "id": "hibob",
@@ -14878,6 +14908,23 @@
       "mapei-spa-record"
     ],
     "aliases": []
+  },
+  {
+    "id": "marah",
+    "name": "Marah",
+    "ownerId": "meatsteak-co",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "marah-meatsteak-ownership"
+    ],
+    "aliases": [
+      "مرح",
+      "MARAH"
+    ],
+    "note": "Sleeve (shoulder) sponsor of Al-Fayha 2026-27 (club announcement of 17 August 2026, signed by Meatsteak CEO Abdulaziz bin Saad Al-Mousa). Individual shareholders of Meatsteak Company are not public."
   },
   {
     "id": "marathon",
@@ -23203,13 +23250,14 @@
     "status": "rated",
     "verdict": "Tameeni is a subsidiary of Rasan Information Technology, a Saudi fintech listed on the Saudi Exchange (Tadawul: 8313). Nothing found.",
     "claimIds": [
-      "tameeni-rasan-ownership"
+      "tameeni-rasan-ownership",
+      "rasan-substantial-shareholders"
     ],
     "aliases": [
       "تأميني",
       "Tameeni"
     ],
-    "note": "Saudi insurance-comparison platform; front of several Saudi Pro League shirts in 2026/27, including Al-Hazem, and a badge on the right chest of Al-Taawoun's 2026-27 home shirt (club announcement 2025-08-29; visible in the club's kit-launch photography, issue #377). Owner traced to Rasan Information Technology, a Saudi joint-stock company listed on the Saudi Exchange (listed 2024-06-13); founded by the Alfallaj brothers. No state body or fund found in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against the company found (searched 2026-10-03)."
+    "note": "Saudi insurance-comparison platform; front of several Saudi Pro League shirts in 2026/27, including Al-Hazem, and a badge on the right chest of Al-Taawoun's 2026-27 home shirt (club announcement 2025-08-29; visible in the club's kit-launch photography, issue #377). Owner traced to Rasan Information Technology, a Saudi joint-stock company listed on the Saudi Exchange (listed 2024-06-13); founded by the Alfallaj brothers. No state body or fund found in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against the company found (searched 2026-10-03). Vehicle-level caveat: Rasan's IPO prospectus shows its two largest post-offering lines (13.06% + 4.49%) held by custodian vehicles for Impact46-managed venture funds whose investors are undisclosed, and Saudi state fund-of-funds SVC publicly invested $30m in Impact46's Fund III (Saudi Press Agency, 2 October 2023) — so an indirect state-fund stake behind Rasan's largest line at IPO time cannot be excluded; Impact46 announced its full exit from Rasan on 2025-03-13."
   },
   {
     "id": "tamkeen",
