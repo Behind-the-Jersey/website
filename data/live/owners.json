@@ -1271,6 +1271,14 @@
     "note": "Owner of sponsor glasurit. The Audi Revolut F1 Team content hub calls Glasurit the premium refinish paint brand of BASF Coatings."
   },
   {
+    "id": "basic-electronics-co-ltd",
+    "name": "Basic Electronics Co. Ltd (Al-Asasyah)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Saudi Arabia",
+    "note": "Al-Khobar electronics distributor; founder-owner per the company's own About page (al-asasyah.com)."
+  },
+  {
     "id": "basicnet",
     "name": "BasicNet S.p.A.",
     "type": "listed-company",
@@ -4442,6 +4450,14 @@
     "note": "HEXIS SAS, adhesive-film manufacturer based in Frontignan (RCS Montpellier 351 372 677), founded in 1989 by Michel Mateu (hexis-graphics.com societe page). France's official companies directory (Recherche d'entreprises, RNE) lists Caroline Mateu as president of the SAS, Clement Mateu as director-general and Michel Mateu as deputy director-general. The French beneficial-owners register has not been public since July 2024; no state body or fund found in the management chain. parentId null."
   },
   {
+    "id": "hh-sport",
+    "name": "HH Sport",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Kuwait",
+    "note": "Kuwait-based sportswear maker founded in 2014/2015 by former Kuwait SC captain Hussain Hakim, its founder & CEO (hhsportkw.com About)."
+  },
+  {
     "id": "hibob",
     "name": "HiBob (Bob)",
     "type": "private-company",
@@ -6078,6 +6094,14 @@
     "type": "private-company",
     "country": "United Kingdom",
     "parentId": null
+  },
+  {
+    "id": "meatsteak-co",
+    "name": "Meatsteak Company",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Saudi Arabia",
+    "note": "Riyadh tech company (commercial registration 7052155863) that owns and operates the Marah app (marahapp.com privacy page); Al-Fayha's signing announcement names Abdulaziz bin Saad Al-Mousa as its CEO. No public record of individual shareholders found."
   },
   {
     "id": "media-capital",

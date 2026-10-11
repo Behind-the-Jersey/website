@@ -1,44 +1,44 @@
 # data/live
 
-Release `data-2026-10-09-8397987b` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `8397987b`, data updated 2026-10-08. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
+Release `data-2026-10-11-43eb6c93` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `43eb6c93`, data updated 2026-10-09. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
 
-Compared with the data it replaces (`50ca67ee`, updated 2026-10-06):
+Compared with the data it replaces (`8397987b`, updated 2026-10-08):
 
 | | clubs | kits | sponsors | owners | claims | deals | contacts |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| before | 594 | 566 | 1758 | 1386 | 1343 | 1187 | 230 |
-| after | 594 | 566 | 1760 | 1389 | 1348 | 1187 | 230 |
+| before | 594 | 566 | 1760 | 1389 | 1348 | 1187 | 230 |
+| after | 594 | 566 | 1762 | 1392 | 1352 | 1187 | 230 |
 
-## Club levels that change (1)
+## Sponsor ratings that change (2)
 
-- [Jaguar TCS Racing](https://behind-the-jersey.org/clubs/jaguar-tcs-racing/) (ABB FIA Formula E World Championship): Not rated yet → **Spotted**
-
-## Sponsor ratings that change (1)
-
-- TCS (Tata Consultancy Services): unrated (unrated) → **none** (rated)
+- Basic Electronics Company: unrated (unrated) → **none** (rated)
+- HH Sports: unrated (unrated) → **none** (rated)
 
 ## Sponsors added (2)
 
-- Dow: unrated
-- Schaeffler: none
+- Centrico: unrated
+- Marah: unrated
 
 ## Owners added (3)
 
-- Dow Inc. (dow-inc)
-- Schaeffler family (Maria-Elisabeth Schaeffler-Thumann and Georg F. W. Schaeffler) (schaeffler-family)
-- Tata Sons Private Limited (tata-sons)
+- Basic Electronics Co. Ltd (Al-Asasyah) (basic-electronics-co-ltd)
+- HH Sport (hh-sport)
+- Meatsteak Company (meatsteak-co)
 
-## Claims added (5)
+## Claims added (4)
 
-- dow-bhopal-un-experts-2024: UN human-rights experts said in December 2024 that the Indian company controlled by Union Carbide Corporation, which is now owned by The Dow Chemical Company, dumped and mismanaged hazardous substances and wastes at its pesticide facility in Bhopal, creating a sacrifice zone where pollution from the contaminated site continues to poison people, many living in poverty.
-- dow-inc-holding-company: Dow Inc. is a Delaware holding company for The Dow Chemical Company and its consolidated subsidiaries ('TDCC'), together with which it operates as 'Dow'. Its common stock trades on the New York Stock Exchange under the symbol DOW.
-- dow-major-holders-2026: Dow Inc.'s 2026 proxy statement lists the beneficial owners of more than 5% of its common stock as The Vanguard Group (82,116,884 shares, 11.4%) and BlackRock, Inc. (47,213,620 shares, 6.6%), the percentages calculated on shares outstanding as of 31 January 2026. The Vanguard shares follow a Schedule 13G/A filed on 12 November 2024 reporting beneficial ownership as of 30 September 2024; press reporting of that filing put the holding at 11.71% of Dow's shares.
-- schaeffler-family-ownership: The Schaeffler Group company describes itself as predominantly in family ownership, naming shareholder Maria-Elisabeth Schaeffler-Thumann and her son Georg F. W. Schaeffler, who are continuing the lifelong work of Georg Schaeffler, who died in 1996.
-- tcs-tata-sons-ownership: Tata Sons Private Limited's Annual Report 2024-25 lists Tata Consultancy Services Limited (India) among its subsidiaries with a percentage of ownership interest of 71.76% as at 31 March 2025.
+- basic-electronics-arfaj-ownership: Basic Electronics Co. Ltd (Al-Asasyah Electronics), the Saudi electronics and appliances distributor that markets the Fisher brand printed on the chest of Al-Fayha's 2026-27 shirt, is a limited liability company owned by its founder Mohammad Ahmad Al Arfaj; his sons hold its executive posts (president Qasim Al Arfaj, general manager Hamed Al Arfaj and regional directors).
+- hh-sport-hussain-hakim-ownership: HH Sport, the Kuwait-based sportswear company, was founded by former Kuwait SC and Kuwait national-team captain Hussain Hakim, who remains its founder and CEO; the company calls itself his brand.
+- marah-meatsteak-ownership: Marah (مرح), the Saudi shopping app for fresh meat, poultry, seafood and more, is owned and operated by Meatsteak Company (شركة ميتستيك), a registered Saudi company headquartered in Riyadh.
+- rasan-substantial-shareholders: As of Rasan Information Technology Company's IPO prospectus of May 2024, the shareholders who directly owned 5% or more of the company were Impact Funds for Financial Technology Company, Theib Hudeiban Ghallab AlMutairi, Muheideb Ali Mohammed AlMuheideb, Samer Mohammed Raslan, Mohammed Muheideb Ali AlMuheideb and Assets Custody Development Impact Company for Communications and Information Technology. On 13 March 2025, Impact46 announced its successful exit from Rasan through an accelerated bookbuild offering.
+
+## Claims edited (1)
+
+- tameeni-rasan-ownership: Tameeni, the Saudi insurance-comparison platform, is a subsidiary of Rasan Information Technology Company, a Saudi joint-stock company listed on the Saudi Exchange.
 
 ## Clubs whose kits change (1)
 
-- [Jaguar TCS Racing](https://behind-the-jersey.org/clubs/jaguar-tcs-racing/)
+- [Al-Fayha](https://behind-the-jersey.org/clubs/al-fayha/)
 
 ## Warnings (66)
 

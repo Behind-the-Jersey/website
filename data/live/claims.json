@@ -4228,6 +4228,40 @@
     "reviewed": false
   },
   {
+    "id": "basic-electronics-arfaj-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "basic-electronics-co-ltd"
+    ],
+    "text": "Basic Electronics Co. Ltd (Al-Asasyah Electronics), the Saudi electronics and appliances distributor that markets the Fisher brand printed on the chest of Al-Fayha's 2026-27 shirt, is a limited liability company owned by its founder Mohammad Ahmad Al Arfaj; his sons hold its executive posts (president Qasim Al Arfaj, general manager Hamed Al Arfaj and regional directors).",
+    "short": "Basic Electronics (Fisher) is owned by founder Mohammad Ahmad Al Arfaj.",
+    "source": {
+      "name": "Basic Electronics Company (al-asasyah.com): About Us",
+      "date": "2026",
+      "url": "https://al-asasyah.com/new/about/",
+      "quote": "Basic Electronics Co. Ltd. is a Limited Liability Company owned by Mr. Mohammad Ahmad Al Arfaj",
+      "note": "Page without a date; opened 2026-10-03.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Al-Fayha Club: الفيحاء يوقع شراكة مع الشركة الأساسية (partnership announcement)",
+        "date": "2026-08-17",
+        "url": "https://www.alfayhasc.com/blog/1601",
+        "quote": "وضع شعار الشركة على صدر قميص الفريق الأول لكرة القدم",
+        "note": "Translation: 'placing the company's logo on the chest of the first football team's shirt'. The announcement names the partner as Basic Electronics for Electronic Devices Ltd (Fisher) — الشركة الأساسية للأجهزة الإلكترونية المحدودة (فيشر).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (OpenCode, model kimi-k3-abliterated)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "basicnet-borsa-italiana-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -14726,6 +14760,27 @@
     "reviewed": false
   },
   {
+    "id": "hh-sport-hussain-hakim-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "hh-sport"
+    ],
+    "text": "HH Sport, the Kuwait-based sportswear company, was founded by former Kuwait SC and Kuwait national-team captain Hussain Hakim, who remains its founder and CEO; the company calls itself his brand.",
+    "short": "HH Sport was founded by and is run by Hussain Hakim.",
+    "source": {
+      "name": "HH Sport: About Us",
+      "date": "2026",
+      "url": "https://hhsportkw.com/about-us-2",
+      "quote": "HUSSAIN HAKIM FOUNDER & CEO",
+      "note": "Page without a date; opened 2026-10-03. The same About page says the company is based in Kuwait, was founded in 2015, and lists Al-Fayha FC as a partner club.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "hibob-record",
     "kind": "ownership",
     "ownerIds": [
@@ -19347,6 +19402,27 @@
       "checked": {
         "on": "2026-09-26",
         "by": "source-audit-2026-09-26"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "marah-meatsteak-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "meatsteak-co"
+    ],
+    "text": "Marah (مرح), the Saudi shopping app for fresh meat, poultry, seafood and more, is owned and operated by Meatsteak Company (شركة ميتستيك), a registered Saudi company headquartered in Riyadh.",
+    "short": "The Marah app is owned and operated by Meatsteak Company of Riyadh.",
+    "source": {
+      "name": "Marah app (marahapp.com): privacy policy page footer",
+      "date": "2026-05",
+      "url": "https://marahapp.com/privacy",
+      "quote": "مرح مملوكة ومشغّلة من قِبل شركة ميتستيك، وهي شركة سعودية مسجلة ومقرها الرئيس في الرياض",
+      "note": "Translation: 'Marah is owned and operated by Meatsteak Company, a registered Saudi company headquartered in Riyadh'; the same footer gives commercial registration 7052155863.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -25436,6 +25512,37 @@
     "reviewed": false
   },
   {
+    "id": "rasan-substantial-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "rasan-information-technology"
+    ],
+    "text": "As of Rasan Information Technology Company's IPO prospectus of May 2024, the shareholders who directly owned 5% or more of the company were Impact Funds for Financial Technology Company, Theib Hudeiban Ghallab AlMutairi, Muheideb Ali Mohammed AlMuheideb, Samer Mohammed Raslan, Mohammed Muheideb Ali AlMuheideb and Assets Custody Development Impact Company for Communications and Information Technology. On 13 March 2025, Impact46 announced its successful exit from Rasan through an accelerated bookbuild offering.",
+    "source": {
+      "name": "Rasan Information Technology Company Prospectus (CMA), Substantial Shareholders",
+      "date": "2024-05",
+      "url": "https://cma.gov.sa/en/Market/Prospectuses/Documents/rasan_en.pdf",
+      "quote": "Substantial Shareholders who directly own 5% or more of the Company’s Shares are: (1) Impact Funds for Financial Technology Company, (2) Theib Hudeiban Ghallab AlMutairi, (3) Muheideb Ali Mohammed AlMuheideb, (4) Samer Mohammed Raslan, (5) Mohammed Muheideb Ali AlMuheideb and (6) Assets Custody Development Impact Company for Communications and Information Technology",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Argaam – Impact46 exits Rasan; return reaches 10x initial investment",
+        "date": "2025-03-13",
+        "url": "https://www.argaam.com/en/article/articledetail/id/1797009",
+        "quote": "Impact46, a leading fund manager in Saudi Arabia, licensed by the Capital Market Authority (CMA), focusing on investing in high growth technology companies, today announced its successful exit from Rasan Information Technology Company (“Rasan”) through an accelerated bookbuild offering.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (review of PR #1115)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "rate-formerly-guaranteed-rate-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -30309,17 +30416,28 @@
     "text": "Tameeni, the Saudi insurance-comparison platform, is a subsidiary of Rasan Information Technology Company, a Saudi joint-stock company listed on the Saudi Exchange.",
     "short": "Tameeni is a subsidiary of Rasan Information Technology (listed on the Saudi Exchange, Tadawul: 8313).",
     "source": {
-      "name": "Rasan – homepage (company site)",
-      "date": "",
-      "url": "https://www.rasan.co/en",
-      "quote": "Rasan's subsidiary Tameeni signs insurance brokerage agreement with Saudi National Bank",
+      "name": "Rasan — Initial Public Offering (IPO), rasan.co",
+      "date": "2025",
+      "url": "https://rasan.co/en/investor-relations/ipo",
+      "quote": "One of the leading FinTech companies in the Middle East providing seamless services through our flagship subsidiaries, including Tameeni",
+      "note": "Quote verified on the live page 2026-10-09 (static HTML). Originally cited the rasan.co/en homepage, whose JS-rendered ticker carried the SNB brokerage headline when checked 2026-10-03; the raw HTML no longer shows it, so the primary source was re-pointed at this IPO page which states the same fact in static HTML.",
       "checked": {
-        "on": "2026-10-03",
-        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        "on": "2026-10-09",
+        "by": "BigBossRabbit"
       }
     },
     "reviewed": false,
     "additionalSources": [
+      {
+        "name": "Rasan — homepage (company site)",
+        "date": "",
+        "url": "https://www.rasan.co/en",
+        "quote": "Tameeni marked the beginning of Rasan's disruption of Saudi Arabia's insurance market in 2017",
+        "checked": {
+          "on": "2026-10-09",
+          "by": "BigBossRabbit"
+        }
+      },
       {
         "name": "Rasan Information Technology Company Prospectus (CMA)",
         "date": "2024-05",
