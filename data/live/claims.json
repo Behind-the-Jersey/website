@@ -5273,6 +5273,27 @@
     "reviewed": false
   },
   {
+    "id": "bombardier-inc-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "bombardier-inc"
+    ],
+    "text": "Bombardier Inc. has issued Class A shares carrying 10 votes per share and Class B subordinate voting shares carrying one vote per share. As at 3 March 2025 the four family 'Principal Shareholders' (Janine Bombardier, Claire Bombardier Beaudoin, Huguette Bombardier Fontaine, J.R. André Bombardier) held 80.80% of the Class A shares, 1.38% of the Class B shares and 47.83% of all voting rights.",
+    "short": "The Bombardier family Principal Shareholders hold 80.80% of Bombardier Inc.'s 10-vote Class A shares (47.83% of total voting rights).",
+    "source": {
+      "name": "Bombardier – Shares & dividends (Wayback Machine capture of 5 August 2026)",
+      "date": "2026-08-05",
+      "url": "https://web.archive.org/web/20260805150626/https://bombardier.com/en/investors/shares-dividends",
+      "quote": "9,977,978 Class A shares and 1,208,449 Class B subordinate voting shares, representing in the aggregate 80.80% of the issued and outstanding Class A shares",
+      "note": "Footnote 2 under the share table names the four family members collectively as the 'Principal Shareholders'; the live bombardier.com page serves a JavaScript shell to scripts.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "bon-secours-mercy-health-record",
     "kind": "ownership",
     "ownerIds": [
@@ -26950,6 +26971,27 @@
     "reviewed": false
   },
   {
+    "id": "sabelt-marsiaj-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "sabelt"
+    ],
+    "text": "Sabelt SpA, the Italian seatbelt and racing-seat maker, is owned by the Marsiaj family of Turin: Giorgio Marsiaj holds 61% and the family holding M. Marsiaj & C. holds 10% (Milano Finanza, March 2024).",
+    "short": "Sabelt is owned by the Marsiaj family: Giorgio Marsiaj 61% plus the family holding's 10%.",
+    "source": {
+      "name": "Milano Finanza – I fratelli Giorgio e Pietro Marsiaj (proprietari di Sabelt) separano le holding",
+      "date": "2024-03-15",
+      "url": "https://www.milanofinanza.it/news/i-fratelli-giorgio-e-pietro-marsiaj-proprietari-di-sabelt-separano-le-holding-202403151714121989",
+      "quote": "In M. Marsiaj figurano fra l’altro il 10% di Sabelt (di cui Giorgio ha il 61%)",
+      "note": "Italian; translates as 'M. Marsiaj includes, among others, 10% of Sabelt (of which Giorgio holds 61%)'. Headline calls the brothers 'owners of Sabelt'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "sabseg-sa-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -33408,6 +33450,48 @@
         }
       }
     ],
+    "reviewed": false
+  },
+  {
+    "id": "vista-brands-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "vista-global"
+    ],
+    "text": "The Vista AF Corse team name and livery carry the Vista brand of Vista Global Holding Limited ('Vista'), the Dubai-headquartered private aviation group whose services are offered through its leading brands, including VistaJet and XO.",
+    "short": "'Vista' is Vista Global Holding Limited, the group behind the Vista AF Corse name and livery; VistaJet and XO are its brands.",
+    "source": {
+      "name": "PR Newswire (release by Vista) – Vista AF Corse showcases its striking FIA world ensurance championship livery, as battle gears up for Le Mans",
+      "date": "2026-06-11",
+      "url": "https://www.prnewswire.com/news-releases/vista-af-corse-showcases-its-striking-fia-world-ensurance-championship-livery-as-battle-gears-up-for-le-mans-302797994.html",
+      "quote": "Vista Global Holding Limited (Vista) is the world's leading global business aviation company",
+      "note": "The same release's About Vista section also says its services are 'offered through its leading brands, including VistaJet and XO'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "vista-global-flohr-majority",
+    "kind": "ownership",
+    "ownerIds": [
+      "vista-global"
+    ],
+    "text": "Vista Global Holding Limited is majority-owned by its founder and chairman Thomas Flohr; a USD 600 million investment agreed in March 2025 was a minority stake by a consortium led by RRJ Capital, with Andalusian Private Capital.",
+    "short": "Thomas Flohr, Vista Global's founder and chairman, remains its majority owner after a March 2025 minority investment led by RRJ Capital.",
+    "source": {
+      "name": "ch-aviation – VistaJet secures $600mn private equity investment",
+      "date": "2025-03-19",
+      "url": "https://www.ch-aviation.com/news/151617-vistajet-secures-600mn-private-equity-investment",
+      "quote": "However, Flohr remains the majority owner even after the investment",
+      "note": "The article identifies Dubai-based parent Vista Global Holding Limited and names the investors (RRJ Capital consortium, Andalusian Private Capital) as minority new shareholders.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
     "reviewed": false
   },
   {

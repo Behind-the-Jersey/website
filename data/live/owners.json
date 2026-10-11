@@ -1550,6 +1550,13 @@
     "country": "US"
   },
   {
+    "id": "bombardier-inc",
+    "name": "Bombardier Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Canada"
+  },
+  {
     "id": "bon-secours-mercy-health",
     "name": "Bon Secours Mercy Health (Mercy Health, Ohio and Kentucky)",
     "type": "private-company",
@@ -8280,6 +8287,14 @@
     "parentId": "russian-federation",
     "via": "100% of shares held by the Russian Federation",
     "note": "RZD charter: all shares of the company are owned by the Russian Federation."
+  },
+  {
+    "id": "sabelt",
+    "name": "Sabelt SpA",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Italy",
+    "note": "Turin seatbelt and motorsport seat maker. Milano Finanza (2024-03-15) reports the Marsiaj dynasty owns Sabelt: Giorgio Marsiaj holds 61% and the family holding M. Marsiaj & C. holds 10%."
   },
   {
     "id": "sabor-a-malaga",

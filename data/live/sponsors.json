@@ -4123,6 +4123,22 @@
     "note": "PPE safety-eyewear brand; partner of JOTA since at least 2021 (Bollé Safety posts on LinkedIn/Instagram: 'Bollé Safety is excited to continue our partnership with Cadillac Hertz Team JOTA') and its logo is on the JOTA partners page. Owner not yet traced (lead: Bollé Brands)."
   },
   {
+    "id": "bombardier",
+    "name": "Bombardier",
+    "ownerId": "bombardier-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "The four Bombardier-family 'Principal Shareholders' hold 80.80% of Bombardier Inc.'s 10-vote Class A shares, 47.83% of all voting rights (the company's Shares & dividends page). Nothing found.",
+    "claimIds": [
+      "bombardier-inc-shareholders"
+    ],
+    "aliases": [
+      "Bombardier Inc."
+    ],
+    "note": "Sponsor of car #54 for 2026; the same release says Bombardier also sponsors driver Thomas Flohr's helmet, race suit and trackwear."
+  },
+  {
     "id": "bonds",
     "name": "Bonds",
     "ownerId": null,
@@ -4806,6 +4822,18 @@
     ],
     "aliases": [],
     "note": "Re-rated 2026-09-27 (docs/rating-review-2026-09-27.md): was concern; its record (fines, settlements, financing) is not a human-rights finding (METHOD.md)."
+  },
+  {
+    "id": "carlac-minerals",
+    "name": "Carlac Minerals",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "French surfacing-minerals group; its site describes it as a 'groupe familial français' ('French family-owned group', carlacminerals.fr); reported elsewhere as the Hériau family business of #21 driver François Hériau, but the sources for that (Le Journal des Entreprises on the Soka takeover, Ouest-France) were blocked/rate-limited to me, so the family name is not cited from an opened page; the 'Carrières des Lacs' alias was removed for the same reason. Logo on the #21 car in the 2026 livery renders. Owner claim not written: no opened source names the owner."
   },
   {
     "id": "carling",
@@ -6726,6 +6754,18 @@
     "claimIds": [],
     "aliases": [],
     "note": "Rating note: Private Company company with no significant conduct issues found Rating removed 2026-09-25: its only claim was an invented ownership record (#279)."
+  },
+  {
+    "id": "delta-engineering",
+    "name": "Delta Engineering",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Logo on the front bumper and sill of the 2026 cars. Several unrelated firms share the name; which Delta Engineering this is could not be verified from a primary source."
   },
   {
     "id": "deltomed",
@@ -15449,6 +15489,21 @@
     "note": "Chinese dairy brand; official sponsor of World Cup 26, Women's World Cup 2027 and World Cup 2030."
   },
   {
+    "id": "menoni",
+    "name": "Menoni",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Menoni S.r.l.",
+      "Menoni Milano"
+    ],
+    "note": "Menoni S.r.l., Milan maker of metal fashion/jewellery components since 1929, describes itself as a family business and an official AF Corse sponsor (menoni.com blog, 2025-04-15). Owner not named in a primary source I found; stays not-rated-yet."
+  },
+  {
     "id": "meo",
     "name": "Cafés Méo",
     "ownerId": null,
@@ -18612,6 +18667,18 @@
     "note": "Listed as an official supplier of Équipe cycliste Groupama-FDJ United on the club's partner page (partenaires). French micro-nutrition laboratory; team's micro-nutrition partner."
   },
   {
+    "id": "piloti",
+    "name": "Piloti",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Piloti driving shoes; logo on the cars' side sills. Private company; control owner not disclosed in a primary source I could open, so it stays not-rated-yet."
+  },
+  {
     "id": "ping",
     "name": "PING",
     "ownerId": null,
@@ -19221,6 +19288,20 @@
     ],
     "aliases": [],
     "note": "Rating note: nestle.com blocks direct scraping (403); the Annual Review PDF was opened via extractor. Purina is a subsidiary brand of Nestle S.A."
+  },
+  {
+    "id": "pyypl",
+    "name": "Pyypl",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "pyypl.com"
+    ],
+    "note": "UAE payments fintech; shown on the #21 car's door and roof in the team's 2026 livery renders (p300.it, 2026-03-05) - not confirmed in the race photos available to me. Investors and owner not disclosed in a primary source I could open; owner unverified."
   },
   {
     "id": "qatar-airways",
@@ -20670,14 +20751,18 @@
   {
     "id": "sabelt",
     "name": "Sabelt",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Racing seats, seatbelts and racewear maker; Alpine Endurance Team partner for 2026 (club release 19/03/2026). Audi Revolut F1 Team technical partner on the 2026 car; its logo tile is on the team's partners page and Sabelt posted the partnership on 2026-01-27. Sabelt's own history page says Piero and Giorgio Marsiaj founded Sabelt in Turin in 1972, but the page states no current ownership, so no ownership claim was written."
+    "ownerId": "sabelt",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Italian family company: the Marsiaj family owns Sabelt (Giorgio Marsiaj 61%, family holding 10%). Nothing found.",
+    "claimIds": [
+      "sabelt-marsiaj-ownership"
+    ],
+    "aliases": [
+      "Sabelt SpA"
+    ],
+    "note": "Harness/seat maker; logo on the cars' side sills. Also Alpine Endurance Team partner for 2026 (club release 19/03/2026) and Audi Revolut F1 Team technical partner on the 2026 car."
   },
   {
     "id": "sabor-a-malaga",
@@ -25522,6 +25607,24 @@
     "note": "Norwegian accounting/payroll software company (formerly Visma)."
   },
   {
+    "id": "vista",
+    "name": "Vista",
+    "ownerId": "vista-global",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Vista Global Holding Limited ('Vista'), the Dubai-headquartered group behind the Vista name, is majority-owned by its founder Thomas Flohr. Nothing found.",
+    "claimIds": [
+      "vista-brands-ownership",
+      "vista-global-flohr-majority"
+    ],
+    "aliases": [
+      "Vista Global",
+      "Vista Global Holding"
+    ],
+    "note": "Title brand of the Vista AF Corse team; the club name itself carries Vista."
+  },
+  {
     "id": "vistajet",
     "name": "VistaJet",
     "ownerId": "vista-global",
@@ -26327,6 +26430,24 @@
     ],
     "aliases": [],
     "note": "Rating note: Comcast is publicly traded with no state ownership; the Roberts family holds effective control via Class B shares but this is private, not state, ownership. No documented human-rights concerns in ownership chain identified."
+  },
+  {
+    "id": "xo",
+    "name": "XO",
+    "ownerId": "vista-global",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "XO is a brand of Dubai-based Vista Global Holding Limited, majority-owned by its founder Thomas Flohr. Nothing found.",
+    "claimIds": [
+      "vista-brands-ownership",
+      "vista-global-flohr-majority"
+    ],
+    "aliases": [
+      "flyxo",
+      "XO Global"
+    ],
+    "note": "Vista's digital booking brand (flyxo.com); on car #54's rear-wing endplate and sill in 2026."
   },
   {
     "id": "xplere",

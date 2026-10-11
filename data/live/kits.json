@@ -34791,6 +34791,201 @@
     "shortLine": "Rakuten front, Noevir sleeve, Kawasaki back"
   },
   {
+    "id": "vista-af-corse-2026-home",
+    "clubId": "vista-af-corse",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "vista",
+        "placement": "front",
+        "source": {
+          "name": "PR Newswire (release by Vista) – Vista AF Corse showcases its striking FIA world ensurance championship livery, as battle gears up for Le Mans",
+          "date": "2026-06-11",
+          "url": "https://www.prnewswire.com/news-releases/vista-af-corse-showcases-its-striking-fia-world-ensurance-championship-livery-as-battle-gears-up-for-le-mans-302797994.html",
+          "quote": "Vista AF Corse will be racing with its bold new livery as it takes on one of the most competitive grids in modern endurance racing history.",
+          "note": "Team title brand: the large Vista wordmark is on #54's door and on both 2026 cars' red rear wings (#21's door carries pyypl), and the team races under the Vista AF Corse name.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "bombardier",
+        "placement": "partner",
+        "source": {
+          "name": "PR Newswire (release by Vista) – Vista AF Corse showcases its striking FIA world ensurance championship livery, as battle gears up for Le Mans",
+          "date": "2026-06-11",
+          "url": "https://www.prnewswire.com/news-releases/vista-af-corse-showcases-its-striking-fia-world-ensurance-championship-livery-as-battle-gears-up-for-le-mans-302797994.html",
+          "quote": "This year, the line-up welcomes Bombardier as a new sponsor across the car, in addition to Flohr's helmet, race suit and trackwear",
+          "note": "Car #54: Bombardier on the rear quarter below the wing and above the windscreen (also visible in the September 2026 Fuji race photo on motorinolimits.com).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "vistajet",
+        "placement": "partner",
+        "source": {
+          "name": "P300.it – WEC | Vista AF Corse svela le livree 2026 delle 296 LMGT3",
+          "date": "2026-03-05",
+          "url": "https://www.p300.it/wec-vista-af-corse-svela-le-livree-2026-delle-296-lmgt3/",
+          "quote": "Vista AF Corse ha svelato le livree 2026 con cui affronterà il FIA World Endurance Championship",
+          "note": "Italian: 'Vista AF Corse has revealed the 2026 liveries'. The VistaJet wordmark (a Vista Global brand) is on the front bonnet/bumper: visible on the #21 2026 livery render published on this page, and on the raced #54 in the 27 September 2026 Fuji race photo hosted on motorinolimits.com/2026/09/28/quarto-posto-per-la-296-lmgt3-evo-al-fuji/.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "xo",
+        "placement": "partner",
+        "source": {
+          "name": "PR Newswire (release by Vista) – Vista AF Corse showcases its striking FIA world ensurance championship livery, as battle gears up for Le Mans",
+          "date": "2026-06-11",
+          "url": "https://www.prnewswire.com/news-releases/vista-af-corse-showcases-its-striking-fia-world-ensurance-championship-livery-as-battle-gears-up-for-le-mans-302797994.html",
+          "quote": "Vista AF Corse will be racing with its bold new livery as it takes on one of the most competitive grids in modern endurance racing history.",
+          "note": "XO logo (Vista's flyxo.com brand) on car #54's rear-wing endplate and side sill in the headline photo on this page; the same XO roundel is on the #21 renders' A-pillar.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "richard-mille",
+        "placement": "partner",
+        "source": {
+          "name": "P300.it – WEC | Vista AF Corse svela le livree 2026 delle 296 LMGT3",
+          "date": "2026-03-05",
+          "url": "https://www.p300.it/wec-vista-af-corse-svela-le-livree-2026-delle-296-lmgt3/",
+          "quote": "Vista AF Corse ha svelato le livree 2026 con cui affronterà il FIA World Endurance Championship",
+          "note": "Italian: 'Vista AF Corse has revealed the 2026 liveries'. The RICHARD MILLE logo runs along the top of the sidepods/roof edges of both cars in the published renders and the raced #54 at Fuji (motorinolimits.com, 2026-09-28 photo).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "shell",
+        "placement": "partner",
+        "source": {
+          "name": "P300.it – WEC | Vista AF Corse svela le livree 2026 delle 296 LMGT3",
+          "date": "2026-03-05",
+          "url": "https://www.p300.it/wec-vista-af-corse-svela-le-livree-2026-delle-296-lmgt3/",
+          "quote": "Il team conferma anche l'impegno nella classe LMGT3 con un doppio schieramento Ferrari.",
+          "note": "Italian: 'The team also confirms its LMGT3 commitment with two Ferraris'. The Shell pecten is on the doors and Shell V-Power on the front bumper, in the published renders and the raced #54 at Fuji.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "pyypl",
+        "placement": "partner",
+        "source": {
+          "name": "P300.it – WEC | Vista AF Corse svela le livree 2026 delle 296 LMGT3",
+          "date": "2026-03-05",
+          "url": "https://www.p300.it/wec-vista-af-corse-svela-le-livree-2026-delle-296-lmgt3/",
+          "quote": "Nel 2026 Vista AF Corse rappresenterà il Cavallino con due Ferrari 296 LMGT3 Evo, identificate dai numeri #54 e #21.",
+          "note": "Italian: 'In 2026 Vista AF Corse will represent Ferrari with two 296 LMGT3 Evos, numbers #54 and #21'. The pyypl.com logo is on the door and roof of car #21 in the published renders; not confirmed in the race photos of #21 I could find, so inclusion is render-based.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "carlac-minerals",
+        "placement": "partner",
+        "source": {
+          "name": "P300.it – WEC | Vista AF Corse svela le livree 2026 delle 296 LMGT3",
+          "date": "2026-03-05",
+          "url": "https://www.p300.it/wec-vista-af-corse-svela-le-livree-2026-delle-296-lmgt3/",
+          "quote": "Nel 2026 Vista AF Corse rappresenterà il Cavallino con due Ferrari 296 LMGT3 Evo, identificate dai numeri #54 e #21.",
+          "note": "CARLAC MINERALS logo on the rear quarters and rear wing of car #21 in the published renders; inclusion is render-based. Ownership unverified - see the sponsor record's note.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "menoni",
+        "placement": "partner",
+        "source": {
+          "name": "Menoni – The Italian passion for fashion and engines come together",
+          "date": "2025-04-15",
+          "url": "https://www.menoni.com/en/blog/fashion-and-engines.html",
+          "quote": "As the official sponsor of AF Corse, Ferrari's long-time partner in the prestigious World Endurance Championship (WEC) and in the IMSA WeatherTech SportsCar Championship",
+          "note": "Menoni's own blog. The menoni logo is on the rear of both cars in the 2026 renders and the raced #54 at Fuji.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "sabelt",
+        "placement": "partner",
+        "source": {
+          "name": "P300.it – WEC | Vista AF Corse svela le livree 2026 delle 296 LMGT3",
+          "date": "2026-03-05",
+          "url": "https://www.p300.it/wec-vista-af-corse-svela-le-livree-2026-delle-296-lmgt3/",
+          "quote": "Vista AF Corse ha svelato le livree 2026 con cui affronterà il FIA World Endurance Championship",
+          "note": "The Sabelt logo (yellow) is on the side sill in the published renders and on the raced #54 at Fuji.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "piloti",
+        "placement": "partner",
+        "source": {
+          "name": "P300.it – WEC | Vista AF Corse svela le livree 2026 delle 296 LMGT3",
+          "date": "2026-03-05",
+          "url": "https://www.p300.it/wec-vista-af-corse-svela-le-livree-2026-delle-296-lmgt3/",
+          "quote": "Vista AF Corse ha svelato le livree 2026 con cui affronterà il FIA World Endurance Championship",
+          "note": "The PILOTI logo (driving shoes) is on the side sill next to Sabelt in the published renders and on the raced #54 at Fuji.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "delta-engineering",
+        "placement": "partner",
+        "source": {
+          "name": "P300.it – WEC | Vista AF Corse svela le livree 2026 delle 296 LMGT3",
+          "date": "2026-03-05",
+          "url": "https://www.p300.it/wec-vista-af-corse-svela-le-livree-2026-delle-296-lmgt3/",
+          "quote": "Vista AF Corse ha svelato le livree 2026 con cui affronterà il FIA World Endurance Championship",
+          "note": "The Delta Engineering logo is on the front canard/bumper and side sill in the published renders and on the raced #54 at Fuji. Which company this is could not be verified.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 FIA WEC LMGT3: two silver/red Ferrari 296 LMGT3 Evos (#54, #21). Vista (Vista Global Holding Limited's brand) is the title brand on the doors/rear wing; Bombardier joined for 2026 on car #54 (plus Flohr's helmet, suit and trackwear), VistaJet on the bonnet/front, XO on wing endplate and sill, Richard Mille along the sidepod tops; Shell (pecten/V-Power), Pyypl (#21, render-based), Carlac Minerals (#21, render-based), Menoni, Sabelt, PILOTI and Delta Engineering complete the stickers. Not catalogued: the 'RNS' logo on the A-pillars and one unreadable white script logo on the side sill, and helmet/suit patches. Goodyear is WEC's exclusive LMGT3 tyre supplier and DHL appears in series-partner decal positions (both recorded as series deals); Ferrari badging is the manufacturer's, not sponsorship. sponsorsComplete false pending verification of these. Car placements recorded as 'partner' because the schema has no car-placement vocabulary.",
+    "change": null
+  },
+  {
     "id": "vitoria-guimaraes-2026-27-home",
     "clubId": "vitoria-guimaraes",
     "season": "2026-27",
