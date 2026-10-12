@@ -3779,6 +3779,14 @@
     "country": "United States"
   },
   {
+    "id": "goldwin-inc",
+    "name": "Goldwin Inc.",
+    "type": "listed-company",
+    "country": "Japan",
+    "parentId": null,
+    "note": "Japanese sports-apparel maker listed on the Tokyo Stock Exchange Prime Market (securities code 8111; company outline at about.goldwin.co.jp/about/company). Develops the Canterbury brand in Japan and designs and manufactures the Japan national rugby teams' official jerseys."
+  },
+  {
     "id": "goodyear-tire-rubber",
     "name": "The Goodyear Tire & Rubber Company",
     "type": "listed-company",
@@ -9330,6 +9338,14 @@
     "note": "SUEZ S.A.'s interim financial statements (H1 2025, section 1.1): SUEZ S.A. is 97% owned by SUEZ Holding S.A.S., held by Meridiam Sustainable Water & Waste Fund (40%), GIP IV Highbury Luxco (40%) and Caisse des Dépôts and CNP Assurances (20%), with 3% held by employees. SUEZ's governance page shows, in a shareholders chart, the current effective split: Meridiam 38.3%, Global Infrastructure Partners (a part of BlackRock) 38.3%, Caisse des Dépôts and CNP Assurances 18.8%, Go SUEZ employee shareholding 4.4%. The page describes Caisse des Dépôts as 'A French public-sector financial institution'."
   },
   {
+    "id": "sumitomo-mitsui-financial-group",
+    "name": "Sumitomo Mitsui Financial Group, Inc.",
+    "type": "listed-company",
+    "country": "Japan",
+    "parentId": null,
+    "note": "Bank holding company listed on the Tokyo Stock Exchange; wholly owns Sumitomo Mitsui Banking Corporation (SMBC). Its largest shareholders as of 2026-03-31 are trust and custody banks (The Master Trust Bank of Japan 16.15%, Custody Bank of Japan 5.79%)."
+  },
+  {
     "id": "sumup-ltd",
     "name": "SumUp Ltd",
     "type": "private-company",
@@ -9476,6 +9492,14 @@
     "parentId": null,
     "note": "jersey patch partner of baltimore-orioles (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "taisho-pharmaceutical-holdings",
+    "name": "Taisho Pharmaceutical Holdings Co., Ltd.",
+    "type": "private-company",
+    "country": "Japan",
+    "parentId": null,
+    "note": "Holding company of Taisho Pharmaceutical Co., Ltd. Taken private in 2024 in Japan's largest management buyout: Otemon, the acquisition vehicle of the founding Uehara family led by Shigeru Uehara, secured a 73% stake in the tender offer and moved to acquire the remaining shares; the shares were delisted from the Tokyo Stock Exchange on 2024-04-09."
   },
   {
     "id": "takasago-ltd",
@@ -9805,6 +9829,14 @@
     "country": "Sweden",
     "parentId": null,
     "note": "Swedish businessman (Gunvor co-founder); person with significant control of Artemis Technologies Ltd (Companies House). Treated as a private owner, not a state."
+  },
+  {
+    "id": "toshiba-corporation",
+    "name": "Toshiba Corporation",
+    "type": "private-company",
+    "country": "Japan",
+    "parentId": null,
+    "note": "Taken private in December 2023: the tender offer by TBJH Inc. succeeded and the shares were delisted on 2023-12-20. TBJH Inc. is wholly owned by TBJ Holding Inc., 75% of whose shares are held by TB Investment Limited Partnership, managed by Japan Industrial Partners (JIP) and its affiliates."
   },
   {
     "id": "totalenergies-se",

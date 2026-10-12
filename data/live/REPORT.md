@@ -1,48 +1,42 @@
 # data/live
 
-Release `data-2026-10-11-d85150fb` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `d85150fb`, data updated 2026-10-11. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
+Release `data-2026-10-12-03b4e37f` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `03b4e37f`, data updated 2026-10-12. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
 
-Compared with the data it replaces (`c142f343`, updated 2026-10-11):
+Compared with the data it replaces (`d85150fb`, updated 2026-10-11):
 
 | | clubs | kits | sponsors | owners | claims | deals | contacts |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| before | 594 | 567 | 1773 | 1395 | 1360 | 1187 | 230 |
-| after | 594 | 568 | 1781 | 1397 | 1364 | 1187 | 230 |
-
-## Club levels that change (1)
-
-- [Vista AF Corse](https://behind-the-jersey.org/clubs/vista-af-corse/) (FIA World Endurance Championship): Not rated yet → **Spotted**
+| before | 594 | 568 | 1781 | 1397 | 1364 | 1187 | 230 |
+| after | 594 | 569 | 1783 | 1401 | 1370 | 1187 | 230 |
 
 ## Sponsor ratings that change (1)
 
-- Sabelt: unrated (unrated) → **none** (rated)
+- Taisho Pharmaceutical: unrated (unrated) → **none** (rated)
 
-## Sponsors added (8)
+## Sponsors added (2)
 
-- Bombardier: none
-- Carlac Minerals: unrated
-- Delta Engineering: unrated
-- Menoni: unrated
-- Piloti: unrated
-- Pyypl: unrated
-- Vista: none
-- XO: none
+- SMBC (Sumitomo Mitsui Banking Corporation): none
+- Toshiba: none
 
-## Owners added (2)
+## Owners added (4)
 
-- Bombardier Inc. (bombardier-inc)
-- Sabelt SpA (sabelt)
+- Goldwin Inc. (goldwin-inc)
+- Sumitomo Mitsui Financial Group, Inc. (sumitomo-mitsui-financial-group)
+- Taisho Pharmaceutical Holdings Co., Ltd. (taisho-pharmaceutical-holdings)
+- Toshiba Corporation (toshiba-corporation)
 
-## Claims added (4)
+## Claims added (6)
 
-- bombardier-inc-shareholders: Bombardier Inc. has issued Class A shares carrying 10 votes per share and Class B subordinate voting shares carrying one vote per share. As at 3 March 2025 the four family 'Principal Shareholders' (Janine Bombardier, Claire Bombardier Beaudoin, Huguette Bombardier Fontaine, J.R. André Bombardier) held 80.80% of the Class A shares, 1.38% of the Class B shares and 47.83% of all voting rights.
-- sabelt-marsiaj-ownership: Sabelt SpA, the Italian seatbelt and racing-seat maker, is owned by the Marsiaj family of Turin: Giorgio Marsiaj holds 61% and the family holding M. Marsiaj & C. holds 10% (Milano Finanza, March 2024).
-- vista-brands-ownership: The Vista AF Corse team name and livery carry the Vista brand of Vista Global Holding Limited ('Vista'), the Dubai-headquartered private aviation group whose services are offered through its leading brands, including VistaJet and XO.
-- vista-global-flohr-majority: Vista Global Holding Limited is majority-owned by its founder and chairman Thomas Flohr; a USD 600 million investment agreed in March 2025 was a minority stake by a consortium led by RRJ Capital, with Andalusian Private Capital.
+- canterbury-japan-goldwin-ownership: The Japan national teams' official Canterbury jerseys are designed and manufactured by Goldwin Inc., which develops the Canterbury brand in Japan and is an official partner of both the men's and women's national teams.
+- smbc-smfg-wholly-owned: Sumitomo Mitsui Banking Corporation became a wholly owned subsidiary of Sumitomo Mitsui Financial Group when SMFG was established in December 2002 as a bank holding company through a share transfer.
+- smfg-largest-shareholders: Sumitomo Mitsui Financial Group's largest shareholders as of March 31, 2026 are trust and custody banks: The Master Trust Bank of Japan (16.15%) and Custody Bank of Japan (5.79%), ahead of State Street Bank and Trust Company (2.82%).
+- taisho-holdings-otemon-mbo: Taisho Pharmaceutical Holdings was taken private in 2024: Otemon, a Tokyo-based company owned by a member of the founding Uehara family and led by Shigeru Uehara, secured a 73% stake in its tender offer and moved to acquire the remaining shares.
+- taisho-subsidiary-of-holdings: Taisho Pharmaceutical Co., Ltd. is the principal operating subsidiary of Taisho Pharmaceutical Holdings Co., Ltd., which was taken private by the founding Uehara family in an April 2024 management buyout and delisted from the Tokyo Stock Exchange.
+- toshiba-tbjh-jip-ownership: Toshiba Corporation was taken private in 2023: the tender offer by TBJH Inc. succeeded and Toshiba's shares were delisted on December 20, 2023. TBJH Inc. is wholly owned by TBJ Holding Inc., 75% of whose shares are held by TB Investment Limited Partnership, managed by Japan Industrial Partners and its affiliates.
 
 ## Clubs whose kits change (1)
 
-- [Vista AF Corse](https://behind-the-jersey.org/clubs/vista-af-corse/)
+- [Japan](https://behind-the-jersey.org/clubs/rugby-japan/)
 
 ## Warnings (66)
 

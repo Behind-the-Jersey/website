@@ -4748,13 +4748,17 @@
     "status": "unrated",
     "verdict": null,
     "claimIds": [
-      "canterbury-pentland-ownership"
+      "canterbury-pentland-ownership",
+      "fa-cup-mitre-ownership",
+      "canterbury-japan-goldwin-ownership"
     ],
     "aliases": [
       "CCC",
-      "Canterbury of New Zealand"
+      "Canterbury of New Zealand",
+      "canterbury of new zealand",
+      "カンタベリー"
     ],
-    "note": "Kit maker of the Ireland 2026/27 home shirt, listed as partner per the convention for kit suppliers. Owned by Pentland Brands, part of Pentland Group, per pentlandgroup.com/about-us; Pentland Group is owned by the Rubin family (Bailiwick Express, Feb 2023, reporting The Sunday Times)."
+    "note": "Kit maker of the Ireland and Japan 2026/27 home shirts, listed as partner per the convention for kit suppliers. Owned by Pentland Brands, part of Pentland Group, per pentlandgroup.com/about-us; Pentland Group is owned by the Rubin family (Bailiwick Express, Feb 2023, reporting The Sunday Times). Japan national-team jerseys are designed and manufactured by Tokyo-listed Goldwin Inc.; the Japan design debuted in 2025. Main's unrated status is retained pending a maintainer's rating decision."
   },
   {
     "id": "cantina-fantini",
@@ -22181,6 +22185,25 @@
     "note": "Official technology partner since 2021; branding on race cars, pit-crew overalls and race suits."
   },
   {
+    "id": "smbc",
+    "name": "SMBC (Sumitomo Mitsui Banking Corporation)",
+    "ownerId": "sumitomo-mitsui-financial-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "SMBC is wholly owned by Tokyo-listed Sumitomo Mitsui Financial Group, whose largest shareholders are trust and custody banks. Nothing found.",
+    "claimIds": [
+      "smbc-smfg-wholly-owned",
+      "smfg-largest-shareholders"
+    ],
+    "aliases": [
+      "sumitomo mitsui banking corporation",
+      "三井住友銀行",
+      "smbc rugby"
+    ],
+    "note": "Rating note: core bank of Tokyo-listed Sumitomo Mitsui Financial Group; the largest holders are trust and custody banks, no state or fund with a record in the chain → none. Men's Japan national team official partner (JRFU)."
+  },
+  {
     "id": "smoothie-king",
     "name": "Smoothie King",
     "ownerId": "smoothie-king-owner",
@@ -23448,17 +23471,21 @@
   {
     "id": "taisho-pharmaceutical",
     "name": "Taisho Pharmaceutical",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "taisho-pharmaceutical-holdings",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Taisho Pharmaceutical is the operating subsidiary of Taisho Pharmaceutical Holdings, taken private in 2024 by the founding Uehara family through its vehicle Otemon. Nothing found.",
+    "claimIds": [
+      "taisho-subsidiary-of-holdings",
+      "taisho-holdings-otemon-mbo"
+    ],
     "aliases": [
       "lipovitand",
-      "lipovitan d"
+      "lipovitan d",
+      "大正製薬"
     ],
-    "note": "RWC 2027 Official Supplier as LipovitanD (rugbyworldcup.com/2027/en/partners); also a Global Partner of New Zealand Rugby (allblacks.com/partners)."
+    "note": "Rating note: Japanese family-owned pharmaceutical company (Lipovitan D); private since the April 2024 Uehara-family management buyout, no state or fund in the chain → none. Front-of-shirt sponsor ('リポビタンD') and Japan Rugby top partner per the JRFU. RWC 2027 Official Supplier as LipovitanD (rugbyworldcup.com/2027/en/partners); also a Global Partner of New Zealand Rugby (allblacks.com/partners)."
   },
   {
     "id": "taittinger",
@@ -24294,6 +24321,22 @@
       "Top Sport"
     ],
     "note": "Lithuanian gaming-operator fines (2023, gambling supervision) are regulatory and do not count toward a rating (METHOD.md)."
+  },
+  {
+    "id": "toshiba",
+    "name": "Toshiba",
+    "ownerId": "toshiba-corporation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Toshiba Corporation has been private since its December 2023 delisting, owned through TBJH by a fund managed by Japan Industrial Partners. Nothing found.",
+    "claimIds": [
+      "toshiba-tbjh-jip-ownership"
+    ],
+    "aliases": [
+      "東芝"
+    ],
+    "note": "Rating note: Japanese electronics and energy group, private since December 2023 under a Japan Industrial Partners-led buyout; no state or state fund in the chain → none. Men's Japan national team official partner (JRFU) and sponsor of League One club Toshiba Brave Lupus Tokyo."
   },
   {
     "id": "totalenergies",
