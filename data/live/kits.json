@@ -28882,6 +28882,67 @@
     "shortLine": "Vittoria Assicurazioni on the front"
   },
   {
+    "id": "rugby-japan-2026-27-home",
+    "clubId": "rugby-japan",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "taisho-pharmaceutical",
+        "placement": "front",
+        "source": {
+          "name": "Sposuru Magazine: 【JRFU】ラグビー日本代表スポンサー・パートナー一覧 (JRFU: Japan national rugby team sponsor and partner list)",
+          "date": "2023-08-08",
+          "url": "https://sposuru.com/contents/money-situation/jrfu-sponser-partner/",
+          "quote": "日本代表選手のユニフォームにも書かれている「リポビタンD」でおなじみの大正製薬株式会社は、2020年からラグビー日本代表トップパートナーを務めている企業",
+          "checked": {
+            "on": "2026-10-04",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "English: 'Taisho Pharmaceutical, known for Lipovitan D which is also written on the Japan national team players' uniform, has been the Japan team's top partner since 2020.' The JRFU's own announcement of 2020-04-01 (rugby-japan.jp/braveblossoms/topics/50457) created the top-partner tier with Taisho as its first holder, and the live JRFU sponsor page (rugby-japan.jp/sponsor/) still lists 大正製薬 as 日本代表トップパートナー (checked 2026-10-04). The large リポビタンD wordmark with its blue 'D' lockup sits across the centre chest of the official launch photo (JRFU, 2025-06-22, rugby-japan.s3.ap-northeast-1.amazonaws.com/image/article/199394_1000x1092.JPG) and of the current retail product photos (Goldwin Online Store replica RG325788, goldwin.co.jp/ap/item/i/m/RG325788), both checked 2026-10-04."
+        }
+      },
+      {
+        "sponsorId": "toshiba",
+        "placement": "back",
+        "source": {
+          "name": "Japan Rugby Football Union: 日本代表トップパートナー、オフィシャルパートナー、オフィシャルスポンサー、オフィシャルサポーター決定のお知らせ (Top partner, official partners, official sponsors and official supporters decided)",
+          "date": "2020-04-01",
+          "url": "https://www.rugby-japan.jp/braveblossoms/topics/50457",
+          "quote": "男子日本代表オフィシャルパートナー 株式会社 東芝 株式会社三井住友銀行",
+          "checked": {
+            "on": "2026-10-04",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "JRFU announcement naming Toshiba a men's Japan national team official partner from FY2020; Toshiba remains listed as a men's official partner on the live JRFU sponsor page (rugby-japan.jp/sponsor/, checked 2026-10-04), and Toshiba's own brand site confirms it supports the Japan national team (toshiba-clip.com/detail/p=10310, 2023-07-28). The TOSHIBA wordmark sits across the upper back of the current retail product photos (Goldwin Online Store replica RG325788, goldwin.co.jp/ap/item/i/m/RG325788, back view checked 2026-10-04)."
+        }
+      },
+      {
+        "sponsorId": "canterbury",
+        "placement": "partner",
+        "source": {
+          "name": "Japan Rugby Football Union: ラグビー日本代表ジャージー新デザインを発表 ～ホームジャージーのデザインテーマは歌舞伎～ (Japan national team jersey new design announced - home theme kabuki)",
+          "date": "2025-06-22",
+          "url": "https://www.rugby-japan.jp/news/53337",
+          "quote": "ラグビー日本代表のオフィシャルジャージーは、男女日本代表オフィシャルパートナーで「Canterbury」ブランドを展開する株式会社ゴールドウイン（代表取締役社長：渡辺貴生、東京都港区）によってデザイン製作されました",
+          "checked": {
+            "on": "2026-10-04",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Kit maker, listed as partner per the convention for kit suppliers. English: 'The Japan national teams' official jersey is designed and manufactured by Goldwin Inc., the company that develops the Canterbury brand and is an official partner of both national teams.' Canterbury has supported the national team since 1997 (Sposuru, 2023-08-08). On the shirt, the Canterbury CCC logo sits on the wearer's right chest of the official launch photo and current retail product photos (goldwin.co.jp/ap/item/i/m/RG325788, checked 2026-10-04); the sakura crest is on the left chest and a Japanese flag patch on the left sleeve - no other commercial marks on the sleeves, and the back below the TOSHIBA wordmark is plain."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Lipovitan D (Taisho Pharmaceutical) across the front chest and TOSHIBA across the upper back of the white Canterbury home shirt, with Canterbury as kit maker. The kabuki-themed design launched on 2025-06-22 and is unchanged into 2026/27; the sleeves carry only a Japan flag patch. sponsorsComplete is false: the shorts in the official launch-day promo photo carry a dark wordmark patch on one leg, but no source names the sponsor and the wordmark is not legible in any available photo (SMBC is a documented men's official partner, but nothing ties it to the shorts), so no shorts sponsor is listed. SECOM, the other men's official partner, shows no logo on the match jersey in the official photos.",
+    "change": null,
+    "shortLine": "Lipovitan D on the front"
+  },
+  {
     "id": "rugby-portugal-2026-27-home",
     "clubId": "rugby-portugal",
     "season": "2026-27",

@@ -6043,6 +6043,27 @@
     "reviewed": false
   },
   {
+    "id": "canterbury-japan-goldwin-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "goldwin-inc"
+    ],
+    "text": "The Japan national teams' official Canterbury jerseys are designed and manufactured by Goldwin Inc., which develops the Canterbury brand in Japan and is an official partner of both the men's and women's national teams.",
+    "short": "Canterbury's Japan jerseys are designed and made by Goldwin Inc.",
+    "source": {
+      "name": "Japan Rugby Football Union: ラグビー日本代表ジャージー新デザインを発表 ～ホームジャージーのデザインテーマは歌舞伎～ (Japan national team jersey new design announced)",
+      "date": "2025-06-22",
+      "url": "https://www.rugby-japan.jp/news/53337",
+      "quote": "ラグビー日本代表のオフィシャルジャージーは、男女日本代表オフィシャルパートナーで「Canterbury」ブランドを展開する株式会社ゴールドウイン（代表取締役社長：渡辺貴生、東京都港区）によってデザイン製作されました",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-scout (OpenCode, model kimi-k3)"
+      },
+      "note": "JRFU announcement of the current home jersey design (debut July 2025). English: 'The official jersey of the Japan national rugby team is designed and manufactured by Goldwin Inc., the company that develops the Canterbury brand and is an official partner of both the men's and women's national teams.' Goldwin's own company outline (about.goldwin.co.jp/about/company) lists it as listed on the Tokyo Stock Exchange Prime Market, securities code 8111."
+    },
+    "reviewed": false
+  },
+  {
     "id": "canterbury-pentland-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -29041,6 +29062,48 @@
     "reviewed": false
   },
   {
+    "id": "smbc-smfg-wholly-owned",
+    "kind": "ownership",
+    "ownerIds": [
+      "sumitomo-mitsui-financial-group"
+    ],
+    "text": "Sumitomo Mitsui Banking Corporation became a wholly owned subsidiary of Sumitomo Mitsui Financial Group when SMFG was established in December 2002 as a bank holding company through a share transfer.",
+    "short": "SMBC is wholly owned by Sumitomo Mitsui Financial Group.",
+    "source": {
+      "name": "Sumitomo Mitsui Financial Group: SMBC Group Annual Report 2024 (FY2023), Group Companies (PDF)",
+      "date": "2024",
+      "url": "https://www.smfg.co.jp/english/investor/library/annual/fy2023e_f02_pdf/fy2023e_f02_02.pdf",
+      "quote": "Sumitomo Mitsui Financial Group, Inc. was established in December 2002 as a bank holding company through a share transfer, and SMBC became a wholly owned subsidiary of Sumitomo Mitsui Financial Group.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "SMFG's own English annual report (FY2023, published 2024), Group Companies section."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "smfg-largest-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "sumitomo-mitsui-financial-group"
+    ],
+    "text": "Sumitomo Mitsui Financial Group's largest shareholders as of March 31, 2026 are trust and custody banks: The Master Trust Bank of Japan (16.15%) and Custody Bank of Japan (5.79%), ahead of State Street Bank and Trust Company (2.82%).",
+    "short": "SMFG's largest shareholders are trust and custody banks.",
+    "source": {
+      "name": "Sumitomo Mitsui Financial Group: Capital and Stock Data — Principal Shareholders (as of March 31, 2026)",
+      "date": "2026-03-31",
+      "url": "https://www.smfg.co.jp/english/investor/stock/capital_shares.html",
+      "quote": "The Master Trust Bank of Japan, Ltd. (Trust Account) 616,623,100 16.15 Custody Bank of Japan, Ltd. (Trust Account) 221,341,000 5.79 STATE STREET BANK AND TRUST COMPANY 505001 107,842,569 2.82",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "SMFG's English investor-relations page, table 'Principal Shareholders (as of March 31, 2026)': share counts and percentage of shares outstanding."
+    },
+    "reviewed": false
+  },
+  {
     "id": "smoothie-king-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -30601,6 +30664,61 @@
     "reviewed": false
   },
   {
+    "id": "taisho-holdings-otemon-mbo",
+    "kind": "ownership",
+    "ownerIds": [
+      "taisho-pharmaceutical-holdings"
+    ],
+    "text": "Taisho Pharmaceutical Holdings was taken private in 2024: Otemon, a Tokyo-based company owned by a member of the founding Uehara family and led by Shigeru Uehara, secured a 73% stake in its tender offer and moved to acquire the remaining shares.",
+    "short": "Taisho Pharmaceutical Holdings was taken private by the Uehara family's Otemon in 2024.",
+    "source": {
+      "name": "JAKOTA Index News Hub: Taisho Pharmaceutical to Go Private in Japan’s Largest Management Buyout",
+      "date": "2024-01-17",
+      "url": "https://jakotaindex.com/news-hub/taisho-pharmaceutical-to-go-private-in-japans-largest-management-buyout/",
+      "quote": "Otemon, under the leadership of Shigeru Uehara, has garnered significant control over Taisho by acquiring more than 60.03 million shares, surpassing the minimum requirement and securing a 73% stake",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The same article calls Otemon 'a Tokyo-based company owned by a member of Taisho’s founding family' and says 'The strategic acquisition entails Otemon gaining full ownership of Taisho, with plans to purchase the remaining shares.'"
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Nikkei Biotech (日経バイオテク): 大正製薬ホールディングス、株式の上場廃止のお知らせ (Taisho Pharmaceutical Holdings: notice of delisting, company release)",
+        "date": "2024-04-09",
+        "url": "https://bio.nikkeibp.co.jp/atcl/release/24/04/09/20046/",
+        "quote": "2024年4月9日をもって東京証券取引所スタンダード市場において上場廃止となりますことをお知らせいたします",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Nikkei Biotech reproducing Taisho Pharmaceutical Holdings' company release of 2024-04-08. English: 'Notice that the company's shares will be delisted from the Tokyo Stock Exchange Standard Market effective April 9, 2024.'"
+      }
+    ]
+  },
+  {
+    "id": "taisho-subsidiary-of-holdings",
+    "kind": "ownership",
+    "ownerIds": [
+      "taisho-pharmaceutical-holdings"
+    ],
+    "text": "Taisho Pharmaceutical Co., Ltd. is the principal operating subsidiary of Taisho Pharmaceutical Holdings Co., Ltd., which was taken private by the founding Uehara family in an April 2024 management buyout and delisted from the Tokyo Stock Exchange.",
+    "short": "Taisho Pharmaceutical is the operating subsidiary of Taisho Pharmaceutical Holdings.",
+    "source": {
+      "name": "CNS Pulse: Taisho Pharmaceutical Co., Ltd. (company profile)",
+      "date": "2026",
+      "url": "https://cnspulse.com/company/taisho-pharmaceutical/",
+      "quote": "It is the principal operating subsidiary of Taisho Pharmaceutical Holdings Co., Ltd., which was taken private by the founding Uehara family in an April 2024 management buyout and delisted from the Tokyo Stock Exchange.",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Undated company profile page, opened 2026-10-04. CNS Pulse is a psychopharmacology pipeline database; its entry links to taisho.co.jp."
+    },
+    "reviewed": false
+  },
+  {
     "id": "takasago-ltd-anritsu",
     "kind": "ownership",
     "ownerIds": [
@@ -31589,6 +31707,39 @@
       }
     ],
     "reviewed": false
+  },
+  {
+    "id": "toshiba-tbjh-jip-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "toshiba-corporation"
+    ],
+    "text": "Toshiba Corporation was taken private in 2023: the tender offer by TBJH Inc. succeeded and Toshiba's shares were delisted on December 20, 2023. TBJH Inc. is wholly owned by TBJ Holding Inc., 75% of whose shares are held by TB Investment Limited Partnership, managed by Japan Industrial Partners and its affiliates.",
+    "short": "Toshiba is owned by a JIP-led buyout vehicle since its December 2023 delisting.",
+    "source": {
+      "name": "Toshiba Corporation IR: About Tender Offer for the Shares of Toshiba Corporation (FAQ)",
+      "date": "2024-04-24",
+      "url": "https://www.global.toshiba/ww/ir/corporate/tender-offer.html",
+      "quote": "TBJH Inc. is a company wholly owned by TBJ Holding Inc., 75% of the issued and outstanding shares of which is held by TB Investment Limited Partnership, which is managed by Japan Industrial Partners, Inc. (“JIP”) and its affiliates",
+      "checked": {
+        "on": "2026-10-04",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "The same page states: 'The TBJH’s tender offer for Toshiba Corporation’s shares succeeded, and the shares of Toshiba Corporation were delisted on Dec. 20, 2023.' The FAQ's delisting schedule was last updated April 24, 2024; the ownership FAQ was updated October 2, 2023."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Xinhua: Toshiba delisted in Japan after 74 years as public firm",
+        "date": "2023-12-20",
+        "url": "https://english.news.cn/asiapacific/20231220/9675b8e53cc5435b9214f4463dfcf1e9/c.html",
+        "quote": "A 2-trillion yen takeover bid for Toshiba by a consortium led by Japan Industrial Partners (JIP) succeeded in September",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ]
   },
   {
     "id": "totalenergies-ownership",
