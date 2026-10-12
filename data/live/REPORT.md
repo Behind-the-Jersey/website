@@ -1,52 +1,48 @@
 # data/live
 
-Release `data-2026-10-11-c142f343` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `c142f343`, data updated 2026-10-11. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
+Release `data-2026-10-11-d85150fb` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `d85150fb`, data updated 2026-10-11. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
 
-Compared with the data it replaces (`43eb6c93`, updated 2026-10-09):
+Compared with the data it replaces (`c142f343`, updated 2026-10-11):
 
 | | clubs | kits | sponsors | owners | claims | deals | contacts |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| before | 594 | 566 | 1762 | 1392 | 1352 | 1187 | 230 |
-| after | 594 | 567 | 1773 | 1395 | 1360 | 1187 | 230 |
+| before | 594 | 567 | 1773 | 1395 | 1360 | 1187 | 230 |
+| after | 594 | 568 | 1781 | 1397 | 1364 | 1187 | 230 |
+
+## Club levels that change (1)
+
+- [Vista AF Corse](https://behind-the-jersey.org/clubs/vista-af-corse/) (FIA World Endurance Championship): Not rated yet → **Spotted**
 
 ## Sponsor ratings that change (1)
 
-- Mobilize Financial Services: unrated (unrated) → **none** (rated)
+- Sabelt: unrated (unrated) → **none** (rated)
 
-## Sponsors added (11)
+## Sponsors added (8)
 
-- Alten: unrated
-- Cheops Technology: unrated
-- Devoteam: unrated
-- Dewesoft: none
-- Elf: unrated
-- FranceToner: unrated
-- GCR (Groupement des Concessionnaires Renault): unrated
-- Havas: none
-- Ixell: none
-- M4Markets: unrated
-- Milwaukee Tool: unrated
+- Bombardier: none
+- Carlac Minerals: unrated
+- Delta Engineering: unrated
+- Menoni: unrated
+- Piloti: unrated
+- Pyypl: unrated
+- Vista: none
+- XO: none
 
-## Owners added (3)
+## Owners added (2)
 
-- Dewesoft (dewesoft)
-- Havas N.V. (havas-nv)
-- Techtronic Industries Co. Ltd. (techtronic-industries)
+- Bombardier Inc. (bombardier-inc)
+- Sabelt SpA (sabelt)
 
-## Claims added (8)
+## Claims added (4)
 
-- dewesoft-employee-owned: Dewesoft is fully owned by its employees: the company describes itself as 100% employee-owned, free from external investors and acquisitions.
-- elf-totalenergies-group: The company publishing the elf.com website belongs to the TotalEnergies group; the site's legal notice names TotalEnergies Lubrifiants (Nanterre) as publisher.
-- havas-nv-bollore-control: Vincent Bolloré controls Havas N.V.: a 19 February 2026 notification in the Dutch financial-markets authority's register of substantial holdings records V. Bolloré with a total holding of 53.05% of Havas N.V.'s capital and 53.55% of its voting rights, held indirectly through Bollore SE, Compagnie de l'Odet, Compagnie de l'Etoile des Mers and YB6.
-- havas-nv-listed: Havas is Havas N.V. (ISIN NL0015002K83): its registered office is Amsterdam and its stock market is Euronext Amsterdam.
-- ixell-renault-publisher: The ixell.com website is published by Renault S.A.S. (Boulogne-Billancourt, France), and the site's content is the property of Renault.
-- milwaukee-techtronic-brand: Techtronic Industries lists MILWAUKEE first among the brands on its corporate website (brands section: MILWAUKEE, RYOBI, AEG and others).
-- mobilize-fs-renault-subsidiary: Mobilize Financial Services is a subsidiary of Renault Group; it is the commercial brand of RCI Banque SA, a French bank serving the customers and networks of Renault Group.
-- techtronic-shareholders: Techtronic Industries is publicly traded on the Hong Kong Stock Exchange; it says the Pudwill family remains its largest shareholder, with the remaining ownership held largely by institutional investors at North American and European-owned firms. The substantial-shareholders register in its 2026 interim report records no state or fund; at 30 June 2026 it lists only asset managers (JPMorgan Chase, Bank of New York Mellon, Capital Group, BlackRock and Pandanus Associates, at 5-11% each, largely custody and lending positions).
+- bombardier-inc-shareholders: Bombardier Inc. has issued Class A shares carrying 10 votes per share and Class B subordinate voting shares carrying one vote per share. As at 3 March 2025 the four family 'Principal Shareholders' (Janine Bombardier, Claire Bombardier Beaudoin, Huguette Bombardier Fontaine, J.R. André Bombardier) held 80.80% of the Class A shares, 1.38% of the Class B shares and 47.83% of all voting rights.
+- sabelt-marsiaj-ownership: Sabelt SpA, the Italian seatbelt and racing-seat maker, is owned by the Marsiaj family of Turin: Giorgio Marsiaj holds 61% and the family holding M. Marsiaj & C. holds 10% (Milano Finanza, March 2024).
+- vista-brands-ownership: The Vista AF Corse team name and livery carry the Vista brand of Vista Global Holding Limited ('Vista'), the Dubai-headquartered private aviation group whose services are offered through its leading brands, including VistaJet and XO.
+- vista-global-flohr-majority: Vista Global Holding Limited is majority-owned by its founder and chairman Thomas Flohr; a USD 600 million investment agreed in March 2025 was a minority stake by a consortium led by RRJ Capital, with Andalusian Private Capital.
 
 ## Clubs whose kits change (1)
 
-- [Alpine Endurance Team](https://behind-the-jersey.org/clubs/alpine-endurance-team/)
+- [Vista AF Corse](https://behind-the-jersey.org/clubs/vista-af-corse/)
 
 ## Warnings (66)
 
