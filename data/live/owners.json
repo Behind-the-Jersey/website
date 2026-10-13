@@ -3343,6 +3343,13 @@
     "note": "FS EMTN base prospectus 2025: the Italian State is the sole shareholder of FS (via the Ministry of Economy and Finance, MEF), appointing its Board of Directors and overseeing its strategy."
   },
   {
+    "id": "fever-up",
+    "name": "Fever",
+    "type": "private-company",
+    "parentId": null,
+    "note": "Live-entertainment discovery and ticketing tech platform, co-founded and led by Ignacio Bachiller, Francisco Hein and Alexandre Perez (Fever newsroom, 17 September 2026). Its September 2026 $250 million round was led by EQT with participation from Point72 Private Investments, Baillie Gifford and other unnamed existing investors (same release); no single controlling owner is named in its releases."
+  },
+  {
     "id": "fidelidade",
     "name": "Fidelidade - Companhia de Seguros",
     "type": "private-company",
@@ -6253,6 +6260,14 @@
     "country": "Germany",
     "note": "Wiesbaden. Textile-services group owned by the Gebauer family (Die Deutsche Wirtschaft, 2024); general partners MEWA Textil-Service SE and the Gabriele Gebauer MEWA Stiftung (imprint).",
     "parentId": null
+  },
+  {
+    "id": "mexico-infrastructure-partners",
+    "name": "MIP Real Assets (Mexico Infrastructure Partners)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "MX",
+    "note": "Independent, partner-owned energy and infrastructure investment manager headquartered in Mexico City, founded in 2012 (its own news release of 4 May 2026). No single controlling owner is named in its public materials; the firm describes itself as owned by its partners."
   },
   {
     "id": "mga-new-park",
