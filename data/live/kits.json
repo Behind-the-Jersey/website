@@ -7171,9 +7171,55 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
+    "sponsors": [
+      {
+        "sponsorId": "gain",
+        "placement": "front",
+        "source": {
+          "name": "Kartalhaber: Beşiktaş'a Basketbolda Yeni Sponsor: Gain ile Anlaşma Sağlandı",
+          "date": "2025-06-04",
+          "url": "https://www.kartalhaber.com/besiktas-basketbol-takiminin-yeni-ismi-65877.html",
+          "quote": "Beşiktaş Kulübü, erkek basketbol takımı için içerik platformu Gain ile isim ve forma göğüs sponsorluğu anlaşması imzaladı. Anlaşma, 2025-2026 sezonunu kapsıyor.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Name and chest sponsor (Gain logo on the chest), deal signed for 2025-2026. The team carried the name into 2026-27: the Turkish Basketball Federation's 26 June 2026 announcement (tbf.org.tr, blocked to scripts) and TurkSportPlatform the same day (https://turksportplatform.com/besiktas-gain-2026-27-sezonunda-euroleaguee-katiliyor/, opened 2026-10-01 and again 2026-10-13 by BTJ Scout: 'Türk temsilcisi Beşiktaş GAIN, 2026-2027 sezonunda EuroLeague organizasyonunda yerini alacak') welcome 'Beşiktaş GAIN' into the 2026-27 EuroLeague, so the name-and-chest sponsor continues; no separate 2026-27 chest announcement was found."
+        }
+      },
+      {
+        "sponsorId": "tera-holding",
+        "placement": "back",
+        "source": {
+          "name": "İHA: Tera Holding, Beşiktaş JK'nin futbol ve basketbol takımlarına forma sırt sponsoru oldu",
+          "date": "2026-08-17",
+          "url": "https://www.iha.com.tr/istanbul-haberleri/tera-holding-besiktas-jknin-futbol-ve-basketbol-takimlarina-forma-sirt-sponsoru-oldu-471195194",
+          "quote": "Tera, 2026-2027 sezonundan itibaren iki sezon boyunca Beşiktaş Futbol A Takımı'nın, 2026-2027 sezonunda ise Beşiktaş Erkek Basketbol Takımı'nın forma sırt sponsoru olarak yer alacak.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Two-year back-of-shirt deal signed 17 August 2026 covering the football A team and, for 2026-27, the men's basketball team. After Turkey's SPK moved against Tera funds, Beşiktaş took the Tera logo off the shirts for the 17 September 2026 Marseille match (Memur Haber 365, 18 September 2026, https://www.memurhaber365.com/besiktas-formasinda-tera-surprizi-spk-karari-sonrasi-besiktas-hissesi-neden-coktu/ — opened 2026-10-13 by BTJ Scout: 'Yaşanan bu gelişme üzerine Beşiktaş, Tera'yı formadan çıkardı. Siyah-beyazlı takım dün oynanan Marsilya maçına sponsorsuz çıktı.'), with no official termination announced; whether the logo returns is unresolved."
+        }
+      },
+      {
+        "sponsorId": "iyi-finans",
+        "placement": "back",
+        "source": {
+          "name": "Duhuliye: İyi Finans, Erkek Basketbol Takımımızın Forma Sırt Alt Sponsoru Oldu (club statement)",
+          "date": "2026-09-21",
+          "url": "https://www.duhuliye.com/basketbol/besiktastan-bir-sponsorluk-aciklamasi-daha-29226",
+          "quote": "İyi Finans, 2026-27 sezonu sonuna kadar Erkek Basketbol Takımımızın formasının sırt alt kısmında yer alacak.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          },
+          "note": "Below the back number (sırt alt), to the end of 2026-27. Duhuliye reproduces the club's own statement; the original bjk.com.tr announcement (haber/95166) blocks scripts."
+        }
+      }
+    ],
     "sponsorsComplete": false,
-    "summary": null,
+    "summary": "Gain is the name and chest sponsor (the team plays as Beşiktaş Gain in the 2026-27 EuroLeague); Tera Holding was announced as back sponsor for 2026-27 but was taken off the shirts in September 2026 after Turkey's fund-crisis crackdown, with no official termination announced; İyi Finans sits below the back number until the end of the season. Not complete: sleeves, shorts, patches and the kit maker for 2026-27 are unsourced.",
     "change": null
   },
   {

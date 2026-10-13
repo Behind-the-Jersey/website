@@ -12594,6 +12594,74 @@
     "reviewed": false
   },
   {
+    "id": "gain-anahat-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "gain-medya"
+    ],
+    "text": "GAİN Medya A.Ş. is a company of the Anahat group: Anahat Medya A.Ş., founded by Selahattin Aydın, acquired GAİN Medya A.Ş. on 22 January 2025 for 450 million TL.",
+    "short": "Gain Medya was bought by Selahattin Aydın's Anahat in January 2025",
+    "source": {
+      "name": "Cumhuriyet: Gain Medya kimin, sahibi kim? Gain Medya'ya neden kayyım atandı?",
+      "date": "2025-12-16",
+      "url": "https://www.cumhuriyet.com.tr/turkiye/gain-medya-kimin-sahibi-kim-gain-medya-ya-neden-kayyim-atandi-2461806",
+      "quote": "Gain Medya, Anahat Holding'e ait bir şirkettir. Anahat Holding'in sahibi ise Selahattin Aydın'dır.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Anka Haber: Gain Medya'ya TMSF kayyım atandı, 3 kişi gözaltına alındı",
+        "date": "2025-12-16",
+        "url": "https://ankahaber.net/haber/detay/gain_medyaya_tmsf_kayyim_atandi_3_kisi_gozaltina_alindi_279815",
+        "quote": "Anahat Medya Anonim Şirketi'nin, GAİN Medya Anonim Şirketi'ni 22/01/2025 tarihinde 450 milyon TL bedelle devraldığı",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "From the Istanbul Chief Public Prosecutor's statement quoted on the page, which sets out the share transfer and subsequent fund flows."
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "gain-tmsf-trusteeship",
+    "kind": "ownership",
+    "ownerIds": [
+      "gain-medya",
+      "tmsf"
+    ],
+    "text": "On 16 December 2025, an Istanbul duty criminal court of peace appointed Turkey's state savings-deposit fund (TMSF) as trustee (kayyum) over Gain Medya A.Ş. and affiliated companies, including Anahat Holding, during an investigation into illegal betting and money laundering.",
+    "short": "TMSF appointed trustee over Gain Medya, December 2025",
+    "source": {
+      "name": "Anka Haber: Gain Medya'ya TMSF kayyım atandı, 3 kişi gözaltına alındı",
+      "date": "2025-12-16",
+      "url": "https://ankahaber.net/haber/detay/gain_medyaya_tmsf_kayyim_atandi_3_kisi_gozaltina_alindi_279815",
+      "quote": "aralarında Gain Medya AŞ'nin de bulunduğu 7 firmaya Tasarruf Mevduatı Sigorta Fonu (TMSF) kayyım olarak atandı",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Quotes the Istanbul Chief Public Prosecutor's statement: the decision was taken by the Istanbul duty criminal court of peace, appointing TMSF trustee over GAİN Medya, GAİN Studio, GAİN Shorts, Anahat Holding, Anahat Medya, 3B Yazılım and Berton Yapı. Page updated 1 June 2026."
+    },
+    "additionalSources": [
+      {
+        "name": "Amida Haber: Gain Medya'ya operasyon: Kayyım atandı, gözaltılar var",
+        "date": "2025-12-16",
+        "url": "https://amidahaber.com/gundem/gain-medyaya-operasyon-kayyim-atandi-gozaltilar-var-225342h",
+        "quote": "GAİN Medya'ya bağlı tüm kuruluşlara Tasarruf Mevduatı Sigorta Fonu'nun (TMSF) kayyım olarak atandığı açıklandı.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Adds that the trusteeship decision was taken so that the company's activities are run under supervision for the duration of the investigation."
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "gainbridge-group-1001-owner-record",
     "kind": "ownership",
     "ownerIds": [
@@ -31382,6 +31450,27 @@
     "reviewed": false
   },
   {
+    "id": "tera-tezmen-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "tera-holding"
+    ],
+    "text": "Tera Holding's main owner and largest shareholder is its co-founder and chairman Emre Tezmen; his father, former transport minister Oğuz Tezmen, is also a major shareholder with 25.17% of the group.",
+    "short": "Tera Holding's main owner is Emre Tezmen",
+    "source": {
+      "name": "Memur Haber 365: Eski Bakan Oğuz Tezmen'in Hissedar Olduğu Dev Şirkette Operasyon Şoku!",
+      "date": "2026-09-17",
+      "url": "https://www.memurhaber365.com/eski-bakan-oguz-tezmenin-hissedar-oldugu-dev-sirkette-operasyon-soku/",
+      "quote": "Tera Holding'in ana sahibi ve en büyük paydaşı, şirketin kurucu ortağı ve Yönetim Kurulu Başkanı olan iş insanı Emre Tezmen'dir.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Article cites SPK and KAP records for management and voting control in Tera Group flagship companies, and gives Oğuz Tezmen's stake as 25.17%. Milli Gazete (15 September 2026) reports the same management structure but cautions that published management roles alone do not prove the full share distribution."
+    },
+    "reviewed": false
+  },
+  {
     "id": "thai-beverage-shareholders",
     "kind": "ownership",
     "ownerIds": [
@@ -31613,6 +31702,40 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "tmsf-public-institution",
+    "kind": "ownership",
+    "ownerIds": [
+      "tmsf"
+    ],
+    "text": "The Savings Deposit Insurance Fund (TMSF) is a Turkish public legal entity with administrative and financial autonomy, established to protect financial stability and deposit holders; court-appointed trusteeship over companies is one of its functions.",
+    "short": "TMSF is a Turkish public legal entity with trusteeship duties",
+    "source": {
+      "name": "Emlak Katılım Bankası: TMSF Güvencesi",
+      "date": "2026",
+      "url": "https://www.emlakkatilim.com.tr/tr/bireysel/hesaplar/tmsf-guvencesi",
+      "quote": "Tasarruf Mevduatı Sigorta Fonu (TMSF/Fon), kamu tüzel kişiliğine sahip, idari ve mali özerkliği bulunan bir kuruluştur.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      },
+      "note": "Same page: TMSF is a public institution established to protect financial stability and the rights of deposit/participation-fund holders. Undated corporate page; dated by the year shown in the page footer (2026)."
+    },
+    "additionalSources": [
+      {
+        "name": "Gonca: TMSF Nedir? Mevduat Sigortası Limiti Ne Kadar?",
+        "date": "2026-09-08",
+        "url": "https://www.gonca.com/finans/tmsf-nedir-mevduat-sigortasi",
+        "quote": "Tasarruf Mevduatı Sigorta Fonu (TMSF), kamu tüzel kişiliğine sahip, idarî ve mali özerkliği bulunan bir kurum.",
+        "checked": {
+          "on": "2026-10-01",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "Same article lists trusteeship (kayyımlık) — running companies whose management a court has transferred — among TMSF's five functions, and describes kayyum as the temporary takeover of a company's management by court decision pending investigation."
+      }
+    ],
     "reviewed": false
   },
   {

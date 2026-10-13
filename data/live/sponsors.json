@@ -9566,6 +9566,38 @@
     "note": "The link (claim gac-group-record): GAC Group's 2025 annual report (HKEX and cninfo editions) names Guangzhou Automobile Industry Group as controlling shareholder with 54.02% and the Guangzhou Municipal SASAC, a department of the Guangzhou Municipal People's Government, as actual controller with 90% of Guangzhou Automobile Industry Group; Nikkei Asia (28 Sep 2026) reports the Guangzhou city government controls about two-thirds of GAC. The chain is gac-group, guangzhou-municipal-government, government-of-china: the Chinese state controls GAC through its city government. The record (claim china-xinjiang-un-assessment): the UN OHCHR 2022 Xinjiang assessment and Human Rights Watch (2026). The tier is for a maintainer to set (METHOD.md 'Sponsor tiers': a state with a record that controls the sponsor). Not recorded as claims: Sheffield Hallam's Driving Force report (Oct 2024) lists GAC Group among companies in the Ürümqi Toutunhe automotive zone in the Uyghur Region but makes no forced-labour finding against GAC; Nikkei Asia (28 Sep 2026) reports an agreement of intent for FAW Group, controlled by China's central SASAC, to become GAC's second-largest shareholder."
   },
   {
+    "id": "gain",
+    "name": "Gain",
+    "ownerId": "gain-medya",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "The Gain digital content platform, operated by Gain Medya A.Ş., name and chest sponsor of Beşiktaş's men's basketball team (Beşiktaş Gain) since 2025-26.",
+    "claimIds": [
+      "turkey-kavala-detention",
+      "gain-anahat-ownership",
+      "gain-tmsf-trusteeship",
+      "tmsf-public-institution"
+    ],
+    "aliases": [
+      "GAİN",
+      "Gain Medya",
+      "GAİN Medya A.Ş.",
+      "Beşiktaş Gain"
+    ],
+    "note": "Rating note (proposed in PR, not set): the legal owner Anahat (Selahattin Aydın) has been under a court-ordered TMSF trusteeship with Gain Medya since 16 December 2025 during an illegal-betting and money-laundering investigation; the trusteeship is temporary and the investigation was still under way in 2026. The Turkish state's record claim (turkey-kavala-detention) attaches to the government above the fund. Proposed tier: serious, with the trusteeship-as-control caveat set out in the pull request. ON HOLD: proposed 'serious' in PR, pending maintainer review.",
+    "why": {
+      "text": "Since December 2025 the company behind the Gain platform has been run by a trustee appointed from Turkey's state savings-deposit fund (TMSF), after an Istanbul court put it under the fund during an illegal-betting and money-laundering investigation. Turkey has kept civil society leader Osman Kavala in prison since 2017, sentenced him to life without parole in 2022, and disregarded European Court of Human Rights rulings ordering his release — findings documented by Amnesty International and Human Rights Watch.",
+      "claimIds": [
+        "turkey-kavala-detention",
+        "gain-tmsf-trusteeship",
+        "tmsf-public-institution"
+      ],
+      "messageLine": "A court put the company behind the Gain platform under Turkey's state savings-deposit fund (TMSF) in December 2025, and Turkey is disregarding European Court rulings to release Osman Kavala.",
+      "status": "draft"
+    }
+  },
+  {
     "id": "gainbridge",
     "name": "Gainbridge (Group 1001)",
     "ownerId": "gainbridge-group-1001-owner",
@@ -12475,7 +12507,7 @@
     "aliases": [
       "Adil Tasarruf Finansman A.Ş."
     ],
-    "note": "Rated none 2026-10-01. Below the back number on Fenerbahçe Tarfin's league shirts in 2026/27 (FenerMedia, 18 September 2026). Brand of Adil Tasarruf Finansman A.Ş.; its 2025 annual-report ownership information shows Ali Emre Ballı holding 100% and chairing the board (Milli Gazete, 17 September 2026; iyi-finans-ownership). A private individual owner, no state in the chain, and no record claim passes the METHOD.md test. Ballı also chairs Tarfin's board (tarfin-ownership), but no stake of his in Tarfin is documented there."
+    "note": "Rated none 2026-10-01. Below the back number on Fenerbahçe Tarfin's league shirts in 2026/27 (FenerMedia, 18 September 2026) and on Beşiktaş's men's basketball shirt (below the back number) until the end of 2026-27 (club statement carried by Duhuliye, 21 September 2026). Brand of Adil Tasarruf Finansman A.Ş.; its 2025 annual-report ownership information shows Ali Emre Ballı holding 100% and chairing the board (Milli Gazete, 17 September 2026; iyi-finans-ownership). A private individual owner, no state in the chain, and no record claim passes the METHOD.md test. Ballı also chairs Tarfin's board (tarfin-ownership), but no stake of his in Tarfin is documented there."
   },
   {
     "id": "iz",
@@ -23951,6 +23983,23 @@
     ],
     "aliases": [],
     "note": "Rating note: Owned by Apollo-managed funds rather than Apollo the listed entity; classified as listed-company because the ultimate parent is listed. Apollo's own investor base includes sovereign funds but none control it."
+  },
+  {
+    "id": "tera-holding",
+    "name": "Tera Holding",
+    "ownerId": "tera-holding",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "being-rated",
+    "verdict": "Turkish finance-and-technology group, privately held by the Tezmen family; announced in August 2026 as back-of-shirt sponsor of Beşiktaş's football and men's basketball teams for two seasons from 2026-27.",
+    "claimIds": [
+      "tera-tezmen-ownership"
+    ],
+    "aliases": [
+      "Tera",
+      "Tera Yatırım Teknoloji Holding"
+    ],
+    "note": "Rating note: private company; main owner Emre Tezmen (tera-tezmen-ownership). Its chairman was put under a travel ban in September 2026 and Turkey's capital-markets regulator moved to liquidate Tera portfolio funds in the 'fund crisis' investigation — a financial record, which does not count under METHOD.md. No state stake and no human-rights finding against the company were found. Proposed tier: none. ON HOLD: proposed 'none' in PR, pending maintainer review."
   },
   {
     "id": "tesco",
