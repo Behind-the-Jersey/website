@@ -11568,6 +11568,26 @@
     "reviewed": false
   },
   {
+    "id": "fever-founders-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "fever-up"
+    ],
+    "text": "Fever is a live-entertainment tech platform co-founded and led by three Spaniards, Ignacio Bachiller, Francisco Hein and Alexandre Perez; in September 2026 it raised $250 million in a round led by EQT with participation from Point72 Private Investments and Baillie Gifford.",
+    "short": "Fever: co-founded and led by Ignacio Bachiller, Francisco Hein and Alexandre Perez.",
+    "source": {
+      "name": "Fever Newsroom: Fever Raises Record $250M Round Led by EQT in a Bet on What AI Can't Replace: Live Experiences",
+      "date": "2026-09-17",
+      "url": "https://newsroom.feverup.com/en-US/271038-fever-raises-record-250m-led-by-eqt-in-a-bet-on-what-ai-can-t-replace-live-experiences",
+      "quote": "Fever, co-founded and led by three Spaniards, Ignacio Bachiller, Francisco Hein and Alexandre Perez",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "fiamm-aurelius-acquisition",
     "kind": "ownership",
     "ownerIds": [
@@ -20692,6 +20712,39 @@
         "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "mip-partner-owned",
+    "kind": "ownership",
+    "ownerIds": [
+      "mexico-infrastructure-partners"
+    ],
+    "text": "MIP Real Assets (Mexico Infrastructure Partners) is an independent, partner-owned energy and infrastructure investment manager, founded in 2012 and headquartered in Mexico City.",
+    "short": "MIP: independent, partner-owned Mexican infrastructure manager.",
+    "source": {
+      "name": "Mexico Infrastructure Partners: MIP Real Assets Plans to Invest $12+ Billion to Support Mexico's Next Infrastructure Cycle",
+      "date": "2026-05-04",
+      "url": "https://mexicoinfra.com/press-2026-05-04-mexico-infrastructure-cycle",
+      "quote": "An independent, partner-owned firm headquartered in Mexico City with international presence in the Americas, Europe and the Gulf Region",
+      "checked": {
+        "on": "2026-10-13",
+        "by": "BigBossRabbit"
+      },
+      "note": "Same dated MIP release at its current URL; the previous /en/ article URL redirects to the homepage."
+    },
+    "additionalSources": [
+      {
+        "name": "Mexico News Daily: Mexico Infrastructure Partners announces plan to invest US $12B across key sectors",
+        "date": "2026-05-06",
+        "url": "https://mexiconewsdaily.com/news/mexico-infrastructure-partners-investment-plan",
+        "quote": "On its website, Mexico Infrastructure Partners describes itself as a “leading independent energy and infrastructure investment manager in Latin America,”",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {

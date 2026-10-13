@@ -1,37 +1,31 @@
 # data/live
 
-Release `data-2026-10-13-dd92d356` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `dd92d356`, data updated 2026-10-13. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
+Release `data-2026-10-13-eeb10da7` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `eeb10da7`, data updated 2026-10-13. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
 
-Compared with the data it replaces (`03b4e37f`, updated 2026-10-12):
+Compared with the data it replaces (`dd92d356`, updated 2026-10-13):
 
 | | clubs | kits | sponsors | owners | claims | deals | contacts |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| before | 594 | 569 | 1783 | 1401 | 1370 | 1187 | 230 |
-| after | 594 | 569 | 1785 | 1406 | 1374 | 1187 | 230 |
+| before | 594 | 569 | 1785 | 1406 | 1374 | 1187 | 230 |
+| after | 594 | 569 | 1785 | 1408 | 1376 | 1187 | 230 |
 
-## Sponsors added (2)
+## Sponsor ratings that change (1)
 
-- Gain: unrated
-- Tera Holding: unrated
+- MIP (Mexico Infrastructure Partners): unrated (unrated) → **none** (rated)
 
-## Owners added (5)
+## Owners added (2)
 
-- Ali Emre Ballı (ali-emre-balli)
-- Emre Tezmen (emre-tezmen)
-- Gain Medya A.Ş. (gain-medya)
-- Tera Holding (tera-holding)
-- Tasarruf Mevduatı Sigorta Fonu (Savings Deposit Insurance Fund, TMSF) (tmsf)
+- Fever (fever-up)
+- MIP Real Assets (Mexico Infrastructure Partners) (mexico-infrastructure-partners)
 
-## Claims added (4)
+## Claims added (2)
 
-- gain-anahat-ownership: GAİN Medya A.Ş. is a company of the Anahat group: Anahat Medya A.Ş., founded by Selahattin Aydın, acquired GAİN Medya A.Ş. on 22 January 2025 for 450 million TL.
-- gain-tmsf-trusteeship: On 16 December 2025, an Istanbul duty criminal court of peace appointed Turkey's state savings-deposit fund (TMSF) as trustee (kayyum) over Gain Medya A.Ş. and affiliated companies, including Anahat Holding, during an investigation into illegal betting and money laundering.
-- tera-tezmen-ownership: Tera Holding's main owner and largest shareholder is its co-founder and chairman Emre Tezmen; his father, former transport minister Oğuz Tezmen, is also a major shareholder with 25.17% of the group.
-- tmsf-public-institution: The Savings Deposit Insurance Fund (TMSF) is a Turkish public legal entity with administrative and financial autonomy, established to protect financial stability and deposit holders; court-appointed trusteeship over companies is one of its functions.
+- fever-founders-ownership: Fever is a live-entertainment tech platform co-founded and led by three Spaniards, Ignacio Bachiller, Francisco Hein and Alexandre Perez; in September 2026 it raised $250 million in a round led by EQT with participation from Point72 Private Investments and Baillie Gifford.
+- mip-partner-owned: MIP Real Assets (Mexico Infrastructure Partners) is an independent, partner-owned energy and infrastructure investment manager, founded in 2012 and headquartered in Mexico City.
 
 ## Clubs whose kits change (1)
 
-- [Beşiktaş J.K. (men's basketball)](https://behind-the-jersey.org/clubs/besiktas-basketball/)
+- [Fireballs GC](https://behind-the-jersey.org/clubs/fireballs-gc/)
 
 ## Warnings (67)
 

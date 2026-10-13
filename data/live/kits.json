@@ -15371,8 +15371,9 @@
         "placement": "partner",
         "source": {
           "name": "LIV Golf - Fireballs GC team page",
-          "date": "2026-09-25",
-          "url": "https://www.livgolf.com/fireballs-gc"
+          "date": "2026-10-03",
+          "url": "https://www.livgolf.com/fireballs-gc",
+          "note": "Team partner rail verified in the page HTML on 2026-10-03: exactly three partners (MIP -> mexicoinfra.com, Fever -> feverup.com, New Era -> neweracap.com). The partner names are rendered client-side from the page data, so the static page has no quotable text for them."
         }
       },
       {
@@ -15380,8 +15381,9 @@
         "placement": "partner",
         "source": {
           "name": "LIV Golf - Fireballs GC team page",
-          "date": "2026-09-25",
-          "url": "https://www.livgolf.com/fireballs-gc"
+          "date": "2026-10-03",
+          "url": "https://www.livgolf.com/fireballs-gc",
+          "note": "Team partner rail verified in the page HTML on 2026-10-03: exactly three partners (MIP -> mexicoinfra.com, Fever -> feverup.com, New Era -> neweracap.com). The partner names are rendered client-side from the page data, so the static page has no quotable text for them."
         }
       },
       {
@@ -15389,13 +15391,14 @@
         "placement": "partner",
         "source": {
           "name": "LIV Golf - Fireballs GC team page",
-          "date": "2026-09-25",
-          "url": "https://www.livgolf.com/fireballs-gc"
+          "date": "2026-10-03",
+          "url": "https://www.livgolf.com/fireballs-gc",
+          "note": "Team partner rail verified in the page HTML on 2026-10-03: exactly three partners (MIP -> mexicoinfra.com, Fever -> feverup.com, New Era -> neweracap.com). The partner names are rendered client-side from the page data, so the static page has no quotable text for them."
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": "Team partners 2026: MIP (Mexico Infrastructure Partners), Fever, New Era. Captain: Sergio Garcia.",
+    "sponsorsComplete": true,
+    "summary": "Team partners 2026: MIP (Mexico Infrastructure Partners), Fever, New Era. Captain: Sergio Garcia. Partner list checked against the team page's partner rail on 2026-10-03.",
     "change": null
   },
   {

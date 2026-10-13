@@ -8839,16 +8839,19 @@
   {
     "id": "fever",
     "name": "Fever",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "fever-up",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
-    "aliases": [
-      "FeverUp"
+    "claimIds": [
+      "fever-founders-ownership"
     ],
-    "note": "Fireballs GC partner and LIV Golf Official Supplier - Marketing & Technology Partner for ticketing (livgolf.com/partners, fetched 2026-09-25)."
+    "aliases": [
+      "FeverUp",
+      "feverup"
+    ],
+    "note": "Fireballs GC partner (logo links to feverup.com, verified in the livgolf.com/fireballs-gc HTML, 2026-10-03). On livgolf.com/partners Fever is listed among LIV Golf's Official Suppliers: 'As a Marketing & Technology Partner, Fever powers the LIV Golf ticketing journey' (verified 2026-10-03). Unrated: Fever's releases describe it as co-founded and led by Ignacio Bachiller, Francisco Hein and Alexandre Perez, but its September 2026 $250 million round (led by EQT, with Point72 Private Investments, Baillie Gifford and other existing investors participating) names no controlling shareholder; who holds a controlling share is not identified (fever-founders-ownership). No state or state fund appears among the investors named in its releases; no human-rights finding against the company found."
   },
   {
     "id": "fiamm",
@@ -15878,16 +15881,19 @@
   {
     "id": "mip",
     "name": "MIP (Mexico Infrastructure Partners)",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [
-      "mexicoinfra"
+    "ownerId": "mexico-infrastructure-partners",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "MIP (Mexico Infrastructure Partners) is an independent, partner-owned Mexican energy and infrastructure investment manager. Nothing found.",
+    "claimIds": [
+      "mip-partner-owned"
     ],
-    "note": "Fireballs GC partner, logo links to mexicoinfra.com (livgolf.com/fireballs-gc, fetched 2026-09-25)."
+    "aliases": [
+      "mexicoinfra",
+      "MIP Real Assets"
+    ],
+    "note": "Fireballs GC partner; its logo on livgolf.com/fireballs-gc links to mexicoinfra.com (verified in the page HTML, 2026-10-03). The firm's May 4, 2026 release describes it as an independent, partner-owned manager founded in 2012 and headquartered in Mexico City (mip-partner-owned); its current release URL was opened and quote-checked on 2026-10-13. Mexico News Daily independently reports its energy and infrastructure investment-manager description. Individual partners' stakes remain unknown. No state or state-fund owner found, no human-rights finding found."
   },
   {
     "id": "mir-nspk",
@@ -16897,7 +16903,7 @@
       "New Era Cap",
       "New Era Cap Company"
     ],
-    "note": "Official Cap of LIV Golf and its 13 teams (livgolf.com/partners); one of the two partner logos on the Cleeks GC team page. US leagues are private bodies, not states; no state in the owner chain found."
+    "note": "Official Cap of LIV Golf and its 13 teams (livgolf.com/partners); one of the two partner logos on the Cleeks GC team page; also a Fireballs GC partner in the team's partner rail (checked in PR #1087). US leagues are private bodies, not states; no state in the owner chain found."
   },
   {
     "id": "new-york-life",
