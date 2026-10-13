@@ -437,6 +437,14 @@
     "note": "Largest private Russian bank; title partner of the Russian Premier League. Ownership interest held via ABH Financial Limited (Cyprus) under Luxembourg's ABH Holdings S.A.; Andrey Kosogov became the largest shareholder after buying out Fridman, Aven, Khan and Kuzmichev in 2023-2024."
   },
   {
+    "id": "ali-emre-balli",
+    "name": "Ali Emre Ballı",
+    "type": "private-company",
+    "country": "Türkiye",
+    "parentId": null,
+    "note": "Businessman; sole (100%) shareholder and chairman of Adil Tasarruf Finansman A.Ş. (İyi Finans), per the company's 2025 annual-report ownership information reported by Milli Gazete (iyi-finans-ownership). Personal ownership, treated as a private owner, not a state. He also chairs Tarfin's board, but no stake of his in Tarfin is documented (tarfin-ownership)."
+  },
+  {
     "id": "all-in-won-owner",
     "name": "All In Won Med-Bill & IT, LLC",
     "type": "private-company",
@@ -3057,6 +3065,14 @@
     "country": "US"
   },
   {
+    "id": "emre-tezmen",
+    "name": "Emre Tezmen",
+    "type": "private-company",
+    "country": "Türkiye",
+    "parentId": null,
+    "note": "Businessman, co-founder and chairman of Tera Holding; described in press as its main owner and largest shareholder (tera-tezmen-ownership). Personal (family) ownership, treated as a private owner, not a state. His father Oğuz Tezmen, a former transport minister, is reported to hold 25.17% of the group. Emre Tezmen was placed under a travel ban and questioned in September 2026 in Turkey's 'fund crisis' investigation; that is a financial-market record, which does not count for ratings under METHOD.md."
+  },
+  {
     "id": "en-ez-insaat",
     "name": "EN-EZ İnşaat",
     "type": "unknown",
@@ -3559,6 +3575,15 @@
     "country": "China",
     "via": "Guangzhou Automobile Industry Group Co., Ltd. holds 54.02% of the listed GAC Group; Guangzhou SASAC holds 90% of Guangzhou Automobile Industry Group",
     "note": "Listed in Hong Kong and Shanghai (02238.HK / 601238.SH). Controlling shareholder Guangzhou Automobile Industry Group holds 54.02%; actual controller is the Guangzhou Municipal SASAC, per the company's 2025 annual report."
+  },
+  {
+    "id": "gain-medya",
+    "name": "Gain Medya A.Ş.",
+    "type": "private-company",
+    "country": "Türkiye",
+    "parentId": "tmsf",
+    "via": "court-appointed TMSF trusteeship (kayyum) since 16 December 2025",
+    "note": "Media company behind the Gain digital platform, the name and chest sponsor of Beşiktaş's men's basketball team. Anahat Medya A.Ş., founded by Selahattin Aydın, bought GAİN Medya A.Ş. on 22 January 2025 for 450 million TL (gain-anahat-ownership). On 16 December 2025 an Istanbul duty criminal court of peace appointed TMSF as trustee over GAİN Medya and six affiliated companies, including Anahat Holding, during a betting and money-laundering investigation (gain-tmsf-trusteeship); the trusteeship is temporary and the investigation was still under way in 2026."
   },
   {
     "id": "gainbridge-group-1001-owner",
@@ -4931,7 +4956,7 @@
     "name": "Adil Tasarruf Finansman A.Ş. (İyi Finans)",
     "type": "private-company",
     "country": "Turkey",
-    "parentId": null,
+    "parentId": "ali-emre-balli",
     "note": "Savings-finance (tasarruf finansmanı) company licensed by BDDK on 7 July 2025; İyi Finans is its brand. Per the 2025 annual-report ownership information reported by Milli Gazete, Ali Emre Ballı holds 100% of the company and chairs its board (iyi-finans-ownership)."
   },
   {
@@ -9693,6 +9718,14 @@
     "country": "US"
   },
   {
+    "id": "tera-holding",
+    "name": "Tera Holding",
+    "type": "private-company",
+    "country": "Türkiye",
+    "parentId": "emre-tezmen",
+    "note": "Turkish group active in finance, investment banking, portfolio management, technology, cyber-security, real estate, robotics and tourism; back-of-shirt sponsor of Beşiktaş's football and men's basketball teams from 2026-27 (İHA announcement 17 August 2026). Press describes Emre Tezmen as its main owner and largest shareholder (tera-tezmen-ownership). The September 2026 SPK fund liquidation and investigation of its chairman are financial records, which do not count for ratings under METHOD.md."
+  },
+  {
     "id": "thai-beverage",
     "name": "Thai Beverage Public Company Limited",
     "type": "listed-company",
@@ -9807,6 +9840,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "Spain"
+  },
+  {
+    "id": "tmsf",
+    "name": "Tasarruf Mevduatı Sigorta Fonu (Savings Deposit Insurance Fund, TMSF)",
+    "type": "state-fund",
+    "country": "Türkiye",
+    "parentId": "government-of-turkiye",
+    "note": "Turkish public legal entity with administrative and financial autonomy, acting under the Banking Law No. 5411 (tmsf-public-institution). Among its duties is trusteeship (kayyum): running companies whose management a court has transferred to it during investigations (gain-tmsf-trusteeship). Modelled under the Republic of Türkiye as the state above it; the fund is not a ministry department."
   },
   {
     "id": "tokai-rika-co",
