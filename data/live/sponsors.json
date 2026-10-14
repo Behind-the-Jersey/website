@@ -5186,10 +5186,11 @@
     "status": "unrated",
     "verdict": null,
     "claimIds": [
-      "celsius-holdings-ownership"
+      "celsius-holdings-ownership",
+      "celsius-holdings-shareholders"
     ],
     "aliases": [],
-    "note": "Rating note for maintainer: CELSIUS is a brand owned by Celsius Holdings, Inc. (per the Aston Martin Aramco partner page); also a 4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25); no state or state-fund owner found in this run."
+    "note": "Rating note for maintainer: CELSIUS is a brand owned by Celsius Holdings, Inc. (per the Aston Martin Aramco partner page); also a 4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25). Shareholders checked 2026-10-03 (celsius-holdings-shareholders): the greater-than-5% holders per the 2026 proxy are private individuals, a family holding company and asset managers; no state or state-fund holder, no qualifying human-rights finding found in this run."
   },
   {
     "id": "cenomi",
@@ -6538,16 +6539,18 @@
   {
     "id": "daou",
     "name": "DAOU Vineyards",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "treasury-wine-estates",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "treasury-daou-ownership"
+    ],
     "aliases": [
       "DAOU"
     ],
-    "note": "4Aces GC partner and LIV Golf Official Supplier (livgolf.com/partners, fetched 2026-09-25)."
+    "note": "4Aces GC partner and LIV Golf Official Supplier (livgolf.com/partners, fetched 2026-09-25). Ownership researched 2026-10-03: owned by ASX-listed Treasury Wine Estates since December 2023 (treasury-daou-ownership). No state in the chain; no qualifying human-rights finding found in this run."
   },
   {
     "id": "dar-wa-emaar",
@@ -9099,12 +9102,13 @@
     "status": "rated",
     "verdict": "A private US private-aviation company founded by its chairman, Sanford Michelman. Nothing found.",
     "claimIds": [
-      "flyhouse-michelman-ownership"
+      "flyhouse-michelman-ownership",
+      "flyhouse-ownership"
     ],
     "aliases": [
       "FlyHouse Aviation"
     ],
-    "note": "Official Race Partner of the NorthStar SailGP Team since the 2025 Season; the partnership continues into the 2026 Season (SailGP press releases, 7 Mar 2025 and 15 Jan 2026). Rating note (2026-10-03): FlyHouse's founder and chairman is Sanford Michelman (Business Jet Traveler, 6 Jan 2026); his own law-firm bio says he 'founded and is Chairman of FlyHouse'. Its share register isn't public; no source names a state or state-fund shareholder, and no human-rights finding against the company was found."
+    "note": "Official Race Partner of the NorthStar SailGP Team since the 2025 Season; the partnership continues into the 2026 Season (SailGP press releases, 7 Mar 2025 and 15 Jan 2026). Rating note (2026-10-03): FlyHouse's founder and chairman is Sanford Michelman (Business Jet Traveler, 6 Jan 2026); his own law-firm bio says he 'founded and is Chairman of FlyHouse'. Its share register isn't public; no source names a state or state-fund shareholder, and no human-rights finding against the company was found. Also a 4Aces GC partner (existing LIV Golf kit record); the PR adds the Michelman & Robinson founder/chairman profile as corroboration."
   },
   {
     "id": "flynas",
@@ -16897,7 +16901,8 @@
     "status": "rated",
     "verdict": "Controlled by its founding family, the Koch family of Buffalo; private equity firm ACON Investments holds a significant stake and MLB, the NFL and the NBA became minority owners in 2022.",
     "claimIds": [
-      "new-era-koch-family-ownership"
+      "new-era-koch-family-ownership",
+      "new-era-ownership"
     ],
     "aliases": [
       "New Era Cap",
@@ -23344,14 +23349,16 @@
   {
     "id": "swag-golf",
     "name": "SWAG Golf",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "swag-golf-co",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "swag-golf-ownership"
+    ],
     "aliases": [],
-    "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25)."
+    "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25). Ownership researched 2026-10-03: private company founded by CEO Nick Venson; 2023 $10m round led by Verance Capital (swag-golf-ownership). No state in the chain; no qualifying human-rights finding found in this run."
   },
   {
     "id": "swannies",
@@ -25005,14 +25012,16 @@
   {
     "id": "under-armour",
     "name": "Under Armour",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "under-armour-inc",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "under-armour-ownership"
+    ],
     "aliases": [],
-    "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25)."
+    "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25). Ownership researched 2026-10-03: listed US company controlled by founder Kevin Plank (64.6% of voting power, 2026 proxy); no state in the chain and no qualifying human-rights finding against the company found in this run. Flag for the `none` company test: in June 2026 US Customs and Border Protection issued Withhold Release Orders on Under Armour's Jordanian garment suppliers Needle Craft and Casual Wear after finding indicators of forced labour; the suppliers produce garments for Under Armour per public supplier lists (Sourcing Journal/WWD, 2026-06-23). The finding is against the supplier, not Under Armour, Inc."
   },
   {
     "id": "underdog",
