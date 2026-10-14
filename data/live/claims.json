@@ -6567,6 +6567,27 @@
     "reviewed": false
   },
   {
+    "id": "celsius-holdings-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "celsius-holdings-inc"
+    ],
+    "text": "Celsius Holdings, Inc. is a US listed company; its 2026 proxy statement's greater-than-5% stockholders table lists William H. Milmoe (6.00%), Deborah DeSantis (7.62%), Dean DeSantis (7.58%), CD Financial, LLC (5.40%), Alani Holdings, LLC (8.74%; Trey Steiger and Max Clemons are its sole members), BlackRock, Inc. (5.64%), Chau Hoi Shuen Solina (8.97%) and AllianceBernstein L.P. (6.27%).",
+    "short": "The greater-than-5% holders in Celsius Holdings' 2026 proxy are private individuals, a family holding company and asset managers.",
+    "source": {
+      "name": "Celsius Holdings, Inc.: 2026 Proxy Statement (DEF 14A), security ownership of certain beneficial owners (SEC EDGAR)",
+      "date": "2026-04-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/1341766/000119312526154918/d907156ddef14a.htm",
+      "quote": "BlackRock, Inc. 50 Hudson Yards New York, NY 10001 14,501,762 (11) 5.64% Chau Hoi Shuen Solina Holly Suites PT. 2909 & 2910, Harbour Centre 25 Harbour Road Wanchai, Hong Kong 999077 23,040,969 (12) 8.97% AllianceBernstein L.P. 501 Commerce Street Nashville, TN 37203 16,098,306 (13) 6.27%",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "The same table also lists the DeSantis-family rows (William H. Milmoe, Deborah DeSantis, Dean DeSantis, CD Financial, LLC) directly above this excerpt, and footnote (10) states Trey Steiger and Max Clemons are the sole members of Alani Holdings."
+    },
+    "reviewed": false
+  },
+  {
     "id": "cenomi-centers-shareholders",
     "kind": "ownership",
     "ownerIds": [
@@ -11939,6 +11960,27 @@
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
       }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "flyhouse-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "flyhouse"
+    ],
+    "text": "FlyHouse is a private aviation company (FlyHouse Management, LLC) founded and chaired by Sanford Michelman, co-founding partner of the law firm Michelman & Robinson.",
+    "short": "FlyHouse is a private aviation company founded and chaired by Sanford Michelman.",
+    "source": {
+      "name": "Michelman & Robinson: Sanford L. Michelman, Co-Founding Partner (attorney profile)",
+      "date": "2026",
+      "url": "https://www.mrllp.com/attorneys/sanford-l-michelman",
+      "quote": "He founded and is Chairman of FlyHouse, a private aviation company powered by dynamic proprietary pricing technology.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Undated page; opened 2026-10-03. The profile also lists 'FlyHouse Management, LLC (Board of Managers, Chairman)' under community involvement."
     },
     "reviewed": false
   },
@@ -21777,6 +21819,39 @@
     "reviewed": false
   },
   {
+    "id": "new-era-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "koch-family-buffalo"
+    ],
+    "text": "New Era (New Era Cap) is a family-owned company in its fourth generation of Koch family leadership, run by chief executive Christopher H. Koch; it was founded by Ehrhardt Koch in 1920.",
+    "short": "New Era Cap is a family-owned company led by fourth-generation CEO Christopher H. Koch.",
+    "source": {
+      "name": "Jackie Robinson Foundation: Christopher Koch (board member profile)",
+      "date": "2026",
+      "url": "https://jackierobinson.org/people/christopher-koch",
+      "quote": "Christopher H. Koch is the fourth generation CEO of the family-owned company New Era.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "Undated page; opened 2026-10-03. The 1920 founding by Ehrhardt Koch and the family succession are on the archived copy of New Era's own history page cited below; the live page rate-limits scripted clients (HTTP 429)."
+    },
+    "additionalSources": [
+      {
+        "name": "New Era Cap: Our History (archived copy of neweracap.com/pages/our-story)",
+        "date": "2026",
+        "url": "http://web.archive.org/web/20260821021919/https://www.neweracap.com/pages/our-story",
+        "quote": "In 1920, his dream came true when he borrowed money from his sister, Rose to start New Era Cap Co.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "new-millennium-sports-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -30664,6 +30739,27 @@
     "reviewed": false
   },
   {
+    "id": "swag-golf-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "swag-golf-co"
+    ],
+    "text": "Swag Golf is a private golf accessory, equipment and apparel company based in Northbrook, Illinois, founded by Nick Venson, its chief executive. In October 2023 it closed a $10m growth funding round led by Verance Capital, joined by Aurum Partners (a San Francisco 49ers-affiliated fund), Shaun White, Zach LaVine and others.",
+    "short": "Swag Golf is a private company founded and led by Nick Venson, with growth investors led by Verance Capital.",
+    "source": {
+      "name": "SGB Media: Swag Golf Raises $10 Million in Funding Round",
+      "date": "2023-10-04",
+      "url": "https://sgbonline.com/swag-golf-raises-10-million-in-funding-round",
+      "quote": "Swag Golf, a golf accessory, equipment and apparel company based in Northbrook, IL, closed a $10 million growth funding round led by Verance Capital",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "The same article identifies 'Nick Venson, Swag Golf's founder and CEO' and names the additional participants Aurum Partners, Shaun White, Zach LaVine, Alex Cohen, Howard Lindzon and Greg Zeeman."
+    },
+    "reviewed": false
+  },
+  {
     "id": "swannies-founders-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -32126,6 +32222,38 @@
     "reviewed": false
   },
   {
+    "id": "treasury-daou-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "treasury-wine-estates"
+    ],
+    "text": "DAOU Vineyards is owned by Treasury Wine Estates Ltd (ASX: TWE): TWE announced completion of the acquisition of DAOU Vineyards, LLC and its associated entities on 13 December 2023, for an upfront $900m plus an earn-out of up to $100m.",
+    "short": "DAOU Vineyards is owned by ASX-listed Treasury Wine Estates (acquired December 2023).",
+    "source": {
+      "name": "Treasury Wine Estates: ASX announcement 'Treasury Wine Estates successfully completes the acquisition of DAOU Vineyards'",
+      "date": "2023-12-13",
+      "url": "https://a.storyblok.com/f/171317/x/f41c45a3f8/twe-completes-acquisition-of-daou-vineyards.pdf",
+      "quote": "Treasury Wine Estates Ltd (ASX:TWE ) (“TWE” or the “Company” ) today announced completion of the acquisition of DAOU Vineyards, LLC and its associated entities (“DAOU”). The acquisition is effective from today.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "PR Newswire / Treasury Wine Estates: acquisition announcement",
+        "date": "2023-10-30",
+        "url": "https://www.prnewswire.com/news-releases/treasury-wine-estates-announces-acquisition-of-fastest-growing-luxury-wine-brand-in-the-united-states-daou-vineyards-301972016.html",
+        "quote": "Treasury Wine Estates Ltd (ASX:TWE), one of the world's leading wine companies, today announced that it has reached an agreement to acquire DAOU Vineyards",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "trebaol-pelleau-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -32774,6 +32902,40 @@
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "under-armour-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "under-armour-inc"
+    ],
+    "text": "Under Armour is the brand of Under Armour, Inc., a US listed sportswear company (NYSE: UA, UAA) controlled by founder Kevin A. Plank: its July 2026 proxy statement shows him holding Class A and Class B stock carrying 64.6% of the combined voting power.",
+    "short": "Under Armour, Inc. is a listed US company whose founder Kevin Plank holds 64.6% of voting power.",
+    "source": {
+      "name": "Under Armour, Inc.: 2026 Proxy Statement (DEF 14A), security ownership of beneficial owners (SEC EDGAR)",
+      "date": "2026-07-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/1336917/000133691726000102/ua-20260715.htm",
+      "quote": "Kevin A. Plank (4)(5) 34,631,608 15.5 % 18,346,798 8.8 % 64.6 %",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "The same table header reads 'Class A and Class B Stock ... Percentage of Voting Power'; the proxy also calls Mr. Plank 'our founder, President and Chief Executive Officer and controlling stockholder' and states each Class B share 'entitles the holder to cast ten votes'."
+    },
+    "additionalSources": [
+      {
+        "name": "SEC EDGAR: company_tickers_exchange.json (official SEC list of company tickers by exchange)",
+        "date": "2026",
+        "url": "https://www.sec.gov/files/company_tickers_exchange.json",
+        "quote": "[1336917,\"Under Armour, Inc.\",\"UAA\",\"NYSE\"]",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-scout (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+        },
+        "note": "The same file also lists Under Armour, Inc. under ticker UA on NYSE."
+      }
+    ],
     "reviewed": false
   },
   {

@@ -1837,7 +1837,7 @@
     "type": "listed-company",
     "parentId": null,
     "country": "United States",
-    "note": "US functional-energy-drink company (founded 2004, per celsiusholdingsinc.com); the AMF1 partner page states CELSIUS is its brand. No state or state-fund holder found in this run."
+    "note": "US functional-energy-drink company (founded 2004, per celsiusholdingsinc.com); the AMF1 partner page states CELSIUS is its brand. Greater-than-5% holders per the 2026 proxy (celsius-holdings-shareholders): Chau Hoi Shuen Solina 8.97%, Alani Holdings LLC 8.74% (sole members Trey Steiger and Max Clemons), Deborah DeSantis 7.62%, Dean DeSantis 7.58%, AllianceBernstein 6.27%, William H. Milmoe 6.00%, BlackRock 5.64%, CD Financial LLC 5.40%. No state or state-fund holder found in this run."
   },
   {
     "id": "cenomi-centers",
@@ -9487,6 +9487,14 @@
     "note": "Holding company for the Republic of Tatarstan's stakes in the republic's largest enterprises (company's own site, opened 2026-10-03)."
   },
   {
+    "id": "swag-golf-co",
+    "name": "Swag Golf Co.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United States",
+    "note": "Northbrook, Illinois golf accessory, equipment and apparel company. Founded by Nick Venson, its CEO; in October 2023 it closed a $10m growth round led by Verance Capital with Aurum Partners (San Francisco 49ers-affiliated) and others (swag-golf-ownership). Ownership split not disclosed in the sources checked."
+  },
+  {
     "id": "swannies-golf",
     "name": "Swannies Golf Apparel",
     "type": "private-company",
@@ -10016,6 +10024,14 @@
     "country": "DE"
   },
   {
+    "id": "treasury-wine-estates",
+    "name": "Treasury Wine Estates Ltd",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Australia",
+    "note": "Wine company listed on the Australian Securities Exchange (ASX:TWE). Completed the acquisition of DAOU Vineyards, LLC in December 2023 (treasury-daou-ownership)."
+  },
+  {
     "id": "trenitalia",
     "name": "Trenitalia S.p.A.",
     "type": "private-company",
@@ -10199,6 +10215,14 @@
     "parentId": null,
     "country": "RU",
     "note": "US Treasury (September 2023): Makhmudov 'founded and owned' JSC Ural Mining and Metallurgical Company."
+  },
+  {
+    "id": "under-armour-inc",
+    "name": "Under Armour, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States",
+    "note": "US sportswear company listed on the NYSE (UA, UAA). Dual-class stock: founder Kevin A. Plank holds the Class B shares (10 votes each) carrying 64.6% of combined voting power per its July 2026 proxy statement (under-armour-ownership)."
   },
   {
     "id": "underdog-sports-holdings",
