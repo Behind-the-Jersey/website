@@ -12,4 +12,8 @@ BTJ_DATA_SOURCE="${BTJ_DATA_SOURCE:-live}" npm run build
 mv out-demo out/demo
 # The team-only film (public/film/) is served once, at /film/, not again under /demo/.
 rm -rf out/demo/film
+# One sign-in page for both copies, at /login/.
+rm -rf out/demo/login
+# Encrypt every page with the team password (SITE_PASSWORD); see scripts/lock-site.mjs.
+node scripts/lock-site.mjs out
 echo "Built out/ (live, data: ${BTJ_DATA_SOURCE:-live}) and out/demo/ (seed)."
