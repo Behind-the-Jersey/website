@@ -94,6 +94,18 @@ The site is on GitHub Pages at **https://behind-the-jersey.org**. [`.github/work
 
 Pages are still marked `noindex` (see `app/layout.tsx`) until the team clears the image rights and the rating method.
 
+### The team password
+
+The published site is private: every page is encrypted with the team password, and **/login/** asks for it. GitHub Pages can't check a password on a server, so [`scripts/lock-site.mjs`](scripts/lock-site.mjs) runs at the end of `npm run build:pages`:
+
+- it encrypts each page (AES-256-GCM, with a key derived from the password by PBKDF2) and publishes a small page in its place that decrypts it in the browser;
+- the sign-in page ([`public/login/index.html`](public/login/index.html)) checks the password against `login/lock.json`, keeps the key in the browser for 30 days and goes back to the page you asked for;
+- it removes Next's RSC payloads (`*.txt`) and the Open Graph images, which carry page content, so links load whole pages instead of client-side transitions, and replaces the 404 page with a small one.
+
+Images, fonts, scripts and the film stay readable by direct link; they hold no ratings or text. Sign out at `/login/?logout`.
+
+The password is the `SITE_PASSWORD` Actions secret; `pages.yml` fails the build without it rather than publish an unlocked site. To change it, update the secret and run *Deploy to GitHub Pages* from the Actions tab: everyone has to sign in again with the new one. Local builds without `SITE_PASSWORD` stay unlocked.
+
 ## Layout
 
 ```

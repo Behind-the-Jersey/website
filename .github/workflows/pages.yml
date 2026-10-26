@@ -39,6 +39,10 @@ jobs:
         env:
           BTJ_DATA_SOURCE: ${{ env.LIVE_DATA_SOURCE }}
           NEXT_PUBLIC_SITE_URL: https://behind-the-jersey.org
+          # The team password every page is encrypted with (scripts/lock-site.mjs). The build fails
+          # without it rather than publish an unlocked site.
+          SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
+          BTJ_REQUIRE_LOCK: '1'
       - uses: actions/upload-pages-artifact@v5
         with:
           path: out
