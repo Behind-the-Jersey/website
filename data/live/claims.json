@@ -7887,6 +7887,27 @@
     "reviewed": false
   },
   {
+    "id": "constell-group-galitsky-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "constell-group"
+    ],
+    "text": "Constell Group is a production holding (confectionery, paper, polymer and household-goods plants) created by Krasnodar businessman Sergei Galitsky in 2007.",
+    "short": "Constell Group is a production holding created in 2007 by Krasnodar businessman Sergei Galitsky.",
+    "source": {
+      "name": "93.ru: От туалетной бумаги до топовых вин. Что производит краснодарский бизнесмен Сергей Галицкий?",
+      "date": "2025-11-17",
+      "url": "https://93.ru/text/business/2025/11/17/76124431/",
+      "quote": "Еще в 2007-м, когда Галицкий владел «Магнитом», бизнесмен создал свой холдинг Constell Group.",
+      "note": "Translation: \"Back in 2007, when Galitsky owned Magnit, the businessman created his own holding Constell Group.\" The article adds the holding is linked to Galitsky companies LLC Plastictrade and LLC Novye Tekhnologii.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "construcoes-carlos-pinho-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -23236,6 +23257,40 @@
     "reviewed": false
   },
   {
+    "id": "ozon-shareholders-2026",
+    "kind": "ownership",
+    "ownerIds": [
+      "ozon"
+    ],
+    "text": "Ozon's shares trade on the Moscow Exchange through MKPAO \"Ozon\"; as of 1 March 2026 its largest shareholders were AO O23 with 34.95% of issued shares and AFK \"Sistema\" with 31.80%, and other shareholders held 33.25%.",
+    "short": "Ozon is listed on the Moscow Exchange; big shareholders are AO O23 (34.95%) and AFK Sistema (31.80%) as of 1 March 2026.",
+    "source": {
+      "name": "MKPAO Ozon: Annual Report 2025 (Годовой отчёт 2025), shareholders section, via Moscow Exchange",
+      "date": "2026",
+      "url": "https://www.moex.com/media/mirs/mkpao-ozon-godovoj-otchet-2025.pdf",
+      "quote": "31,80% АФК «Система»1 33,25% Другие акционеры3 34,95% АО «О23»2 % от количества размещенных акций4",
+      "note": "Page 42 «Информация для акционеров и инвесторов»: AFK Sistema 31.80%, AO O23 34.95%, other shareholders 33.25%; footnote 4: the share-capital structure is given as of 1 March 2026; footnote 1 adds the 16,083,675 shares of Sistema Venture Fund controlled by AFK Sistema.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Interfax: Структуры Александра Чачавы нарастили долю в Ozon до 34,95% (Chachava structures raise Ozon stake to 34.95%)",
+        "date": "2026-04-10",
+        "url": "https://www.interfax.ru/business/1083246",
+        "quote": "Компания АО \"О23\" довела долю в капитале Ozon до 34,95%, следует из отчета МКПАО \"Озон\" по МСФО.",
+        "note": "Same article, on the share-capital structure as of 1 March 2026: AFK Sistema's stake stays at 31.8%, the remaining 33.25% is spread among minorities; it also says AO O23 was acquired by structures of businessman Alexander Chachava.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "paceteq-gmbh-lola-stake",
     "kind": "ownership",
     "ownerIds": [
@@ -34476,6 +34531,27 @@
       "url": "https://legalbet.ru/shkola-bettinga/vladeletc-vinlajn-komu-prinadlezhit-bukmekerskaya-kontora/",
       "note": "Translation: 'It belongs to a group of founders. The main owner and founder of Winline is Dmitry Myslivtsev. Management is carried out by OOO UK NKS.' Page undated.",
       "quote": "Она принадлежит группе учредителей. Основной владелец винлайн и основатель — Дмитрий Мысливцев. Управление осуществляет ООО «УПРАВЛЯЮЩАЯ КОМПАНИЯ НКС».",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "winline-private-owners",
+    "kind": "ownership",
+    "ownerIds": [
+      "winline"
+    ],
+    "text": "Bookmaker Winline operates as LLC \"Upravlyayushchaya kompaniya NKS\" (Managing Company of the National Horse Breeding Union), whose founders are five private individuals; the largest share, 45%, belongs to Andrey Myslivtsev.",
+    "short": "Winline (LLC UK NKS) is owned by five private individuals; Andrey Myslivtsev holds the largest share (45%).",
+    "source": {
+      "name": "Ставка ТВ (stavka.tv): Компания Винлайн: кто владелец, чья компания и история создания",
+      "date": "2026-10-01",
+      "url": "https://stavka.tv/bookmakers/winline/about",
+      "quote": "Компания входит в ООО «Управляющая компания НКС» с уставным капиталов 120 миллионов рублей. Основной долей владеет Андрей Мысливцев.",
+      "note": "The page's founder table lists: Andrey Myslivtsev 45%, Larisa Egorchenko 20%, Robert Yusupov 16%, Eduard Grishkin 15%, Lyalya Yusupova 4%; CEO Georgy Nalivkin. (Legalbet names the main owner as \"Дмитрий Мысливцев\" - same surname, different first name; flagged in the PR.)",
       "checked": {
         "on": "2026-10-03",
         "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"

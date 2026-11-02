@@ -217,6 +217,21 @@
     "note": "Presenting sponsor of the Magical Kenya Open presented by absa (event name, 2026 Race to Dubai schedule). Ownership not traced here."
   },
   {
+    "id": "absel",
+    "name": "ABSEL",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ABS AUTO",
+      "ABSELGROUP"
+    ],
+    "note": "Auto-parts brand (formerly ABS AUTO), an FC Krasnodar partner for the 2026/27 season per distributor ABSTD. Its own site says the brand started in 1995 as a small family business and that ABSEL's production headquarters is in Dubai's Jebel Ali Free Zone; no owners are named publicly. Left unrated: owner not identified."
+  },
+  {
     "id": "abt-sportsline",
     "name": "ABT Sportsline",
     "ownerId": "abt-sportsline-gmbh",
@@ -6011,14 +6026,16 @@
   {
     "id": "constell-group",
     "name": "Constell Group",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "constell-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Production holding created in 2007 by Krasnodar businessman Sergei Galitsky, a private individual. Nothing found.",
+    "claimIds": [
+      "constell-group-galitsky-ownership"
+    ],
     "aliases": [],
-    "note": "FC Krasnodar general partner (confectionery production group)."
+    "note": "Rating note: 93.ru (17 Nov 2025) names Sergei Galitsky - the founder of Magnit and FC Krasnodar - as the private businessman who created Constell Group; no state stake and no human-rights finding found. Its wordmark shares the left sleeve of FC Krasnodar's 2026/27 match shirt with ABSEL (club match photo galleries; the club shop offers a Constell-logo print option)."
   },
   {
     "id": "construcoes-carlos-pinho",
@@ -11350,6 +11367,22 @@
       "HEXIS Group"
     ],
     "note": "Rating note: French adhesive-film manufacturer (Frontignan); founded by Michel Mateu in 1989, and France's official companies directory lists members of the Mateu family in its top offices (hexis-ownership). No state shareholder identified, no human-rights finding found -> propose none. Genesis Magma Racing Technical Partner (livery wrap film) for the 2026 WEC season."
+  },
+  {
+    "id": "hh-ru",
+    "name": "hh.ru",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "hh",
+      "HeadHunter",
+      "Хэдхантер"
+    ],
+    "note": "Online recruitment platform; an FC Krasnodar club partner per the club's partners page, and its «hh» logo sits above the shorts number on the 2026/27 home match kit (club match photo galleries). Owner not checked; left unrated."
   },
   {
     "id": "hh-sports",
@@ -18078,14 +18111,16 @@
   {
     "id": "ozon",
     "name": "Ozon",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "ozon",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Brand of MKPAO Ozon, an e-commerce company listed on the Moscow Exchange; its largest shareholders are AO O23 (34.95%, held by structures of businessman Alexander Chachava) and AFK Sistema (31.80%), with the remaining 33.25% spread among minorities. Nothing found.",
+    "claimIds": [
+      "ozon-shareholders-2026"
+    ],
     "aliases": [],
-    "note": "Krasnodar partner."
+    "note": "Rating note: 2025 annual report (structure as of 1 March 2026) names AO O23 (34.95%) and AFK Sistema (31.80%, incl. Sistema Venture Fund) as the big shareholders of Moscow Exchange–listed MKPAO Ozon; no state stake or board control found, and no human-rights finding against the company found. Krasnodar partner since April 2025 (kit logo + Ozon Arena stadium naming) with the deal running to 2029."
   },
   {
     "id": "paceteq",
@@ -26258,12 +26293,13 @@
     "status": "rated",
     "verdict": "Owned by a group of founders; Legalbet names Dmitry Myslivtsev as main owner and founder. Nothing found.",
     "claimIds": [
-      "winline-ownership-uk-nks"
+      "winline-ownership-uk-nks",
+      "winline-private-owners"
     ],
     "aliases": [
       "Винлайн"
     ],
-    "note": "Partner of KHL club Avtomobilist (Legalbet) and listed on the club's own sponsors page (archived 8 July 2025). Other betting outlets name the largest shareholder as Andrey Myslivtsev (about 45%); the first name conflicts with Legalbet. Krasnodar shirt sponsor per its partner page; also a Zenit partner."
+    "note": "Partner of KHL club Avtomobilist (Legalbet) and listed on the club's own sponsors page (archived 8 July 2025). Other betting outlets name the largest shareholder as Andrey Myslivtsev (about 45%); the first name conflicts with Legalbet. Krasnodar shirt sponsor per its partner page, the deal running to the end of the 2026/27 season (sports.ru, 10 Jul 2025); also a Zenit partner."
   },
   {
     "id": "wizteam",

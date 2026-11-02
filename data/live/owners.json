@@ -2218,6 +2218,14 @@
     "note": "Bologna-province consortium (Villanova di Castenaso, VAT 01522961208) that produces and markets the Selenella brand. Founded 2002 as Consorzio delle buone idee, renamed; 10 member companies (1 producer organisation, 2 cooperatives, 7 private traders) representing about 320 producers. No state or state-fund ownership: its members are private producers, cooperatives and traders."
   },
   {
+    "id": "constell-group",
+    "name": "Constell Group",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Russia",
+    "note": "Production holding with confectionery, paper, polymer and household-goods plants; created by Krasnodar businessman Sergei Galitsky in 2007 (93.ru, 17 Nov 2025)."
+  },
+  {
     "id": "construcoes-carlos-pinho",
     "name": "Construções Carlos Pinho, Lda.",
     "type": "unknown",
@@ -7126,6 +7134,14 @@
     "parentId": "neom"
   },
   {
+    "id": "ozon",
+    "name": "MKPAO \"Ozon\"",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Russia",
+    "note": "International public joint-stock company \"Ozon\", e-commerce group redomiciled from Cyprus to a special administrative region in Kaliningrad in 2025; shares list on the Moscow Exchange per its 2025 annual report. Largest shareholders (1 March 2026): AO O23 34.95%, AFK Sistema 31.80%."
+  },
+  {
     "id": "paceteq-gmbh",
     "name": "PACETEQ GmbH",
     "type": "private-company",
@@ -10698,7 +10714,7 @@
     "type": "private-company",
     "parentId": null,
     "country": "Russia",
-    "note": "Russian bookmaker operating as Winline. Belongs to a group of founders; Legalbet names Dmitry Myslivtsev as main owner and founder (other betting outlets say the largest stake of about 45% belongs to Andrey Myslivtsev)."
+    "note": "Russian bookmaker operating as Winline. Belongs to a group of founders; Legalbet names Dmitry Myslivtsev as main owner and founder (other betting outlets say the largest stake of about 45% belongs to Andrey Myslivtsev). stavka.tv's founder table for the legal entity LLC \"Upravlyayushchaya kompaniya NKS\" lists Andrey Myslivtsev 45%, Larisa Egorchenko 20%, Robert Yusupov 16%, Eduard Grishkin 15%, Lyalya Yusupova 4% (CEO Georgy Nalivkin); the first-name conflict with Legalbet stays documented. Title partner of FC Krasnodar since 2020, the agreement running to the end of the 2026/27 season (sports.ru, 10 Jul 2025); also a Zenit partner and a partner of KHL club Avtomobilist (Legalbet)."
   },
   {
     "id": "wizz-air-holdings-plc",

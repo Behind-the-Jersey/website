@@ -19119,9 +19119,100 @@
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
     "photos": {},
-    "sponsors": [],
-    "sponsorsComplete": false,
-    "summary": "Winline is a named club partner; front-shirt placement not confirmed against a kit launch.",
+    "sponsors": [
+      {
+        "sponsorId": "winline",
+        "placement": "front",
+        "source": {
+          "name": "Sports.ru (Беттинг-индустрия): На новой форме «Краснодара» появился обновленный логотип Winline",
+          "date": "2025-07-10",
+          "url": "https://www.sports.ru/betting/industry/1116810243-na-novoj-forme-krasnodara-poyavilsya-obnovlennyj-logotip-winline.html",
+          "quote": "На передней части домашнего и гостевого комплекта размещен обновленный логотип букмекерской компании Winline.",
+          "note": "Named press: the front of the kit carries the Winline logo; the same article says Winline is Krasnodar's title partner with a deal running to the end of the 2026/27 season. The Winline logo remains central on the front of the 2026/27 home shirt, worn in RPL play (club match galleries, e.g. Krasnodar–Akhmat, 15 August 2026, and Krasnodar–Akron, 13 September 2026, on fckrasnodar.ru).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "ozon",
+        "placement": "front",
+        "source": {
+          "name": "FC Krasnodar: Ozon – официальный партнер ФК «Краснодар» (Ozon - official partner of FC Krasnodar)",
+          "date": "2025-04-18",
+          "url": "https://fckrasnodar.ru/ru/team/news/object/?object_id=149621",
+          "quote": "Логотип компании появится на игровой форме основной команды в новом сезоне РПЛ 2025/26.",
+          "note": "Club announcement: the Ozon logo goes on the first team's playing kit and the partnership runs to 2029 (the stadium was renamed Ozon Arena on 1 May 2025). The Ozon wordmark sits on the upper chest of the 2026/27 home match shirt - club match photo galleries (Krasnodar–Akhmat, 15.08.2026: https://fckrasnodar.ru/ru/team/photo/object/?object_id=153656; Krasnodar–Akron, 13.09.2026: https://fckrasnodar.ru/ru/team/photo/object/?object_id=153995).",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "ozon",
+        "placement": "back",
+        "source": {
+          "name": "FC Krasnodar: Ozon – официальный партнер ФК «Краснодар» (Ozon - official partner of FC Krasnodar)",
+          "date": "2025-04-18",
+          "url": "https://fckrasnodar.ru/ru/team/news/object/?object_id=149621",
+          "quote": "Логотип компании появится на игровой форме основной команды в новом сезоне РПЛ 2025/26.",
+          "note": "The Ozon wordmark appears below the back numbers on the 2026/27 home match shirt - club match photo gallery (Krasnodar–Akron, 13.09.2026, фоторепортаж: https://fckrasnodar.ru/ru/team/photo/object/?object_id=153995). No sponsor above the players' names.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "absel",
+        "placement": "sleeve",
+        "source": {
+          "name": "ABSTD (ABSEL distributor): ABSEL продолжает партнерство с ФК «Краснодар» в сезоне 2026/27 (ABSEL continues its partnership with FC Krasnodar in the 2026/27 season)",
+          "date": "2026-07-30",
+          "url": "https://abstd.ru/tnews-item?id=26758",
+          "quote": "бренд ABSEL продолжает официальное сотрудничество с футбольным клубом «Краснодар» в сезоне 2026/27",
+          "note": "Company announcement that ABSEL is an official FC Krasnodar partner in 2026/27. The ABSEL wordmark is the upper of two logos on the left sleeve of the 2026/27 match shirt - club match photo gallery, Krasnodar–Akhmat, 15.08.2026: https://fckrasnodar.ru/ru/team/photo/object/?object_id=153656.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "constell-group",
+        "placement": "sleeve",
+        "source": {
+          "name": "FC Krasnodar official shop: Домашняя игровая футболка FCK 26/27 (home match jersey product page)",
+          "date": "2026",
+          "url": "https://shop.fckrasnodar.ru/domashnyaya-igrovaya-futbolka-fck-26-27/",
+          "quote": "Добавить логотип Constell",
+          "note": "The club shop offers adding the Constell logo («Добавить логотип Constell») to the 26/27 home jersey. On the match-worn shirt the Constell wordmark is the lower of two logos on the left sleeve, below ABSEL - club match photo galleries (Krasnodar–Akhmat, 15.08.2026: https://fckrasnodar.ru/ru/team/photo/object/?object_id=153656; Krasnodar–Akron, 13.09.2026: https://fckrasnodar.ru/ru/team/photo/object/?object_id=153995). No named-press text source for the sleeve placement found.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "hh-ru",
+        "placement": "shorts",
+        "source": {
+          "name": "FC Krasnodar: Спонсоры и партнёры (club sponsors and partners page)",
+          "date": "2026",
+          "url": "https://fckrasnodar.ru/ru/club/partners/",
+          "quote": "hh.ru – ведущая платформа для поиска работы и сотрудников в России",
+          "note": "The club's partners page names hh.ru among its club partners («Партнёры клуба»). On the 2026/27 home match shorts, the «hh» logo sits above the right-leg number - club match photo galleries (Krasnodar–Akron, 13.09.2026: https://fckrasnodar.ru/ru/team/photo/object/?object_id=153995). No announcement naming the shorts placement found; placement verified visually in the club's own match photos.",
+          "checked": {
+            "on": "2026-10-04",
+            "by": "btj-scout (OpenCode, model kimi-k3, run by @Schnitzel)"
+          }
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "In-house 2026/27 home kit (launched 16 July 2026). Winline leads the front as title partner (deal to the end of 2026/27); Ozon's wordmark sits above it on the chest and below the back numbers (partnership to 2029, stadium renamed Ozon Arena); ABSEL and Constell wordmarks stack on the left sleeve; the right sleeve carries the league patch; the «hh» logo (recruitment platform hh.ru, a listed club partner) sits above the shorts number. All placements checked against the club's own match photo galleries.",
     "change": null
   },
   {
