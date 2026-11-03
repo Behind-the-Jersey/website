@@ -1947,42 +1947,47 @@
           "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
           "date": "2026-06-15",
           "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+          "quote": "Al-Riyadh | Science Technology | Black Panther",
+          "note": "Table of each club's main shirt sponsor and kit manufacturer; the page says the details reflect confirmed 2025/26 contracts carrying into 2026/27.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "sponsorId": "tameeni-insurance",
-        "placement": "front",
+        "placement": "partner",
         "source": {
-          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
-          "date": "2026-06-15",
-          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
-          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
-        }
-      },
-      {
-        "sponsorId": "stars-smile",
-        "placement": "back",
-        "source": {
-          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
-          "date": "2026-08-24",
-          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
-          "note": "Official league gallery of the 2026-27 kits."
+          "name": "Al Riyadh Club – Tameeni official sponsor of Al Riyadh (riyadhclub.sa)",
+          "date": "2025-08-28",
+          "url": "https://riyadhclub.sa/%D8%AA%D8%A3%D9%85%D9%8A%D9%86%D9%8A-%D8%B1%D8%A7%D8%B9%D9%8A%D9%8B%D8%A7-%D8%B1%D8%B3%D9%85%D9%8A%D9%8B%D8%A7-%D9%84%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
+          "quote": "أعلنت إدارة نادي الرياض عن توقيع عقد رعاية جديد مع منصة “تأميني” الرائدة في مجال وساطة التأمين الطبي وتأمين السيارات",
+          "note": "Club announcement that Tameeni is a sponsor (English: the club management announced a new sponsorship contract with the Tameeni platform, a leader in medical insurance brokerage and car insurance). It documents the sponsorship, not a shirt placement: no text source confirms Tameeni on the 2026/27 home shirt (Tameeni appears on the chest of the club's 2025/26 away player shirt), and the launch and retail images show no sponsor print, so it is listed as a partner.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       },
       {
         "sponsorId": "black-panther",
         "placement": "partner",
         "source": {
-          "name": "Sponsor note (kit supplier)",
-          "date": "2026-09",
-          "url": null,
-          "note": "Kit supplier to Al-Riyadh. Link removed 2026-09-25 (a private issue in the data repo, not a public source (2026-09-25)): https://github.com/Behind-the-Jersey/data/issues/243"
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "quote": "Al-Riyadh | Science Technology | Black Panther",
+          "note": "Same table: Black Panther is listed as Al-Riyadh's kit manufacturer for 2026/27. The league's kit gallery photos also carry the Black Panther logo.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
     "sponsorsComplete": false,
-    "summary": "Black Panther home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "summary": "Black Panther home kit (unchanged design from 2025/26). 433FC lists Science Technology as main shirt sponsor and Black Panther as kit maker for 2026/27; the club announced Tameeni as a sponsor in August 2025, but no source confirms a shirt placement for Tameeni on this kit, so it is listed as a partner. The launch and retail shirt images carry no sponsor print and show the front only, so no source supports a Stars Smile (or any) back placement on this shirt; that listing was dropped. The sponsor list is not complete.",
     "change": null
   },
   {
@@ -25629,14 +25634,485 @@
         "sponsorId": "pertamina",
         "placement": "front",
         "source": {
-          "name": "MotoGP.com - BLACKANDLIGHT: new year, new colours for Pertamina Enduro VR46",
+          "name": "MotoGP.com: BLACKANDLIGHT: new year, new colours for Pertamina Enduro VR46 (byline: Pertamina Enduro VR46 Racing Team)",
           "date": "2026-01-14",
-          "url": "https://www.motogp.com/en/news/2026/01/14/blackandlight-new-year-new-colours-for-pertamina-enduro-vr46/825185"
+          "url": "https://www.motogp.com/en/news/2026/01/14/blackandlight-new-year-new-colours-for-pertamina-enduro-vr46/825185",
+          "quote": "Pertamina Enduro VR46 Racing Team have revealed their 2026 colours!",
+          "note": "2026 livery launch, Rome, 14 Jan 2026. Pertamina (Enduro) is the team's title sponsor and names the team; on the team's own Sponsors page (vr46racingteam.it/sponsors) it stands alone under 'TITLE SPONSOR' with the link www.pertaminalubricants.com.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "12b-sports",
+        "placement": "partner",
+        "source": {
+          "name": "12B Sports: 12B SPORTS Named Main Sponsor of VR46 Racing Team for the 2026 MotoGP Season",
+          "date": "2026",
+          "url": "https://12bsports.com/12b-sports-named-main-sponsor-of-vr46-racing-team-for-the-2026-motogp-season/",
+          "quote": "today announced its appointment as Main Sponsor of Pertamina Enduro VR46 Racing Team for the 2026 MotoGP World Championship season",
+          "note": "Same announcement distributed by GlobeNewswire on 30 May 2026 (thestar.com). The team's Sponsors page also lists 12B Sports under 'MAIN SPONSORS' with the link www.12bsports.com.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "comoli-ferrari",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.comoliferrari.it",
+          "note": "The page lists each sponsor as a logo card with its website; Comoli Ferrari stands under 'MAIN SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "monster-energy",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.monsterenergy.com",
+          "note": "The page lists each sponsor as a logo card with its website; Monster Energy stands under 'MAIN SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "958-santero",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.santero.it",
+          "note": "The page lists each sponsor as a logo card with its website; 958 Santero stands under 'OFFICIAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "barracuda",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.barracudamoto.com",
+          "note": "The page lists each sponsor as a logo card with its website; Barracuda stands under 'OFFICIAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "cupra",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.cupraofficial.com",
+          "note": "The page lists each sponsor as a logo card with its website; Cupra stands under 'OFFICIAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "dainese",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.dainese.com",
+          "note": "The page lists each sponsor as a logo card with its website; Dainese stands under 'OFFICIAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "ercos",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.ercos.it",
+          "note": "The page lists each sponsor as a logo card with its website; Ercos stands under 'OFFICIAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "fassi",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.fassi.com",
+          "note": "The page lists each sponsor as a logo card with its website; Fassi stands under 'OFFICIAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "hero",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.eu.hero.ca",
+          "note": "The page lists each sponsor as a logo card with its website; Hero (paint-dispensing machines) stands under 'OFFICIAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "lino-sonego",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.linosonego.it",
+          "note": "The page lists each sponsor as a logo card with its website; Lino Sonego stands under 'OFFICIAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "oakley",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.oakley.com",
+          "note": "The page lists each sponsor as a logo card with its website; Oakley stands under 'OFFICIAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "refrigiwear",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.refrigiwear.it",
+          "note": "The page lists each sponsor as a logo card with its website; Refrigiwear stands under 'OFFICIAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "tsunami-nutrition",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.tsunaminutrition.com",
+          "note": "The page lists each sponsor as a logo card with its website; Tsunami Nutrition stands under 'OFFICIAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "aerre",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.aerresrl.it",
+          "note": "The page lists each sponsor as a logo card with its website; Aerre stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "akrapovic",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.akrapovic.it",
+          "note": "The page lists each sponsor as a logo card with its website; Akrapovic stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "beta-tools",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.beta-tools.com",
+          "note": "The page lists each sponsor as a logo card with its website; Beta stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "bischoff-scheck",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.bischoff-scheck.de",
+          "note": "The page lists each sponsor as a logo card with its website; Bischoff Scheck stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "did",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.didchain.com",
+          "note": "The page lists each sponsor as a logo card with its website; D.I.D stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "ducati",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.ducati.com/it/it/home",
+          "note": "The page lists each sponsor as a logo card with its website; Ducati, the team's bike supplier, stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "iveco",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.iveco.com",
+          "note": "The page lists each sponsor as a logo card with its website; Iveco stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "kappa",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.kappa.com",
+          "note": "The page lists each sponsor as a logo card with its website; Kappa (teamwear) stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "michelin",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.michelin.com",
+          "note": "The page lists each sponsor as a logo card with its website; Michelin is also MotoGP's spec tyre supplier and stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "motocorse",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.motocorsestore.com",
+          "note": "The page lists each sponsor as a logo card with its website; MotoCorse stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "rcb",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.rcb.com",
+          "note": "The page lists each sponsor as a logo card with its website; RCB (RacingBoy performance parts) stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "reabilita",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.reabilita.it",
+          "note": "The page lists each sponsor as a logo card with its website; Reabilita stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "sporttravel",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.sporttravelworld.com",
+          "note": "The page lists each sponsor as a logo card with its website; SportTravel stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "sprint-filter",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.sprintfilter.net",
+          "note": "The page lists each sponsor as a logo card with its website; Sprint Filter stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "velocifero",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.velocifero.eu",
+          "note": "The page lists each sponsor as a logo card with its website; Velocifero stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "vmoto",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.vmoto.com",
+          "note": "The page lists each sponsor as a logo card with its website; Vmoto stands under 'TECHNICAL SPONSORS'. Vmoto's own site confirms it is the team's electric-scooter supplier ('VR46 Electric Scooter Supplier' banner, vmoto.com home page). Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "sponsorId": "wrs",
+        "placement": "partner",
+        "source": {
+          "name": "VR46 Racing Team: Sponsors (team site)",
+          "date": "2026",
+          "url": "https://vr46racingteam.it/sponsors/",
+          "quote": "www.wrs.it",
+          "note": "The page lists each sponsor as a logo card with its website; WRS stands under 'TECHNICAL SPONSORS'. Page not dated; opened 3 Oct 2026.",
+          "checked": {
+            "on": "2026-10-03",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": false,
-    "summary": null,
+    "sponsorsComplete": true,
+    "summary": "2026 Pertamina Enduro VR46 Racing Team (Fabio Di Giannantonio, Franco Morbidelli). Pertamina (Enduro lubricants) is the title sponsor and gives the team its name (front). The team's own Sponsors page (vr46racingteam.it/sponsors, opened 3 Oct 2026) lists the full 2026 partner roster in three tiers, all recorded here with the page's own category named in each source note: Main sponsors 12B Sports (itself announced as main sponsor for the 2026 season via GlobeNewswire, 30 May 2026), Comoli Ferrari and Monster Energy; Official sponsors 958 Santero, Barracuda, Cupra, Dainese, Ercos, Fassi, Hero, Lino Sonego, Oakley, Refrigiwear and Tsunami Nutrition; Technical sponsors Aerre, Akrapovic, Beta, Bischoff Scheck, D.I.D, Ducati (bike supplier), Iveco, Kappa, Michelin (MotoGP's spec tyre supplier), MotoCorse, RCB, Reabilita, SportTravel, Sprint Filter, Velocifero, Vmoto and WRS. The page shows partners as logo cards with a link, not by name in its text; the quote in each source is the sponsor's website address as printed on the page.",
     "change": null
   },
   {

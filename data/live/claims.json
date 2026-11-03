@@ -8330,6 +8330,39 @@
     "reviewed": false
   },
   {
+    "id": "cupra-vw-brand-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "volkswagen-ag"
+    ],
+    "text": "CUPRA is one of the ten brands of the Volkswagen Group; its own website is operated by SEAT, S.A.U.",
+    "short": "CUPRA is a Volkswagen Group brand (one of its ten car brands).",
+    "source": {
+      "name": "Volkswagen Group (volkswagen-group.com): Group page",
+      "date": "2026",
+      "url": "https://www.volkswagen-group.com/en/group-15765",
+      "quote": "The Group comprises ten brands from five European countries: Volkswagen, Volkswagen Commercial Vehicles, ŠKODA, SEAT, CUPRA, Audi, Lamborghini, Bentley, Porsche and Ducati.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "CUPRA (cupra.com): site footer",
+        "date": "2026",
+        "url": "https://www.cupra.com/en/",
+        "quote": "Website operated by SEAT, S.A.U.",
+        "note": "CUPRA's own website footer states '© SEAT, S.A.U. 2026 - All rights reserved. Website operated by SEAT, S.A.U.' and carries a footer link labelled 'Part of Volkswagen Group' pointing to volkswagen-group.com.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
     "id": "cvc-capital-partners-record",
     "kind": "ownership",
     "ownerIds": [
@@ -8463,6 +8496,27 @@
       "name": "Daikin Industries Ltd. Shareholder Information",
       "date": "2026-09-24",
       "url": "https://www.daikin.com/investor/stock/stock_info"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "dainese-hps-arcmont-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "hps-arcmont"
+    ],
+    "text": "Dainese is 100% owned by HPS Investment Partners and Arcmont Asset Management following a 30 million euro investment deal, announced on 29 January 2026.",
+    "short": "Dainese is 100% owned by HPS Investment Partners and Arcmont Asset Management.",
+    "source": {
+      "name": "MCN (Motorcycle News): Dainese announce new owners after €30m investment deal approved",
+      "date": "2026-01-29",
+      "url": "https://www.motorcyclenews.com/bike-kit/news/2026-kit-news/january/dainese-bought-by-hps-and-arcmont/",
+      "quote": "they are now 100% owned by HPS Investment Partners and Arcmont Asset Management",
+      "note": "MCN reports the deal was completed after European Commission antitrust approval; the two firms had invested in Dainese in October 2025 while it was owned by Carlyle.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
     },
     "reviewed": false
   },
@@ -9788,6 +9842,40 @@
     "reviewed": false
   },
   {
+    "id": "ducati-audi-group-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "audi-ag"
+    ],
+    "text": "Ducati is one of the Audi Group's brands (the Audi Group comprises Audi, Bentley, Lamborghini, Ducati and Audi Sport GmbH).",
+    "short": "Ducati is a brand of the Audi Group.",
+    "source": {
+      "name": "AUDI AG (audi.com): Audi Group - A strong alliance",
+      "date": "2026",
+      "url": "https://www.audi.com/en/audi-group-213",
+      "quote": "The Audi Group comprises Audi, Bentley, two traditional Italian brands Lamborghini and Ducati, and Audi Sport GmbH.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      },
+      "note": "The page is undated (page footer 'As of: 08/31/2026' on its images album)."
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Volkswagen Group (volkswagen-group.com): Group page",
+        "date": "2026",
+        "url": "https://www.volkswagen-group.com/en/group-15765",
+        "quote": "The Group comprises ten brands from five European countries: Volkswagen, Volkswagen Commercial Vehicles, ŠKODA, SEAT, CUPRA, Audi, Lamborghini, Bentley, Porsche and Ducati.",
+        "note": "The Volkswagen Group's own overview lists Ducati among its ten brands.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
     "id": "dude-products-founders-control",
     "kind": "ownership",
     "ownerIds": [
@@ -11097,6 +11185,28 @@
       "checked": {
         "on": "2026-09-27",
         "by": "claude-review-282"
+      }
+    },
+    "reviewed": false
+  },
+  {
+    "id": "exor-iveco-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "exor-nv",
+      "iveco-group-nv"
+    ],
+    "text": "Exor N.V. holds 27.1% of the economic rights and 43.2% of the voting rights in Iveco Group, as of 30 June 2026.",
+    "short": "Exor holds 27.1% economic / 43.2% voting rights in Iveco Group.",
+    "source": {
+      "name": "Exor: Iveco Group (holdings page)",
+      "date": "2026-06-30",
+      "url": "https://www.exor.com/pages/companies/iveco-group",
+      "quote": "27.1% economic rights 43.2% voting rights",
+      "note": "Exor's own holdings page lists Iveco Group among its companies with these figures 'As of 30/06/2026'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
       }
     },
     "reviewed": false
@@ -16241,7 +16351,20 @@
         "by": "claude-review-282"
       }
     },
-    "reviewed": false
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Mongabay: UN calls out Indonesia's Merauke food estate for displacing Indigenous communities",
+        "date": "2025-06-24",
+        "url": "https://news.mongabay.com/2025/06/un-calls-out-indonesias-merauke-food-estate-for-displacing-indigenous-communities/",
+        "quote": "U.N. special rapporteurs have raised concerns that Indonesia’s food estate project in Merauke district is displacing Indigenous communities, clearing forests without consent, and using military forces to suppress dissent",
+        "note": "Mongabay's report on the joint communication by nine UN special rapporteurs (AL IDN (1.2025), 7 March 2025) and also covers a 'five infantry battalions' deployment the UN letter raises. Supports the Papua/Merauke part of the claim.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ]
   },
   {
     "id": "ineos-group-limited-record",
@@ -23848,6 +23971,75 @@
         "checked": {
           "on": "2026-09-28",
           "by": "Schnitzel"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pertamina-enduro-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "pertamina"
+    ],
+    "text": "Pertamina Enduro, the VR46 Racing Team's title-sponsor brand, is a product of PT Pertamina Lubricants, which is 99.96% owned by PT Pertamina Patra Niaga, the Pertamina group's downstream subholding.",
+    "short": "Pertamina Enduro is PT Pertamina Lubricants' brand; the company is 99.96% held by PT Pertamina Patra Niaga.",
+    "source": {
+      "name": "PT Pertamina Lubricants: Tentang Kami (About us - company profile and shareholding)",
+      "date": "2026",
+      "url": "https://www.pertaminalubricants.com/tentang-kami",
+      "quote": "PT Pertamina Patra Niaga (99,96%)",
+      "note": "PT Pertamina Lubricants' own About page (Indonesian): 'PT Pertamina Lubricants is part of the Subholding Downstream PT Pertamina Patra Niaga' and its ownership table lists PT Pertamina Patra Niaga 99.96%, PT Pertamina Pedeve Indonesia 0.04%.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "VR46 Racing Team: Sponsors (team site)",
+        "date": "2026",
+        "url": "https://vr46racingteam.it/sponsors/",
+        "quote": "www.pertaminalubricants.com",
+        "note": "The team's Sponsors page shows Pertamina alone under the heading 'TITLE SPONSOR', with this website link (pertaminalubricants.com is PT Pertamina Lubricants' site).",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pertamina-government-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "pertamina",
+      "government-of-indonesia"
+    ],
+    "text": "PT Pertamina (Persero), the group PT Pertamina Lubricants belongs to, is an Indonesian state-owned enterprise; in 2026 Danantara consolidated Pertamina Patra Niaga and its sister units into a single entity.",
+    "short": "PT Pertamina (Persero) is an Indonesian state-owned enterprise; Danantara consolidated its downstream units under Patra Niaga in 2026.",
+    "source": {
+      "name": "PT Pertamina Hulu Energi (pertamina.com group site): Shareholder Structure",
+      "date": "2026",
+      "url": "https://phe.pertamina.com/en/page/shareholder-structure",
+      "quote": "PT Pertamina (Persero), a state-owned enterprise (SOE)",
+      "note": "Pertamina's own upstream subholding describes its controlling shareholder, PT Pertamina (Persero), as 'a state-owned enterprise (SOE)'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false,
+    "additionalSources": [
+      {
+        "name": "Jakarta Globe (Antara): Pertamina Unit Merger Generates Up to $700 Million in Savings, Danantara Says",
+        "date": "2026-06-12",
+        "url": "https://jakartaglobe.id/business/pertamina-unit-merger-generates-up-to-700-million-in-savings-danantara-says",
+        "quote": "Earlier this year, Danantara consolidated Pertamina Patra Niaga, Kilang Pertamina Internasional, and Pertamina International Shipping into a single entity",
+        "note": "The same article calls Pertamina 'state energy company Pertamina' and describes the consolidation as part of a broader effort by Danantara to streamline Indonesia's state-owned-enterprise sector.",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
         }
       }
     ]
@@ -33594,6 +33786,27 @@
     "reviewed": false
   },
   {
+    "id": "velocifero-white-sro-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "white-sro"
+    ],
+    "text": "The Velocifero trademark is exclusively owned by White SRO of Kosice, Slovak Republic, per the trademark's own legal notice.",
+    "short": "Velocifero is a trademark exclusively owned by White SRO (Kosice, Slovakia).",
+    "source": {
+      "name": "Velocifero (velocifero.eu): homepage legal notice",
+      "date": "2026",
+      "url": "https://www.velocifero.eu/",
+      "quote": "Velocifero is a registered trademark exclusively owned by White SRO.",
+      "note": "The legal notice in the homepage footer reads: 'Velocifero is a registered trademark exclusively owned by White SRO... White Sro, Letna, 45 - 04022 - Kosice - Slovak Republic'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "verge-magur-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -34112,6 +34325,27 @@
         "by": "btj-researcher (OpenCode, model kimi-k3, run by @Schnitzel)"
       },
       "note": "vittoriaassicurazioni.com answers scripts with a maintenance page; read via the Wayback capture. The direction-and-coordination sentence is in the page text; the 98.34% / 80.43% / 99.99% stakes are legible in the 'Gli Azionisti' chart image published on the same page."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "vmoto-asx-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "vmoto-limited"
+    ],
+    "text": "Vmoto is the brand of Vmoto Limited, a company listed on the Australian Securities Exchange as VMT.",
+    "short": "Vmoto is the brand of Vmoto Limited, listed on the ASX (VMT).",
+    "source": {
+      "name": "Vmoto: Investor Centre",
+      "date": "2026",
+      "url": "https://vmoto.com/investor-centre",
+      "quote": "ASX trading ASX:VMT VMOTO",
+      "note": "Vmoto's own Investor Centre shows its ASX listing (ASX:VMT) and its corporate-governance documents; the site footer names the operator 'Vmoto Limited' ('© 2026 Vmoto Limited').",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
     },
     "reviewed": false
   },
