@@ -1,40 +1,62 @@
 # data/live
 
-Release `data-2026-11-02-5385108f` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `5385108f`, data updated 2026-11-02. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
+Release `data-2026-11-03-84ff9d08` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `84ff9d08`, data updated 2026-11-03. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
 
-Compared with the data it replaces (`e8486529`, updated 2026-10-13):
+Compared with the data it replaces (`5385108f`, updated 2026-11-02):
 
 | | clubs | kits | sponsors | owners | claims | deals | contacts |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| before | 594 | 569 | 1785 | 1411 | 1382 | 1187 | 230 |
-| after | 594 | 569 | 1787 | 1413 | 1385 | 1187 | 230 |
+| before | 594 | 569 | 1787 | 1413 | 1385 | 1187 | 230 |
+| after | 594 | 569 | 1808 | 1417 | 1393 | 1187 | 230 |
 
-## Sponsor ratings that change (2)
+## Sponsors added (21)
 
-- Constell Group: unrated (unrated) → **none** (rated)
-- Ozon: unrated (unrated) → **none** (rated)
+- 12B Sports: unrated
+- 958 Santero: unrated
+- Aerre: unrated
+- Barracuda: unrated
+- Bischoff Scheck: unrated
+- Comoli Ferrari: unrated
+- Dainese: unrated
+- Ducati: unrated
+- Ercos: unrated
+- Fassi: unrated
+- HERO: unrated
+- Iveco: unrated
+- Lino Sonego: unrated
+- MotoCorse: unrated
+- Reabilita: unrated
+- Refrigiwear: unrated
+- SportTravel: unrated
+- Sprint Filter: unrated
+- Tsunami Nutrition: unrated
+- Velocifero: unrated
+- Vmoto: unrated
 
-## Sponsors added (2)
+## Owners added (4)
 
-- ABSEL: unrated
-- hh.ru: unrated
+- HPS Investment Partners and Arcmont Asset Management (hps-arcmont)
+- Iveco Group N.V. (iveco-group-nv)
+- Vmoto Limited (vmoto-limited)
+- White SRO (white-sro)
 
-## Owners added (2)
+## Claims added (8)
 
-- Constell Group (constell-group)
-- MKPAO "Ozon" (ozon)
+- cupra-vw-brand-ownership: CUPRA is one of the ten brands of the Volkswagen Group; its own website is operated by SEAT, S.A.U.
+- dainese-hps-arcmont-ownership: Dainese is 100% owned by HPS Investment Partners and Arcmont Asset Management following a 30 million euro investment deal, announced on 29 January 2026.
+- ducati-audi-group-ownership: Ducati is one of the Audi Group's brands (the Audi Group comprises Audi, Bentley, Lamborghini, Ducati and Audi Sport GmbH).
+- exor-iveco-ownership: Exor N.V. holds 27.1% of the economic rights and 43.2% of the voting rights in Iveco Group, as of 30 June 2026.
+- pertamina-enduro-ownership: Pertamina Enduro, the VR46 Racing Team's title-sponsor brand, is a product of PT Pertamina Lubricants, which is 99.96% owned by PT Pertamina Patra Niaga, the Pertamina group's downstream subholding.
+- pertamina-government-ownership: PT Pertamina (Persero), the group PT Pertamina Lubricants belongs to, is an Indonesian state-owned enterprise; in 2026 Danantara consolidated Pertamina Patra Niaga and its sister units into a single entity.
+- velocifero-white-sro-ownership: The Velocifero trademark is exclusively owned by White SRO of Kosice, Slovak Republic, per the trademark's own legal notice.
+- vmoto-asx-ownership: Vmoto is the brand of Vmoto Limited, a company listed on the Australian Securities Exchange as VMT.
 
-## Claims added (3)
+## Clubs whose kits change (2)
 
-- constell-group-galitsky-ownership: Constell Group is a production holding (confectionery, paper, polymer and household-goods plants) created by Krasnodar businessman Sergei Galitsky in 2007.
-- ozon-shareholders-2026: Ozon's shares trade on the Moscow Exchange through MKPAO "Ozon"; as of 1 March 2026 its largest shareholders were AO O23 with 34.95% of issued shares and AFK "Sistema" with 31.80%, and other shareholders held 33.25%.
-- winline-private-owners: Bookmaker Winline operates as LLC "Upravlyayushchaya kompaniya NKS" (Managing Company of the National Horse Breeding Union), whose founders are five private individuals; the largest share, 45%, belongs to Andrey Myslivtsev.
+- [Al-Riyadh](https://behind-the-jersey.org/clubs/al-riyadh/)
+- [Pertamina Enduro VR46 Racing Team](https://behind-the-jersey.org/clubs/pertamina-enduro-vr46-racing-team/)
 
-## Clubs whose kits change (1)
-
-- [FC Krasnodar](https://behind-the-jersey.org/clubs/krasnodar/)
-
-## Warnings (67)
+## Warnings (70)
 
 - sponsors/aeroflot: why text is a draft
 - sponsors/aramco: why text is a draft
@@ -51,8 +73,10 @@ Compared with the data it replaces (`e8486529`, updated 2026-10-13):
 - sponsors/chengdu-rongcheng: why text is a draft
 - sponsors/citigroup: why text is a draft
 - sponsors/cognizant: why text is a draft
+- sponsors/cupra: why text is a draft
 - sponsors/das-weltauto: why text is a draft
 - sponsors/dow: why text is a draft
+- sponsors/ducati: why text is a draft
 - sponsors/emirates: why text is a draft
 - sponsors/etihad-airways: why text is a draft
 - sponsors/experience-abu-dhabi: why text is a draft
@@ -74,6 +98,4 @@ Compared with the data it replaces (`e8486529`, updated 2026-10-13):
 - sponsors/mhp: why text is a draft
 - sponsors/mir-nspk: why text is a draft
 - sponsors/motorola: why text is a draft
-- sponsors/motorola-mobility: why text is a draft
-- sponsors/mubadala: why text is a draft
-- … and 27 more
+- … and 30 more

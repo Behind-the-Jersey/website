@@ -1,5 +1,19 @@
 [
   {
+    "id": "12b-sports",
+    "name": "12B Sports",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "12B Sports media platform"
+    ],
+    "note": "Main sponsor of the Pertamina Enduro VR46 Racing Team for the 2026 season per its own announcement (12bsports.com, also distributed by GlobeNewswire on 30 May 2026). A self-described sports media platform launched in 2026; its site and legal pages name no legal entity, company, address or owner, so ownership could not be traced."
+  },
+  {
     "id": "1team",
     "name": "1TEAM",
     "ownerId": "ligue-de-football-professionnel",
@@ -133,6 +147,20 @@
       "Seven Saber"
     ],
     "note": "Kit supplier to the Uzbekistan national team since August 2025, replacing Jako; made the team's 2026 World Cup kit (UFA announcement, August 2025; Footy Headlines, 2026-05-26). No state body or fund found in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against the company found (searched 1 Oct 2026)."
+  },
+  {
+    "id": "958-santero",
+    "name": "958 Santero",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Santero"
+    ],
+    "note": "Official sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page; Santero's own site also documents the VR46 partnership). Piedmontese winery; its site's footer names the legal entity Santero Fratelli & C I.V.A.S.S. S.p.A., Santo Stefano Belbo (CN). Its owners are not published, so left unrated."
   },
   {
     "id": "aarp",
@@ -604,6 +632,20 @@
     }
   },
   {
+    "id": "aerre",
+    "name": "Aerre",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Aerre srl"
+    ],
+    "note": "Technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page; its own site's news section also mentions working with the team). Hydraulics and racing stand builder based in Pesaro. Its owners are not published, so left unrated."
+  },
+  {
     "id": "aflac-japan",
     "name": "Aflac Japan",
     "ownerId": "aflac-inc",
@@ -973,7 +1015,7 @@
     "aliases": [
       "Akrapovic"
     ],
-    "note": "Official Sponsor of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to akrapovic.com, stands under 'Official Sponsors' with the line 'Exhaust systems' (Wayback Machine captures of 23 May and 18 Sep 2026); also a MotoGP partner of Red Bull KTM (ktm.com partner logos) and a Technical Sponsor of BK8 Gresini Racing MotoGP (Gresini Racing partner page, 2026, logo with link to akrapovic.com). Left unrated: the brand belongs to Akrapovič d.d. of Ivančna Gorica, Slovenia (akrapovic-ownership), but who holds the unlisted company isn't sourced (founder Igor Akrapovič is reported to control it; no citable statement found)."
+    "note": "Official Sponsor of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to akrapovic.com, stands under 'Official Sponsors' with the line 'Exhaust systems' (Wayback Machine captures of 23 May and 18 Sep 2026); also a MotoGP partner of Red Bull KTM (ktm.com partner logos) and a Technical Sponsor of BK8 Gresini Racing MotoGP (Gresini Racing partner page, 2026, logo with link to akrapovic.com). Left unrated: the brand belongs to Akrapovič d.d. of Ivančna Gorica, Slovenia (akrapovic-ownership), but who holds the unlisted company isn't sourced (founder Igor Akrapovič is reported to control it; no citable statement found). Also a technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page, as documented in the kit source)."
   },
   {
     "id": "akron",
@@ -3248,6 +3290,20 @@
     "note": "Rating note: German mutual 'a.G.' structure; Barmenia Versicherungen a.G. and Gothaer Versicherungsbank VVaG stand at the top of the BarmeniaGothaer group (steering via BarmeniaGothaer AG). Owned by policyholder members, not shareholders or the state. Main and shirt sponsor since 2016, running to 2028."
   },
   {
+    "id": "barracuda",
+    "name": "Barracuda",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Barracuda Moto"
+    ],
+    "note": "Official sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Motorcycle-accessories brand (barracudamoto.com showed a bot security check during research); its ownership was not sourced."
+  },
+  {
     "id": "barton-and-gray",
     "name": "Barton & Gray Mariners Club",
     "ownerId": "barton-and-gray-mariners-club",
@@ -3514,7 +3570,7 @@
       "Beta Tools",
       "Beta Utensili"
     ],
-    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to beta-tools.com, stands under 'Technical partners' with the line 'Tools' (Wayback Machine captures of 23 May and 18 Sep 2026); also a partner of Red Bull KTM Tech3 (logo links to beta-tools.com); also a MotoGP partner of SuperFile Trackhouse MotoGP Team per trackhouse.com/partners (checked 2026-10-03 via Wayback Machine). Rating note: 51% held by Roberto Ciceri per his own account in Forbes Italia; no state in the chain, so none."
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to beta-tools.com, stands under 'Technical partners' with the line 'Tools' (Wayback Machine captures of 23 May and 18 Sep 2026); also a partner of Red Bull KTM Tech3 (logo links to beta-tools.com); also a MotoGP partner of SuperFile Trackhouse MotoGP Team per trackhouse.com/partners (checked 2026-10-03 via Wayback Machine). Rating note: 51% held by Roberto Ciceri per his own account in Forbes Italia; no state in the chain, so none. Also a technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page, as documented in the kit source)."
   },
   {
     "id": "betano",
@@ -3810,6 +3866,20 @@
     "note": "Listed as an official supplier (fournisseur officiel) of Équipe cycliste Groupama-FDJ United on the club's partner page; Belgian technical-apparel maker, team kit supplier from 2026, replacing Alé Cycling."
   },
   {
+    "id": "bischoff-scheck",
+    "name": "Bischoff Scheck",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Bischoff + Scheck"
+    ],
+    "note": "Technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). German special-vehicle maker (race trailers); its own site names the legal entity Bischoff + Scheck GmbH, Rheinmünster. Its owners are not published, so left unrated."
+  },
+  {
     "id": "bishop",
     "name": "Bishop (BSHOP)",
     "ownerId": "bishop-inc",
@@ -3910,7 +3980,7 @@
     "verdict": null,
     "claimIds": [],
     "aliases": [],
-    "note": "Kit supplier to Al-Riyadh."
+    "note": "Kit supplier to Al-Riyadh (listed as Al-Riyadh's kit manufacturer for 2026/27 by 433fc; Football Kit Archive lists it as the club's kit maker since 2024, but the site blocks scripts). Ownership not found. Stays unrated until an ownership claim is sourced."
   },
   {
     "id": "blaklader",
@@ -5983,6 +6053,18 @@
     "note": "Rating note: Ambiguity flagged: the sponsor label spans 'CommScope / Ruckus' but the two brands now have different owners. Called it on Ruckus (the explicitly named brand and the product actually promoted on the Haas car) -> Belden. If the entry means CommScope the brand, the owner is Amphenol Corporation (SEC 8-K, 9 Jan 2026)."
   },
   {
+    "id": "comoli-ferrari",
+    "name": "Comoli Ferrari",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Main sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Italian building-systems distributor; its site's footer names the legal entity Comoli, Ferrari & C. S.p.A., Novara. Who owns the company is not published on its own site and no other quotable statement was found, so left unrated."
+  },
+  {
     "id": "compass-minerals",
     "name": "Compass Minerals",
     "ownerId": "compass-minerals",
@@ -6382,14 +6464,31 @@
   {
     "id": "cupra",
     "name": "CUPRA",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "volkswagen-ag",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "qatar-migrant-worker-abuse-2025",
+      "cupra-vw-brand-ownership",
+      "qatar-holding-vw-stake",
+      "qatar-holding-qia-ownership",
+      "qia-government-of-qatar-ownership"
+    ],
     "aliases": [],
-    "note": "Title sponsor of the CUPRA Rotterdam Premier Padel P2 (FIP 2026 calendar) and of the Cupra FIP Tour; Official Automotive Partner of FIP (padelfip.com sponsor page, dated 23 Aug 2024). Ownership not yet researched."
+    "verdict": null,
+    "note": "Official sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page); also in padel (FIP). Rating note: CUPRA is one of the Volkswagen Group's ten brands per the group page (cupra-vw-brand-ownership); Qatar Holding LLC, wholly owned by the Qatar Investment Authority, holds 10.4% of Volkswagen AG's capital and 17.0% of its voting rights (qatar-holding-vw-stake, qatar-holding-qia-ownership, qia-government-of-qatar-ownership) and Qatar's record is documented (qatar-migrant-worker-abuse-2025). Proposed concern in the pull request: Qatar's stake in Volkswagen AG passes the 5% test without control.",
+    "why": {
+      "text": "CUPRA is one of the ten brands of the Volkswagen Group. Qatar Holding LLC — wholly owned by the Qatar Investment Authority, the State of Qatar's sovereign wealth fund — holds 10.4% of Volkswagen AG's subscribed capital and 17.0% of its voting rights, so Qatari state money is part of what is behind Cupra. Amnesty International and Human Rights Watch report that migrant workers in Qatar continued to face labour abuses under the kafala sponsorship system in 2025 despite reforms.",
+      "claimIds": [
+        "qatar-migrant-worker-abuse-2025",
+        "cupra-vw-brand-ownership",
+        "qatar-holding-vw-stake",
+        "qatar-holding-qia-ownership",
+        "qia-government-of-qatar-ownership"
+      ],
+      "status": "draft"
+    }
   },
   {
     "id": "cygames",
@@ -6496,6 +6595,22 @@
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement.",
     "hold": "evidence not checked yet: daikin-comfort-technologies-owner-record",
     "heldTier": "none"
+  },
+  {
+    "id": "dainese",
+    "name": "Dainese",
+    "ownerId": "hps-arcmont",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "dainese-hps-arcmont-ownership"
+    ],
+    "aliases": [
+      "Dainese S.p.A."
+    ],
+    "note": "Official sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Once Investcorp-, then Carlyle-owned, Dainese was reported 100% owned by HPS Investment Partners and Arcmont Asset Management on 29 Jan 2026 after a debt restructuring (dainese-hps-arcmont-ownership). No record claim found. Proposed none in the pull request (ownership claim in place; investment firms per MCN; no record found)."
   },
   {
     "id": "daiwa-securities",
@@ -7087,7 +7202,7 @@
     "aliases": [
       "Daido Kogyo"
     ],
-    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to didchain.com, stands under 'Technical partners' with the line 'Chains' (Wayback Machine captures of 23 May and 18 Sep 2026). Ownership not sourced yet."
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to didchain.com, stands under 'Technical partners' with the line 'Chains' (Wayback Machine captures of 23 May and 18 Sep 2026); also a technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Ownership not sourced yet."
   },
   {
     "id": "diez",
@@ -7524,6 +7639,39 @@
     "claimIds": [],
     "aliases": [],
     "note": "Platinum Partner of the Emirates Dubai 7s (emiratesdubai7s.com); dubalholding.com footer: 'DUBAL Holding L.L.C - A subsidiary of Investment Corporation of Dubai'."
+  },
+  {
+    "id": "ducati",
+    "name": "Ducati",
+    "ownerId": "audi-ag",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "claimIds": [
+      "qatar-migrant-worker-abuse-2025",
+      "ducati-audi-group-ownership",
+      "audi-vw-ownership",
+      "qatar-holding-vw-stake",
+      "qatar-holding-qia-ownership",
+      "qia-government-of-qatar-ownership"
+    ],
+    "aliases": [
+      "Ducati Motor Holding"
+    ],
+    "verdict": null,
+    "note": "Technical sponsor (bike supplier) listed on the Pertamina Enduro VR46 Racing Team's 2026 Sponsors page. Rating note: Ducati is a brand of the Audi Group (ducati-audi-group-ownership), AUDI AG is a fully owned subsidiary of Volkswagen AG (audi-vw-ownership), and Qatar Holding LLC / Qatar Investment Authority holds 10.4% of Volkswagen AG's capital and 17.0% of its voting rights (qatar-holding-vw-stake); Qatar's record is documented (qatar-migrant-worker-abuse-2025). Proposed concern in the pull request: the Qatar stake passes the 5% test without control.",
+    "why": {
+      "text": "Ducati is one of the Audi Group's brands, and AUDI AG is a fully owned subsidiary of Volkswagen AG. Qatar Holding LLC — wholly owned by the Qatar Investment Authority, the State of Qatar's sovereign wealth fund — holds 10.4% of Volkswagen AG's subscribed capital and 17.0% of its voting rights, so Qatari state money is part of what is behind Ducati. Amnesty International and Human Rights Watch report that migrant workers in Qatar continued to face labour abuses under the kafala sponsorship system in 2025 despite reforms.",
+      "claimIds": [
+        "qatar-migrant-worker-abuse-2025",
+        "ducati-audi-group-ownership",
+        "audi-vw-ownership",
+        "qatar-holding-vw-stake",
+        "qatar-holding-qia-ownership",
+        "qia-government-of-qatar-ownership"
+      ],
+      "status": "draft"
+    }
   },
   {
     "id": "dude-wipes",
@@ -8340,6 +8488,18 @@
     "note": "Fintech brand headquartered in Dubai (its own release, 24 September 2025); Founding Partner and Official Digital Wealth Partner of Dubai Basketball. Ownership not traced."
   },
   {
+    "id": "ercos",
+    "name": "Ercos",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Bathroom and heating manufacturer; its own site names the legal entity Ercos S.p.A., Monticelli Brusati (BS). Its owners are not published, so left unrated."
+  },
+  {
     "id": "esa-nanotech",
     "name": "ESA NanoTech",
     "ownerId": "lmdv-capital",
@@ -8727,6 +8887,20 @@
     ],
     "note": "Listed by Neftchi Fergana under 'Our main sponsors'. Regional investment company founded and wholly owned by the Fergana region administration (hokimlik).",
     "ownerVerb": "owned by"
+  },
+  {
+    "id": "fassi",
+    "name": "Fassi",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Fassi Gru"
+    ],
+    "note": "Official sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Truck-crane group; its own site names the legal entity Fassi Gru S.p.A., Albino (BG). Its owners are not published, so left unrated."
   },
   {
     "id": "faxe-kondi",
@@ -11302,6 +11476,21 @@
     "note": "Female-owned period-care brand; Chelsea FC Women's Official Back of Short partner per chelseafc.com. Rating note: Companies House lists Sustainable Ethical Enterprises Limited (10457185) as Here We Flo Ltd's only active person with significant control (75% or more), and Tara Priya Chandra (more than 25% but not more than 50%) as that company's; no state or fund was found in the chain."
   },
   {
+    "id": "hero",
+    "name": "HERO",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Hero Make Innovation",
+      "HERO Europe"
+    ],
+    "note": "Official sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Paint-dispensing machine maker; its own site (eu.hero.ca) names the entities HERO Europe S.r.l. (Salmour, CN), HERO Products Group (Canada) and HERO Equipment GmbH (Köln). Who owns the companies is not published, so left unrated."
+  },
+  {
     "id": "hero-motocorp",
     "name": "Hero MotoCorp",
     "ownerId": null,
@@ -12519,6 +12708,22 @@
     "aliases": []
   },
   {
+    "id": "iveco",
+    "name": "Iveco",
+    "ownerId": "iveco-group-nv",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "exor-iveco-ownership"
+    ],
+    "aliases": [
+      "Iveco Group"
+    ],
+    "note": "Technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Commercial-vehicle group; Exor N.V. holds 27.1% economic and 43.2% voting rights as of 30 June 2026 (exor-iveco-ownership). Proposed none in the pull request (dominant-shareholder claim in place; no record found)."
+  },
+  {
     "id": "ixell",
     "name": "Ixell",
     "ownerId": "renault-group",
@@ -13237,7 +13442,7 @@
     "aliases": [
       "Kappa France"
     ],
-    "note": "Rating note: OGC Nice's kit maker (équipementier) and one of the club's three principal partners; also kit supplier to Al-Kholood and to the Tunisia national team (2026 World Cup). Owner chain checked: listed Italian holding company; no state shareholder identified, no human-rights finding found."
+    "note": "Rating note: OGC Nice's kit maker (équipementier) and one of the club's three principal partners; also kit supplier to Al-Kholood and to the Tunisia national team (2026 World Cup). Technical partner (teamwear) of the Pertamina Enduro VR46 Racing Team (team's 2026 Sponsors page). Owner chain checked: listed Italian holding company; no state shareholder identified, no human-rights finding found."
   },
   {
     "id": "karhu",
@@ -14436,6 +14641,20 @@
       "link asset management"
     ],
     "note": "Title sponsor of the Link Hong Kong Open (internationalseries.com partners page, fetched 2026-09-25; the page's sponsor block carries the id 'link-reit'). Link Asset Management Limited manages HKEX-listed Link REIT."
+  },
+  {
+    "id": "lino-sonego",
+    "name": "Lino Sonego",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Lino Sonego International Seating"
+    ],
+    "note": "Official sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Seating maker; its own site names the legal entity Lino Sonego S.p.A., Pianzano (TV). Its owners are not published, so left unrated."
   },
   {
     "id": "liqui-moly",
@@ -15812,7 +16031,7 @@
     "verdict": null,
     "claimIds": [],
     "aliases": [],
-    "note": "Official Tyre of MotoGP (motogp.com/en/sponsors) and title sponsor of the Grand Prix of France and Aragon; also listed among KTM's MotoGP partners and among BK8 Gresini Racing MotoGP's Official Sponsors (Gresini Racing partner page, 2026). Compagnie Generale des Etablissements Michelin is listed on Euronext Paris (SCA form; michelin.com/en/group/corporate-governance). 2026-09-30: no quotable statement on dispersed/controlling shareholding found for a 'none' rating; left unrated."
+    "note": "Official Tyre of MotoGP (motogp.com/en/sponsors) and title sponsor of the Grand Prix of France and Aragon; also listed among KTM's MotoGP partners and among BK8 Gresini Racing MotoGP's Official Sponsors (Gresini Racing partner page, 2026). Compagnie Generale des Etablissements Michelin is listed on Euronext Paris (SCA form; michelin.com/en/group/corporate-governance). 2026-09-30: no quotable statement on dispersed/controlling shareholding found for a 'none' rating; left unrated. Also a technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page, as documented in the kit source)."
   },
   {
     "id": "michelob-ultra",
@@ -16282,7 +16501,7 @@
       "Monster",
       "monster"
     ],
-    "note": "McLaren Official Partner from the 2024 season (announced November 2023); also title sponsor of Monster Energy Yamaha MotoGP since 2019, confirmed for 2026 at the Jakarta launch (Yamaha Motor race release, 2026-01-22). Main Partner of the Ducati Lenovo Team (SPEEDWEEK.com, 2026-07-23). Monster Energy is the brand of Monster Beverage Corporation (Nasdaq: MNST); Coca-Cola held about 20.9% as of 13 Feb 2026 per the FY2025 10-K. No state or fund owner."
+    "note": "McLaren Official Partner from the 2024 season (announced November 2023); also title sponsor of Monster Energy Yamaha MotoGP since 2019, confirmed for 2026 at the Jakarta launch (Yamaha Motor race release, 2026-01-22). Main Partner of the Ducati Lenovo Team (SPEEDWEEK.com, 2026-07-23) and Main Sponsor of the Pertamina Enduro VR46 Racing Team (team's 2026 Sponsors page). Monster Energy is the brand of Monster Beverage Corporation (Nasdaq: MNST); Coca-Cola held about 20.9% as of 13 Feb 2026 per the FY2025 10-K. No state or fund owner."
   },
   {
     "id": "montella",
@@ -16391,6 +16610,20 @@
       "Moto-Tron"
     ],
     "note": "Motorcycle-parts maker established by brothers Dickson Lee and Leo Lee and director Paul Mai (its description on Gresini Racing's partner page). Technical Sponsor of BK8 Gresini Racing MotoGP (Gresini Racing partner page, 2026). Ownership shares not sourced; not yet researched."
+  },
+  {
+    "id": "motocorse",
+    "name": "MotoCorse",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Motocorsestore"
+    ],
+    "note": "Technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Ducati/MV Agusta/BMW accessories seller; its own site's footer names the legal entity Motocorse S.r.l., Cattolica (RN). Its owners are not published, so left unrated."
   },
   {
     "id": "motorex",
@@ -17661,7 +17894,7 @@
       "essilorluxottica-record"
     ],
     "aliases": [],
-    "note": "Rating note for maintainer: sport performance brand; the team's partner page states Oakley is a subsidiary of Luxottica Group. EssilorLuxottica SA is the group's parent (see the reused essilorluxottica-record claim); no state or state-fund holder found in this run."
+    "note": "Rating note for maintainer: sport performance brand; the team's partner page states Oakley is a subsidiary of Luxottica Group. EssilorLuxottica SA is the group's parent (see the reused essilorluxottica-record claim); no state or state-fund holder found in this run. Also an official sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page)."
   },
   {
     "id": "oanda",
@@ -18554,13 +18787,26 @@
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
+    "claimIds": [
+      "indonesia-hrw-record",
+      "pertamina-enduro-ownership",
+      "pertamina-government-ownership"
+    ],
     "aliases": [
       "pertamina enduro",
       "enduro",
       "pt pertamina lubricants"
     ],
-    "note": "Title sponsor of Pertamina Enduro VR46 Racing Team (2024-2026 per Crash.net, 2023-10-14) and title sponsor of the Pertamina Grand Prix of Indonesia (motogp.com/en/sponsors). PT Pertamina Lubricants is 99.96% held by PT Pertamina Patra Niaga, part of the Pertamina (Persero) downstream subholding, itself wholly state-owned."
+    "note": "Title sponsor of the Pertamina Enduro VR46 Racing Team in the 2026 MotoGP season (livery launched 14 Jan 2026, motogp.com / team Sponsors page) and title sponsor of the Pertamina Grand Prix of Indonesia (motogp.com/en/sponsors). Owner chain: the Enduro brand belongs to PT Pertamina Lubricants, 99.96% held by PT Pertamina Patra Niaga, PT Pertamina (Persero)'s downstream subholding (pertamina-enduro-ownership); PT Pertamina (Persero) is an Indonesian state-owned enterprise, and in 2026 Danantara consolidated Patra Niaga and its sister units into a single entity (pertamina-government-ownership). The state record used is indonesia-hrw-record (HRW World Report 2026 plus the UN-experts coverage in Mongabay).",
+    "why": {
+      "text": "Pertamina Enduro is the brand of PT Pertamina Lubricants, 99.96% owned by PT Pertamina Patra Niaga, the downstream subholding of PT Pertamina (Persero) — an Indonesian state-owned enterprise. The Indonesian state therefore controls the sponsor. Indonesia's record includes the forcible displacement of Indigenous communities and deforestation under the Merauke food-estate project in Papua, backed by the deployment of five new battalions, documented by Human Rights Watch and by UN rights experts; plus military expansion into civilian posts and excessive force against protesters across 107 cities in August 2025.",
+      "claimIds": [
+        "indonesia-hrw-record",
+        "pertamina-enduro-ownership",
+        "pertamina-government-ownership"
+      ],
+      "status": "draft"
+    }
   },
   {
     "id": "petco",
@@ -19986,7 +20232,7 @@
       "Racing Boy",
       "RCB Performance Parts"
     ],
-    "note": "MotoGP partner of Red Bull KTM (ktm.com partner logos). Left unrated: the brand belongs to MKA Group, a Malaysian mobility group (rcb-mka-ownership), but who holds MKA Group isn't sourced."
+    "note": "MotoGP partner of Red Bull KTM (ktm.com partner logos), and a technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Left unrated: the brand belongs to MKA Group, a Malaysian mobility group (rcb-mka-ownership), but who holds MKA Group isn't sourced."
   },
   {
     "id": "rd-congo-coeur-d-afrique",
@@ -20014,6 +20260,18 @@
       "status": "draft"
     },
     "note": "Rating note: ON HOLD: state-owned brand with a sourced record of abuses by that state (HRW, Amnesty) — proposed serious, awaiting a maintainer's tier."
+  },
+  {
+    "id": "reabilita",
+    "name": "Reabilita",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Home rehabilitation-equipment rental service; its own site's footer names the legal entity 'Reabilita sas della Reabilita Group srl e C.', Forlì. Its owners are not published, so left unrated."
   },
   {
     "id": "red-bull",
@@ -20080,6 +20338,20 @@
     ],
     "aliases": [],
     "note": "Rating note: UK sportswear company; reflo.com terms name Reflo Sports Ltd as the operator, and Companies House lists two individuals as its persons with significant control. No state stake or human-rights finding identified."
+  },
+  {
+    "id": "refrigiwear",
+    "name": "Refrigiwear",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "RefrigiWear 1954"
+    ],
+    "note": "Official sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Cold-weather clothing brand (refrigiwear.it blocked automated access during research); its ownership was not sourced."
   },
   {
     "id": "regent-seven-seas-cruises",
@@ -21383,7 +21655,11 @@
     "status": "unrated",
     "verdict": null,
     "claimIds": [],
-    "aliases": []
+    "aliases": [
+      "Science Technology",
+      "تقنية علم"
+    ],
+    "note": "Science Technology Company (تقنية علم), a Saudi private defense and technology company headquartered in Al Diriyah, Riyadh (nationalcapital.com.sa partner page). Al Riyadh's club account announced it as official sponsor in September 2024. Ownership not yet sourced: the company's LinkedIn page lists founder and executive chairman Nasser Almadi, but no openable source names its owner(s). Stays unrated until an ownership claim is sourced."
   },
   {
     "id": "scm",
@@ -22826,6 +23102,20 @@
     "note": "Official Fan Experiences Partner of the NorthStar SailGP Team (SailGP announcement, 16 Jan 2026). Left unrated for a maintainer, following the reebok precedent: the Sports Illustrated brand is owned by Authentic Brands Group (ABG release, 18 Mar 2024), with publishing rights licensed to Minute Media since March 2024. ABG's own Shareholders & Leadership page lists GIC, Temasek and Qatar Investment Authority among its shareholders (logo list, no stakes disclosed); whether any state fund holds 5% or more of ABG is not publicly sourced."
   },
   {
+    "id": "sporttravel",
+    "name": "SportTravel",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "SportTravelWorld"
+    ],
+    "note": "Technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Dutch sports-travel agency (sporttravelworld.com; its own site says it has taken racing fans to circuits since 2001). Who owns it is not published, so left unrated."
+  },
+  {
     "id": "spotify",
     "name": "Spotify",
     "ownerId": "spotify-technology",
@@ -22855,6 +23145,18 @@
       "Société Pétrolière de Production et d'Exploitation"
     ],
     "note": "Rating note: AJA's kit article describes Sppe as 'une société de production et d'exploitation de pétrole basée dans le Loiret'. Family-owned SAS; no state or fund owner identified."
+  },
+  {
+    "id": "sprint-filter",
+    "name": "Sprint Filter",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Air-filter maker (sprintfilter.net). No ownership statement was found on its pages, so left unrated."
   },
   {
     "id": "sprts",
@@ -23037,7 +23339,11 @@
     "status": "unrated",
     "verdict": null,
     "claimIds": [],
-    "aliases": []
+    "aliases": [
+      "Stars Smile",
+      "ابتسامة النجوم"
+    ],
+    "note": "Stars Smile (ابتسامة النجوم), a Saudi dental and dermatology clinics chain based in Jeddah. Its own account announced it as official sponsor of Al Riyadh in September 2024. Ownership not found: the Stars Smile app store listing names developer 'Rama Medical Group' (lead, not an ownership source). Stays unrated until an ownership claim is sourced."
   },
   {
     "id": "start",
@@ -23612,7 +23918,7 @@
       "تأميني",
       "Tameeni"
     ],
-    "note": "Saudi insurance-comparison platform; front of several Saudi Pro League shirts in 2026/27, including Al-Hazem, and a badge on the right chest of Al-Taawoun's 2026-27 home shirt (club announcement 2025-08-29; visible in the club's kit-launch photography, issue #377). Owner traced to Rasan Information Technology, a Saudi joint-stock company listed on the Saudi Exchange (listed 2024-06-13); founded by the Alfallaj brothers. No state body or fund found in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against the company found (searched 2026-10-03). Vehicle-level caveat: Rasan's IPO prospectus shows its two largest post-offering lines (13.06% + 4.49%) held by custodian vehicles for Impact46-managed venture funds whose investors are undisclosed, and Saudi state fund-of-funds SVC publicly invested $30m in Impact46's Fund III (Saudi Press Agency, 2 October 2023) — so an indirect state-fund stake behind Rasan's largest line at IPO time cannot be excluded; Impact46 announced its full exit from Rasan on 2025-03-13."
+    "note": "Saudi insurance-comparison platform; front of several Saudi Pro League shirts in 2026/27, including Al-Hazem, and a badge on the right chest of Al-Taawoun's 2026-27 home shirt (club announcement 2025-08-29; visible in the club's kit-launch photography, issue #377). Owner traced to Rasan Information Technology, a Saudi joint-stock company listed on the Saudi Exchange (listed 2024-06-13); founded by the Alfallaj brothers. No state body or fund found in the chain, and no court, regulator, UN-body or major-NGO human-rights finding against the company found (searched 2026-10-03). Vehicle-level caveat: Rasan's IPO prospectus shows its two largest post-offering lines (13.06% + 4.49%) held by custodian vehicles for Impact46-managed venture funds whose investors are undisclosed, and Saudi state fund-of-funds SVC publicly invested $30m in Impact46's Fund III (Saudi Press Agency, 2 October 2023) — so an indirect state-fund stake behind Rasan's largest line at IPO time cannot be excluded; Impact46 announced its full exit from Rasan on 2025-03-13. Al Riyadh announced Tameeni as a sponsor on 28 Aug 2025 (riyadhclub.sa)."
   },
   {
     "id": "tamkeen",
@@ -24715,6 +25021,18 @@
     "note": "Chinese brewer; CSL partner per the league's official site. Ownership (listed in Hong Kong and Shanghai, with a state-linked shareholder base) not verified from a primary document."
   },
   {
+    "id": "tsunami-nutrition",
+    "name": "Tsunami Nutrition",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Supplements retailer; its site's footer names the legal entity Tsunami Nutrition S.r.l., Rome. Its owners are not published, so left unrated."
+  },
+  {
     "id": "tti-inc",
     "name": "TTI, Inc.",
     "ownerId": "tti-inc",
@@ -25419,6 +25737,20 @@
     "note": "Official partner of FC Rodina Moscow for season 2026/27 (club announcement 30 Jul 2026); the sponsor's own announcement of 27 Jul 2026 says its logo appears on the first team's match kit. Vedomosti (19 Aug 2026, sponsored feature) reported the same deal. The club's partner widget spells the brand «ВЭДмастер»."
   },
   {
+    "id": "velocifero",
+    "name": "Velocifero",
+    "ownerId": "white-sro",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "velocifero-white-sro-ownership"
+    ],
+    "aliases": [],
+    "note": "Technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Scooter brand; the trademark is exclusively owned by White SRO of Kosice, Slovakia (velocifero-white-sro-ownership), but who owns White SRO is not published anywhere I could reach, so left unrated."
+  },
+  {
     "id": "velocity-black",
     "name": "Velocity Black",
     "ownerId": null,
@@ -25827,6 +26159,22 @@
       "Vittoria"
     ],
     "note": "Main sponsor (front of shirt) of the Italian rugby national teams; renewed to 2028 (SportEconomy, 28 Oct 2025). Rating note (2026-09-30): no state stake anywhere in the chain (vittoria-yafa-ownership). Searched for a court, regulator, UN or major-NGO human-rights finding against Vittoria Assicurazioni (forced or child labour, deaths or injuries, discrimination, abuse of communities); nothing found."
+  },
+  {
+    "id": "vmoto",
+    "name": "Vmoto",
+    "ownerId": "vmoto-limited",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "vmoto-asx-ownership"
+    ],
+    "aliases": [
+      "Vmoto Soco"
+    ],
+    "note": "Technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page; Vmoto's own site shows it as the team's electric-scooter supplier). Brand of Vmoto Limited, listed on the ASX as VMT (vmoto-asx-ownership). Substantial shareholders not collected. Proposed none in the pull request (listed-owner claim in place; no record found)."
   },
   {
     "id": "vodafone",
@@ -26436,7 +26784,7 @@
       "wrs-ownership"
     ],
     "aliases": [],
-    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to wrs.it, stands under 'Technical partners' with the line 'Motorcycle Windscreens and Accessories' (Wayback Machine captures of 23 May and 18 Sep 2026); also a MotoGP partner of Red Bull KTM (ktm.com partner logos). Left unrated: the brand belongs to WRS S.r.l. of Cattolica, Italy (wrs-ownership), but who holds the company isn't sourced."
+    "note": "Technical partner of the Ducati Lenovo Team: on Ducati's partner page its logo, which links to wrs.it, stands under 'Technical partners' with the line 'Motorcycle Windscreens and Accessories' (Wayback Machine captures of 23 May and 18 Sep 2026); also a MotoGP partner of Red Bull KTM (ktm.com partner logos), and a technical sponsor of the Pertamina Enduro VR46 Racing Team (2026 team Sponsors page). Left unrated: the brand belongs to WRS S.r.l. of Cattolica, Italy (wrs-ownership), but who holds the company isn't sourced."
   },
   {
     "id": "wtw",

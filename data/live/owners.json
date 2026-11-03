@@ -4637,6 +4637,14 @@
     "country": "US"
   },
   {
+    "id": "hps-arcmont",
+    "name": "HPS Investment Partners and Arcmont Asset Management",
+    "type": "private-company",
+    "country": "United States / United Kingdom",
+    "parentId": null,
+    "note": "Joint owners of Dainese S.p.A. since January 2026 (100% of shares, per MCN, 29 Jan 2026). Reporting of October 2025 described a debt-for-equity swap by creditors HPS and Arcmont after Carlyle's exit; HPS's acquisition by BlackRock was also reported, but no quotable primary statement of the group's own ownership was collected here."
+  },
+  {
     "id": "hrx-srl",
     "name": "HRX S.r.l.",
     "type": "private-company",
@@ -4965,6 +4973,14 @@
     "country": "Russia",
     "parentId": null,
     "note": "Rostov-on-Don businessman; owner of Agrokom Group and president of FC Rostov in 2002-2005 (Donnews persona page). Ukraine's 2024 seizure of his packaging assets is a sanctions action, not a human-rights record under METHOD.md."
+  },
+  {
+    "id": "iveco-group-nv",
+    "name": "Iveco Group N.V.",
+    "type": "listed-company",
+    "country": "Netherlands",
+    "parentId": null,
+    "note": "Commercial-vehicle group behind the Iveco brand. Exor N.V. reports 27.1% economic rights and 43.2% voting rights as of 30 June 2026 (exor.com holdings page)."
   },
   {
     "id": "iyi-finans",
@@ -10523,6 +10539,14 @@
     "note": "French private-hospital group founded in 2009 by Daniel Caille. Its controlling shareholder is Vivalto Partners (Daniel Caille's management company), alongside institutional investors (IK Partners, MACSF, Bpifrance, Mubadala, Arkéa Capital, Groupe Crédit Agricole, BNPP), more than 1,200 doctor shareholders and employee shareholders. The investors' stakes aren't published; the supervisory board includes representatives of the institutional shareholders."
   },
   {
+    "id": "vmoto-limited",
+    "name": "Vmoto Limited",
+    "type": "listed-company",
+    "country": "Australia",
+    "parentId": null,
+    "note": "Australian-listed electric two-wheeler maker (ASX: VMT), the company's own investor page confirms the listing; substantial holders not researched here."
+  },
+  {
     "id": "vodafone-espana-sau",
     "name": "Vodafone España S.A.U. (Vodafone Spain)",
     "type": "private-company",
@@ -10660,6 +10684,14 @@
     "parentId": null,
     "note": "Named from the sponsorship context; an ownership source (filing/annual report) has not yet been opened.",
     "country": "US"
+  },
+  {
+    "id": "white-sro",
+    "name": "White SRO",
+    "type": "private-company",
+    "country": "Slovakia",
+    "parentId": null,
+    "note": "Kosice company; sole legal owner of the Velocifero trademark per Velocifero's own legal notice. Its own shareholding is not published anywhere I could reach."
   },
   {
     "id": "whitebit-group",
