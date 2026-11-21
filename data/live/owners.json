@@ -9829,6 +9829,14 @@
     "note": "Holds The Quartz Corp AS; ownership shared between the French industrial group Imerys and Norway's Norsk Mineral AS."
   },
   {
+    "id": "the-walt-disney-company",
+    "name": "The Walt Disney Company",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US",
+    "note": "US media company; Walt Disney World Resort is one of its own domestic theme parks (walt-disney-world-owner-record). Its 2026 proxy statement (DEF 14A) names The Vanguard Group (8.5%) and BlackRock, Inc. (6.9%) as its only shareholders above 5% (the-walt-disney-company-ownership)."
+  },
+  {
     "id": "the-wonderful-company",
     "name": "The Wonderful Company LLC",
     "type": "private-company",
@@ -10664,9 +10672,10 @@
   {
     "id": "walt-disney-world-owner",
     "name": "Walt Disney World Resort",
-    "type": "listed-company",
-    "parentId": null,
-    "note": "jersey patch partner of orlando-magic (2026-27).",
+    "type": "unknown",
+    "parentId": "the-walt-disney-company",
+    "via": "one of The Walt Disney Company's own domestic theme parks",
+    "note": "Theme-resort destination in Orlando, Florida; one of The Walt Disney Company's own domestic theme parks (walt-disney-world-owner-record). Jersey patch partner of orlando-magic (2026-27).",
     "country": "US"
   },
   {
