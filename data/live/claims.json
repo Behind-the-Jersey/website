@@ -2224,6 +2224,70 @@
     "reviewed": false
   },
   {
+    "id": "apple-inc-shareholders",
+    "kind": "ownership",
+    "ownerIds": [
+      "apple-inc"
+    ],
+    "text": "Apple Inc. is listed on the Nasdaq Stock Market. Its 2026 proxy statement, under 'Security Ownership of Certain Beneficial Owners and Management', lists only two persons known to Apple to beneficially own more than 5% of its common stock as of January 2, 2026: The Vanguard Group (9.63%) and BlackRock, Inc. (7.10%), each based on a Schedule 13G/A filing with the SEC.",
+    "short": "Apple's 2026 proxy statement lists The Vanguard Group (9.63%) and BlackRock, Inc. (7.10%) as the only shareholders above 5%.",
+    "source": {
+      "name": "Apple Inc. 2026 Proxy Statement (DEF 14A), Security Ownership of Certain Beneficial Owners and Management (SEC EDGAR, filed 2026-01-08)",
+      "date": "2026-01-08",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000130817926000008/aapl014016-def14a.htm",
+      "quote": "The Vanguard Group 1,415,826,462 (2) 9.63% BlackRock, Inc. 1,043,713,019 (3) 7.10%",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "AI Funding Tracker (Sheldon Blake): Who Owns Apple in 2026? Largest Shareholders Explained",
+        "date": "2026-09-20",
+        "url": "https://aifundingtracker.com/who-owns-apple/",
+        "quote": "No single person or company owns Apple. The Vanguard Group is the largest shareholder with 9.63% of common stock as of January 2026, followed by BlackRock at 7.10%.",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
+    "id": "apple-uyghur-labour-transfers-2025",
+    "kind": "record",
+    "ownerIds": [
+      "apple-inc"
+    ],
+    "text": "A May 2025 joint investigation by The Bureau of Investigative Journalism, The New York Times and Der Spiegel reported that more than a hundred consumer brands, 'from Apple to Volkswagen', can be tied to factories using Uyghur and other ethnic minority workers recruited through a system international authorities call forced labour. Apple said its suppliers are regularly independently audited, that recent audits found no instances of forced labour, and that it is investigating the alleged link.",
+    "short": "TBIJ/NYT/Der Spiegel's May 2025 investigation reported that more than a hundred consumer brands, 'from Apple to Volkswagen', can be tied to factories using transferred Uyghur workers.",
+    "source": {
+      "name": "The Bureau of Investigative Journalism (Daniel Murphy): China's economy runs on Uyghur forced labour",
+      "date": "2025-05-29",
+      "url": "https://www.thebureauinvestigates.com/stories/2025-05-29/chinas-economy-runs-on-uyghur-forced-labour",
+      "quote": "More than a hundred consumer brands – from Apple to Volkswagen– can be tied to the tainted trade",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "Business and Human Rights Centre: China: Over 100 global brands linked to factories using Uyghur workers recruited through state-imposed forced transfer programme, finds investigation",
+        "date": "2025-06-19",
+        "url": "https://www.business-humanrights.org/en/latest-news/china-over-100-global-brands-linked-to-factories-using-uyghur-workers-recruited-through-state-imposed-forced-transfer-programme-finds-investigation-incl-cos-comments-cos-non-response/",
+        "quote": "Over 100 consumer brands are linked to the factories, including Apple, Volkswagen, LG Electronics",
+        "checked": {
+          "on": "2026-10-03",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
+    "reviewed": false
+  },
+  {
     "id": "aprilia-piaggio-ownership",
     "kind": "ownership",
     "ownerIds": [
@@ -12220,7 +12284,7 @@
     "ownerIds": [
       "ford-motor-company"
     ],
-    "text": "The Oracle Red Bull Racing front-of-car branding is Ford Motor Company (NYSE: F), the Dearborn automaker. Ford is publicly listed but not ownerless: the Ford family holds the super-voting Class B stock disclosed in the company's proxy's Class B beneficial ownership table, so control is family-anchored while the economic float is public. No state stake; human-rights relevance is ordinary manufacturing and battery-minerals supply-chain exposure.",
+    "text": "The Oracle Red Bull Racing front-of-car branding is Ford Motor Company (NYSE: F), the Dearborn automaker. Ford is publicly listed but not ownerless: the Ford family holds the super-voting Class B stock disclosed in the company's proxy's Class B beneficial ownership table, so control is family-anchored while the economic float is public.",
     "short": "The Oracle Red Bull Racing front-of-car branding is Ford Motor Company (NYSE: F), the Dearborn automaker.",
     "source": {
       "name": "Ford Motor Company DEF 14A proxy statement (SEC)",
@@ -12232,6 +12296,18 @@
         "by": "source-audit-2026-09-26"
       }
     },
+    "additionalSources": [
+      {
+        "name": "Forbes (Bill Koenig): Ford Family Extends Influence On Automaker",
+        "date": "2023-09-27",
+        "url": "https://www.forbes.com/sites/billkoenig/2023/09/27/ford-family-extends-influence-on-automaker/",
+        "quote": "Dearborn, Michigan-based Ford went public in 1956. But the family retained 40% voting control through a special class of stock.",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -20070,6 +20146,39 @@
         "by": "Schnitzel"
       }
     },
+    "reviewed": false
+  },
+  {
+    "id": "marquez-brothers-family-owned",
+    "kind": "ownership",
+    "ownerIds": [
+      "marquez-brothers-international"
+    ],
+    "text": "Marquez Brothers International, Inc., owner of the El Mexicano Brand (per its CEO's statement in LAFC's announcement), is a family-owned company founded in 1981; Gustavo Marquez Jr. is its CEO and President.",
+    "short": "Marquez Brothers International, Inc., owner of the El Mexicano Brand, is a family-owned company founded in 1981.",
+    "source": {
+      "name": "Perishable News: Marquez Brothers International, Inc's. Brands Win Best of Class for Cheese and Yogurt at 2026 World Championship Cheese Contest",
+      "date": "2026-03-17",
+      "url": "https://perishablenews.com/dairy/marquez-brothers-international-incs-brands-win-best-of-class-for-cheese-and-yogurt-at-2026-world-championship-cheese-contest/",
+      "quote": "Marquez Brothers International, Inc. (MBI) is a family-owned company and a leading producer of authentic Hispanic dairy products in the United States.",
+      "note": "Company-issued press release carried by the trade outlet Perishable News; the page also quotes 'Gustavo Marquez JR CEO / President of Marquez Brothers'.",
+      "checked": {
+        "on": "2026-10-03",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
+    },
+    "additionalSources": [
+      {
+        "name": "LAFC – LAFC Announces El Mexicano Brand as Club's First-Ever Back-of-Kit Partner",
+        "date": "2026-07-31",
+        "url": "https://www.lafc.com/news/lafc-announces-el-mexicano-brand-as-club-s-first-ever-back-of-kit-partner",
+        "quote": "said Gustavo Marquez Jr., CEO of Marquez Brothers International, Inc., owner of El Mexicano® Brand",
+        "checked": {
+          "on": "2026-10-04",
+          "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+        }
+      }
+    ],
     "reviewed": false
   },
   {
@@ -31963,6 +32072,25 @@
     "reviewed": false
   },
   {
+    "id": "the-walt-disney-company-ownership",
+    "kind": "ownership",
+    "ownerIds": [
+      "the-walt-disney-company"
+    ],
+    "text": "The Walt Disney Company's 2026 proxy statement names The Vanguard Group (8.5%) and BlackRock, Inc. (6.9%) as the only holders of more than 5% of its common stock, and states that no other person or entity is the beneficial owner of more than 5% of its voting power.",
+    "source": {
+      "name": "Walt Disney Co DEF 14A 2026 (SEC)",
+      "date": "2026-01-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm",
+      "quote": "The Vanguard Group 100 Vanguard Blvd. Malvern, PA 19355 151,434,588 1 8.5% Blackrock, Inc. 55 East 52nd Street New York, NY 10055 122,883,021 2 6.9%",
+      "checked": {
+        "on": "2026-10-02",
+        "by": "btj-scout-1021"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "thoma-bravo-record",
     "ownerIds": [
       "thoma-bravo"
@@ -34572,15 +34700,15 @@
     "ownerIds": [
       "walt-disney-world-owner"
     ],
-    "text": "The Walt Disney Company is a NYSE-listed public company with no state shareholder; its largest disclosed holders are The Vanguard Group (~8.5%) and BlackRock, Inc. (~6.9%). Walt Disney World Resort is one of the Company's own theme park properties, not its owner.",
+    "text": "Walt Disney World Resort is one of The Walt Disney Company's own domestic theme parks.",
     "source": {
       "name": "Walt Disney Co DEF 14A 2026 (SEC)",
       "date": "2026-01-22",
       "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm",
-      "quote": "To our knowledge, except as noted below, no person or entity is the beneficial owner of more than 5% of the voting power of the Company’s stock.",
+      "quote": "For our domestic theme parks, Disneyland Resort and Walt Disney World Resort, this includes pages on the Disability Access Service program",
       "checked": {
-        "on": "2026-09-26",
-        "by": "source-audit-2026-09-26"
+        "on": "2026-10-02",
+        "by": "BigBossRabbit"
       }
     },
     "reviewed": false

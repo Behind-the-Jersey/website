@@ -1907,12 +1907,14 @@
     "status": "unrated",
     "verdict": null,
     "claimIds": [
-      "apple-inc-record"
+      "apple-inc-record",
+      "apple-inc-shareholders",
+      "apple-uyghur-labour-transfers-2025"
     ],
     "aliases": [
       "Apple TV+"
     ],
-    "note": "League-wide sleeve-patch sponsor of MLS; the patch sits on the left sleeve of every club's first-team kit."
+    "note": "League-wide sleeve-patch sponsor of MLS; the patch sits on the left sleeve of every club's first-team kit. Apple Inc. is Nasdaq-listed; its 2026 proxy lists Vanguard (9.63%) and BlackRock (7.10%) as the only holders above 5% (claim apple-inc-shareholders); no state in the chain. Record lead: the May 2025 TBIJ/NYT/Der Spiegel investigation ties 'from Apple to Volkswagen' to factories using transferred Uyghur workers (claim apple-uyghur-labour-transfers-2025, with Apple's response recorded there); the same investigation named Midea, whose sponsor record is rated none under this dataset's method, while Dongfeng's comparable record claim is held for maintainer review. Maintainer decision needed on whether the Apple record claim supports concern."
   },
   {
     "id": "aprilia",
@@ -8089,10 +8091,11 @@
     "status": "unrated",
     "verdict": null,
     "claimIds": [
-      "marquez-brothers-el-mexicano-owner"
+      "marquez-brothers-el-mexicano-owner",
+      "marquez-brothers-family-owned"
     ],
     "aliases": [],
-    "note": "LAFC's first-ever back-of-kit partner, from the 2026 MLS season."
+    "note": "LAFC's first-ever back-of-kit partner, from the 2026 MLS season. Owned by Marquez Brothers International, Inc. (claim marquez-brothers-el-mexicano-owner), a company of the Marquez family: family-owned, founded in 1981, with Gustavo Marquez Jr. as CEO (claim marquez-brothers-family-owned). No state stake found; nothing else found. Proposed tier: none (see PR)."
   },
   {
     "id": "elba-cookers",
@@ -26341,14 +26344,19 @@
     "name": "Walt Disney World Resort",
     "ownerId": "walt-disney-world-owner",
     "ownership": "owned",
-    "tier": "none",
-    "status": "rated",
-    "verdict": "Owned by Walt Disney World Resort. Nothing found.",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
     "claimIds": [
-      "walt-disney-world-owner-record"
+      "walt-disney-world-owner-record",
+      "the-walt-disney-company-ownership"
     ],
-    "aliases": [],
-    "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+    "aliases": [
+      "Walt Disney World",
+      "Disney World",
+      "Disney"
+    ],
+    "note": "Rating note: the ownership chain is sourced — Walt Disney World Resort is one of The Walt Disney Company's own domestic theme parks (walt-disney-world-owner-record, SEC DEF 14A 2026), and the same proxy names The Vanguard Group (8.5%) and BlackRock, Inc. (6.9%) as the only holders above 5% (the-walt-disney-company-ownership); no state or state fund appears in the chain. Held unrated for a person before any none rating. Two items need a person's call against METHOD.md's company test: (1) the UK House of Commons Business, Energy and Industrial Strategy Committee's 2021 report 'Uyghur forced labour in Xinjiang and UK value chains' states that Disney partnered on the filming of Mulan in Xinjiang, thanked the Turpan security bureau and the CPC Xinjiang publicity department in the film's credits, and that Disney's response to the committee's questions 'failed to address this urgent question' (https://committees.parliament.uk/publications/5095/documents/52855/default); (2) China Labor Watch's June 2016 undercover investigation 'The Dark World of Disney' found workers at two Disney-authorised toy supplier factories in Dongguan forced to work overtime every day and exposed to toxic chemicals without protective equipment (https://chinalaborwatch.org/wp-content/uploads/2021/04/The-Dark-World-of-Disney.pdf). Neither is a court, regulator, UN-body or major-NGO finding against the company itself of the kind METHOD.md requires, but a person should decide before this sponsor goes back to none."
   },
   {
     "id": "wanshi-zhenshui",

@@ -5448,6 +5448,27 @@
     "note": "Jersey patch. The $5m-a-year figure is a press report: Front Office Sports, citing Sports Business Journal."
   },
   {
+    "id": "citroen-racing-hrx-racewear-2027",
+    "clubId": "citroen-racing",
+    "orgName": null,
+    "sponsorId": "hrx",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Citroën Racing / Stellantis Media — HRX racewear partnership ahead of season 2027",
+      "date": "2026-11-09",
+      "url": "https://www.media.stellantis.com/em-en/citroen-racing/press/citroen-racing-announces-its-new-partnership-with-italian-racewear-supplier-hrx-ahead-of-season-2027",
+      "quote": "Citroën Racing Formula E Team welcomes HRX as a new partner ahead of new season 2027 of the ABB FIA Formula E World Championship.",
+      "checked": {
+        "on": "2026-11-10",
+        "by": "BigBossRabbit"
+      }
+    },
+    "note": "Racewear partnership announced ahead of the 2027 Formula E season. The release says HRX developed racing suits for the team. Exact contract start, end and value are not stated; no clothing logo position or complete kit sponsor list is asserted."
+  },
+  {
     "id": "city-etihad",
     "clubId": "manchester-city",
     "orgName": null,
@@ -15965,15 +15986,20 @@
     "orgName": "Kia America",
     "sponsorId": "kia-america",
     "placement": "stadium",
-    "from": null,
+    "from": "2023-12",
     "to": null,
     "value": null,
     "source": {
       "name": "Kia Media (Kia America press release)",
       "date": "2023-12-20",
-      "url": "https://kiamedia.com/us/en/media/pressreleases/21588/orlandos-premier-downtown-sports-and-entertainment-destination-to-be-renamed-kia-center"
+      "url": "https://kiamedia.com/us/en/media/pressreleases/21588/orlandos-premier-downtown-sports-and-entertainment-destination-to-be-renamed-kia-center",
+      "quote": "Starting December 20, 2023, the Amway Center will take on the new name.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Arena naming rights: Kia Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-12-20."
+    "note": "Arena naming rights: Kia Center. Renaming takes effect 2023-12-20; term length not disclosed in the release."
   },
   {
     "id": "orlando-magic-walt-disney-world-patch",
@@ -15987,9 +16013,14 @@
     "source": {
       "name": "Orlando Magic (nba.com/magic)",
       "date": "2022-10-26",
-      "url": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-resort-community-sponsorship-agreement-logo-jersey-patch-release-20221026"
+      "url": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-resort-community-sponsorship-agreement-logo-jersey-patch-release-20221026",
+      "quote": "Disney became a Champion of the Community sponsor with the Magic in 2010 and the official Magic jersey sponsor in 2017.",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+      }
     },
-    "note": "Jersey patch."
+    "note": "Jersey patch. Reported in the 2017 announcement and again at the 2022 renewal; no value disclosed."
   },
   {
     "id": "osasuna-celer-lighting",

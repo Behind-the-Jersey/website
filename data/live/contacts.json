@@ -7136,22 +7136,61 @@
         "type": "x",
         "value": "@OrlandoMagic",
         "source": {
-          "name": "Club website contact page",
+          "name": "Club website",
           "url": "https://www.nba.com/magic/",
-          "date": "2026-09-24"
+          "date": "2026-10-01"
         }
       },
       {
         "type": "instagram",
         "value": "@orlandomagic",
         "source": {
-          "name": "Club website contact page",
+          "name": "Club website",
           "url": "https://www.nba.com/magic/",
-          "date": "2026-09-24"
+          "date": "2026-10-01"
+        }
+      },
+      {
+        "type": "facebook",
+        "value": "OrlandoMagic",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.nba.com/magic/",
+          "date": "2026-10-01"
+        }
+      },
+      {
+        "type": "email",
+        "value": "help@orlandomagic.com",
+        "label": "Fan Experience team",
+        "source": {
+          "name": "Orlando Magic (nba.com/magic)",
+          "url": "https://www.nba.com/magic/frequently-asked-questions",
+          "date": "2026-10-01",
+          "quote": "Contact the Fan Experience team if you need additional help at 407-89-MAGIC and press '4', or email us at help@orlandomagic.com.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+          }
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.nba.com/magic/frequently-asked-questions",
+        "label": "Frequently Asked Questions — club-published answers and routes to the Fan Experience team",
+        "source": {
+          "name": "Orlando Magic (nba.com/magic)",
+          "url": "https://www.nba.com/magic/frequently-asked-questions",
+          "date": "2026-10-01",
+          "quote": "Can I contact the Orlando Magic via email? Email your questions to help@OrlandoMagic.com at any time to receive support response within one business day.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "lastChecked": "2026-09-24"
+    "lastChecked": "2026-10-01"
   },
   {
     "clubId": "osasuna",
@@ -7316,16 +7355,16 @@
     "channels": [
       {
         "type": "contact-form",
-        "value": "https://www.philadelphiaeagles.com/footer/contact-us/",
-        "label": "Contact page / fan feedback",
+        "value": "https://forms.philadelphiaeagles.com/f/general-contact",
+        "label": "General / fan feedback form",
         "source": {
           "name": "Philadelphia Eagles (philadelphiaeagles.com) – Contact Us",
           "url": "https://www.philadelphiaeagles.com/footer/contact-us/",
-          "date": "2026-10-01",
+          "date": "n.d.",
           "quote": "GENERAL / FAN FEEDBACK",
           "checked": {
-            "on": "2026-10-01",
-            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+            "on": "2026-10-25",
+            "by": "BigBossRabbit"
           }
         }
       },
