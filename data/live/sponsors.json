@@ -8398,9 +8398,12 @@
     "tier": "unrated",
     "status": "being-rated",
     "verdict": "Eni S.p.A.",
-    "claimIds": [],
+    "claimIds": [
+      "eni-spa-record",
+      "eni-climate-suit"
+    ],
     "aliases": [],
-    "note": "Rating note: Kept at serious rather than severe: Eni is a state oil major with conflict-zone assets but is not itself a belligerent or a Russian state entity. ON HOLD: a 33% Italian state stake, no sourced claim of abuses by that owner, and the conflict-exposure sentence had no source."
+    "note": "Reviewed 2026-10-06 (#183). Ownership link cited from eni-spa-record (Eni's shareholder page + US State Department, independent publishers; also the claim plenitude and enilive cite). The precise stake is documented on eni-record, quote-checked against two primary filings: Eni's 2026 AGM filing (MEF holding directly 2.166% and indirectly 30.918% through Cassa Depositi e Prestiti, itself 82.77% MEF-owned - 33.084% in total) and Eni's Form 20-F FY2025 Item 7 (\"The Ministry of Economy and Finance controls Eni\"). The concern tier proposed in the PR was rejected by review: a tier needs a qualifying record - Italy has no sourced record of serious abuses covered by METHOD.md (state ownership alone is not a tier; the part-state precedents cited, lenovo/noon/g42 etc., are states with such records), and the Greenpeace/ReCommon suit is pending and is a climate claim, which the method excludes. eni-climate-suit (pending, not a finding) is kept as evidence for a maintainer. Unresolved company-record question for a maintainer (oil-and-gas major test): the same 20-F (commitments and contingencies, F-90/F-91) discloses the Trissino-site clean-up dispute, where the Province of Vicenza's analysis with the Istituto Superiore di Sanità reported highly toxic and carcinogenic substances in the blood of about 53,000 people in the area, and the Regional Administrative Court's ruling of 27 December 2024 rejected Eni Rewind's appeal (EniChem's successor and MITENI's majority shareholder), confirming the Province's identification measures of the parties responsible for the pollution - Eni has appealed; not yet assessed or claimed against the company-record test."
   },
   {
     "id": "enif",

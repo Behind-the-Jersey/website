@@ -1,44 +1,21 @@
 # data/live
 
-Release `data-2026-11-20-849ecedd` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `849ecedd`, data updated 2026-11-20. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
+Release `data-2026-11-23-8b70c5f8` of [Behind-the-Jersey/data](https://github.com/Behind-the-Jersey/data), built from `8b70c5f8`, data updated 2026-11-23. Written by `npm run data:live`; don't edit these files by hand: fix the data repo and pull a new release.
 
-Compared with the data it replaces (`84ff9d08`, updated 2026-11-03):
+Compared with the data it replaces (`849ecedd`, updated 2026-11-20):
 
 | | clubs | kits | sponsors | owners | claims | deals | contacts |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| before | 594 | 569 | 1808 | 1417 | 1393 | 1187 | 230 |
-| after | 594 | 569 | 1808 | 1418 | 1397 | 1188 | 230 |
+| before | 594 | 569 | 1808 | 1418 | 1397 | 1188 | 230 |
+| after | 594 | 569 | 1808 | 1418 | 1398 | 1188 | 230 |
 
-## Club levels that change (2)
+## Claims added (1)
 
-- [Denver Broncos](https://behind-the-jersey.org/clubs/denver-broncos/) (NFL): Clean → **Not rated yet**
-- [Orlando Magic](https://behind-the-jersey.org/clubs/orlando-magic/) (NBA): Clean → **Not rated yet**
+- eni-climate-suit: Greenpeace Onlus, ReCommon APS and 12 private citizens summoned Eni, the Italian Ministry of Economy and Finance (MEF) and Cassa Depositi e Prestiti (CDP) before the Civil Court of Rome on May 9, 2023, alleging climate-change responsibility and seeking a revision of Eni's decarbonisation strategy. Eni discloses the case in the commitments-and-contingencies section of its Form 20-F for fiscal year 2025; Eni, the MEF and CDP are all defendants. It is a pending suit, not a court finding.
 
-## Sponsor ratings that change (1)
+## Claims edited (1)
 
-- Walt Disney World Resort: none (rated) → **unrated** (unrated)
-
-## Owners added (1)
-
-- The Walt Disney Company (the-walt-disney-company)
-
-## Claims added (4)
-
-- apple-inc-shareholders: Apple Inc. is listed on the Nasdaq Stock Market. Its 2026 proxy statement, under 'Security Ownership of Certain Beneficial Owners and Management', lists only two persons known to Apple to beneficially own more than 5% of its common stock as of January 2, 2026: The Vanguard Group (9.63%) and BlackRock, Inc. (7.10%), each based on a Schedule 13G/A filing with the SEC.
-- apple-uyghur-labour-transfers-2025: A May 2025 joint investigation by The Bureau of Investigative Journalism, The New York Times and Der Spiegel reported that more than a hundred consumer brands, 'from Apple to Volkswagen', can be tied to factories using Uyghur and other ethnic minority workers recruited through a system international authorities call forced labour. Apple said its suppliers are regularly independently audited, that recent audits found no instances of forced labour, and that it is investigating the alleged link.
-- marquez-brothers-family-owned: Marquez Brothers International, Inc., owner of the El Mexicano Brand (per its CEO's statement in LAFC's announcement), is a family-owned company founded in 1981; Gustavo Marquez Jr. is its CEO and President.
-- the-walt-disney-company-ownership: The Walt Disney Company's 2026 proxy statement names The Vanguard Group (8.5%) and BlackRock, Inc. (6.9%) as the only holders of more than 5% of its common stock, and states that no other person or entity is the beneficial owner of more than 5% of its voting power.
-
-## Claims edited (2)
-
-- ford-motor-company-record: The Oracle Red Bull Racing front-of-car branding is Ford Motor Company (NYSE: F), the Dearborn automaker. Ford is publicly listed but not ownerless: the Ford family holds the super-voting Class B stock disclosed in the company's proxy's Class B beneficial ownership table, so control is family-anchored while the economic float is public.
-- walt-disney-world-owner-record: Walt Disney World Resort is one of The Walt Disney Company's own domestic theme parks.
-
-## Clubs whose kits change (3)
-
-- [Cincinnati Bengals](https://behind-the-jersey.org/clubs/cincinnati-bengals/)
-- [Denver Broncos](https://behind-the-jersey.org/clubs/denver-broncos/)
-- [Orlando Magic](https://behind-the-jersey.org/clubs/orlando-magic/)
+- eni-record: Eni S.p.A. is controlled by the Italian state: the Ministry of Economy and Finance (MEF) holds 2.166% of the share capital directly and a further 30.918% through Cassa Depositi e Prestiti S.p.A. (itself 82.77% MEF-owned) - 33.084% in total. Eni's 2026 AGM filing states the MEF stake; Eni's Form 20-F for fiscal year 2025 states that the Ministry of Economy and Finance controls Eni (major-shareholders table as of March 11, 2026) and describes the Italian State's statutory special powers over Eni as a privatized strategic company (the 2012 'Golden Power Decree').
 
 ## Warnings (70)
 
