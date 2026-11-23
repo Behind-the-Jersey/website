@@ -10004,12 +10004,12 @@
         "placement": "training-kit",
         "source": {
           "name": "Zoomph (2026 NFL practice jersey patch guide)",
-          "date": "2026-09-01",
+          "date": "2025-11-03",
           "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/",
           "quote": "The long-term relationship between Fifth Third Bank and the Bengals extends onto the field — blending local economic roots with national visibility.",
           "checked": {
-            "on": "2026-10-01",
-            "by": "btj-researcher (OpenCode, model glm-5.3-flash-uncensored-fp8, run by @Schnitzel)"
+            "on": "2026-10-23",
+            "by": "BigBossRabbit"
           }
         }
       }
@@ -11554,7 +11554,7 @@
         }
       }
     ],
-    "sponsorsComplete": true,
+    "sponsorsComplete": false,
     "summary": "Practice-jersey patch: Children's Hospital Colorado.",
     "change": null
   },
@@ -25027,12 +25027,17 @@
         "source": {
           "name": "Orlando Magic (nba.com/magic)",
           "date": "2022-10-26",
-          "url": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-resort-community-sponsorship-agreement-logo-jersey-patch-release-20221026"
+          "url": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-resort-community-sponsorship-agreement-logo-jersey-patch-release-20221026",
+          "quote": "The Disney name will continue to appear on the front left of the jersey and measure about 2½ by 2½ inches.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model mimo-v2.6-flash-rl-uncensored-fp8, run by @Schnitzel)"
+          }
         }
       }
     ],
-    "sponsorsComplete": true,
-    "summary": "Jersey patch: Walt Disney World Resort.",
+    "sponsorsComplete": false,
+    "summary": "Jersey patch: Walt Disney World Resort — the club's 2022 renewal release says the Disney name appears on the front left of the jersey and measures about 2½ by 2½ inches. sponsorsComplete is false because other 2026-27 shirt placements have not been checked, so the sponsor list may be incomplete.",
     "change": null
   },
   {
