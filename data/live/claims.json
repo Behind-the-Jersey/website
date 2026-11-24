@@ -10674,6 +10674,27 @@
     "reviewed": false
   },
   {
+    "id": "eni-climate-suit",
+    "kind": "record",
+    "ownerIds": [
+      "eni"
+    ],
+    "text": "Greenpeace Onlus, ReCommon APS and 12 private citizens summoned Eni, the Italian Ministry of Economy and Finance (MEF) and Cassa Depositi e Prestiti (CDP) before the Civil Court of Rome on May 9, 2023, alleging climate-change responsibility and seeking a revision of Eni's decarbonisation strategy. Eni discloses the case in the commitments-and-contingencies section of its Form 20-F for fiscal year 2025; Eni, the MEF and CDP are all defendants. It is a pending suit, not a court finding.",
+    "short": "Eni climate suit (Greenpeace/ReCommon, Rome)",
+    "source": {
+      "name": "Eni S.p.A. Form 20-F for fiscal year 2025, commitments and contingencies (SEC EDGAR, via Wayback capture - sec.gov rejects the checker UA)",
+      "date": "2026-03-23",
+      "url": "http://web.archive.org/web/20260906005921/https://www.sec.gov/Archives/edgar/data/1002242/000155485526000390/e-20251231.htm",
+      "note": "Original: https://www.sec.gov/Archives/edgar/data/1002242/000155485526000390/e-20251231.htm",
+      "quote": "On May 9, 2023, the NGOs Greenpeace Onlus and ReCommon APS, together with 12 private citizens, summoned Eni, the Ministry of Economy and Finance (MEF)",
+      "checked": {
+        "on": "2026-10-06",
+        "by": "BigBossRabbit"
+      }
+    },
+    "reviewed": false
+  },
+  {
     "id": "eni-plenitude-stake",
     "kind": "ownership",
     "ownerIds": [
@@ -10710,13 +10731,31 @@
     "ownerIds": [
       "eni"
     ],
-    "text": "Eni S.p.A. is effectively Italian state-owned: the Ministry of Economy and Finance (MEF) holds 2.166% directly and a further 30.918% indirectly through Cassa Depositi e Prestiti (which is 82.77% MEF-owned) - 33.084% in total, alongside a golden share - per Eni's own shareholder communications to its 2026 AGM.",
+    "text": "Eni S.p.A. is controlled by the Italian state: the Ministry of Economy and Finance (MEF) holds 2.166% of the share capital directly and a further 30.918% through Cassa Depositi e Prestiti S.p.A. (itself 82.77% MEF-owned) - 33.084% in total. Eni's 2026 AGM filing states the MEF stake; Eni's Form 20-F for fiscal year 2025 states that the Ministry of Economy and Finance controls Eni (major-shareholders table as of March 11, 2026) and describes the Italian State's statutory special powers over Eni as a privatized strategic company (the 2012 'Golden Power Decree').",
     "short": "Eni S.p.A.",
     "source": {
       "name": "Eni S.p.A. - Proposals of the Shareholder Ministry of the Economy and Finance (AGM 2026 filing)",
       "date": "2026-04-10",
-      "url": "https://www.eni.com/content/dam/enicom/documents/eng/governance/shareholders-meetings/2026/Proposals-of-Shareholder-Ministry-of-the-Economy-and-Finance-in-relation-to-item-6-7-and-10-of-the-agenda.pdf"
+      "url": "https://www.eni.com/content/dam/enicom/documents/eng/governance/shareholders-meetings/2026/Proposals-of-Shareholder-Ministry-of-the-Economy-and-Finance-in-relation-to-item-6-7-and-10-of-the-agenda.pdf",
+      "quote": "holding directly 2.166% of Eni’s share capital and, indirectly another 30.918% through Cassa Depositi e Prestiti S.p.A. (in which MEF holds the 82.77% of share capital)",
+      "checked": {
+        "on": "2026-10-06",
+        "by": "BigBossRabbit"
+      }
     },
+    "additionalSources": [
+      {
+        "name": "Eni S.p.A. Form 20-F for fiscal year 2025, Item 7 Major Shareholders (SEC EDGAR, via Wayback capture - sec.gov rejects the checker UA)",
+        "date": "2026-03-23",
+        "url": "http://web.archive.org/web/20260906005921/https://www.sec.gov/Archives/edgar/data/1002242/000155485526000390/e-20251231.htm",
+        "note": "Original: https://www.sec.gov/Archives/edgar/data/1002242/000155485526000390/e-20251231.htm",
+        "quote": "The Ministry of Economy and Finance controls Eni as a result of the shares directly owned and those indirectly owned through Cassa Depositi e Prestiti SpA",
+        "checked": {
+          "on": "2026-10-06",
+          "by": "BigBossRabbit"
+        }
+      }
+    ],
     "reviewed": false
   },
   {

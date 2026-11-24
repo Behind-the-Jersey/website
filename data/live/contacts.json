@@ -2759,17 +2759,17 @@
         }
       },
       {
-        "type": "email",
-        "value": "tickets@dallasmavs.com",
-        "label": "Ticket disputes (per the club's ticket terms)",
+        "type": "website",
+        "value": "https://www.nba.com/mavs/frequently-asked-questions",
+        "label": "Fan FAQ and general team contact number",
         "source": {
-          "name": "Dallas Mavericks: Ticket terms",
-          "url": "https://www.nba.com/mavs/ticketterms",
-          "date": "2026-10-01",
-          "quote": "If the Holder has a dispute, they shall send the Dispute Notice to tickets@dallasmavs.com.",
+          "name": "Dallas Mavericks: Frequently Asked Questions (undated; accessed 2026-10-24)",
+          "url": "https://www.nba.com/mavs/frequently-asked-questions",
+          "date": "",
+          "quote": "Dallas Mavericks - 214.747.MAVS",
           "checked": {
-            "on": "2026-10-01",
-            "by": "btj-researcher (OpenCode, model deepseek-v4.1-flash-uncensored-fp8, run by @Schnitzel)"
+            "on": "2026-10-24",
+            "by": "BigBossRabbit"
           }
         }
       },
@@ -2792,7 +2792,7 @@
         }
       }
     ],
-    "lastChecked": "2026-10-01"
+    "lastChecked": "2026-10-24"
   },
   {
     "clubId": "darmstadt-98",
