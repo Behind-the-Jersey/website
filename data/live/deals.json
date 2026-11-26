@@ -17853,9 +17853,14 @@
     "to": null,
     "value": null,
     "source": {
-      "name": "Sports Business Journal",
+      "name": "Sutter Health Vitals: Sacramento Kings and Sutter Health Announce Strategic Partnership",
       "date": "2026-05-12",
-      "url": "https://sportsbusinessjournal.com/Articles/2026/05/12/sacramento-kings-name-sutter-health-jersey-patch-sponsor"
+      "url": "https://vitals.sutterhealth.org/sacramento-kings-and-sutter-health-announce-strategic-partnership/",
+      "quote": "As part of the collaboration, Sutter Health will become the official healthcare partner, with physicians serving as the team's doctors, the Kings official jersey patch partner",
+      "checked": {
+        "on": "2026-10-01",
+        "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+      }
     },
     "note": "Jersey patch."
   },

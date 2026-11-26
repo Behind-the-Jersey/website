@@ -29943,9 +29943,14 @@
         "sponsorId": "sutter-health",
         "placement": "patch",
         "source": {
-          "name": "Sports Business Journal",
+          "name": "Sutter Health Vitals: Sacramento Kings and Sutter Health Announce Strategic Partnership",
           "date": "2026-05-12",
-          "url": "https://sportsbusinessjournal.com/Articles/2026/05/12/sacramento-kings-name-sutter-health-jersey-patch-sponsor"
+          "url": "https://vitals.sutterhealth.org/sacramento-kings-and-sutter-health-announce-strategic-partnership/",
+          "quote": "Beginning in the 2026-27 NBA season, Sutter Health's logo will appear on all Kings jerseys as the team's official jersey patch partner.",
+          "checked": {
+            "on": "2026-10-01",
+            "by": "btj-researcher (OpenCode, model kimi-k3-abliterated, run by @Schnitzel)"
+          }
         }
       }
     ],
